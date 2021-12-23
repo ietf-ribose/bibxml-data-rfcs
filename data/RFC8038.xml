@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8038" target="https://www.rfc-editor.org/info/rfc8038">
+  <front>
+    <title>Exporting MIB Variables Using the IP Flow Information Export (IPFIX) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8038"/>
+    <author fullname="P. Aitken"/>
+    <author fullname="B. Claise"/>
+    <author fullname="S. B S"/>
+    <author fullname="C. McDowall"/>
+    <author fullname="J. Schoenwaelder"/>
+    <date year="2017" month="May" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>IPFIX</keyword>
+    <keyword>MIB</keyword>
+    <keyword>SNMP</keyword>
+    <abstract>This document specifies a way to complement IP Flow Information Export (IPFIX) Data Records with Management Information Base (MIB) objects, avoiding the need to define new IPFIX Information Elements for existing MIB objects that are already fully specified. Two IPFIX Options Templates, as well as a method for creating IPFIX Options Templates that are used to export the extra data required to fully describe Simple Network Management Protocol (SNMP) MIB objects in IPFIX, are specified herein.</abstract>
+  </front>
+</reference>

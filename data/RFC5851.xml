@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC5851" target="https://www.rfc-editor.org/info/rfc5851">
+  <front>
+    <title>Framework and Requirements for an Access Node Control Mechanism in Broadband Multi-Service Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5851"/>
+    <author fullname="S. Ooghe"/>
+    <author fullname="N. Voigt"/>
+    <author fullname="M. Platnic"/>
+    <author fullname="T. Haag"/>
+    <author fullname="S. Wadhwa"/>
+    <date year="2010" month="May" day="1"/>
+    <workgroup>ancp</workgroup>
+    <keyword>Access Node Control Protocol</keyword>
+    <keyword>Topology Discovery</keyword>
+    <keyword>Loop Configuration</keyword>
+    <keyword>Remote Connectivity Test</keyword>
+    <keyword>Multicast</keyword>
+    <keyword>Access Node</keyword>
+    <keyword>Network Access Server</keyword>
+    <abstract>The purpose of this document is to define a framework for an Access Node Control Mechanism between a Network Access Server (NAS) and an Access Node (e.g., a Digital Subscriber Line Access Multiplexer (DSLAM)) in a multi-service reference architecture in order to perform operations related to service, quality of service, and subscribers. The Access Node Control Mechanism will ensure that the transmission of the information does not need to go through distinct element managers but rather uses a direct device-device communication. This allows for performing access-link-related operations within those network elements, while avoiding impact on the existing Operational Support Systems. This document first identifies a number of use cases for which the Access Node Control Mechanism may be appropriate. It then presents the requirements for the Access Node Control Protocol (ANCP) that must be taken into account during protocol design. Finally, it describes requirements for the network elements that need to support ANCP and the described use cases. These requirements should be seen as guidelines rather than as absolute requirements. RFC 2119 therefore does not apply to the nodal requirements. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

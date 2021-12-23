@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6124" target="https://www.rfc-editor.org/info/rfc6124">
+  <front>
+    <title>An EAP Authentication Method Based on the Encrypted Key Exchange (EKE) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6124"/>
+    <author fullname="Y. Sheffer"/>
+    <author fullname="G. Zorn"/>
+    <author fullname="H. Tschofenig"/>
+    <author fullname="S. Fluhrer"/>
+    <date year="2011" month="February" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>password-based authentication</keyword>
+    <keyword>mutual authentication</keyword>
+    <keyword>password-based cryptography</keyword>
+    <keyword>password authenticated key exchange</keyword>
+    <keyword>weak password authentication</keyword>
+    <abstract>The Extensible Authentication Protocol (EAP) describes a framework that allows the use of multiple authentication mechanisms.  This document defines an authentication mechanism for EAP called EAP-EKE, based on the Encrypted Key Exchange (EKE) protocol.  This method provides mutual authentication through the use of a short, easy to remember password.  Compared with other common authentication methods, EAP-EKE is not susceptible to dictionary attacks.  Neither does it require the availability of public-key certificates.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

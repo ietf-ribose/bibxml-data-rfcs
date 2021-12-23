@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC8987" target="https://www.rfc-editor.org/info/rfc8987">
+  <front>
+    <title>DHCPv6 Prefix Delegating Relay Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8987"/>
+    <author fullname="I. Farrer"/>
+    <author fullname="N. Kottapalli"/>
+    <author fullname="M. Hunek"/>
+    <author fullname="R. Patterson"/>
+    <date year="2021" month="February" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>Prefix Delegation</keyword>
+    <keyword>DHCPv6 relay</keyword>
+    <keyword>Delegating router</keyword>
+    <keyword>Requesting router</keyword>
+    <keyword>Delegating relay</keyword>
+    <abstract>This document describes operational problems that are known to occur when using DHCPv6 relays with prefix delegation. These problems can prevent successful delegation and result in routing failures. To address these problems, this document provides necessary functional requirements for operating DHCPv6 relays with prefix delegation. It is recommended that any network operator using DHCPv6 prefix delegation with relays ensure that these requirements are followed on their networks.</abstract>
+  </front>
+</reference>

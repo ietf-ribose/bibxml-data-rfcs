@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5864" target="https://www.rfc-editor.org/info/rfc5864">
+  <front>
+    <title>DNS SRV Resource Records for AFS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5864"/>
+    <author fullname="R. Allbery"/>
+    <date year="2010" month="April" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>domain name system</keyword>
+    <keyword>srv rr</keyword>
+    <keyword>distributed file system</keyword>
+    <keyword>afsdb rr</keyword>
+    <abstract>This document specifies how to use DNS (Domain Name Service) SRV RRs (Resource Records) to locate services for the AFS distributed file system and how the priority and weight values of the SRV RR should be interpreted in the server ranking system used by AFS.  It updates RFC 1183 to deprecate the use of the AFSDB RR to locate AFS cell database servers and provides guidance for backward compatibility. [STANDARDS TRACK]</abstract>
+  </front>
+</reference>

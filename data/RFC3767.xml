@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3767" target="https://www.rfc-editor.org/info/rfc3767">
+  <front>
+    <title>Securely Available Credentials Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3767"/>
+    <author fullname="S. Farrell"/>
+    <date year="2004" month="June" day="1"/>
+    <workgroup>sacred</workgroup>
+    <keyword>beep</keyword>
+    <keyword>blocks extensible exchange protocol</keyword>
+    <keyword>xml</keyword>
+    <keyword>extensible mark up language</keyword>
+    <abstract>This document describes a protocol whereby a user can acquire cryptographic credentials (e.g., private keys, PKCS #15 structures) from a credential server, using a workstation that has locally trusted software installed, but with no user-specific configuration.  The protocol's payloads are described in XML.  This memo also specifies a Blocks Extensible Exchange Protocol (BEEP) profile of the protocol.  Security requirements are met by mandating support for TLS and/or DIGEST-MD5 (through BEEP). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8385" target="https://www.rfc-editor.org/info/rfc8385">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL) Transparent Transport over MPLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8385"/>
+    <author fullname="M. Umair"/>
+    <author fullname="S. Kingston Smiler"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="L. Yong"/>
+    <date year="2018" month="June" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>VPLS</keyword>
+    <keyword>VPTS</keyword>
+    <keyword>TIR</keyword>
+    <abstract>This document specifies methods to interconnect multiple TRILL (Transparent Interconnection of Lots of Links) sites with an intervening MPLS network using existing TRILL and VPLS (Virtual Private LAN Service) standards.  This document addresses two problems: 1) providing connection between more than two TRILL sites that are separated by an MPLS provider network and 2) providing a single logical virtualized TRILL network for different tenants that are separated by an MPLS provider network.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IETF.RFC6249" target="https://www.rfc-editor.org/info/rfc6249">
+  <front>
+    <title>Metalink/HTTP: Mirrors and Hashes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6249"/>
+    <author fullname="A. Bryan"/>
+    <author fullname="N. McNab"/>
+    <author fullname="T. Tsujikawa"/>
+    <author fullname="P. Poeml"/>
+    <author fullname="H. Nordstrom"/>
+    <date year="2011" month="June" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>file transfer</keyword>
+    <keyword>download</keyword>
+    <keyword>link</keyword>
+    <keyword>signature</keyword>
+    <keyword>data integrity</keyword>
+    <keyword>hypertext transfer protocol</keyword>
+    <keyword>ftp</keyword>
+    <keyword>file transfer protocol</keyword>
+    <keyword>metadata</keyword>
+    <keyword>torrent</keyword>
+    <abstract>This document specifies Metalink/HTTP: Mirrors and Cryptographic Hashes in HTTP header fields, a different way to get information that is usually contained in the Metalink XML-based download description format.  Metalink/HTTP describes multiple download locations (mirrors), Peer-to-Peer, cryptographic hashes, digital signatures, and other information using existing standards for HTTP header fields.  Metalink clients can use this information to make file transfers more robust and reliable.  Normative requirements for Metalink/HTTP clients and servers are described here. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

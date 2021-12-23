@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4468" target="https://www.rfc-editor.org/info/rfc4468">
+  <front>
+    <title>Message Submission BURL Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4468"/>
+    <author fullname="C. Newman"/>
+    <date year="2006" month="May" day="1"/>
+    <workgroup>lemonade</workgroup>
+    <keyword>URLAUTH</keyword>
+    <keyword>IMAP</keyword>
+    <keyword>IMAPURL</keyword>
+    <keyword>Forward-without-download</keyword>
+    <keyword>mobile-client</keyword>
+    <keyword>lemonade</keyword>
+    <abstract>The submission profile of Simple Mail Transfer Protocol (SMTP) provides a standard way for an email client to submit a complete message for delivery.  This specification extends the submission profile by adding a new BURL command that can be used to fetch submission data from an Internet Message Access Protocol (IMAP) server.  This permits a mail client to inject content from an IMAP server into the SMTP infrastructure without downloading it to the client and uploading it back to the server. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

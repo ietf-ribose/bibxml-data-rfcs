@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8319" target="https://www.rfc-editor.org/info/rfc8319">
+  <front>
+    <title>Support for Adjustable Maximum Router Lifetimes per Link</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8319"/>
+    <author fullname="S. Krishnan"/>
+    <author fullname="J. Korhonen"/>
+    <author fullname="S. Chakrabarti"/>
+    <author fullname="E. Nordmark"/>
+    <author fullname="A. Yourtchenko"/>
+    <date year="2018" month="February" day="1"/>
+    <workgroup>6man</workgroup>
+    <abstract>The IPv6 Neighbor Discovery protocol specifies the maximum time allowed between sending unsolicited multicast Router Advertisements (RAs) from a router interface as well as the maximum router lifetime. It also allows the limits to be overridden by documents that are specific to the link layer. This document allows for overriding these values on a per-link basis. This document specifies updates to the IPv6 Neighbor Discovery Protocol (RFC 4861) to increase the maximum time allowed between sending unsolicited multicast RAs from a router interface as well as to increase the maximum router lifetime.</abstract>
+  </front>
+</reference>

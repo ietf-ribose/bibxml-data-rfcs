@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC1191" target="https://www.rfc-editor.org/info/rfc1191">
+  <front>
+    <title>Path MTU discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1191"/>
+    <author fullname="J.C. Mogul"/>
+    <author fullname="S.E. Deering"/>
+    <date year="1990" month="November" day="1"/>
+    <keyword>IP-MTU</keyword>
+    <abstract>This memo describes a technique for dynamically discovering the maximum transmission unit (MTU) of an arbitrary internet path.  It specifies a small change to the way routers generate one type of ICMP message.  For a path that passes through a router that has not been so changed, this technique might not discover the correct Path MTU, but it will always choose a Path MTU as accurate as, and in many cases more accurate than, the Path MTU that would be chosen by current practice. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

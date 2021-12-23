@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC4285" target="https://www.rfc-editor.org/info/rfc4285">
+  <front>
+    <title>Authentication Protocol for Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4285"/>
+    <author fullname="A. Patel"/>
+    <author fullname="K. Leung"/>
+    <author fullname="M. Khalil"/>
+    <author fullname="H. Akhtar"/>
+    <author fullname="K. Chowdhury"/>
+    <date year="2006" month="January" day="1"/>
+    <workgroup>mip6</workgroup>
+    <keyword>ip security</keyword>
+    <keyword>ipsec</keyword>
+    <keyword>mip6</keyword>
+    <keyword>mobile node</keyword>
+    <keyword>home agent</keyword>
+    <abstract>IPsec is specified as the means of securing signaling messages between the Mobile Node and Home Agent for Mobile IPv6 (MIPv6).  MIPv6 signaling messages that are secured include the Binding Updates and Acknowledgement messages used for managing the bindings between a Mobile Node and its Home Agent.  This document proposes an alternate method for securing MIPv6 signaling messages between Mobile Nodes and Home Agents.  The alternate method defined here consists of a MIPv6-specific mobility message authentication option that can be added to MIPv6 signaling messages.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

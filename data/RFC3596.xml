@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC3596" target="https://www.rfc-editor.org/info/rfc3596">
+  <front>
+    <title>DNS Extensions to Support IP Version 6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3596"/>
+    <author fullname="S. Thomson"/>
+    <author fullname="C. Huitema"/>
+    <author fullname="V. Ksinant"/>
+    <author fullname="M. Souissi"/>
+    <date year="2003" month="October" day="1"/>
+    <workgroup>dnsext</workgroup>
+    <keyword>internet protocol</keyword>
+    <keyword>domain name system</keyword>
+    <keyword>DNS</keyword>
+    <keyword>zone</keyword>
+    <abstract>This document defines the changes that need to be made to the Domain Name System (DNS) to support hosts running IP version 6 (IPv6).  The changes include a resource record type to store an IPv6 address, a domain to support lookups based on an IPv6 address, and updated definitions of existing query types that return Internet addresses as part of additional section processing.  The extensions are designed to be compatible with existing applications and, in particular, DNS implementations themselves. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

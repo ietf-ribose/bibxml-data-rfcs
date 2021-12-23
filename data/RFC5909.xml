@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5909" target="https://www.rfc-editor.org/info/rfc5909">
+  <front>
+    <title>Securing Neighbor Discovery Proxy: Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5909"/>
+    <author fullname="J-M. Combes"/>
+    <author fullname="S. Krishnan"/>
+    <author fullname="G. Daley"/>
+    <date year="2010" month="July" day="1"/>
+    <workgroup>csi</workgroup>
+    <keyword>send</keyword>
+    <keyword>secure neighbor discovery</keyword>
+    <abstract>Neighbor Discovery Proxies are used to provide an address presence on a link for nodes that are no longer present on the link. They allow a node to receive packets directed at its address by allowing another device to perform Neighbor Discovery operations on its behalf. Neighbor Discovery Proxy is used in Mobile IPv6 and related protocols to provide reachability from nodes on the home network when a Mobile Node is not at home, by allowing the Home Agent to act as proxy. It is also used as a mechanism to allow a global prefix to span multiple links, where proxies act as relays for Neighbor Discovery messages. Neighbor Discovery Proxy currently cannot be secured using Secure Neighbor Discovery (SEND). Today, SEND assumes that a node advertising an address is the address owner and in possession of appropriate public and private keys for that node. This document describes how existing practice for proxy Neighbor Discovery relates to SEND. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

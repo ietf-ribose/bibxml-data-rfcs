@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC4165" target="https://www.rfc-editor.org/info/rfc4165">
+  <front>
+    <title>Signaling System 7 (SS7) Message Transfer Part 2 (MTP2) - User Peer-to-Peer Adaptation Layer (M2PA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4165"/>
+    <author fullname="T. George"/>
+    <author fullname="B. Bidulock"/>
+    <author fullname="R. Dantu"/>
+    <author fullname="H. Schwarzbauer"/>
+    <author fullname="K. Morneault"/>
+    <date year="2005" month="September" day="1"/>
+    <workgroup>sigtran</workgroup>
+    <keyword>ss7 over ip</keyword>
+    <keyword>ss7/ip</keyword>
+    <keyword>sigtran</keyword>
+    <keyword>m2ua</keyword>
+    <abstract>This document defines a protocol supporting the transport of Signaling System Number 7 (SS7) Message Transfer Part (MTP) Level 3 signaling messages over Internet Protocol (IP) using the services of the Stream Control Transmission Protocol (SCTP).  This protocol would be used between SS7 Signaling Points using the MTP Level 3 protocol.  The SS7 Signaling Points may also use standard SS7 links using the SS7 MTP Level 2 to provide transport of MTP Level 3 signaling messages.  The protocol operates in a manner similar to MTP Level 2 so as to provide peer-to-peer communication between SS7 endpoints. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

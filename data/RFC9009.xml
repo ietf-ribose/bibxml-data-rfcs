@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC9009" target="https://www.rfc-editor.org/info/rfc9009">
+  <front>
+    <title>Efficient Route Invalidation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9009"/>
+    <author fullname="R.A. Jadhav"/>
+    <author fullname="P. Thubert"/>
+    <author fullname="R.N. Sahoo"/>
+    <author fullname="Z. Cao"/>
+    <date year="2021" month="April" day="1"/>
+    <workgroup>roll</workgroup>
+    <keyword>NPDAO</keyword>
+    <keyword>DCO</keyword>
+    <keyword>no-path</keyword>
+    <keyword>route</keyword>
+    <keyword>cleanup</keyword>
+    <abstract>This document explains the problems associated with the use of No-Path Destination Advertisement Object (NPDAO) messaging in RFC 6550 and also discusses the requirements for an optimized route invalidation messaging scheme.  Further, this document specifies a new proactive route invalidation message called the "Destination Cleanup Object" (DCO), which fulfills requirements for optimized route invalidation messaging.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5219" target="https://www.rfc-editor.org/info/rfc5219">
+  <front>
+    <title>A More Loss-Tolerant RTP Payload Format for MP3 Audio</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5219"/>
+    <author fullname="R. Finlayson"/>
+    <date year="2008" month="February" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real time protocol</keyword>
+    <keyword>real-time protocol</keyword>
+    <keyword>mpeg</keyword>
+    <keyword>moving picture experts group,</keyword>
+    <abstract>This document describes an RTP (Real-Time Protocol) payload format for transporting MPEG (Moving Picture Experts Group) 1 or 2, layer III audio (commonly known as "MP3").  This format is an alternative to that described in RFC 2250, and performs better if there is packet loss.  This document obsoletes RFC 3119, correcting typographical errors in the "SDP usage" section and pseudo-code appendices. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

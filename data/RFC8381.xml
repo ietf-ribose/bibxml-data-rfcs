@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8381" target="https://www.rfc-editor.org/info/rfc8381">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): Vendor-Specific RBridge Channel Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8381"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="Y. Li"/>
+    <author fullname="W. Hao"/>
+    <author fullname="A. Banerjee"/>
+    <date year="2018" month="May" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>OUI</keyword>
+    <keyword>CID</keyword>
+    <abstract>The IETF TRILL (Transparent Interconnection of Lots of Links) protocol is implemented by devices called TRILL switches or RBridges (Routing Bridges).  TRILL includes a general mechanism, called an RBridge Channel, for the transmission of typed messages between RBridges in the same campus and between RBridges and end stations on the same link.  This document specifies a method to send vendor-specific messages over the RBridge Channel facility.</abstract>
+  </front>
+</reference>

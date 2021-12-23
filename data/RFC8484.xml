@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8484" target="https://www.rfc-editor.org/info/rfc8484">
+  <front>
+    <title>DNS Queries over HTTPS (DoH)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8484"/>
+    <author fullname="P. Hoffman"/>
+    <author fullname="P. McManus"/>
+    <date year="2018" month="October" day="1"/>
+    <workgroup>doh</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>HTTP</keyword>
+    <keyword>DoH</keyword>
+    <abstract>This document defines a protocol for sending DNS queries and getting DNS responses over HTTPS.  Each DNS query-response pair is mapped into an HTTP exchange.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC8638" target="https://www.rfc-editor.org/info/rfc8638">
+  <front>
+    <title>IPv4 Multicast over an IPv6 Multicast in Softwire Mesh Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8638"/>
+    <author fullname="M. Xu"/>
+    <author fullname="Y. Cui"/>
+    <author fullname="J. Wu"/>
+    <author fullname="S. Yang"/>
+    <author fullname="C. Metz"/>
+    <date year="2019" month="September" day="1"/>
+    <workgroup>softwire</workgroup>
+    <keyword>Multicast</keyword>
+    <keyword>Mesh</keyword>
+    <keyword>SSM</keyword>
+    <keyword>ASM</keyword>
+    <abstract>During the transition to IPv6, there are scenarios where a backbone network internally running one IP address family (referred to as the internal IP or I-IP family) connects client networks running another IP address family (referred to as the external IP or E-IP family). In such cases, the I-IP backbone needs to offer both unicast and multicast transit services to the client E-IP networks. This document describes a mechanism for supporting multicast across backbone networks where the I-IP and E-IP protocol families differ. The document focuses on the IPv4-over-IPv6 scenario, due to lack of real-world use cases for the IPv6-over-IPv4 scenario.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC6605" target="https://www.rfc-editor.org/info/rfc6605">
+  <front>
+    <title>Elliptic Curve Digital Signature Algorithm (DSA) for DNSSEC</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6605"/>
+    <author fullname="P. Hoffman"/>
+    <author fullname="W.C.A. Wijngaards"/>
+    <date year="2012" month="April" day="1"/>
+    <workgroup>dnsext</workgroup>
+    <keyword>dnskey algorithm</keyword>
+    <keyword>ds hash algo</keyword>
+    <keyword>crypto</keyword>
+    <keyword>DNS key</keyword>
+    <keyword>DNSKEY algorithm</keyword>
+    <keyword>DS</keyword>
+    <keyword>digest hash cryptography</keyword>
+    <keyword>SHA-384</keyword>
+    <keyword>ECDSAP256SHA256</keyword>
+    <keyword>ECDSAP384SHA384</keyword>
+    <abstract>This document describes how to specify Elliptic Curve Digital Signature Algorithm (DSA) keys and signatures in DNS Security (DNSSEC).  It lists curves of different sizes and uses the SHA-2 family of hashes for signatures. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

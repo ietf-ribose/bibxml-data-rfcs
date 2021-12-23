@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4607" target="https://www.rfc-editor.org/info/rfc4607">
+  <front>
+    <title>Source-Specific Multicast for IP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4607"/>
+    <author fullname="H. Holbrook"/>
+    <author fullname="B. Cain"/>
+    <date year="2006" month="August" day="1"/>
+    <workgroup>ssm</workgroup>
+    <keyword>ipv4</keyword>
+    <keyword>ssm</keyword>
+    <keyword>ipv6</keyword>
+    <abstract>IP version 4 (IPv4) addresses in the 232/8 (232.0.0.0 to 232.255.255.255) range are designated as source-specific multicast (SSM) destination addresses and are reserved for use by source-specific applications and protocols.  For IP version 6 (IPv6), the address prefix FF3x::/32 is reserved for source-specific multicast use.  This document defines an extension to the Internet network service that applies to datagrams sent to SSM addresses and defines the host and router requirements to support this extension. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6594" target="https://www.rfc-editor.org/info/rfc6594">
+  <front>
+    <title>Use of the SHA-256 Algorithm with RSA, Digital Signature Algorithm (DSA), and Elliptic Curve DSA (ECDSA) in SSHFP Resource Records</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6594"/>
+    <author fullname="O. Sury"/>
+    <date year="2012" month="April" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>Domain Name System</keyword>
+    <keyword>SSHFP</keyword>
+    <keyword>SHA-256</keyword>
+    <keyword>Secure Shell</keyword>
+    <keyword>ECDSA</keyword>
+    <abstract>This document updates the IANA registries in RFC 4255, which defines SSHFP, a DNS Resource Record (RR) that contains a standard Secure Shell (SSH) key fingerprint used to verify SSH host keys using DNS Security Extensions (DNSSEC).  This document defines additional options supporting SSH public keys applying the Elliptic Curve Digital Signature Algorithm (ECDSA) and the implementation of fingerprints computed using the SHA-256 message digest algorithm in SSHFP Resource Records. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

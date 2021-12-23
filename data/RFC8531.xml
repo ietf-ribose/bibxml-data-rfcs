@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8531" target="https://www.rfc-editor.org/info/rfc8531">
+  <front>
+    <title>Generic YANG Data Model for Connection-Oriented Operations, Administration, and Maintenance (OAM) Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8531"/>
+    <author fullname="D. Kumar"/>
+    <author fullname="Q. Wu"/>
+    <author fullname="Z. Wang"/>
+    <date year="2019" month="April" day="1"/>
+    <workgroup>lime</workgroup>
+    <abstract>This document presents a base YANG data model for connection-oriented Operations, Administration, and Maintenance (OAM) protocols. It provides a technology-independent abstraction of key OAM constructs for such protocols. The model presented here can be extended to include technology-specific details. This guarantees uniformity in the management of OAM protocols and provides support for nested OAM workflows (i.e., performing OAM functions at different levels through a unified interface). The YANG data model in this document conforms to the Network Management Datastore Architecture.</abstract>
+  </front>
+</reference>

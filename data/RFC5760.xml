@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5760" target="https://www.rfc-editor.org/info/rfc5760">
+  <front>
+    <title>RTP Control Protocol (RTCP) Extensions for Single-Source Multicast Sessions with Unicast Feedback</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5760"/>
+    <author fullname="J. Ott"/>
+    <author fullname="J. Chesterfield"/>
+    <author fullname="E. Schooler"/>
+    <date year="2010" month="February" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real-time transport protocol</keyword>
+    <keyword>ssm</keyword>
+    <abstract>This document specifies an extension to the Real-time Transport Control Protocol (RTCP) to use unicast feedback to a multicast sender.  The proposed extension is useful for single-source multicast sessions such as Source-Specific Multicast (SSM) communication where the traditional model of many-to-many group communication is either not available or not desired.  In addition, it can be applied to any group that might benefit from a sender-controlled summarized reporting mechanism. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

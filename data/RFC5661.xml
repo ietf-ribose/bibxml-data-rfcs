@@ -1,0 +1,26 @@
+<reference anchor="IETF.RFC5661" target="https://www.rfc-editor.org/info/rfc5661">
+  <front>
+    <title>Network File System (NFS) Version 4 Minor Version 1 Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5661"/>
+    <author fullname="S. Shepler"/>
+    <author fullname="M. Eisler"/>
+    <author fullname="D. Noveck"/>
+    <date year="2010" month="January" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>Access Control List</keyword>
+    <keyword>ACL</keyword>
+    <keyword>Communications Sessions</keyword>
+    <keyword>Exactly Once Semantics</keyword>
+    <keyword>File Access Protocol</keyword>
+    <keyword>Global Namespace</keyword>
+    <keyword>Network Authentication</keyword>
+    <keyword>Network File Access</keyword>
+    <keyword>Network File System</keyword>
+    <keyword>Network Security</keyword>
+    <keyword>NFS</keyword>
+    <keyword>Parallel Storage</keyword>
+    <keyword>pNFS</keyword>
+    <keyword>Storage Cluster</keyword>
+    <abstract>This document describes the Network File System (NFS) version 4 minor version 1, including features retained from the base protocol (NFS version 4 minor version 0, which is specified in RFC 3530) and protocol extensions made subsequently.  Major extensions introduced in NFS version 4 minor version 1 include Sessions, Directory Delegations, and parallel NFS (pNFS).  NFS version 4 minor version 1 has no dependencies on NFS version 4 minor version 0, and it is considered a separate protocol.  Thus, this document neither updates nor obsoletes RFC 3530.  NFS minor version 1 is deemed superior to NFS minor version 0 with no loss of functionality, and its use is preferred over version 0.  Both NFS minor versions 0 and 1 can be used simultaneously on the same network, between the same client and server. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

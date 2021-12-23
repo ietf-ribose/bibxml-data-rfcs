@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC5079" target="https://www.rfc-editor.org/info/rfc5079">
+  <front>
+    <title>Rejecting Anonymous Requests in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5079"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2007" month="December" day="1"/>
+    <workgroup>sip</workgroup>
+    <keyword>anonymous calls</keyword>
+    <abstract>The Session Initiation Protocol (SIP) allows for users to make anonymous calls.  However, users receiving such calls have the right to reject them because they are anonymous.  SIP has no way to indicate to the caller that the reason for call rejection was that the call was anonymous.  Such an indication is useful to allow the call to be retried without anonymity.  This specification defines a new SIP response code for this purpose. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

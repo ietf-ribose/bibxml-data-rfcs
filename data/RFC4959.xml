@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4959" target="https://www.rfc-editor.org/info/rfc4959">
+  <front>
+    <title>IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4959"/>
+    <author fullname="R. Siemborski"/>
+    <author fullname="A. Gulbrandsen"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>imap authenticate</keyword>
+    <keyword>internet message access protocol</keyword>
+    <abstract>To date, the Internet Message Access Protocol (IMAP) has used a Simple Authentication and Security Layer (SASL) profile which always required at least one complete round trip for an authentication, as it did not support an initial client response argument. This additional round trip at the beginning of the session is undesirable, especially when round-trip costs are high. This document defines an extension to IMAP which allows clients and servers to avoid this round trip by allowing an initial client response argument to the IMAP AUTHENTICATE command. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

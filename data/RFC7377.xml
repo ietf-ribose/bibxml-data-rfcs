@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7377" target="https://www.rfc-editor.org/info/rfc7377">
+  <front>
+    <title>IMAP4 Multimailbox SEARCH Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7377"/>
+    <author fullname="B. Leiba"/>
+    <author fullname="A. Melnikov"/>
+    <date year="2014" month="October" day="1"/>
+    <workgroup>appsawg</workgroup>
+    <keyword>IMAP</keyword>
+    <keyword>email</keyword>
+    <keyword>search</keyword>
+    <keyword>multiple mailboxes</keyword>
+    <keyword>imapext</keyword>
+    <abstract>The IMAP4 specification allows the searching of only the selected mailbox.  A user often wants to search multiple mailboxes, and a client that wishes to support this must issue a series of SELECT and SEARCH commands, waiting for each to complete before moving on to the next.  This extension allows a client to search multiple mailboxes with one command, limiting the delays caused by many round trips and not requiring disruption of the currently selected mailbox.  This extension also uses MAILBOX, UIDVALIDITY, and TAG fields in ESEARCH responses, allowing a client to pipeline the searches if it chooses.  This document updates RFC 4466 and obsoletes RFC 6237.</abstract>
+  </front>
+</reference>

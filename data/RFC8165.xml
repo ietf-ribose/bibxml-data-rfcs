@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8165" target="https://www.rfc-editor.org/info/rfc8165">
+  <front>
+    <title>Design Considerations for Metadata Insertion</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8165"/>
+    <author fullname="T. Hardie"/>
+    <date year="2017" month="May" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>surveillance</keyword>
+    <keyword>proxy</keyword>
+    <keyword>proxying</keyword>
+    <keyword>middlebox</keyword>
+    <abstract>The IAB published RFC 7624 in response to several revelations of pervasive attacks on Internet communications.  This document considers the implications of protocol designs that associate metadata with encrypted flows.  In particular, it asserts that designs that share metadata only by explicit actions at the host are preferable to designs in which middleboxes insert metadata.</abstract>
+  </front>
+</reference>

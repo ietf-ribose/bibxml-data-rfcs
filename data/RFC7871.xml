@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC7871" target="https://www.rfc-editor.org/info/rfc7871">
+  <front>
+    <title>Client Subnet in DNS Queries</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7871"/>
+    <author fullname="C. Contavalli"/>
+    <author fullname="W. van der Gaast"/>
+    <author fullname="D. Lawrence"/>
+    <author fullname="W. Kumari"/>
+    <date year="2016" month="May" day="1"/>
+    <workgroup>dnsop</workgroup>
+    <keyword>edns-client-subnet</keyword>
+    <keyword>ECS</keyword>
+    <keyword>DNS geolocation</keyword>
+    <keyword>DNS load-balancing</keyword>
+    <keyword>EDNS</keyword>
+    <keyword>EDNS0</keyword>
+    <keyword>geolocation</keyword>
+    <keyword>privacy</keyword>
+    <abstract>This document describes an Extension Mechanisms for DNS (EDNS0) option that is in active use to carry information about the network that originated a DNS query and the network for which the subsequent response can be cached.  Since it has some known operational and privacy shortcomings, a revision will be worked through the IETF for improvement.</abstract>
+  </front>
+</reference>

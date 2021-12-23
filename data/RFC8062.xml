@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8062" target="https://www.rfc-editor.org/info/rfc8062">
+  <front>
+    <title>Anonymity Support for Kerberos</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8062"/>
+    <author fullname="L. Zhu"/>
+    <author fullname="P. Leach"/>
+    <author fullname="S. Hartman"/>
+    <author fullname="S. Emery"/>
+    <date year="2017" month="February" day="1"/>
+    <workgroup>kitten</workgroup>
+    <abstract>This document defines extensions to the Kerberos protocol to allow a Kerberos client to securely communicate with a Kerberos application service without revealing its identity, or without revealing more than its Kerberos realm.  It also defines extensions that allow a Kerberos client to obtain anonymous credentials without revealing its identity to the Kerberos Key Distribution Center (KDC).  This document updates RFCs 4120, 4121, and 4556.  This document obsoletes RFC 6112 and reclassifies that document as Historic.  RFC 6112 contained errors, and the protocol described in that specification is not interoperable with any known implementation.  This specification describes a protocol that interoperates with multiple implementations.</abstract>
+  </front>
+</reference>

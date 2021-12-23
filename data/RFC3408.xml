@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC3408" target="https://www.rfc-editor.org/info/rfc3408">
+  <front>
+    <title>Zero-byte Support for Bidirectional Reliable Mode (R-mode) in Extended Link-Layer Assisted RObust Header Compression (ROHC) Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3408"/>
+    <author fullname="Z. Liu"/>
+    <author fullname="K. Le"/>
+    <date year="2002" month="December" day="1"/>
+    <workgroup>rohc</workgroup>
+    <keyword>single-octet</keyword>
+    <keyword>packet size</keyword>
+    <abstract>This document defines an additional mode of the link-layer assisted RObust Header Compression (ROHC) profile, also known as the zero-byte profile, beyond the two defined in RFC 3242.  Zero-byte header compression exists in order to prevent the single-octet ROHC header from pushing a packet voice stream into the next higher fixed packet size for the radio.  It is usable in certain widely deployed older air interfaces.  This document adds the zero-byte operation for ROHC Bidirectional Reliable mode (R-mode) to the ones specified for Unidirectional (U-mode) and Bidirectional Optimistic (O-mode) modes of header compression in RFC 3242. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

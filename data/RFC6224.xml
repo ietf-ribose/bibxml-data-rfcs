@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6224" target="https://www.rfc-editor.org/info/rfc6224">
+  <front>
+    <title>Base Deployment for Multicast Listener Support in Proxy Mobile IPv6 (PMIPv6) Domains</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6224"/>
+    <author fullname="T. Schmidt"/>
+    <author fullname="M. Waehlisch"/>
+    <author fullname="S. Krishnan"/>
+    <date year="2011" month="April" day="1"/>
+    <workgroup>multimob</workgroup>
+    <keyword>MLD proxy</keyword>
+    <keyword>multicast routing</keyword>
+    <keyword>mobility management</keyword>
+    <keyword>transparent handover</keyword>
+    <abstract>This document describes deployment options for activating multicast listener functions in Proxy Mobile IPv6 domains without modifying mobility and multicast protocol standards.  Similar to home agents in Mobile IPv6, Local Mobility Anchors of Proxy Mobile IPv6 serve as multicast subscription anchor points, while Mobile Access Gateways provide Multicast Listener Discovery (MLD) proxy functions.  In this scenario, mobile nodes remain agnostic of multicast mobility operations.  Support for mobile multicast senders is outside the scope of this document.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

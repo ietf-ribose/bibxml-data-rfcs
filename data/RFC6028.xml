@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6028" target="https://www.rfc-editor.org/info/rfc6028">
+  <front>
+    <title>Host Identity Protocol (HIP) Multi-Hop Routing Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6028"/>
+    <author fullname="G. Camarillo"/>
+    <author fullname="A. Keranen"/>
+    <date year="2010" month="October" day="1"/>
+    <workgroup>hip</workgroup>
+    <keyword>source routing</keyword>
+    <keyword>route recording</keyword>
+    <keyword>overlay network</keyword>
+    <abstract>This document specifies two extensions to the Host Identity Protocol (HIP) to implement multi-hop routing.  The first extension allows implementing source routing in HIP.  That is, a node sending a HIP packet can define a set of nodes that the HIP packet should traverse.  The second extension allows a HIP packet to carry and record the list of nodes that forwarded it.  This document defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

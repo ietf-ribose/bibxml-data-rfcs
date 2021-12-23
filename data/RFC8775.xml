@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8775" target="https://www.rfc-editor.org/info/rfc8775">
+  <front>
+    <title>PIM Designated Router Load Balancing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8775"/>
+    <author fullname="Y. Cai"/>
+    <author fullname="H. Ou"/>
+    <author fullname="S. Vallepalli"/>
+    <author fullname="M. Mishra"/>
+    <author fullname="S. Venaas"/>
+    <author fullname="A. Green"/>
+    <date year="2020" month="April" day="1"/>
+    <workgroup>pim</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>On a multi-access network, one of the PIM-SM (PIM Sparse Mode) routers is elected as a Designated Router.  One of the responsibilities of the Designated Router is to track local multicast listeners and forward data to these listeners if the group is operating in PIM-SM.  This document specifies a modification to the PIM-SM protocol that allows more than one of the PIM-SM routers to take on this responsibility so that the forwarding load can be distributed among multiple routers.</abstract>
+  </front>
+</reference>

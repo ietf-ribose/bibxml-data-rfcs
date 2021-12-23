@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC6428" target="https://www.rfc-editor.org/info/rfc6428">
+  <front>
+    <title>Proactive Connectivity Verification, Continuity Check, and Remote Defect Indication for the MPLS Transport Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6428"/>
+    <author fullname="D. Allan"/>
+    <author fullname="G. Swallow"/>
+    <author fullname="J. Drake"/>
+    <date year="2011" month="November" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>mpls-tp</keyword>
+    <keyword>oam</keyword>
+    <keyword>Operations</keyword>
+    <keyword>Administration</keyword>
+    <keyword>and Maintenance</keyword>
+    <keyword>bfd</keyword>
+    <keyword>bidirectional forwarding dectection</keyword>
+    <abstract>Continuity Check, Proactive Connectivity Verification, and Remote Defect Indication functionalities are required for MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance (OAM). Continuity Check monitors a Label Switched Path for any loss of continuity defect. Connectivity Verification augments Continuity Check in order to provide confirmation that the desired source is connected to the desired sink. Remote Defect Indication enables an end point to report, to its associated end point, a fault or defect condition that it detects on a pseudowire, Label Switched Path, or Section. This document specifies specific extensions to Bidirectional Forwarding Detection (BFD) and methods for proactive Continuity Check, Continuity Verification, and Remote Defect Indication for MPLS-TP pseudowires, Label Switched Paths, and Sections using BFD as extended by this memo. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

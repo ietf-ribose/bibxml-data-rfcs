@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6663" target="https://www.rfc-editor.org/info/rfc6663">
+  <front>
+    <title>Requirements for Signaling of Pre-Congestion Information in a Diffserv Domain</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6663"/>
+    <author fullname="G. Karagiannis"/>
+    <author fullname="T. Taylor"/>
+    <author fullname="K. Chan"/>
+    <author fullname="M. Menth"/>
+    <author fullname="P. Eardley"/>
+    <date year="2012" month="July" day="1"/>
+    <workgroup>pcn</workgroup>
+    <abstract>Pre-Congestion Notification (PCN) is a means for protecting quality of service for inelastic traffic admitted to a Diffserv domain.  The overall PCN architecture is described in RFC 5559.  This memo describes the requirements for the signaling applied within the PCN-domain: (1) PCN-feedback-information is carried from the PCN-egress-node to the Decision Point; (2) the Decision Point may ask the PCN-ingress-node to measure, and report back, the rate of sent PCN-traffic between that PCN-ingress-node and PCN-egress-node.  The Decision Point may be either collocated with the PCN-ingress-node or a centralized node (in the first case, (2) is not required).  The signaling requirements pertain in particular to two edge behaviors, Controlled Load (CL) and Single Marking (SM).  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

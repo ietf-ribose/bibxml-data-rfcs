@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8212" target="https://www.rfc-editor.org/info/rfc8212">
+  <front>
+    <title>Default External BGP (EBGP) Route Propagation Behavior without Policies</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8212"/>
+    <author fullname="J. Mauch"/>
+    <author fullname="J. Snijders"/>
+    <author fullname="G. Hankins"/>
+    <date year="2017" month="July" day="1"/>
+    <workgroup>grow</workgroup>
+    <keyword>reject</keyword>
+    <keyword>BGP</keyword>
+    <keyword>EBGP</keyword>
+    <abstract>This document updates RFC 4271 by defining the default behavior of a BGP speaker when there is no Import or Export Policy associated with an External BGP session.</abstract>
+  </front>
+</reference>

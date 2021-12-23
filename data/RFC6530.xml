@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6530" target="https://www.rfc-editor.org/info/rfc6530">
+  <front>
+    <title>Overview and Framework for Internationalized Email</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6530"/>
+    <author fullname="J. Klensin"/>
+    <author fullname="Y. Ko"/>
+    <date year="2012" month="February" day="1"/>
+    <workgroup>eai</workgroup>
+    <keyword>SMTP</keyword>
+    <keyword>Email I18n</keyword>
+    <keyword>Internationalization</keyword>
+    <keyword>SMTPUTF8</keyword>
+    <abstract>Full use of electronic mail throughout the world requires that (subject to other constraints) people be able to use close variations on their own names (written correctly in their own languages and scripts) as mailbox names in email addresses.  This document introduces a series of specifications that define mechanisms and protocol extensions needed to fully support internationalized email addresses.  These changes include an SMTP extension and extension of email header syntax to accommodate UTF-8 data.  The document set also includes discussion of key assumptions and issues in deploying fully internationalized email.  This document is a replacement for RFC 4952; it reflects additional issues identified since that document was published. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

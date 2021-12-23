@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5623" target="https://www.rfc-editor.org/info/rfc5623">
+  <front>
+    <title>Framework for PCE-Based Inter-Layer MPLS and GMPLS Traffic Engineering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5623"/>
+    <author fullname="E. Oki"/>
+    <author fullname="T. Takeda"/>
+    <author fullname="JL. Le Roux"/>
+    <author fullname="A. Farrel"/>
+    <date year="2009" month="September" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>GMPLS</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <keyword>Label Switched Path</keyword>
+    <keyword>Virtual Network Topology</keyword>
+    <abstract>A network may comprise multiple layers. It is important to globally optimize network resource utilization, taking into account all layers rather than optimizing resource utilization at each layer independently. This allows better network efficiency to be achieved through a process that we call inter-layer traffic engineering. The Path Computation Element (PCE) can be a powerful tool to achieve inter-layer traffic engineering. This document describes a framework for applying the PCE-based architecture to inter-layer Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) traffic engineering. It provides suggestions for the deployment of PCE in support of multi-layer networks. This document also describes network models where PCE performs inter-layer traffic engineering, and the relationship between PCE and a functional component called the Virtual Network Topology Manager (VNTM). This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

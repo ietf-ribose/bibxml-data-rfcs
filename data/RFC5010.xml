@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5010" target="https://www.rfc-editor.org/info/rfc5010">
+  <front>
+    <title>The Dynamic Host Configuration Protocol Version 4 (DHCPv4) Relay Agent Flags Suboption</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5010"/>
+    <author fullname="K. Kinnear"/>
+    <author fullname="M. Normoyle"/>
+    <author fullname="M. Stapp"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>unicast flag</keyword>
+    <keyword>broadcast flag</keyword>
+    <abstract>This memo defines a new suboption of the Dynamic Host Configuration Protocol (DHCP) relay agent information option that allows the DHCP relay to specify flags for the forwarded packet.  One flag is defined to indicate whether the DHCP relay received the packet via a unicast or broadcast packet.  This information may be used by the DHCP server to better serve clients based on whether their request was originally broadcast or unicast. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

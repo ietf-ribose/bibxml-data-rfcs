@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6429" target="https://www.rfc-editor.org/info/rfc6429">
+  <front>
+    <title>TCP Sender Clarification for Persist Condition</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6429"/>
+    <author fullname="M. Bashyam"/>
+    <author fullname="M. Jethanandani"/>
+    <author fullname="A. Ramaiah"/>
+    <date year="2011" month="December" day="1"/>
+    <workgroup>tcpm</workgroup>
+    <keyword>zero window probe</keyword>
+    <keyword>denial of service (DoS)</keyword>
+    <keyword>security vulnerability</keyword>
+    <abstract>This document clarifies the Zero Window Probes (ZWPs) described in RFC 1122 ("Requirements for Internet Hosts -- Communication Layers").  In particular, it clarifies the actions that can be taken on connections that are experiencing the ZWP condition.  Rather than making a change to the standard, this document clarifies what has been until now a misinterpretation of the standard as specified in RFC 1122.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5746" target="https://www.rfc-editor.org/info/rfc5746">
+  <front>
+    <title>Transport Layer Security (TLS) Renegotiation Indication Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5746"/>
+    <author fullname="E. Rescorla"/>
+    <author fullname="M. Ray"/>
+    <author fullname="S. Dispensa"/>
+    <author fullname="N. Oskov"/>
+    <date year="2010" month="February" day="1"/>
+    <workgroup>tls</workgroup>
+    <keyword>ssl</keyword>
+    <keyword>secure socket layer</keyword>
+    <abstract>Secure Socket Layer (SSL) and Transport Layer Security (TLS) renegotiation are vulnerable to an attack in which the attacker forms a TLS connection with the target server, injects content of his choice, and then splices in a new TLS connection from a client.  The server treats the client's initial TLS handshake as a renegotiation and thus believes that the initial data transmitted by the attacker is from the same entity as the subsequent client data.  This specification defines a TLS extension to cryptographically tie renegotiations to the TLS connections they are being performed over, thus preventing this attack. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

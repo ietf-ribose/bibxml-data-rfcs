@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC7455" target="https://www.rfc-editor.org/info/rfc7455">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): Fault Management</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7455"/>
+    <author fullname="T. Senevirathne"/>
+    <author fullname="N. Finn"/>
+    <author fullname="S. Salam"/>
+    <author fullname="D. Kumar"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="S. Aldrin"/>
+    <author fullname="Y. Li"/>
+    <date year="2015" month="March" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>Fault</keyword>
+    <keyword>Continuity</keyword>
+    <keyword>Connectivity</keyword>
+    <keyword>OAM</keyword>
+    <keyword>CFM</keyword>
+    <keyword>MEP</keyword>
+    <keyword>CCM</keyword>
+    <abstract>This document specifies Transparent Interconnection of Lots of Links (TRILL) Operations, Administration, and Maintenance (OAM) fault management.  Methods in this document follow the CFM (Connectivity Fault Management) framework defined in IEEE 802.1 and reuse OAM tools where possible.  Additional messages and TLVs are defined for TRILL-specific applications or for cases where a different set of information is required other than CFM as defined in IEEE 802.1.  This document updates RFC 6325.</abstract>
+  </front>
+</reference>

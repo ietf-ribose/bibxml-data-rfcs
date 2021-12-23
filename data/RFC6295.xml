@@ -1,0 +1,42 @@
+<reference anchor="IETF.RFC6295" target="https://www.rfc-editor.org/info/rfc6295">
+  <front>
+    <title>RTP Payload Format for MIDI</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6295"/>
+    <author fullname="J. Lazzaro"/>
+    <author fullname="J. Wawrzynek"/>
+    <date year="2011" month="June" day="1"/>
+    <workgroup>payload</workgroup>
+    <keyword>asc</keyword>
+    <keyword>content streaming</keyword>
+    <keyword>DLS 2</keyword>
+    <keyword>General MIDI</keyword>
+    <keyword>MIDI</keyword>
+    <keyword>MIDI file</keyword>
+    <keyword>MIDI file streaming</keyword>
+    <keyword>MIDI light control</keyword>
+    <keyword>MIDI rendering</keyword>
+    <keyword>MIDI ringtone</keyword>
+    <keyword>MIDI streaming MIDI sequencer</keyword>
+    <keyword>MIDI time code</keyword>
+    <keyword>MIDI timecode</keyword>
+    <keyword>MIDI Manufacturers Association</keyword>
+    <keyword>MMA mpeg4generic MPEG 4</keyword>
+    <keyword>MPEG 4 Structured Audio</keyword>
+    <keyword>MPEG 4 Synthetic Coding</keyword>
+    <keyword>MTC</keyword>
+    <keyword>musical notes</keyword>
+    <keyword>network musical performance</keyword>
+    <keyword>recovery journal</keyword>
+    <keyword>Show Control</keyword>
+    <keyword>sonification</keyword>
+    <keyword>ringtone</keyword>
+    <keyword>rtpmidi</keyword>
+    <keyword>RTP</keyword>
+    <keyword>RTP MIDI</keyword>
+    <keyword>SMPTE time code</keyword>
+    <keyword>SMPTE timecode</keyword>
+    <keyword>Standard MIDI Files</keyword>
+    <keyword>XMF</keyword>
+    <abstract>This memo describes a Real-time Transport Protocol (RTP) payload format for the MIDI (Musical Instrument Digital Interface) command language.  The format encodes all commands that may legally appear on a MIDI 1.0 DIN cable.  The format is suitable for interactive applications (such as network musical performance) and content-delivery applications (such as file streaming).  The format may be used over unicast and multicast UDP and TCP, and it defines tools for graceful recovery from packet loss.  Stream behavior, including the MIDI rendering method, may be customized during session setup.  The format also serves as a mode for the mpeg4-generic format, to support the MPEG 4 Audio Object Types for General MIDI, Downloadable Sounds Level 2, and Structured Audio.  This document obsoletes RFC 4695. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5105" target="https://www.rfc-editor.org/info/rfc5105">
+  <front>
+    <title>ENUM Validation Token Format Definition</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5105"/>
+    <author fullname="O. Lendl"/>
+    <date year="2007" month="December" day="1"/>
+    <workgroup>enum</workgroup>
+    <keyword>telephone number mapping</keyword>
+    <keyword>e.164</keyword>
+    <abstract>An ENUM domain name is tightly coupled with the underlying E.164 number.  The process of verifying whether the Registrant of an ENUM domain name is identical to the Assignee of the corresponding E.164 number is commonly called "validation".  This document describes a signed XML data format -- the Validation Token -- with which Validation Entities can convey successful completion of a validation procedure in a secure fashion. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

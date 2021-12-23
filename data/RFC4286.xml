@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4286" target="https://www.rfc-editor.org/info/rfc4286">
+  <front>
+    <title>Multicast Router Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4286"/>
+    <author fullname="B. Haberman"/>
+    <author fullname="J. Martin"/>
+    <date year="2005" month="December" day="1"/>
+    <workgroup>magma</workgroup>
+    <keyword>igmp</keyword>
+    <keyword>internet group management protocol</keyword>
+    <keyword>mld</keyword>
+    <keyword>multicast listener discovery</keyword>
+    <keyword>mrd</keyword>
+    <abstract>The concept of Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) snooping requires the ability to identify the location of multicast routers. Since snooping is not standardized, there are many mechanisms in use to identify the multicast routers. However, this can lead to interoperability issues between multicast routers and snooping switches from different vendors. This document introduces a general mechanism that allows for the discovery of multicast routers. This new mechanism, Multicast Router Discovery (MRD), introduces a standardized means of identifying multicast routers without a dependency on particular multicast routing protocols. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

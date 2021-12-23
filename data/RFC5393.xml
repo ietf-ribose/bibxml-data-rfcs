@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC5393" target="https://www.rfc-editor.org/info/rfc5393">
+  <front>
+    <title>Addressing an Amplification Vulnerability in Session Initiation Protocol (SIP) Forking Proxies</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5393"/>
+    <author fullname="R. Sparks"/>
+    <author fullname="S. Lawrence"/>
+    <author fullname="A. Hawrylyshen"/>
+    <author fullname="B. Campen"/>
+    <date year="2008" month="December" day="1"/>
+    <workgroup>sip</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>application-layer</keyword>
+    <keyword>application</keyword>
+    <keyword>layer</keyword>
+    <keyword>multimedia</keyword>
+    <keyword>multicast</keyword>
+    <keyword>unicast</keyword>
+    <abstract>This document normatively updates RFC 3261, the Session Initiation Protocol (SIP), to address a security vulnerability identified in SIP proxy behavior. This vulnerability enables an attack against SIP networks where a small number of legitimate, even authorized, SIP requests can stimulate massive amounts of proxy-to-proxy traffic. This document strengthens loop-detection requirements on SIP proxies when they fork requests (that is, forward a request to more than one destination). It also corrects and clarifies the description of the loop-detection algorithm such proxies are required to implement. Additionally, this document defines a Max-Breadth mechanism for limiting the number of concurrent branches pursued for any given request. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

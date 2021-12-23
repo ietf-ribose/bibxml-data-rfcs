@@ -1,0 +1,27 @@
+<reference anchor="IETF.RFC6606" target="https://www.rfc-editor.org/info/rfc6606">
+  <front>
+    <title>Problem Statement and Requirements for IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6606"/>
+    <author fullname="E. Kim"/>
+    <author fullname="D. Kaspar"/>
+    <author fullname="C. Gomez"/>
+    <author fullname="C. Bormann"/>
+    <date year="2012" month="May" day="1"/>
+    <workgroup>6lowpan</workgroup>
+    <keyword>WSN</keyword>
+    <keyword>Sensor Network</keyword>
+    <keyword>Wireless Sensor Network</keyword>
+    <keyword>WSN for Wireless Sensor Network</keyword>
+    <keyword>L3 Mesh for Layer 3 Mesh Network</keyword>
+    <keyword>Routing Protocol</keyword>
+    <keyword>Subnet Routing</keyword>
+    <keyword>ieee 802.15.4</keyword>
+    <keyword>LLN</keyword>
+    <keyword>Low Power</keyword>
+    <keyword>radio 802.15.4</keyword>
+    <keyword>powerline</keyword>
+    <keyword>ISA100.11a</keyword>
+    <keyword>RFC 4944</keyword>
+    <abstract>IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs) are formed by devices that are compatible with the IEEE 802.15.4 standard. However, neither the IEEE 802.15.4 standard nor the 6LoWPAN format specification defines how mesh topologies could be obtained and maintained. Thus, it should be considered how 6LoWPAN formation and multi-hop routing could be supported. This document provides the problem statement and design space for 6LoWPAN routing. It defines the routing requirements for 6LoWPANs, considering the low-power and other particular characteristics of the devices and links. The purpose of this document is not to recommend specific solutions but to provide general, layer-agnostic guidelines about the design of 6LoWPAN routing that can lead to further analysis and protocol design. This document is intended as input to groups working on routing protocols relevant to 6LoWPANs, such as the IETF ROLL WG. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

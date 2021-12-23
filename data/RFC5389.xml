@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC5389" target="https://www.rfc-editor.org/info/rfc5389">
+  <front>
+    <title>Session Traversal Utilities for NAT (STUN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5389"/>
+    <author fullname="J. Rosenberg"/>
+    <author fullname="R. Mahy"/>
+    <author fullname="P. Matthews"/>
+    <author fullname="D. Wing"/>
+    <date year="2008" month="October" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>SIPs</keyword>
+    <keyword>NAT</keyword>
+    <keyword>STUN</keyword>
+    <keyword>Traversal</keyword>
+    <keyword>ICE</keyword>
+    <keyword>firewall</keyword>
+    <keyword>TURN</keyword>
+    <keyword>VOIP</keyword>
+    <abstract>Session Traversal Utilities for NAT (STUN) is a protocol that serves as a tool for other protocols in dealing with Network Address Translator (NAT) traversal. It can be used by an endpoint to determine the IP address and port allocated to it by a NAT. It can also be used to check connectivity between two endpoints, and as a keep-alive protocol to maintain NAT bindings. STUN works with many existing NATs, and does not require any special behavior from them. STUN is not a NAT traversal solution by itself. Rather, it is a tool to be used in the context of a NAT traversal solution. This is an important change from the previous version of this specification (RFC 3489), which presented STUN as a complete solution. This document obsoletes RFC 3489. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6313" target="https://www.rfc-editor.org/info/rfc6313">
+  <front>
+    <title>Export of Structured Data in IP Flow Information Export (IPFIX)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6313"/>
+    <author fullname="B. Claise"/>
+    <author fullname="G. Dhandapani"/>
+    <author fullname="P. Aitken"/>
+    <author fullname="S. Yates"/>
+    <date year="2011" month="July" day="1"/>
+    <workgroup>ipfix</workgroup>
+    <keyword>ipfix information model</keyword>
+    <abstract>This document specifies an extension to the IP Flow Information Export (IPFIX) protocol specification in RFC 5101 and the IPFIX information model specified in RFC 5102 to support hierarchical structured data and lists (sequences) of Information Elements in data records.  This extension allows definition of complex data structures such as variable-length lists and specification of hierarchical containment relationships between Templates.  Finally, the semantics are provided in order to express the relationship among multiple list elements in a structured data record. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

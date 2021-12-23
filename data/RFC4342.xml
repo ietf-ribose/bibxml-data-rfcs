@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4342" target="https://www.rfc-editor.org/info/rfc4342">
+  <front>
+    <title>Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control ID 3: TCP-Friendly Rate Control (TFRC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4342"/>
+    <author fullname="S. Floyd"/>
+    <author fullname="E. Kohler"/>
+    <author fullname="J. Padhye"/>
+    <date year="2006" month="March" day="1"/>
+    <workgroup>dccp</workgroup>
+    <keyword>transport protocol</keyword>
+    <keyword>ecn</keyword>
+    <keyword>explicit congestion notification</keyword>
+    <keyword>ccid3</keyword>
+    <abstract>This document contains the profile for Congestion Control Identifier 3, TCP-Friendly Rate Control (TFRC), in the Datagram Congestion Control Protocol (DCCP).  CCID 3 should be used by senders that want a TCP-friendly sending rate, possibly with Explicit Congestion Notification (ECN), while minimizing abrupt rate changes. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4963" target="https://www.rfc-editor.org/info/rfc4963">
+  <front>
+    <title>IPv4 Reassembly Errors at High Data Rates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4963"/>
+    <author fullname="J. Heffner"/>
+    <author fullname="M. Mathis"/>
+    <author fullname="B. Chandler"/>
+    <date year="2007" month="July" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <abstract>IPv4 fragmentation is not sufficiently robust for use under some conditions in today's Internet.  At high data rates, the 16-bit IP identification field is not large enough to prevent frequent incorrectly assembled IP fragments, and the TCP and UDP checksums are insufficient to prevent the resulting corrupted datagrams from being delivered to higher protocol layers.  This note describes some easily reproduced experiments demonstrating the problem, and discusses some of the operational implications of these observations.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

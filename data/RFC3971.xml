@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC3971" target="https://www.rfc-editor.org/info/rfc3971">
+  <front>
+    <title>SEcure Neighbor Discovery (SEND)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3971"/>
+    <author fullname="J. Arkko"/>
+    <author fullname="J. Kempf"/>
+    <author fullname="B. Zill"/>
+    <author fullname="P. Nikander"/>
+    <date year="2005" month="March" day="1"/>
+    <workgroup>send</workgroup>
+    <keyword>Neighbor Discovery Protocol</keyword>
+    <keyword>NDP</keyword>
+    <abstract>IPv6 nodes use the Neighbor Discovery Protocol (NDP) to discover other nodes on the link, to determine their link-layer addresses to find routers, and to maintain reachability information about the paths to active neighbors.  If not secured, NDP is vulnerable to various attacks.  This document specifies security mechanisms for NDP.  Unlike those in the original NDP specifications, these mechanisms do not use IPsec. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

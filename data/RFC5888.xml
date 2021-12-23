@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5888" target="https://www.rfc-editor.org/info/rfc5888">
+  <front>
+    <title>The Session Description Protocol (SDP) Grouping Framework</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5888"/>
+    <author fullname="G. Camarillo"/>
+    <author fullname="H. Schulzrinne"/>
+    <date year="2010" month="June" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>SDP</keyword>
+    <keyword>grouping</keyword>
+    <keyword>SIP</keyword>
+    <abstract>In this specification, we define a framework to group "m" lines in the Session Description Protocol (SDP) for different purposes.  This framework uses the "group" and "mid" SDP attributes, both of which are defined in this specification.  Additionally, we specify how to use the framework for two different purposes: for lip synchronization and for receiving a media flow consisting of several media streams on different transport addresses.  This document obsoletes RFC 3388. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

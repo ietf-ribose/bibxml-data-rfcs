@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC3456" target="https://www.rfc-editor.org/info/rfc3456">
+  <front>
+    <title>Dynamic Host Configuration Protocol (DHCPv4) Configuration of IPsec Tunnel Mode</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3456"/>
+    <author fullname="B. Patel"/>
+    <author fullname="B. Aboba"/>
+    <author fullname="S. Kelly"/>
+    <author fullname="V. Gupta"/>
+    <date year="2003" month="January" day="1"/>
+    <workgroup>ipsra</workgroup>
+    <keyword>security</keyword>
+    <keyword>internet protocol</keyword>
+    <abstract>This memo explores the requirements for host configuration in IPsec tunnel mode, and describes how the Dynamic Host Configuration Protocol (DHCPv4) may be leveraged for configuration.  In many remote access scenarios, a mechanism for making the remote host appear to be present on the local corporate network is quite useful.  This may be accomplished by assigning the host a "virtual" address from the corporate network, and then tunneling traffic via IPsec from the host's ISP-assigned address to the corporate security gateway.  In IPv4, DHCP provides for such remote host configuration. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC8269" target="https://www.rfc-editor.org/info/rfc8269">
+  <front>
+    <title>The ARIA Algorithm and Its Use with the Secure Real-Time Transport Protocol (SRTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8269"/>
+    <author fullname="W. Kim"/>
+    <author fullname="J. Lee"/>
+    <author fullname="J. Park"/>
+    <author fullname="D. Kwon"/>
+    <author fullname="D. Kim"/>
+    <date year="2017" month="October" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>ARIA</keyword>
+    <keyword>SRTP</keyword>
+    <keyword>DTLS-SRTP</keyword>
+    <keyword>MIKEY</keyword>
+    <abstract>This document defines the use of the ARIA block cipher algorithm within the Secure Real-time Transport Protocol (SRTP).  It details two modes of operation (CTR and GCM) and the SRTP key derivation functions for ARIA.  Additionally, this document defines DTLS-SRTP protection profiles and Multimedia Internet KEYing (MIKEY) parameter sets for use with ARIA.</abstract>
+  </front>
+</reference>

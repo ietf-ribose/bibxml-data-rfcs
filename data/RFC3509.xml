@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3509" target="https://www.rfc-editor.org/info/rfc3509">
+  <front>
+    <title>Alternative Implementations of OSPF Area Border Routers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3509"/>
+    <author fullname="A. Zinin"/>
+    <author fullname="A. Lindem"/>
+    <author fullname="D. Yeung"/>
+    <date year="2003" month="April" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>traffic</keyword>
+    <keyword>backbone</keyword>
+    <abstract>Open Shortest Path First (OSPF) is a link-state intra-domain routing protocol used for routing in IP networks.  Though the definition of the Area Border Router (ABR) in the OSPF specification does not require a router with multiple attached areas to have a backbone connection, it is actually necessary to provide successful routing to the inter-area and external destinations.  If this requirement is not met, all traffic destined for the areas not connected to such an ABR or out of the OSPF domain, is dropped.  This document describes alternative ABR behaviors implemented in Cisco and IBM routers.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

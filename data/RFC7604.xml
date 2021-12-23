@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7604" target="https://www.rfc-editor.org/info/rfc7604">
+  <front>
+    <title>Comparison of Different NAT Traversal Techniques for Media Controlled by the Real-Time Streaming Protocol (RTSP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7604"/>
+    <author fullname="M. Westerlund"/>
+    <author fullname="T. Zeng"/>
+    <date year="2015" month="September" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>RTP</keyword>
+    <keyword>Real-time Transport Protocol</keyword>
+    <keyword>Real-time</keyword>
+    <keyword>Firewall</keyword>
+    <keyword>UDP</keyword>
+    <abstract>This document describes several Network Address Translator (NAT) traversal techniques that were considered to be used for establishing the RTP media flows controlled by the Real-Time Streaming Protocol (RTSP).  Each technique includes a description of how it would be used, the security implications of using it, and any other deployment considerations it has.  There are also discussions on how NAT traversal techniques relate to firewalls and how each technique can be applied in different use cases.  These findings were used when selecting the NAT traversal for RTSP 2.0, which is specified in a separate document.</abstract>
+  </front>
+</reference>

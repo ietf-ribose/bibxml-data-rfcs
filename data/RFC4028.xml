@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4028" target="https://www.rfc-editor.org/info/rfc4028">
+  <front>
+    <title>Session Timers in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4028"/>
+    <author fullname="S. Donovan"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2005" month="April" day="1"/>
+    <workgroup>sip</workgroup>
+    <keyword>re-invite request</keyword>
+    <keyword>update request</keyword>
+    <keyword>session-expires</keyword>
+    <keyword>min-se</keyword>
+    <abstract>This document defines an extension to the Session Initiation Protocol (SIP).  This extension allows for a periodic refresh of SIP sessions through a \%re-INVITE or UPDATE request.  The refresh allows both user agents and proxies to determine whether the SIP session is still active.  The extension defines two new header fields: \%Session-Expires, which conveys the lifetime of the session, and \%Min-SE, which conveys the minimum allowed value for the session timer. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

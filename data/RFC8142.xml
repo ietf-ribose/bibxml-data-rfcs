@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8142" target="https://www.rfc-editor.org/info/rfc8142">
+  <front>
+    <title>GeoJSON Text Sequences</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8142"/>
+    <author fullname="S. Gillies"/>
+    <date year="2017" month="April" day="1"/>
+    <workgroup>geojson</workgroup>
+    <keyword>JSON</keyword>
+    <keyword>Geospatial</keyword>
+    <keyword>JavaScript Object Notation</keyword>
+    <abstract>This document describes the GeoJSON text sequence format and "application/geo+json-seq" media type.  This format is based on JavaScript Object Notation (JSON) text sequences and GeoJSON, and it makes arbitrarily large geographic datasets incrementally parseable without restricting the form of GeoJSON texts within a sequence.</abstract>
+  </front>
+</reference>

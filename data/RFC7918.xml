@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC7918" target="https://www.rfc-editor.org/info/rfc7918">
+  <front>
+    <title>Transport Layer Security (TLS) False Start</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7918"/>
+    <author fullname="A. Langley"/>
+    <author fullname="N. Modadugu"/>
+    <author fullname="B. Moeller"/>
+    <date year="2016" month="August" day="1"/>
+    <workgroup>tls</workgroup>
+    <abstract>This document specifies an optional behavior of Transport Layer Security (TLS) client implementations, dubbed "False Start".  It affects only protocol timing, not on-the-wire protocol data, and can be implemented unilaterally.  A TLS False Start reduces handshake latency to one round trip.</abstract>
+  </front>
+</reference>

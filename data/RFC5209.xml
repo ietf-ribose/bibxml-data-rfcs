@@ -1,0 +1,26 @@
+<reference anchor="IETF.RFC5209" target="https://www.rfc-editor.org/info/rfc5209">
+  <front>
+    <title>Network Endpoint Assessment (NEA): Overview and Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5209"/>
+    <author fullname="P. Sangster"/>
+    <author fullname="H. Khosravi"/>
+    <author fullname="M. Mani"/>
+    <author fullname="K. Narayan"/>
+    <author fullname="J. Tardo"/>
+    <date year="2008" month="June" day="1"/>
+    <workgroup>nea</workgroup>
+    <keyword>Posture</keyword>
+    <keyword>Remediation</keyword>
+    <keyword>reassessment</keyword>
+    <keyword>Validator</keyword>
+    <keyword>Collector</keyword>
+    <keyword>Broker</keyword>
+    <keyword>compliance</keyword>
+    <keyword>privacy</keyword>
+    <keyword>disclosure</keyword>
+    <keyword>replay</keyword>
+    <keyword>trust</keyword>
+    <keyword>policy</keyword>
+    <abstract>This document defines the problem statement, scope, and protocol requirements between the components of the NEA (Network Endpoint Assessment) reference model.  NEA provides owners of networks (e.g., an enterprise offering remote access) a mechanism to evaluate the posture of a system.  This may take place during the request for network access and/or subsequently at any time while connected to the network.  The learned posture information can then be applied to a variety of compliance-oriented decisions.  The posture information is frequently useful for detecting systems that are lacking or have out-of-date security protection mechanisms such as: anti-virus and host-based firewall software.  In order to provide context for the requirements, a reference model and terminology are introduced.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

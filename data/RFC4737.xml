@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4737" target="https://www.rfc-editor.org/info/rfc4737">
+  <front>
+    <title>Packet Reordering Metrics</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4737"/>
+    <author fullname="A. Morton"/>
+    <author fullname="L. Ciavattone"/>
+    <author fullname="G. Ramachandran"/>
+    <author fullname="S. Shalunov"/>
+    <author fullname="J. Perser"/>
+    <date year="2006" month="November" day="1"/>
+    <workgroup>ippm</workgroup>
+    <keyword>ippm</keyword>
+    <abstract>This memo defines metrics to evaluate whether a network has maintained packet order on a packet-by-packet basis.  It provides motivations for the new metrics and discusses the measurement issues, including the context information required for all metrics.  The memo first defines a reordered singleton, and then uses it as the basis for sample metrics to quantify the extent of reordering in several useful dimensions for network characterization or receiver design.  Additional metrics quantify the frequency of reordering and the distance between separate occurrences.  We then define a metric oriented toward assessment of reordering effects on TCP.  Several examples of evaluation using the various sample metrics are included.  An appendix gives extended definitions for evaluating order with packet fragmentation. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

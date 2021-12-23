@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC3550" target="https://www.rfc-editor.org/info/rfc3550">
+  <front>
+    <title>RTP: A Transport Protocol for Real-Time Applications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3550"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="S. Casner"/>
+    <author fullname="R. Frederick"/>
+    <author fullname="V. Jacobson"/>
+    <date year="2003" month="July" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>RTP</keyword>
+    <keyword>end-to-end</keyword>
+    <keyword>network</keyword>
+    <keyword>audio</keyword>
+    <keyword>video</keyword>
+    <keyword>RTCP</keyword>
+    <abstract>This memorandum describes RTP, the real-time transport protocol.  RTP provides end-to-end network transport functions suitable for applications transmitting real-time data, such as audio, video or simulation data, over multicast or unicast network services.  RTP does not address resource reservation and does not guarantee quality-of- service for real-time services.  The data transport is augmented by a control protocol (RTCP) to allow monitoring of the data delivery in a manner scalable to large multicast networks, and to provide minimal control and identification functionality.  RTP and RTCP are designed to be independent of the underlying transport and network layers.  The protocol supports the use of RTP-level translators and mixers.  Most of the text in this memorandum is identical to RFC 1889 which it obsoletes.  There are no changes in the packet formats on the wire, only changes to the rules and algorithms governing how the protocol is used.  The biggest change is an enhancement to the scalable timer algorithm for calculating when to send RTCP packets in order to minimize transmission in excess of the intended rate when many participants join a session simultaneously. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

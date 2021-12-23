@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8985" target="https://www.rfc-editor.org/info/rfc8985">
+  <front>
+    <title>The RACK-TLP Loss Detection Algorithm for TCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8985"/>
+    <author fullname="Y. Cheng"/>
+    <author fullname="N. Cardwell"/>
+    <author fullname="N. Dukkipati"/>
+    <author fullname="P. Jha"/>
+    <date year="2021" month="February" day="1"/>
+    <workgroup>tcpm</workgroup>
+    <keyword>TCP</keyword>
+    <keyword>Loss Recovery</keyword>
+    <keyword>Reordering</keyword>
+    <abstract>This document presents the RACK-TLP loss detection algorithm for TCP.  RACK-TLP uses per-segment transmit timestamps and selective acknowledgments (SACKs) and has two parts.  Recent Acknowledgment (RACK) starts fast recovery quickly using time-based inferences derived from acknowledgment (ACK) feedback, and Tail Loss Probe (TLP) leverages RACK and sends a probe packet to trigger ACK feedback to avoid retransmission timeout (RTO) events.  Compared to the widely used duplicate acknowledgment (DupAck) threshold approach, RACK-TLP detects losses more efficiently when there are application-limited flights of data, lost retransmissions, or data packet reordering events.  It is intended to be an alternative to the DupAck threshold approach.</abstract>
+  </front>
+</reference>

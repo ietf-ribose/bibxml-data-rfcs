@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6444" target="https://www.rfc-editor.org/info/rfc6444">
+  <front>
+    <title>Location Hiding: Problem Statement and Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6444"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="L. Liess"/>
+    <author fullname="H. Tschofenig"/>
+    <author fullname="B. Stark"/>
+    <author fullname="A. Kuett"/>
+    <date year="2012" month="January" day="1"/>
+    <workgroup>ecrit</workgroup>
+    <keyword>emergency call</keyword>
+    <keyword>privacy</keyword>
+    <keyword>PSAP</keyword>
+    <keyword>Location by Reference</keyword>
+    <abstract>The emergency services architecture developed in the IETF Emergency Context Resolution with Internet Technology (ECRIT) working group describes an architecture where location information is provided by access networks to endpoints or Voice over IP (VoIP) service providers in order to determine the correct dial string and information to route the call to a Public Safety Answering Point (PSAP). To determine the PSAP Uniform Resource Identifier (URI), the usage of the Location-to-Service Translation (LoST) protocol is envisioned. This document provides a problem statement and lists requirements for situations where the Internet Access Provider (IAP) and/or the Internet Service Provider (ISP) are only willing to disclose limited or no location information. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

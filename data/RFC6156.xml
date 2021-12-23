@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6156" target="https://www.rfc-editor.org/info/rfc6156">
+  <front>
+    <title>Traversal Using Relays around NAT (TURN) Extension for IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6156"/>
+    <author fullname="G. Camarillo"/>
+    <author fullname="O. Novo"/>
+    <author fullname="S. Perreault"/>
+    <date year="2011" month="April" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>STUN</keyword>
+    <keyword>TURN</keyword>
+    <keyword>IPv6</keyword>
+    <abstract>This document adds IPv6 support to Traversal Using Relays around NAT (TURN).  IPv6 support in TURN includes IPv4-to-IPv6, IPv6-to-IPv6, and IPv6-to-IPv4 relaying.  This document defines the REQUESTED- ADDRESS-FAMILY attribute for TURN.  The REQUESTED-ADDRESS-FAMILY attribute allows a client to explicitly request the address type the TURN server will allocate (e.g., an IPv4-only node may request the TURN server to allocate an IPv6 address). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

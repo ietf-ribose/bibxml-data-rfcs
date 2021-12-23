@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6418" target="https://www.rfc-editor.org/info/rfc6418">
+  <front>
+    <title>Multiple Interfaces and Provisioning Domains Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6418"/>
+    <author fullname="M. Blanchet"/>
+    <author fullname="P. Seite"/>
+    <date year="2011" month="November" day="1"/>
+    <workgroup>mif</workgroup>
+    <keyword>multi-homing</keyword>
+    <keyword>MIF</keyword>
+    <keyword>DNS</keyword>
+    <keyword>DHCP</keyword>
+    <abstract>This document describes issues encountered by a node attached to multiple provisioning domains.  This node receives configuration information from each of its provisioning domains, where some configuration objects are global to the node and others are local to the interface.  Issues such as selecting the wrong interface to send traffic happen when conflicting node-scoped configuration objects are received and inappropriately used.  Moreover, other issues are the result of simultaneous attachment to multiple networks, such as domain selection or addressing and naming space overlaps, regardless of the provisioning mechanism.  While multiple provisioning domains are typically seen on nodes with multiple interfaces, this document also discusses situations involving single-interface nodes.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

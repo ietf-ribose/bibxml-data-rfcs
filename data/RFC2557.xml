@@ -1,0 +1,22 @@
+<reference anchor="IETF.RFC2557" target="https://www.rfc-editor.org/info/rfc2557">
+  <front>
+    <title>MIME Encapsulation of Aggregate Documents, such as HTML (MHTML)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2557"/>
+    <author fullname="J. Palme"/>
+    <author fullname="A. Hopmann"/>
+    <author fullname="N. Shelness"/>
+    <date year="1999" month="March" day="1"/>
+    <workgroup>mhtml</workgroup>
+    <keyword>MHTML</keyword>
+    <keyword>multipurpose</keyword>
+    <keyword>internet</keyword>
+    <keyword>mail</keyword>
+    <keyword>extensions</keyword>
+    <keyword>multimedia</keyword>
+    <keyword>uri</keyword>
+    <keyword>uniform</keyword>
+    <keyword>resource</keyword>
+    <keyword>identifiers</keyword>
+    <abstract>This document a) defines the use of a MIME multipart/related structure to aggregate a text/html root resource and the subsidiary resources it references, and b) specifies a MIME content-header (Content-Location) that allow URIs in a multipart/related text/html root body part to reference subsidiary resources in other body parts of the same multipart/related structure. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5069" target="https://www.rfc-editor.org/info/rfc5069">
+  <front>
+    <title>Security Threats and Requirements for Emergency Call Marking and Mapping</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5069"/>
+    <author fullname="T. Taylor"/>
+    <author fullname="H. Tschofenig"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="M. Shanmugam"/>
+    <date year="2008" month="January" day="1"/>
+    <workgroup>ecrit</workgroup>
+    <keyword>ecrit</keyword>
+    <keyword>public safety answering points</keyword>
+    <keyword>pasp</keyword>
+    <abstract>This document reviews the security threats associated with the marking of signalling messages to indicate that they are related to an emergency, and with the process of mapping locations to Universal Resource Identifiers (URIs) that point to Public Safety Answering Points (PSAPs). This mapping occurs as part of the process of routing emergency calls through the IP network. Based on the identified threats, this document establishes a set of security requirements for the mapping protocol and for the handling of emergency-marked calls. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

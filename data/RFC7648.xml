@@ -1,0 +1,35 @@
+<reference anchor="IETF.RFC7648" target="https://www.rfc-editor.org/info/rfc7648">
+  <front>
+    <title>Port Control Protocol (PCP) Proxy Function</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7648"/>
+    <author fullname="S. Perreault"/>
+    <author fullname="M. Boucadair"/>
+    <author fullname="R. Penno"/>
+    <author fullname="D. Wing"/>
+    <author fullname="S. Cheshire"/>
+    <date year="2015" month="September" day="1"/>
+    <workgroup>pcp</workgroup>
+    <keyword>NAT</keyword>
+    <keyword>firewall</keyword>
+    <keyword>CGN</keyword>
+    <keyword>AFTR</keyword>
+    <keyword>NAT64</keyword>
+    <keyword>port forwarding</keyword>
+    <keyword>pinholing</keyword>
+    <keyword>port mapping</keyword>
+    <keyword>external IP address</keyword>
+    <keyword>discover port number</keyword>
+    <keyword>running a server behind NAT</keyword>
+    <keyword>NAT control</keyword>
+    <keyword>NAT cascading</keyword>
+    <keyword>DS-Lite</keyword>
+    <keyword>incoming connection</keyword>
+    <keyword>control outbound connection</keyword>
+    <keyword>referral</keyword>
+    <keyword>address referral</keyword>
+    <keyword>ALG offload</keyword>
+    <keyword>PCP client</keyword>
+    <keyword>PCP server</keyword>
+    <abstract>This document specifies a new Port Control Protocol (PCP) functional element: the PCP proxy.  The PCP proxy relays PCP requests received from PCP clients to upstream PCP server(s).  A typical deployment usage of this function is to help establish successful PCP communications for PCP clients that cannot be configured with the address of a PCP server located more than one hop away.</abstract>
+  </front>
+</reference>

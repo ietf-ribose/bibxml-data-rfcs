@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC8256" target="https://www.rfc-editor.org/info/rfc8256">
+  <front>
+    <title>Requirements for Hitless MPLS Path Segment Monitoring</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8256"/>
+    <author fullname="A. D'Alessandro"/>
+    <author fullname="L. Andersson"/>
+    <author fullname="S. Ueno"/>
+    <author fullname="K. Arai"/>
+    <author fullname="Y. Koike"/>
+    <date year="2017" month="October" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>HPSM</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>MPLS Transport Profile</keyword>
+    <keyword>mpls-tp</keyword>
+    <keyword>OAM</keyword>
+    <keyword>monitoring</keyword>
+    <keyword>Hitless Path Segment Monitoring</keyword>
+    <keyword>Path Segment Monitoring</keyword>
+    <keyword>HPSM</keyword>
+    <abstract>One of the most important Operations, Administration, and Maintenance (OAM) capabilities for transport-network operation is fault localization.  An in-service, on-demand path segment monitoring function of a transport path is indispensable, particularly when the service monitoring function is activated only between endpoints.  However, the current segment monitoring approach defined for MPLS (including the MPLS Transport Profile (MPLS-TP)) in RFC 6371 "Operations, Administration, and Maintenance Framework for MPLS-Based Transport Networks" has drawbacks.  This document provides an analysis of the existing MPLS-TP OAM mechanisms for the path segment monitoring and provides requirements to guide the development of new OAM tools to support Hitless Path Segment Monitoring (HPSM).</abstract>
+  </front>
+</reference>

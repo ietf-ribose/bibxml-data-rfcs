@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC3858" target="https://www.rfc-editor.org/info/rfc3858">
+  <front>
+    <title>An Extensible Markup Language (XML) Based Format for Watcher Information</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3858"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2004" month="August" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>Extensible Markup Language</keyword>
+    <keyword>xml</keyword>
+    <abstract>Watchers are defined as entities that request (i.e., subscribe to) information about a resource.  There is fairly complex state associated with these subscriptions.  The union of the state for all subscriptions to a particular resource is called the watcher information for that resource.  This state is dynamic, changing as subscribers come and go.  As a result, it is possible, and indeed useful, to subscribe to the watcher information for a particular resource.  In order to enable this, a format is needed to describe the state of watchers on a resource.  This specification describes an Extensible Markup Language (XML) document format for such state. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

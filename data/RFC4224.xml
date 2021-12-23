@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4224" target="https://www.rfc-editor.org/info/rfc4224">
+  <front>
+    <title>RObust Header Compression (ROHC): ROHC over Channels That Can Reorder Packets</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4224"/>
+    <author fullname="G. Pelletier"/>
+    <author fullname="L-E. Jonsson"/>
+    <author fullname="K. Sandlund"/>
+    <date year="2006" month="January" day="1"/>
+    <workgroup>rohc</workgroup>
+    <abstract>RObust Header Compression (ROHC), RFC 3095, defines a framework for header compression, along with a number of compression protocols (profiles).  One operating assumption for the profiles defined in RFC 3095 is that the channel between compressor and decompressor is required to maintain packet ordering.  This document discusses aspects of using ROHC over channels that can reorder packets.  It provides guidelines on how to implement existing profiles over such channels, as well as suggestions for the design of new profiles.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

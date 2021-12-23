@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5004" target="https://www.rfc-editor.org/info/rfc5004">
+  <front>
+    <title>Avoid BGP Best Path Transitions from One External to Another</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5004"/>
+    <author fullname="E. Chen"/>
+    <author fullname="S. Sangli"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>border gateway protocol</keyword>
+    <abstract>In this document, we propose an extension to the BGP route selection rules that would avoid unnecessary best path transitions between external paths under certain conditions.  The proposed extension would help the overall network stability, and more importantly, would eliminate certain BGP route oscillations in which more than one external path from one BGP speaker contributes to the churn. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

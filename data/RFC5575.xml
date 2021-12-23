@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC5575" target="https://www.rfc-editor.org/info/rfc5575">
+  <front>
+    <title>Dissemination of Flow Specification Rules</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5575"/>
+    <author fullname="P. Marques"/>
+    <author fullname="N. Sheth"/>
+    <author fullname="R. Raszuk"/>
+    <author fullname="B. Greene"/>
+    <author fullname="J. Mauch"/>
+    <author fullname="D. McPherson"/>
+    <date year="2009" month="August" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>IDR</keyword>
+    <keyword>Inter-domain routing</keyword>
+    <keyword>BGP</keyword>
+    <keyword>DDOS</keyword>
+    <keyword>Denial of Service</keyword>
+    <keyword>ACL</keyword>
+    <keyword>Firewall</keyword>
+    <keyword>Filter</keyword>
+    <abstract>This document defines a new Border Gateway Protocol Network Layer Reachability Information (BGP NLRI) encoding format that can be used to distribute traffic flow specifications. This allows the routing system to propagate information regarding more specific components of the traffic aggregate defined by an IP destination prefix. Additionally, it defines two applications of that encoding format: one that can be used to automate inter-domain coordination of traffic filtering, such as what is required in order to mitigate (distributed) denial-of-service attacks, and a second application to provide traffic filtering in the context of a BGP/MPLS VPN service. The information is carried via the BGP, thereby reusing protocol algorithms, operational experience, and administrative processes such as inter-provider peering agreements. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

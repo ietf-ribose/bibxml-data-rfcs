@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7081" target="https://www.rfc-editor.org/info/rfc7081">
+  <front>
+    <title>CUSAX: Combined Use of the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7081"/>
+    <author fullname="E. Ivov"/>
+    <author fullname="P. Saint-Andre"/>
+    <author fullname="E. Marocco"/>
+    <date year="2013" month="November" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>real-time communication</keyword>
+    <keyword>unified communication</keyword>
+    <keyword>voice</keyword>
+    <keyword>video</keyword>
+    <keyword>instant messaging</keyword>
+    <keyword>chat</keyword>
+    <keyword>presence</keyword>
+    <keyword>telephony</keyword>
+    <abstract>This document suggests some strategies for the combined use of the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP) both in user-oriented clients and in deployed servers.  Such strategies, which mainly consist of configuration changes and minimal software modifications to existing clients and servers, aim to provide a single, full-featured, real-time communication service by using complementary subsets of features from SIP and from XMPP.  Typically, such subsets consist of telephony capabilities from SIP and instant messaging and presence capabilities from XMPP.  This document does not define any new protocols or syntax for either SIP or XMPP and, by intent, does not attempt to standardize "best current practices".  Instead, it merely aims to provide practical guidance to those who are interested in the combined use of SIP and XMPP for real-time communication.</abstract>
+  </front>
+</reference>

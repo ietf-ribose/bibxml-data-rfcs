@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6080" target="https://www.rfc-editor.org/info/rfc6080">
+  <front>
+    <title>A Framework for Session Initiation Protocol User Agent Profile Delivery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6080"/>
+    <author fullname="D. Petrie"/>
+    <author fullname="S. Channabasappa"/>
+    <date year="2011" month="March" day="1"/>
+    <workgroup>sipping</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Configuration</keyword>
+    <keyword>Framework</keyword>
+    <keyword>User Agent</keyword>
+    <keyword>profile</keyword>
+    <abstract>This document specifies a framework to enable configuration of Session Initiation Protocol (SIP) user agents (UAs) in SIP deployments.  The framework provides a means to deliver profile data that user agents need to be functional, automatically and with minimal or no User and Administrative intervention.  The framework describes how SIP user agents can discover sources, request profiles, and receive notifications related to profile modifications.  As part of this framework, a new SIP event package is defined for notification of profile changes.  The framework provides minimal data retrieval options to ensure interoperability.  The framework does not include specification of the profile data within its scope. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

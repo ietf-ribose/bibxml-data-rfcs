@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7789" target="https://www.rfc-editor.org/info/rfc7789">
+  <front>
+    <title>Impact of BGP Filtering on Inter-Domain Routing Policies</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7789"/>
+    <author fullname="C. Cardona"/>
+    <author fullname="P. Francois"/>
+    <author fullname="P. Lucente"/>
+    <date year="2016" month="April" day="1"/>
+    <workgroup>grow</workgroup>
+    <keyword>More-specific prefix</keyword>
+    <keyword>Less-specific prefix</keyword>
+    <keyword>Autonomous systems</keyword>
+    <keyword>Traffic engineering</keyword>
+    <abstract>This document describes how unexpected traffic flows can emerge across an autonomous system as the result of other autonomous systems filtering or restricting the propagation of more-specific prefixes.  We provide a review of the techniques to detect the occurrence of this issue and defend against it.</abstract>
+  </front>
+</reference>

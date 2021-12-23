@@ -1,0 +1,24 @@
+<reference anchor="IETF.RFC6765" target="https://www.rfc-editor.org/info/rfc6765">
+  <front>
+    <title>xDSL Multi-Pair Bonding (G.Bond) MIB</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6765"/>
+    <author fullname="E. Beili"/>
+    <author fullname="M. Morgenstern"/>
+    <date year="2013" month="February" day="1"/>
+    <workgroup>adslmib</workgroup>
+    <keyword>Network Management</keyword>
+    <keyword>Simple Network Management Protocol</keyword>
+    <keyword>SNMP</keyword>
+    <keyword>Management Information Base</keyword>
+    <keyword>xDSL bonding</keyword>
+    <keyword>aggregation</keyword>
+    <keyword>G.998</keyword>
+    <keyword>G.998.1</keyword>
+    <keyword>G.998.2</keyword>
+    <keyword>G.998.3</keyword>
+    <keyword>TDIM</keyword>
+    <keyword>IMA</keyword>
+    <keyword>EFM</keyword>
+    <abstract>This document defines a Management Information Base (MIB) module for use with network management protocols in TCP/IP-based internets.  This document defines an extension to the Interfaces Group MIB with a set of common objects for managing multi-pair bonded Digital Subscriber Line (xDSL) interfaces, as defined in ITU-T Recommendations G.998.1, G.998.2, and G.998.3.  The textual conventions defining the bonding schemes are contained in a separate MIB module maintained by Internet Assigned Numbers Authority (IANA).  The MIB modules specific to each bonding technology are defined in G9981-MIB, G9982-MIB, and G9983-MIB, respectively.</abstract>
+  </front>
+</reference>

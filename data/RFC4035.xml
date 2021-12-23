@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC4035" target="https://www.rfc-editor.org/info/rfc4035">
+  <front>
+    <title>Protocol Modifications for the DNS Security Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4035"/>
+    <author fullname="R. Arends"/>
+    <author fullname="R. Austein"/>
+    <author fullname="M. Larson"/>
+    <author fullname="D. Massey"/>
+    <author fullname="S. Rose"/>
+    <date year="2005" month="March" day="1"/>
+    <workgroup>dnsext</workgroup>
+    <keyword>domain name system</keyword>
+    <keyword>authentication</keyword>
+    <keyword>origin integrity</keyword>
+    <keyword>dnssec</keyword>
+    <keyword>domain name system security extensions</keyword>
+    <abstract>This document is part of a family of documents that describe the DNS Security Extensions (DNSSEC). The DNS Security Extensions are a collection of new resource records and protocol modifications that add data origin authentication and data integrity to the DNS. This document describes the DNSSEC protocol modifications. This document defines the concept of a signed zone, along with the requirements for serving and resolving by using DNSSEC. These techniques allow a security-aware resolver to authenticate both DNS resource records and authoritative DNS error indications. This document obsoletes RFC 2535 and incorporates changes from all updates to RFC 2535. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

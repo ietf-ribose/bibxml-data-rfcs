@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7309" target="https://www.rfc-editor.org/info/rfc7309">
+  <front>
+    <title>Redundancy Mechanism for Inter-domain VPLS Service</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7309"/>
+    <author fullname="Z. Liu"/>
+    <author fullname="L. Jin"/>
+    <author fullname="R. Chen"/>
+    <author fullname="D. Cai"/>
+    <author fullname="S. Salam"/>
+    <date year="2014" month="July" day="1"/>
+    <workgroup>l2vpn</workgroup>
+    <keyword>ICCP</keyword>
+    <keyword>PW</keyword>
+    <abstract>In many existing Virtual Private LAN Service (VPLS) inter-domain deployments (based on RFC 4762), pseudowire (PW) connectivity offers no Provider Edge (PE) node redundancy, or offers PE node redundancy with only a single domain.  This deployment approach incurs a high risk of service interruption, since at least one domain will not offer PE node redundancy.  This document describes an inter-domain VPLS solution that provides PE node redundancy across domains.</abstract>
+  </front>
+</reference>

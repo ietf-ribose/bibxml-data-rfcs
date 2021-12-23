@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC3451" target="https://www.rfc-editor.org/info/rfc3451">
+  <front>
+    <title>Layered Coding Transport (LCT) Building Block</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3451"/>
+    <author fullname="M. Luby"/>
+    <author fullname="J. Gemmell"/>
+    <author fullname="L. Vicisano"/>
+    <author fullname="L. Rizzo"/>
+    <author fullname="M. Handley"/>
+    <author fullname="J. Crowcroft"/>
+    <date year="2002" month="December" day="1"/>
+    <workgroup>rmt</workgroup>
+    <keyword>content</keyword>
+    <keyword>stream</keyword>
+    <keyword>delivery</keyword>
+    <keyword>multicast</keyword>
+    <keyword>internet protocol</keyword>
+    <abstract>Layered Coding Transport (LCT) provides transport level support for reliable content delivery and stream delivery protocols.  LCT is specifically designed to support protocols using IP multicast, but also provides support to protocols that use unicast.  LCT is compatible with congestion control that provides multiple rate delivery to receivers and is also compatible with coding techniques that provide reliable delivery of content.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

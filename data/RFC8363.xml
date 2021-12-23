@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC8363" target="https://www.rfc-editor.org/info/rfc8363">
+  <front>
+    <title>GMPLS OSPF-TE Extensions in Support of Flexi-Grid Dense Wavelength Division Multiplexing (DWDM) Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8363"/>
+    <author fullname="X. Zhang"/>
+    <author fullname="H. Zheng"/>
+    <author fullname="R. Casellas"/>
+    <author fullname="O. Gonzalez de Dios"/>
+    <author fullname="D. Ceccarelli"/>
+    <date year="2018" month="May" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>flexi-grid</keyword>
+    <keyword>OSPF-TE</keyword>
+    <keyword>central frequency</keyword>
+    <keyword>frequency slot</keyword>
+    <keyword>channel spacing</keyword>
+    <abstract>The International Telecommunication Union Telecommunication standardization sector (ITU-T) has extended its Recommendations G.694.1 and G.872 to include a new Dense Wavelength Division Multiplexing (DWDM) grid by defining channel spacings, a set of nominal central frequencies, and the concept of the "frequency slot". Corresponding techniques for data-plane connections are known as "flexi-grid". Based on the characteristics of flexi-grid defined in G.694.1 and in RFCs 7698 and 7699, this document describes the Open Shortest Path First - Traffic Engineering (OSPF-TE) extensions in support of GMPLS control of networks that include devices that use the new flexible optical grid.</abstract>
+  </front>
+</reference>

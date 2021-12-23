@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4969" target="https://www.rfc-editor.org/info/rfc4969">
+  <front>
+    <title>IANA Registration for vCard Enumservice</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4969"/>
+    <author fullname="A. Mayrhofer"/>
+    <date year="2007" month="August" day="1"/>
+    <workgroup>enum</workgroup>
+    <keyword>enum</keyword>
+    <keyword>e.164</keyword>
+    <abstract>This memo registers the Enumservice "vCard" using the URI schemes "http" and "https". This Enumservice is to be used to refer from an ENUM domain name to a vCard instance describing the user of the respective E.164 number. Information gathered from those vCards could be used before, during, or after inbound or outbound communication takes place. For example, a callee might be presented with the name and association of the caller before picking up the call. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

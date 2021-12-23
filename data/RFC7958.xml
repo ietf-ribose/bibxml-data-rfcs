@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7958" target="https://www.rfc-editor.org/info/rfc7958">
+  <front>
+    <title>DNSSEC Trust Anchor Publication for the Root Zone</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7958"/>
+    <author fullname="J. Abley"/>
+    <author fullname="J. Schlyter"/>
+    <author fullname="G. Bailey"/>
+    <author fullname="P. Hoffman"/>
+    <date year="2016" month="August" day="1"/>
+    <keyword>DNS</keyword>
+    <keyword>ICANN</keyword>
+    <keyword>IANA</keyword>
+    <keyword>KSK</keyword>
+    <abstract>The root zone of the Domain Name System (DNS) has been cryptographically signed using DNS Security Extensions (DNSSEC). In order to obtain secure answers from the root zone of the DNS using DNSSEC, a client must configure a suitable trust anchor. This document describes the format and publication mechanisms IANA has used to distribute the DNSSEC trust anchors.</abstract>
+  </front>
+</reference>

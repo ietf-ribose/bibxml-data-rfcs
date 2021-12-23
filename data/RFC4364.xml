@@ -1,0 +1,25 @@
+<reference anchor="IETF.RFC4364" target="https://www.rfc-editor.org/info/rfc4364">
+  <front>
+    <title>BGP/MPLS IP Virtual Private Networks (VPNs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4364"/>
+    <author fullname="E. Rosen"/>
+    <author fullname="Y. Rekhter"/>
+    <date year="2006" month="February" day="1"/>
+    <workgroup>l3vpn</workgroup>
+    <keyword>service provider</keyword>
+    <keyword>ip backbone</keyword>
+    <keyword>ce router</keyword>
+    <keyword>pe router</keyword>
+    <keyword>border</keyword>
+    <keyword>gateway</keyword>
+    <keyword>protocol</keyword>
+    <keyword>multiprotocol</keyword>
+    <keyword>label</keyword>
+    <keyword>switching</keyword>
+    <keyword>architecture</keyword>
+    <keyword>virtual</keyword>
+    <keyword>private</keyword>
+    <keyword>networks</keyword>
+    <abstract>This document describes a method by which a Service Provider may use an IP backbone to provide IP Virtual Private Networks (VPNs) for its customers.  This method uses a "peer model", in which the customers' edge routers (CE routers) send their routes to the Service Provider's edge routers (PE routers); there is no "overlay" visible to the customer's routing algorithm, and CE routers at different sites do not peer with each other.  Data packets are tunneled through the backbone, so that the core routers do not need to know the VPN routes. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

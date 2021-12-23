@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC7684" target="https://www.rfc-editor.org/info/rfc7684">
+  <front>
+    <title>OSPFv2 Prefix/Link Attribute Advertisement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7684"/>
+    <author fullname="P. Psenak"/>
+    <author fullname="H. Gredler"/>
+    <author fullname="R. Shakir"/>
+    <author fullname="W. Henderickx"/>
+    <author fullname="J. Tantsura"/>
+    <author fullname="A. Lindem"/>
+    <date year="2015" month="November" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>OSPF-LSA</keyword>
+    <keyword>open shortest path first</keyword>
+    <keyword>link state advertisement</keyword>
+    <keyword>Opaque LSA</keyword>
+    <abstract>OSPFv2 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisements (LSAs) as described in RFC 2328.  This document defines OSPFv2 Opaque LSAs based on Type-Length-Value (TLV) tuples that can be used to associate additional attributes with prefixes or links.  Depending on the application, these prefixes and links may or may not be advertised in the fixed-format LSAs.  The OSPFv2 Opaque LSAs are optional and fully backward compatible.</abstract>
+  </front>
+</reference>

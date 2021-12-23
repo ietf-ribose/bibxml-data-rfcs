@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC2997" target="https://www.rfc-editor.org/info/rfc2997">
+  <front>
+    <title>Specification of the Null Service Type</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2997"/>
+    <author fullname="Y. Bernet"/>
+    <author fullname="A. Smith"/>
+    <author fullname="B. Davie"/>
+    <date year="2000" month="November" day="1"/>
+    <workgroup>issll</workgroup>
+    <keyword>resource</keyword>
+    <keyword>reservation</keyword>
+    <keyword>protocol</keyword>
+    <keyword>QoS</keyword>
+    <keyword>Quality of Service</keyword>
+    <abstract>The Null Service allows applications to identify themselves to network Quality of Service (QoS) policy agents, using RSVP signaling.  However, it does not require them to specify resource requirements.  QoS policy agents in the network respond by applying QoS policies appropriate for the application (as determined by the network administrator).  This mode of RSVP usage is particularly applicable to networks that combine differentiated service (diffserv) QoS mechanisms with RSVP signaling.  In this environment, QoS policy agents may direct the signaled application's traffic to a particular diffserv class of service. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

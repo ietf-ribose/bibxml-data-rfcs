@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5553" target="https://www.rfc-editor.org/info/rfc5553">
+  <front>
+    <title>Resource Reservation Protocol (RSVP) Extensions for Path Key Support</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5553"/>
+    <author fullname="A. Farrel"/>
+    <author fullname="R. Bradford"/>
+    <author fullname="JP. Vasseur"/>
+    <date year="2009" month="May" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>pks</keyword>
+    <keyword>path key subobject</keyword>
+    <keyword>ero</keyword>
+    <keyword>explicit route object</keyword>
+    <keyword>rro</keyword>
+    <keyword>record route object</keyword>
+    <abstract>The paths taken by Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering (TE) Label Switched Paths (LSPs) may be computed by Path Computation Elements (PCEs). Where the TE LSP crosses multiple domains, such as Autonomous Systems (ASes), the path may be computed by multiple PCEs that cooperate, with each responsible for computing a segment of the path. To preserve confidentiality of topology within each AS, the PCEs support a mechanism to hide the contents of a segment of a path (such as the segment of the path that traverses an AS), called the Confidential Path Segment (CPS), by encoding the contents as a Path Key Subobject (PKS) and embedding this subobject within the result of its path computation. This document describes how to carry Path Key Subobjects in the Resource Reservation Protocol (RSVP) Explicit Route Objects (EROs) and Record Route Objects (RROs) so as to facilitate confidentiality in the signaling of inter-domain TE LSPs. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

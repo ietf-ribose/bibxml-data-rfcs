@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC7509" target="https://www.rfc-editor.org/info/rfc7509">
+  <front>
+    <title>RTP Control Protocol (RTCP) Extended Report (XR) for Post-Repair Loss Count Metrics</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7509"/>
+    <author fullname="R. Huang"/>
+    <author fullname="V. Singh"/>
+    <date year="2015" month="May" day="1"/>
+    <workgroup>xrblock</workgroup>
+    <abstract>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows reporting of a post-repair loss count metric for a range of RTP applications.  In addition, another metric, repaired loss count, is also introduced in this report block for calculating the pre-repair loss count when needed, so that the RTP sender or a third-party entity is able to evaluate the effectiveness of the repair methods used by the system.</abstract>
+  </front>
+</reference>

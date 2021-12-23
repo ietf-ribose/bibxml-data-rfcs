@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8079" target="https://www.rfc-editor.org/info/rfc8079">
+  <front>
+    <title>Guidelines for End-to-End Support of the RTP Control Protocol (RTCP) in Back-to-Back User Agents (B2BUAs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8079"/>
+    <author fullname="L. Miniero"/>
+    <author fullname="S. Garcia Murillo"/>
+    <author fullname="V. Pascual"/>
+    <date year="2017" month="February" day="1"/>
+    <workgroup>straw</workgroup>
+    <abstract>SIP Back-to-Back User Agents (B2BUAs) are often designed to also be on the media path, rather than just to intercept signalling. This means that B2BUAs often implement an RTP or RTP Control Protocol (RTCP) stack as well, thus leading to separate multimedia sessions that the B2BUA correlates and bridges together. If not disciplined, this behaviour can severely impact the communication experience, especially when statistics and feedback information contained in RTCP messages get lost because of mismatches in the reported data. This document defines the proper behaviour B2BUAs should follow when acting on both the signalling plane and media plane in order to preserve the end-to-end functionality of RTCP.</abstract>
+  </front>
+</reference>

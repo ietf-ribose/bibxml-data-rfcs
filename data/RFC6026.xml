@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC6026" target="https://www.rfc-editor.org/info/rfc6026">
+  <front>
+    <title>Correct Transaction Handling for 2xx Responses to Session Initiation Protocol (SIP) INVITE Requests</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6026"/>
+    <author fullname="R. Sparks"/>
+    <author fullname="T. Zourzouvillys"/>
+    <date year="2010" month="September" day="1"/>
+    <workgroup>sipcore</workgroup>
+    <keyword>state machine</keyword>
+    <keyword>retransmission</keyword>
+    <abstract>This document normatively updates RFC 3261, the Session Initiation Protocol (SIP), to address an error in the specified handling of success (2xx class) responses to INVITE requests.  Elements following RFC 3261 exactly will misidentify retransmissions of the request as a new, unassociated request.  The correction involves modifying the INVITE transaction state machines.  The correction also changes the way responses that cannot be matched to an existing transaction are handled to address a security risk. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

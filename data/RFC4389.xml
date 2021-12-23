@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4389" target="https://www.rfc-editor.org/info/rfc4389">
+  <front>
+    <title>Neighbor Discovery Proxies (ND Proxy)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4389"/>
+    <author fullname="D. Thaler"/>
+    <author fullname="M. Talwar"/>
+    <author fullname="C. Patel"/>
+    <date year="2006" month="April" day="1"/>
+    <workgroup>ipv6</workgroup>
+    <keyword>ndproxy</keyword>
+    <abstract>Bridging multiple links into a single entity has several operational advantages.  A single subnet prefix is sufficient to support multiple physical links.  There is no need to allocate subnet numbers to the different networks, simplifying management.  Bridging some types of media requires network-layer support, however.  This document describes these cases and specifies the IP-layer support that enables bridging under these circumstances.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

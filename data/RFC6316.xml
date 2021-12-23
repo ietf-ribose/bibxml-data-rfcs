@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6316" target="https://www.rfc-editor.org/info/rfc6316">
+  <front>
+    <title>Sockets Application Program Interface (API) for Multihoming Shim</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6316"/>
+    <author fullname="M. Komu"/>
+    <author fullname="M. Bagnulo"/>
+    <author fullname="K. Slavov"/>
+    <author fullname="S. Sugimoto"/>
+    <date year="2011" month="July" day="1"/>
+    <workgroup>shim6</workgroup>
+    <keyword>Shim6</keyword>
+    <keyword>HIP</keyword>
+    <keyword>identifier/locator split</keyword>
+    <abstract>This document specifies sockets API extensions for the multihoming shim layer. The API aims to enable interactions between applications and the multihoming shim layer for advanced locator management, and access to information about failure detection and path exploration. This document is based on an assumption that a multihomed host is equipped with a conceptual sub-layer (hereafter called "shim sub- layer") inside the IP layer that maintains mappings between identifiers and locators. Examples of the shim are Shim6 and the Host Identity Protocol (HIP). This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5316" target="https://www.rfc-editor.org/info/rfc5316">
+  <front>
+    <title>ISIS Extensions in Support of Inter-Autonomous System (AS) MPLS and GMPLS Traffic Engineering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5316"/>
+    <author fullname="M. Chen"/>
+    <author fullname="R. Zhang"/>
+    <author fullname="X. Duan"/>
+    <date year="2008" month="December" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>multiprotocol label switching</keyword>
+    <keyword>generalized mpls</keyword>
+    <keyword>gmpls-te</keyword>
+    <keyword>mpls-te</keyword>
+    <keyword>isis-te</keyword>
+    <keyword>flooding</keyword>
+    <abstract>This document describes extensions to the ISIS (ISIS) protocol to support Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering (TE) for multiple Autonomous Systems (ASes). It defines ISIS-TE extensions for the flooding of TE information about inter-AS links, which can be used to perform inter- AS TE path computation. No support for flooding information from within one AS to another AS is proposed or defined in this document. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

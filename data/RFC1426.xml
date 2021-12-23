@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC1426" target="https://www.rfc-editor.org/info/rfc1426">
+  <front>
+    <title>SMTP Service Extension for 8bit-MIMEtransport</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1426"/>
+    <author fullname="J. Klensin"/>
+    <author fullname="N. Freed"/>
+    <author fullname="M. Rose"/>
+    <author fullname="E. Stefferud"/>
+    <author fullname="D. Crocker"/>
+    <date year="1993" month="February" day="1"/>
+    <workgroup>smtpext</workgroup>
+    <keyword>Mail</keyword>
+    <abstract>This memo defines an extension to the SMTP service whereby an SMTP content body containing octets outside of the US ASCII octet range (hex 00-7F) may be relayed using SMTP.</abstract>
+  </front>
+</reference>

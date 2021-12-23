@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC9039" target="https://www.rfc-editor.org/info/rfc9039">
+  <front>
+    <title>Uniform Resource Names for Device Identifiers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9039"/>
+    <author fullname="J. Arkko"/>
+    <author fullname="C. Jennings"/>
+    <author fullname="Z. Shelby"/>
+    <date year="2021" month="June" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>URN</keyword>
+    <keyword>device identifier</keyword>
+    <keyword>IMEI</keyword>
+    <keyword>1-Wire</keyword>
+    <keyword>MAC address</keyword>
+    <keyword>EUI-48</keyword>
+    <keyword>EUI-64</keyword>
+    <abstract>This document describes a new Uniform Resource Name (URN) namespace for hardware device identifiers.  A general representation of device identity can be useful in many applications, such as in sensor data streams and storage or in equipment inventories.  A URN-based representation can be passed along in applications that need the information.</abstract>
+  </front>
+</reference>

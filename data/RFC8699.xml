@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8699" target="https://www.rfc-editor.org/info/rfc8699">
+  <front>
+    <title>Coupled Congestion Control for RTP Media</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8699"/>
+    <author fullname="S. Islam"/>
+    <author fullname="M. Welzl"/>
+    <author fullname="S. Gjessing"/>
+    <date year="2020" month="January" day="1"/>
+    <workgroup>rmcat</workgroup>
+    <keyword>tcp</keyword>
+    <abstract>When multiple congestion-controlled Real-time Transport Protocol (RTP) sessions traverse the same network bottleneck, combining their controls can improve the total on-the-wire behavior in terms of delay, loss, and fairness.  This document describes such a method for flows that have the same sender, in a way that is as flexible and simple as possible while minimizing the number of changes needed to existing RTP applications.  This document also specifies how to apply the method for the Network-Assisted Dynamic Adaptation (NADA) congestion control algorithm and provides suggestions on how to apply it to other congestion control algorithms.</abstract>
+  </front>
+</reference>

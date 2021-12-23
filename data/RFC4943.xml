@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4943" target="https://www.rfc-editor.org/info/rfc4943">
+  <front>
+    <title>IPv6 Neighbor Discovery On-Link Assumption Considered Harmful</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4943"/>
+    <author fullname="S. Roy"/>
+    <author fullname="A. Durand"/>
+    <author fullname="J. Paugh"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>internet protocol version 6</keyword>
+    <abstract>This document describes the historical and background information behind the removal of the "on-link assumption" from the conceptual host sending algorithm defined in Neighbor Discovery for IP Version 6 (IPv6).  According to the algorithm as originally described, when a host's default router list is empty, the host assumes that all destinations are on-link.  This is particularly problematic with IPv6-capable nodes that do not have off-link IPv6 connectivity (e.g., no default router).  This document describes how making this assumption causes problems and how these problems outweigh the benefits of this part of the conceptual sending algorithm.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

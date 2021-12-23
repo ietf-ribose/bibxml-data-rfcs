@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC6052" target="https://www.rfc-editor.org/info/rfc6052">
+  <front>
+    <title>IPv6 Addressing of IPv4/IPv6 Translators</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6052"/>
+    <author fullname="C. Bao"/>
+    <author fullname="C. Huitema"/>
+    <author fullname="M. Bagnulo"/>
+    <author fullname="M. Boucadair"/>
+    <author fullname="X. Li"/>
+    <date year="2010" month="October" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>address</keyword>
+    <keyword>prefix</keyword>
+    <keyword>transition</keyword>
+    <keyword>translation</keyword>
+    <keyword>NAT</keyword>
+    <keyword>NAT64</keyword>
+    <keyword>BEHAVE</keyword>
+    <keyword>stateless</keyword>
+    <keyword>stateful</keyword>
+    <abstract>This document discusses the algorithmic translation of an IPv6 address to a corresponding IPv4 address, and vice versa, using only statically configured information.  It defines a well-known prefix for use in algorithmic translations, while allowing organizations to also use network-specific prefixes when appropriate.  Algorithmic translation is used in IPv4/IPv6 translators, as well as other types of proxies and gateways (e.g., for DNS) used in IPv4/IPv6 scenarios. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

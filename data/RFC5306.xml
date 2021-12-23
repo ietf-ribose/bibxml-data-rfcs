@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5306" target="https://www.rfc-editor.org/info/rfc5306">
+  <front>
+    <title>Restart Signaling for IS-IS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5306"/>
+    <author fullname="M. Shand"/>
+    <author fullname="L. Ginsberg"/>
+    <date year="2008" month="October" day="1"/>
+    <workgroup>isis</workgroup>
+    <keyword>intermediate system to intermediate system</keyword>
+    <keyword>LSP database synchronization</keyword>
+    <keyword>Link State</keyword>
+    <keyword>Routing</keyword>
+    <abstract>This document describes a mechanism for a restarting router to signal to its neighbors that it is restarting, allowing them to reestablish their adjacencies without cycling through the down state, while still correctly initiating database synchronization. This document additionally describes a mechanism for a restarting router to determine when it has achieved Link State Protocol Data Unit (LSP) database synchronization with its neighbors and a mechanism to optimize LSP database synchronization, while minimizing transient routing disruption when a router starts. This document obsoletes RFC 3847. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

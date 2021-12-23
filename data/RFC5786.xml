@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC5786" target="https://www.rfc-editor.org/info/rfc5786">
+  <front>
+    <title>Advertising a Router's Local Addresses in OSPF Traffic Engineering (TE) Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5786"/>
+    <author fullname="R. Aggarwal"/>
+    <author fullname="K. Kompella"/>
+    <date year="2010" month="March" day="1"/>
+    <workgroup>ospf</workgroup>
+    <abstract>OSPF Traffic Engineering (TE) extensions are used to advertise TE Link State Advertisements (LSAs) containing information about TE-enabled links. The only addresses belonging to a router that are advertised in TE LSAs are the local addresses corresponding to TE-enabled links, and the local address corresponding to the Router ID. In order to allow other routers in a network to compute Multiprotocol Label Switching (MPLS) Traffic Engineered Label Switched Paths (TE LSPs) to a given router's local addresses, those addresses must also be advertised by OSPF TE. This document describes procedures that enhance OSPF TE to advertise a router's local addresses. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

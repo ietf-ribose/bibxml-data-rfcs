@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7925" target="https://www.rfc-editor.org/info/rfc7925">
+  <front>
+    <title>Transport Layer Security (TLS) / Datagram Transport Layer Security (DTLS) Profiles for the Internet of Things</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7925"/>
+    <author fullname="H. Tschofenig"/>
+    <author fullname="T. Fossati"/>
+    <date year="2016" month="July" day="1"/>
+    <workgroup>dice</workgroup>
+    <keyword>Internet of Things Security</keyword>
+    <keyword>TLS Profile</keyword>
+    <keyword>DTLS Profile</keyword>
+    <keyword>IoT Security</keyword>
+    <keyword>DTLS over SMS</keyword>
+    <abstract>A common design pattern in Internet of Things (IoT) deployments is the use of a constrained device that collects data via sensors or controls actuators for use in home automation, industrial control systems, smart cities, and other IoT deployments. This document defines a Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) 1.2 profile that offers communications security for this data exchange thereby preventing eavesdropping, tampering, and message forgery. The lack of communication security is a common vulnerability in IoT products that can easily be solved by using these well-researched and widely deployed Internet security protocols.</abstract>
+  </front>
+</reference>

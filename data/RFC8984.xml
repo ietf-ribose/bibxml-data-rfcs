@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8984" target="https://www.rfc-editor.org/info/rfc8984">
+  <front>
+    <title>JSCalendar: A JSON Representation of Calendar Data</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8984"/>
+    <author fullname="N. Jenkins"/>
+    <author fullname="R. Stepanek"/>
+    <date year="2021" month="July" day="1"/>
+    <workgroup>calext</workgroup>
+    <keyword>JSON</keyword>
+    <keyword>iCalendar</keyword>
+    <keyword>calendar</keyword>
+    <keyword>events</keyword>
+    <keyword>date</keyword>
+    <keyword>time</keyword>
+    <abstract>This specification defines a data model and JSON representation of calendar data that can be used for storage and data exchange in a calendaring and scheduling environment.  It aims to be an alternative and, over time, successor to the widely deployed iCalendar data format.  It also aims to be unambiguous, extendable, and simple to process.  In contrast to the jCal format, which is also based on JSON, JSCalendar is not a direct mapping from iCalendar but defines the data model independently and expands semantics where appropriate.</abstract>
+  </front>
+</reference>

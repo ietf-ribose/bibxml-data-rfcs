@@ -1,0 +1,25 @@
+<reference anchor="IETF.RFC8410" target="https://www.rfc-editor.org/info/rfc8410">
+  <front>
+    <title>Algorithm Identifiers for Ed25519, Ed448, X25519, and X448 for Use in the Internet X.509 Public Key Infrastructure</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8410"/>
+    <author fullname="S. Josefsson"/>
+    <author fullname="J. Schaad"/>
+    <date year="2018" month="August" day="1"/>
+    <workgroup>curdle</workgroup>
+    <keyword>Elliptic Curve Cryptography</keyword>
+    <keyword>Curve25519</keyword>
+    <keyword>Curve448</keyword>
+    <keyword>Goldilocks</keyword>
+    <keyword>X.509</keyword>
+    <keyword>PKIX</keyword>
+    <keyword>PKI</keyword>
+    <keyword>OID</keyword>
+    <keyword>ASN.1</keyword>
+    <keyword>EdDSA</keyword>
+    <keyword>Ed25519</keyword>
+    <keyword>Ed448</keyword>
+    <keyword>X25519</keyword>
+    <keyword>X448</keyword>
+    <abstract>This document specifies algorithm identifiers and ASN.1 encoding formats for elliptic curve constructs using the curve25519 and curve448 curves.  The signature algorithms covered are Ed25519 and Ed448.  The key agreement algorithms covered are X25519 and X448.  The encoding for public key, private key, and Edwards-curve Digital Signature Algorithm (EdDSA) structures is provided.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6791" target="https://www.rfc-editor.org/info/rfc6791">
+  <front>
+    <title>Stateless Source Address Mapping for ICMPv6 Packets</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6791"/>
+    <author fullname="X. Li"/>
+    <author fullname="C. Bao"/>
+    <author fullname="D. Wing"/>
+    <author fullname="R. Vaithianathan"/>
+    <author fullname="G. Huston"/>
+    <date year="2012" month="November" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>IP/ICMP Translation Algorithm</keyword>
+    <keyword>IPv4-translatable IPv6 addresses</keyword>
+    <keyword>ICMPv6</keyword>
+    <keyword>traceroute</keyword>
+    <abstract>A stateless IPv4/IPv6 translator may receive ICMPv6 packets containing non-IPv4-translatable addresses as the source.  These packets should be passed across the translator as ICMP packets directed to the IPv4 destination.  This document presents recommendations for source address translation in ICMPv6 headers to handle such cases. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

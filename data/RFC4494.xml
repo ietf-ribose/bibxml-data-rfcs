@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC4494" target="https://www.rfc-editor.org/info/rfc4494">
+  <front>
+    <title>The AES-CMAC-96 Algorithm and Its Use with IPsec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4494"/>
+    <author fullname="JH. Song"/>
+    <author fullname="R. Poovendran"/>
+    <author fullname="J. Lee"/>
+    <date year="2006" month="June" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>cipher-basd message authentication code</keyword>
+    <keyword>one-key cbc-mac1</keyword>
+    <keyword>omac1</keyword>
+    <keyword>xcbc</keyword>
+    <keyword>extended cipher block chaining</keyword>
+    <keyword>advanced encryption standard</keyword>
+    <abstract>The National Institute of Standards and Technology (NIST) has recently specified the Cipher-based Message Authentication Code (CMAC), which is equivalent to the One-Key CBC-MAC1 (OMAC1) algorithm submitted by Iwata and Kurosawa.  OMAC1 efficiently reduces the key size of Extended Cipher Block Chaining mode (XCBC).  This memo specifies the use of CMAC mode as an authentication mechanism of the IPsec Encapsulating Security Payload (ESP) and the Authentication Header (AH) protocols.  This new algorithm is named AES-CMAC-96. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4311" target="https://www.rfc-editor.org/info/rfc4311">
+  <front>
+    <title>IPv6 Host-to-Router Load Sharing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4311"/>
+    <author fullname="R. Hinden"/>
+    <author fullname="D. Thaler"/>
+    <date year="2005" month="November" day="1"/>
+    <workgroup>ipv6</workgroup>
+    <keyword>internet protocol version 6</keyword>
+    <keyword>conceptual sending algorithm</keyword>
+    <abstract>The original IPv6 conceptual sending algorithm does not do load sharing among equivalent IPv6 routers, and suggests schemes that can be problematic in practice.  This document updates the conceptual sending algorithm in RFC 2461 so that traffic to different destinations can be distributed among routers in an efficient fashion. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

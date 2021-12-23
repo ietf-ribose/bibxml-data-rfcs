@@ -1,0 +1,29 @@
+<reference anchor="IETF.RFC7519" target="https://www.rfc-editor.org/info/rfc7519">
+  <front>
+    <title>JSON Web Token (JWT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7519"/>
+    <author fullname="M. Jones"/>
+    <author fullname="J. Bradley"/>
+    <author fullname="N. Sakimura"/>
+    <date year="2015" month="May" day="1"/>
+    <workgroup>oauth</workgroup>
+    <keyword>Assertion</keyword>
+    <keyword>Claim</keyword>
+    <keyword>Security Token</keyword>
+    <keyword>JavaScript Object Notation</keyword>
+    <keyword>JSON</keyword>
+    <keyword>JSON Web Token</keyword>
+    <keyword>JWT</keyword>
+    <keyword>JSON Object Signing and Encryption</keyword>
+    <keyword>JOSE</keyword>
+    <keyword>JSON Web Signature</keyword>
+    <keyword>JWS</keyword>
+    <keyword>JSON Web Encryption</keyword>
+    <keyword>JWE</keyword>
+    <keyword>JSON Web Key</keyword>
+    <keyword>JWK</keyword>
+    <keyword>JSON Web Algorithms</keyword>
+    <keyword>JWA</keyword>
+    <abstract>JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.  The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.</abstract>
+  </front>
+</reference>

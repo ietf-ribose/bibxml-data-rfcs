@@ -1,0 +1,25 @@
+<reference anchor="IETF.RFC3208" target="https://www.rfc-editor.org/info/rfc3208">
+  <front>
+    <title>PGM Reliable Transport Protocol Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3208"/>
+    <author fullname="T. Speakman"/>
+    <author fullname="J. Crowcroft"/>
+    <author fullname="J. Gemmell"/>
+    <author fullname="D. Farinacci"/>
+    <author fullname="S. Lin"/>
+    <author fullname="D. Leshchiner"/>
+    <author fullname="M. Luby"/>
+    <author fullname="T. Montgomery"/>
+    <author fullname="L. Rizzo"/>
+    <author fullname="A. Tweedly"/>
+    <author fullname="N. Bhaskar"/>
+    <author fullname="R. Edmonstone"/>
+    <author fullname="R. Sumanasekera"/>
+    <author fullname="L. Vicisano"/>
+    <date year="2001" month="December" day="1"/>
+    <keyword>pragmatic</keyword>
+    <keyword>general</keyword>
+    <keyword>multicast</keyword>
+    <abstract>Pragmatic General Multicast (PGM) is a reliable multicast transport protocol for applications that require ordered or unordered, duplicate- free, multicast data delivery from multiple sources to multiple receivers.  PGM guarantees that a receiver in the group either receives all data packets from transmissions and repairs, or is able to detect unrecoverable data packet loss.  PGM is specifically intended as a workable solution for multicast applications with basic reliability requirements.  Its central design goal is simplicity of operation with due regard for scalability and network efficiency.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

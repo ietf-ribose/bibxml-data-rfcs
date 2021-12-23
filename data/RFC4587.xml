@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4587" target="https://www.rfc-editor.org/info/rfc4587">
+  <front>
+    <title>RTP Payload Format for H.261 Video Streams</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4587"/>
+    <author fullname="R. Even"/>
+    <date year="2006" month="August" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>RTP-H.261</keyword>
+    <keyword>real-time transport protocol</keyword>
+    <keyword>sdp</keyword>
+    <keyword>session description protocol</keyword>
+    <abstract>This memo describes a scheme to packetize an H.261 video stream for transport using the Real-time Transport Protocol, RTP, with any of the underlying protocols that carry RTP. The memo also describes the syntax and semantics of the Session Description Protocol (SDP) parameters needed to support the H.261 video codec. A media type registration is included for this payload format. This specification obsoletes RFC 2032. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

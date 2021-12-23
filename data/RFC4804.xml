@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4804" target="https://www.rfc-editor.org/info/rfc4804">
+  <front>
+    <title>Aggregation of Resource ReSerVation Protocol (RSVP) Reservations over MPLS TE/DS-TE Tunnels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4804"/>
+    <author fullname="F. Le Faucheur"/>
+    <date year="2007" month="February" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>multiprotocol label switching</keyword>
+    <keyword>traffic engineering</keyword>
+    <keyword>diffserv-aware mpls traffic engineering</keyword>
+    <abstract>RFC 3175 specifies aggregation of Resource ReSerVation Protocol (RSVP) end-to-end reservations over aggregate RSVP reservations.  This document specifies aggregation of RSVP end-to-end reservations over MPLS Traffic Engineering (TE) tunnels or MPLS Diffserv-aware MPLS Traffic Engineering (DS-TE) tunnels.  This approach is based on RFC 3175 and simply modifies the corresponding procedures for operations over MPLS TE tunnels instead of aggregate RSVP reservations.  This approach can be used to achieve admission control of a very large number of flows in a scalable manner since the devices in the core of the network are unaware of the end-to-end RSVP reservations and are only aware of the MPLS TE tunnels. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC7723" target="https://www.rfc-editor.org/info/rfc7723">
+  <front>
+    <title>Port Control Protocol (PCP) Anycast Addresses</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7723"/>
+    <author fullname="S. Kiesel"/>
+    <author fullname="R. Penno"/>
+    <date year="2016" month="January" day="1"/>
+    <workgroup>pcp</workgroup>
+    <keyword>Port Control Protocol</keyword>
+    <keyword>anycast address</keyword>
+    <keyword>anycast server discovery</keyword>
+    <keyword>Port Control Protocol server discovery</keyword>
+    <keyword>port mapping</keyword>
+    <keyword>NAT control</keyword>
+    <keyword>firewall control</keyword>
+    <abstract>The Port Control Protocol (PCP) anycast addresses enable PCP clients to transmit signaling messages to their closest PCP-aware on-path NAT, firewall, or other middlebox without having to learn the IP address of that middlebox via some external channel.  This document establishes one well-known IPv4 address and one well-known IPv6 address to be used as PCP anycast addresses.</abstract>
+  </front>
+</reference>

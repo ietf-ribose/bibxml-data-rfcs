@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC3748" target="https://www.rfc-editor.org/info/rfc3748">
+  <front>
+    <title>Extensible Authentication Protocol (EAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3748"/>
+    <author fullname="B. Aboba"/>
+    <author fullname="L. Blunk"/>
+    <author fullname="J. Vollbrecht"/>
+    <author fullname="J. Carlson"/>
+    <author fullname="H. Levkowetz"/>
+    <date year="2004" month="June" day="1"/>
+    <workgroup>eap</workgroup>
+    <keyword>PPP-EAP</keyword>
+    <keyword>data link layers</keyword>
+    <keyword>ppp</keyword>
+    <keyword>point-to-point</keyword>
+    <keyword>ieee 802</keyword>
+    <abstract>This document defines the Extensible Authentication Protocol (EAP), an authentication framework which supports multiple authentication methods.  EAP typically runs directly over data link layers such as Point-to-Point Protocol (PPP) or IEEE 802, without requiring IP.  EAP provides its own support for duplicate elimination and retransmission, but is reliant on lower layer ordering guarantees.  Fragmentation is not supported within EAP itself; however, individual EAP methods may support this.  This document obsoletes RFC 2284.  A summary of the changes between this document and RFC 2284 is available in Appendix A. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

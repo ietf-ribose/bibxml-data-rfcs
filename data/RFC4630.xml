@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4630" target="https://www.rfc-editor.org/info/rfc4630">
+  <front>
+    <title>Update to DirectoryString Processing in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4630"/>
+    <author fullname="R. Housley"/>
+    <author fullname="S. Santesson"/>
+    <date year="2006" month="August" day="1"/>
+    <workgroup>pkix</workgroup>
+    <keyword>utf8string</keyword>
+    <keyword>printablestring</keyword>
+    <abstract>This document updates the handling of DirectoryString in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile, which is published in RFC 3280.  The use of UTF8String and PrintableString are the preferred encoding.  The requirement for exclusive use of UTF8String after December 31, 2003 is removed. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

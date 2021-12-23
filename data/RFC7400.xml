@@ -1,0 +1,28 @@
+<reference anchor="IETF.RFC7400" target="https://www.rfc-editor.org/info/rfc7400">
+  <front>
+    <title>6LoWPAN-GHC: Generic Header Compression for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7400"/>
+    <author fullname="C. Bormann"/>
+    <date year="2014" month="November" day="1"/>
+    <workgroup>6lo</workgroup>
+    <keyword>IoT</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>Embedded Internet</keyword>
+    <keyword>Sensor Network</keyword>
+    <keyword>WSN</keyword>
+    <keyword>Constrained node</keyword>
+    <keyword>Constrained network</keyword>
+    <keyword>Constrained-node network</keyword>
+    <keyword>LLN</keyword>
+    <keyword>LoWPAN</keyword>
+    <keyword>packet encoding</keyword>
+    <keyword>capability indication</keyword>
+    <keyword>6CIO</keyword>
+    <keyword>LZ77</keyword>
+    <keyword>RFC 6282</keyword>
+    <keyword>RFC 4944</keyword>
+    <keyword>adaptation layer</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <abstract>RFC 6282 defines header compression in 6LoWPAN packets (where "6LoWPAN" refers to "IPv6 over Low-Power Wireless Personal Area Network").  The present document specifies a simple addition that enables the compression of generic headers and header-like payloads, without a need to define a new header compression scheme for each such new header or header-like payload.</abstract>
+  </front>
+</reference>

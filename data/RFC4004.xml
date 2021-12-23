@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC4004" target="https://www.rfc-editor.org/info/rfc4004">
+  <front>
+    <title>Diameter Mobile IPv4 Application</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4004"/>
+    <author fullname="P. Calhoun"/>
+    <author fullname="T. Johansson"/>
+    <author fullname="C. Perkins"/>
+    <author fullname="T. Hiller"/>
+    <author fullname="P. McCann"/>
+    <date year="2005" month="August" day="1"/>
+    <workgroup>aaa</workgroup>
+    <keyword>internet protocol version 4</keyword>
+    <keyword>aaa</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>accounting</keyword>
+    <keyword>inter-realm</keyword>
+    <keyword>diameter accounting</keyword>
+    <abstract>This document specifies a Diameter application that allows a Diameter server to authenticate, authorize and collect accounting information for Mobile IPv4 services rendered to a mobile node.  Combined with the Inter-Realm capability of the base protocol, this application allows mobile nodes to receive service from foreign service providers.  Diameter Accounting messages will be used by the foreign and home agents to transfer usage information to the Diameter servers. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

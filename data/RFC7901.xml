@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7901" target="https://www.rfc-editor.org/info/rfc7901">
+  <front>
+    <title>CHAIN Query Requests in DNS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7901"/>
+    <author fullname="P. Wouters"/>
+    <date year="2016" month="June" day="1"/>
+    <workgroup>dnsop</workgroup>
+    <keyword>DNSSEC</keyword>
+    <keyword>EDNS0</keyword>
+    <keyword>latency</keyword>
+    <abstract>This document defines an EDNS0 extension that can be used by a security-aware validating resolver configured to use a forwarding resolver to send a single query, requesting a complete validation path along with the regular query answer.  The reduction in queries potentially lowers the latency and reduces the need to send multiple queries at once.  This extension mandates the use of source-IP- verified transport such as TCP or UDP with EDNS-COOKIE, so it cannot be abused in amplification attacks.</abstract>
+  </front>
+</reference>

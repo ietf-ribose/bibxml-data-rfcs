@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8674" target="https://www.rfc-editor.org/info/rfc8674">
+  <front>
+    <title>The "safe" HTTP Preference</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8674"/>
+    <author fullname="M. Nottingham"/>
+    <date year="2019" month="December" day="1"/>
+    <keyword>safe</keyword>
+    <keyword>preference</keyword>
+    <keyword>child-protection</keyword>
+    <abstract>This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server. This specification does not define a precise semantic for "safe". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information. Support for this preference by clients and servers is optional.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8074" target="https://www.rfc-editor.org/info/rfc8074">
+  <front>
+    <title>Source Address Validation Improvement (SAVI) for Mixed Address Assignment Methods Scenario</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8074"/>
+    <author fullname="J. Bi"/>
+    <author fullname="G. Yao"/>
+    <author fullname="J. Halpern"/>
+    <author fullname="E. Levy-Abegnoli"/>
+    <date year="2017" month="February" day="1"/>
+    <workgroup>savi</workgroup>
+    <keyword>SAVI-DHCP</keyword>
+    <keyword>FCFS SAVI</keyword>
+    <keyword>SEND SAVI</keyword>
+    <abstract>In networks that use multiple techniques for address assignment, the spoofing of addresses assigned by each technique can be prevented using the appropriate Source Address Validation Improvement (SAVI) methods.  This document reviews how multiple SAVI methods can coexist in a single SAVI device and how collisions are resolved when the same binding entry is discovered by two or more methods.</abstract>
+  </front>
+</reference>

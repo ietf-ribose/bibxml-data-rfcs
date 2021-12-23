@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC6679" target="https://www.rfc-editor.org/info/rfc6679">
+  <front>
+    <title>Explicit Congestion Notification (ECN) for RTP over UDP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6679"/>
+    <author fullname="M. Westerlund"/>
+    <author fullname="I. Johansson"/>
+    <author fullname="C. Perkins"/>
+    <author fullname="P. O'Hanlon"/>
+    <author fullname="K. Carlberg"/>
+    <date year="2012" month="August" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>ECN</keyword>
+    <keyword>RTP</keyword>
+    <keyword>UDP</keyword>
+    <keyword>Congestion Control</keyword>
+    <keyword>VoIP</keyword>
+    <keyword>IPTV</keyword>
+    <keyword>Packet Loss</keyword>
+    <abstract>This memo specifies how Explicit Congestion Notification (ECN) can be used with the Real-time Transport Protocol (RTP) running over UDP, using the RTP Control Protocol (RTCP) as a feedback mechanism.  It defines a new RTCP Extended Report (XR) block for periodic ECN feedback, a new RTCP transport feedback message for timely reporting of congestion events, and a Session Traversal Utilities for NAT (STUN) extension used in the optional initialisation method using Interactive Connectivity Establishment (ICE).  Signalling and procedures for negotiation of capabilities and initialisation methods are also defined. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC9065" target="https://www.rfc-editor.org/info/rfc9065">
+  <front>
+    <title>Considerations around Transport Header Confidentiality, Network Operations, and the Evolution of Internet Transport Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9065"/>
+    <author fullname="G. Fairhurst"/>
+    <author fullname="C. Perkins"/>
+    <date year="2021" month="July" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>transport design</keyword>
+    <keyword>operations and management</keyword>
+    <abstract>To protect user data and privacy, Internet transport protocols have supported payload encryption and authentication for some time. Such encryption and authentication are now also starting to be applied to the transport protocol headers. This helps avoid transport protocol ossification by middleboxes, mitigate attacks against the transport protocol, and protect metadata about the communication. Current operational practice in some networks inspect transport header information within the network, but this is no longer possible when those transport headers are encrypted. This document discusses the possible impact when network traffic uses a protocol with an encrypted transport header. It suggests issues to consider when designing new transport protocols or features.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4662" target="https://www.rfc-editor.org/info/rfc4662">
+  <front>
+    <title>A Session Initiation Protocol (SIP) Event Notification Extension for Resource Lists</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4662"/>
+    <author fullname="A. B. Roach"/>
+    <author fullname="B. Campbell"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2006" month="August" day="1"/>
+    <workgroup>sip</workgroup>
+    <abstract>This document presents an extension to the Session Initiation Protocol (SIP)-Specific Event Notification mechanism for subscribing to a homogeneous list of resources.  Instead of sending a SUBSCRIBE for each resource individually, the subscriber can subscribe to an entire list and then receive notifications when the state of any of the resources in the list changes. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

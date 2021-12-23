@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5439" target="https://www.rfc-editor.org/info/rfc5439">
+  <front>
+    <title>An Analysis of Scaling Issues in MPLS-TE Core Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5439"/>
+    <author fullname="S. Yasukawa"/>
+    <author fullname="A. Farrel"/>
+    <author fullname="O. Komolafe"/>
+    <date year="2009" month="February" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>multiprotocol label switching</keyword>
+    <keyword>traffic engineered</keyword>
+    <keyword>scaling concerns</keyword>
+    <keyword>lsp</keyword>
+    <keyword>label switch path</keyword>
+    <keyword> point-to-point mpls-te lsps</keyword>
+    <abstract>Traffic engineered Multiprotocol Label Switching (MPLS-TE) is deployed in providers' core networks. As providers plan to grow these networks, they need to understand whether existing protocols and implementations can support the network sizes that they are planning. This document presents an analysis of some of the scaling concerns for the number of Label Switching Paths (LSPs) in MPLS-TE core networks, and examines the value of two techniques (LSP hierarchies and multipoint-to-point LSPs) for improving scaling. The intention is to motivate the development of appropriate deployment techniques and protocol extensions to enable the application of MPLS-TE in large networks. This document only considers the question of achieving scalability for the support of point-to-point MPLS-TE LSPs. Point-to-multipoint MPLS-TE LSPs are for future study. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

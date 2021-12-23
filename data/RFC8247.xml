@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8247" target="https://www.rfc-editor.org/info/rfc8247">
+  <front>
+    <title>Algorithm Implementation Requirements and Usage Guidance for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8247"/>
+    <author fullname="Y. Nir"/>
+    <author fullname="T. Kivinen"/>
+    <author fullname="P. Wouters"/>
+    <author fullname="D. Migault"/>
+    <date year="2017" month="September" day="1"/>
+    <workgroup>ipsecme</workgroup>
+    <keyword>IPsec</keyword>
+    <keyword>IKE</keyword>
+    <keyword>internet key exchange</keyword>
+    <abstract>The IPsec series of protocols makes use of various cryptographic algorithms in order to provide security services.  The Internet Key Exchange (IKE) protocol is used to negotiate the IPsec Security Association (IPsec SA) parameters, such as which algorithms should be used.  To ensure interoperability between different implementations, it is necessary to specify a set of algorithm implementation requirements and usage guidance to ensure that there is at least one algorithm that all implementations support.  This document updates RFC 7296 and obsoletes RFC 4307 in defining the current algorithm implementation requirements and usage guidance for IKEv2, and does minor cleaning up of the IKEv2 IANA registry.  This document does not update the algorithms used for packet encryption using IPsec Encapsulating Security Payload (ESP).</abstract>
+  </front>
+</reference>

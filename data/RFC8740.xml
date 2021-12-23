@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8740" target="https://www.rfc-editor.org/info/rfc8740">
+  <front>
+    <title>Using TLS 1.3 with HTTP/2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8740"/>
+    <author fullname="D. Benjamin"/>
+    <date year="2020" month="February" day="1"/>
+    <workgroup>httpbis</workgroup>
+    <keyword>HTTP</keyword>
+    <keyword>renegotiation</keyword>
+    <keyword>post-handshake client authentication</keyword>
+    <abstract>This document updates RFC 7540 by forbidding TLS 1.3 post-handshake authentication, as an analog to the existing TLS 1.2 renegotiation restriction.</abstract>
+  </front>
+</reference>

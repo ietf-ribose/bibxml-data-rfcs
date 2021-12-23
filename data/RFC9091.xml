@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC9091" target="https://www.rfc-editor.org/info/rfc9091">
+  <front>
+    <title>Experimental Domain-Based Message Authentication, Reporting, and Conformance (DMARC) Extension for Public Suffix Domains</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9091"/>
+    <author fullname="S. Kitterman"/>
+    <author fullname="T. Wicinski"/>
+    <date year="2021" month="July" day="1"/>
+    <workgroup>dmarc</workgroup>
+    <keyword>DMARC</keyword>
+    <keyword>email authentication</keyword>
+    <keyword>TLD</keyword>
+    <abstract>Domain-based Message Authentication, Reporting, and Conformance (DMARC), defined in RFC 7489, permits a domain-controlling organization to express domain-level policies and preferences for message validation, disposition, and reporting, which a mail-receiving organization can use to improve mail handling. DMARC distinguishes the portion of a name that is a Public Suffix Domain (PSD), below which Organizational Domain names are created. The basic DMARC capability allows Organizational Domains to specify policies that apply to their subdomains, but it does not give that capability to PSDs. This document describes an extension to DMARC to fully enable DMARC functionality for PSDs. Some implementations of DMARC consider a PSD to be ineligible for DMARC enforcement. This specification addresses that case.</abstract>
+  </front>
+</reference>

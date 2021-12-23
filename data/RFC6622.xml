@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6622" target="https://www.rfc-editor.org/info/rfc6622">
+  <front>
+    <title>Integrity Check Value and Timestamp TLV Definitions for Mobile Ad Hoc Networks (MANETs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6622"/>
+    <author fullname="U. Herberg"/>
+    <author fullname="T. Clausen"/>
+    <date year="2012" month="May" day="1"/>
+    <workgroup>manet</workgroup>
+    <keyword>packetbb</keyword>
+    <keyword>NHDP</keyword>
+    <keyword>OLSRv2</keyword>
+    <keyword>security</keyword>
+    <keyword>integrity</keyword>
+    <keyword>routing</keyword>
+    <abstract>This document describes general and flexible TLVs for representing cryptographic Integrity Check Values (ICVs) (i.e., digital signatures or Message Authentication Codes (MACs)) as well as timestamps, using the generalized Mobile Ad Hoc Network (MANET) packet/message format defined in RFC 5444.  It defines two Packet TLVs, two Message TLVs, and two Address Block TLVs for affixing ICVs and timestamps to a packet, a message, and an address, respectively. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

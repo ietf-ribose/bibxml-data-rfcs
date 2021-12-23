@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC8885" target="https://www.rfc-editor.org/info/rfc8885">
+  <front>
+    <title>Proxy Mobile IPv6 Extensions for Distributed Mobility Management</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8885"/>
+    <author fullname="CJ. Bernardos"/>
+    <author fullname="A. de la Oliva"/>
+    <author fullname="F. Giust"/>
+    <author fullname="JC. Zúñiga"/>
+    <author fullname="A. Mourad"/>
+    <date year="2020" month="October" day="1"/>
+    <workgroup>dmm</workgroup>
+    <keyword>PMIPv6</keyword>
+    <keyword>anchor</keyword>
+    <keyword>session continuity</keyword>
+    <keyword>address reachability</keyword>
+    <keyword>HNP</keyword>
+    <keyword>CMD</keyword>
+    <keyword>MAAR</keyword>
+    <abstract>Distributed Mobility Management solutions allow networks to be set up in such a way that traffic is distributed optimally and centrally deployed anchors are not relied upon to provide IP mobility support. There are many different approaches to address Distributed Mobility Management -- for example, extending network-based mobility protocols (like Proxy Mobile IPv6) or client-based mobility protocols (like Mobile IPv6), among others. This document follows the former approach and proposes a solution based on Proxy Mobile IPv6, in which mobility sessions are anchored at the last IP hop router (called the mobility anchor and access router). The mobility anchor and access router is an enhanced access router that is also able to operate as a local mobility anchor or mobility access gateway on a per-prefix basis. The document focuses on the required extensions to effectively support the simultaneous anchoring several flows at different distributed gateways.</abstract>
+  </front>
+</reference>

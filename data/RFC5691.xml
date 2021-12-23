@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5691" target="https://www.rfc-editor.org/info/rfc5691">
+  <front>
+    <title>RTP Payload Format for Elementary Streams with MPEG Surround Multi-Channel Audio</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5691"/>
+    <author fullname="F. de Bont"/>
+    <author fullname="S. Doehla"/>
+    <author fullname="M. Schmidt"/>
+    <author fullname="R. Sperschneider"/>
+    <date year="2009" month="October" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>MPEG Surround</keyword>
+    <keyword>RFC 3640</keyword>
+    <keyword>RTP</keyword>
+    <keyword>MPEG-4</keyword>
+    <keyword>AAC</keyword>
+    <abstract>This memo describes extensions for the RTP payload format defined in RFC 3640 for the transport of MPEG Surround multi-channel audio.  Additional Media Type parameters are defined to signal backwards- compatible transmission inside an MPEG-4 Audio elementary stream.  In addition, a layered transmission scheme that doesn't use the MPEG-4 systems framework is presented to transport an MPEG Surround elementary stream via RTP in parallel with an RTP stream containing the downmixed audio data. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5283" target="https://www.rfc-editor.org/info/rfc5283">
+  <front>
+    <title>LDP Extension for Inter-Area Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5283"/>
+    <author fullname="B. Decraene"/>
+    <author fullname="JL. Le Roux"/>
+    <author fullname="I. Minei"/>
+    <date year="2008" month="July" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>LDP label mapping procedures</keyword>
+    <keyword>longest-match</keyword>
+    <keyword>prefix aggregation</keyword>
+    <abstract>To facilitate the establishment of Label Switched Paths (LSPs) that would span multiple IGP areas in a given Autonomous System (AS), this document describes a new optional Longest-Match Label Mapping Procedure for the Label Distribution Protocol (LDP). This procedure allows the use of a label if the Forwarding Equivalence Class (FEC) Element matches an entry in the Routing Information Base (RIB). Matching is defined by an IP longest-match search and does not mandate an exact match. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

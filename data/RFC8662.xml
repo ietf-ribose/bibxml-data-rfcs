@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8662" target="https://www.rfc-editor.org/info/rfc8662">
+  <front>
+    <title>Entropy Label for Source Packet Routing in Networking (SPRING) Tunnels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8662"/>
+    <author fullname="S. Kini"/>
+    <author fullname="K. Kompella"/>
+    <author fullname="S. Sivabalan"/>
+    <author fullname="S. Litkowski"/>
+    <author fullname="R. Shakir"/>
+    <author fullname="J. Tantsura"/>
+    <date year="2019" month="December" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>Flow-aware load balancing</keyword>
+    <keyword>ECMP (equal-cost multipath)</keyword>
+    <abstract>Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through an ordered list of instructions, called segments.  Segment Routing can be applied to the Multiprotocol Label Switching (MPLS) data plane.  Entropy labels (ELs) are used in MPLS to improve load-balancing.  This document examines and describes how ELs are to be applied to Segment Routing MPLS.</abstract>
+  </front>
+</reference>

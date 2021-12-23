@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8452" target="https://www.rfc-editor.org/info/rfc8452">
+  <front>
+    <title>AES-GCM-SIV: Nonce Misuse-Resistant Authenticated Encryption</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8452"/>
+    <author fullname="S. Gueron"/>
+    <author fullname="A. Langley"/>
+    <author fullname="Y. Lindell"/>
+    <date year="2019" month="April" day="1"/>
+    <keyword>authenticated encryption</keyword>
+    <keyword>aead</keyword>
+    <keyword>aes</keyword>
+    <keyword>gcm</keyword>
+    <keyword>siv</keyword>
+    <abstract>This memo specifies two authenticated encryption algorithms that are nonce misuse resistant -- that is, they do not fail catastrophically if a nonce is repeated. This document is the product of the Crypto Forum Research Group.</abstract>
+  </front>
+</reference>

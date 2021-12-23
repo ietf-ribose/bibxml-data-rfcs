@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8785" target="https://www.rfc-editor.org/info/rfc8785">
+  <front>
+    <title>JSON Canonicalization Scheme (JCS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8785"/>
+    <author fullname="A. Rundgren"/>
+    <author fullname="B. Jordan"/>
+    <author fullname="S. Erdtman"/>
+    <date year="2020" month="June" day="1"/>
+    <keyword>JSON</keyword>
+    <keyword>ECMAScript</keyword>
+    <keyword>Signatures</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>Canonicalization</keyword>
+    <abstract>Cryptographic operations like hashing and signing need the data to be expressed in an invariant format so that the operations are reliably repeatable. One way to address this is to create a canonical representation of the data. Canonicalization also permits data to be exchanged in its original form on the "wire" while cryptographic operations performed on the canonicalized counterpart of the data in the producer and consumer endpoints generate consistent results. This document describes the JSON Canonicalization Scheme (JCS). This specification defines how to create a canonical representation of JSON data by building on the strict serialization methods for JSON primitives defined by ECMAScript, constraining JSON data to the Internet JSON (I-JSON) subset, and by using deterministic property sorting.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5073" target="https://www.rfc-editor.org/info/rfc5073">
+  <front>
+    <title>IGP Routing Protocol Extensions for Discovery of Traffic Engineering Node Capabilities</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5073"/>
+    <author fullname="J.P. Vasseur"/>
+    <author fullname="J.L. Le Roux"/>
+    <date year="2007" month="December" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>interior gateway protocol</keyword>
+    <abstract>It is highly desired, in several cases, to take into account Traffic Engineering (TE) node capabilities during Multi Protocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineered Label Switched Path (TE-LSP) selection, such as, for instance, the capability to act as a branch Label Switching Router (LSR) of a Point-To-MultiPoint (P2MP) LSP.  This requires advertising these capabilities within the Interior Gateway Protocol (IGP).  For that purpose, this document specifies Open Shortest Path First (OSPF) and Intermediate System-Intermediate System (IS-IS) traffic engineering extensions for the advertisement of control plane and data plane traffic engineering node capabilities. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

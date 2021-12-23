@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC9026" target="https://www.rfc-editor.org/info/rfc9026">
+  <front>
+    <title>Multicast VPN Fast Upstream Failover</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9026"/>
+    <author fullname="T. Morin"/>
+    <author fullname="R. Kebler"/>
+    <author fullname="G. Mirsky"/>
+    <date year="2021" month="April" day="1"/>
+    <workgroup>bess</workgroup>
+    <keyword>BFD</keyword>
+    <keyword>P2MP</keyword>
+    <abstract>This document defines Multicast Virtual Private Network (VPN) extensions and procedures that allow fast failover for upstream failures by allowing downstream Provider Edges (PEs) to consider the status of Provider-Tunnels (P-tunnels) when selecting the Upstream PE for a VPN multicast flow.  The fast failover is enabled by using "Bidirectional Forwarding Detection (BFD) for Multipoint Networks" (RFC 8562) and the new BGP Attribute, BFD Discriminator.  Also, this document introduces a new BGP Community, Standby PE, extending BGP Multicast VPN (MVPN) routing so that a C-multicast route can be advertised toward a Standby Upstream PE.</abstract>
+  </front>
+</reference>

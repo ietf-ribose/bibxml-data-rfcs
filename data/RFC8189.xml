@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC8189" target="https://www.rfc-editor.org/info/rfc8189">
+  <front>
+    <title>Multi-Cost Application-Layer Traffic Optimization (ALTO)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8189"/>
+    <author fullname="S. Randriamasy"/>
+    <author fullname="W. Roome"/>
+    <author fullname="N. Schwan"/>
+    <date year="2017" month="October" day="1"/>
+    <workgroup>alto</workgroup>
+    <keyword>ALTO Information Resources</keyword>
+    <keyword>Network Map</keyword>
+    <keyword>PID</keyword>
+    <keyword>Filtered Network Map</keyword>
+    <keyword>Endpoint Property Service</keyword>
+    <keyword>Endpoint Cost Service</keyword>
+    <keyword>Multi-Cost</keyword>
+    <keyword>Filtered Multi-Cost Map</keyword>
+    <keyword>Multi-Cost Data Format</keyword>
+    <keyword>Testable Cost Types</keyword>
+    <keyword>or-constraints</keyword>
+    <abstract>The Application-Layer Traffic Optimization (ALTO) protocol, specified in RFC 7285, defines several services that return various metrics describing the costs between network endpoints. This document defines a new service that allows an ALTO Client to retrieve several cost metrics in a single request for an ALTO filtered cost map and endpoint cost map. In addition, it extends the constraints to further filter those maps by allowing an ALTO Client to specify a logical combination of tests on several cost metrics.</abstract>
+  </front>
+</reference>

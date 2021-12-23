@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5546" target="https://www.rfc-editor.org/info/rfc5546">
+  <front>
+    <title>iCalendar Transport-Independent Interoperability Protocol (iTIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5546"/>
+    <author fullname="C. Daboo"/>
+    <date year="2009" month="December" day="1"/>
+    <workgroup>calsify</workgroup>
+    <keyword>calendar</keyword>
+    <keyword>scheduling</keyword>
+    <abstract>This document specifies a protocol that uses the iCalendar object specification to provide scheduling interoperability between different calendaring systems. This is done without reference to a specific transport protocol so as to allow multiple methods of communication between systems. Subsequent documents will define profiles of this protocol that use specific, interoperable methods of communication between systems. The iCalendar Transport-Independent Interoperability Protocol (iTIP) complements the iCalendar object specification by adding semantics for group scheduling methods commonly available in current calendaring systems. These scheduling methods permit two or more calendaring systems to perform transactions such as publishing, scheduling, rescheduling, responding to scheduling requests, negotiating changes, or canceling. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

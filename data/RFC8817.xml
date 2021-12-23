@@ -1,0 +1,24 @@
+<reference anchor="IETF.RFC8817" target="https://www.rfc-editor.org/info/rfc8817">
+  <front>
+    <title>RTP Payload Format for Tactical Secure Voice Cryptographic Interoperability Specification (TSVCIS) Codec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8817"/>
+    <author fullname="V. Demjanenko"/>
+    <author fullname="J. Punaro"/>
+    <author fullname="D. Satterlee"/>
+    <date year="2020" month="August" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>MELP</keyword>
+    <keyword>MELPe</keyword>
+    <keyword>TSVCIS</keyword>
+    <keyword>NRLVDR</keyword>
+    <keyword>Naval Research Laboratory</keyword>
+    <keyword>NRL</keyword>
+    <keyword>NATO</keyword>
+    <keyword>TSVWG</keyword>
+    <keyword>Department of Defense</keyword>
+    <keyword>DoD</keyword>
+    <keyword>NSA</keyword>
+    <keyword>MIL-STD</keyword>
+    <abstract>This document describes the RTP payload format for the Tactical Secure Voice Cryptographic Interoperability Specification (TSVCIS) speech coder.  TSVCIS is a scalable narrowband voice coder supporting varying encoder data rates and fallbacks.  It is implemented as an augmentation to the Mixed Excitation Linear Prediction Enhanced (MELPe) speech coder by conveying additional speech coder parameters to enhance voice quality.  TSVCIS augmented speech data is processed in conjunction with its temporally matched Mixed Excitation Linear Prediction (MELP) 2400 speech data.  The RTP packetization of TSVCIS and MELPe speech coder data is described in detail.</abstract>
+  </front>
+</reference>

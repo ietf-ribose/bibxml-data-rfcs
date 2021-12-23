@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4642" target="https://www.rfc-editor.org/info/rfc4642">
+  <front>
+    <title>Using Transport Layer Security (TLS) with Network News Transfer Protocol (NNTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4642"/>
+    <author fullname="K. Murchison"/>
+    <author fullname="J. Vinocur"/>
+    <author fullname="C. Newman"/>
+    <date year="2006" month="October" day="1"/>
+    <workgroup>nntpext</workgroup>
+    <keyword>encryption</keyword>
+    <keyword>single link confidentiality</keyword>
+    <abstract>This memo defines an extension to the Network News Transfer Protocol (NNTP) that allows an NNTP client and server to use Transport Layer Security (TLS).  The primary goal is to provide encryption for single-link confidentiality purposes, but data integrity, (optional) certificate-based peer entity authentication, and (optional) data compression are also possible. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

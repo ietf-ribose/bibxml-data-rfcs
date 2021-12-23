@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5587" target="https://www.rfc-editor.org/info/rfc5587">
+  <front>
+    <title>Extended Generic Security Service Mechanism Inquiry APIs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5587"/>
+    <author fullname="N. Williams"/>
+    <date year="2009" month="July" day="1"/>
+    <workgroup>kitten</workgroup>
+    <keyword>GSS-API</keyword>
+    <keyword>mechanism</keyword>
+    <keyword>inquiry</keyword>
+    <keyword>extension</keyword>
+    <abstract>This document introduces new application programming interfaces (APIs) to the Generic Security Services API (GSS-API) for extended mechanism attribute inquiry. These interfaces are primarily intended to reduce instances of hardcoding of mechanism identifiers in GSS applications. These interfaces include mechanism attributes and attribute sets, a function for inquiring the attributes of a mechanism, a function for indicating mechanisms that possess given attributes, and a function for displaying mechanism attributes. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5847" target="https://www.rfc-editor.org/info/rfc5847">
+  <front>
+    <title>Heartbeat Mechanism for Proxy Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5847"/>
+    <author fullname="V. Devarapalli"/>
+    <author fullname="R. Koodli"/>
+    <author fullname="H. Lim"/>
+    <author fullname="N. Kant"/>
+    <author fullname="S. Krishnan"/>
+    <author fullname="J. Laganier"/>
+    <date year="2010" month="June" day="1"/>
+    <workgroup>netlmm</workgroup>
+    <keyword>Node Reachability</keyword>
+    <keyword>Restarts</keyword>
+    <keyword>Failure Detection</keyword>
+    <abstract>Proxy Mobile IPv6 (PMIPv6) is a network-based mobility management protocol.  The mobility entities involved in the Proxy Mobile IPv6 protocol, the mobile access gateway (MAG) and the local mobility anchor (LMA), set up tunnels dynamically to manage mobility for a mobile node within the Proxy Mobile IPv6 domain.  This document describes a heartbeat mechanism between the MAG and the LMA to detect failures, quickly inform peers in the event of a recovery from node failures, and allow a peer to take appropriate action. [STANDARDS TRACK]</abstract>
+  </front>
+</reference>

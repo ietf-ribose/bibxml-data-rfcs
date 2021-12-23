@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8664" target="https://www.rfc-editor.org/info/rfc8664">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8664"/>
+    <author fullname="S. Sivabalan"/>
+    <author fullname="C. Filsfils"/>
+    <author fullname="J. Tantsura"/>
+    <author fullname="W. Henderickx"/>
+    <author fullname="J. Hardwick"/>
+    <date year="2019" month="December" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>SR</keyword>
+    <keyword>Traffic-Engineering</keyword>
+    <keyword>PCE</keyword>
+    <abstract>Segment Routing (SR) enables any head-end node to select any path without relying on a hop-by-hop signaling technique (e.g., LDP or RSVP-TE). It depends only on "segments" that are advertised by link-state Interior Gateway Protocols (IGPs). An SR path can be derived from a variety of mechanisms, including an IGP Shortest Path Tree (SPT), an explicit configuration, or a Path Computation Element (PCE). This document specifies extensions to the Path Computation Element Communication Protocol (PCEP) that allow a stateful PCE to compute and initiate Traffic-Engineering (TE) paths, as well as a Path Computation Client (PCC) to request a path subject to certain constraints and optimization criteria in SR networks. This document updates RFC 8408.</abstract>
+  </front>
+</reference>

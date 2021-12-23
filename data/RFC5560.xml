@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5560" target="https://www.rfc-editor.org/info/rfc5560">
+  <front>
+    <title>A One-Way Packet Duplication Metric</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5560"/>
+    <author fullname="H. Uijterwaal"/>
+    <date year="2009" month="May" day="1"/>
+    <workgroup>ippm</workgroup>
+    <keyword>performance metrics</keyword>
+    <keyword>packet duplication</keyword>
+    <keyword>unidirectional</keyword>
+    <abstract>When a packet is sent from one host to the other, one normally expects that exactly one copy of the packet that was sent arrives at the destination. It is, however, possible that a packet is either lost or that multiple copies arrive. In earlier work, a metric for packet loss was defined. This metric quantifies the case where a packet that is sent does not arrive at its destination within a reasonable time. In this memo, a metric for another case is defined: a packet is sent, but multiple copies arrive. The document also discusses streams and methods to summarize the results of streams. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

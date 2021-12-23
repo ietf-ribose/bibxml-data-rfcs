@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5807" target="https://www.rfc-editor.org/info/rfc5807">
+  <front>
+    <title>Definition of Master Key between PANA Client and Enforcement Point</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5807"/>
+    <author fullname="Y. Ohba"/>
+    <author fullname="A. Yegin"/>
+    <date year="2010" month="March" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>protocol for carrying authentication for network access</keyword>
+    <abstract>This document defines a master key used between a client of the Protocol for carrying Authentication for Network Access (PANA) and an enforcement point, for bootstrapping lower-layer ciphering.  The master key is derived from the Master Session Key of the Extensible Authentication Protocol as a result of successful PANA authentication.  The master key guarantees cryptographic independence among enforcement points bootstrapped from PANA authentication across different address families. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

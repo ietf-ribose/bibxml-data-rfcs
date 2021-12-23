@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8527" target="https://www.rfc-editor.org/info/rfc8527">
+  <front>
+    <title>RESTCONF Extensions to Support the Network Management Datastore Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8527"/>
+    <author fullname="M. Bjorklund"/>
+    <author fullname="J. Schoenwaelder"/>
+    <author fullname="P. Shafer"/>
+    <author fullname="K. Watsen"/>
+    <author fullname="R. Wilton"/>
+    <date year="2019" month="March" day="1"/>
+    <workgroup>netconf</workgroup>
+    <abstract>This document extends the RESTCONF protocol defined in RFC 8040 in order to support the Network Management Datastore Architecture (NMDA) defined in RFC 8342. This document updates RFC 8040 by introducing new datastore resources, adding a new query parameter, and requiring the usage of the YANG library (described in RFC 8525) by RESTCONF servers implementing the NMDA.</abstract>
+  </front>
+</reference>

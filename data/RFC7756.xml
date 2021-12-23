@@ -1,0 +1,24 @@
+<reference anchor="IETF.RFC7756" target="https://www.rfc-editor.org/info/rfc7756">
+  <front>
+    <title>Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC): Dual Translation Mode</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7756"/>
+    <author fullname="T. Anderson"/>
+    <author fullname="S. Steffann"/>
+    <date year="2016" month="February" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>Data Centre</keyword>
+    <keyword>Data Center</keyword>
+    <keyword>Dual Stack</keyword>
+    <keyword>Single Stack</keyword>
+    <keyword>IDC</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>IPv4 conservation</keyword>
+    <keyword>IPv4 exhaustion</keyword>
+    <keyword>IPv6-only</keyword>
+    <keyword>IPv6 only</keyword>
+    <keyword>IPv6 transition</keyword>
+    <keyword>IPv6 transition technology</keyword>
+    <keyword>XLAT</keyword>
+    <abstract>This document describes an extension of the Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC) architecture, which allows applications, protocols, or nodes that are incompatible with IPv6 and/or Network Address Translation to operate correctly with SIIT-DC. This is accomplished by introducing a new component called an SIIT-DC Edge Relay, which reverses the translations made by an SIIT-DC Border Relay. The application and/or node is thus provided with seemingly native IPv4 connectivity that provides end-to-end address transparency. The reader is expected to be familiar with the SIIT-DC architecture described in RFC 7755.</abstract>
+  </front>
+</reference>

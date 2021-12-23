@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC7301" target="https://www.rfc-editor.org/info/rfc7301">
+  <front>
+    <title>Transport Layer Security (TLS) Application-Layer Protocol Negotiation Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7301"/>
+    <author fullname="S. Friedl"/>
+    <author fullname="A. Popov"/>
+    <author fullname="A. Langley"/>
+    <author fullname="E. Stephan"/>
+    <date year="2014" month="July" day="1"/>
+    <workgroup>tls</workgroup>
+    <keyword>ALPN</keyword>
+    <abstract>This document describes a Transport Layer Security (TLS) extension for application-layer protocol negotiation within the TLS handshake.  For instances in which multiple application protocols are supported on the same TCP or UDP port, this extension allows the application layer to negotiate which protocol will be used within the TLS connection.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC7559" target="https://www.rfc-editor.org/info/rfc7559">
+  <front>
+    <title>Packet-Loss Resiliency for Router Solicitations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7559"/>
+    <author fullname="S. Krishnan"/>
+    <author fullname="D. Anipko"/>
+    <author fullname="D. Thaler"/>
+    <date year="2015" month="May" day="1"/>
+    <workgroup>6man</workgroup>
+    <abstract>When an interface on a host is initialized, the host transmits Router Solicitations in order to minimize the amount of time it needs to wait until the next unsolicited multicast Router Advertisement is received.  In certain scenarios, these Router Solicitations transmitted by the host might be lost.  This document specifies a mechanism for hosts to cope with the loss of the initial Router Solicitations.</abstract>
+  </front>
+</reference>

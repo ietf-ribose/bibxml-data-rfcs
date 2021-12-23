@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC6534" target="https://www.rfc-editor.org/info/rfc6534">
+  <front>
+    <title>Loss Episode Metrics for IP Performance Metrics (IPPM)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6534"/>
+    <author fullname="N. Duffield"/>
+    <author fullname="A. Morton"/>
+    <author fullname="J. Sommers"/>
+    <date year="2012" month="May" day="1"/>
+    <workgroup>ippm</workgroup>
+    <abstract>The IETF has developed a one-way packet loss metric that measures the loss rate on a Poisson and Periodic probe streams between two hosts.  However, the impact of packet loss on applications is, in general, sensitive not just to the average loss rate but also to the way in which packet losses are distributed in loss episodes (i.e., maximal sets of consecutively lost probe packets).  This document defines one-way packet loss episode metrics, specifically, the frequency and average duration of loss episodes and a probing methodology under which the loss episode metrics are to be measured. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

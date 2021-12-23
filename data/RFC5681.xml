@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5681" target="https://www.rfc-editor.org/info/rfc5681">
+  <front>
+    <title>TCP Congestion Control</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5681"/>
+    <author fullname="M. Allman"/>
+    <author fullname="V. Paxson"/>
+    <author fullname="E. Blanton"/>
+    <date year="2009" month="September" day="1"/>
+    <workgroup>tcpm</workgroup>
+    <keyword>slow start</keyword>
+    <keyword>congestion avoidance</keyword>
+    <keyword>fast retransmit</keyword>
+    <keyword>fast recovery</keyword>
+    <abstract>This document defines TCP's four intertwined congestion control algorithms: slow start, congestion avoidance, fast retransmit, and fast recovery.  In addition, the document specifies how TCP should begin transmission after a relatively long idle period, as well as discussing various acknowledgment generation methods.  This document obsoletes RFC 2581. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

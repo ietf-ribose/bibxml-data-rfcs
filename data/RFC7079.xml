@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7079" target="https://www.rfc-editor.org/info/rfc7079">
+  <front>
+    <title>The Pseudowire (PW) and Virtual Circuit Connectivity Verification (VCCV) Implementation Survey Results</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7079"/>
+    <author fullname="N. Del Regno"/>
+    <author fullname="A. Malis"/>
+    <date year="2013" month="November" day="1"/>
+    <workgroup>pwe3</workgroup>
+    <keyword>Control Word (CW)</keyword>
+    <keyword>Control Channel (CC)</keyword>
+    <abstract>The IETF Pseudowire Emulation Edge-to-Edge (PWE3) working group has defined many encapsulations of various layer 1 and layer 2 service- specific PDUs and circuit data.  In most of these encapsulations, use of the Pseudowire (PW) Control Word is required.  However, there are several encapsulations for which the Control Word is optional, and this optionality has been seen in practice to possibly introduce interoperability concerns between multiple implementations of those encapsulations.  This survey of the Pseudowire / Virtual Circuit Connectivity Verification (VCCV) user community was conducted to determine implementation trends and the possibility of always mandating the Control Word.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC7273" target="https://www.rfc-editor.org/info/rfc7273">
+  <front>
+    <title>RTP Clock Source Signalling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7273"/>
+    <author fullname="A. Williams"/>
+    <author fullname="K. Gross"/>
+    <author fullname="R. van Brandenburg"/>
+    <author fullname="H. Stokking"/>
+    <date year="2014" month="June" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>clock</keyword>
+    <keyword>source</keyword>
+    <abstract>NTP format timestamps are used by several RTP protocols for synchronisation and statistical measurements.  This memo specifies Session Description Protocol (SDP) signalling that identifies timestamp reference clock sources and SDP signalling that identifies the media clock sources in a multimedia session.</abstract>
+  </front>
+</reference>

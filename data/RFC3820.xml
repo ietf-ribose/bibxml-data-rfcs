@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC3820" target="https://www.rfc-editor.org/info/rfc3820">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure (PKI) Proxy Certificate Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3820"/>
+    <author fullname="S. Tuecke"/>
+    <author fullname="V. Welch"/>
+    <author fullname="D. Engert"/>
+    <author fullname="L. Pearlman"/>
+    <author fullname="M. Thompson"/>
+    <date year="2004" month="June" day="1"/>
+    <workgroup>pkix</workgroup>
+    <keyword>authentication</keyword>
+    <keyword>security credentials</keyword>
+    <keyword>restricted delegation</keyword>
+    <keyword>single-signon</keyword>
+    <keyword>delegation of rights</keyword>
+    <abstract>This document forms a certificate profile for Proxy Certificates, based on X.509 Public Key Infrastructure (PKI) certificates as defined in RFC 3280, for use in the Internet.  The term Proxy Certificate is used to describe a certificate that is derived from, and signed by, a normal X.509 Public Key End Entity Certificate or by another Proxy Certificate for the purpose of providing restricted proxying and delegation within a PKI based authentication system. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

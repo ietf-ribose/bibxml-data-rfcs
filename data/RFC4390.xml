@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4390" target="https://www.rfc-editor.org/info/rfc4390">
+  <front>
+    <title>Dynamic Host Configuration Protocol (DHCP) over InfiniBand</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4390"/>
+    <author fullname="V. Kashyap"/>
+    <date year="2006" month="April" day="1"/>
+    <workgroup>ipoib</workgroup>
+    <keyword>bootstrap</keyword>
+    <keyword>boot</keyword>
+    <keyword>ipoib</keyword>
+    <abstract>IP over Infiniband (IPoIB) link-layer address is 20 octets long.  This is larger than the 16 octets reserved for the hardware address in a Dynamic Host Configuration Protocol/Bootstrap Protocol (DHCP/BOOTP) message.  The above inequality imposes restrictions on the use of the DHCP message fields when used over an IPoIB network.  This document describes the use of DHCP message fields when implementing DHCP over IPoIB. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

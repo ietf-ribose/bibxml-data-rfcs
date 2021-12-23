@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC3036" target="https://www.rfc-editor.org/info/rfc3036">
+  <front>
+    <title>LDP Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3036"/>
+    <author fullname="L. Andersson"/>
+    <author fullname="P. Doolan"/>
+    <author fullname="N. Feldman"/>
+    <author fullname="A. Fredette"/>
+    <author fullname="B. Thomas"/>
+    <date year="2001" month="January" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>label</keyword>
+    <keyword>distribution</keyword>
+    <keyword>protocol</keyword>
+    <abstract>A fundamental concept in MPLS is that two Label Switching Routers (LSRs) must agree on the meaning of the labels used to forward traffic between and through them.  This common understanding is achieved by using a set of procedures, called a label distribution protocol, by which one LSR informs another of label bindings it has made.  This document defines a set of such procedures called LDP (for Label Distribution Protocol) by which LSRs distribute labels to support MPLS forwarding along normally routed paths. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

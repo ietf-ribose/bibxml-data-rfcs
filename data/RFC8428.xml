@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8428" target="https://www.rfc-editor.org/info/rfc8428">
+  <front>
+    <title>Sensor Measurement Lists (SenML)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8428"/>
+    <author fullname="C. Jennings"/>
+    <author fullname="Z. Shelby"/>
+    <author fullname="J. Arkko"/>
+    <author fullname="A. Keranen"/>
+    <author fullname="C. Bormann"/>
+    <date year="2018" month="August" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>IoT</keyword>
+    <keyword>data model</keyword>
+    <abstract>This specification defines a format for representing simple sensor measurements and device parameters in Sensor Measurement Lists (SenML).  Representations are defined in JavaScript Object Notation (JSON), Concise Binary Object Representation (CBOR), Extensible Markup Language (XML), and Efficient XML Interchange (EXI), which share the common SenML data model.  A simple sensor, such as a temperature sensor, could use one of these media types in protocols such as HTTP or the Constrained Application Protocol (CoAP) to transport the measurements of the sensor or to be configured.</abstract>
+  </front>
+</reference>

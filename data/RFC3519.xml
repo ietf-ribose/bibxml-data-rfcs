@@ -1,0 +1,27 @@
+<reference anchor="IETF.RFC3519" target="https://www.rfc-editor.org/info/rfc3519">
+  <front>
+    <title>Mobile IP Traversal of Network Address Translation (NAT) Devices</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3519"/>
+    <author fullname="H. Levkowetz"/>
+    <author fullname="S. Vaarala"/>
+    <date year="2003" month="April" day="1"/>
+    <workgroup>mobileip</workgroup>
+    <keyword>Internet Protocol</keyword>
+    <keyword>datagram</keyword>
+    <keyword>traffic</keyword>
+    <keyword>Mobile IP</keyword>
+    <keyword>NAT</keyword>
+    <keyword>NAPT</keyword>
+    <keyword>traversal</keyword>
+    <keyword>tunnelling</keyword>
+    <keyword>tunneling</keyword>
+    <keyword>UDP</keyword>
+    <keyword>private address space</keyword>
+    <keyword>keepalives</keyword>
+    <keyword>port 434</keyword>
+    <keyword>MIP</keyword>
+    <keyword>MIPv4</keyword>
+    <keyword>network address translation</keyword>
+    <abstract>Mobile IP's datagram tunnelling is incompatible with Network Address Translation (NAT).  This document presents extensions to the Mobile IP protocol and a tunnelling method which permits mobile nodes using Mobile IP to operate in private address networks which are separated from the public internet by NAT devices.  The NAT traversal is based on using the Mobile IP Home Agent UDP port for encapsulated data traffic. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

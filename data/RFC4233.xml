@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC4233" target="https://www.rfc-editor.org/info/rfc4233">
+  <front>
+    <title>Integrated Services Digital Network (ISDN) Q.921-User Adaptation Layer</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4233"/>
+    <author fullname="K. Morneault"/>
+    <author fullname="S. Rengasami"/>
+    <author fullname="M. Kalla"/>
+    <author fullname="G. Sidebottom"/>
+    <date year="2006" month="January" day="1"/>
+    <workgroup>sigtran</workgroup>
+    <keyword>stream control transmission protocol</keyword>
+    <keyword>sctp</keyword>
+    <keyword>signaling gateway</keyword>
+    <keyword>sg</keyword>
+    <keyword>media gateway controller</keyword>
+    <keyword>mgc</keyword>
+    <keyword>signaling</keyword>
+    <keyword>media</keyword>
+    <keyword>gateway</keyword>
+    <keyword>interface</keyword>
+    <abstract>This document defines a protocol for backhauling of Integrated Services Digital Network (ISDN) Q.921 User messages over IP using the Stream Control Transmission Protocol (SCTP). This protocol would be used between a Signaling Gateway (SG) and Media Gateway Controller (MGC). It is assumed that the SG receives ISDN signaling over a standard ISDN interface. This document obsoletes RFC 3057. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

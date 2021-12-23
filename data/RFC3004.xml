@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC3004" target="https://www.rfc-editor.org/info/rfc3004">
+  <front>
+    <title>The User Class Option for DHCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3004"/>
+    <author fullname="G. Stump"/>
+    <author fullname="R. Droms"/>
+    <author fullname="Y. Gu"/>
+    <author fullname="R. Vyaghrapuri"/>
+    <author fullname="A. Demirtjis"/>
+    <author fullname="B. Beser"/>
+    <author fullname="J. Privat"/>
+    <date year="2000" month="November" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>dynamic</keyword>
+    <keyword>host</keyword>
+    <keyword>configuration</keyword>
+    <keyword>protocol</keyword>
+    <abstract>This option is used by a Dynamic Host Configuration Protocol (DHCP) client to optionally identify the type or category of user or applications it represents.  The information contained in this option is an opaque field that represents the user class of which the client is a member.  Based on this class, a DHCP server selects the appropriate address pool to assign an address to the client and the appropriate configuration parameters.  This option should be configurable by a user. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4570" target="https://www.rfc-editor.org/info/rfc4570">
+  <front>
+    <title>Session Description Protocol (SDP) Source Filters</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4570"/>
+    <author fullname="B. Quinn"/>
+    <author fullname="R. Finlayson"/>
+    <date year="2006" month="July" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>internet protocol</keyword>
+    <keyword>ip</keyword>
+    <keyword>source-filter</keyword>
+    <keyword>ssm</keyword>
+    <keyword>source-specific multicast</keyword>
+    <abstract>This document describes how to adapt the Session Description Protocol (SDP) to express one or more source addresses as a source filter for one or more destination "connection" addresses.  It defines the syntax and semantics for an SDP "source-filter" attribute that may reference either IPv4 or IPv6 address(es) as either an inclusive or exclusive source list for either multicast or unicast destinations.  In particular, an inclusive source-filter can be used to specify a Source-Specific Multicast (SSM) session. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

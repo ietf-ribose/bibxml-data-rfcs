@@ -1,0 +1,22 @@
+<reference anchor="IETF.RFC8665" target="https://www.rfc-editor.org/info/rfc8665">
+  <front>
+    <title>OSPF Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8665"/>
+    <author fullname="P. Psenak"/>
+    <author fullname="S. Previdi"/>
+    <author fullname="C. Filsfils"/>
+    <author fullname="H. Gredler"/>
+    <author fullname="R. Shakir"/>
+    <author fullname="W. Henderickx"/>
+    <author fullname="J. Tantsura"/>
+    <date year="2019" month="December" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>SID</keyword>
+    <keyword>IGP</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>Label advertisement</keyword>
+    <keyword>Segment Routing</keyword>
+    <abstract>Segment Routing (SR) allows a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological subpaths called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF). This document describes the OSPFv2 extensions required for Segment Routing.</abstract>
+  </front>
+</reference>

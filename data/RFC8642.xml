@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8642" target="https://www.rfc-editor.org/info/rfc8642">
+  <front>
+    <title>Policy Behavior for Well-Known BGP Communities</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8642"/>
+    <author fullname="J. Borkenhagen"/>
+    <author fullname="R. Bush"/>
+    <author fullname="R. Bonica"/>
+    <author fullname="S. Bayraktar"/>
+    <date year="2019" month="August" day="1"/>
+    <workgroup>grow</workgroup>
+    <keyword>Operations</keyword>
+    <keyword>Inter-Provider Communication</keyword>
+    <abstract>Well-known BGP communities are manipulated differently across various current implementations, resulting in difficulties for operators.  Network operators should deploy consistent community handling across their networks while taking the inconsistent behaviors from the various BGP implementations into consideration.  This document recommends specific actions to limit future inconsistency: namely, BGP implementors must not create further inconsistencies from this point forward.  These behavioral changes, though subtle, actually update RFC 1997.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC8818" target="https://www.rfc-editor.org/info/rfc8818">
+  <front>
+    <title>Distributed Mobility Anchoring</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8818"/>
+    <author fullname="H. Chan"/>
+    <author fullname="X. Wei"/>
+    <author fullname="J. Lee"/>
+    <author fullname="S. Jeon"/>
+    <author fullname="CJ. Bernardos"/>
+    <date year="2020" month="October" day="1"/>
+    <workgroup>dmm</workgroup>
+    <keyword>anchor</keyword>
+    <keyword>address continuity</keyword>
+    <keyword>reachability</keyword>
+    <keyword>continuity</keyword>
+    <keyword>PMIPv6</keyword>
+    <keyword>MIPv6</keyword>
+    <abstract>This document defines distributed mobility anchoring in terms of the different configurations and functions to provide IP mobility support.  A network may be configured with distributed mobility anchoring functions for both network-based or host-based mobility support, depending on the network's needs.  In a distributed mobility anchoring environment, multiple anchors are available for mid-session switching of an IP prefix anchor.  To start a new flow or to handle a flow not requiring IP session continuity as a mobile node moves to a new network, the flow can be started or restarted using an IP address configured from the new IP prefix anchored to the new network.  If the flow needs to survive the change of network, there are solutions that can be used to enable IP address mobility.  This document describes different anchoring approaches, depending on the IP mobility needs, and how this IP address mobility is handled by the network.</abstract>
+  </front>
+</reference>

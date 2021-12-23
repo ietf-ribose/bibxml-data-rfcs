@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5035" target="https://www.rfc-editor.org/info/rfc5035">
+  <front>
+    <title>Enhanced Security Services (ESS) Update: Adding CertID Algorithm Agility</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5035"/>
+    <author fullname="J. Schaad"/>
+    <date year="2007" month="August" day="1"/>
+    <workgroup>smime</workgroup>
+    <keyword>validation</keyword>
+    <keyword>signature</keyword>
+    <keyword>certificate</keyword>
+    <abstract>In the original Enhanced Security Services for S/MIME document (RFC 2634), a structure for cryptographically linking the certificate to be used in validation with the signature was introduced; this structure was hardwired to use SHA-1.  This document allows for the structure to have algorithm agility and defines a new attribute for this purpose. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8598" target="https://www.rfc-editor.org/info/rfc8598">
+  <front>
+    <title>Split DNS Configuration for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8598"/>
+    <author fullname="T. Pauly"/>
+    <author fullname="P. Wouters"/>
+    <date year="2019" month="May" day="1"/>
+    <workgroup>ipsecme</workgroup>
+    <keyword>IKEv2</keyword>
+    <keyword>DNS</keyword>
+    <abstract>This document defines two Configuration Payload Attribute Types (INTERNAL_DNS_DOMAIN and INTERNAL_DNSSEC_TA) for the Internet Key Exchange Protocol version 2 (IKEv2).  These payloads add support for private (internal-only) DNS domains.  These domains are intended to be resolved using non-public DNS servers that are only reachable through the IPsec connection.  DNS resolution for other domains remains unchanged.  These Configuration Payloads only apply to split- tunnel configurations.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC6720" target="https://www.rfc-editor.org/info/rfc6720">
+  <front>
+    <title>The Generalized TTL Security Mechanism (GTSM) for the Label Distribution Protocol (LDP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6720"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="R. Asati"/>
+    <date year="2012" month="August" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>GTSM</keyword>
+    <keyword>LDP</keyword>
+    <abstract>The Generalized TTL Security Mechanism (GTSM) describes a generalized use of a packet's Time to Live (TTL) (IPv4) or Hop Limit (IPv6) to verify that the packet was sourced by a node on a connected link, thereby protecting the router\'s IP control plane from CPU utilization-based attacks. This technique improves security and is used by many protocols. This document defines the GTSM use for the Label Distribution Protocol (LDP). This specification uses a bit reserved in RFC 5036 and therefore updates RFC 5036. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

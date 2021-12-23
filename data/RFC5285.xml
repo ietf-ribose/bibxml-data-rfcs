@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5285" target="https://www.rfc-editor.org/info/rfc5285">
+  <front>
+    <title>A General Mechanism for RTP Header Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5285"/>
+    <author fullname="D. Singer"/>
+    <author fullname="H. Desineni"/>
+    <date year="2008" month="July" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real-time transport protocol</keyword>
+    <keyword>extmap</keyword>
+    <abstract>This document provides a general mechanism to use the header extension feature of RTP (the Real-Time Transport Protocol).  It provides the option to use a small number of small extensions in each RTP packet, where the universe of possible extensions is large and registration is de-centralized.  The actual extensions in use in a session are signaled in the setup information for that session. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6641" target="https://www.rfc-editor.org/info/rfc6641">
+  <front>
+    <title>Using DNS SRV to Specify a Global File Namespace with NFS Version 4</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6641"/>
+    <author fullname="C. Everhart"/>
+    <author fullname="W. Adamson"/>
+    <author fullname="J. Zhang"/>
+    <date year="2012" month="June" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>domainroot</keyword>
+    <keyword>domain root file system</keyword>
+    <abstract>The NFS version 4 (NFSv4) protocol provides a mechanism for a collection of NFS file servers to collaborate in providing an organization-wide file namespace.  The DNS SRV Resource Record (RR) allows a simple way for an organization to publish the root of its file system namespace, even to clients that might not be intimately associated with such an organization.  The DNS SRV RR can be used to join these organization-wide file namespaces together to allow construction of a global, uniform NFS file namespace. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

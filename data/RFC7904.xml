@@ -1,0 +1,24 @@
+<reference anchor="IETF.RFC7904" target="https://www.rfc-editor.org/info/rfc7904">
+  <front>
+    <title>A SIP Usage for REsource LOcation And Discovery (RELOAD)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7904"/>
+    <author fullname="C. Jennings"/>
+    <author fullname="B. Lowekamp"/>
+    <author fullname="E. Rescorla"/>
+    <author fullname="S. Baset"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="T. Schmidt"/>
+    <date year="2016" month="October" day="1"/>
+    <workgroup>p2psip</workgroup>
+    <keyword>p2psip</keyword>
+    <keyword>p2p</keyword>
+    <keyword>sip</keyword>
+    <keyword>reload</keyword>
+    <keyword>peer-to-peer</keyword>
+    <keyword>session initiation</keyword>
+    <keyword>distributed session management</keyword>
+    <keyword>overlay network</keyword>
+    <keyword>SIP registrar</keyword>
+    <abstract>This document defines a SIP Usage for REsource LOcation And Discovery (RELOAD).  The SIP Usage provides the functionality of a SIP proxy or registrar in a fully distributed system and includes a lookup service for Address of Records (AORs) stored in the overlay.  It also defines Globally Routable User Agent URIs (GRUUs) that allow the registrations to map an AOR to a specific node reachable through the overlay.  After such initial contact of a Peer, the RELOAD AppAttach method is used to establish a direct connection between nodes through which SIP messages are exchanged.</abstract>
+  </front>
+</reference>

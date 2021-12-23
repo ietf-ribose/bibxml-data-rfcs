@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5450" target="https://www.rfc-editor.org/info/rfc5450">
+  <front>
+    <title>Transmission Time Offsets in RTP Streams</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5450"/>
+    <author fullname="D. Singer"/>
+    <author fullname="H. Desineni"/>
+    <date year="2009" month="March" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real-time transport</keyword>
+    <keyword>IJ</keyword>
+    <keyword>inter-arrival jitter</keyword>
+    <abstract>This document describes a method to inform Real-time Transport Protocol (RTP) clients when RTP packets are transmitted at a time other than their 'nominal' transmission time.  It also provides a mechanism to provide improved inter-arrival jitter reports from the clients, that take into account the reported transmission times. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

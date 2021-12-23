@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8561" target="https://www.rfc-editor.org/info/rfc8561">
+  <front>
+    <title>A YANG Data Model for Microwave Radio Link</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8561"/>
+    <author fullname="J. Ahlberg"/>
+    <author fullname="M. Ye"/>
+    <author fullname="X. Li"/>
+    <author fullname="D. Spreafico"/>
+    <author fullname="M. Vaupotic"/>
+    <date year="2019" month="June" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>microwaveRadioLinkTerminal</keyword>
+    <keyword>microwaveCarrierTermination</keyword>
+    <abstract>This document defines a YANG data model for control and management of radio link interfaces and their connectivity to packet (typically Ethernet) interfaces in a microwave/millimeter wave node.  The data nodes for management of the interface protection functionality is broken out into a separate and generic YANG data model in order to make it available for other interface types as well.</abstract>
+  </front>
+</reference>

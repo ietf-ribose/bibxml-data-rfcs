@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6184" target="https://www.rfc-editor.org/info/rfc6184">
+  <front>
+    <title>RTP Payload Format for H.264 Video</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6184"/>
+    <author fullname="Y.-K. Wang"/>
+    <author fullname="R. Even"/>
+    <author fullname="T. Kristensen"/>
+    <author fullname="R. Jesup"/>
+    <date year="2011" month="May" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>AVC</keyword>
+    <keyword>H.264/AVC</keyword>
+    <keyword>Advanced Video Coding</keyword>
+    <abstract>This memo describes an RTP Payload format for the ITU-T Recommendation H.264 video codec and the technically identical ISO/IEC International Standard 14496-10 video codec, excluding the Scalable Video Coding (SVC) extension and the Multiview Video Coding extension, for which the RTP payload formats are defined elsewhere. The RTP payload format allows for packetization of one or more Network Abstraction Layer Units (NALUs), produced by an H.264 video encoder, in each RTP payload. The payload format has wide applicability, as it supports applications from simple low bitrate conversational usage, to Internet video streaming with interleaved transmission, to high bitrate video-on-demand. This memo obsoletes RFC 3984. Changes from RFC 3984 are summarized in Section 14. Issues on backward compatibility to RFC 3984 are discussed in Section 15. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

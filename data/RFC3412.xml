@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC3412" target="https://www.rfc-editor.org/info/rfc3412">
+  <front>
+    <title>Message Processing and Dispatching for the Simple Network Management Protocol (SNMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3412"/>
+    <author fullname="J. Case"/>
+    <author fullname="D. Harrington"/>
+    <author fullname="R. Presuhn"/>
+    <author fullname="B. Wijnen"/>
+    <date year="2002" month="December" day="1"/>
+    <workgroup>snmpv3</workgroup>
+    <keyword>MPD-SNMP</keyword>
+    <keyword>processing</keyword>
+    <keyword>models</keyword>
+    <keyword>multiple</keyword>
+    <abstract>This document describes the Message Processing and Dispatching for Simple Network Management Protocol (SNMP) messages within the SNMP architecture.  It defines the procedures for dispatching potentially multiple versions of SNMP messages to the proper SNMP Message Processing Models, and for dispatching PDUs to SNMP applications.  This document also describes one Message Processing Model - the SNMPv3 Message Processing Model.  This document obsoletes RFC 2572. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

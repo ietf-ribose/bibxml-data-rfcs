@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5107" target="https://www.rfc-editor.org/info/rfc5107">
+  <front>
+    <title>DHCP Server Identifier Override Suboption</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5107"/>
+    <author fullname="R. Johnson"/>
+    <author fullname="J. Kumarasamy"/>
+    <author fullname="K. Kinnear"/>
+    <author fullname="M. Stapp"/>
+    <date year="2008" month="February" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>xml</keyword>
+    <keyword>extensible markup langauge</keyword>
+    <keyword>dynamic host configuration protocol</keyword>
+    <keyword>RENEW DHCPREQUEST</keyword>
+    <keyword>DHCP RENEW</keyword>
+    <abstract>This memo defines a new suboption of the DHCP relay information option that allows the DHCP relay to specify a new value for the Server Identifier option, which is inserted by the DHCP Server.  This allows the DHCP relay to act as the actual DHCP server such that RENEW DHCPREQUESTs will come to the relay instead of going to the server directly.  This gives the relay the opportunity to include the Relay Agent option with appropriate suboptions even on DHCP RENEW messages. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6630" target="https://www.rfc-editor.org/info/rfc6630">
+  <front>
+    <title>EAP Re-authentication Protocol Extensions for Authenticated Anticipatory Keying (ERP/AAK)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6630"/>
+    <author fullname="Z. Cao"/>
+    <author fullname="H. Deng"/>
+    <author fullname="Q. Wu"/>
+    <author fullname="G. Zorn"/>
+    <date year="2012" month="June" day="1"/>
+    <workgroup>hokey</workgroup>
+    <keyword>ERP</keyword>
+    <keyword>AAK</keyword>
+    <keyword>EAP</keyword>
+    <keyword>Early-authentication</keyword>
+    <abstract>The Extensible Authentication Protocol (EAP) is a generic framework supporting multiple types of authentication methods. The EAP Re-authentication Protocol (ERP) specifies extensions to EAP and the EAP keying hierarchy to support an EAP method-independent protocol for efficient re-authentication between the peer and an EAP re-authentication server through any authenticator. Authenticated Anticipatory Keying (AAK) is a method by which cryptographic keying material may be established upon one or more Candidate Attachment Points (CAPs) prior to handover. AAK uses the AAA infrastructure for key transport. This document specifies the extensions necessary to enable AAK support in ERP. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

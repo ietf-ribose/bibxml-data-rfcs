@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4213" target="https://www.rfc-editor.org/info/rfc4213">
+  <front>
+    <title>Basic Transition Mechanisms for IPv6 Hosts and Routers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4213"/>
+    <author fullname="E. Nordmark"/>
+    <author fullname="R. Gilligan"/>
+    <date year="2005" month="October" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>TRANS-IPV6</keyword>
+    <keyword>ipv4</keyword>
+    <keyword>dual sack</keyword>
+    <keyword>configured tunneling</keyword>
+    <abstract>This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers. Two mechanisms are specified, dual stack and configured tunneling. Dual stack implies providing complete implementations of both versions of the Internet Protocol (IPv4 and IPv6), and configured tunneling provides a means to carry IPv6 packets over unmodified IPv4 routing infrastructures. This document obsoletes RFC 2893. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

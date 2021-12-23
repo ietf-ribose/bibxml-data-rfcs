@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC7973" target="https://www.rfc-editor.org/info/rfc7973">
+  <front>
+    <title>Assignment of an Ethertype for IPv6 with Low-Power Wireless Personal Area Network (LoWPAN) Encapsulation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7973"/>
+    <author fullname="R. Droms"/>
+    <author fullname="P. Duffy"/>
+    <date year="2016" month="November" day="1"/>
+    <workgroup>6lo</workgroup>
+    <keyword>6lowpan</keyword>
+    <keyword>header compression</keyword>
+    <keyword>ethertype</keyword>
+    <abstract>When carried over Layer 2 technologies such as Ethernet, IPv6 datagrams using Low-Power Wireless Personal Area Network (LoWPAN) encapsulation as defined in RFC 4944 must be identified so the receiver can correctly interpret the encoded IPv6 datagram.  The IETF officially requested the assignment of an Ethertype for that purpose and this document reports that assignment.</abstract>
+  </front>
+</reference>

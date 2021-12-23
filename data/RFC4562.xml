@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4562" target="https://www.rfc-editor.org/info/rfc4562">
+  <front>
+    <title>MAC-Forced Forwarding: A Method for Subscriber Separation on an Ethernet Access Network</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4562"/>
+    <author fullname="T. Melsen"/>
+    <author fullname="S. Blake"/>
+    <date year="2006" month="June" day="1"/>
+    <keyword>Ethernet</keyword>
+    <keyword>Access Network</keyword>
+    <keyword>ARP</keyword>
+    <keyword>DHCP</keyword>
+    <abstract>This document describes a mechanism to ensure layer-2 separation of Local Area Network (LAN) stations accessing an IPv4 gateway over a bridged Ethernet segment. The mechanism - called "MAC-Forced Forwarding" - implements an Address Resolution Protocol (ARP) proxy function that prohibits Ethernet Media Access Control (MAC) address resolution between hosts located within the same IPv4 subnet but at different customer premises, and in effect directs all upstream traffic to an IPv4 gateway. The IPv4 gateway provides IP-layer connectivity between these same hosts. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8359" target="https://www.rfc-editor.org/info/rfc8359">
+  <front>
+    <title>Network-Assigned Upstream Label</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8359"/>
+    <author fullname="X. Zhang"/>
+    <author fullname="V. Beeram"/>
+    <author fullname="I. Bryskin"/>
+    <author fullname="D. Ceccarelli"/>
+    <author fullname="O. Gonzalez de Dios"/>
+    <date year="2018" month="March" day="1"/>
+    <workgroup>teas</workgroup>
+    <abstract>This document discusses a Generalized Multi-Protocol Label Switching (GMPLS) Resource reSerVation Protocol with Traffic Engineering (RSVP-TE) mechanism that enables the network to assign an upstream label for a bidirectional Label Switched Path (LSP).  This is useful in scenarios where a given node does not have sufficient information to assign the correct upstream label on its own and needs to rely on the downstream node to pick an appropriate label.  This document updates RFCs 3471, 3473, and 6205 as it defines processing for a special label value in the UPSTREAM_LABEL object.</abstract>
+  </front>
+</reference>

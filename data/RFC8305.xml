@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8305" target="https://www.rfc-editor.org/info/rfc8305">
+  <front>
+    <title>Happy Eyeballs Version 2: Better Connectivity Using Concurrency</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8305"/>
+    <author fullname="D. Schinazi"/>
+    <author fullname="T. Pauly"/>
+    <date year="2017" month="December" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>IPv6</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>TCP</keyword>
+    <keyword>DNS</keyword>
+    <keyword>NAT64</keyword>
+    <abstract>Many communication protocols operating over the modern Internet use hostnames.  These often resolve to multiple IP addresses, each of which may have different performance and connectivity characteristics.  Since specific addresses or address families (IPv4 or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attempt multiple connections in parallel have a chance of establishing a connection more quickly.  This document specifies requirements for algorithms that reduce this user-visible delay and provides an example algorithm, referred to as "Happy Eyeballs".  This document obsoletes the original algorithm description in RFC 6555.</abstract>
+  </front>
+</reference>

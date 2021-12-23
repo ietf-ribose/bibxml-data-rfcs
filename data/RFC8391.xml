@@ -1,0 +1,28 @@
+<reference anchor="IETF.RFC8391" target="https://www.rfc-editor.org/info/rfc8391">
+  <front>
+    <title>XMSS: eXtended Merkle Signature Scheme</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8391"/>
+    <author fullname="A. Huelsing"/>
+    <author fullname="D. Butin"/>
+    <author fullname="S. Gazdag"/>
+    <author fullname="J. Rijneveld"/>
+    <author fullname="A. Mohaisen"/>
+    <date year="2018" month="May" day="1"/>
+    <keyword>Digital signature</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>post-quantum cryptography</keyword>
+    <keyword>Hash-based signatures</keyword>
+    <keyword>Merkle signatures</keyword>
+    <keyword>Merkle tree</keyword>
+    <keyword>hash function</keyword>
+    <keyword>Winternitz</keyword>
+    <keyword>Winternitz one-time signature scheme</keyword>
+    <keyword>WOTS</keyword>
+    <keyword>W-OTS</keyword>
+    <keyword>WOTS+</keyword>
+    <keyword>W-OTS+</keyword>
+    <keyword>XMSS-MT</keyword>
+    <keyword>multi-tree XMSS</keyword>
+    <abstract>This note describes the eXtended Merkle Signature Scheme (XMSS), a hash-based digital signature system that is based on existing descriptions in scientific literature.  This note specifies Winternitz One-Time Signature Plus (WOTS+), a one-time signature scheme; XMSS, a single-tree scheme; and XMSS^MT, a multi-tree variant of XMSS.  Both XMSS and XMSS^MT use WOTS+ as a main building block.  XMSS provides cryptographic digital signatures without relying on the conjectured hardness of mathematical problems.  Instead, it is proven that it only relies on the properties of cryptographic hash functions.  XMSS provides strong security guarantees and is even secure when the collision resistance of the underlying hash function is broken.  It is suitable for compact implementations, is relatively simple to implement, and naturally resists side-channel attacks.  Unlike most other signature systems, hash-based signatures can so far withstand known attacks using quantum computers.</abstract>
+  </front>
+</reference>

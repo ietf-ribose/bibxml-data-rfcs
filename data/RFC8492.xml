@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8492" target="https://www.rfc-editor.org/info/rfc8492">
+  <front>
+    <title>Secure Password Ciphersuites for Transport Layer Security (TLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8492"/>
+    <author fullname="D. Harkins"/>
+    <date year="2019" month="February" day="1"/>
+    <keyword>Password Authenticated Key Exchange</keyword>
+    <keyword>Dictionary Attack</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>TLS</keyword>
+    <abstract>This memo defines several new ciphersuites for the Transport Layer Security (TLS) protocol to support certificateless, secure authentication using only a simple, low-entropy password.  The exchange is called "TLS-PWD".  The ciphersuites are all based on an authentication and key exchange protocol, named "dragonfly", that is resistant to offline dictionary attacks.</abstract>
+  </front>
+</reference>

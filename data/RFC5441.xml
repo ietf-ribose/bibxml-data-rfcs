@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5441" target="https://www.rfc-editor.org/info/rfc5441">
+  <front>
+    <title>A Backward-Recursive PCE-Based Computation (BRPC) Procedure to Compute Shortest Constrained Inter-Domain Traffic Engineering Label Switched Paths</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5441"/>
+    <author fullname="JP. Vasseur"/>
+    <author fullname="R. Zhang"/>
+    <author fullname="N. Bitar"/>
+    <author fullname="JL. Le Roux"/>
+    <date year="2009" month="April" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>te lsp</keyword>
+    <keyword>path computation element</keyword>
+    <abstract>The ability to compute shortest constrained Traffic Engineering Label Switched Paths (TE LSPs) in Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks across multiple domains has been identified as a key requirement.  In this context, a domain is a collection of network elements within a common sphere of address management or path computational responsibility such as an IGP area or an Autonomous Systems.  This document specifies a procedure relying on the use of multiple Path Computation Elements (PCEs) to compute such inter-domain shortest constrained paths across a predetermined sequence of domains, using a backward-recursive path computation technique.  This technique preserves confidentiality across domains, which is sometimes required when domains are managed by different service providers. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

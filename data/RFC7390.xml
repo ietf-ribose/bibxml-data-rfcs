@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC7390" target="https://www.rfc-editor.org/info/rfc7390">
+  <front>
+    <title>Group Communication for the Constrained Application Protocol (CoAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7390"/>
+    <author fullname="A. Rahman"/>
+    <author fullname="E. Dijk"/>
+    <date year="2014" month="October" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>multicast</keyword>
+    <keyword>IP multicast</keyword>
+    <keyword>RESTful</keyword>
+    <keyword>Internet of Things (IoT)</keyword>
+    <abstract>The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for constrained devices and constrained networks.  It is anticipated that constrained devices will often naturally operate in groups (e.g., in a building automation scenario, all lights in a given room may need to be switched on/off as a group).  This specification defines how CoAP should be used in a group communication context.  An approach for using CoAP on top of IP multicast is detailed based on existing CoAP functionality as well as new features introduced in this specification.  Also, various use cases and corresponding protocol flows are provided to illustrate important concepts.  Finally, guidance is provided for deployment in various network topologies.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3436" target="https://www.rfc-editor.org/info/rfc3436">
+  <front>
+    <title>Transport Layer Security over Stream Control Transmission Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3436"/>
+    <author fullname="A. Jungmaier"/>
+    <author fullname="E. Rescorla"/>
+    <author fullname="M. Tuexen"/>
+    <date year="2002" month="December" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>sctp</keyword>
+    <keyword>tls</keyword>
+    <abstract>This document describes the usage of the Transport Layer Security (TLS) protocol, as defined in RFC 2246, over the Stream Control Transmission Protocol (SCTP), as defined in RFC 2960 and RFC 3309.  The user of TLS can take advantage of the features provided by SCTP, namely the support of multiple streams to avoid head of line blocking and the support of multi-homing to provide network level fault tolerance.  Additionally, discussions of extensions of SCTP are also supported, meaning especially the support of dynamic reconfiguration of IP- addresses. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

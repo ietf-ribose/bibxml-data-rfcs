@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8235" target="https://www.rfc-editor.org/info/rfc8235">
+  <front>
+    <title>Schnorr Non-interactive Zero-Knowledge Proof</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8235"/>
+    <author fullname="F. Hao"/>
+    <date year="2017" month="September" day="1"/>
+    <keyword>Zero-Knowledge Proof</keyword>
+    <keyword>Schnorr NIZK proof</keyword>
+    <keyword>Identification protocol</keyword>
+    <abstract>This document describes the Schnorr non-interactive zero-knowledge (NIZK) proof, a non-interactive variant of the three-pass Schnorr identification scheme.  The Schnorr NIZK proof allows one to prove the knowledge of a discrete logarithm without leaking any information about its value.  It can serve as a useful building block for many cryptographic protocols to ensure that participants follow the protocol specification honestly.  This document specifies the Schnorr NIZK proof in both the finite field and the elliptic curve settings.</abstract>
+  </front>
+</reference>

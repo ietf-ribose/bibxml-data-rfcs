@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5275" target="https://www.rfc-editor.org/info/rfc5275">
+  <front>
+    <title>CMS Symmetric Key Management and Distribution</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5275"/>
+    <author fullname="S. Turner"/>
+    <date year="2008" month="June" day="1"/>
+    <workgroup>smime</workgroup>
+    <keyword>cryptographic message syntax</keyword>
+    <keyword>symmetric cryptographic algorithms</keyword>
+    <keyword>certificate management over cms</keyword>
+    <keyword>cmc</keyword>
+    <abstract>This document describes a mechanism to manage (i.e., set up, distribute, and rekey) keys used with symmetric cryptographic algorithms.  Also defined herein is a mechanism to organize users into groups to support distribution of encrypted content using symmetric cryptographic algorithms.  The mechanism uses the Cryptographic Message Syntax (CMS) protocol and Certificate Management over CMS (CMC) protocol to manage the symmetric keys.  Any member of the group can then later use this distributed shared key to decrypt other CMS encrypted objects with the symmetric key.  This mechanism has been developed to support Secure/Multipurpose Internet Mail Extensions (S/MIME) Mail List Agents (MLAs). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

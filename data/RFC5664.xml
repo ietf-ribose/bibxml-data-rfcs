@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5664" target="https://www.rfc-editor.org/info/rfc5664">
+  <front>
+    <title>Object-Based Parallel NFS (pNFS) Operations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5664"/>
+    <author fullname="B. Halevy"/>
+    <author fullname="B. Welch"/>
+    <author fullname="J. Zelenka"/>
+    <date year="2010" month="January" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>OSD</keyword>
+    <keyword>storage device</keyword>
+    <abstract>Parallel NFS (pNFS) extends Network File System version 4 (NFSv4) to allow clients to directly access file data on the storage used by the NFSv4 server.  This ability to bypass the server for data access can increase both performance and parallelism, but requires additional client functionality for data access, some of which is dependent on the class of storage used, a.k.a.  the Layout Type.  The main pNFS operations and data types in NFSv4 Minor version 1 specify a layout- type-independent layer; layout-type-specific information is conveyed using opaque data structures whose internal structure is further defined by the particular layout type specification.  This document specifies the NFSv4.1 Object-Based pNFS Layout Type as a companion to the main NFSv4 Minor version 1 specification. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

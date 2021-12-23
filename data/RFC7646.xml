@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7646" target="https://www.rfc-editor.org/info/rfc7646">
+  <front>
+    <title>Definition and Use of DNSSEC Negative Trust Anchors</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7646"/>
+    <author fullname="P. Ebersman"/>
+    <author fullname="W. Kumari"/>
+    <author fullname="C. Griffiths"/>
+    <author fullname="J. Livingood"/>
+    <author fullname="R. Weber"/>
+    <date year="2015" month="September" day="1"/>
+    <workgroup>dnsop</workgroup>
+    <keyword>NTA</keyword>
+    <keyword>ISP</keyword>
+    <keyword>Internet Service Provider</keyword>
+    <keyword>DNS</keyword>
+    <keyword>DNSSEC</keyword>
+    <keyword>Negative Trust Anchors</keyword>
+    <abstract>DNS Security Extensions (DNSSEC) is now entering widespread deployment.  However, domain signing tools and processes are not yet as mature and reliable as those for non-DNSSEC-related domain administration tools and processes.  This document defines Negative Trust Anchors (NTAs), which can be used to mitigate DNSSEC validation failures by disabling DNSSEC validation at specified domains.</abstract>
+  </front>
+</reference>

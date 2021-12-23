@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC5381" target="https://www.rfc-editor.org/info/rfc5381">
+  <front>
+    <title>Experience of Implementing NETCONF over SOAP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5381"/>
+    <author fullname="T. Iijima"/>
+    <author fullname="Y. Atarashi"/>
+    <author fullname="H. Kimura"/>
+    <author fullname="M. Kitani"/>
+    <author fullname="H. Okita"/>
+    <date year="2008" month="October" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>simple object access protocol</keyword>
+    <keyword>network configuration protocol</keyword>
+    <keyword>mns</keyword>
+    <keyword>network management system</keyword>
+    <abstract>This document describes how the authors developed a SOAP (Simple Object Access Protocol)-based NETCONF (Network Configuration Protocol) client and server.  It describes an alternative SOAP binding for NETCONF that does not interoperate with an RFC 4743 conformant implementation making use of cookies on top of the persistent transport connections of HTTP.  When SOAP is used as a transport protocol for NETCONF, various kinds of development tools are available.  By making full use of these tools, developers can significantly reduce their workload.  The authors developed an NMS (Network Management System) and network equipment that can deal with NETCONF messages sent over SOAP.  This document aims to provide NETCONF development guidelines gained from the experience of implementing a SOAP-based NETCONF client and server.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

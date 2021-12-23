@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7175" target="https://www.rfc-editor.org/info/rfc7175">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): Bidirectional Forwarding Detection (BFD) Support</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7175"/>
+    <author fullname="V. Manral"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Ward"/>
+    <author fullname="A. Banerjee"/>
+    <date year="2014" month="May" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>RBridge</keyword>
+    <keyword>Echo</keyword>
+    <keyword>one-hop</keyword>
+    <abstract>This document specifies use of the Bidirectional Forwarding Detection (BFD) protocol in Routing Bridge (RBridge) campuses based on the RBridge Channel extension to the Transparent Interconnection of Lots of Links (TRILL) protocol. BFD is a widely deployed Operations, Administration, and Maintenance (OAM) mechanism in IP and MPLS networks, using UDP and Associated Channel Header (ACH) encapsulation respectively. This document specifies the BFD encapsulation over TRILL.</abstract>
+  </front>
+</reference>

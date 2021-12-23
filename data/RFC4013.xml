@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4013" target="https://www.rfc-editor.org/info/rfc4013">
+  <front>
+    <title>SASLprep: Stringprep Profile for User Names and Passwords</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4013"/>
+    <author fullname="K. Zeilenga"/>
+    <date year="2005" month="February" day="1"/>
+    <workgroup>sasl</workgroup>
+    <keyword>unicode strings</keyword>
+    <keyword>saslprep</keyword>
+    <keyword>stringprep</keyword>
+    <keyword>sasl</keyword>
+    <keyword>simple authentication and security layer</keyword>
+    <abstract>This document describes how to prepare Unicode strings representing user names and passwords for comparison.  The document defines the "SASLprep" profile of the "stringprep" algorithm to be used for both user names and passwords.  This profile is intended to be used by Simple Authentication and Security Layer (SASL) mechanisms (such as PLAIN, CRAM-MD5, and DIGEST-MD5), as well as other protocols exchanging simple user names and/or passwords. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

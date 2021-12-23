@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7569" target="https://www.rfc-editor.org/info/rfc7569">
+  <front>
+    <title>Registry Specification for Mandatory Access Control (MAC) Security Label Formats</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7569"/>
+    <author fullname="D. Quigley"/>
+    <author fullname="J. Lu"/>
+    <author fullname="T. Haynes"/>
+    <date year="2015" month="July" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>NFSv4</keyword>
+    <abstract>In the past, Mandatory Access Control (MAC) systems have used very rigid policies that were implemented in particular protocols and platforms. As MAC systems become more widely deployed, additional flexibility in mechanism and policy will be required. While traditional trusted systems implemented Multi-Level Security (MLS) and integrity models, modern systems have expanded to include such technologies as type enforcement. Due to the wide range of policies and mechanisms that need to be accommodated, it is unlikely that the use of a single security label format and model will be viable. To allow multiple MAC mechanisms and label formats to co-exist in a network, this document creates a registry of label format specifications. This registry contains label format identifiers and provides for the association of each such identifier with a corresponding extensive document outlining the exact syntax and use of the particular label format.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC7882" target="https://www.rfc-editor.org/info/rfc7882">
+  <front>
+    <title>Seamless Bidirectional Forwarding Detection (S-BFD) Use Cases</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7882"/>
+    <author fullname="S. Aldrin"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="G. Mirsky"/>
+    <author fullname="N. Kumar"/>
+    <date year="2016" month="July" day="1"/>
+    <workgroup>bfd</workgroup>
+    <keyword>BFD</keyword>
+    <keyword>seamless BFD</keyword>
+    <keyword>negotiation free</keyword>
+    <keyword>label verification</keyword>
+    <keyword>segment routing</keyword>
+    <keyword>IP</keyword>
+    <abstract>This document describes various use cases for Seamless Bidirectional Forwarding Detection (S-BFD) and provides requirements such that protocol mechanisms allow for simplified detection of forwarding failures. These use cases support S-BFD, which is a simplified mechanism for using BFD with a large proportion of negotiation aspects eliminated, accelerating the establishment of a BFD session. The benefits of S-BFD include quick provisioning, as well as improved control and flexibility for network nodes initiating path monitoring.</abstract>
+  </front>
+</reference>

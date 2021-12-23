@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6690" target="https://www.rfc-editor.org/info/rfc6690">
+  <front>
+    <title>Constrained RESTful Environments (CoRE) Link Format</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6690"/>
+    <author fullname="Z. Shelby"/>
+    <date year="2012" month="August" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>CoRE</keyword>
+    <keyword>Link Format</keyword>
+    <keyword>HTTP Link Header Format</keyword>
+    <keyword>Resource Discovery</keyword>
+    <abstract>This specification defines Web Linking using a link format for use by constrained web servers to describe hosted resources, their attributes, and other relationships between links.  Based on the HTTP Link Header field defined in RFC 5988, the Constrained RESTful Environments (CoRE) Link Format is carried as a payload and is assigned an Internet media type. "RESTful" refers to the Representational State Transfer (REST) architecture.  A well-known URI is defined as a default entry point for requesting the links hosted by a server. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC3246" target="https://www.rfc-editor.org/info/rfc3246">
+  <front>
+    <title>An Expedited Forwarding PHB (Per-Hop Behavior)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3246"/>
+    <author fullname="B. Davie"/>
+    <author fullname="A. Charny"/>
+    <author fullname="J.C.R. Bennet"/>
+    <author fullname="K. Benson"/>
+    <author fullname="J.Y. Le Boudec"/>
+    <author fullname="W. Courtney"/>
+    <author fullname="S. Davari"/>
+    <author fullname="V. Firoiu"/>
+    <author fullname="D. Stiliadis"/>
+    <date year="2002" month="March" day="1"/>
+    <workgroup>diffserv</workgroup>
+    <keyword>per-hop behavior</keyword>
+    <keyword>expedited forwarding</keyword>
+    <keyword>differentiated services</keyword>
+    <keyword>delay</keyword>
+    <keyword>jitter</keyword>
+    <abstract>This document defines a PHB (per-hop behavior) called Expedited Forwarding (EF).  The PHB is a basic building block in the Differentiated Services architecture.  EF is intended to provide a building block for low delay, low jitter and low loss services by ensuring that the EF aggregate is served at a certain configured rate.  This document obsoletes RFC 2598. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

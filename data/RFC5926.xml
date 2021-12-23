@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5926" target="https://www.rfc-editor.org/info/rfc5926">
+  <front>
+    <title>Cryptographic Algorithms for the TCP Authentication Option (TCP-AO)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5926"/>
+    <author fullname="G. Lebovitz"/>
+    <author fullname="E. Rescorla"/>
+    <date year="2010" month="June" day="1"/>
+    <workgroup>tcpm</workgroup>
+    <keyword>transmission control protocol</keyword>
+    <abstract>The TCP Authentication Option (TCP-AO) relies on security algorithms to provide authentication between two end-points.  There are many such algorithms available, and two TCP-AO systems cannot interoperate unless they are using the same algorithms.  This document specifies the algorithms and attributes that can be used in TCP-AO's current manual keying mechanism and provides the interface for future message authentication codes (MACs). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

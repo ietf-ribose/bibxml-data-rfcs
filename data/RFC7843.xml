@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC7843" target="https://www.rfc-editor.org/info/rfc7843">
+  <front>
+    <title>Port Control Protocol (PCP) Third-Party ID Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7843"/>
+    <author fullname="A. Ripke"/>
+    <author fullname="R. Winter"/>
+    <author fullname="T. Dietz"/>
+    <author fullname="J. Quittek"/>
+    <author fullname="R. da Silva"/>
+    <date year="2016" month="May" day="1"/>
+    <workgroup>pcp</workgroup>
+    <keyword>PCP</keyword>
+    <keyword>option</keyword>
+    <keyword>third party</keyword>
+    <keyword>ID</keyword>
+    <abstract>This document describes a new Port Control Protocol (PCP) option called the THIRD_PARTY_ID option. It is designed to be used together with the THIRD_PARTY option specified in RFC 6887. The THIRD_PARTY_ID option serves to identify a third party in situations where a third party's IP address contained in the THIRD_PARTY option does not provide sufficient information to create requested mappings in a PCP-controlled device.</abstract>
+  </front>
+</reference>

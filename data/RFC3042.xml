@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC3042" target="https://www.rfc-editor.org/info/rfc3042">
+  <front>
+    <title>Enhancing TCP's Loss Recovery Using Limited Transmit</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3042"/>
+    <author fullname="M. Allman"/>
+    <author fullname="H. Balakrishnan"/>
+    <author fullname="S. Floyd"/>
+    <date year="2001" month="January" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>transmission</keyword>
+    <keyword>control</keyword>
+    <keyword>protocol</keyword>
+    <abstract>This document proposes a new Transmission Control Protocol (TCP) mechanism that can be used to more effectively recover lost segments when a connection's congestion window is small, or when a large number of segments are lost in a single transmission window. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

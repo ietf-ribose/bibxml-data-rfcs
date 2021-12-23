@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC3585" target="https://www.rfc-editor.org/info/rfc3585">
+  <front>
+    <title>IPsec Configuration Policy Information Model</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3585"/>
+    <author fullname="J. Jason"/>
+    <author fullname="L. Rafalow"/>
+    <author fullname="E. Vyncke"/>
+    <date year="2003" month="August" day="1"/>
+    <workgroup>ipsp</workgroup>
+    <keyword>ike</keyword>
+    <keyword>internet key exchange protocol</keyword>
+    <keyword>core</keyword>
+    <keyword>pcim</keyword>
+    <abstract>This document presents an object-oriented information model of IP Security (IPsec) policy designed to facilitate agreement about the content and semantics of IPsec policy, and enable derivations of task- specific representations of IPsec policy such as storage schema, distribution representations, and policy specification languages used to configure IPsec-enabled endpoints.  The information model described in this document models the configuration parameters defined by IPSec.  The information model also covers the parameters found by the Internet Key Exchange protocol (IKE).  Other key exchange protocols could easily be added to the information model by a simple extension.  Further extensions can further be added easily due to the object-oriented nature of the model.  This information model is based upon the core policy classes as defined in the Policy Core Information Model (PCIM) and in the Policy Core Information Model Extensions (PCIMe). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

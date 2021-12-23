@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC6961" target="https://www.rfc-editor.org/info/rfc6961">
+  <front>
+    <title>The Transport Layer Security (TLS) Multiple Certificate Status Request Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6961"/>
+    <author fullname="Y. Pettersen"/>
+    <date year="2013" month="June" day="1"/>
+    <workgroup>tls</workgroup>
+    <keyword>RFC 6066</keyword>
+    <keyword>RFC 2560</keyword>
+    <keyword>RFC 6960</keyword>
+    <keyword>RFC 5246</keyword>
+    <keyword>OCSP</keyword>
+    <keyword>OCSP stapling</keyword>
+    <keyword>multi-stapling</keyword>
+    <keyword>certificate status checking</keyword>
+    <keyword>revocation information</keyword>
+    <keyword>status_request</keyword>
+    <keyword>status_request_v2</keyword>
+    <abstract>This document defines the Transport Layer Security (TLS) Certificate Status Version 2 Extension to allow clients to specify and support several certificate status methods. (The use of the Certificate Status extension is commonly referred to as "OCSP stapling".) Also defined is a new method based on the Online Certificate Status Protocol (OCSP) that servers can use to provide status information about not only the server's own certificate but also the status of intermediate certificates in the chain.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC5642" target="https://www.rfc-editor.org/info/rfc5642">
+  <front>
+    <title>Dynamic Hostname Exchange Mechanism for OSPF</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5642"/>
+    <author fullname="S. Venkata"/>
+    <author fullname="S. Harwani"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="D. McPherson"/>
+    <date year="2009" month="August" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>open shortest path first</keyword>
+    <keyword>router information</keyword>
+    <keyword>ri</keyword>
+    <keyword>ospf dynamic hostname</keyword>
+    <abstract>This document defines a new OSPF Router Information (RI) TLV that allows OSPF routers to flood their hostname-to-Router-ID mapping information across an OSPF network to provide a simple and dynamic mechanism for routers running OSPF to learn about symbolic hostnames, just like for routers running IS-IS.  This mechanism is applicable to both OSPFv2 and OSPFv3. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

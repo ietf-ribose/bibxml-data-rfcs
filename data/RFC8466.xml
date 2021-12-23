@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8466" target="https://www.rfc-editor.org/info/rfc8466">
+  <front>
+    <title>A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8466"/>
+    <author fullname="B. Wen"/>
+    <author fullname="G. Fioccola"/>
+    <author fullname="C. Xie"/>
+    <author fullname="L. Jalil"/>
+    <date year="2018" month="October" day="1"/>
+    <workgroup>l2sm</workgroup>
+    <keyword>L2SM</keyword>
+    <keyword>Service Model</keyword>
+    <keyword>L2VPN SM</keyword>
+    <keyword>L2VPN Service Model</keyword>
+    <abstract>This document defines a YANG data model that can be used to configure a Layer 2 provider-provisioned VPN service. It is up to a management system to take this as an input and generate specific configuration models to configure the different network elements to deliver the service. How this configuration of network elements is done is out of scope for this document. The YANG data model defined in this document includes support for point-to-point Virtual Private Wire Services (VPWSs) and multipoint Virtual Private LAN Services (VPLSs) that use Pseudowires signaled using the Label Distribution Protocol (LDP) and the Border Gateway Protocol (BGP) as described in RFCs 4761 and 6624. The YANG data model defined in this document conforms to the Network Management Datastore Architecture defined in RFC 8342.</abstract>
+  </front>
+</reference>

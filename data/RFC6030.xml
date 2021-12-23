@@ -1,0 +1,27 @@
+<reference anchor="IETF.RFC6030" target="https://www.rfc-editor.org/info/rfc6030">
+  <front>
+    <title>Portable Symmetric Key Container (PSKC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6030"/>
+    <author fullname="P. Hoyer"/>
+    <author fullname="M. Pei"/>
+    <author fullname="S. Machani"/>
+    <date year="2010" month="October" day="1"/>
+    <workgroup>keyprov</workgroup>
+    <keyword>Symmetric Key</keyword>
+    <keyword>provisioning</keyword>
+    <keyword>AES</keyword>
+    <keyword>3DES</keyword>
+    <keyword>TDES</keyword>
+    <keyword>OTP</keyword>
+    <keyword>Key transport format</keyword>
+    <keyword>key provisioning format</keyword>
+    <keyword>symmetric key protection</keyword>
+    <keyword>symmetric key transport</keyword>
+    <keyword>PIN transport</keyword>
+    <keyword>PIN</keyword>
+    <keyword>provisioning</keyword>
+    <keyword>PIN Policy</keyword>
+    <keyword>key usage policy</keyword>
+    <abstract>This document specifies a symmetric key format for the transport and provisioning of symmetric keys to different types of crypto modules.  For example, One-Time Password (OTP) shared secrets or symmetric cryptographic keys to strong authentication devices.  A standard key transport format enables enterprises to deploy best-of-breed solutions combining components from different vendors into the same infrastructure. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

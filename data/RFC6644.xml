@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6644" target="https://www.rfc-editor.org/info/rfc6644">
+  <front>
+    <title>Rebind Capability in DHCPv6 Reconfigure Messages</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6644"/>
+    <author fullname="D. Evans"/>
+    <author fullname="R. Droms"/>
+    <author fullname="S. Jiang"/>
+    <date year="2012" month="July" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>internet protocol</keyword>
+    <keyword>parameters</keyword>
+    <keyword>addresses</keyword>
+    <abstract>This document updates RFC 3315 (DHCPv6) to allow the Rebind message type to appear in the Reconfigure Message option of a Reconfigure message.  It extends the Reconfigure message to allow a DHCPv6 server to cause a DHCPv6 client to send a Rebind message.  The document also clarifies how a DHCPv6 client responds to a received Reconfigure message. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

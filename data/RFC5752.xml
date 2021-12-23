@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5752" target="https://www.rfc-editor.org/info/rfc5752">
+  <front>
+    <title>Multiple Signatures in Cryptographic Message Syntax (CMS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5752"/>
+    <author fullname="S. Turner"/>
+    <author fullname="J. Schaad"/>
+    <date year="2010" month="January" day="1"/>
+    <workgroup>smime</workgroup>
+    <keyword>signeddata</keyword>
+    <keyword>signerinfo</keyword>
+    <keyword>downgrade attacks</keyword>
+    <keyword>algorithm migration</keyword>
+    <abstract>Cryptographic Message Syntax (CMS) SignedData includes the SignerInfo structure to convey per-signer information.  SignedData supports multiple signers and multiple signature algorithms per signer with multiple SignerInfo structures.  If a signer attaches more than one SignerInfo, there are concerns that an attacker could perform a downgrade attack by removing the SignerInfo(s) with the \'strong' algorithm(s).  This document defines the multiple-signatures attribute, its generation rules, and its processing rules to allow signers to convey multiple SignerInfo objects while protecting against downgrade attacks.  Additionally, this attribute may assist during periods of algorithm migration. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

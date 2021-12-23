@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6167" target="https://www.rfc-editor.org/info/rfc6167">
+  <front>
+    <title>URI Scheme for Java(tm) Message Service 1.0</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6167"/>
+    <author fullname="M. Phillips"/>
+    <author fullname="P. Adams"/>
+    <author fullname="D. Rokicki"/>
+    <author fullname="E. Johnson"/>
+    <date year="2011" month="April" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>SOAP</keyword>
+    <keyword>JMS</keyword>
+    <keyword>JNDI</keyword>
+    <keyword>IRI</keyword>
+    <abstract>This document defines the format of Uniform Resource Identifiers (URIs) as defined in RFC 3986, for designating connections and destination addresses used in the Java(tm) Messaging Service (JMS).  It was originally designed for particular uses, but applies generally wherever a JMS URI is needed to describe the connection to a JMS provider, and access to a JMS Destination.  The syntax of this JMS URI is not compatible with previously existing, but unregistered, "jms" URI schemes.  However, the expressiveness of the scheme described herein should satisfy the requirements of all existing circumstances.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

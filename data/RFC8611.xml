@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8611" target="https://www.rfc-editor.org/info/rfc8611">
+  <front>
+    <title>Label Switched Path (LSP) Ping and Traceroute Multipath Support for Link Aggregation Group (LAG) Interfaces</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8611"/>
+    <author fullname="N. Akiya"/>
+    <author fullname="G. Swallow"/>
+    <author fullname="S. Litkowski"/>
+    <author fullname="B. Decraene"/>
+    <author fullname="J. Drake"/>
+    <author fullname="M. Chen"/>
+    <date year="2019" month="June" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>LSP Ping</keyword>
+    <abstract>This document defines extensions to the MPLS Label Switched Path (LSP) Ping and Traceroute mechanisms as specified in RFC 8029. The extensions allow the MPLS LSP Ping and Traceroute mechanisms to discover and exercise specific paths of Layer 2 (L2) Equal-Cost Multipath (ECMP) over Link Aggregation Group (LAG) interfaces. Additionally, a mechanism is defined to enable the determination of the capabilities supported by a Label Switching Router (LSR). This document updates RFC 8029.</abstract>
+  </front>
+</reference>

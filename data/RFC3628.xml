@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3628" target="https://www.rfc-editor.org/info/rfc3628">
+  <front>
+    <title>Policy Requirements for Time-Stamping Authorities (TSAs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3628"/>
+    <author fullname="D. Pinkas"/>
+    <author fullname="N. Pope"/>
+    <author fullname="J. Ross"/>
+    <date year="2003" month="November" day="1"/>
+    <workgroup>pkix</workgroup>
+    <keyword>tokens</keyword>
+    <keyword>public key certificates</keyword>
+    <abstract>This document defines requirements for a baseline time-stamp policy for Time-Stamping Authorities (TSAs) issuing time-stamp tokens, supported by public key certificates, with an accuracy of one second or better.  A TSA may define its own policy which enhances the policy defined in this document.  Such a policy shall incorporate or further constrain the requirements identified in this document.</abstract>
+  </front>
+</reference>

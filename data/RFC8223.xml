@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8223" target="https://www.rfc-editor.org/info/rfc8223">
+  <front>
+    <title>Application-Aware Targeted LDP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8223"/>
+    <author fullname="S. Esale"/>
+    <author fullname="R. Torvi"/>
+    <author fullname="L. Jalil"/>
+    <author fullname="U. Chunduri"/>
+    <author fullname="K. Raza"/>
+    <date year="2017" month="August" day="1"/>
+    <workgroup>mpls</workgroup>
+    <abstract>Recent Targeted Label Distribution Protocol (tLDP) applications, such as remote Loop-Free Alternates (LFAs) and BGP auto-discovered pseudowires, may automatically establish a tLDP session with any Label Switching Router (LSR) in a network.  The initiating LSR has information about the targeted applications to administratively control initiation of the session.  However, the responding LSR has no such information to control acceptance of this session.  This document defines a mechanism to advertise and negotiate the Targeted Application Capability (TAC) during LDP session initialization.  As the responding LSR becomes aware of targeted applications, it may establish a limited number of tLDP sessions for certain applications.  In addition, each targeted application is mapped to LDP Forwarding Equivalence Class (FEC) elements to advertise only necessary LDP FEC label bindings over the session.  This document updates RFC 7473 for enabling advertisement of LDP FEC label bindings over the session.</abstract>
+  </front>
+</reference>

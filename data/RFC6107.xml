@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6107" target="https://www.rfc-editor.org/info/rfc6107">
+  <front>
+    <title>Procedures for Dynamically Signaled Hierarchical Label Switched Paths</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6107"/>
+    <author fullname="K. Shiomoto"/>
+    <author fullname="A. Farrel"/>
+    <date year="2011" month="February" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>TE links</keyword>
+    <keyword>Bundled links</keyword>
+    <keyword>GMPLS</keyword>
+    <keyword>dynamically provisioned networks</keyword>
+    <abstract>Label Switched Paths (LSPs) set up in Multiprotocol Label Switching (MPLS) or Generalized MPLS (GMPLS) networks can be used to form links to carry traffic in those networks or in other (client) networks. Protocol mechanisms already exist to facilitate the establishment of such LSPs and to bundle traffic engineering (TE) links to reduce the load on routing protocols. This document defines extensions to those mechanisms to support identifying the use to which such LSPs are to be put and to enable the TE link endpoints to be assigned addresses or unnumbered identifiers during the signaling process. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

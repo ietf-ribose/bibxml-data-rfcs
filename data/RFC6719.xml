@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6719" target="https://www.rfc-editor.org/info/rfc6719">
+  <front>
+    <title>The Minimum Rank with Hysteresis Objective Function</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6719"/>
+    <author fullname="O. Gnawali"/>
+    <author fullname="P. Levis"/>
+    <date year="2012" month="September" day="1"/>
+    <workgroup>roll</workgroup>
+    <keyword>Routing Protocol for Low Power and Lossy Networks</keyword>
+    <keyword>RPL</keyword>
+    <keyword>Low Power and Lossy Networks</keyword>
+    <keyword>LLN</keyword>
+    <abstract>The Routing Protocol for Low-Power and Lossy Networks (RPL) constructs routes by using Objective Functions that optimize or constrain the routes it selects and uses.  This specification describes the Minimum Rank with Hysteresis Objective Function (MRHOF), an Objective Function that selects routes that minimize a metric, while using hysteresis to reduce churn in response to small metric changes.  MRHOF works with additive metrics along a route, and the metrics it uses are determined by the metrics that the RPL Destination Information Object (DIO) messages advertise. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

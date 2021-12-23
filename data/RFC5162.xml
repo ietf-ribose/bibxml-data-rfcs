@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5162" target="https://www.rfc-editor.org/info/rfc5162">
+  <front>
+    <title>IMAP4 Extensions for Quick Mailbox Resynchronization</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5162"/>
+    <author fullname="A. Melnikov"/>
+    <author fullname="D. Cridland"/>
+    <author fullname="C. Wilson"/>
+    <date year="2008" month="March" day="1"/>
+    <workgroup>lemonade</workgroup>
+    <keyword>Internet Message Access Protocol</keyword>
+    <abstract>This document defines an IMAP4 extension, which gives an IMAP client the ability to quickly resynchronize any previously opened mailbox as part of the SELECT command, without the need for server-side state or additional client round-trips.  This extension also introduces a new response that allows for a more compact representation of a list of expunged messages (and always includes the Unique Identifiers (UIDs) expunged). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7983" target="https://www.rfc-editor.org/info/rfc7983">
+  <front>
+    <title>Multiplexing Scheme Updates for Secure Real-time Transport Protocol (SRTP) Extension for Datagram Transport Layer Security (DTLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7983"/>
+    <author fullname="M. Petit-Huguenin"/>
+    <author fullname="G. Salgueiro"/>
+    <date year="2016" month="September" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>TLS</keyword>
+    <keyword>STUN</keyword>
+    <keyword>TURN</keyword>
+    <keyword>TLS</keyword>
+    <keyword>TURN Channel Numbers</keyword>
+    <keyword>STUN Methods</keyword>
+    <keyword>RFC 5764</keyword>
+    <keyword>SRTP-DTLS</keyword>
+    <keyword>ZRTP</keyword>
+    <abstract>This document defines how Datagram Transport Layer Security (DTLS), Real-time Transport Protocol (RTP), RTP Control Protocol (RTCP), Session Traversal Utilities for NAT (STUN), Traversal Using Relays around NAT (TURN), and ZRTP packets are multiplexed on a single receiving socket. It overrides the guidance from RFC 5764 ("SRTP Extension for DTLS"), which suffered from four issues described and fixed in this document. This document updates RFC 5764.</abstract>
+  </front>
+</reference>

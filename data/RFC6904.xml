@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6904" target="https://www.rfc-editor.org/info/rfc6904">
+  <front>
+    <title>Encryption of Header Extensions in the Secure Real-time Transport Protocol (SRTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6904"/>
+    <author fullname="J. Lennox"/>
+    <date year="2013" month="April" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>real-time transport protocol</keyword>
+    <keyword>rtp</keyword>
+    <keyword>header extensions</keyword>
+    <keyword>security</keyword>
+    <abstract>The Secure Real-time Transport Protocol (SRTP) provides authentication, but not encryption, of the headers of Real-time Transport Protocol (RTP) packets. However, RTP header extensions may carry sensitive information for which participants in multimedia sessions want confidentiality. This document provides a mechanism, extending the mechanisms of SRTP, to selectively encrypt RTP header extensions in SRTP. This document updates RFC 3711, the Secure Real-time Transport Protocol specification, to require that all future SRTP encryption transforms specify how RTP header extensions are to be encrypted.</abstract>
+  </front>
+</reference>

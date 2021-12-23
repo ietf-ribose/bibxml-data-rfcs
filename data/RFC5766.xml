@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5766" target="https://www.rfc-editor.org/info/rfc5766">
+  <front>
+    <title>Traversal Using Relays around NAT (TURN): Relay Extensions to Session Traversal Utilities for NAT (STUN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5766"/>
+    <author fullname="R. Mahy"/>
+    <author fullname="P. Matthews"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2010" month="April" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>NAT</keyword>
+    <keyword>TURN</keyword>
+    <keyword>STUN</keyword>
+    <keyword>ICE</keyword>
+    <abstract>If a host is located behind a NAT, then in certain situations it can be impossible for that host to communicate directly with other hosts (peers).  In these situations, it is necessary for the host to use the services of an intermediate node that acts as a communication relay.  This specification defines a protocol, called TURN (Traversal Using Relays around NAT), that allows the host to control the operation of the relay and to exchange packets with its peers using the relay.  TURN differs from some other relay control protocols in that it allows a client to communicate with multiple peers using a single relay address. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

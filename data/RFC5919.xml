@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5919" target="https://www.rfc-editor.org/info/rfc5919">
+  <front>
+    <title>Signaling LDP Label Advertisement Completion</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5919"/>
+    <author fullname="R. Asati"/>
+    <author fullname="P. Mohapatra"/>
+    <author fullname="E. Chen"/>
+    <author fullname="B. Thomas"/>
+    <date year="2010" month="August" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>label distribution protocol</keyword>
+    <keyword>End-of-LIB</keyword>
+    <keyword>Unrecognized Notification</keyword>
+    <abstract>There are situations following Label Distribution Protocol (LDP) session establishment where it would be useful for an LDP speaker to know when its peer has advertised all of its labels.  The LDP specification provides no mechanism for an LDP speaker to notify a peer when it has completed its initial label advertisements to that peer.  This document specifies means for an LDP speaker to signal completion of its initial label advertisements following session establishment. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

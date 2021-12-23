@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC8669" target="https://www.rfc-editor.org/info/rfc8669">
+  <front>
+    <title>Segment Routing Prefix Segment Identifier Extensions for BGP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8669"/>
+    <author fullname="S. Previdi"/>
+    <author fullname="C. Filsfils"/>
+    <author fullname="A. Lindem"/>
+    <author fullname="A. Sreekantiah"/>
+    <author fullname="H. Gredler"/>
+    <date year="2019" month="December" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>SR</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>BGP</keyword>
+    <keyword>Prefix-SID</keyword>
+    <keyword>Label-Index</keyword>
+    <keyword>SRGB</keyword>
+    <abstract>Segment Routing (SR) leverages the source-routing paradigm. A node steers a packet through an ordered list of instructions called "segments". A segment can represent any instruction, topological or service based. The ingress node prepends an SR header to a packet containing a set of segment identifiers (SIDs). Each SID represents a topological or service-based instruction. Per-flow state is maintained only on the ingress node of the SR domain. An "SR domain" is defined as a single administrative domain for global SID assignment. This document defines an optional, transitive BGP attribute for announcing information about BGP Prefix Segment Identifiers (BGP Prefix-SIDs) and the specification for SR-MPLS SIDs.</abstract>
+  </front>
+</reference>

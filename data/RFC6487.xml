@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6487" target="https://www.rfc-editor.org/info/rfc6487">
+  <front>
+    <title>A Profile for X.509 PKIX Resource Certificates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6487"/>
+    <author fullname="G. Huston"/>
+    <author fullname="G. Michaelson"/>
+    <author fullname="R. Loomans"/>
+    <date year="2012" month="February" day="1"/>
+    <workgroup>sidr</workgroup>
+    <keyword>rpki</keyword>
+    <keyword>Resource Public Key Infrastructure</keyword>
+    <keyword>Internet Number Resources</keyword>
+    <keyword>INR</keyword>
+    <abstract>This document defines a standard profile for X.509 certificates for the purpose of supporting validation of assertions of "right-of-use" of Internet Number Resources (INRs).  The certificates issued under this profile are used to convey the issuer's authorization of the subject to be regarded as the current holder of a "right-of-use" of the INRs that are described in the certificate.  This document contains the normative specification of Certificate and Certificate Revocation List (CRL) syntax in the Resource Public Key Infrastructure (RPKI).  This document also specifies profiles for the format of certificate requests and specifies the Relying Party RPKI certificate path validation procedure. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

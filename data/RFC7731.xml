@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7731" target="https://www.rfc-editor.org/info/rfc7731">
+  <front>
+    <title>Multicast Protocol for Low-Power and Lossy Networks (MPL)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7731"/>
+    <author fullname="J. Hui"/>
+    <author fullname="R. Kelsey"/>
+    <date year="2016" month="February" day="1"/>
+    <workgroup>roll</workgroup>
+    <keyword>6lowpan</keyword>
+    <keyword>802.15.4</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>LLN</keyword>
+    <keyword>ROLL</keyword>
+    <keyword>mesh network</keyword>
+    <keyword>trickle</keyword>
+    <keyword>wsn</keyword>
+    <keyword>wireless sensor network</keyword>
+    <abstract>This document specifies the Multicast Protocol for Low-Power and Lossy Networks (MPL), which provides IPv6 multicast forwarding in constrained networks. MPL avoids the need to construct or maintain any multicast forwarding topology, disseminating messages to all MPL Forwarders in an MPL Domain. MPL has two modes of operation. One mode uses the Trickle algorithm to manage control-plane and data-plane message transmissions and is applicable for deployments with few multicast sources. The other mode uses classic flooding. By providing both modes and parameterization of the Trickle algorithm, an MPL implementation can be used in a variety of multicast deployments and can trade between dissemination latency and transmission efficiency.</abstract>
+  </front>
+</reference>

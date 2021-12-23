@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8681" target="https://www.rfc-editor.org/info/rfc8681">
+  <front>
+    <title>Sliding Window Random Linear Code (RLC) Forward Erasure Correction (FEC) Schemes for FECFRAME</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8681"/>
+    <author fullname="V. Roca"/>
+    <author fullname="B. Teibi"/>
+    <date year="2020" month="January" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>RLC</keyword>
+    <keyword>FEC</keyword>
+    <keyword>FECFRAME</keyword>
+    <keyword>packet loss recovery</keyword>
+    <keyword>reliability</keyword>
+    <abstract>This document describes two fully specified Forward Erasure Correction (FEC) Schemes for Sliding Window Random Linear Codes (RLC), one for RLC over the Galois Field (a.k.a., Finite Field) GF(2), a second one for RLC over the Galois Field GF(2), each time with the possibility of controlling the code density.  They can protect arbitrary media streams along the lines defined by FECFRAME extended to Sliding Window FEC Codes.  These Sliding Window FEC Codes rely on an encoding window that slides over the source symbols, generating new repair symbols whenever needed.  Compared to block FEC codes, these Sliding Window FEC Codes offer key advantages with real-time flows in terms of reduced FEC-related latency while often providing improved packet erasure recovery capabilities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC3680" target="https://www.rfc-editor.org/info/rfc3680">
+  <front>
+    <title>A Session Initiation Protocol (SIP) Event Package for Registrations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3680"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2004" month="March" day="1"/>
+    <workgroup>sipping</workgroup>
+    <keyword>REGISTER</keyword>
+    <keyword>event package name</keyword>
+    <keyword>event package parameters</keyword>
+    <abstract>This document defines a Session Initiation Protocol (SIP) event package for registrations.  Through its REGISTER method, SIP allows a user agent to create, modify, and delete registrations.  Registrations can also be altered by administrators in order to enforce policy.  As a result, these registrations represent a piece of state in the network that can change dynamically.  There are many cases where a user agent would like to be notified of changes in this state.  This event package defines a mechanism by which those user agents can request and obtain such notifications. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8587" target="https://www.rfc-editor.org/info/rfc8587">
+  <front>
+    <title>NFS Version 4.0 Trunking Update</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8587"/>
+    <author fullname="C. Lever"/>
+    <author fullname="D. Noveck"/>
+    <date year="2019" month="May" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>NFSv4.0</keyword>
+    <keyword>migration</keyword>
+    <keyword>replication</keyword>
+    <keyword>trunking</keyword>
+    <keyword>fs_locations</keyword>
+    <keyword>transparent state migration</keyword>
+    <abstract>In NFS version 4.0, the fs_locations attribute informs clients about alternate locations of file systems.  An NFS version 4.0 client can use this information to handle migration and replication of server file systems.  This document describes how an NFS version 4.0 client can also use this information to discover an NFS version 4.0 server's trunking capabilities.  This document updates RFC 7530.</abstract>
+  </front>
+</reference>

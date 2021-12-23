@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4650" target="https://www.rfc-editor.org/info/rfc4650">
+  <front>
+    <title>HMAC-Authenticated Diffie-Hellman for Multimedia Internet KEYing (MIKEY)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4650"/>
+    <author fullname="M. Euchner"/>
+    <date year="2006" month="September" day="1"/>
+    <workgroup>msec</workgroup>
+    <keyword>Multicast security</keyword>
+    <keyword>MIKEY</keyword>
+    <keyword>key management</keyword>
+    <keyword>Diffie-Hellman</keyword>
+    <keyword>key agreement</keyword>
+    <keyword>HMAC</keyword>
+    <abstract>This document describes a lightweight point-to-point key management protocol variant for the multimedia Internet keying (MIKEY) protocol MIKEY, as defined in RFC 3830.  In particular, this variant deploys the classic Diffie-Hellman key agreement protocol for key establishment featuring perfect forward secrecy in conjunction with a keyed hash message authentication code for achieving mutual authentication and message integrity of the key management messages exchanged.  This protocol addresses the security and performance constraints of multimedia key management in MIKEY. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

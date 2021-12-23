@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC7200" target="https://www.rfc-editor.org/info/rfc7200">
+  <front>
+    <title>A Session Initiation Protocol (SIP) Load-Control Event Package</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7200"/>
+    <author fullname="C. Shen"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="A. Koike"/>
+    <date year="2014" month="April" day="1"/>
+    <workgroup>soc</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Overload Control</keyword>
+    <keyword>Server</keyword>
+    <keyword>Performance</keyword>
+    <abstract>This specification defines a load-control event package for the Session Initiation Protocol (SIP).  It allows SIP entities to distribute load-filtering policies to other SIP entities in the network.  The load-filtering policies contain rules to throttle calls from a specific user or based on their source or destination domain, telephone number prefix.  The mechanism helps to prevent signaling overload and complements feedback-based SIP overload control efforts.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8310" target="https://www.rfc-editor.org/info/rfc8310">
+  <front>
+    <title>Usage Profiles for DNS over TLS and DNS over DTLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8310"/>
+    <author fullname="S. Dickinson"/>
+    <author fullname="D. Gillmor"/>
+    <author fullname="T. Reddy"/>
+    <date year="2018" month="March" day="1"/>
+    <workgroup>dprive</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>transport</keyword>
+    <abstract>This document discusses usage profiles, based on one or more authentication mechanisms, which can be used for DNS over Transport Layer Security (TLS) or Datagram TLS (DTLS).  These profiles can increase the privacy of DNS transactions compared to using only cleartext DNS.  This document also specifies new authentication mechanisms -- it describes several ways that a DNS client can use an authentication domain name to authenticate a (D)TLS connection to a DNS server.  Additionally, it defines (D)TLS protocol profiles for DNS clients and servers implementing DNS over (D)TLS.  This document updates RFC 7858.</abstract>
+  </front>
+</reference>

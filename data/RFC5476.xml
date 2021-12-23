@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5476" target="https://www.rfc-editor.org/info/rfc5476">
+  <front>
+    <title>Packet Sampling (PSAMP) Protocol Specifications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5476"/>
+    <author fullname="B. Claise"/>
+    <author fullname="A. Johnson"/>
+    <author fullname="J. Quittek"/>
+    <date year="2009" month="March" day="1"/>
+    <workgroup>psamp</workgroup>
+    <keyword>exporting process</keyword>
+    <keyword>collecting process</keyword>
+    <keyword>ipfix</keyword>
+    <keyword>ip flow information export</keyword>
+    <abstract>This document specifies the export of packet information from a Packet SAMPling (PSAMP) Exporting Process to a PSAMP Collecting Process.  For export of packet information, the IP Flow Information eXport (IPFIX) protocol is used, as both the IPFIX and PSAMP architecture match very well, and the means provided by the IPFIX protocol are sufficient.  The document specifies in detail how the IPFIX protocol is used for PSAMP export of packet information. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

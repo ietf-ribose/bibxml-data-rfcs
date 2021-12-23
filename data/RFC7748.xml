@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC7748" target="https://www.rfc-editor.org/info/rfc7748">
+  <front>
+    <title>Elliptic Curves for Security</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7748"/>
+    <author fullname="A. Langley"/>
+    <author fullname="M. Hamburg"/>
+    <author fullname="S. Turner"/>
+    <date year="2016" month="January" day="1"/>
+    <keyword>elliptic curve</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>ecc</keyword>
+    <abstract>This memo specifies two elliptic curves over prime fields that offer a high level of practical security in cryptographic applications, including Transport Layer Security (TLS).  These curves are intended to operate at the ~128-bit and ~224-bit security level, respectively, and are generated deterministically based on a list of required properties.</abstract>
+  </front>
+</reference>

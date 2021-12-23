@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8451" target="https://www.rfc-editor.org/info/rfc8451">
+  <front>
+    <title>Considerations for Selecting RTP Control Protocol (RTCP) Extended Report (XR) Metrics for the WebRTC Statistics API</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8451"/>
+    <author fullname="V. Singh"/>
+    <author fullname="R. Huang"/>
+    <author fullname="R. Even"/>
+    <author fullname="D. Romascanu"/>
+    <author fullname="L. Deng"/>
+    <date year="2018" month="September" day="1"/>
+    <workgroup>xrblock</workgroup>
+    <keyword>Web real-time communication</keyword>
+    <abstract>This document describes monitoring features related to media streams in Web real-time communication (WebRTC).  It provides a list of RTP Control Protocol (RTCP) Sender Report (SR), Receiver Report (RR), and Extended Report (XR) metrics, which may need to be supported by RTP implementations in some diverse environments.  It lists a set of identifiers for the WebRTC's statistics API.  These identifiers are a set of RTCP SR, RR, and XR metrics related to the transport of multimedia flows.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC4171" target="https://www.rfc-editor.org/info/rfc4171">
+  <front>
+    <title>Internet Storage Name Service (iSNS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4171"/>
+    <author fullname="J. Tseng"/>
+    <author fullname="K. Gibbons"/>
+    <author fullname="F. Travostino"/>
+    <author fullname="C. Du Laney"/>
+    <author fullname="J. Souza"/>
+    <date year="2005" month="September" day="1"/>
+    <workgroup>ips</workgroup>
+    <keyword>isns servers</keyword>
+    <keyword>isns clients</keyword>
+    <keyword>fibre channel devices</keyword>
+    <keyword>ifcp</keyword>
+    <keyword>intelligent storage discovery</keyword>
+    <abstract>This document specifies the Internet Storage Name Service (iSNS) protocol, used for interaction between iSNS servers and iSNS clients, which facilitates automated discovery, management, and configuration of iSCSI and Fibre Channel devices (using iFCP gateways) on a TCP/IP network.  iSNS provides intelligent storage discovery and management services comparable to those found in Fibre Channel networks, allowing a commodity IP network to function in a capacity similar to that of a storage area network.  iSNS facilitates a seamless integration of IP and Fibre Channel networks due to its ability to emulate Fibre Channel fabric services and to manage both iSCSI and Fibre Channel devices.  iSNS thereby provides value in any storage network comprised of iSCSI devices, Fibre Channel devices (using iFCP gateways), or any combination thereof. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

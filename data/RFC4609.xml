@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC4609" target="https://www.rfc-editor.org/info/rfc4609">
+  <front>
+    <title>Protocol Independent Multicast - Sparse Mode (PIM-SM) Multicast Routing Security Issues and Enhancements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4609"/>
+    <author fullname="P. Savola"/>
+    <author fullname="R. Lehtonen"/>
+    <author fullname="D. Meyer"/>
+    <date year="2006" month="October" day="1"/>
+    <workgroup>mboned</workgroup>
+    <keyword>security threats</keyword>
+    <keyword>intra-domain</keyword>
+    <keyword>inter-domain</keyword>
+    <keyword>any-source multicast</keyword>
+    <keyword>asm</keyword>
+    <keyword>source-specific multicast</keyword>
+    <keyword>ssm</keyword>
+    <keyword>embedded rendezvous point</keyword>
+    <keyword>embedded-rp</keyword>
+    <abstract>This memo describes security threats for the larger (intra-domain or inter-domain) multicast routing infrastructures.  Only Protocol Independent Multicast - Sparse Mode (PIM-SM) is analyzed, in its three main operational modes: the traditional Any-Source Multicast (ASM) model, the source-specific multicast (SSM) model, and the ASM model enhanced by the Embedded Rendezvous Point (Embedded-RP) group-to-RP mapping mechanism.  This memo also describes enhancements to the protocol operations that mitigate the identified threats.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC2263" target="https://www.rfc-editor.org/info/rfc2263">
+  <front>
+    <title>SNMPv3 Applications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2263"/>
+    <author fullname="D. Levi"/>
+    <author fullname="P. Meyer"/>
+    <author fullname="B. Stewart"/>
+    <date year="1998" month="January" day="1"/>
+    <workgroup>snmpv3</workgroup>
+    <keyword>Simple</keyword>
+    <keyword>Network</keyword>
+    <keyword>Management</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>operations</keyword>
+    <keyword>notification</keyword>
+    <keyword>filtering</keyword>
+    <keyword>proxy</keyword>
+    <keyword>forwarding</keyword>
+    <abstract>This memo describes five types of SNMP applications which make use of an SNMP engine as described in [RFC2261].  The types of application described are Command Generators, Command Responders, Notification Originators, Notification Receivers, and Proxy Forwarders.  This memo also defines MIB modules for specifying targets of management operations, for notification filtering, and for proxy forwarding. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

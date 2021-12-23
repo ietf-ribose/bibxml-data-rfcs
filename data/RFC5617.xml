@@ -1,0 +1,47 @@
+<reference anchor="IETF.RFC5617" target="https://www.rfc-editor.org/info/rfc5617">
+  <front>
+    <title>DomainKeys Identified Mail (DKIM) Author Domain Signing Practices (ADSP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5617"/>
+    <author fullname="E. Allman"/>
+    <author fullname="J. Fenton"/>
+    <author fullname="M. Delany"/>
+    <author fullname="J. Levine"/>
+    <date year="2009" month="August" day="1"/>
+    <workgroup>dkim</workgroup>
+    <keyword>email</keyword>
+    <keyword>e-mail</keyword>
+    <keyword>rfc 5322</keyword>
+    <keyword>rfc 5322</keyword>
+    <keyword>rfc 822</keyword>
+    <keyword>rfc 822</keyword>
+    <keyword>rfc 5321</keyword>
+    <keyword>rfc 5321</keyword>
+    <keyword>rfc 821</keyword>
+    <keyword>rfc 821</keyword>
+    <keyword>rfc 4871</keyword>
+    <keyword>rfc 4871</keyword>
+    <keyword>DKIM</keyword>
+    <keyword>domain keys</keyword>
+    <keyword>domainkeys</keyword>
+    <keyword>ADSP</keyword>
+    <keyword>ADSP</keyword>
+    <keyword>SSP</keyword>
+    <keyword>architecture</keyword>
+    <keyword>mta</keyword>
+    <keyword>user</keyword>
+    <keyword>delivery</keyword>
+    <keyword>smtp</keyword>
+    <keyword>submission</keyword>
+    <keyword> email</keyword>
+    <keyword>e-mail</keyword>
+    <keyword>smtp</keyword>
+    <keyword>Internet</keyword>
+    <keyword>mailfrom</keyword>
+    <keyword>mail from</keyword>
+    <keyword>author</keyword>
+    <keyword>return address</keyword>
+    <keyword>sender signing</keyword>
+    <keyword>signing practices</keyword>
+    <abstract>DomainKeys Identified Mail (DKIM) defines a domain-level authentication framework for email to permit verification of the source and contents of messages.  This document specifies an adjunct mechanism to aid in assessing messages that do not contain a DKIM signature for the domain used in the author's address.  It defines a record that can advertise whether a domain signs its outgoing mail as well as how other hosts can access that record. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

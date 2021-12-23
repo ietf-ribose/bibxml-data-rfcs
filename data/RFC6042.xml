@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC6042" target="https://www.rfc-editor.org/info/rfc6042">
+  <front>
+    <title>Transport Layer Security (TLS) Authorization Using KeyNote</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6042"/>
+    <author fullname="A. Keromytis"/>
+    <date year="2010" month="October" day="1"/>
+    <keyword>trust management</keyword>
+    <keyword>authorization</keyword>
+    <keyword>access control</keyword>
+    <keyword>certificates</keyword>
+    <abstract>This document specifies the use of the KeyNote trust-management system as an authorization extension in the Transport Layer Security (TLS) Handshake Protocol, according to guidelines in RFC 5878.  Extensions carried in the client and server hello messages confirm that both parties support the desired authorization data types.  Then, if supported by both the client and the server, KeyNote credentials are exchanged in the supplemental data handshake message.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

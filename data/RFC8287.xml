@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC8287" target="https://www.rfc-editor.org/info/rfc8287">
+  <front>
+    <title>Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR) IGP-Prefix and IGP-Adjacency Segment Identifiers (SIDs) with MPLS Data Planes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8287"/>
+    <author fullname="N. Kumar"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="G. Swallow"/>
+    <author fullname="N. Akiya"/>
+    <author fullname="S. Kini"/>
+    <author fullname="M. Chen"/>
+    <date year="2017" month="December" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>LSP Ping</keyword>
+    <keyword>SPRING</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>SR</keyword>
+    <abstract>A Segment Routing (SR) architecture leverages source routing and tunneling paradigms and can be directly applied to the use of a Multiprotocol Label Switching (MPLS) data plane. A node steers a packet through a controlled set of instructions called "segments" by prepending the packet with an SR header. The segment assignment and forwarding semantic nature of SR raises additional considerations for connectivity verification and fault isolation for a Label Switched Path (LSP) within an SR architecture. This document illustrates the problem and defines extensions to perform LSP Ping and Traceroute for Segment Routing IGP-Prefix and IGP-Adjacency Segment Identifiers (SIDs) with an MPLS data plane.</abstract>
+  </front>
+</reference>

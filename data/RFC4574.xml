@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4574" target="https://www.rfc-editor.org/info/rfc4574">
+  <front>
+    <title>The Session Description Protocol (SDP) Label Attribute</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4574"/>
+    <author fullname="O. Levin"/>
+    <author fullname="G. Camarillo"/>
+    <date year="2006" month="August" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>media level attribute</keyword>
+    <keyword>media stream</keyword>
+    <abstract>This document defines a new Session Description Protocol (SDP) media-level attribute: "label".  The "label" attribute carries a pointer to a media stream in the context of an arbitrary network application that uses SDP.  The sender of the SDP document can attach the "label" attribute to a particular media stream or streams.  The application can then use the provided pointer to refer to each particular media stream in its context. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

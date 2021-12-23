@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC8801" target="https://www.rfc-editor.org/info/rfc8801">
+  <front>
+    <title>Discovering Provisioning Domain Names and Data</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8801"/>
+    <author fullname="P. Pfister"/>
+    <author fullname="É. Vyncke"/>
+    <author fullname="T. Pauly"/>
+    <author fullname="D. Schinazi"/>
+    <author fullname="W. Shao"/>
+    <date year="2020" month="July" day="1"/>
+    <workgroup>intarea</workgroup>
+    <keyword>IPv6</keyword>
+    <keyword>Provisioning</keyword>
+    <keyword>DHCP</keyword>
+    <keyword>PvD</keyword>
+    <abstract>Provisioning Domains (PvDs) are defined as consistent sets of network configuration information. PvDs allows hosts to manage connections to multiple networks and interfaces simultaneously, such as when a home router provides connectivity through both a broadband and cellular network provider. This document defines a mechanism for explicitly identifying PvDs through a Router Advertisement (RA) option. This RA option announces a PvD identifier, which hosts can compare to differentiate between PvDs. The option can directly carry some information about a PvD and can optionally point to PvD Additional Information that can be retrieved using HTTP over TLS.</abstract>
+  </front>
+</reference>

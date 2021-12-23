@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC8901" target="https://www.rfc-editor.org/info/rfc8901">
+  <front>
+    <title>Multi-Signer DNSSEC Models</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8901"/>
+    <author fullname="S. Huque"/>
+    <author fullname="P. Aras"/>
+    <author fullname="J. Dickinson"/>
+    <author fullname="J. Vcelak"/>
+    <author fullname="D. Blacka"/>
+    <date year="2020" month="September" day="1"/>
+    <workgroup>dnsop</workgroup>
+    <keyword>DNSSEC</keyword>
+    <keyword>Multiple</keyword>
+    <keyword>Provider</keyword>
+    <keyword>Signer</keyword>
+    <keyword>Models</keyword>
+    <abstract>Many enterprises today employ the service of multiple DNS providers to distribute their authoritative DNS service.  Deploying DNSSEC in such an environment may present some challenges, depending on the configuration and feature set in use.  In particular, when each DNS provider independently signs zone data with their own keys, additional key-management mechanisms are necessary.  This document presents deployment models that accommodate this scenario and describes these key-management requirements.  These models do not require any changes to the behavior of validating resolvers, nor do they impose the new key-management requirements on authoritative servers not involved in multi-signer configurations.</abstract>
+  </front>
+</reference>

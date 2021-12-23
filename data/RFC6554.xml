@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6554" target="https://www.rfc-editor.org/info/rfc6554">
+  <front>
+    <title>An IPv6 Routing Header for Source Routes with the Routing Protocol for Low-Power and Lossy Networks (RPL)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6554"/>
+    <author fullname="J. Hui"/>
+    <author fullname="JP. Vasseur"/>
+    <author fullname="D. Culler"/>
+    <author fullname="V. Manral"/>
+    <date year="2012" month="March" day="1"/>
+    <workgroup>6man</workgroup>
+    <keyword>LLN</keyword>
+    <keyword>LLNs</keyword>
+    <abstract>In Low-Power and Lossy Networks (LLNs), memory constraints on routers may limit them to maintaining, at most, a few routes.  In some configurations, it is necessary to use these memory-constrained routers to deliver datagrams to nodes within the LLN.  The Routing Protocol for Low-Power and Lossy Networks (RPL) can be used in some deployments to store most, if not all, routes on one (e.g., the Directed Acyclic Graph (DAG) root) or a few routers and forward the IPv6 datagram using a source routing technique to avoid large routing tables on memory-constrained routers.  This document specifies a new IPv6 Routing header type for delivering datagrams within a RPL routing domain. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

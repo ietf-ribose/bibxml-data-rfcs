@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5940" target="https://www.rfc-editor.org/info/rfc5940">
+  <front>
+    <title>Additional Cryptographic Message Syntax (CMS) Revocation Information Choices</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5940"/>
+    <author fullname="S. Turner"/>
+    <author fullname="R. Housley"/>
+    <date year="2010" month="August" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>online certificate status protocol</keyword>
+    <keyword>ocsp</keyword>
+    <keyword>server-based certificate validation protocol</keyword>
+    <keyword>scvp</keyword>
+    <abstract>The Cryptographic Message Syntax (CMS) allows revocation information to be conveyed as part of the SignedData, EnvelopedData, AuthenticatedData, and AuthEnvelopedData content types.  The preferred format for revocation information is the Certificate Revocation List (CRL), but an extension mechanism supports other revocation information formats.  This document defines two additional revocation information formats for Online Certificate Status Protocol (OCSP) responses and Server-Based Certificate Validation Protocol (SCVP) requests and responses. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

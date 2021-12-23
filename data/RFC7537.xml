@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC7537" target="https://www.rfc-editor.org/info/rfc7537">
+  <front>
+    <title>IANA Registries for LSP Ping Code Points</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7537"/>
+    <author fullname="B. Decraene"/>
+    <author fullname="N. Akiya"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="L. Andersson"/>
+    <author fullname="S. Aldrin"/>
+    <date year="2015" month="May" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>MPLS OAM</keyword>
+    <keyword>lsp ping</keyword>
+    <keyword>LSP-Ping</keyword>
+    <abstract>RFCs 4379 and 6424 created name spaces for Multi-Protocol Label Switching (MPLS) Label Switched Path (LSP) Ping. However, those RFCs did not create the corresponding IANA registries for Downstream Mapping object Flags (DS Flags), Multipath Types, Pad TLVs, and Interface and Label Stack Address Types. There is now a need to make further code point allocations from these name spaces. This document updates RFCs 4379 and 6424 in that it creates IANA registries for that purpose.</abstract>
+  </front>
+</reference>

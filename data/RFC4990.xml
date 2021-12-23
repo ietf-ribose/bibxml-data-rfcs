@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4990" target="https://www.rfc-editor.org/info/rfc4990">
+  <front>
+    <title>Use of Addresses in Generalized Multiprotocol Label Switching (GMPLS) Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4990"/>
+    <author fullname="K. Shiomoto"/>
+    <author fullname="R. Papneja"/>
+    <author fullname="R. Rabbat"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>address field</keyword>
+    <keyword>identifier field</keyword>
+    <abstract>This document clarifies the use of addresses in Generalized Multiprotocol Label Switching (GMPLS) networks. The aim is to facilitate interworking of GMPLS-capable Label Switching Routers (LSRs). The document is based on experience gained in implementation, interoperability testing, and deployment. The document describes how to interpret address and identifier fields within GMPLS protocols, and how to choose which addresses to set in those fields for specific control plane usage models. It also discusses how to handle IPv6 sources and destinations in the MPLS and GMPLS Traffic Engineering (TE) Management Information Base (MIB) modules. This document does not define new procedures or processes. Whenever this document makes requirements statements or recommendations, these are taken from normative text in the referenced RFCs. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

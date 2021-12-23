@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5309" target="https://www.rfc-editor.org/info/rfc5309">
+  <front>
+    <title>Point-to-Point Operation over LAN in Link State Routing Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5309"/>
+    <author fullname="N. Shen"/>
+    <author fullname="A. Zinin"/>
+    <date year="2008" month="October" day="1"/>
+    <workgroup>isis</workgroup>
+    <keyword>broadcast</keyword>
+    <abstract>The two predominant circuit types used by link state routing protocols are point-to-point and broadcast.  It is important to identify the correct circuit type when forming adjacencies, flooding link state database packets, and representing the circuit topologically.  This document describes a simple mechanism to treat the broadcast network as a point-to-point connection from the standpoint of IP routing.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6235" target="https://www.rfc-editor.org/info/rfc6235">
+  <front>
+    <title>IP Flow Anonymization Support</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6235"/>
+    <author fullname="E. Boschi"/>
+    <author fullname="B. Trammell"/>
+    <date year="2011" month="May" day="1"/>
+    <workgroup>ipfix</workgroup>
+    <keyword>IPFIX</keyword>
+    <keyword>flow information export</keyword>
+    <keyword>address anonymization</keyword>
+    <keyword>pseudonymization</keyword>
+    <keyword>data protection</keyword>
+    <keyword>privacy</keyword>
+    <abstract>This document describes anonymization techniques for IP flow data and the export of anonymized data using the IP Flow Information Export (IPFIX) protocol.  It categorizes common anonymization schemes and defines the parameters needed to describe them.  It provides guidelines for the implementation of anonymized data export and storage over IPFIX, and describes an information model and Options- based method for anonymization metadata export within the IPFIX protocol or storage in IPFIX Files.  This document defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

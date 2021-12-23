@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC7826" target="https://www.rfc-editor.org/info/rfc7826">
+  <front>
+    <title>Real-Time Streaming Protocol Version 2.0</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7826"/>
+    <author fullname="H. Schulzrinne"/>
+    <author fullname="A. Rao"/>
+    <author fullname="R. Lanphier"/>
+    <author fullname="M. Westerlund"/>
+    <author fullname="M. Stiemerling"/>
+    <date year="2016" month="December" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>mmusic</keyword>
+    <keyword>RTSP</keyword>
+    <keyword>RTSP/2.0</keyword>
+    <keyword>real-time streaming protocol</keyword>
+    <abstract>This memorandum defines the Real-Time Streaming Protocol (RTSP) version 2.0, which obsoletes RTSP version 1.0 defined in RFC 2326. RTSP is an application-layer protocol for the setup and control of the delivery of data with real-time properties. RTSP provides an extensible framework to enable controlled, on-demand delivery of real-time data, such as audio and video. Sources of data can include both live data feeds and stored clips. This protocol is intended to control multiple data delivery sessions; provide a means for choosing delivery channels such as UDP, multicast UDP, and TCP; and provide a means for choosing delivery mechanisms based upon RTP (RFC 3550).</abstract>
+  </front>
+</reference>

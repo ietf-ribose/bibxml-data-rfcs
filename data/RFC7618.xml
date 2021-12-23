@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC7618" target="https://www.rfc-editor.org/info/rfc7618">
+  <front>
+    <title>Dynamic Allocation of Shared IPv4 Addresses</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7618"/>
+    <author fullname="Y. Cui"/>
+    <author fullname="Q. Sun"/>
+    <author fullname="I. Farrer"/>
+    <author fullname="Y. Lee"/>
+    <author fullname="Q. Sun"/>
+    <author fullname="M. Boucadair"/>
+    <date year="2015" month="August" day="1"/>
+    <workgroup>dhc</workgroup>
+    <abstract>This memo describes the dynamic allocation of shared IPv4 addresses to clients using DHCPv4. Address sharing allows a single IPv4 address to be allocated to multiple active clients simultaneously, with each client being differentiated by a unique set of transport- layer source port numbers. The necessary changes to existing DHCPv4 client and server behavior are described, and a new DHCPv4 option for provisioning clients with shared IPv4 addresses is included. Due to the nature of IP address sharing, some limitations to its applicability are necessary. This memo describes these limitations and recommends suitable architectures and technologies where address sharing may be utilized.</abstract>
+  </front>
+</reference>

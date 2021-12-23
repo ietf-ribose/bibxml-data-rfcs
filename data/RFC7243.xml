@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC7243" target="https://www.rfc-editor.org/info/rfc7243">
+  <front>
+    <title>RTP Control Protocol (RTCP) Extended Report (XR) Block for the Bytes Discarded Metric</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7243"/>
+    <author fullname="V. Singh"/>
+    <author fullname="J. Ott"/>
+    <author fullname="I. Curcio"/>
+    <date year="2014" month="May" day="1"/>
+    <workgroup>xrblock</workgroup>
+    <keyword>rtp</keyword>
+    <keyword>reception statistics</keyword>
+    <keyword>de-jitter buffer</keyword>
+    <abstract>The RTP Control Protocol (RTCP) is used in conjunction with the Real-time Transport Protocol (RTP) to provide a variety of short-term and long-term reception statistics.  The available reporting may include aggregate information across longer periods of time as well as individual packet reporting.  This document specifies a report computing the bytes discarded from the de-jitter buffer after successful reception.</abstract>
+  </front>
+</reference>

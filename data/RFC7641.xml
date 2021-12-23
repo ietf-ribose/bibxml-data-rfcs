@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC7641" target="https://www.rfc-editor.org/info/rfc7641">
+  <front>
+    <title>Observing Resources in the Constrained Application Protocol (CoAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7641"/>
+    <author fullname="K. Hartke"/>
+    <date year="2015" month="September" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>Smart Objects</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>IoT</keyword>
+    <keyword>REST</keyword>
+    <abstract>The Constrained Application Protocol (CoAP) is a RESTful application protocol for constrained nodes and networks.  The state of a resource on a CoAP server can change over time.  This document specifies a simple protocol extension for CoAP that enables CoAP clients to "observe" resources, i.e., to retrieve a representation of a resource and keep this representation updated by the server over a period of time.  The protocol follows a best-effort approach for sending new representations to clients and provides eventual consistency between the state observed by each client and the actual resource state at the server.</abstract>
+  </front>
+</reference>

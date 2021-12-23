@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC5453" target="https://www.rfc-editor.org/info/rfc5453">
+  <front>
+    <title>Reserved IPv6 Interface Identifiers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5453"/>
+    <author fullname="S. Krishnan"/>
+    <date year="2009" month="February" day="1"/>
+    <workgroup>6man</workgroup>
+    <keyword>unicast address</keyword>
+    <abstract>Interface identifiers in IPv6 unicast addresses are used to identify interfaces on a link.  They are required to be unique within a subnet.  Several RFCs have specified interface identifiers or identifier ranges that have a special meaning attached to them.  An IPv6 node autoconfiguring an interface identifier in these ranges will encounter unexpected consequences.  Since there is no centralized repository for such reserved identifiers, this document aims to create one. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

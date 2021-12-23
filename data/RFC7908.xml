@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7908" target="https://www.rfc-editor.org/info/rfc7908">
+  <front>
+    <title>Problem Definition and Classification of BGP Route Leaks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7908"/>
+    <author fullname="K. Sriram"/>
+    <author fullname="D. Montgomery"/>
+    <author fullname="D. McPherson"/>
+    <author fullname="E. Osterweil"/>
+    <author fullname="B. Dickson"/>
+    <date year="2016" month="June" day="1"/>
+    <workgroup>grow</workgroup>
+    <keyword>BGP</keyword>
+    <keyword>BGPSEC</keyword>
+    <keyword>Route Leak</keyword>
+    <keyword>Route Leak Detection</keyword>
+    <keyword>Route Leak Mitigation</keyword>
+    <keyword>BGP Security</keyword>
+    <abstract>A systemic vulnerability of the Border Gateway Protocol routing system, known as "route leaks", has received significant attention in recent years.  Frequent incidents that result in significant disruptions to Internet routing are labeled route leaks, but to date a common definition of the term has been lacking.  This document provides a working definition of route leaks while keeping in mind the real occurrences that have received significant attention.  Further, this document attempts to enumerate (though not exhaustively) different types of route leaks based on observed events on the Internet.  The aim is to provide a taxonomy that covers several forms of route leaks that have been observed and are of concern to the Internet user community as well as the network operator community.</abstract>
+  </front>
+</reference>

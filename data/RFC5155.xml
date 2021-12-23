@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC5155" target="https://www.rfc-editor.org/info/rfc5155">
+  <front>
+    <title>DNS Security (DNSSEC) Hashed Authenticated Denial of Existence</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5155"/>
+    <author fullname="B. Laurie"/>
+    <author fullname="G. Sisson"/>
+    <author fullname="R. Arends"/>
+    <author fullname="D. Blacka"/>
+    <date year="2008" month="March" day="1"/>
+    <workgroup>dnsext</workgroup>
+    <keyword>domain name system</keyword>
+    <keyword>nsec</keyword>
+    <keyword>resource record</keyword>
+    <keyword>nsec3</keyword>
+    <abstract>The Domain Name System Security (DNSSEC) Extensions introduced the NSEC resource record (RR) for authenticated denial of existence.  This document introduces an alternative resource record, NSEC3, which similarly provides authenticated denial of existence.  However, it also provides measures against zone enumeration and permits gradual expansion of delegation-centric zones. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

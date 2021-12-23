@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC6555" target="https://www.rfc-editor.org/info/rfc6555">
+  <front>
+    <title>Happy Eyeballs: Success with Dual-Stack Hosts</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6555"/>
+    <author fullname="D. Wing"/>
+    <author fullname="A. Yourtchenko"/>
+    <date year="2012" month="April" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <abstract>When a server's IPv4 path and protocol are working, but the server's IPv6 path and protocol are not working, a dual-stack client application experiences significant connection delay compared to an IPv4-only client.  This is undesirable because it causes the dual- stack client to have a worse user experience.  This document specifies requirements for algorithms that reduce this user-visible delay and provides an algorithm. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

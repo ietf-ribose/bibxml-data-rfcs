@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC5508" target="https://www.rfc-editor.org/info/rfc5508">
+  <front>
+    <title>NAT Behavioral Requirements for ICMP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5508"/>
+    <author fullname="P. Srisuresh"/>
+    <author fullname="B. Ford"/>
+    <author fullname="S. Sivakumar"/>
+    <author fullname="S. Guha"/>
+    <date year="2009" month="April" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>ICMP Error payload translation</keyword>
+    <keyword>hairpin translation</keyword>
+    <keyword>ICMP Query</keyword>
+    <keyword>ICMP Error</keyword>
+    <keyword>Ping</keyword>
+    <keyword>Traceroute</keyword>
+    <abstract>This document specifies the behavioral properties required of the Network Address Translator (NAT) devices in conjunction with the Internet Control Message Protocol (ICMP).  The objective of this memo is to make NAT devices more predictable and compatible with diverse application protocols that traverse the devices.  Companion documents provide behavioral recommendations specific to TCP, UDP, and other protocols.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+  </front>
+</reference>

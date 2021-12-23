@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6704" target="https://www.rfc-editor.org/info/rfc6704">
+  <front>
+    <title>Forcerenew Nonce Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6704"/>
+    <author fullname="D. Miles"/>
+    <author fullname="W. Dec"/>
+    <author fullname="J. Bristow"/>
+    <author fullname="R. Maglione"/>
+    <date year="2012" month="August" day="1"/>
+    <workgroup>dhc</workgroup>
+    <keyword>DHCP</keyword>
+    <abstract>Dynamic Host Configuration Protocol (DHCP) FORCERENEW allows for the reconfiguration of a single host by forcing the DHCP client into a Renew state on a trigger from the DHCP server.  In the Forcerenew Nonce Authentication protocol, the server sends a nonce to the client in the initial DHCP ACK that is used for subsequent validation of a FORCERENEW message.  This document updates RFC 3203. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7251" target="https://www.rfc-editor.org/info/rfc7251">
+  <front>
+    <title>AES-CCM Elliptic Curve Cryptography (ECC) Cipher Suites for TLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7251"/>
+    <author fullname="D. McGrew"/>
+    <author fullname="D. Bailey"/>
+    <author fullname="M. Campagna"/>
+    <author fullname="R. Dugal"/>
+    <date year="2014" month="June" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <abstract>This memo describes the use of the Advanced Encryption Standard (AES) in the Counter and CBC-MAC Mode (CCM) of operation within Transport Layer Security (TLS) to provide confidentiality and data-origin authentication.  The AES-CCM algorithm is amenable to compact implementations, making it suitable for constrained environments, while at the same time providing a high level of security.  The cipher suites defined in this document use Elliptic Curve Cryptography (ECC) and are advantageous in networks with limited bandwidth.</abstract>
+  </front>
+</reference>

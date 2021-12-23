@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3771" target="https://www.rfc-editor.org/info/rfc3771">
+  <front>
+    <title>The Lightweight Directory Access Protocol (LDAP) Intermediate Response Message</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3771"/>
+    <author fullname="R. Harrison"/>
+    <author fullname="K. Zeilenga"/>
+    <date year="2004" month="April" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>LDAPv3</keyword>
+    <keyword>LDAv3</keyword>
+    <keyword>x.500</keyword>
+    <abstract>This document defines and describes the IntermediateResponse message, a general mechanism for defining single-request/multiple-response operations in Lightweight Directory Access Protocol (LDAP).  The IntermediateResponse message is defined in such a way that the protocol behavior of existing LDAP operations is maintained.  This message is intended to be used in conjunction with the LDAP ExtendedRequest and ExtendedResponse to define new single-request/multiple-response operations or in conjunction with a control when extending existing LDAP operations in a way that requires them to return intermediate response information. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

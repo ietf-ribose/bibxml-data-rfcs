@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8710" target="https://www.rfc-editor.org/info/rfc8710">
+  <front>
+    <title>Multipart Content-Format for the Constrained Application Protocol (CoAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8710"/>
+    <author fullname="T. Fossati"/>
+    <author fullname="K. Hartke"/>
+    <author fullname="C. Bormann"/>
+    <date year="2020" month="February" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>CoAP</keyword>
+    <keyword>Multipart Content-Format</keyword>
+    <abstract>This memo defines application/multipart-core, an application-independent media type that can be used to combine representations of zero or more different media types (each with a Constrained Application Protocol (CoAP) Content-Format identifier) into a single representation, with minimal framing overhead.</abstract>
+  </front>
+</reference>

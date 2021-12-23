@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5653" target="https://www.rfc-editor.org/info/rfc5653">
+  <front>
+    <title>Generic Security Service API Version 2: Java Bindings Update</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5653"/>
+    <author fullname="M. Upadhyay"/>
+    <author fullname="S. Malkani"/>
+    <date year="2009" month="August" day="1"/>
+    <workgroup>kitten</workgroup>
+    <keyword>gssapi</keyword>
+    <keyword>application program interface</keyword>
+    <keyword>gss-api</keyword>
+    <keyword>GSI</keyword>
+    <abstract>The Generic Security Services Application Program Interface (GSS-API) offers application programmers uniform access to security services atop a variety of underlying cryptographic mechanisms. This document updates the Java bindings for the GSS-API that are specified in "Generic Security Service API Version 2 : Java Bindings" (RFC 2853). This document obsoletes RFC 2853 by making specific and incremental clarifications and corrections to it in response to identification of transcription errors and implementation experience. The GSS-API is described at a language-independent conceptual level in "Generic Security Service Application Program Interface Version 2, Update 1" (RFC 2743). The GSS-API allows a caller application to authenticate a principal identity, to delegate rights to a peer, and to apply security services such as confidentiality and integrity on a per-message basis. Examples of security mechanisms defined for GSS-API are "The Simple Public-Key GSS-API Mechanism" (RFC 2025) and "The Kerberos Version 5 Generic Security Service Application Program Interface (GSS-API) Mechanism: Version 2" (RFC 4121). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

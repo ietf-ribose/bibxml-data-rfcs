@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5532" target="https://www.rfc-editor.org/info/rfc5532">
+  <front>
+    <title>Network File System (NFS) Remote Direct Memory Access (RDMA) Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5532"/>
+    <author fullname="T. Talpey"/>
+    <author fullname="C. Juszczak"/>
+    <date year="2009" month="May" day="1"/>
+    <workgroup>nfsv4</workgroup>
+    <keyword>RPC</keyword>
+    <keyword>XDR</keyword>
+    <keyword>ONC</keyword>
+    <keyword>RDDP</keyword>
+    <keyword>NFSv4</keyword>
+    <abstract>This document addresses enabling the use of Remote Direct Memory Access (RDMA) by the Network File System (NFS) protocols.  NFS implementations historically incur significant overhead due to data copies on end-host systems, as well as other processing overhead.  This document explores the potential benefits of RDMA to these implementations and evaluates the reasons why RDMA is especially well-suited to NFS and network file protocols in general.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

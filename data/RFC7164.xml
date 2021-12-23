@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC7164" target="https://www.rfc-editor.org/info/rfc7164">
+  <front>
+    <title>RTP and Leap Seconds</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7164"/>
+    <author fullname="K. Gross"/>
+    <author fullname="R. Brandenburg"/>
+    <date year="2014" month="March" day="1"/>
+    <workgroup>avtcore</workgroup>
+    <keyword>Leap second</keyword>
+    <keyword>rtp</keyword>
+    <keyword>Real-time Transport Protocol</keyword>
+    <keyword>ntp</keyword>
+    <keyword>Network Time Protocol</keyword>
+    <keyword>UTC</keyword>
+    <keyword>Universal Coordinated Time</keyword>
+    <keyword>tai</keyword>
+    <keyword>International Atomic Time</keyword>
+    <keyword>Unix time</keyword>
+    <abstract>This document discusses issues that arise when RTP sessions span Coordinated Universal Time (UTC) leap seconds.  It updates RFC 3550 by describing how RTP senders and receivers should behave in the presence of leap seconds.</abstract>
+  </front>
+</reference>

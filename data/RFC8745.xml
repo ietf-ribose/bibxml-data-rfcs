@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8745" target="https://www.rfc-editor.org/info/rfc8745">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for Associating Working and Protection Label Switched Paths (LSPs) with Stateful PCE</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8745"/>
+    <author fullname="H. Ananthakrishnan"/>
+    <author fullname="S. Sivabalan"/>
+    <author fullname="C. Barth"/>
+    <author fullname="I. Minei"/>
+    <author fullname="M. Negi"/>
+    <date year="2020" month="March" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>PCEP</keyword>
+    <abstract>An active stateful Path Computation Element (PCE) is capable of computing as well as controlling via Path Computation Element Communication Protocol (PCEP) Multiprotocol Label Switching Traffic Engineering (MPLS-TE) Label Switched Paths (LSPs).  Furthermore, it is also possible for an active stateful PCE to create, maintain, and delete LSPs.  This document defines the PCEP extension to associate two or more LSPs to provide end-to-end path protection.</abstract>
+  </front>
+</reference>

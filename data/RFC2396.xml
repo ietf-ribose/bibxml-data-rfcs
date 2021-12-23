@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC2396" target="https://www.rfc-editor.org/info/rfc2396">
+  <front>
+    <title>Uniform Resource Identifiers (URI): Generic Syntax</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2396"/>
+    <author fullname="T. Berners-Lee"/>
+    <author fullname="R. Fielding"/>
+    <author fullname="L. Masinter"/>
+    <date year="1998" month="August" day="1"/>
+    <keyword>URI-GEN</keyword>
+    <keyword>characters</keyword>
+    <keyword>string</keyword>
+    <keyword>absolute</keyword>
+    <keyword>relative</keyword>
+    <abstract>This document defines a grammar that is a superset of all valid URI, such that an implementation can parse the common components of a URI reference without knowing the scheme-specific requirements of every possible identifier type. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC8433" target="https://www.rfc-editor.org/info/rfc8433">
+  <front>
+    <title>A Simpler Method for Resolving Alert-Info URNs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8433"/>
+    <author fullname="D. Worley"/>
+    <date year="2018" month="August" day="1"/>
+    <keyword>Alert-Info</keyword>
+    <keyword>audio signals</keyword>
+    <keyword>call signaling</keyword>
+    <keyword>call transfer</keyword>
+    <keyword>resolution</keyword>
+    <keyword>signaling</keyword>
+    <keyword>signals</keyword>
+    <keyword>SIP</keyword>
+    <keyword>URN</keyword>
+    <keyword>visual signals</keyword>
+    <abstract>The "alert" namespace of Uniform Resource Names (URNs) can be used in the Alert-Info header field of Session Initiation Protocol (SIP) requests and responses to inform a voice over IP (VoIP) telephone (user agent) of the characteristics of the call that the user agent has originated or terminated. The user agent must resolve the URNs into a signal; that is, it must select the best available signal to present to its user to indicate the characteristics of the call. RFC 7462 describes a non-normative algorithm for signal selection. This document describes a more efficient alternative algorithm: a user agent's designer can, based on the user agent's signals and their meanings, construct a finite state machine (FSM) to process the URNs to select a signal in a way that obeys the restrictions given in the definition of the "alert" URN namespace.</abstract>
+  </front>
+</reference>

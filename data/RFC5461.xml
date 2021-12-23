@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5461" target="https://www.rfc-editor.org/info/rfc5461">
+  <front>
+    <title>TCP's Reaction to Soft Errors</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5461"/>
+    <author fullname="F. Gont"/>
+    <date year="2009" month="February" day="1"/>
+    <workgroup>tcpm</workgroup>
+    <keyword>icmp</keyword>
+    <keyword>Internet Control Message Protocol</keyword>
+    <abstract>This document describes a non-standard, but widely implemented, modification to TCP's handling of ICMP soft error messages that rejects pending connection-requests when those error messages are received.  This behavior reduces the likelihood of long delays between connection-establishment attempts that may arise in a number of scenarios, including one in which dual-stack nodes that have IPv6 enabled by default are deployed in IPv4 or mixed IPv4 and IPv6 environments.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

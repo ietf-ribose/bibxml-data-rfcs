@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8701" target="https://www.rfc-editor.org/info/rfc8701">
+  <front>
+    <title>Applying Generate Random Extensions And Sustain Extensibility (GREASE) to TLS Extensibility</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8701"/>
+    <author fullname="D. Benjamin"/>
+    <date year="2020" month="January" day="1"/>
+    <workgroup>tls</workgroup>
+    <keyword>TLS</keyword>
+    <keyword>GREASE</keyword>
+    <abstract>This document describes GREASE (Generate Random Extensions And Sustain Extensibility), a mechanism to prevent extensibility failures in the TLS ecosystem.  It reserves a set of TLS protocol values that may be advertised to ensure peers correctly handle unknown values.</abstract>
+  </front>
+</reference>

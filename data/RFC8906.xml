@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8906" target="https://www.rfc-editor.org/info/rfc8906">
+  <front>
+    <title>A Common Operational Problem in DNS Servers: Failure to Communicate</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8906"/>
+    <author fullname="M. Andrews"/>
+    <author fullname="R. Bellis"/>
+    <date year="2020" month="September" day="1"/>
+    <workgroup>dnsop</workgroup>
+    <keyword>conformance</keyword>
+    <keyword>compliance</keyword>
+    <abstract>The DNS is a query/response protocol. Failing to respond to queries, or responding incorrectly, causes both immediate operational problems and long-term problems with protocol development. This document identifies a number of common kinds of queries to which some servers either fail to respond or respond incorrectly. This document also suggests procedures for zone operators to apply to identify and remediate the problem. The document does not look at the DNS data itself, just the structure of the responses.</abstract>
+  </front>
+</reference>

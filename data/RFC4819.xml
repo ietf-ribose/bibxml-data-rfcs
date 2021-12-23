@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4819" target="https://www.rfc-editor.org/info/rfc4819">
+  <front>
+    <title>Secure Shell Public Key Subsystem</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4819"/>
+    <author fullname="J. Galbraith"/>
+    <author fullname="J. Van Dyke"/>
+    <author fullname="J. Bright"/>
+    <date year="2007" month="March" day="1"/>
+    <workgroup>secsh</workgroup>
+    <keyword>ssh</keyword>
+    <keyword>ssh2</keyword>
+    <abstract>Secure Shell defines a user authentication mechanism that is based on public keys, but does not define any mechanism for key distribution. No common key management solution exists in current implementations. This document describes a protocol that can be used to configure public keys in an implementation-independent fashion, allowing client software to take on the burden of this configuration. The Public Key Subsystem provides a server-independent mechanism for clients to add public keys, remove public keys, and list the current public keys known by the server. Rights to manage public keys are specific and limited to the authenticated user. A public key may also be associated with various restrictions, including a mandatory command or subsystem. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

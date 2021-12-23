@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC7894" target="https://www.rfc-editor.org/info/rfc7894">
+  <front>
+    <title>Alternative Challenge Password Attributes for Enrollment over Secure Transport</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7894"/>
+    <author fullname="M. Pritikin"/>
+    <author fullname="C. Wallace"/>
+    <date year="2016" month="June" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>Enrollment over Secure Transport</keyword>
+    <abstract>This document defines a set of new Certificate Signing Request attributes for use with the Enrollment over Secure Transport (EST) protocol.  These attributes provide disambiguation of the existing overloaded uses for the challengePassword attribute defined in "PKCS #9: Selected Object Classes and Attribute Types Version 2.0" (RFC 2985).  Uses include the original certificate revocation password, common authentication password uses, and EST-defined linking of transport security identity.</abstract>
+  </front>
+</reference>

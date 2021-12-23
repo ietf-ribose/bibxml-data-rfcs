@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC4226" target="https://www.rfc-editor.org/info/rfc4226">
+  <front>
+    <title>HOTP: An HMAC-Based One-Time Password Algorithm</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4226"/>
+    <author fullname="D. M'Raihi"/>
+    <author fullname="M. Bellare"/>
+    <author fullname="F. Hoornaert"/>
+    <author fullname="D. Naccache"/>
+    <author fullname="O. Ranen"/>
+    <date year="2005" month="December" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>hashed message authentication code</keyword>
+    <keyword>security analysis</keyword>
+    <keyword>oath</keyword>
+    <keyword>open authentication</keyword>
+    <keyword>authentication</keyword>
+    <keyword>OATH</keyword>
+    <abstract>This document describes an algorithm to generate one-time password values, based on Hashed Message Authentication Code (HMAC). A security analysis of the algorithm is presented, and important parameters related to the secure deployment of the algorithm are discussed. The proposed algorithm can be used across a wide range of network applications ranging from remote Virtual Private Network (VPN) access, Wi-Fi network logon to transaction-oriented Web applications. This work is a joint effort by the OATH (Open AuTHentication) membership to specify an algorithm that can be freely distributed to the technical community. The authors believe that a common and shared algorithm will facilitate adoption of two-factor authentication on the Internet by enabling interoperability across commercial and open-source implementations. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

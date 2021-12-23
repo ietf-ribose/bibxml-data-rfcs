@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7151" target="https://www.rfc-editor.org/info/rfc7151">
+  <front>
+    <title>File Transfer Protocol HOST Command for Virtual Hosts</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7151"/>
+    <author fullname="P. Hethmon"/>
+    <author fullname="R. McMurray"/>
+    <date year="2014" month="March" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>FTP</keyword>
+    <keyword>HOST</keyword>
+    <abstract>The File Transfer Protocol, as defined in RFC 959, does not provide a way for FTP clients and servers to differentiate between multiple DNS names that are registered for a single IP address.  This document defines a new FTP command that provides a mechanism for FTP clients and servers to identify individual virtual hosts on an FTP server.</abstract>
+  </front>
+</reference>

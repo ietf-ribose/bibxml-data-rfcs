@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC5913" target="https://www.rfc-editor.org/info/rfc5913">
+  <front>
+    <title>Clearance Attribute and Authority Clearance Constraints Certificate Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5913"/>
+    <author fullname="S. Turner"/>
+    <author fullname="S. Chokhani"/>
+    <date year="2010" month="June" day="1"/>
+    <workgroup>pkix</workgroup>
+    <keyword>x.509 certificate</keyword>
+    <abstract>This document defines the syntax and semantics for the Clearance attribute and the Authority Clearance Constraints extension in X.509 certificates.  The Clearance attribute is used to indicate the clearance held by the subject.  The Clearance attribute may appear in the subject directory attributes extension of a public key certificate or in the attributes field of an attribute certificate.  The Authority Clearance Constraints certificate extension values in a Trust Anchor (TA), in Certification Authority (CA) public key certificates, and in an Attribute Authority (AA) public key certificate in a certification path for a given subject constrain the effective Clearance of the subject. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

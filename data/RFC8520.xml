@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8520" target="https://www.rfc-editor.org/info/rfc8520">
+  <front>
+    <title>Manufacturer Usage Description Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8520"/>
+    <author fullname="E. Lear"/>
+    <author fullname="R. Droms"/>
+    <author fullname="D. Romascanu"/>
+    <date year="2019" month="March" day="1"/>
+    <workgroup>opsawg</workgroup>
+    <keyword>MUD</keyword>
+    <keyword>IoT Security</keyword>
+    <keyword>Access Policy</keyword>
+    <abstract>This memo specifies a component-based architecture for Manufacturer Usage Descriptions (MUDs). The goal of MUD is to provide a means for end devices to signal to the network what sort of access and network functionality they require to properly function. The initial focus is on access control. Later work can delve into other aspects. This memo specifies two YANG modules, IPv4 and IPv6 DHCP options, a Link Layer Discovery Protocol (LLDP) TLV, a URL, an X.509 certificate extension, and a means to sign and verify the descriptions.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8055" target="https://www.rfc-editor.org/info/rfc8055">
+  <front>
+    <title>Session Initiation Protocol (SIP) Via Header Field Parameter to Indicate Received Realm</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8055"/>
+    <author fullname="C. Holmberg"/>
+    <author fullname="Y. Jiang"/>
+    <date year="2017" month="January" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Via</keyword>
+    <keyword>transit</keyword>
+    <keyword>realm</keyword>
+    <abstract>This specification defines a new Session Initiation Protocol (SIP) Via header field parameter, 'received-realm', which allows a SIP entity acting as an entry point to a transit network to indicate from which adjacent upstream network a SIP request is received by using a network realm value associated with the adjacent network.</abstract>
+  </front>
+</reference>

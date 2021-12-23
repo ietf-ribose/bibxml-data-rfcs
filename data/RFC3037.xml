@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC3037" target="https://www.rfc-editor.org/info/rfc3037">
+  <front>
+    <title>LDP Applicability</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3037"/>
+    <author fullname="B. Thomas"/>
+    <author fullname="E. Gray"/>
+    <date year="2001" month="January" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>label</keyword>
+    <keyword>distribution</keyword>
+    <keyword>protocol</keyword>
+    <abstract>A fundamental concept in MPLS is that two Label Switching Routers (LSRs) must agree on the meaning of the labels used to forward traffic between and through them.  This common understanding is achieved by using a set of procedures, called a label distribution protocol, by which one LSR informs another of label bindings it has made.  This document describes the applicability of a set of such procedures called LDP (for Label Distribution Protocol) by which LSRs distribute labels to support MPLS forwarding along normally routed paths.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

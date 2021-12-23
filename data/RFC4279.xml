@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4279" target="https://www.rfc-editor.org/info/rfc4279">
+  <front>
+    <title>Pre-Shared Key Ciphersuites for Transport Layer Security (TLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4279"/>
+    <author fullname="P. Eronen"/>
+    <author fullname="H. Tschofenig"/>
+    <date year="2005" month="December" day="1"/>
+    <workgroup>tls</workgroup>
+    <keyword>psk</keyword>
+    <keyword>psks</keyword>
+    <keyword>symmetric keys</keyword>
+    <keyword>diffie-hellman</keyword>
+    <abstract>This document specifies three sets of new ciphersuites for the Transport Layer Security (TLS) protocol to support authentication based on pre-shared keys (PSKs).  These pre-shared keys are symmetric keys, shared in advance among the communicating parties.  The first set of ciphersuites uses only symmetric key operations for authentication.  The second set uses a Diffie-Hellman exchange authenticated with a pre-shared key, and the third set combines public key authentication of the server with pre-shared key authentication of the client. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

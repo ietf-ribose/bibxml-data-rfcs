@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC6231" target="https://www.rfc-editor.org/info/rfc6231">
+  <front>
+    <title>An Interactive Voice Response (IVR) Control Package for the Media Control Channel Framework</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6231"/>
+    <author fullname="S. McGlashan"/>
+    <author fullname="T. Melanchuk"/>
+    <author fullname="C. Boulton"/>
+    <date year="2011" month="May" day="1"/>
+    <workgroup>mediactrl</workgroup>
+    <abstract>This document defines a Media Control Channel Framework Package for Interactive Voice Response (IVR) dialog interaction on media connections and conferences.  The package defines dialog management request elements for preparing, starting, and terminating dialog interactions, as well as associated responses and notifications.  Dialog interactions are specified in a dialog language.  This package defines a lightweight IVR dialog language (supporting prompt playback, runtime controls, Dual-Tone Multi-Frequency (DTMF) collection, and media recording) and allows other dialog languages to be used.  The package also defines elements for auditing package capabilities and IVR dialogs. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

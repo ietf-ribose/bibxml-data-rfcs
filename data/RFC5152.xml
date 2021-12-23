@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5152" target="https://www.rfc-editor.org/info/rfc5152">
+  <front>
+    <title>A Per-Domain Path Computation Method for Establishing Inter-Domain Traffic Engineering (TE) Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5152"/>
+    <author fullname="JP. Vasseur"/>
+    <author fullname="A. Ayyangar"/>
+    <author fullname="R. Zhang"/>
+    <date year="2008" month="February" day="1"/>
+    <workgroup>ccamp</workgroup>
+    <keyword>mpls</keyword>
+    <keyword>gmpls</keyword>
+    <abstract>This document specifies a per-domain path computation technique for establishing inter-domain Traffic Engineering (TE) Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Label Switched Paths (LSPs). In this document, a domain refers to a collection of network elements within a common sphere of address management or path computational responsibility such as Interior Gateway Protocol (IGP) areas and Autonomous Systems. Per-domain computation applies where the full path of an inter-domain TE LSP cannot be or is not determined at the ingress node of the TE LSP, and is not signaled across domain boundaries. This is most likely to arise owing to TE visibility limitations. The signaling message indicates the destination and nodes up to the next domain boundary. It may also indicate further domain boundaries or domain identifiers. The path through each domain, possibly including the choice of exit point from the domain, must be determined within the domain. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

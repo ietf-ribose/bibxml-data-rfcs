@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC4588" target="https://www.rfc-editor.org/info/rfc4588">
+  <front>
+    <title>RTP Retransmission Payload Format</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4588"/>
+    <author fullname="J. Rey"/>
+    <author fullname="D. Leon"/>
+    <author fullname="A. Miyazaki"/>
+    <author fullname="V. Varsa"/>
+    <author fullname="R. Hakenberg"/>
+    <date year="2006" month="July" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real time transport protocol</keyword>
+    <keyword>rtcp</keyword>
+    <keyword>real-time transport control protocol</keyword>
+    <keyword>RTP/AVPF</keyword>
+    <abstract>RTP retransmission is an effective packet loss recovery technique for real-time applications with relaxed delay bounds.  This document describes an RTP payload format for performing retransmissions.  Retransmitted RTP packets are sent in a separate stream from the original RTP stream.  It is assumed that feedback from receivers to senders is available.  In particular, it is assumed that Real-time Transport Control Protocol (RTCP) feedback as defined in the extended RTP profile for RTCP-based feedback (denoted RTP/AVPF) is available in this memo. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

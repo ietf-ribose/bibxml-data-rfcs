@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8796" target="https://www.rfc-editor.org/info/rfc8796">
+  <front>
+    <title>RSVP-TE Summary Fast Reroute Extensions for Label Switched Path (LSP) Tunnels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8796"/>
+    <author fullname="M. Taillon"/>
+    <author fullname="T. Saad"/>
+    <author fullname="R. Gandhi"/>
+    <author fullname="A. Deshmukh"/>
+    <author fullname="M. Jork"/>
+    <author fullname="V. Beeram"/>
+    <date year="2020" month="July" day="1"/>
+    <workgroup>mpls</workgroup>
+    <abstract>This document updates RFC 4090 for the Resource Reservation Protocol (RSVP) Traffic Engineering (TE) procedures defined for facility backup protection.  The updates include extensions that reduce the amount of signaling and processing that occurs during Fast Reroute (FRR); as a result, scalability when undergoing FRR convergence after a link or node failure is improved.  These extensions allow the RSVP message exchange between the Point of Local Repair (PLR) and the Merge Point (MP) nodes to be independent of the number of protected Label Switched Paths (LSPs) traversing between them when facility bypass FRR protection is used.  The signaling extensions are fully backwards compatible with nodes that do not support them.</abstract>
+  </front>
+</reference>

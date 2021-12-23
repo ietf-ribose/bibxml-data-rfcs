@@ -1,0 +1,22 @@
+<reference anchor="IETF.RFC6787" target="https://www.rfc-editor.org/info/rfc6787">
+  <front>
+    <title>Media Resource Control Protocol Version 2 (MRCPv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6787"/>
+    <author fullname="D. Burnett"/>
+    <author fullname="S. Shanmugham"/>
+    <date year="2012" month="November" day="1"/>
+    <workgroup>speechsc</workgroup>
+    <keyword>mrcp</keyword>
+    <keyword>speechsc</keyword>
+    <keyword>asr</keyword>
+    <keyword>tts</keyword>
+    <keyword>speech services</keyword>
+    <keyword>speech recognition</keyword>
+    <keyword>speech synthesis</keyword>
+    <keyword>nlsml</keyword>
+    <keyword>speaker authentication</keyword>
+    <keyword>speaker verification</keyword>
+    <keyword>speaker identification</keyword>
+    <abstract>The Media Resource Control Protocol Version 2 (MRCPv2) allows client hosts to control media service resources such as speech synthesizers, recognizers, verifiers, and identifiers residing in servers on the network.  MRCPv2 is not a "stand-alone" protocol -- it relies on other protocols, such as the Session Initiation Protocol (SIP), to coordinate MRCPv2 clients and servers and manage sessions between them, and the Session Description Protocol (SDP) to describe, discover, and exchange capabilities.  It also depends on SIP and SDP to establish the media sessions and associated parameters between the media source or sink and the media server.  Once this is done, the MRCPv2 exchange operates over the control session established above, allowing the client to control the media processing resources on the speech resource server. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

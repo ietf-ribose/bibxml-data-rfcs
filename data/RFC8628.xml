@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC8628" target="https://www.rfc-editor.org/info/rfc8628">
+  <front>
+    <title>OAuth 2.0 Device Authorization Grant</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8628"/>
+    <author fullname="W. Denniss"/>
+    <author fullname="J. Bradley"/>
+    <author fullname="M. Jones"/>
+    <author fullname="H. Tschofenig"/>
+    <date year="2019" month="August" day="1"/>
+    <workgroup>oauth</workgroup>
+    <keyword>Security Area</keyword>
+    <keyword>OAuth</keyword>
+    <keyword>Security</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Smart Objects</keyword>
+    <keyword>IoT</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>Internet of Things Security</keyword>
+    <keyword>OAuth for Constrained Devices</keyword>
+    <keyword>OAuth IoT Security</keyword>
+    <abstract>The OAuth 2.0 device authorization grant is designed for Internet- connected devices that either lack a browser to perform a user-agent- based authorization or are input constrained to the extent that requiring the user to input text in order to authenticate during the authorization flow is impractical.  It enables OAuth clients on such devices (like smart TVs, media consoles, digital picture frames, and printers) to obtain user authorization to access protected resources by using a user agent on a separate device.</abstract>
+  </front>
+</reference>

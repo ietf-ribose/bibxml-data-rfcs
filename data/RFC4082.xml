@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4082" target="https://www.rfc-editor.org/info/rfc4082">
+  <front>
+    <title>Timed Efficient Stream Loss-Tolerant Authentication (TESLA): Multicast Source Authentication Transform Introduction</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4082"/>
+    <author fullname="A. Perrig"/>
+    <author fullname="D. Song"/>
+    <author fullname="R. Canetti"/>
+    <author fullname="J. D. Tygar"/>
+    <author fullname="B. Briscoe"/>
+    <date year="2005" month="June" day="1"/>
+    <workgroup>msec</workgroup>
+    <keyword>data streams</keyword>
+    <abstract>This document introduces Timed Efficient Stream Loss-tolerant Authentication (TESLA). TESLA allows all receivers to check the integrity and authenticate the source of each packet in multicast or broadcast data streams. TESLA requires no trust between receivers, uses low-cost operations per packet at both sender and receiver, can tolerate any level of loss without retransmissions, and requires no per-receiver state at the sender. TESLA can protect receivers against denial of service attacks in certain circumstances. Each receiver must be loosely time-synchronized with the source in order to verify messages, but otherwise receivers do not have to send any messages. TESLA alone cannot support non-repudiation of the data source to third parties. This informational document is intended to assist in writing standardizable and secure specifications for protocols based on TESLA in different contexts. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

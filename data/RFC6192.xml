@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6192" target="https://www.rfc-editor.org/info/rfc6192">
+  <front>
+    <title>Protecting the Router Control Plane</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6192"/>
+    <author fullname="D. Dugal"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="R. Dunn"/>
+    <date year="2011" month="March" day="1"/>
+    <workgroup>opsec</workgroup>
+    <keyword>ACL</keyword>
+    <keyword>Router Control Plane Protection</keyword>
+    <keyword>Filter</keyword>
+    <abstract>This memo provides a method for protecting a router's control plane from undesired or malicious traffic. In this approach, all legitimate router control plane traffic is identified. Once legitimate traffic has been identified, a filter is deployed in the router's forwarding plane. That filter prevents traffic not specifically identified as legitimate from reaching the router's control plane, or rate-limits such traffic to an acceptable level. Note that the filters described in this memo are applied only to traffic that is destined for the router, and not to all traffic that is passing through the router. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

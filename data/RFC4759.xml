@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4759" target="https://www.rfc-editor.org/info/rfc4759">
+  <front>
+    <title>The ENUM Dip Indicator Parameter for the "tel" URI</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4759"/>
+    <author fullname="R. Stastny"/>
+    <author fullname="R. Shockey"/>
+    <author fullname="L. Conroy"/>
+    <date year="2006" month="December" day="1"/>
+    <workgroup>iptel</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>E.164</keyword>
+    <keyword>telephone number</keyword>
+    <abstract>This document defines a new parameter "enumdi" for the "tel" Uniform Resource Identifier (URI) to support the handling of ENUM queries in Voice over Internet Protocol (VoIP) network elements.  A VoIP network element may receive a URI containing an E.164 number, where that URI contains an "enumdi" parameter.  The presence of the "enumdi" parameter indicates that an ENUM query has already been performed on the E.164 number by a previous VoIP network element.  Equally, if a VoIP network element sends such a URI, it asserts that an ENUM query has been carried out on this number. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

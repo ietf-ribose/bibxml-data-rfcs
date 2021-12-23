@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC7949" target="https://www.rfc-editor.org/info/rfc7949">
+  <front>
+    <title>OSPFv3 over IPv4 for IPv6 Transition</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7949"/>
+    <author fullname="I. Chen"/>
+    <author fullname="A. Lindem"/>
+    <author fullname="R. Atkinson"/>
+    <date year="2016" month="August" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>IPv4 transport</keyword>
+    <keyword>OSPFv3 transition</keyword>
+    <abstract>This document defines a mechanism to use IPv4 to transport OSPFv3 packets.  Using OSPFv3 over IPv4 with the existing OSPFv3 Address Family extension can simplify transition from an OSPFv2 IPv4-only routing domain to an OSPFv3 dual-stack routing domain.  This document updates RFC 5838 to support virtual links in the IPv4 unicast address family when using OSPFv3 over IPv4.</abstract>
+  </front>
+</reference>

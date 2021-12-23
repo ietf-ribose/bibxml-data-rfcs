@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6920" target="https://www.rfc-editor.org/info/rfc6920">
+  <front>
+    <title>Naming Things with Hashes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6920"/>
+    <author fullname="S. Farrell"/>
+    <author fullname="D. Kutscher"/>
+    <author fullname="C. Dannewitz"/>
+    <author fullname="B. Ohlman"/>
+    <author fullname="A. Keranen"/>
+    <author fullname="P. Hallam-Baker"/>
+    <date year="2013" month="April" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>Cryptography</keyword>
+    <keyword>URI</keyword>
+    <keyword>Information Centric Networking</keyword>
+    <abstract>This document defines a set of ways to identify a thing (a digital object in this case) using the output from a hash function.  It specifies a new URI scheme for this purpose, a way to map these to HTTP URLs, and binary and human-speakable formats for these names.  The various formats are designed to support, but not require, a strong link to the referenced object, such that the referenced object may be authenticated to the same degree as the reference to it.  The reason for this work is to standardise current uses of hash outputs in URLs and to support new information-centric applications and other uses of hash outputs in protocols.</abstract>
+  </front>
+</reference>

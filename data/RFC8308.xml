@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC8308" target="https://www.rfc-editor.org/info/rfc8308">
+  <front>
+    <title>Extension Negotiation in the Secure Shell (SSH) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8308"/>
+    <author fullname="D. Bider"/>
+    <date year="2018" month="March" day="1"/>
+    <workgroup>curdle</workgroup>
+    <keyword>ext-info</keyword>
+    <keyword>ext-info-s</keyword>
+    <keyword>ext-info-c</keyword>
+    <keyword>SSH_MSG_EXT_INFO</keyword>
+    <keyword>SSH_MSG_NEWCOMPRESS</keyword>
+    <keyword>server-sig-algs</keyword>
+    <keyword>delay-compression</keyword>
+    <keyword>no-flow-control</keyword>
+    <keyword>elevation</keyword>
+    <keyword>delay compression</keyword>
+    <keyword>delayed compression</keyword>
+    <keyword>flow control</keyword>
+    <keyword>elevated</keyword>
+    <abstract>This memo updates RFCs 4251, 4252, 4253, and 4254 by defining a mechanism for Secure Shell (SSH) clients and servers to exchange information about supported protocol extensions confidentially after SSH key exchange.</abstract>
+  </front>
+</reference>

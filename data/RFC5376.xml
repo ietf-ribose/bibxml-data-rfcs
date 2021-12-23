@@ -1,0 +1,27 @@
+<reference anchor="IETF.RFC5376" target="https://www.rfc-editor.org/info/rfc5376">
+  <front>
+    <title>Inter-AS Requirements for the Path Computation Element Communication Protocol (PCECP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5376"/>
+    <author fullname="N. Bitar"/>
+    <author fullname="R. Zhang"/>
+    <author fullname="K. Kumaki"/>
+    <date year="2008" month="November" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>PCE</keyword>
+    <keyword>PCECP</keyword>
+    <keyword>inter-AS PCE</keyword>
+    <keyword>inter-provider PCE</keyword>
+    <keyword>inter-AS MPLS-TE</keyword>
+    <keyword>inter-provider MPLS-TE</keyword>
+    <keyword>inter-AS PCECP</keyword>
+    <keyword>inter-provider PCECP</keyword>
+    <keyword>GMPLS path computation</keyword>
+    <keyword>MPLS-TE path computation</keyword>
+    <keyword>path computation element</keyword>
+    <keyword>path computation communication protocol</keyword>
+    <keyword>path computing element</keyword>
+    <keyword>Interas</keyword>
+    <keyword>Interas TE</keyword>
+    <abstract>Multiprotocol Label Switching Traffic Engineered (MPLS TE) Label Switched Paths (LSPs) may be established wholly within an Autonomous System (AS) or may cross AS boundaries. The Path Computation Element (PCE) is a component that is capable of computing constrained paths for (G)MPLS TE LSPs. The PCE Communication Protocol (PCECP) is defined to allow communication between Path Computation Clients (PCCs) and PCEs, as well as between PCEs. The PCECP is used to request constrained paths and to supply computed paths in response. Generic requirements for the PCECP are set out in "Path Computation Element (PCE) Communication Protocol Generic Requirements", RFC 4657. This document extends those requirements to cover the use of PCECP in support of inter-AS MPLS TE. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

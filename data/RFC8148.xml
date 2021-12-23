@@ -1,0 +1,27 @@
+<reference anchor="IETF.RFC8148" target="https://www.rfc-editor.org/info/rfc8148">
+  <front>
+    <title>Next-Generation Vehicle-Initiated Emergency Calls</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8148"/>
+    <author fullname="R. Gellens"/>
+    <author fullname="B. Rosen"/>
+    <author fullname="H. Tschofenig"/>
+    <date year="2017" month="May" day="1"/>
+    <workgroup>ecrit</workgroup>
+    <keyword>emergency</keyword>
+    <keyword>call</keyword>
+    <keyword>calls</keyword>
+    <keyword>emergency call</keyword>
+    <keyword>emergency calls</keyword>
+    <keyword>vehicle</keyword>
+    <keyword>acn</keyword>
+    <keyword>aacn</keyword>
+    <keyword>automatic crash notification</keyword>
+    <keyword>automatic collision notification</keyword>
+    <keyword> advanced automatic crash notification</keyword>
+    <keyword>advanced automatic collision notification</keyword>
+    <keyword>crash</keyword>
+    <keyword>vehicle-initiated</keyword>
+    <keyword>ecall</keyword>
+    <abstract>This document describes how to use IP-based emergency services mechanisms to support the next generation of emergency calls placed by vehicles (automatically in the event of a crash or serious incident, or manually invoked by a vehicle occupant) and conveying vehicle, sensor, and location data related to the crash or incident. Such calls are often referred to as "Automatic Crash Notification" (ACN), or "Advanced Automatic Crash Notification" (AACN), even in the case of manual trigger. The "Advanced" qualifier refers to the ability to carry a richer set of data. This document also registers a MIME media type and Emergency Call Data Type for the vehicle, sensor, and location data (often referred to as "crash data" even though there is not necessarily a crash) and an INFO package to enable carrying this and related data in SIP INFO requests. An external specification for the data format, contents, and structure is referenced in this document. This document reuses the technical aspects of next-generation Pan- European eCall (a mandated and standardized system for emergency calls by in-vehicle systems (IVSs) within Europe and other regions). However, this document specifies use of a different set of vehicle (crash) data, specifically, the Vehicle Emergency Data Set (VEDS) rather than the eCall Minimum Set of Data (MSD). This document is an extension of the IETF eCall document, with the primary differences being that this document makes the MSD data set optional and VEDS mandatory, and it adds attribute values to the metadata/control object to permit greater functionality. This document registers a new INFO package (identical to that registered for eCall but with the addition of the VEDS MIME type). This document also describes legacy (circuit-switched) ACN systems and their migration to next-generation emergency calling, to provide background information and context.</abstract>
+  </front>
+</reference>

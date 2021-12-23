@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8395" target="https://www.rfc-editor.org/info/rfc8395">
+  <front>
+    <title>Extensions to BGP-Signaled Pseudowires to Support Flow-Aware Transport Labels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8395"/>
+    <author fullname="K. Patel"/>
+    <author fullname="S. Boutros"/>
+    <author fullname="J. Liste"/>
+    <author fullname="B. Wen"/>
+    <author fullname="J. Rabadan"/>
+    <date year="2018" month="June" day="1"/>
+    <workgroup>bess</workgroup>
+    <abstract>This document defines protocol extensions required to synchronize flow label states among Provider Edges (PEs) when using the BGP-based signaling procedures.  These protocol extensions are equally applicable to point-to-point Layer 2 Virtual Private Networks (L2VPNs).  This document updates RFC 4761 by defining new flags in the Control Flags field of the Layer2 Info Extended Community.</abstract>
+  </front>
+</reference>

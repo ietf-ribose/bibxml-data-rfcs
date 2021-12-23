@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5262" target="https://www.rfc-editor.org/info/rfc5262">
+  <front>
+    <title>Presence Information Data Format (PIDF) Extension for Partial Presence</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5262"/>
+    <author fullname="M. Lonnfors"/>
+    <author fullname="E. Leppanen"/>
+    <author fullname="H. Khartabil"/>
+    <author fullname="J. Urpalainen"/>
+    <date year="2008" month="September" day="1"/>
+    <workgroup>simple</workgroup>
+    <abstract>The Presence Information Document Format (PIDF) specifies the baseline XML-based format for describing presence information.  One of the characteristics of the PIDF is that the document always needs to carry all presence information available for the presentity.  In some environments where low bandwidth and high latency links can exist, it is often beneficial to limit the amount of transported information over the network.  This document introduces a new MIME type that enables transporting of either only the changed parts or the full PIDF-based presence information. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

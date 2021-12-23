@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC8790" target="https://www.rfc-editor.org/info/rfc8790">
+  <front>
+    <title>FETCH and PATCH with Sensor Measurement Lists (SenML)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8790"/>
+    <author fullname="A. Keränen"/>
+    <author fullname="M. Mohajer"/>
+    <date year="2020" month="June" day="1"/>
+    <workgroup>core</workgroup>
+    <keyword>CoAP</keyword>
+    <keyword>IoT</keyword>
+    <keyword>data model</keyword>
+    <abstract>The Sensor Measurement Lists (SenML) media type and data model can be used to send collections of resources, such as batches of sensor data or configuration parameters.  The Constrained Application Protocol (CoAP) FETCH, PATCH, and iPATCH methods enable accessing and updating parts of a resource or multiple resources with one request.  This document defines new media types for the CoAP FETCH, PATCH, and iPATCH methods for resources represented using the SenML data model.</abstract>
+  </front>
+</reference>

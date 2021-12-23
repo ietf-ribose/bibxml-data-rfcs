@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC3986" target="https://www.rfc-editor.org/info/rfc3986">
+  <front>
+    <title>Uniform Resource Identifier (URI): Generic Syntax</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3986"/>
+    <author fullname="T. Berners-Lee"/>
+    <author fullname="R. Fielding"/>
+    <author fullname="L. Masinter"/>
+    <date year="2005" month="January" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>Internet</keyword>
+    <keyword>protocol</keyword>
+    <keyword>uniform</keyword>
+    <keyword>resource</keyword>
+    <keyword>identifier</keyword>
+    <keyword>www</keyword>
+    <keyword>world wide web</keyword>
+    <abstract>A Uniform Resource Identifier (URI) is a compact sequence of characters that identifies an abstract or physical resource.  This specification defines the generic URI syntax and a process for resolving URI references that might be in relative form, along with guidelines and security considerations for the use of URIs on the Internet.  The URI syntax defines a grammar that is a superset of all valid URIs, allowing an implementation to parse the common components of a URI reference without knowing the scheme-specific requirements of every possible identifier.  This specification does not define a generative grammar for URIs; that task is performed by the individual specifications of each URI scheme. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

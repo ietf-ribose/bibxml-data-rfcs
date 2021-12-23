@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4522" target="https://www.rfc-editor.org/info/rfc4522">
+  <front>
+    <title>Lightweight Directory Access Protocol (LDAP): The Binary Encoding Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4522"/>
+    <author fullname="S. Legg"/>
+    <date year="2006" month="June" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>ber</keyword>
+    <keyword>ldap-specific encoding</keyword>
+    <abstract>Each attribute stored in a Lightweight Directory Access Protocol (LDAP) directory has a defined syntax (i.e., data type).  A syntax definition specifies how attribute values conforming to the syntax are normally represented when transferred in LDAP operations.  This representation is referred to as the LDAP\-specific encoding to distinguish it from other methods of encoding attribute values.  This document defines an attribute option, the binary option, that can be used to specify that the associated attribute values are instead encoded according to the Basic Encoding Rules (BER) used by X.500 directories. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

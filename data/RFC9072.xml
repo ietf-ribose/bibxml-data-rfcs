@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC9072" target="https://www.rfc-editor.org/info/rfc9072">
+  <front>
+    <title>Extended Optional Parameters Length for BGP OPEN Message</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9072"/>
+    <author fullname="E. Chen"/>
+    <author fullname="J. Scudder"/>
+    <date year="2021" month="July" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>IDR</keyword>
+    <keyword>BGP</keyword>
+    <abstract>The Optional Parameters in the BGP OPEN message as defined in the base BGP specification are limited to 255 octets due to a one-octet length field. BGP capabilities are carried in this field and may foreseeably exceed 255 octets in the future, leading to concerns about this limitation. This document updates RFC 4271 by extending, in a backward-compatible manner, the length of the Optional Parameters in a BGP OPEN message. The Parameter Length field of individual Optional Parameters is also extended.</abstract>
+  </front>
+</reference>

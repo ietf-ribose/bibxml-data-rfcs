@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC3876" target="https://www.rfc-editor.org/info/rfc3876">
+  <front>
+    <title>Returning Matched Values with the Lightweight Directory Access Protocol version 3 (LDAPv3)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3876"/>
+    <author fullname="D. Chadwick"/>
+    <author fullname="S. Mullan"/>
+    <date year="2004" month="September" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>attribute</keyword>
+    <keyword>filter</keyword>
+    <abstract>This document describes a control for the Lightweight Directory Access Protocol version 3 that is used to return a subset of attribute values from an entry.  Specifically, only those values that match a "values return" filter.  Without support for this control, a client must retrieve all of an attribute's values and search for specific values locally. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

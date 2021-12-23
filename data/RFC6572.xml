@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6572" target="https://www.rfc-editor.org/info/rfc6572">
+  <front>
+    <title>RADIUS Support for Proxy Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6572"/>
+    <author fullname="F. Xia"/>
+    <author fullname="B. Sarikaya"/>
+    <author fullname="J. Korhonen"/>
+    <author fullname="S. Gundavelli"/>
+    <author fullname="D. Damic"/>
+    <date year="2012" month="June" day="1"/>
+    <workgroup>netext</workgroup>
+    <abstract>This document defines new attributes to facilitate Proxy Mobile IPv6 operations using the RADIUS infrastructure.  The protocol defined in this document uses RADIUS-based interfaces of the mobile access gateway and the local mobility anchor with the AAA server for authentication, authorization, and policy functions.  The RADIUS interactions between the mobile access gateway and the RADIUS-based AAA server take place when the mobile node (MN) attaches, authenticates, and authorizes to a Proxy Mobile IPv6 domain.  Furthermore, this document defines the RADIUS-based interface between the local mobility anchor and the AAA RADIUS server for authorizing received Proxy Binding Update messages for the mobile node's mobility session.  In addition to the interactions related to mobility session setup, this document defines the baseline for the mobile access gateway and the local mobility anchor generated accounting. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC8253" target="https://www.rfc-editor.org/info/rfc8253">
+  <front>
+    <title>PCEPS: Usage of TLS to Provide a Secure Transport for the Path Computation Element Communication Protocol (PCEP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8253"/>
+    <author fullname="D. Lopez"/>
+    <author fullname="O. Gonzalez de Dios"/>
+    <author fullname="Q. Wu"/>
+    <author fullname="D. Dhody"/>
+    <date year="2017" month="October" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>PCE</keyword>
+    <keyword>PCEP</keyword>
+    <keyword>PCEPS</keyword>
+    <keyword>security</keyword>
+    <keyword>authentication</keyword>
+    <keyword>encryption</keyword>
+    <keyword>TLS</keyword>
+    <abstract>The Path Computation Element Communication Protocol (PCEP) defines the mechanisms for the communication between a Path Computation Client (PCC) and a Path Computation Element (PCE), or among PCEs. This document describes PCEPS -- the usage of Transport Layer Security (TLS) to provide a secure transport for PCEP. The additional security mechanisms are provided by the transport protocol supporting PCEP; therefore, they do not affect the flexibility and extensibility of PCEP. This document updates RFC 5440 in regards to the PCEP initialization phase procedures.</abstract>
+  </front>
+</reference>

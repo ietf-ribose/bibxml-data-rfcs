@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5189" target="https://www.rfc-editor.org/info/rfc5189">
+  <front>
+    <title>Middlebox Communication (MIDCOM) Protocol Semantics</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5189"/>
+    <author fullname="M. Stiemerling"/>
+    <author fullname="J. Quittek"/>
+    <author fullname="T. Taylor"/>
+    <date year="2008" month="March" day="1"/>
+    <workgroup>midcom</workgroup>
+    <keyword>nat</keyword>
+    <keyword>network address translator</keyword>
+    <keyword>firewall</keyword>
+    <abstract>This document specifies semantics for a Middlebox Communication (MIDCOM) protocol to be used by MIDCOM agents for interacting with middleboxes such as firewalls and Network Address Translators (NATs).  The semantics discussion does not include any specification of a concrete syntax or a transport protocol.  However, a concrete protocol is expected to implement the specified semantics or, more likely, a superset of it.  The MIDCOM protocol semantics is derived from the MIDCOM requirements, from the MIDCOM framework, and from working group decisions.  This document obsoletes RFC 3989. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

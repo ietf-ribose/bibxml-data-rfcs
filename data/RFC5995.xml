@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5995" target="https://www.rfc-editor.org/info/rfc5995">
+  <front>
+    <title>Using POST to Add Members to Web Distributed Authoring and Versioning (WebDAV) Collections</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5995"/>
+    <author fullname="J. Reschke"/>
+    <date year="2010" month="September" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>HTTP</keyword>
+    <keyword>POST</keyword>
+    <keyword>WebDAV</keyword>
+    <keyword>Collections</keyword>
+    <keyword>Collection Members</keyword>
+    <abstract>The Hypertext Transfer Protocol (HTTP) Extensions for the Web Distributed Authoring and Versioning (WebDAV) do not define the behavior for the "POST" method when applied to collections, as the base specification (HTTP) leaves implementers lots of freedom for the semantics of "POST". This has led to a situation where many WebDAV servers do not implement POST for collections at all, although it is well suited to be used for the purpose of adding new members to a collection, where the server remains in control of the newly assigned URL. In fact, the Atom Publishing Protocol (AtomPub) uses POST exactly for that purpose. On the other hand, WebDAV-based protocols, such as the Calendaring Extensions to WebDAV (CalDAV), frequently require clients to pick a unique URL, although the server could easily perform that task. This specification defines a discovery mechanism through which servers can advertise support for POST requests with the aforementioned "add collection member" semantics. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

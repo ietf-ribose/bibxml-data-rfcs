@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC7197" target="https://www.rfc-editor.org/info/rfc7197">
+  <front>
+    <title>Duplication Delay Attribute in the Session Description Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7197"/>
+    <author fullname="A. Begen"/>
+    <author fullname="Y. Cai"/>
+    <author fullname="H. Ou"/>
+    <date year="2014" month="April" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>Interleaving</keyword>
+    <keyword>temporal diversity</keyword>
+    <keyword>temporal redundancy</keyword>
+    <keyword>time shifted</keyword>
+    <keyword>delayed duplication</keyword>
+    <abstract>A straightforward approach to provide protection against packet losses due to network outages with a longest duration of T time units is to duplicate the original packets and send each copy separated in time by at least T time units.  This approach is commonly referred to as "time-shifted redundancy", "temporal redundancy", or simply "delayed duplication".  This document defines an attribute to indicate the presence of temporally redundant media streams and the duplication delay in the Session Description Protocol.</abstract>
+  </front>
+</reference>

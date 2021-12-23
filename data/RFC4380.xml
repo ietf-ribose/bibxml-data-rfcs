@@ -1,0 +1,10 @@
+<reference anchor="IETF.RFC4380" target="https://www.rfc-editor.org/info/rfc4380">
+  <front>
+    <title>Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4380"/>
+    <author fullname="C. Huitema"/>
+    <date year="2006" month="February" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <abstract>We propose here a service that enables nodes located behind one or more IPv4 Network Address Translations (NATs) to obtain IPv6 connectivity by tunneling packets over UDP; we call this the Teredo service.  Running the service requires the help of "Teredo servers" and "Teredo relays".  The Teredo servers are stateless, and only have to manage a small fraction of the traffic between Teredo clients; the Teredo relays act as IPv6 routers between the Teredo service and the "native" IPv6 Internet.  The relays can also provide interoperability with hosts using other transition mechanisms such as "6to4". [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

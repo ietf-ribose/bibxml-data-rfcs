@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7811" target="https://www.rfc-editor.org/info/rfc7811">
+  <front>
+    <title>An Algorithm for Computing IP/LDP Fast Reroute Using Maximally Redundant Trees (MRT-FRR)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7811"/>
+    <author fullname="G. Enyedi"/>
+    <author fullname="A. Csaszar"/>
+    <author fullname="A. Atlas"/>
+    <author fullname="C. Bowers"/>
+    <author fullname="A. Gopalan"/>
+    <date year="2016" month="June" day="1"/>
+    <workgroup>rtgwg</workgroup>
+    <keyword>MRT</keyword>
+    <keyword>FRR</keyword>
+    <keyword>LFA</keyword>
+    <keyword>recovery</keyword>
+    <keyword>failure</keyword>
+    <keyword>routing</keyword>
+    <abstract>This document supports the solution put forth in "An Architecture for IP/LDP Fast Reroute Using Maximally Redundant Trees (MRT-FRR)" (RFC 7812) by defining the associated MRT Lowpoint algorithm that is used in the Default MRT Profile to compute both the necessary Maximally Redundant Trees with their associated next hops and the alternates to select for MRT-FRR.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC6535" target="https://www.rfc-editor.org/info/rfc6535">
+  <front>
+    <title>Dual-Stack Hosts Using "Bump-in-the-Host" (BIH)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6535"/>
+    <author fullname="B. Huang"/>
+    <author fullname="H. Deng"/>
+    <author fullname="T. Savolainen"/>
+    <date year="2012" month="February" day="1"/>
+    <workgroup>behave</workgroup>
+    <keyword>NAT</keyword>
+    <keyword>NAT46</keyword>
+    <keyword>DNS</keyword>
+    <keyword>DNS46</keyword>
+    <keyword>translation</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>applications</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>ENR</keyword>
+    <abstract>Bump-in-the-Host (BIH) is a host-based IPv4 to IPv6 protocol translation mechanism that allows a class of IPv4-only applications that work through NATs to communicate with IPv6-only peers.  The host on which applications are running may be connected to IPv6-only or dual-stack access networks.  BIH hides IPv6 and makes the IPv4-only applications think they are talking with IPv4 peers by local synthesis of IPv4 addresses.  This document obsoletes RFC 2767 and RFC 3338. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

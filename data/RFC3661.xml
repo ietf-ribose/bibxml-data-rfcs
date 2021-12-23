@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC3661" target="https://www.rfc-editor.org/info/rfc3661">
+  <front>
+    <title>Media Gateway Control Protocol (MGCP) Return Code Usage</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3661"/>
+    <author fullname="B. Foster"/>
+    <author fullname="C. Sivachelvan"/>
+    <date year="2003" month="December" day="1"/>
+    <keyword>guidelines</keyword>
+    <keyword>call agent</keyword>
+    <keyword>implementation</keyword>
+    <abstract>This document provides implementation guidelines for the use of return codes in RFC 3435, Media Gateway Control Protocol (MGCP) Version 1.0.  Return codes in RFC 3435 do not cover all possible specific situations that may ever occur in a gateway.  That is not possible and not necessary.  What is important is to ensure that the Call Agent that receives a return code behaves appropriately and consistently for the given situation.  The purpose of this document is to provide implementation guidelines to ensure that consistency.</abstract>
+  </front>
+</reference>

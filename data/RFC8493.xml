@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8493" target="https://www.rfc-editor.org/info/rfc8493">
+  <front>
+    <title>The BagIt File Packaging Format (V1.0)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8493"/>
+    <author fullname="J. Kunze"/>
+    <author fullname="J. Littman"/>
+    <author fullname="E. Madden"/>
+    <author fullname="J. Scancella"/>
+    <author fullname="C. Adams"/>
+    <date year="2018" month="October" day="1"/>
+    <abstract>This document describes BagIt, a set of hierarchical file layout conventions for storage and transfer of arbitrary digital content.  A "bag" has just enough structure to enclose descriptive metadata "tags" and a file "payload" but does not require knowledge of the payload's internal semantics.  This BagIt format is suitable for reliable storage and transfer.</abstract>
+  </front>
+</reference>

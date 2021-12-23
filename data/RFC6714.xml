@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6714" target="https://www.rfc-editor.org/info/rfc6714">
+  <front>
+    <title>Connection Establishment for Media Anchoring (CEMA) for the Message Session Relay Protocol (MSRP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6714"/>
+    <author fullname="C. Holmberg"/>
+    <author fullname="S. Blau"/>
+    <author fullname="E. Burger"/>
+    <date year="2012" month="August" day="1"/>
+    <workgroup>simple</workgroup>
+    <keyword>Middlebox</keyword>
+    <keyword>IBCF</keyword>
+    <keyword>SBC</keyword>
+    <abstract>This document defines a Message Session Relay Protocol (MSRP) extension, Connection Establishment for Media Anchoring (CEMA).  Support of this extension is OPTIONAL.  The extension allows middleboxes to anchor the MSRP connection, without the need for middleboxes to modify the MSRP messages; thus, it also enables secure end-to-end MSRP communication in networks where such middleboxes are deployed.  This document also defines a Session Description Protocol (SDP) attribute, 'msrp-cema', that MSRP endpoints use to indicate support of the CEMA extension. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

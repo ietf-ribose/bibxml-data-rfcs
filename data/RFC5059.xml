@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5059" target="https://www.rfc-editor.org/info/rfc5059">
+  <front>
+    <title>Bootstrap Router (BSR) Mechanism for Protocol Independent Multicast (PIM)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5059"/>
+    <author fullname="N. Bhaskar"/>
+    <author fullname="A. Gall"/>
+    <author fullname="J. Lingard"/>
+    <author fullname="S. Venaas"/>
+    <date year="2008" month="January" day="1"/>
+    <workgroup>pim</workgroup>
+    <keyword>rendezvous point</keyword>
+    <keyword>rp</keyword>
+    <keyword>multicast router</keyword>
+    <abstract>This document specifies the Bootstrap Router (BSR) mechanism for the class of multicast routing protocols in the PIM (Protocol Independent Multicast) family that use the concept of a Rendezvous Point as a means for receivers to discover the sources that send to a particular multicast group.  BSR is one way that a multicast router can learn the set of group-to-RP mappings required in order to function.  The mechanism is dynamic, largely self-configuring, and robust to router failure. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

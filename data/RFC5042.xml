@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5042" target="https://www.rfc-editor.org/info/rfc5042">
+  <front>
+    <title>Direct Data Placement Protocol (DDP) / Remote Direct Memory Access Protocol (RDMAP) Security</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5042"/>
+    <author fullname="J. Pinkerton"/>
+    <author fullname="E. Deleganes"/>
+    <date year="2007" month="October" day="1"/>
+    <workgroup>rddp</workgroup>
+    <keyword>rdma network interface card</keyword>
+    <keyword>rnic</keyword>
+    <abstract>This document analyzes security issues around implementation and use of the Direct Data Placement Protocol (DDP) and Remote Direct Memory Access Protocol (RDMAP).  It first defines an architectural model for an RDMA Network Interface Card (RNIC), which can implement DDP or RDMAP and DDP.  The document reviews various attacks against the resources defined in the architectural model and the countermeasures that can be used to protect the system.  Attacks are grouped into those that can be mitigated by using secure communication channels across the network, attacks from Remote Peers, and attacks from Local Peers.  Attack categories include spoofing, tampering, information disclosure, denial of service, and elevation of privilege. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

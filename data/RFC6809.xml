@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6809" target="https://www.rfc-editor.org/info/rfc6809">
+  <front>
+    <title>Mechanism to Indicate Support of Features and Capabilities in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6809"/>
+    <author fullname="C. Holmberg"/>
+    <author fullname="I. Sedlacek"/>
+    <author fullname="H. Kaplan"/>
+    <date year="2012" month="November" day="1"/>
+    <workgroup>sipcore</workgroup>
+    <keyword>proxy</keyword>
+    <keyword>feature</keyword>
+    <keyword>feature tag</keyword>
+    <keyword>feature-capability indicator</keyword>
+    <keyword>Feature-Caps</keyword>
+    <keyword>capability</keyword>
+    <abstract>This specification defines a new SIP header field, Feature-Caps. The Feature-Caps header field conveys feature-capability indicators that are used to indicate support of features and capabilities for SIP entities that are not represented by the Uniform Resource Identifier (URI) of the Contact header field. SIP entities that are represented by the URI of the SIP Contact header field can convey media feature tags in the Contact header field to indicate support of features and capabilities. This specification also defines feature-capability indicators and creates a new IANA registry, "Proxy-Feature Feature-Capability Indicator Trees", for registering feature-capability indicators. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

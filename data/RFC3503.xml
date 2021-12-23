@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC3503" target="https://www.rfc-editor.org/info/rfc3503">
+  <front>
+    <title>Message Disposition Notification (MDN) profile for Internet Message Access Protocol (IMAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3503"/>
+    <author fullname="A. Melnikov"/>
+    <date year="2003" month="March" day="1"/>
+    <keyword>mua</keyword>
+    <keyword>mail user agent</keyword>
+    <keyword>imap4</keyword>
+    <abstract>The Message Disposition Notification (MDN) facility defined in RFC 2298 provides a means by which a message can request that message processing by the recipient be acknowledged as well as a format to be used for such acknowledgements.  However, it doesn't describe how multiple Mail User Agents (MUAs) should handle the generation of MDNs in an Internet Message Access Protocol (IMAP4) environment.  This document describes how to handle MDNs in such an environment and provides guidelines for implementers of IMAP4 that want to add MDN support to their products. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

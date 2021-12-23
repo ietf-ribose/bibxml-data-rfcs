@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4169" target="https://www.rfc-editor.org/info/rfc4169">
+  <front>
+    <title>Hypertext Transfer Protocol (HTTP) Digest Authentication Using Authentication and Key Agreement (AKA) Version-2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4169"/>
+    <author fullname="V. Torvinen"/>
+    <author fullname="J. Arkko"/>
+    <author fullname="M. Naslund"/>
+    <date year="2005" month="November" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>tls</keyword>
+    <keyword>transport layer security</keyword>
+    <keyword>tunneled authentication</keyword>
+    <keyword>man-in-the-middle attacks</keyword>
+    <abstract>HTTP Digest, as specified in RFC 2617, is known to be vulnerable to man-in-the-middle attacks if the client fails to authenticate the server in TLS, or if the same passwords are used for authentication in some other context without TLS.  This is a general problem that exists not just with HTTP Digest, but also with other IETF protocols that use tunneled authentication.  This document specifies version 2 of the HTTP Digest AKA algorithm (RFC 3310).  This algorithm can be implemented in a way that it is resistant to the man-in-the-middle attack.  This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

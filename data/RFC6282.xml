@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6282" target="https://www.rfc-editor.org/info/rfc6282">
+  <front>
+    <title>Compression Format for IPv6 Datagrams over IEEE 802.15.4-Based Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6282"/>
+    <author fullname="J. Hui"/>
+    <author fullname="P. Thubert"/>
+    <date year="2011" month="September" day="1"/>
+    <workgroup>6lowpan</workgroup>
+    <keyword>LLN</keyword>
+    <keyword>Low Power</keyword>
+    <keyword>radio 802.15.4</keyword>
+    <keyword>powerline</keyword>
+    <keyword>ISA100.11a</keyword>
+    <keyword>RFC 4944</keyword>
+    <abstract>This document updates RFC 4944, "Transmission of IPv6 Packets over IEEE 802.15.4 Networks".  This document specifies an IPv6 header compression format for IPv6 packet delivery in Low Power Wireless Personal Area Networks (6LoWPANs).  The compression format relies on shared context to allow compression of arbitrary prefixes.  How the information is maintained in that shared context is out of scope.  This document specifies compression of multicast addresses and a framework for compressing next headers.  UDP header compression is specified within this framework. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

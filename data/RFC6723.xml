@@ -1,0 +1,19 @@
+<reference anchor="IETF.RFC6723" target="https://www.rfc-editor.org/info/rfc6723">
+  <front>
+    <title>Update of the Pseudowire Control-Word Negotiation Mechanism</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6723"/>
+    <author fullname="L. Jin"/>
+    <author fullname="R. Key"/>
+    <author fullname="S. Delord"/>
+    <author fullname="T. Nadeau"/>
+    <author fullname="S. Boutros"/>
+    <date year="2012" month="September" day="1"/>
+    <workgroup>pwe3</workgroup>
+    <keyword>control word</keyword>
+    <keyword>control word negotiation</keyword>
+    <keyword>control word renegotiation</keyword>
+    <keyword>control word negotiation mechanism</keyword>
+    <keyword>control word renegotiation mechanism</keyword>
+    <abstract>The control-word negotiation mechanism specified in RFC 4447 has a problem when a PE (Provider Edge) changes the preference for the use of the control word from NOT PREFERRED to PREFERRED.  This document updates RFC 4447 and RFC 6073 by adding the Label Request message to resolve this control-word negotiation issue for single-segment and multi-segment pseudowires. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

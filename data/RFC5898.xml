@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC5898" target="https://www.rfc-editor.org/info/rfc5898">
+  <front>
+    <title>Connectivity Preconditions for Session Description Protocol (SDP) Media Streams</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5898"/>
+    <author fullname="F. Andreasen"/>
+    <author fullname="G. Camarillo"/>
+    <author fullname="D. Oran"/>
+    <author fullname="D. Wing"/>
+    <date year="2010" month="July" day="1"/>
+    <workgroup>mmusic</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>preconditions</keyword>
+    <keyword>connection</keyword>
+    <keyword>connectivity</keyword>
+    <abstract>This document defines a new connectivity precondition for the Session Description Protocol (SDP) precondition framework.  A connectivity precondition can be used to delay session establishment or modification until media stream connectivity has been successfully verified.  The method of verification may vary depending on the type of transport used for the media.  For unreliable datagram transports such as UDP, verification involves probing the stream with data or control packets.  For reliable connection-oriented transports such as TCP, verification can be achieved simply by successful connection establishment or by probing the connection with data or control packets, depending on the situation. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

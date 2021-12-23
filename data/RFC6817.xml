@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC6817" target="https://www.rfc-editor.org/info/rfc6817">
+  <front>
+    <title>Low Extra Delay Background Transport (LEDBAT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6817"/>
+    <author fullname="S. Shalunov"/>
+    <author fullname="G. Hazel"/>
+    <author fullname="J. Iyengar"/>
+    <author fullname="M. Kuehlewind"/>
+    <date year="2012" month="December" day="1"/>
+    <workgroup>ledbat</workgroup>
+    <keyword>Congestion control</keyword>
+    <keyword>delay-based</keyword>
+    <keyword>scavenger</keyword>
+    <keyword>P2P</keyword>
+    <abstract>Low Extra Delay Background Transport (LEDBAT) is an experimental delay-based congestion control algorithm that seeks to utilize the available bandwidth on an end-to-end path while limiting the consequent increase in queueing delay on that path.  LEDBAT uses changes in one-way delay measurements to limit congestion that the flow itself induces in the network.  LEDBAT is designed for use by background bulk-transfer applications to be no more aggressive than standard TCP congestion control (as specified in RFC 5681) and to yield in the presence of competing flows, thus limiting interference with the network performance of competing flows.  This document defines an Experimental Protocol for the Internet community.</abstract>
+  </front>
+</reference>

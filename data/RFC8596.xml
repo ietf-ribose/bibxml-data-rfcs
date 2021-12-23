@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8596" target="https://www.rfc-editor.org/info/rfc8596">
+  <front>
+    <title>MPLS Transport Encapsulation for the Service Function Chaining (SFC) Network Service Header (NSH)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8596"/>
+    <author fullname="A. Malis"/>
+    <author fullname="S. Bryant"/>
+    <author fullname="J. Halpern"/>
+    <author fullname="W. Henderickx"/>
+    <date year="2019" month="June" day="1"/>
+    <workgroup>mpls</workgroup>
+    <keyword>label</keyword>
+    <keyword>label stack</keyword>
+    <keyword>service function forwarder (SFF)</keyword>
+    <abstract>This document describes how to use a Service Function Forwarder (SFF) Label (similar to a pseudowire label or VPN label) to indicate the presence of a Service Function Chaining (SFC) Network Service Header (NSH) between an MPLS label stack and the packet original packet/ frame.  This allows SFC packets using the NSH to be forwarded between SFFs over an MPLS network, and to select one of multiple SFFs in the destination MPLS node.</abstract>
+  </front>
+</reference>

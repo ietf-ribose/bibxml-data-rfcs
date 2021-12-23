@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC7082" target="https://www.rfc-editor.org/info/rfc7082">
+  <front>
+    <title>Indication of Conference Focus Support for the Centralized Conferencing Manipulation Protocol (CCMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7082"/>
+    <author fullname="R. Shekh-Yusef"/>
+    <author fullname="M. Barnes"/>
+    <date year="2013" month="December" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <abstract>The Centralized Conferencing Manipulation Protocol (CCMP) document (RFC 6503) defines a way for a client to discover a conference control server that supports CCMP. However, it does not define a way for a client involved in a conference to determine if the conference focus supports CCMP. This information would allow a CCMP-enabled client that joins a conference using SIP to also register for the Centralized Conferencing (XCON) conference event package and take advantage of CCMP operations on the conference. This document describes two mechanisms, depending upon the need of the User Agent (UA), to address the above limitation. The first mechanism uses the Call-Info header field, and the second mechanism defines a new value for the "purpose" header field parameter in the <service-uris> element in the SIP conferencing event package.</service-uris></abstract>
+  </front>
+</reference>

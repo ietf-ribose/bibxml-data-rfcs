@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC4136" target="https://www.rfc-editor.org/info/rfc4136">
+  <front>
+    <title>OSPF Refresh and Flooding Reduction in Stable Topologies</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4136"/>
+    <author fullname="P. Pillay-Esnault"/>
+    <date year="2005" month="July" day="1"/>
+    <workgroup>ospf</workgroup>
+    <keyword>open shortest path first</keyword>
+    <keyword>link state advertisement</keyword>
+    <keyword>lsa</keyword>
+    <keyword>donotage</keyword>
+    <abstract>This document describes an extension to the OSPF protocol to reduce periodic flooding of Link State Advertisements (LSAs) in stable topologies. Current OSPF behavior requires that all LSAs, except DoNotAge LSAs, to be refreshed every 30 minutes. This document proposes to generalize the use of DoNotAge LSAs in order to reduce protocol traffic in stable topologies. This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

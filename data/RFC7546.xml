@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7546" target="https://www.rfc-editor.org/info/rfc7546">
+  <front>
+    <title>Structure of the Generic Security Service (GSS) Negotiation Loop</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7546"/>
+    <author fullname="B. Kaduk"/>
+    <date year="2015" month="May" day="1"/>
+    <workgroup>kitten</workgroup>
+    <keyword>GSS-API</keyword>
+    <keyword>security</keyword>
+    <keyword>authentication</keyword>
+    <abstract>This document specifies the generic structure of the negotiation loop to establish a Generic Security Service (GSS) security context between initiator and acceptor.  The control flow of the loop is indicated for both parties, including error conditions, and indications are given for where application-specific behavior must be specified.</abstract>
+  </front>
+</reference>

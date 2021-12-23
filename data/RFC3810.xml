@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC3810" target="https://www.rfc-editor.org/info/rfc3810">
+  <front>
+    <title>Multicast Listener Discovery Version 2 (MLDv2) for IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3810"/>
+    <author fullname="R. Vida"/>
+    <author fullname="L. Costa"/>
+    <date year="2004" month="June" day="1"/>
+    <workgroup>magma</workgroup>
+    <keyword>ssm</keyword>
+    <keyword>source filtering</keyword>
+    <keyword>igmp</keyword>
+    <keyword>group management</keyword>
+    <keyword>mld</keyword>
+    <abstract>This document updates RFC 2710, and it specifies Version 2 of the ulticast Listener Discovery Protocol (MLDv2).  MLD is used by an IPv6 router to discover the presence of multicast listeners on directly attached links, and to discover which multicast addresses are of interest to those neighboring nodes.  MLDv2 is designed to be interoperable with MLDv1.  MLDv2 adds the ability for a node to report interest in listening to packets with a particular multicast address only from specific source addresses or from all sources except for specific source addresses. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

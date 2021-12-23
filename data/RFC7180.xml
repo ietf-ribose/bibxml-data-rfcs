@@ -1,0 +1,22 @@
+<reference anchor="IETF.RFC7180" target="https://www.rfc-editor.org/info/rfc7180">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): Clarifications, Corrections, and Updates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7180"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="M. Zhang"/>
+    <author fullname="A. Ghanwani"/>
+    <author fullname="V. Manral"/>
+    <author fullname="A. Banerjee"/>
+    <date year="2014" month="May" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>TRILL</keyword>
+    <keyword>RBridge</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>reachability</keyword>
+    <keyword>overload</keyword>
+    <keyword>MTU</keyword>
+    <keyword>DEI</keyword>
+    <keyword>multicast</keyword>
+    <abstract>The IETF Transparent Interconnection of Lots of Links (TRILL) protocol provides least-cost pair-wise data forwarding without configuration in multi-hop networks with arbitrary topology and link technology, safe forwarding even during periods of temporary loops, and support for multipathing of both unicast and multicast traffic. TRILL accomplishes this by using Intermediate System to Intermediate System (IS-IS) link-state routing and by encapsulating traffic using a header that includes a hop count. Since publication of the TRILL base protocol in July 2011, active development of TRILL has revealed errata in RFC 6325 and some cases that could use clarifications or updates. RFCs 6327 and 6439 provide clarifications and updates with respect to adjacency and Appointed Forwarders. This document provides other known clarifications, corrections, and updates to RFCs 6325, 6327, and 6439.</abstract>
+  </front>
+</reference>

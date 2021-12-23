@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC6472" target="https://www.rfc-editor.org/info/rfc6472">
+  <front>
+    <title>Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6472"/>
+    <author fullname="W. Kumari"/>
+    <author fullname="K. Sriram"/>
+    <date year="2011" month="December" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>BGPv4</keyword>
+    <keyword>Operator</keyword>
+    <keyword>RPKI</keyword>
+    <keyword>Aggregation</keyword>
+    <keyword>Route Origin</keyword>
+    <abstract>This document recommends against the use of the AS_SET and AS_CONFED_SET types of the AS_PATH in BGPv4.  This is done to simplify the design and implementation of BGP and to make the semantics of the originator of a route more clear.  This will also simplify the design, implementation, and deployment of ongoing work in the Secure Inter-Domain Routing Working Group.  This memo documents an Internet Best Current Practice.</abstract>
+  </front>
+</reference>

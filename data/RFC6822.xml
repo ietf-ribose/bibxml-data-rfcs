@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6822" target="https://www.rfc-editor.org/info/rfc6822">
+  <front>
+    <title>IS-IS Multi-Instance</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6822"/>
+    <author fullname="S. Previdi"/>
+    <author fullname="L. Ginsberg"/>
+    <author fullname="M. Shand"/>
+    <author fullname="A. Roy"/>
+    <author fullname="D. Ward"/>
+    <date year="2012" month="December" day="1"/>
+    <workgroup>isis</workgroup>
+    <keyword>intermediate system to intermediate system</keyword>
+    <abstract>This document describes a mechanism that allows a single router to share one or more circuits among multiple Intermediate System to Intermediate System (IS-IS) routing protocol instances. Multiple instances allow the isolation of resources associated with each instance. Routers will form instance-specific adjacencies. Each instance can support multiple topologies. Each topology has a unique Link State Database (LSDB). Each Protocol Data Unit (PDU) will contain a new Type-Length-Value (TLV) identifying the instance and the topology (or topologies) to which the PDU belongs.</abstract>
+  </front>
+</reference>

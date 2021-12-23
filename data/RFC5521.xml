@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5521" target="https://www.rfc-editor.org/info/rfc5521">
+  <front>
+    <title>Extensions to the Path Computation Element Communication Protocol (PCEP) for Route Exclusions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5521"/>
+    <author fullname="E. Oki"/>
+    <author fullname="T. Takeda"/>
+    <author fullname="A. Farrel"/>
+    <date year="2009" month="April" day="1"/>
+    <workgroup>pce</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>GMPLS</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <keyword>Label Switched Path</keyword>
+    <abstract>The Path Computation Element (PCE) provides functions of path computation in support of traffic engineering (TE) in Multi-Protocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. When a Path Computation Client (PCC) requests a PCE for a route, it may be useful for the PCC to specify, as constraints to the path computation, abstract nodes, resources, and Shared Risk Link Groups (SRLGs) that are to be explicitly excluded from the computed route. Such constraints are termed "route exclusions". The PCE Communication Protocol (PCEP) is designed as a communication protocol between PCCs and PCEs. This document presents PCEP extensions for route exclusions. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

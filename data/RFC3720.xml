@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC3720" target="https://www.rfc-editor.org/info/rfc3720">
+  <front>
+    <title>Internet Small Computer Systems Interface (iSCSI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3720"/>
+    <author fullname="J. Satran"/>
+    <author fullname="K. Meth"/>
+    <author fullname="C. Sapuntzakis"/>
+    <author fullname="M. Chadalapaka"/>
+    <author fullname="E. Zeidner"/>
+    <date year="2004" month="April" day="1"/>
+    <workgroup>ips</workgroup>
+    <keyword>transport protocol</keyword>
+    <keyword>tcp</keyword>
+    <keyword>transmission control protocol</keyword>
+    <abstract>This document describes a transport protocol for Internet Small Computer Systems Interface (iSCSI) that works on top of TCP.  The iSCSI protocol aims to be fully compliant with the standardized SCSI architecture model.  SCSI is a popular family of protocols that enable systems to communicate with I/O devices, especially storage devices.  SCSI protocols are request/response application protocols with a common standardized architecture model and basic command set, as well as standardized command sets for different device classes (disks, tapes, media-changers etc.).  As system interconnects move from the classical bus structure to a network structure, SCSI has to be mapped to network transport protocols.  IP networks now meet the performance requirements of fast system interconnects and as such are good candidates to "carry" SCSI. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

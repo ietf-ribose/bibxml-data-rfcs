@@ -1,0 +1,10 @@
+<reference anchor="IETF.RFC3857" target="https://www.rfc-editor.org/info/rfc3857">
+  <front>
+    <title>A Watcher Information Event Template-Package for the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3857"/>
+    <author fullname="J. Rosenberg"/>
+    <date year="2004" month="August" day="1"/>
+    <workgroup>simple</workgroup>
+    <abstract>This document defines the watcher information template-package for the Session Initiation Protocol (SIP) event framework.  Watcher information refers to the set of users subscribed to a particular resource within a particular event package.  Watcher information changes dynamically as users subscribe, unsubscribe, are approved, or are rejected.  A user can subscribe to this information, and therefore learn about changes to it.  This event package is a template-package because it can be applied to any event package, including itself. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

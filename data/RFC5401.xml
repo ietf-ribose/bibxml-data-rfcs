@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC5401" target="https://www.rfc-editor.org/info/rfc5401">
+  <front>
+    <title>Multicast Negative-Acknowledgment (NACK) Building Blocks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5401"/>
+    <author fullname="B. Adamson"/>
+    <author fullname="C. Bormann"/>
+    <author fullname="M. Handley"/>
+    <author fullname="J. Macker"/>
+    <date year="2008" month="November" day="1"/>
+    <workgroup>rmt</workgroup>
+    <abstract>This document discusses the creation of reliable multicast protocols that utilize negative-acknowledgment (NACK) feedback.  The rationale for protocol design goals and assumptions are presented.  Technical challenges for NACK-based (and in some cases general) reliable multicast protocol operation are identified.  These goals and challenges are resolved into a set of functional "building blocks" that address different aspects of reliable multicast protocol operation.  It is anticipated that these building blocks will be useful in generating different instantiations of reliable multicast protocols.  This document obsoletes RFC 3941. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

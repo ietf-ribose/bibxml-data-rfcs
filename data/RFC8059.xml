@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8059" target="https://www.rfc-editor.org/info/rfc8059">
+  <front>
+    <title>PIM Join Attributes for Locator/ID Separation Protocol (LISP) Environments</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8059"/>
+    <author fullname="J. Arango"/>
+    <author fullname="S. Venaas"/>
+    <author fullname="I. Kouvelas"/>
+    <author fullname="D. Farinacci"/>
+    <date year="2017" month="January" day="1"/>
+    <workgroup>pim</workgroup>
+    <abstract>This document defines two PIM Join/Prune attributes that support the construction of multicast distribution trees where the root and receivers are located in different Locator/ID Separation Protocol (LISP) sites.  These attributes allow the receiver site to select between unicast and multicast underlying transport and to convey the RLOC (Routing Locator) address of the receiver ETR (Egress Tunnel Router) to the control plane of the root ITR (Ingress Tunnel Router).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC6325" target="https://www.rfc-editor.org/info/rfc6325">
+  <front>
+    <title>Routing Bridges (RBridges): Base Protocol Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6325"/>
+    <author fullname="R. Perlman"/>
+    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Dutt"/>
+    <author fullname="S. Gai"/>
+    <author fullname="A. Ghanwani"/>
+    <date year="2011" month="July" day="1"/>
+    <workgroup>trill</workgroup>
+    <keyword>TRILL</keyword>
+    <abstract>Routing Bridges (RBridges) provide optimal pair-wise forwarding without configuration, safe forwarding even during periods of temporary loops, and support for multipathing of both unicast and multicast traffic. They achieve these goals using IS-IS routing and encapsulation of traffic with a header that includes a hop count. RBridges are compatible with previous IEEE 802.1 customer bridges as well as IPv4 and IPv6 routers and end nodes. They are as invisible to current IP routers as bridges are and, like routers, they terminate the bridge spanning tree protocol. The design supports VLANs and the optimization of the distribution of multi-destination frames based on VLAN ID and based on IP-derived multicast groups. It also allows unicast forwarding tables at transit RBridges to be sized according to the number of RBridges (rather than the number of end nodes), which allows their forwarding tables to be substantially smaller than in conventional customer bridges. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

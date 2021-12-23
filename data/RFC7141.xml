@@ -1,0 +1,23 @@
+<reference anchor="IETF.RFC7141" target="https://www.rfc-editor.org/info/rfc7141">
+  <front>
+    <title>Byte and Packet Congestion Notification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7141"/>
+    <author fullname="B. Briscoe"/>
+    <author fullname="J. Manner"/>
+    <date year="2014" month="February" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>active queue management</keyword>
+    <keyword>aqm</keyword>
+    <keyword>availability</keyword>
+    <keyword>denial of service</keyword>
+    <keyword>dos</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>qos</keyword>
+    <keyword>congestion control</keyword>
+    <keyword>fairness</keyword>
+    <keyword>incentives</keyword>
+    <keyword>architecture layering</keyword>
+    <keyword>protocol</keyword>
+    <abstract>This document provides recommendations of best current practice for dropping or marking packets using any active queue management (AQM) algorithm, including Random Early Detection (RED), BLUE, Pre- Congestion Notification (PCN), and newer schemes such as CoDel (Controlled Delay) and PIE (Proportional Integral controller Enhanced).  We give three strong recommendations: (1) packet size should be taken into account when transports detect and respond to congestion indications, (2) packet size should not be taken into account when network equipment creates congestion signals (marking, dropping), and therefore (3) in the specific case of RED, the byte- mode packet drop variant that drops fewer small packets should not be used.  This memo updates RFC 2309 to deprecate deliberate preferential treatment of small packets in AQM algorithms.</abstract>
+  </front>
+</reference>

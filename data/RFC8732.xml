@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8732" target="https://www.rfc-editor.org/info/rfc8732">
+  <front>
+    <title>Generic Security Service Application Program Interface (GSS-API) Key Exchange with SHA-2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8732"/>
+    <author fullname="S. Sorce"/>
+    <author fullname="H. Kario"/>
+    <date year="2020" month="February" day="1"/>
+    <workgroup>curdle</workgroup>
+    <keyword>SSH</keyword>
+    <abstract>This document specifies additions and amendments to RFC 4462.  It defines a new key exchange method that uses SHA-2 for integrity and deprecates weak Diffie-Hellman (DH) groups.  The purpose of this specification is to modernize the cryptographic primitives used by Generic Security Service (GSS) key exchanges.</abstract>
+  </front>
+</reference>

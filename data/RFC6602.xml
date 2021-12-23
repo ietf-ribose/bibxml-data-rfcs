@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC6602" target="https://www.rfc-editor.org/info/rfc6602">
+  <front>
+    <title>Bulk Binding Update Support for Proxy Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6602"/>
+    <author fullname="F. Abinader"/>
+    <author fullname="S. Gundavelli"/>
+    <author fullname="K. Leung"/>
+    <author fullname="S. Krishnan"/>
+    <author fullname="D. Premec"/>
+    <date year="2012" month="May" day="1"/>
+    <workgroup>netext</workgroup>
+    <keyword>Proxy Mobile IPv6</keyword>
+    <keyword>PMIPv6</keyword>
+    <keyword>bulk registrations</keyword>
+    <keyword>MN group ID</keyword>
+    <abstract>For extending the lifetime of a mobility session, the Proxy Mobile IPv6 specification requires the mobile access gateway to send a Proxy Binding Update message to the local mobility anchor on a per-session basis.  In the absence of signaling semantics for performing operations with group-specific scope, this results in a significant amount of signaling traffic on a periodic basis between a given mobile access gateway and a local mobility anchor.  This document defines optimizations to the binding update and revocation operations in Proxy Mobile IPv6 for performing operations with group-specific scope with the use of a group identifier. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

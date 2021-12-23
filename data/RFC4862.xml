@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC4862" target="https://www.rfc-editor.org/info/rfc4862">
+  <front>
+    <title>IPv6 Stateless Address Autoconfiguration</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4862"/>
+    <author fullname="S. Thomson"/>
+    <author fullname="T. Narten"/>
+    <author fullname="T. Jinmei"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>ipv6</workgroup>
+    <keyword>IPV6-AUTO</keyword>
+    <keyword>host</keyword>
+    <keyword>link-local</keyword>
+    <keyword>internet protocol version 6</keyword>
+    <keyword>link-local address</keyword>
+    <keyword>duplicate address detection</keyword>
+    <abstract>This document specifies the steps a host takes in deciding how to autoconfigure its interfaces in IP version 6.  The autoconfiguration process includes generating a link-local address, generating global addresses via stateless address autoconfiguration, and the Duplicate Address Detection procedure to verify the uniqueness of the addresses on a link. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

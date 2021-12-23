@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5686" target="https://www.rfc-editor.org/info/rfc5686">
+  <front>
+    <title>RTP Payload Format for mU-law EMbedded Codec for Low-delay IP Communication (UEMCLIP) Speech Codec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5686"/>
+    <author fullname="Y. Hiwasaki"/>
+    <author fullname="H. Ohmuro"/>
+    <date year="2009" month="October" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>RTP Payload type</keyword>
+    <keyword>MIME</keyword>
+    <keyword>UEMCLIP</keyword>
+    <keyword>PCMU</keyword>
+    <keyword>Speech Coding</keyword>
+    <abstract>This document describes the RTP payload format of a mU-law EMbedded Coder for Low-delay IP communication (UEMCLIP), an enhanced speech codec of ITU-T G.711.  The bitstream has a scalable structure with an embedded u-law bitstream, also known as PCMU, thus providing a handy transcoding operation between narrowband and wideband speech. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

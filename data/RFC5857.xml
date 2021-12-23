@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5857" target="https://www.rfc-editor.org/info/rfc5857">
+  <front>
+    <title>IKEv2 Extensions to Support Robust Header Compression over IPsec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5857"/>
+    <author fullname="E. Ertekin"/>
+    <author fullname="C. Christou"/>
+    <author fullname="R. Jasani"/>
+    <author fullname="T. Kivinen"/>
+    <author fullname="C. Bormann"/>
+    <date year="2010" month="May" day="1"/>
+    <workgroup>rohc</workgroup>
+    <keyword>ROHC</keyword>
+    <keyword>ROHCoIPsec</keyword>
+    <abstract>In order to integrate Robust Header Compression (ROHC) with IPsec, a mechanism is needed to signal ROHC channel parameters between endpoints.  Internet Key Exchange (IKE) is a mechanism that can be leveraged to exchange these parameters.  This document specifies extensions to IKEv2 that will allow ROHC and its associated channel parameters to be signaled for IPsec Security Associations (SAs). [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

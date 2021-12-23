@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC6228" target="https://www.rfc-editor.org/info/rfc6228">
+  <front>
+    <title>Session Initiation Protocol (SIP) Response Code for Indication of Terminated Dialog</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6228"/>
+    <author fullname="C. Holmberg"/>
+    <date year="2011" month="May" day="1"/>
+    <workgroup>sipcore</workgroup>
+    <keyword>199</keyword>
+    <keyword>Early dialog</keyword>
+    <keyword>Forking</keyword>
+    <keyword>Provisional response</keyword>
+    <abstract>This specification defines a new Session Initiation Protocol (SIP) response code, 199 Early Dialog Terminated, that a SIP forking proxy and a User Agent Server (UAS) can use to indicate to upstream SIP entities (including the User Agent Client (UAC)) that an early dialog has been terminated, before a final response is sent towards the SIP entities. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

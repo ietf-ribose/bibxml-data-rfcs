@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC4476" target="https://www.rfc-editor.org/info/rfc4476">
+  <front>
+    <title>Attribute Certificate (AC) Policies Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4476"/>
+    <author fullname="C. Francis"/>
+    <author fullname="D. Pinkas"/>
+    <date year="2006" month="May" day="1"/>
+    <workgroup>pkix</workgroup>
+    <keyword>acp</keyword>
+    <keyword>attribute certificate policies</keyword>
+    <abstract>This document describes one certificate extension that explicitly states the Attribute Certificate Policies (ACPs) that apply to a given Attribute Certificate (AC).  The goal of this document is to allow relying parties to perform an additional test when validating an AC, i.e., to assess whether a given AC carrying some attributes can be accepted on the basis of references to one or more specific ACPs. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC3648" target="https://www.rfc-editor.org/info/rfc3648">
+  <front>
+    <title>Web Distributed Authoring and Versioning (WebDAV) Ordered Collections Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3648"/>
+    <author fullname="J. Whitehead"/>
+    <author fullname="J. Reschke"/>
+    <date year="2003" month="December" day="1"/>
+    <workgroup>webdav</workgroup>
+    <keyword>server client semantics</keyword>
+    <keyword>ordering</keyword>
+    <keyword>orderpatch method</keyword>
+    <keyword>position header</keyword>
+    <keyword>ordering-type header</keyword>
+    <abstract>This specification extends the Web Distributed Authoring and Versioning (WebDAV) Protocol to support the server-side ordering of collection members.  Of particular interest are orderings that are not based on property values, and so cannot be achieved using a search protocol's ordering option and cannot be maintained automatically by the server.  Protocol elements are defined to let clients specify the position in the ordering of each collection member, as well as the semantics governing the ordering.</abstract>
+  </front>
+</reference>

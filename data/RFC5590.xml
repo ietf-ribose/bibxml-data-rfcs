@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5590" target="https://www.rfc-editor.org/info/rfc5590">
+  <front>
+    <title>Transport Subsystem for the Simple Network Management Protocol (SNMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5590"/>
+    <author fullname="D. Harrington"/>
+    <author fullname="J. Schoenwaelder"/>
+    <date year="2009" month="June" day="1"/>
+    <workgroup>isms</workgroup>
+    <keyword>Network Management</keyword>
+    <keyword>Simple Network Management Protocol</keyword>
+    <keyword>SNMP</keyword>
+    <keyword>SNMP-TRANSPORT-MIB</keyword>
+    <abstract>This document defines a Transport Subsystem, extending the Simple Network Management Protocol (SNMP) architecture defined in RFC 3411.  This document defines a subsystem to contain Transport Models that is comparable to other subsystems in the RFC 3411 architecture.  As work is being done to expand the transports to include secure transports, such as the Secure Shell (SSH) Protocol and Transport Layer Security (TLS), using a subsystem will enable consistent design and modularity of such Transport Models.  This document identifies and describes some key aspects that need to be considered for any Transport Model for SNMP. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

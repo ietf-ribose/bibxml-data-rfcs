@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8460" target="https://www.rfc-editor.org/info/rfc8460">
+  <front>
+    <title>SMTP TLS Reporting</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8460"/>
+    <author fullname="D. Margolis"/>
+    <author fullname="A. Brotman"/>
+    <author fullname="B. Ramakrishnan"/>
+    <author fullname="J. Jones"/>
+    <author fullname="M. Risher"/>
+    <date year="2018" month="September" day="1"/>
+    <workgroup>uta</workgroup>
+    <keyword>DANE</keyword>
+    <keyword>MTA-STS</keyword>
+    <abstract>A number of protocols exist for establishing encrypted channels between SMTP Mail Transfer Agents (MTAs), including STARTTLS, DNS- Based Authentication of Named Entities (DANE) TLSA, and MTA Strict Transport Security (MTA-STS).  These protocols can fail due to misconfiguration or active attack, leading to undelivered messages or delivery over unencrypted or unauthenticated channels.  This document describes a reporting mechanism and format by which sending systems can share statistics and specific information about potential failures with recipient domains.  Recipient domains can then use this information to both detect potential attacks and diagnose unintentional misconfigurations.</abstract>
+  </front>
+</reference>

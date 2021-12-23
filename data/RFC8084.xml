@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8084" target="https://www.rfc-editor.org/info/rfc8084">
+  <front>
+    <title>Network Transport Circuit Breakers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8084"/>
+    <author fullname="G. Fairhurst"/>
+    <date year="2017" month="March" day="1"/>
+    <workgroup>tsvwg</workgroup>
+    <keyword>Congestion control</keyword>
+    <keyword>CC</keyword>
+    <keyword>UDP</keyword>
+    <keyword>Tunnel</keyword>
+    <keyword>Encapsulation</keyword>
+    <keyword>Transport Protocol</keyword>
+    <keyword>Congestion Control</keyword>
+    <abstract>This document explains what is meant by the term "network transport Circuit Breaker".  It describes the need for Circuit Breakers (CBs) for network tunnels and applications when using non-congestion- controlled traffic and explains where CBs are, and are not, needed.  It also defines requirements for building a CB and the expected outcomes of using a CB within the Internet.</abstract>
+  </front>
+</reference>

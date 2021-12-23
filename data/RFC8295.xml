@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC8295" target="https://www.rfc-editor.org/info/rfc8295">
+  <front>
+    <title>EST (Enrollment over Secure Transport) Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8295"/>
+    <author fullname="S. Turner"/>
+    <date year="2018" month="January" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>Firmware</keyword>
+    <keyword>TAMP</keyword>
+    <keyword>Asymmetric Keys</keyword>
+    <keyword>Symmetric Keys</keyword>
+    <keyword>Product Availability List</keyword>
+    <abstract>The EST (Enrollment over Secure Transport) protocol defines the Well-Known URI (Uniform Resource Identifier) -- /.well-known/est -- along with a number of other path components that clients use for PKI (Public Key Infrastructure) services, namely certificate enrollment (e.g., /simpleenroll).  This document defines a number of other PKI services as additional path components -- specifically, firmware and trust anchors as well as symmetric, asymmetric, and encrypted keys.  This document also specifies the PAL (Package Availability List), which is an XML (Extensible Markup Language) file or JSON (JavaScript Object Notation) object that clients use to retrieve packages available and authorized for them.  This document extends the EST server path components to provide these additional services.</abstract>
+  </front>
+</reference>

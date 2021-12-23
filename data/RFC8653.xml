@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC8653" target="https://www.rfc-editor.org/info/rfc8653">
+  <front>
+    <title>On-Demand Mobility Management</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8653"/>
+    <author fullname="A. Yegin"/>
+    <author fullname="D. Moses"/>
+    <author fullname="S. Jeon"/>
+    <date year="2019" month="October" day="1"/>
+    <workgroup>dmm</workgroup>
+    <abstract>Applications differ with respect to whether they need session continuity and/or IP address reachability.  The network providing the same type of service to any mobile host and any application running on the host yields inefficiencies, as described in RFC 7333.  This document defines a new concept of enabling applications to influence the network's mobility services (session continuity and/or IP address reachability) on a per-socket basis, and suggests extensions to the networking stack's API to accommodate this concept.</abstract>
+  </front>
+</reference>

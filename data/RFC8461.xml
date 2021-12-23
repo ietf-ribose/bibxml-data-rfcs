@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC8461" target="https://www.rfc-editor.org/info/rfc8461">
+  <front>
+    <title>SMTP MTA Strict Transport Security (MTA-STS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8461"/>
+    <author fullname="D. Margolis"/>
+    <author fullname="M. Risher"/>
+    <author fullname="B. Ramakrishnan"/>
+    <author fullname="A. Brotman"/>
+    <author fullname="J. Jones"/>
+    <date year="2018" month="September" day="1"/>
+    <workgroup>uta</workgroup>
+    <keyword>SMTP STARTTLS</keyword>
+    <keyword>Mail Security</keyword>
+    <abstract>SMTP MTA Strict Transport Security (MTA-STS) is a mechanism enabling mail service providers (SPs) to declare their ability to receive Transport Layer Security (TLS) secure SMTP connections and to specify whether sending SMTP servers should refuse to deliver to MX hosts that do not offer TLS with a trusted server certificate.</abstract>
+  </front>
+</reference>

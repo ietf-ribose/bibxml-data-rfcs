@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4297" target="https://www.rfc-editor.org/info/rfc4297">
+  <front>
+    <title>Remote Direct Memory Access (RDMA) over IP Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4297"/>
+    <author fullname="A. Romanow"/>
+    <author fullname="J. Mogul"/>
+    <author fullname="T. Talpey"/>
+    <author fullname="S. Bailey"/>
+    <date year="2005" month="December" day="1"/>
+    <workgroup>rddp</workgroup>
+    <keyword>overhead</keyword>
+    <keyword>copy avoidance</keyword>
+    <abstract>Overhead due to the movement of user data in the end-system network I/O processing path at high speeds is significant, and has limited the use of Internet protocols in interconnection networks, and the Internet itself -- especially where high bandwidth, low latency, and/or low overhead are required by the hosted application. This document examines this overhead, and addresses an architectural, IP-based "copy avoidance" solution for its elimination, by enabling Remote Direct Memory Access (RDMA). This memo provides information for the Internet community.</abstract>
+  </front>
+</reference>

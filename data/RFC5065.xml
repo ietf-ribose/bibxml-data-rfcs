@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5065" target="https://www.rfc-editor.org/info/rfc5065">
+  <front>
+    <title>Autonomous System Confederations for BGP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5065"/>
+    <author fullname="P. Traina"/>
+    <author fullname="D. McPherson"/>
+    <author fullname="J. Scudder"/>
+    <date year="2007" month="August" day="1"/>
+    <workgroup>idr</workgroup>
+    <keyword>border gateway protocol</keyword>
+    <keyword>tcp/ip</keyword>
+    <keyword>full mesh</keyword>
+    <abstract>The Border Gateway Protocol (BGP) is an inter-autonomous system routing protocol designed for Transmission Control Protocol/Internet Protocol (TCP/IP) networks. BGP requires that all BGP speakers within a single autonomous system (AS) must be fully meshed. This represents a serious scaling problem that has been well documented in a number of proposals. This document describes an extension to BGP that may be used to create a confederation of autonomous systems that is represented as a single autonomous system to BGP peers external to the confederation, thereby removing the "full mesh" requirement. The intention of this extension is to aid in policy administration and reduce the management complexity of maintaining a large autonomous system. This document obsoletes RFC 3065. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

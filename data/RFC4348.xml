@@ -1,0 +1,12 @@
+<reference anchor="IETF.RFC4348" target="https://www.rfc-editor.org/info/rfc4348">
+  <front>
+    <title>Real-Time Transport Protocol (RTP) Payload Format for the Variable-Rate Multimode Wideband (VMR-WB) Audio Codec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4348"/>
+    <author fullname="S. Ahmadi"/>
+    <date year="2006" month="January" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>speech codec</keyword>
+    <keyword>variable-rate multicode wideband speech codec</keyword>
+    <abstract>This document specifies a real-time transport protocol (RTP) payload format to be used for the Variable-Rate Multimode Wideband (VMR-WB) speech codec. The payload format is designed to be able to interoperate with existing VMR-WB transport formats on non-IP networks. A media type registration is included for VMR-WB RTP payload format. VMR-WB is a variable-rate multimode wideband speech codec that has a number of operating modes, one of which is interoperable with AMR-WB (i.e., RFC 3267) audio codec at certain rates. Therefore, provisions have been made in this document to facilitate and simplify data packet exchange between VMR-WB and AMR-WB in the interoperable mode with no transcoding function involved. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

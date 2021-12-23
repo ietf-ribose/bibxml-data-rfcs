@@ -1,0 +1,20 @@
+<reference anchor="IETF.RFC7254" target="https://www.rfc-editor.org/info/rfc7254">
+  <front>
+    <title>A Uniform Resource Name Namespace for the Global System for Mobile Communications Association (GSMA) and the International Mobile station Equipment Identity (IMEI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7254"/>
+    <author fullname="M. Montemurro"/>
+    <author fullname="A. Allen"/>
+    <author fullname="D. McDonald"/>
+    <author fullname="P. Gosden"/>
+    <date year="2014" month="May" day="1"/>
+    <workgroup>NON WORKING GROUP</workgroup>
+    <keyword>GSM</keyword>
+    <keyword>UMTS</keyword>
+    <keyword>LTE</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>Mobile</keyword>
+    <keyword>identifier</keyword>
+    <keyword>instance ID</keyword>
+    <abstract>This specification defines a Uniform Resource Name (URN) namespace for the Global System for Mobile Communications Association (GSMA) and a Namespace Specific String (NSS) for the International Mobile station Equipment Identity (IMEI), as well as an associated parameter for the International Mobile station Equipment Identity and Software Version number (IMEISV).  The IMEI and IMEISV were introduced as part of the specification for the GSM and are also now incorporated by the 3rd Generation Partnership Project (3GPP) as part of the 3GPP specification for GSM, Universal Mobile Telecommunications System (UMTS), and 3GPP Long Term Evolution (LTE) networks.  The IMEI and IMEISV are used to uniquely identify Mobile Equipment within these systems and are managed by the GSMA.  URNs from this namespace almost always contain personally identifiable information and need to be treated accordingly.</abstract>
+  </front>
+</reference>

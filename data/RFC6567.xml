@@ -1,0 +1,11 @@
+<reference anchor="IETF.RFC6567" target="https://www.rfc-editor.org/info/rfc6567">
+  <front>
+    <title>Problem Statement and Requirements for Transporting User-to-User Call Control Information in SIP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6567"/>
+    <author fullname="A. Johnston"/>
+    <author fullname="L. Liess"/>
+    <date year="2012" month="April" day="1"/>
+    <workgroup>cuss</workgroup>
+    <abstract>This document introduces the transport of call control User-to-User Information (UUI) using the Session Initiation Protocol (SIP) and develops several requirements for a new SIP mechanism.  Some SIP sessions are established by or related to a non-SIP application.  This application may have information that needs to be transported between the SIP User Agents during session establishment.  In addition to interworking with the Integrated Services Digital Network (ISDN) UUI Service, this extension will also be used for native SIP endpoints requiring application UUI.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

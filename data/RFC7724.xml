@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC7724" target="https://www.rfc-editor.org/info/rfc7724">
+  <front>
+    <title>Active DHCPv4 Lease Query</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7724"/>
+    <author fullname="K. Kinnear"/>
+    <author fullname="M. Stapp"/>
+    <author fullname="B. Volz"/>
+    <author fullname="N. Russell"/>
+    <date year="2015" month="December" day="1"/>
+    <workgroup>dhc</workgroup>
+    <abstract>The Dynamic Host Configuration Protocol for IPv4 (DHCPv4) has been extended with a Leasequery capability that allows a requestor to request information about DHCPv4 bindings (RFC 4388).  That mechanism is limited to queries for individual bindings.  In some situations, individual binding queries may not be efficient, or even possible.  In addition, continuous update of an external requestor with Leasequery data is sometimes desired.  This document expands on the DHCPv4 Leasequery protocol, and allows for active transfer of near real-time DHCPv4 binding information data via TCP.  This document updates RFC 6926, "DHCPv4 Bulk Leasequery".</abstract>
+  </front>
+</reference>

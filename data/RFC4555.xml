@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC4555" target="https://www.rfc-editor.org/info/rfc4555">
+  <front>
+    <title>IKEv2 Mobility and Multihoming Protocol (MOBIKE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4555"/>
+    <author fullname="P. Eronen"/>
+    <date year="2006" month="June" day="1"/>
+    <workgroup>mobike</workgroup>
+    <keyword>internet key exchange</keyword>
+    <keyword>ipsec</keyword>
+    <keyword>internet protocol security</keyword>
+    <keyword>vpn</keyword>
+    <keyword>virtual private networks</keyword>
+    <abstract>This document describes the MOBIKE protocol, a mobility and multihoming extension to Internet Key Exchange (IKEv2).  MOBIKE allows the IP addresses associated with IKEv2 and tunnel mode IPsec Security Associations to change.  A mobile Virtual Private Network (VPN) client could use MOBIKE to keep the connection with the VPN gateway active while moving from one address to another.  Similarly, a multihomed host could use MOBIKE to move the traffic to a different interface if, for instance, the one currently being used stops working. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

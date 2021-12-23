@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8403" target="https://www.rfc-editor.org/info/rfc8403">
+  <front>
+    <title>A Scalable and Topology-Aware MPLS Data-Plane Monitoring System</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8403"/>
+    <author fullname="R. Geib"/>
+    <author fullname="C. Filsfils"/>
+    <author fullname="C. Pignataro"/>
+    <author fullname="N. Kumar"/>
+    <date year="2018" month="July" day="1"/>
+    <workgroup>spring</workgroup>
+    <keyword>Segment based Routing</keyword>
+    <keyword>OAM</keyword>
+    <keyword>LSP surveillance</keyword>
+    <keyword>MPLS monitoring</keyword>
+    <abstract>This document describes features of an MPLS path monitoring system and related use cases.  Segment-based routing enables a scalable and simple method to monitor data-plane liveliness of the complete set of paths belonging to a single domain.  The MPLS monitoring system adds features to the traditional MPLS ping and Label Switched Path (LSP) trace, in a very complementary way.  MPLS topology awareness reduces management and control-plane involvement of Operations, Administration, and Maintenance (OAM) measurements while enabling new OAM features.</abstract>
+  </front>
+</reference>

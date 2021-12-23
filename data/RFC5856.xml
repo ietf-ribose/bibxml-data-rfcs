@@ -1,0 +1,15 @@
+<reference anchor="IETF.RFC5856" target="https://www.rfc-editor.org/info/rfc5856">
+  <front>
+    <title>Integration of Robust Header Compression over IPsec Security Associations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5856"/>
+    <author fullname="E. Ertekin"/>
+    <author fullname="R. Jasani"/>
+    <author fullname="C. Christou"/>
+    <author fullname="C. Bormann"/>
+    <date year="2010" month="May" day="1"/>
+    <workgroup>rohc</workgroup>
+    <keyword>ROHC</keyword>
+    <keyword>ROHCoIPsec</keyword>
+    <abstract>IP Security (IPsec) provides various security services for IP traffic.  However, the benefits of IPsec come at the cost of increased overhead.  This document outlines a framework for integrating Robust Header Compression (ROHC) over IPsec (ROHCoIPsec).  By compressing the inner headers of IP packets, ROHCoIPsec proposes to reduce the amount of overhead associated with the transmission of traffic over IPsec Security Associations (SAs).  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+  </front>
+</reference>

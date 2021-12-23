@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8378" target="https://www.rfc-editor.org/info/rfc8378">
+  <front>
+    <title>Signal-Free Locator/ID Separation Protocol (LISP) Multicast</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8378"/>
+    <author fullname="V. Moreno"/>
+    <author fullname="D. Farinacci"/>
+    <date year="2018" month="May" day="1"/>
+    <workgroup>lisp</workgroup>
+    <keyword>LISP</keyword>
+    <keyword>deployment</keyword>
+    <abstract>When multicast sources and receivers are active at Locator/ID Separation Protocol (LISP) sites, the core network is required to use native multicast so packets can be delivered from sources to group members.  When multicast is not available to connect the multicast sites together, a signal-free mechanism can be used to allow traffic to flow between sites.  The mechanism described in this document uses unicast replication and encapsulation over the core network for the data plane and uses the LISP mapping database system so encapsulators at the source LISP multicast site can find decapsulators at the receiver LISP multicast sites.</abstract>
+  </front>
+</reference>

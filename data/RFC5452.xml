@@ -1,0 +1,14 @@
+<reference anchor="IETF.RFC5452" target="https://www.rfc-editor.org/info/rfc5452">
+  <front>
+    <title>Measures for Making DNS More Resilient against Forged Answers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5452"/>
+    <author fullname="A. Hubert"/>
+    <author fullname="R. van Mook"/>
+    <date year="2009" month="January" day="1"/>
+    <workgroup>dnsext</workgroup>
+    <keyword>spoofing</keyword>
+    <keyword>source port</keyword>
+    <keyword>hardening</keyword>
+    <abstract>The current Internet climate poses serious threats to the Domain Name System. In the interim period before the DNS protocol can be secured more fully, measures can already be taken to harden the DNS to make 'spoofing' a recursing nameserver many orders of magnitude harder. Even a cryptographically secured DNS benefits from having the ability to discard bogus responses quickly, as this potentially saves large amounts of computation. By describing certain behavior that has previously not been standardized, this document sets out how to make the DNS more resilient against accepting incorrect responses. This document updates RFC 2181. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

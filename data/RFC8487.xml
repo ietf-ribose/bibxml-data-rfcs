@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8487" target="https://www.rfc-editor.org/info/rfc8487">
+  <front>
+    <title>Mtrace Version 2: Traceroute Facility for IP Multicast</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8487"/>
+    <author fullname="H. Asaeda"/>
+    <author fullname="K. Meyer"/>
+    <author fullname="W. Lee"/>
+    <date year="2018" month="October" day="1"/>
+    <workgroup>mboned</workgroup>
+    <keyword>multicast</keyword>
+    <keyword>mtrace</keyword>
+    <keyword>mtrace2</keyword>
+    <keyword>traceroute</keyword>
+    <keyword>PIM</keyword>
+    <abstract>This document describes the IP multicast traceroute facility, named Mtrace version 2 (Mtrace2).  Unlike unicast traceroute, Mtrace2 requires special implementations on the part of routers.  This specification describes the required functionality in multicast routers, as well as how an Mtrace2 client invokes a Query and receives a Reply.</abstract>
+  </front>
+</reference>

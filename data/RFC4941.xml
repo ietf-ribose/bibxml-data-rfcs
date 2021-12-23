@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4941" target="https://www.rfc-editor.org/info/rfc4941">
+  <front>
+    <title>Privacy Extensions for Stateless Address Autoconfiguration in IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4941"/>
+    <author fullname="T. Narten"/>
+    <author fullname="R. Draves"/>
+    <author fullname="S. Krishnan"/>
+    <date year="2007" month="September" day="1"/>
+    <workgroup>ipv6</workgroup>
+    <keyword>privacy</keyword>
+    <keyword>anonymity</keyword>
+    <keyword>unlinkability</keyword>
+    <keyword>crypto-based address changing</keyword>
+    <abstract>Nodes use IPv6 stateless address autoconfiguration to generate addresses using a combination of locally available information and information advertised by routers.  Addresses are formed by combining network prefixes with an interface identifier.  On an interface that contains an embedded IEEE Identifier, the interface identifier is typically derived from it.  On other interface types, the interface identifier is generated through other means, for example, via random number generation.  This document describes an extension to IPv6 stateless address autoconfiguration for interfaces whose interface identifier is derived from an IEEE identifier.  Use of the extension causes nodes to generate global scope addresses from interface identifiers that change over time, even in cases where the interface contains an embedded IEEE identifier.  Changing the interface identifier (and the global scope addresses generated from it) over time makes it more difficult for eavesdroppers and other information collectors to identify when different addresses used in different transactions actually correspond to the same node. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

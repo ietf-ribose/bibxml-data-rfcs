@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC7916" target="https://www.rfc-editor.org/info/rfc7916">
+  <front>
+    <title>Operational Management of Loop-Free Alternates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7916"/>
+    <author fullname="S. Litkowski"/>
+    <author fullname="B. Decraene"/>
+    <author fullname="C. Filsfils"/>
+    <author fullname="K. Raza"/>
+    <author fullname="M. Horneffer"/>
+    <author fullname="P. Sarkar"/>
+    <date year="2016" month="July" day="1"/>
+    <workgroup>rtgwg</workgroup>
+    <keyword>IGP</keyword>
+    <keyword>LFA</keyword>
+    <keyword>policy</keyword>
+    <keyword>FRR</keyword>
+    <keyword>fast reroute</keyword>
+    <keyword>network planning</keyword>
+    <abstract>Loop-Free Alternates (LFAs), as defined in RFC 5286, constitute an IP Fast Reroute (IP FRR) mechanism enabling traffic protection for IP traffic (and, by extension, MPLS LDP traffic). Following early deployment experiences, this document provides operational feedback on LFAs, highlights some limitations, and proposes a set of refinements to address those limitations. It also proposes required management specifications. This proposal is also applicable to remote-LFA solutions.</abstract>
+  </front>
+</reference>

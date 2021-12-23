@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4103" target="https://www.rfc-editor.org/info/rfc4103">
+  <front>
+    <title>RTP Payload for Text Conversation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4103"/>
+    <author fullname="G. Hellstrom"/>
+    <author fullname="P. Jones"/>
+    <date year="2005" month="June" day="1"/>
+    <workgroup>avt</workgroup>
+    <keyword>real-time</keyword>
+    <keyword>applications</keyword>
+    <keyword>video</keyword>
+    <keyword>audio</keyword>
+    <keyword>packets</keyword>
+    <abstract>This memo obsoletes RFC 2793; it describes how to carry real-time text conversation session contents in RTP packets. Text conversation session contents are specified in ITU-T Recommendation T.140. One payload format is described for transmitting text on a separate RTP session dedicated for the transmission of text. This RTP payload description recommends a method to include redundant text from already transmitted packets in order to reduce the risk of text loss caused by packet loss. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

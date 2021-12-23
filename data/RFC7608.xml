@@ -1,0 +1,21 @@
+<reference anchor="IETF.RFC7608" target="https://www.rfc-editor.org/info/rfc7608">
+  <front>
+    <title>IPv6 Prefix Length Recommendation for Forwarding</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7608"/>
+    <author fullname="M. Boucadair"/>
+    <author fullname="A. Petrescu"/>
+    <author fullname="F. Baker"/>
+    <date year="2015" month="July" day="1"/>
+    <workgroup>v6ops</workgroup>
+    <keyword>IPv6 Routing</keyword>
+    <keyword>CIDR</keyword>
+    <keyword>Classless Inter-Domain Routing</keyword>
+    <keyword>IPv6 Addressing Architecture</keyword>
+    <keyword>IPv6 Forwarding Information Base</keyword>
+    <keyword>IPv6 Routing Information Base</keyword>
+    <keyword>FIB</keyword>
+    <keyword>RIB</keyword>
+    <keyword>IPv6 Deployment</keyword>
+    <abstract>IPv6 prefix length, as in IPv4, is a parameter conveyed and used in IPv6 routing and forwarding processes in accordance with the Classless Inter-domain Routing (CIDR) architecture.  The length of an IPv6 prefix may be any number from zero to 128, although subnets using stateless address autoconfiguration (SLAAC) for address allocation conventionally use a /64 prefix.  Hardware and software implementations of routing and forwarding should therefore impose no rules on prefix length, but implement longest-match-first on prefixes of any valid length.</abstract>
+  </front>
+</reference>

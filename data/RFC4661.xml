@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC4661" target="https://www.rfc-editor.org/info/rfc4661">
+  <front>
+    <title>An Extensible Markup Language (XML)-Based Format for Event Notification Filtering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4661"/>
+    <author fullname="H. Khartabil"/>
+    <author fullname="E. Leppanen"/>
+    <author fullname="M. Lonnfors"/>
+    <author fullname="J. Costa-Requena"/>
+    <date year="2006" month="September" day="1"/>
+    <workgroup>simple</workgroup>
+    <keyword>event state subscription</keyword>
+    <keyword>presence</keyword>
+    <keyword>filter criteria</keyword>
+    <abstract>The SIP event notification framework describes the usage of the Session Initiation Protocol (SIP) for subscriptions and notifications of changes to a state of a resource.  The document does not describe a mechanism whereby filtering of event notification information can be achieved.  Filtering is a mechanism for defining the preferred notification information to be delivered and for specifying triggers that cause that information to be delivered.  In order to enable this, a format is needed to enable the subscriber to describe the state changes of a resource that cause notifications to be sent to it and what those notifications are to contain.  This document presents a format in the form of an XML document. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

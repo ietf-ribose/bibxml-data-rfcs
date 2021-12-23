@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8889" target="https://www.rfc-editor.org/info/rfc8889">
+  <front>
+    <title>Multipoint Alternate-Marking Method for Passive and Hybrid Performance Monitoring</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8889"/>
+    <author fullname="G. Fioccola"/>
+    <author fullname="M. Cociglio"/>
+    <author fullname="A. Sapio"/>
+    <author fullname="R. Sisto"/>
+    <date year="2020" month="August" day="1"/>
+    <workgroup>ippm</workgroup>
+    <keyword>Clustered Alternate Marking</keyword>
+    <keyword>Multipoint Marking Method</keyword>
+    <keyword>Multipoint Coloring Technique</keyword>
+    <keyword>Network Clustering</keyword>
+    <abstract>The Alternate-Marking method, as presented in RFC 8321, can only be applied to point-to-point flows, because it assumes that all the packets of the flow measured on one node are measured again by a single second node.  This document generalizes and expands this methodology to measure any kind of unicast flow whose packets can follow several different paths in the network -- in wider terms, a multipoint-to-multipoint network.  For this reason, the technique here described is called "Multipoint Alternate Marking".</abstract>
+  </front>
+</reference>

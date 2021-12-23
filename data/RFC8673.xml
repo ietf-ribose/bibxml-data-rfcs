@@ -1,0 +1,17 @@
+<reference anchor="IETF.RFC8673" target="https://www.rfc-editor.org/info/rfc8673">
+  <front>
+    <title>HTTP Random Access and Live Content</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8673"/>
+    <author fullname="C. Pratt"/>
+    <author fullname="D. Thakore"/>
+    <author fullname="B. Stark"/>
+    <date year="2019" month="November" day="1"/>
+    <workgroup>httpbis</workgroup>
+    <keyword>http</keyword>
+    <keyword>range</keyword>
+    <keyword>unit</keyword>
+    <keyword>live</keyword>
+    <keyword>aggregation</keyword>
+    <abstract>To accommodate byte-range requests for content that has data appended over time, this document defines semantics that allow an HTTP client and a server to perform byte-range GET and HEAD requests that start at an arbitrary byte offset within the representation and end at an indeterminate offset.</abstract>
+  </front>
+</reference>

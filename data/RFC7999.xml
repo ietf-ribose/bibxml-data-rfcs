@@ -1,0 +1,18 @@
+<reference anchor="IETF.RFC7999" target="https://www.rfc-editor.org/info/rfc7999">
+  <front>
+    <title>BLACKHOLE Community</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7999"/>
+    <author fullname="T. King"/>
+    <author fullname="C. Dietzel"/>
+    <author fullname="J. Snijders"/>
+    <author fullname="G. Doering"/>
+    <author fullname="G. Hankins"/>
+    <date year="2016" month="October" day="1"/>
+    <workgroup>grow</workgroup>
+    <keyword>well-known</keyword>
+    <keyword>well known</keyword>
+    <keyword>RTBH</keyword>
+    <keyword>Remotely Triggered Blackholing</keyword>
+    <abstract>This document describes the use of a well-known Border Gateway Protocol (BGP) community for destination-based blackholing in IP networks.  This well-known advisory transitive BGP community named "BLACKHOLE" allows an origin Autonomous System (AS) to specify that a neighboring network should discard any traffic destined towards the tagged IP prefix.</abstract>
+  </front>
+</reference>

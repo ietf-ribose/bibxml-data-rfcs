@@ -1,0 +1,16 @@
+<reference anchor="IETF.RFC5357" target="https://www.rfc-editor.org/info/rfc5357">
+  <front>
+    <title>A Two-Way Active Measurement Protocol (TWAMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5357"/>
+    <author fullname="K. Hedayat"/>
+    <author fullname="R. Krzanowski"/>
+    <author fullname="A. Morton"/>
+    <author fullname="K. Yum"/>
+    <author fullname="J. Babiarz"/>
+    <date year="2008" month="October" day="1"/>
+    <workgroup>ippm</workgroup>
+    <keyword>two-way measaurement</keyword>
+    <keyword>round-trip measurement</keyword>
+    <abstract>The One-way Active Measurement Protocol (OWAMP), specified in RFC 4656, provides a common protocol for measuring one-way metrics between network devices.  OWAMP can be used bi-directionally to measure one-way metrics in both directions between two network elements.  However, it does not accommodate round-trip or two-way measurements.  This memo specifies a Two-Way Active Measurement Protocol (TWAMP), based on the OWAMP, that adds two-way or round-trip measurement capabilities.  The TWAMP measurement architecture is usually comprised of two hosts with specific roles, and this allows for some protocol simplifications, making it an attractive alternative in some circumstances. [STANDARDS-TRACK]</abstract>
+  </front>
+</reference>

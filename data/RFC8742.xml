@@ -1,0 +1,13 @@
+<reference anchor="IETF.RFC8742" target="https://www.rfc-editor.org/info/rfc8742">
+  <front>
+    <title>Concise Binary Object Representation (CBOR) Sequences</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8742"/>
+    <author fullname="C. Bormann"/>
+    <date year="2020" month="February" day="1"/>
+    <workgroup>cbor</workgroup>
+    <keyword>binary format</keyword>
+    <keyword>data interchange format</keyword>
+    <keyword>JSON</keyword>
+    <abstract>This document describes the Concise Binary Object Representation (CBOR) Sequence format and associated media type "application/cbor-seq". A CBOR Sequence consists of any number of encoded CBOR data items, simply concatenated in sequence. Structured syntax suffixes for media types allow other media types to build on them and make it explicit that they are built on an existing media type as their foundation. This specification defines and registers "+cbor-seq" as a structured syntax suffix for CBOR Sequences.</abstract>
+  </front>
+</reference>
