@@ -6,7 +6,7 @@
     <author fullname="M. Bhatia"/>
     <author fullname="J. Jaeggli"/>
     <author fullname="R. White"/>
-    <date year="2010" month="October" day="1"/>
+    <date year="2010" month="October"/>
     <workgroup>opsec</workgroup>
     <abstract>Routing protocols have been extended over time to use cryptographic mechanisms to ensure that data received from a neighboring router has not been modified in transit and actually originated from an authorized neighboring router. The cryptographic mechanisms defined to date and described in this document rely on a digest produced with a hash algorithm applied to the payload encapsulated in the routing protocol packet. This document outlines some of the limitations of the current mechanism, problems with manual keying of these cryptographic algorithms, and possible vectors for the exploitation of these limitations. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
   </front>

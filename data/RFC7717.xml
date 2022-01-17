@@ -5,7 +5,7 @@
     <author fullname="K. Pentikousis"/>
     <author fullname="E. Zhang"/>
     <author fullname="Y. Cui"/>
-    <date year="2015" month="December" day="1"/>
+    <date year="2015" month="December"/>
     <workgroup>ippm</workgroup>
     <abstract>The One-Way Active Measurement Protocol (OWAMP) and Two-Way Active Measurement Protocol (TWAMP) security mechanisms require that both the client and server endpoints possess a shared secret.  This document describes the use of keys derived from an IKEv2 security association (SA) as the shared key in OWAMP or TWAMP.  If the shared key can be derived from the IKEv2 SA, OWAMP or TWAMP can support certificate-based key exchange; this would allow for more operational flexibility and efficiency.  The key derivation presented in this document can also facilitate automatic key management.</abstract>
   </front>

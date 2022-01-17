@@ -6,7 +6,7 @@
     <author fullname="D. Wierbowski"/>
     <author fullname="F. Detienne"/>
     <author fullname="P. Sethi"/>
-    <date year="2011" month="June" day="1"/>
+    <date year="2011" month="June"/>
     <workgroup>ipsecme</workgroup>
     <keyword>QCD</keyword>
     <abstract>This document describes an extension to the Internet Key Exchange Protocol version 2 (IKEv2) that allows for faster detection of Security Association (SA) desynchronization using a saved token. When an IPsec tunnel between two IKEv2 peers is disconnected due to a restart of one peer, it can take as much as several minutes for the other peer to discover that the reboot has occurred, thus delaying recovery. In this text, we propose an extension to the protocol that allows for recovery immediately following the restart. [STANDARDS-TRACK]</abstract>

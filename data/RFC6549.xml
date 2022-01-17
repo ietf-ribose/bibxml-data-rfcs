@@ -5,7 +5,7 @@
     <author fullname="A. Lindem"/>
     <author fullname="A. Roy"/>
     <author fullname="S. Mirtorabi"/>
-    <date year="2012" month="March" day="1"/>
+    <date year="2012" month="March"/>
     <workgroup>ospf</workgroup>
     <keyword>Instance ID</keyword>
     <abstract>OSPFv3 includes a mechanism to support multiple instances of the protocol running on the same interface. OSPFv2 can utilize such a mechanism in order to support multiple routing domains on the same subnet. This document defines the OSPFv2 Instance ID to enable separate OSPFv2 protocol instances on the same interface. Unlike OSPFv3 where the Instance ID can be used for multiple purposes, such as putting the same interface in multiple areas, the OSPFv2 Instance ID is reserved for identifying protocol instances. This document updates RFC 2328. [STANDARDS-TRACK]</abstract>

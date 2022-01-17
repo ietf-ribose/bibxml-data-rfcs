@@ -5,7 +5,7 @@
     <author fullname="L. Ginsberg"/>
     <author fullname="S. Previdi"/>
     <author fullname="W. Henderickx"/>
-    <date year="2017" month="June" day="1"/>
+    <date year="2017" month="June"/>
     <workgroup>isis</workgroup>
     <abstract>This document describes a mechanism that allows a single router to share one or more circuits among multiple Intermediate System to Intermediate System (IS-IS) routing protocol instances. Multiple instances allow the isolation of resources associated with each instance. Routers will form instance-specific adjacencies. Each instance can support multiple topologies. Each topology has a unique Link State Database (LSDB). Each Protocol Data Unit (PDU) will contain a new Type-Length-Value (TLV) identifying the instance and the topology (or topologies) to which the PDU belongs. This document obsoletes RFC 6822.</abstract>
   </front>

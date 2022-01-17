@@ -3,7 +3,7 @@
     <title>Issues and Requirements for Server Name Identification (SNI) Encryption in TLS</title>
     <seriesInfo name="DOI" value="10.17487/RFC8744"/>
     <author fullname="C. Huitema"/>
-    <date year="2020" month="July" day="1"/>
+    <date year="2020" month="July"/>
     <workgroup>tls</workgroup>
     <abstract>This document describes the general problem of encrypting the Server Name Identification (SNI) TLS parameter. The proposed solutions hide a hidden service behind a fronting service, only disclosing the SNI of the fronting service to external observers. This document lists known attacks against SNI encryption, discusses the current "HTTP co-tenancy" solution, and presents requirements for future TLS-layer solutions. In practice, it may well be that no solution can meet every requirement and that practical solutions will have to make some compromises.</abstract>
   </front>

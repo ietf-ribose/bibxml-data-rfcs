@@ -5,7 +5,7 @@
     <author fullname="P. van der Stok"/>
     <author fullname="C. Bormann"/>
     <author fullname="A. Sehgal"/>
-    <date year="2017" month="April" day="1"/>
+    <date year="2017" month="April"/>
     <workgroup>core</workgroup>
     <keyword>CoAP</keyword>
     <abstract>The methods defined in RFC 7252 for the Constrained Application Protocol (CoAP) only allow access to a complete resource, not to parts of a resource. In case of resources with larger or complex data, or in situations where resource continuity is required, replacing or requesting the whole resource is undesirable. Several applications using CoAP need to access parts of the resources. This specification defines the new CoAP methods, FETCH, PATCH, and iPATCH, which are used to access and update parts of a resource.</abstract>

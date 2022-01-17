@@ -3,7 +3,7 @@
     <title>Shared Use of Experimental TCP Options</title>
     <seriesInfo name="DOI" value="10.17487/RFC6994"/>
     <author fullname="J. Touch"/>
-    <date year="2013" month="August" day="1"/>
+    <date year="2013" month="August"/>
     <workgroup>tcpm</workgroup>
     <abstract>This document describes how the experimental TCP option codepoints can concurrently support multiple TCP extensions, even within the same connection, using a new IANA TCP experiment identifier.  This approach is robust to experiments that are not registered and to those that do not use this sharing mechanism.  It is recommended for all new TCP options that use these codepoints.</abstract>
   </front>

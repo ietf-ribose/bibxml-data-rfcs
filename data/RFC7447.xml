@@ -4,7 +4,7 @@
     <seriesInfo name="DOI" value="10.17487/RFC7447"/>
     <author fullname="J. Scudder"/>
     <author fullname="K. Kompella"/>
-    <date year="2015" month="February" day="1"/>
+    <date year="2015" month="February"/>
     <workgroup>mpls</workgroup>
     <abstract>The BGP Entropy Label Capability attribute is defined in RFC 6790.  Regrettably, it has a bug: although RFC 6790 mandates that routers incapable of processing Entropy Labels must remove the attribute, fulfillment of this requirement cannot be guaranteed in practice.  This specification deprecates the attribute.  A forthcoming document will propose a replacement.</abstract>
   </front>

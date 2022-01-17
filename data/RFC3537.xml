@@ -4,7 +4,7 @@
     <seriesInfo name="DOI" value="10.17487/RFC3537"/>
     <author fullname="J. Schaad"/>
     <author fullname="R. Housley"/>
-    <date year="2003" month="May" day="1"/>
+    <date year="2003" month="May"/>
     <workgroup>smime</workgroup>
     <abstract>This document defines two methods for wrapping an HMAC (Hashed Message Authentication Code) key.  The first method defined uses a Triple DES (Data Encryption Standard) key to encrypt the HMAC key.  The second method defined uses an AES (Advanced Encryption Standard) key to encrypt the HMAC key.  One place that such an algorithm is used is for the Authenticated Data type in CMS (Cryptographic Message Syntax). [PROPOSED STANDARD]</abstract>
   </front>

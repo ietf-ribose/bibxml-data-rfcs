@@ -6,7 +6,7 @@
     <author fullname="S. Chakrabarti"/>
     <author fullname="E. Nordmark"/>
     <author fullname="C. Bormann"/>
-    <date year="2012" month="November" day="1"/>
+    <date year="2012" month="November"/>
     <workgroup>6lowpan</workgroup>
     <abstract>The IETF work in IPv6 over Low-power Wireless Personal Area Network (6LoWPAN) defines 6LoWPANs such as IEEE 802.15.4.  This and other similar link technologies have limited or no usage of multicast signaling due to energy conservation.  In addition, the wireless network may not strictly follow the traditional concept of IP subnets and IP links.  IPv6 Neighbor Discovery was not designed for non- transitive wireless links, as its reliance on the traditional IPv6 link concept and its heavy use of multicast make it inefficient and sometimes impractical in a low-power and lossy network.  This document describes simple optimizations to IPv6 Neighbor Discovery, its addressing mechanisms, and duplicate address detection for Low- power Wireless Personal Area Networks and similar networks.  The document thus updates RFC 4944 to specify the use of the optimizations defined here. [STANDARDS-TRACK]</abstract>
   </front>

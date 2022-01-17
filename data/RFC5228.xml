@@ -4,7 +4,7 @@
     <seriesInfo name="DOI" value="10.17487/RFC5228"/>
     <author fullname="P. Guenther"/>
     <author fullname="T. Showalter"/>
-    <date year="2008" month="January" day="1"/>
+    <date year="2008" month="January"/>
     <workgroup>sieve</workgroup>
     <abstract>This document describes a language for filtering email messages at time of final delivery.  It is designed to be implementable on either a mail client or mail server.  It is meant to be extensible, simple, and independent of access protocol, mail architecture, and operating system.  It is suitable for running on a mail server where users may not be allowed to execute arbitrary programs, such as on black box Internet Message Access Protocol (IMAP) servers, as the base language has no variables, loops, or ability to shell out to external programs. [STANDARDS-TRACK]</abstract>
   </front>

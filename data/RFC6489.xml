@@ -5,7 +5,7 @@
     <author fullname="G. Huston"/>
     <author fullname="G. Michaelson"/>
     <author fullname="S. Kent"/>
-    <date year="2012" month="February" day="1"/>
+    <date year="2012" month="February"/>
     <workgroup>sidr</workgroup>
     <keyword>RPKI</keyword>
     <abstract>This document describes how a Certification Authority (CA) in the Resource Public Key Infrastructure (RPKI) performs a planned rollover of its key pair.  This document also notes the implications of this key rollover procedure for relying parties (RPs).  In general, RPs are expected to maintain a local cache of the objects that have been published in the RPKI repository, and thus the way in which a CA performs key rollover impacts RPs.  This memo documents an Internet Best Current Practice.</abstract>

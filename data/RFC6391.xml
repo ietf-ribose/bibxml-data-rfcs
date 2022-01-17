@@ -8,7 +8,7 @@
     <author fullname="V. Kompella"/>
     <author fullname="J. Regan"/>
     <author fullname="S. Amante"/>
-    <date year="2011" month="November" day="1"/>
+    <date year="2011" month="November"/>
     <workgroup>pwe3</workgroup>
     <abstract>Where the payload of a pseudowire comprises a number of distinct flows, it can be desirable to carry those flows over the Equal Cost Multiple Paths (ECMPs) that exist in the packet switched network. Most forwarding engines are able to generate a hash of the MPLS label stack and use this mechanism to balance MPLS flows over ECMPs. This document describes a method of identifying the flows, or flow groups, within pseudowires such that Label Switching Routers can balance flows at a finer granularity than individual pseudowires. The mechanism uses an additional label in the MPLS label stack. [STANDARDS-TRACK]</abstract>
   </front>

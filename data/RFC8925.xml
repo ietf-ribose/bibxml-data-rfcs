@@ -6,7 +6,7 @@
     <author fullname="J. Linkova"/>
     <author fullname="M. Richardson"/>
     <author fullname="T. Mrugalski"/>
-    <date year="2020" month="October" day="1"/>
+    <date year="2020" month="October"/>
     <workgroup>dhc</workgroup>
     <abstract>This document specifies a DHCPv4 option to indicate that a host supports an IPv6-only mode and is willing to forgo obtaining an IPv4 address if the network provides IPv6 connectivity.  It also updates RFC 2563 to specify DHCPv4 server behavior when the server receives a DHCPDISCOVER not containing the Auto-Configure option but containing the new option defined in this document.</abstract>
   </front>

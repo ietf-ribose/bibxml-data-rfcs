@@ -4,7 +4,7 @@
     <seriesInfo name="DOI" value="10.17487/RFC7889"/>
     <author fullname="J. SrimushnamBoovaraghamoorthy"/>
     <author fullname="N. Bisht"/>
-    <date year="2016" month="May" day="1"/>
+    <date year="2016" month="May"/>
     <workgroup>imapapnd</workgroup>
     <abstract>This document defines an extension to the IMAP service whereby a server can inform the client about maximum message upload sizes, allowing the client to avoid sending APPEND commands that will fail because the messages are too large.</abstract>
   </front>

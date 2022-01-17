@@ -3,7 +3,7 @@
     <title>Hash Of Root Key Certificate Extension</title>
     <seriesInfo name="DOI" value="10.17487/RFC8649"/>
     <author fullname="R. Housley"/>
-    <date year="2019" month="August" day="1"/>
+    <date year="2019" month="August"/>
     <workgroup>lamps</workgroup>
     <keyword>trust anchor</keyword>
     <abstract>This document specifies the Hash Of Root Key certificate extension.  This certificate extension is carried in the self-signed certificate for a trust anchor, which is often called a Root Certification Authority (CA) certificate.  This certificate extension unambiguously identifies the next public key that will be used at some point in the future as the next Root CA certificate, eventually replacing the current one.</abstract>
