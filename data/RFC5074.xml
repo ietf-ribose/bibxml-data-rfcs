@@ -1,12 +1,15 @@
 <reference anchor="RFC5074" target="https://www.rfc-editor.org/info/rfc5074">
   <front>
     <title>DNSSEC Lookaside Validation (DLV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5074"/>
-    <author fullname="S. Weiler"/>
+    <author fullname="S. Weiler" initials="S." surname="Weiler">
+      <organization/>
+    </author>
     <date year="2007" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>dns security</keyword>
-    <keyword>trust anchors</keyword>
-    <abstract>DNSSEC Lookaside Validation (DLV) is a mechanism for publishing DNS Security (DNSSEC) trust anchors outside of the DNS delegation chain.  It allows validating resolvers to validate DNSSEC-signed data from zones whose ancestors either aren't signed or don't publish Delegation Signer (DS) records for their children.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>DNSSEC Lookaside Validation (DLV) is a mechanism for publishing DNS Security (DNSSEC) trust anchors outside of the DNS delegation chain.  It allows validating resolvers to validate DNSSEC-signed data from zones whose ancestors either aren't signed or don't publish Delegation Signer (DS) records for their children.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5074"/>
+  <seriesInfo name="RFC" value="5074"/>
 </reference>

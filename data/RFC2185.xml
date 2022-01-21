@@ -1,14 +1,18 @@
 <reference anchor="RFC2185" target="https://www.rfc-editor.org/info/rfc2185">
   <front>
     <title>Routing Aspects of IPv6 Transition</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2185"/>
-    <author fullname="R. Callon"/>
-    <author fullname="D. Haskin"/>
+    <author fullname="R. Callon" initials="R." surname="Callon">
+      <organization/>
+    </author>
+    <author fullname="D. Haskin" initials="D." surname="Haskin">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>ngtrans</workgroup>
-    <keyword>address</keyword>
-    <keyword>network</keyword>
-    <keyword>tunneling</keyword>
-    <abstract>This document gives an overview of the routing aspects of the IPv6 transition.  It is based on the protocols defined in the document "Transition Mechanisms for IPv6 Hosts and Routers." Readers should be familiar with the transition mechanisms before reading this document.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document gives an overview of the routing aspects of the IPv6 transition.  It is based on the protocols defined in the document "Transition Mechanisms for IPv6 Hosts and Routers." Readers should be familiar with the transition mechanisms before reading this document.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2185"/>
+  <seriesInfo name="RFC" value="2185"/>
 </reference>

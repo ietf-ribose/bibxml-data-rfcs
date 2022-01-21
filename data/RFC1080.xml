@@ -1,9 +1,14 @@
 <reference anchor="RFC1080" target="https://www.rfc-editor.org/info/rfc1080">
   <front>
     <title>Telnet remote flow control option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1080"/>
-    <author fullname="C.L. Hedrick"/>
+    <author fullname="C.L. Hedrick" initials="C.L." surname="Hedrick">
+      <organization/>
+    </author>
     <date year="1988" month="November"/>
-    <abstract>This RFC specifies a standard for the Internet community.  Hosts on the Internet that do remote flow control within the Telnet protocol are expected to adopt and implement this standard.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that do remote flow control within the Telnet protocol are expected to adopt and implement this standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1080"/>
+  <seriesInfo name="RFC" value="1080"/>
 </reference>

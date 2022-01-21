@@ -1,16 +1,33 @@
 <reference anchor="RFC7524" target="https://www.rfc-editor.org/info/rfc7524">
   <front>
     <title>Inter-Area Point-to-Multipoint (P2MP) Segmented Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7524"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="R. Aggarwal"/>
-    <author fullname="T. Morin"/>
-    <author fullname="I. Grosclaude"/>
-    <author fullname="N. Leymann"/>
-    <author fullname="S. Saad"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
+    <author fullname="T. Morin" initials="T." surname="Morin">
+      <organization/>
+    </author>
+    <author fullname="I. Grosclaude" initials="I." surname="Grosclaude">
+      <organization/>
+    </author>
+    <author fullname="N. Leymann" initials="N." surname="Leymann">
+      <organization/>
+    </author>
+    <author fullname="S. Saad" initials="S." surname="Saad">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>mpls</workgroup>
-    <abstract>This document describes procedures for building inter-area point-to-multipoint (P2MP) segmented service label switched paths (LSPs) by partitioning such LSPs into intra-area segments and using BGP as the inter-area routing and Label Distribution Protocol (LDP).  Within each IGP area, the intra-area segments are either carried over intra-area P2MP LSPs, using P2MP LSP hierarchy, or instantiated using ingress replication.  The intra-area P2MP LSPs may be signaled using P2MP RSVP-TE or P2MP multipoint LDP (mLDP).  If ingress replication is used within an IGP area, then (multipoint-to-point) LDP LSPs or (point-to-point) RSVP-TE LSPs may be used in the IGP area.  The applications/services that use such inter-area service LSPs may be BGP Multicast VPN, Virtual Private LAN Service (VPLS) multicast, or global table multicast over MPLS.</abstract>
+    <abstract>
+      <t>This document describes procedures for building inter-area point-to-multipoint (P2MP) segmented service label switched paths (LSPs) by partitioning such LSPs into intra-area segments and using BGP as the inter-area routing and Label Distribution Protocol (LDP).  Within each IGP area, the intra-area segments are either carried over intra-area P2MP LSPs, using P2MP LSP hierarchy, or instantiated using ingress replication.  The intra-area P2MP LSPs may be signaled using P2MP RSVP-TE or P2MP multipoint LDP (mLDP).  If ingress replication is used within an IGP area, then (multipoint-to-point) LDP LSPs or (point-to-point) RSVP-TE LSPs may be used in the IGP area.  The applications/services that use such inter-area service LSPs may be BGP Multicast VPN, Virtual Private LAN Service (VPLS) multicast, or global table multicast over MPLS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7524"/>
+  <seriesInfo name="RFC" value="7524"/>
 </reference>

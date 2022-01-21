@@ -1,15 +1,15 @@
 <reference anchor="RFC1892" target="https://www.rfc-editor.org/info/rfc1892">
   <front>
     <title>The Multipart/Report Content Type for the Reporting of Mail System Administrative Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1892"/>
-    <author fullname="G. Vaudreuil"/>
+    <author fullname="G. Vaudreuil" initials="G." surname="Vaudreuil">
+      <organization/>
+    </author>
     <date year="1996" month="January"/>
     <workgroup>notary</workgroup>
-    <keyword>MIME-RPT</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Extensions</keyword>
-    <abstract>The Multipart/Report MIME content-type is a general "family" or "container" type for electronic mail reports of any kind.  Although this memo defines only the use of the Multipart/Report content-type with respect to delivery status reports, mail processing programs will benefit if a single content-type is used to for all kinds of reports. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Multipart/Report MIME content-type is a general "family" or "container" type for electronic mail reports of any kind.  Although this memo defines only the use of the Multipart/Report content-type with respect to delivery status reports, mail processing programs will benefit if a single content-type is used to for all kinds of reports. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1892"/>
+  <seriesInfo name="RFC" value="1892"/>
 </reference>

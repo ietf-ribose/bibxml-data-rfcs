@@ -1,15 +1,15 @@
 <reference anchor="RFC8291" target="https://www.rfc-editor.org/info/rfc8291">
   <front>
     <title>Message Encryption for Web Push</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8291"/>
-    <author fullname="M. Thomson"/>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
     <date year="2017" month="November"/>
     <workgroup>webpush</workgroup>
-    <keyword>web</keyword>
-    <keyword>push</keyword>
-    <keyword>notification</keyword>
-    <keyword>http</keyword>
-    <keyword>encryption</keyword>
-    <abstract>This document describes a message encryption scheme for the Web Push protocol.  This scheme provides confidentiality and integrity for messages sent from an application server to a user agent.</abstract>
+    <abstract>
+      <t>This document describes a message encryption scheme for the Web Push protocol.  This scheme provides confidentiality and integrity for messages sent from an application server to a user agent.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8291"/>
+  <seriesInfo name="RFC" value="8291"/>
 </reference>

@@ -1,21 +1,23 @@
 <reference anchor="RFC2442" target="https://www.rfc-editor.org/info/rfc2442">
   <front>
     <title>The Batch SMTP Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2442"/>
-    <author fullname="N. Freed"/>
-    <author fullname="D. Newman"/>
-    <author fullname="J. Belissent"/>
-    <author fullname="M. Hoy"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="D. Newman" initials="D." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="J. Belissent" initials="J." surname="Belissent">
+      <organization/>
+    </author>
+    <author fullname="M. Hoy" initials="M." surname="Hoy">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
-    <keyword>simple</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>mime</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <keyword>tunneling</keyword>
-    <abstract>This document defines a MIME content type suitable for tunneling an ESMTP transaction through any MIME-capable transport.  This memo provides information for the Internet community</abstract>
+    <abstract>
+      <t>This document defines a MIME content type suitable for tunneling an ESMTP transaction through any MIME-capable transport.  This memo provides information for the Internet community</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2442"/>
+  <seriesInfo name="RFC" value="2442"/>
 </reference>

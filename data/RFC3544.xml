@@ -1,17 +1,21 @@
 <reference anchor="RFC3544" target="https://www.rfc-editor.org/info/rfc3544">
   <front>
     <title>IP Header Compression over PPP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3544"/>
-    <author fullname="T. Koren"/>
-    <author fullname="S. Casner"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="T. Koren" initials="T." surname="Koren">
+      <organization/>
+    </author>
+    <author fullname="S. Casner" initials="S." surname="Casner">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="2003" month="July"/>
     <workgroup>pppext</workgroup>
-    <keyword>IPCOM-PPP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>datagrams</keyword>
-    <abstract>This document describes an option for negotiating the use of header compression on IP datagrams transmitted over the Point-to-Point Protocol (RFC 1661).  It defines extensions to the PPP Control Protocols for IPv4 and IPv6 (RFC 1332, RFC 2472).  Header compression may be applied to IPv4 and IPv6 datagrams in combination with TCP, UDP and RTP transport protocols as specified in RFC 2507, RFC 2508 and RFC 3545. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an option for negotiating the use of header compression on IP datagrams transmitted over the Point-to-Point Protocol (RFC 1661).  It defines extensions to the PPP Control Protocols for IPv4 and IPv6 (RFC 1332, RFC 2472).  Header compression may be applied to IPv4 and IPv6 datagrams in combination with TCP, UDP and RTP transport protocols as specified in RFC 2507, RFC 2508 and RFC 3545. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3544"/>
+  <seriesInfo name="RFC" value="3544"/>
 </reference>

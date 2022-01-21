@@ -1,15 +1,21 @@
 <reference anchor="RFC3490" target="https://www.rfc-editor.org/info/rfc3490">
   <front>
     <title>Internationalizing Domain Names in Applications (IDNA)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3490"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="A. Costello"/>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="A. Costello" initials="A." surname="Costello">
+      <organization/>
+    </author>
     <date year="2003" month="March"/>
     <workgroup>idn</workgroup>
-    <keyword>idn</keyword>
-    <keyword>ascii</keyword>
-    <keyword>characters</keyword>
-    <abstract>Until now, there has been no standard method for domain names to use characters outside the ASCII repertoire.  This document defines internationalized domain names (IDNs) and a mechanism called Internationalizing Domain Names in Applications (IDNA) for handling them in a standard fashion.  IDNs use characters drawn from a large repertoire (Unicode), but IDNA allows the non-ASCII characters to be represented using only the ASCII characters already allowed in so-called host names today.  This backward-compatible representation is required in existing protocols like DNS, so that IDNs can be introduced with no changes to the existing infrastructure.  IDNA is only meant for processing domain names, not free text. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Until now, there has been no standard method for domain names to use characters outside the ASCII repertoire.  This document defines internationalized domain names (IDNs) and a mechanism called Internationalizing Domain Names in Applications (IDNA) for handling them in a standard fashion.  IDNs use characters drawn from a large repertoire (Unicode), but IDNA allows the non-ASCII characters to be represented using only the ASCII characters already allowed in so-called host names today.  This backward-compatible representation is required in existing protocols like DNS, so that IDNs can be introduced with no changes to the existing infrastructure.  IDNA is only meant for processing domain names, not free text. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3490"/>
+  <seriesInfo name="RFC" value="3490"/>
 </reference>

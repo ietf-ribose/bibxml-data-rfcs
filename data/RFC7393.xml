@@ -1,21 +1,26 @@
 <reference anchor="RFC7393" target="https://www.rfc-editor.org/info/rfc7393">
   <front>
     <title>Using the Port Control Protocol (PCP) to Update Dynamic DNS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7393"/>
-    <author fullname="X. Deng"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="J. Huang"/>
-    <author fullname="C. Zhou"/>
+    <author fullname="X. Deng" initials="X." surname="Deng">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="J. Huang" initials="J." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="C. Zhou" initials="C." surname="Zhou">
+      <organization/>
+    </author>
     <date year="2014" month="November"/>
-    <keyword>address sharing</keyword>
-    <keyword>CGN</keyword>
-    <keyword>service continuity</keyword>
-    <keyword>service availability</keyword>
-    <keyword>user-generated content</keyword>
-    <keyword>address-sharing issues</keyword>
-    <keyword>DS-Lite</keyword>
-    <keyword>service delivery in CGN contexts</keyword>
-    <abstract>This document focuses on the problems encountered when using dynamic DNS in address-sharing contexts (e.g., Dual-Stack Lite (DS-Lite) and Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers (NAT64)) during IPv6 transition.  Both issues and possible solutions are documented in this memo.</abstract>
+    <abstract>
+      <t>This document focuses on the problems encountered when using dynamic DNS in address-sharing contexts (e.g., Dual-Stack Lite (DS-Lite) and Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers (NAT64)) during IPv6 transition.  Both issues and possible solutions are documented in this memo.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7393"/>
+  <seriesInfo name="RFC" value="7393"/>
 </reference>

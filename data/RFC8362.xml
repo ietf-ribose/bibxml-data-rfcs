@@ -1,14 +1,28 @@
 <reference anchor="RFC8362" target="https://www.rfc-editor.org/info/rfc8362">
   <front>
     <title>OSPFv3 Link State Advertisement (LSA) Extensibility</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8362"/>
-    <author fullname="A. Lindem"/>
-    <author fullname="A. Roy"/>
-    <author fullname="D. Goethals"/>
-    <author fullname="V. Reddy Vallem"/>
-    <author fullname="F. Baker"/>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="A. Roy" initials="A." surname="Roy">
+      <organization/>
+    </author>
+    <author fullname="D. Goethals" initials="D." surname="Goethals">
+      <organization/>
+    </author>
+    <author fullname="V. Reddy Vallem" initials="V." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
     <date year="2018" month="April"/>
     <workgroup>ospf</workgroup>
-    <abstract>OSPFv3 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisement (LSA) as described in RFC 5340. Without LSA extension, attributes associated with OSPFv3 links and advertised IPv6 prefixes must be advertised in separate LSAs and correlated to the fixed-format LSAs. This document extends the LSA format by encoding the existing OSPFv3 LSA information in Type-Length-Value (TLV) tuples and allowing advertisement of additional information with additional TLVs. Backward-compatibility mechanisms are also described. This document updates RFC 5340, "OSPF for IPv6", and RFC 5838, "Support of Address Families in OSPFv3", by providing TLV-based encodings for the base OSPFv3 unicast support and OSPFv3 address family support.</abstract>
+    <abstract>
+      <t>OSPFv3 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisement (LSA) as described in RFC 5340. Without LSA extension, attributes associated with OSPFv3 links and advertised IPv6 prefixes must be advertised in separate LSAs and correlated to the fixed-format LSAs. This document extends the LSA format by encoding the existing OSPFv3 LSA information in Type-Length-Value (TLV) tuples and allowing advertisement of additional information with additional TLVs. Backward-compatibility mechanisms are also described.</t>
+      <t>This document updates RFC 5340, "OSPF for IPv6", and RFC 5838, "Support of Address Families in OSPFv3", by providing TLV-based encodings for the base OSPFv3 unicast support and OSPFv3 address family support.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8362"/>
+  <seriesInfo name="RFC" value="8362"/>
 </reference>

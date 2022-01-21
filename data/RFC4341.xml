@@ -1,14 +1,18 @@
 <reference anchor="RFC4341" target="https://www.rfc-editor.org/info/rfc4341">
   <front>
     <title>Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control ID 2: TCP-like Congestion Control</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4341"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="E. Kohler"/>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="E. Kohler" initials="E." surname="Kohler">
+      <organization/>
+    </author>
     <date year="2006" month="March"/>
     <workgroup>dccp</workgroup>
-    <keyword>transport protocol</keyword>
-    <keyword>amid</keyword>
-    <keyword>additive increase multiplicative decrease</keyword>
-    <abstract>This document contains the profile for Congestion Control Identifier 2 (CCID 2), TCP-like Congestion Control, in the Datagram Congestion Control Protocol (DCCP).  CCID 2 should be used by senders who would like to take advantage of the available bandwidth in an environment with rapidly changing conditions, and who are able to adapt to the abrupt changes in the congestion window typical of TCP's Additive Increase Multiplicative Decrease (AIMD) congestion control. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document contains the profile for Congestion Control Identifier 2 (CCID 2), TCP-like Congestion Control, in the Datagram Congestion Control Protocol (DCCP).  CCID 2 should be used by senders who would like to take advantage of the available bandwidth in an environment with rapidly changing conditions, and who are able to adapt to the abrupt changes in the congestion window typical of TCP's Additive Increase Multiplicative Decrease (AIMD) congestion control. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4341"/>
+  <seriesInfo name="RFC" value="4341"/>
 </reference>

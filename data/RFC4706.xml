@@ -1,18 +1,24 @@
 <reference anchor="RFC4706" target="https://www.rfc-editor.org/info/rfc4706">
   <front>
     <title>Definitions of Managed Objects for Asymmetric Digital Subscriber Line 2 (ADSL2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4706"/>
-    <author fullname="M. Morgenstern"/>
-    <author fullname="M. Dodge"/>
-    <author fullname="S. Baillie"/>
-    <author fullname="U. Bonollo"/>
+    <author fullname="M. Morgenstern" initials="M." surname="Morgenstern">
+      <organization/>
+    </author>
+    <author fullname="M. Dodge" initials="M." surname="Dodge">
+      <organization/>
+    </author>
+    <author fullname="S. Baillie" initials="S." surname="Baillie">
+      <organization/>
+    </author>
+    <author fullname="U. Bonollo" initials="U." surname="Bonollo">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
     <workgroup>adslmib</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>adsl2+</keyword>
-    <keyword>ADSL2-LINE-TC-MIB</keyword>
-    <keyword>ADSL2-LINE-MIB</keyword>
-    <abstract>This document defines a Management Information Base (MIB) module for use with network management protocols in the Internet community.  In particular, it describes objects used for managing parameters of the "Asymmetric Digital Subscriber Line" family of interface types: ADSL, ADSL2, ADSL2+, and their variants. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Management Information Base (MIB) module for use with network management protocols in the Internet community.  In particular, it describes objects used for managing parameters of the "Asymmetric Digital Subscriber Line" family of interface types: ADSL, ADSL2, ADSL2+, and their variants. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4706"/>
+  <seriesInfo name="RFC" value="4706"/>
 </reference>

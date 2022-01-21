@@ -1,16 +1,15 @@
 <reference anchor="RFC4292" target="https://www.rfc-editor.org/info/rfc4292">
   <front>
     <title>IP Forwarding Table MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4292"/>
-    <author fullname="B. Haberman"/>
+    <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>ipv6</workgroup>
-    <keyword>TABLE-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects related to the forwarding of Internet Protocol (IP) packets in an IP version-independent manner.  This document obsoletes RFC 2096. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects related to the forwarding of Internet Protocol (IP) packets in an IP version-independent manner.  This document obsoletes RFC 2096. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4292"/>
+  <seriesInfo name="RFC" value="4292"/>
 </reference>

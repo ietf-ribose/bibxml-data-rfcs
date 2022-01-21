@@ -1,15 +1,17 @@
 <reference anchor="RFC2756" target="https://www.rfc-editor.org/info/rfc2756">
   <front>
     <title>Hyper Text Caching Protocol (HTCP/0.0)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2756"/>
-    <author fullname="P. Vixie"/>
-    <author fullname="D. Wessels"/>
+    <author fullname="P. Vixie" initials="P." surname="Vixie">
+      <organization/>
+    </author>
+    <author fullname="D. Wessels" initials="D." surname="Wessels">
+      <organization/>
+    </author>
     <date year="2000" month="January"/>
-    <keyword>HTCP</keyword>
-    <keyword>hypertext</keyword>
-    <keyword>transfer protocol</keyword>
-    <keyword>caches</keyword>
-    <keyword>data</keyword>
-    <abstract>This document describes HTCP, a protocol for discovering HTTP caches and cached data, managing sets of HTTP caches, and monitoring cache activity.  This is an experimental protocol, one among several proposals to perform these functions.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes HTCP, a protocol for discovering HTTP caches and cached data, managing sets of HTTP caches, and monitoring cache activity.  This is an experimental protocol, one among several proposals to perform these functions.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2756"/>
+  <seriesInfo name="RFC" value="2756"/>
 </reference>

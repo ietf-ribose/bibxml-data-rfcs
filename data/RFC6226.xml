@@ -1,14 +1,22 @@
 <reference anchor="RFC6226" target="https://www.rfc-editor.org/info/rfc6226">
   <front>
     <title>PIM Group-to-Rendezvous-Point Mapping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6226"/>
-    <author fullname="B. Joshi"/>
-    <author fullname="A. Kessler"/>
-    <author fullname="D. McWalter"/>
+    <author fullname="B. Joshi" initials="B." surname="Joshi">
+      <organization/>
+    </author>
+    <author fullname="A. Kessler" initials="A." surname="Kessler">
+      <organization/>
+    </author>
+    <author fullname="D. McWalter" initials="D." surname="McWalter">
+      <organization/>
+    </author>
     <date year="2011" month="May"/>
     <workgroup>pim</workgroup>
-    <keyword>auto-RP BSR hash</keyword>
-    <keyword>algorithm</keyword>
-    <abstract>Each Protocol Independent Multicast - Sparse Mode (PIM-SM) router in a PIM domain that supports Any Source Multicast (ASM) maintains Group-to-RP mappings that are used to identify a Rendezvous Point (RP) for a specific multicast group. PIM-SM has defined an algorithm to choose a RP from the Group-to-RP mappings learned using various mechanisms. This algorithm does not consider the PIM mode and the mechanism through which a Group-to-RP mapping was learned. This document defines a standard algorithm to deterministically choose between several Group-to-RP mappings for a specific group. This document first explains the requirements to extend the Group-to-RP mapping algorithm and then proposes the new algorithm. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Each Protocol Independent Multicast - Sparse Mode (PIM-SM) router in a PIM domain that supports Any Source Multicast (ASM) maintains Group-to-RP mappings that are used to identify a Rendezvous Point (RP) for a specific multicast group. PIM-SM has defined an algorithm to choose a RP from the Group-to-RP mappings learned using various mechanisms. This algorithm does not consider the PIM mode and the mechanism through which a Group-to-RP mapping was learned.</t>
+      <t>This document defines a standard algorithm to deterministically choose between several Group-to-RP mappings for a specific group. This document first explains the requirements to extend the Group-to-RP mapping algorithm and then proposes the new algorithm. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6226"/>
+  <seriesInfo name="RFC" value="6226"/>
 </reference>

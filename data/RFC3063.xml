@@ -1,18 +1,24 @@
 <reference anchor="RFC3063" target="https://www.rfc-editor.org/info/rfc3063">
   <front>
     <title>MPLS Loop Prevention Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3063"/>
-    <author fullname="Y. Ohba"/>
-    <author fullname="Y. Katsube"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="P. Doolan"/>
+    <author fullname="Y. Ohba" initials="Y." surname="Ohba">
+      <organization/>
+    </author>
+    <author fullname="Y. Katsube" initials="Y." surname="Katsube">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="P. Doolan" initials="P." surname="Doolan">
+      <organization/>
+    </author>
     <date year="2001" month="February"/>
     <workgroup>mpls</workgroup>
-    <keyword>multiprotocol</keyword>
-    <keyword>label</keyword>
-    <keyword>switching</keyword>
-    <keyword>path</keyword>
-    <keyword>LSPs</keyword>
-    <abstract>This paper presents a simple mechanism, based on "threads", which can be used to prevent Multiprotocol Label Switching (MPLS) from setting up label switched path (LSPs) which have loops.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This paper presents a simple mechanism, based on "threads", which can be used to prevent Multiprotocol Label Switching (MPLS) from setting up label switched path (LSPs) which have loops.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3063"/>
+  <seriesInfo name="RFC" value="3063"/>
 </reference>

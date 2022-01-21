@@ -1,13 +1,14 @@
 <reference anchor="RFC1583" target="https://www.rfc-editor.org/info/rfc1583">
   <front>
     <title>OSPF Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1583"/>
-    <author fullname="J. Moy"/>
+    <author fullname="J. Moy" initials="J." surname="Moy">
+      <organization/>
+    </author>
     <date year="1994" month="March"/>
-    <keyword>equal-cost</keyword>
-    <keyword>multipath</keyword>
-    <keyword>link state</keyword>
-    <keyword>LSA</keyword>
-    <abstract>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1583"/>
+  <seriesInfo name="RFC" value="1583"/>
 </reference>

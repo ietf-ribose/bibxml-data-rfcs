@@ -1,17 +1,21 @@
 <reference anchor="RFC6284" target="https://www.rfc-editor.org/info/rfc6284">
   <front>
     <title>Port Mapping between Unicast and Multicast RTP Sessions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6284"/>
-    <author fullname="A. Begen"/>
-    <author fullname="D. Wing"/>
-    <author fullname="T. Van Caenegem"/>
+    <author fullname="A. Begen" initials="A." surname="Begen">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="T. Van Caenegem" initials="T." surname="Van">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>avtcore</workgroup>
-    <keyword>Port mapping</keyword>
-    <keyword>port translation</keyword>
-    <keyword>RTP</keyword>
-    <keyword>multicast</keyword>
-    <keyword>NAT</keyword>
-    <abstract>This document presents a port mapping solution that allows RTP receivers to choose their own ports for an auxiliary unicast session in RTP applications using both unicast and multicast services.  The solution provides protection against denial-of-service or packet amplification attacks that could be used to cause one or more RTP packets to be sent to a victim client. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document presents a port mapping solution that allows RTP receivers to choose their own ports for an auxiliary unicast session in RTP applications using both unicast and multicast services.  The solution provides protection against denial-of-service or packet amplification attacks that could be used to cause one or more RTP packets to be sent to a victim client. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6284"/>
+  <seriesInfo name="RFC" value="6284"/>
 </reference>

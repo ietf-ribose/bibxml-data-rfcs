@@ -1,13 +1,24 @@
 <reference anchor="RFC8163" target="https://www.rfc-editor.org/info/rfc8163">
   <front>
     <title>Transmission of IPv6 over Master-Slave/Token-Passing (MS/TP) Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8163"/>
-    <author fullname="K. Lynn"/>
-    <author fullname="J. Martocci"/>
-    <author fullname="C. Neilson"/>
-    <author fullname="S. Donaldson"/>
+    <author fullname="K. Lynn" initials="K." surname="Lynn">
+      <organization/>
+    </author>
+    <author fullname="J. Martocci" initials="J." surname="Martocci">
+      <organization/>
+    </author>
+    <author fullname="C. Neilson" initials="C." surname="Neilson">
+      <organization/>
+    </author>
+    <author fullname="S. Donaldson" initials="S." surname="Donaldson">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
     <workgroup>6lo</workgroup>
-    <abstract>Master-Slave/Token-Passing (MS/TP) is a medium access control method for the RS-485 physical layer and is used primarily in building automation networks.  This specification defines the frame format for transmission of IPv6 packets and the method of forming link-local and statelessly autoconfigured IPv6 addresses on MS/TP networks.</abstract>
+    <abstract>
+      <t>Master-Slave/Token-Passing (MS/TP) is a medium access control method for the RS-485 physical layer and is used primarily in building automation networks.  This specification defines the frame format for transmission of IPv6 packets and the method of forming link-local and statelessly autoconfigured IPv6 addresses on MS/TP networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8163"/>
+  <seriesInfo name="RFC" value="8163"/>
 </reference>

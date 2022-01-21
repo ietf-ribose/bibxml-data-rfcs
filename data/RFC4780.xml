@@ -1,19 +1,24 @@
 <reference anchor="RFC4780" target="https://www.rfc-editor.org/info/rfc4780">
   <front>
     <title>Management Information Base for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4780"/>
-    <author fullname="K. Lingle"/>
-    <author fullname="J-F. Mule"/>
-    <author fullname="J. Maeng"/>
-    <author fullname="D. Walker"/>
+    <author fullname="K. Lingle" initials="K." surname="Lingle">
+      <organization/>
+    </author>
+    <author fullname="J-F. Mule" initials="J-F." surname="Mule">
+      <organization/>
+    </author>
+    <author fullname="J. Maeng" initials="J." surname="Maeng">
+      <organization/>
+    </author>
+    <author fullname="D. Walker" initials="D." surname="Walker">
+      <organization/>
+    </author>
     <date year="2007" month="April"/>
     <workgroup>sip</workgroup>
-    <keyword>mib</keyword>
-    <keyword>registrar services</keyword>
-    <keyword>SIP-COMMON-MIB</keyword>
-    <keyword>SIP-TC-MIB</keyword>
-    <keyword>SIP-UA-MIB DEFINITIONS</keyword>
-    <keyword>SIP-SERVER-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes a set of managed objects that are used to manage Session Initiation Protocol (SIP) entities, which include User Agents, and Proxy, Redirect and Registrar servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes a set of managed objects that are used to manage Session Initiation Protocol (SIP) entities, which include User Agents, and Proxy, Redirect and Registrar servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4780"/>
+  <seriesInfo name="RFC" value="4780"/>
 </reference>

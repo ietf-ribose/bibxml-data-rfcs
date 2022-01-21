@@ -1,15 +1,15 @@
 <reference anchor="RFC4635" target="https://www.rfc-editor.org/info/rfc4635">
   <front>
     <title>HMAC SHA (Hashed Message Authentication Code, Secure Hash Algorithm) TSIG Algorithm Identifiers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4635"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>dnsext</workgroup>
-    <keyword>dns</keyword>
-    <keyword>resource record</keyword>
-    <keyword>rr</keyword>
-    <keyword>cryptographic message authentication code</keyword>
-    <keyword>cmac</keyword>
-    <abstract>Use of the Domain Name System TSIG resource record requires specification of a cryptographic message authentication code.  Currently, identifiers have been specified only for HMAC MD5 (Hashed Message Authentication Code, Message Digest 5) and GSS (Generic Security Service) TSIG algorithms.  This document standardizes identifiers and implementation requirements for additional HMAC SHA (Secure Hash Algorithm) TSIG algorithms and standardizes how to specify and handle the truncation of HMAC values in TSIG. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Use of the Domain Name System TSIG resource record requires specification of a cryptographic message authentication code.  Currently, identifiers have been specified only for HMAC MD5 (Hashed Message Authentication Code, Message Digest 5) and GSS (Generic Security Service) TSIG algorithms.  This document standardizes identifiers and implementation requirements for additional HMAC SHA (Secure Hash Algorithm) TSIG algorithms and standardizes how to specify and handle the truncation of HMAC values in TSIG. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4635"/>
+  <seriesInfo name="RFC" value="4635"/>
 </reference>

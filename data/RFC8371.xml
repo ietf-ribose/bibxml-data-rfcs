@@ -1,14 +1,18 @@
 <reference anchor="RFC8371" target="https://www.rfc-editor.org/info/rfc8371">
   <front>
     <title>Mobile Node Identifier Types for MIPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8371"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="V. Devarapalli"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="V. Devarapalli" initials="V." surname="Devarapalli">
+      <organization/>
+    </author>
     <date year="2018" month="July"/>
     <workgroup>dmm</workgroup>
-    <keyword>Mobility</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Authentication</keyword>
-    <abstract>This document defines additional identifier type numbers for use with the mobile node identifier option for Mobile IPv6 (MIPv6) as defined by RFC 4283.</abstract>
+    <abstract>
+      <t>This document defines additional identifier type numbers for use with the mobile node identifier option for Mobile IPv6 (MIPv6) as defined by RFC 4283.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8371"/>
+  <seriesInfo name="RFC" value="8371"/>
 </reference>

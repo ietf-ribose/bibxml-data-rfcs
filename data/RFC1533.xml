@@ -1,15 +1,18 @@
 <reference anchor="RFC1533" target="https://www.rfc-editor.org/info/rfc1533">
   <front>
     <title>DHCP Options and BOOTP Vendor Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1533"/>
-    <author fullname="S. Alexander"/>
-    <author fullname="R. Droms"/>
+    <author fullname="S. Alexander" initials="S." surname="Alexander">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
     <date year="1993" month="October"/>
     <workgroup>dhc</workgroup>
-    <keyword>Dynamic</keyword>
-    <keyword>Host</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Bootstrap</keyword>
-    <abstract>This document specifies the current set of DHCP options. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the current set of DHCP options. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1533"/>
+  <seriesInfo name="RFC" value="1533"/>
 </reference>

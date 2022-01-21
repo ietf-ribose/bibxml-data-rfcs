@@ -1,16 +1,27 @@
 <reference anchor="RFC3830" target="https://www.rfc-editor.org/info/rfc3830">
   <front>
     <title>MIKEY: Multimedia Internet KEYing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3830"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="E. Carrara"/>
-    <author fullname="F. Lindholm"/>
-    <author fullname="M. Naslund"/>
-    <author fullname="K. Norrman"/>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="E. Carrara" initials="E." surname="Carrara">
+      <organization/>
+    </author>
+    <author fullname="F. Lindholm" initials="F." surname="Lindholm">
+      <organization/>
+    </author>
+    <author fullname="M. Naslund" initials="M." surname="Naslund">
+      <organization/>
+    </author>
+    <author fullname="K. Norrman" initials="K." surname="Norrman">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>msec</workgroup>
-    <keyword>key management scheme</keyword>
-    <keyword>real-time applications</keyword>
-    <abstract>This document describes a key management scheme that can be used for real-time applications (both for peer-to-peer communication and group communication).  In particular, its use to support the Secure Real-time Transport Protocol is described in detail.  Security protocols for real-time multimedia applications have started to appear.  This has brought forward the need for a key management solution to support these protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a key management scheme that can be used for real-time applications (both for peer-to-peer communication and group communication).  In particular, its use to support the Secure Real-time Transport Protocol is described in detail.  Security protocols for real-time multimedia applications have started to appear.  This has brought forward the need for a key management solution to support these protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3830"/>
+  <seriesInfo name="RFC" value="3830"/>
 </reference>

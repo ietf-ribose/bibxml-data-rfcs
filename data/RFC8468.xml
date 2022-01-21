@@ -1,20 +1,27 @@
 <reference anchor="RFC8468" target="https://www.rfc-editor.org/info/rfc8468">
   <front>
     <title>IPv4, IPv6, and IPv4-IPv6 Coexistence: Updates for the IP Performance Metrics (IPPM) Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8468"/>
-    <author fullname="A. Morton"/>
-    <author fullname="J. Fabini"/>
-    <author fullname="N. Elkins"/>
-    <author fullname="M. Ackermann"/>
-    <author fullname="V. Hegde"/>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="J. Fabini" initials="J." surname="Fabini">
+      <organization/>
+    </author>
+    <author fullname="N. Elkins" initials="N." surname="Elkins">
+      <organization/>
+    </author>
+    <author fullname="M. Ackermann" initials="M." surname="Ackermann">
+      <organization/>
+    </author>
+    <author fullname="V. Hegde" initials="V." surname="Hegde">
+      <organization/>
+    </author>
     <date year="2018" month="November"/>
     <workgroup>ippm</workgroup>
-    <keyword>Measurement</keyword>
-    <keyword>Methodology</keyword>
-    <keyword>Standard-Formed Packet</keyword>
-    <keyword>Type-P</keyword>
-    <keyword>Minimal Packet</keyword>
-    <keyword>IPv6 Transition</keyword>
-    <abstract>This memo updates the IP Performance Metrics (IPPM) framework defined by RFC 2330 with new considerations for measurement methodology and testing.  It updates the definition of standard-formed packets to include IPv6 packets, deprecates the definition of minimal IP packet, and augments distinguishing aspects, referred to as Type-P, for test packets in RFC 2330.  This memo identifies that IPv4-IPv6 coexistence can challenge measurements within the scope of the IPPM framework.  Example use cases include, but are not limited to, IPv4-IPv6 translation, NAT, and protocol encapsulation.  IPv6 header compression and use of IPv6 over Low-Power Wireless Area Networks (6LoWPAN) are considered and excluded from the standard-formed packet evaluation.</abstract>
+    <abstract>
+      <t>This memo updates the IP Performance Metrics (IPPM) framework defined by RFC 2330 with new considerations for measurement methodology and testing.  It updates the definition of standard-formed packets to include IPv6 packets, deprecates the definition of minimal IP packet, and augments distinguishing aspects, referred to as Type-P, for test packets in RFC 2330.  This memo identifies that IPv4-IPv6 coexistence can challenge measurements within the scope of the IPPM framework.  Example use cases include, but are not limited to, IPv4-IPv6 translation, NAT, and protocol encapsulation.  IPv6 header compression and use of IPv6 over Low-Power Wireless Area Networks (6LoWPAN) are considered and excluded from the standard-formed packet evaluation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8468"/>
+  <seriesInfo name="RFC" value="8468"/>
 </reference>

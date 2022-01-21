@@ -1,12 +1,17 @@
 <reference anchor="RFC6522" target="https://www.rfc-editor.org/info/rfc6522">
   <front>
     <title>The Multipart/Report Media Type for the Reporting of Mail System Administrative Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6522"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2012" month="January"/>
     <workgroup>appsawg</workgroup>
-    <keyword>MIME</keyword>
-    <keyword>Multipurpose Internet Mail Extensions</keyword>
-    <abstract>The multipart/report Multipurpose Internet Mail Extensions (MIME) media type is a general "family" or "container" type for electronic mail reports of any kind. Although this memo defines only the use of the multipart/report media type with respect to delivery status reports, mail processing programs will benefit if a single media type is used for all kinds of reports. This memo obsoletes "The Multipart/Report Content Type for the Reporting of Mail System Administrative Messages", RFC 3462, and marks RFC 3462 and its predecessor as "Historic". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The multipart/report Multipurpose Internet Mail Extensions (MIME) media type is a general "family" or "container" type for electronic mail reports of any kind. Although this memo defines only the use of the multipart/report media type with respect to delivery status reports, mail processing programs will benefit if a single media type is used for all kinds of reports.</t>
+      <t>This memo obsoletes "The Multipart/Report Content Type for the Reporting of Mail System Administrative Messages", RFC 3462, and marks RFC 3462 and its predecessor as "Historic". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6522"/>
+  <seriesInfo name="STD" value="73"/>
+  <seriesInfo name="RFC" value="6522"/>
 </reference>

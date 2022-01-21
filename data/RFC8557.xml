@@ -1,11 +1,18 @@
 <reference anchor="RFC8557" target="https://www.rfc-editor.org/info/rfc8557">
   <front>
     <title>Deterministic Networking Problem Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8557"/>
-    <author fullname="N. Finn"/>
-    <author fullname="P. Thubert"/>
+    <author fullname="N. Finn" initials="N." surname="Finn">
+      <organization/>
+    </author>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
     <workgroup>detnet</workgroup>
-    <abstract>This paper documents the needs in various industries to establish multi-hop paths for characterized flows with deterministic properties.</abstract>
+    <abstract>
+      <t>This paper documents the needs in various industries to establish multi-hop paths for characterized flows with deterministic properties.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8557"/>
+  <seriesInfo name="RFC" value="8557"/>
 </reference>

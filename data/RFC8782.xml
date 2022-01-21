@@ -1,30 +1,28 @@
 <reference anchor="RFC8782" target="https://www.rfc-editor.org/info/rfc8782">
   <front>
     <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8782"/>
-    <author fullname="T. Reddy.K"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="P. Patil"/>
-    <author fullname="A. Mortensen"/>
-    <author fullname="N. Teague"/>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="P. Patil" initials="P." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="A. Mortensen" initials="A." surname="Mortensen">
+      <organization/>
+    </author>
+    <author fullname="N. Teague" initials="N." surname="Teague">
+      <organization/>
+    </author>
     <date year="2020" month="May"/>
     <workgroup>dots</workgroup>
-    <keyword>security</keyword>
-    <keyword>mitigation</keyword>
-    <keyword>service delivery</keyword>
-    <keyword>connectivity</keyword>
-    <keyword>anti-DDoS</keyword>
-    <keyword>automation</keyword>
-    <keyword>cooperation</keyword>
-    <keyword>resilience</keyword>
-    <keyword>filtering</keyword>
-    <keyword>security center</keyword>
-    <keyword>mitigator</keyword>
-    <keyword>scrubbing</keyword>
-    <keyword>dynamic service protection</keyword>
-    <keyword>dynamic mitigation</keyword>
-    <keyword>cooperative networking</keyword>
-    <keyword>protective networking</keyword>
-    <abstract>This document specifies the Distributed Denial-of-Service Open Threat Signaling (DOTS) signal channel, a protocol for signaling the need for protection against Distributed Denial-of-Service (DDoS) attacks to a server capable of enabling network traffic mitigation on behalf of the requesting client. A companion document defines the DOTS data channel, a separate reliable communication layer for DOTS management and configuration purposes.</abstract>
+    <abstract>
+      <t>This document specifies the Distributed Denial-of-Service Open Threat Signaling (DOTS) signal channel, a protocol for signaling the need for protection against Distributed Denial-of-Service (DDoS) attacks to a server capable of enabling network traffic mitigation on behalf of the requesting client.</t>
+      <t>A companion document defines the DOTS data channel, a separate reliable communication layer for DOTS management and configuration purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8782"/>
+  <seriesInfo name="RFC" value="8782"/>
 </reference>

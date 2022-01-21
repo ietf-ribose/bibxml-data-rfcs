@@ -1,18 +1,21 @@
 <reference anchor="RFC2425" target="https://www.rfc-editor.org/info/rfc2425">
   <front>
     <title>A MIME Content-Type for Directory Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2425"/>
-    <author fullname="T. Howes"/>
-    <author fullname="M. Smith"/>
-    <author fullname="F. Dawson"/>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="F. Dawson" initials="F." surname="Dawson">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
     <workgroup>asid</workgroup>
-    <keyword>TXT-DIR</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <keyword>profiles</keyword>
-    <abstract>This document defines a MIME Content-Type for holding directory information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a MIME Content-Type for holding directory information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2425"/>
+  <seriesInfo name="RFC" value="2425"/>
 </reference>

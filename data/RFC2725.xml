@@ -1,17 +1,24 @@
 <reference anchor="RFC2725" target="https://www.rfc-editor.org/info/rfc2725">
   <front>
     <title>Routing Policy System Security</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2725"/>
-    <author fullname="C. Villamizar"/>
-    <author fullname="C. Alaettinoglu"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="S. Murphy"/>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
+    <author fullname="C. Alaettinoglu" initials="C." surname="Alaettinoglu">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="S. Murphy" initials="S." surname="Murphy">
+      <organization/>
+    </author>
     <date year="1999" month="December"/>
     <workgroup>rps</workgroup>
-    <keyword>RPSL</keyword>
-    <keyword>database</keyword>
-    <keyword>registry</keyword>
-    <keyword>authentication</keyword>
-    <abstract>The implementation and deployment of a routing policy system must maintain some degree of integrity to be of any operational use.  This document addresses the need to assure integrity of the data by providing an authentication and authorization model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The implementation and deployment of a routing policy system must maintain some degree of integrity to be of any operational use.  This document addresses the need to assure integrity of the data by providing an authentication and authorization model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2725"/>
+  <seriesInfo name="RFC" value="2725"/>
 </reference>

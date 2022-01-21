@@ -1,19 +1,24 @@
 <reference anchor="RFC2865" target="https://www.rfc-editor.org/info/rfc2865">
   <front>
     <title>Remote Authentication Dial In User Service (RADIUS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2865"/>
-    <author fullname="C. Rigney"/>
-    <author fullname="S. Willens"/>
-    <author fullname="A. Rubens"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="C. Rigney" initials="C." surname="Rigney">
+      <organization/>
+    </author>
+    <author fullname="S. Willens" initials="S." surname="Willens">
+      <organization/>
+    </author>
+    <author fullname="A. Rubens" initials="A." surname="Rubens">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>radius</workgroup>
-    <keyword>RADIUS</keyword>
-    <keyword>encryption</keyword>
-    <keyword>NAS</keyword>
-    <keyword>Network</keyword>
-    <keyword>Access</keyword>
-    <keyword>Server</keyword>
-    <abstract>This document describes a protocol for carrying authentication, authorization, and configuration information between a Network Access Server which desires to authenticate its links and a shared Authentication Server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a protocol for carrying authentication, authorization, and configuration information between a Network Access Server which desires to authenticate its links and a shared Authentication Server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2865"/>
+  <seriesInfo name="RFC" value="2865"/>
 </reference>

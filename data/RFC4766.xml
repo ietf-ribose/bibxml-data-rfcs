@@ -1,14 +1,18 @@
 <reference anchor="RFC4766" target="https://www.rfc-editor.org/info/rfc4766">
   <front>
     <title>Intrusion Detection Message Exchange Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4766"/>
-    <author fullname="M. Wood"/>
-    <author fullname="M. Erlinger"/>
+    <author fullname="M. Wood" initials="M." surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="M. Erlinger" initials="M." surname="Erlinger">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>idwg</workgroup>
-    <keyword>idmef</keyword>
-    <keyword>idwg</keyword>
-    <keyword>intrusion detection exchange format</keyword>
-    <abstract>The purpose of the Intrusion Detection Exchange Format Working Group (IDWG) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.  This document describes the high-level requirements for such a communication mechanism, including the rationale for those requirements where clarification is needed.  Scenarios are used to illustrate some requirements.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The purpose of the Intrusion Detection Exchange Format Working Group (IDWG) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.  This document describes the high-level requirements for such a communication mechanism, including the rationale for those requirements where clarification is needed.  Scenarios are used to illustrate some requirements.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4766"/>
+  <seriesInfo name="RFC" value="4766"/>
 </reference>

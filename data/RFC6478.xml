@@ -1,13 +1,24 @@
 <reference anchor="RFC6478" target="https://www.rfc-editor.org/info/rfc6478">
   <front>
     <title>Pseudowire Status for Static Pseudowires</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6478"/>
-    <author fullname="L. Martini"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="G. Heron"/>
-    <author fullname="M. Bocci"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
     <date year="2012" month="May"/>
     <workgroup>pwe3</workgroup>
-    <abstract>This document specifies a mechanism to signal Pseudowire (PW) status messages using a PW associated channel (ACh).  Such a mechanism is suitable for use where no PW dynamic control plane exits, known as static PWs, or where a Terminating Provider Edge (T-PE) needs to send a PW status message directly to a far-end T-PE.  The mechanism allows PW Operations, Administration, and Maintenance (OAM) message mapping and PW redundancy to operate on static PWs.  This document also updates RFC 5885 in the case when Bi-directional Forwarding Detection (BFD) is used to convey PW status-signaling information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a mechanism to signal Pseudowire (PW) status messages using a PW associated channel (ACh).  Such a mechanism is suitable for use where no PW dynamic control plane exits, known as static PWs, or where a Terminating Provider Edge (T-PE) needs to send a PW status message directly to a far-end T-PE.  The mechanism allows PW Operations, Administration, and Maintenance (OAM) message mapping and PW redundancy to operate on static PWs.  This document also updates RFC 5885 in the case when Bi-directional Forwarding Detection (BFD) is used to convey PW status-signaling information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6478"/>
+  <seriesInfo name="RFC" value="6478"/>
 </reference>

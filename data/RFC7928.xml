@@ -1,13 +1,24 @@
 <reference anchor="RFC7928" target="https://www.rfc-editor.org/info/rfc7928">
   <front>
     <title>Characterization Guidelines for Active Queue Management (AQM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7928"/>
-    <author fullname="N. Kuhn"/>
-    <author fullname="P. Natarajan"/>
-    <author fullname="N. Khademi"/>
-    <author fullname="D. Ros"/>
+    <author fullname="N. Kuhn" initials="N." surname="Kuhn">
+      <organization/>
+    </author>
+    <author fullname="P. Natarajan" initials="P." surname="Natarajan">
+      <organization/>
+    </author>
+    <author fullname="N. Khademi" initials="N." surname="Khademi">
+      <organization/>
+    </author>
+    <author fullname="D. Ros" initials="D." surname="Ros">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>aqm</workgroup>
-    <abstract>Unmanaged large buffers in today's networks have given rise to a slew of performance issues.  These performance issues can be addressed by some form of Active Queue Management (AQM) mechanism, optionally in combination with a packet-scheduling scheme such as fair queuing.  This document describes various criteria for performing characterizations of AQM schemes that can be used in lab testing during development, prior to deployment.</abstract>
+    <abstract>
+      <t>Unmanaged large buffers in today's networks have given rise to a slew of performance issues.  These performance issues can be addressed by some form of Active Queue Management (AQM) mechanism, optionally in combination with a packet-scheduling scheme such as fair queuing.  This document describes various criteria for performing characterizations of AQM schemes that can be used in lab testing during development, prior to deployment.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7928"/>
+  <seriesInfo name="RFC" value="7928"/>
 </reference>

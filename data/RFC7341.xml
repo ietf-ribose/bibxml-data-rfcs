@@ -1,24 +1,27 @@
 <reference anchor="RFC7341" target="https://www.rfc-editor.org/info/rfc7341">
   <front>
     <title>DHCPv4-over-DHCPv6 (DHCP 4o6) Transport</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7341"/>
-    <author fullname="Q. Sun"/>
-    <author fullname="Y. Cui"/>
-    <author fullname="M. Siodelski"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="I. Farrer"/>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="Y. Cui" initials="Y." surname="Cui">
+      <organization/>
+    </author>
+    <author fullname="M. Siodelski" initials="M." surname="Siodelski">
+      <organization/>
+    </author>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="I. Farrer" initials="I." surname="Farrer">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>dhc</workgroup>
-    <keyword>ipv6</keyword>
-    <keyword>transition</keyword>
-    <keyword>softwire</keyword>
-    <keyword>migration</keyword>
-    <keyword>tunnel</keyword>
-    <keyword>residual</keyword>
-    <keyword>ipv4</keyword>
-    <keyword>dhcpv6</keyword>
-    <keyword>relay</keyword>
-    <keyword>ipv6-only</keyword>
-    <abstract>IPv4 connectivity is still needed as networks migrate towards IPv6.  Users require IPv4 configuration even if the uplink to their service provider supports IPv6 only.  This document describes a mechanism for obtaining IPv4 configuration information dynamically in IPv6 networks by carrying DHCPv4 messages over DHCPv6 transport.  Two new DHCPv6 messages and two new DHCPv6 options are defined for this purpose.</abstract>
+    <abstract>
+      <t>IPv4 connectivity is still needed as networks migrate towards IPv6.  Users require IPv4 configuration even if the uplink to their service provider supports IPv6 only.  This document describes a mechanism for obtaining IPv4 configuration information dynamically in IPv6 networks by carrying DHCPv4 messages over DHCPv6 transport.  Two new DHCPv6 messages and two new DHCPv6 options are defined for this purpose.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7341"/>
+  <seriesInfo name="RFC" value="7341"/>
 </reference>

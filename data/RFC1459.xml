@@ -1,12 +1,17 @@
 <reference anchor="RFC1459" target="https://www.rfc-editor.org/info/rfc1459">
   <front>
     <title>Internet Relay Chat Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1459"/>
-    <author fullname="J. Oikarinen"/>
-    <author fullname="D. Reed"/>
+    <author fullname="J. Oikarinen" initials="J." surname="Oikarinen">
+      <organization/>
+    </author>
+    <author fullname="D. Reed" initials="D." surname="Reed">
+      <organization/>
+    </author>
     <date year="1993" month="May"/>
-    <keyword>IRCP</keyword>
-    <keyword>IRC</keyword>
-    <abstract>The IRC protocol is a text-based protocol, with the simplest client being any socket program capable of connecting to the server.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The IRC protocol is a text-based protocol, with the simplest client being any socket program capable of connecting to the server.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1459"/>
+  <seriesInfo name="RFC" value="1459"/>
 </reference>

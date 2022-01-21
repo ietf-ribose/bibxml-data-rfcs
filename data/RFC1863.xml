@@ -1,16 +1,15 @@
 <reference anchor="RFC1863" target="https://www.rfc-editor.org/info/rfc1863">
   <front>
     <title>A BGP/IDRP Route Server alternative to a full mesh routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1863"/>
-    <author fullname="D. Haskin"/>
+    <author fullname="D. Haskin" initials="D." surname="Haskin">
+      <organization/>
+    </author>
     <date year="1995" month="October"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-IDRP</keyword>
-    <keyword>border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <keyword>inter-domain</keyword>
-    <keyword>routing</keyword>
-    <abstract>This document describes the use and detailed design of Route Servers for dissemination of routing information among BGP/IDRP speaking routers.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the use and detailed design of Route Servers for dissemination of routing information among BGP/IDRP speaking routers.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1863"/>
+  <seriesInfo name="RFC" value="1863"/>
 </reference>

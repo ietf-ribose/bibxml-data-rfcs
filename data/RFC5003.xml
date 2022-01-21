@@ -1,15 +1,24 @@
 <reference anchor="RFC5003" target="https://www.rfc-editor.org/info/rfc5003">
   <front>
     <title>Attachment Individual Identifier (AII) Types for Aggregation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5003"/>
-    <author fullname="C. Metz"/>
-    <author fullname="L. Martini"/>
-    <author fullname="F. Balus"/>
-    <author fullname="J. Sugimoto"/>
+    <author fullname="C. Metz" initials="C." surname="Metz">
+      <organization/>
+    </author>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="F. Balus" initials="F." surname="Balus">
+      <organization/>
+    </author>
+    <author fullname="J. Sugimoto" initials="J." surname="Sugimoto">
+      <organization/>
+    </author>
     <date year="2007" month="September"/>
     <workgroup>pwe3</workgroup>
-    <keyword>tlv</keyword>
-    <keyword>pseudowire</keyword>
-    <abstract>The signaling protocols used to establish point-to-point pseudowires include type-length-value (TLV) fields that identify pseudowire endpoints called attachment individual identifiers (AIIs).  This document defines AII structures in the form of new AII TLV fields that support AII aggregation for improved scalability and Virtual Private Network (VPN) auto-discovery.  It is envisioned that this would be useful in large inter-domain virtual private wire service networks where pseudowires are established between selected local and remote provider edge (PE) nodes based on customer need. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The signaling protocols used to establish point-to-point pseudowires include type-length-value (TLV) fields that identify pseudowire endpoints called attachment individual identifiers (AIIs).  This document defines AII structures in the form of new AII TLV fields that support AII aggregation for improved scalability and Virtual Private Network (VPN) auto-discovery.  It is envisioned that this would be useful in large inter-domain virtual private wire service networks where pseudowires are established between selected local and remote provider edge (PE) nodes based on customer need. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5003"/>
+  <seriesInfo name="RFC" value="5003"/>
 </reference>

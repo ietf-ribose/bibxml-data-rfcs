@@ -1,14 +1,24 @@
 <reference anchor="RFC1747" target="https://www.rfc-editor.org/info/rfc1747">
   <front>
     <title>Definitions of Managed Objects for SNA Data Link Control (SDLC) using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1747"/>
-    <author fullname="J. Hilgeman"/>
-    <author fullname="S. Nix"/>
-    <author fullname="A. Bartky"/>
-    <author fullname="W. Clark"/>
+    <author fullname="J. Hilgeman" initials="J." surname="Hilgeman">
+      <organization/>
+    </author>
+    <author fullname="S. Nix" initials="S." surname="Nix">
+      <organization/>
+    </author>
+    <author fullname="A. Bartky" initials="A." surname="Bartky">
+      <organization/>
+    </author>
+    <author fullname="W. Clark" initials="W." surname="Clark">
+      <organization/>
+    </author>
     <date year="1995" month="January"/>
     <workgroup>snadlc</workgroup>
-    <keyword>SDLCSMIv2</keyword>
-    <abstract>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for managing the configuration, monitoring and control of data link controls in an SNA environment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for managing the configuration, monitoring and control of data link controls in an SNA environment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1747"/>
+  <seriesInfo name="RFC" value="1747"/>
 </reference>

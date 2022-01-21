@@ -1,11 +1,18 @@
 <reference anchor="RFC4664" target="https://www.rfc-editor.org/info/rfc4664">
   <front>
     <title>Framework for Layer 2 Virtual Private Networks (L2VPNs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4664"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="E. Rosen"/>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>l2vpn</workgroup>
-    <abstract>This document provides a framework for Layer 2 Provider Provisioned Virtual Private Networks (L2VPNs).  This framework is intended to aid in standardizing protocols and mechanisms to support interoperable L2VPNs.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides a framework for Layer 2 Provider Provisioned Virtual Private Networks (L2VPNs).  This framework is intended to aid in standardizing protocols and mechanisms to support interoperable L2VPNs.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4664"/>
+  <seriesInfo name="RFC" value="4664"/>
 </reference>

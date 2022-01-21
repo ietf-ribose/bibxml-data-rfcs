@@ -1,16 +1,17 @@
 <reference anchor="RFC3660" target="https://www.rfc-editor.org/info/rfc3660">
   <front>
     <title>Basic Media Gateway Control Protocol (MGCP) Packages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3660"/>
-    <author fullname="B. Foster"/>
-    <author fullname="F. Andreasen"/>
+    <author fullname="B. Foster" initials="B." surname="Foster">
+      <organization/>
+    </author>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
     <date year="2003" month="December"/>
-    <keyword>generic</keyword>
-    <keyword>line</keyword>
-    <keyword>trunk</keyword>
-    <keyword>handset</keyword>
-    <keyword>dtmf</keyword>
-    <keyword>dual tone multifrequency</keyword>
-    <abstract>This document provides a basic set of Media Gateway Control Protocol (MGCP) packages.  The generic, line, trunk, handset, RTP, DTMF (Dual Tone Multifrequency), announcement server and script packages are updates of packages from RFC 2705 with additional explanation and in some cases new versions of these packages.  In addition to these, five new packages are defined here.  These are the signal list, resource reservation, media format, supplementary services and digit map extension packages.</abstract>
+    <abstract>
+      <t>This document provides a basic set of Media Gateway Control Protocol (MGCP) packages.  The generic, line, trunk, handset, RTP, DTMF (Dual Tone Multifrequency), announcement server and script packages are updates of packages from RFC 2705 with additional explanation and in some cases new versions of these packages.  In addition to these, five new packages are defined here.  These are the signal list, resource reservation, media format, supplementary services and digit map extension packages.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3660"/>
+  <seriesInfo name="RFC" value="3660"/>
 </reference>

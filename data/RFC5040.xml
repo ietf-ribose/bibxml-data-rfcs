@@ -1,17 +1,27 @@
 <reference anchor="RFC5040" target="https://www.rfc-editor.org/info/rfc5040">
   <front>
     <title>A Remote Direct Memory Access Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5040"/>
-    <author fullname="R. Recio"/>
-    <author fullname="B. Metzler"/>
-    <author fullname="P. Culley"/>
-    <author fullname="J. Hilland"/>
-    <author fullname="D. Garcia"/>
+    <author fullname="R. Recio" initials="R." surname="Recio">
+      <organization/>
+    </author>
+    <author fullname="B. Metzler" initials="B." surname="Metzler">
+      <organization/>
+    </author>
+    <author fullname="P. Culley" initials="P." surname="Culley">
+      <organization/>
+    </author>
+    <author fullname="J. Hilland" initials="J." surname="Hilland">
+      <organization/>
+    </author>
+    <author fullname="D. Garcia" initials="D." surname="Garcia">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>rddp</workgroup>
-    <keyword>rdmap</keyword>
-    <keyword>ddp</keyword>
-    <keyword>direct data placement protocol</keyword>
-    <abstract>This document defines a Remote Direct Memory Access Protocol (RDMAP) that operates over the Direct Data Placement Protocol (DDP protocol).  RDMAP provides read and write services directly to applications and enables data to be transferred directly into Upper Layer Protocol (ULP) Buffers without intermediate data copies.  It also enables a kernel bypass implementation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Remote Direct Memory Access Protocol (RDMAP) that operates over the Direct Data Placement Protocol (DDP protocol).  RDMAP provides read and write services directly to applications and enables data to be transferred directly into Upper Layer Protocol (ULP) Buffers without intermediate data copies.  It also enables a kernel bypass implementation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5040"/>
+  <seriesInfo name="RFC" value="5040"/>
 </reference>

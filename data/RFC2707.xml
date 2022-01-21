@@ -1,16 +1,24 @@
 <reference anchor="RFC2707" target="https://www.rfc-editor.org/info/rfc2707">
   <front>
     <title>Job Monitoring MIB - V1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2707"/>
-    <author fullname="R. Bergman"/>
-    <author fullname="T. Hastings"/>
-    <author fullname="S. Isaacson"/>
-    <author fullname="H. Lewis"/>
+    <author fullname="R. Bergman" initials="R." surname="Bergman">
+      <organization/>
+    </author>
+    <author fullname="T. Hastings" initials="T." surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="S. Isaacson" initials="S." surname="Isaacson">
+      <organization/>
+    </author>
+    <author fullname="H. Lewis" initials="H." surname="Lewis">
+      <organization/>
+    </author>
     <date year="1999" month="November"/>
     <workgroup>printmib</workgroup>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This document provides a printer industry standard SNMP MIB for (1) monitoring the status and progress of print jobs (2) obtaining resource requirements before a job is processed, (3) monitoring resource consumption while a job is being processed and (4) collecting resource accounting data after the completion of a job.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides a printer industry standard SNMP MIB for (1) monitoring the status and progress of print jobs (2) obtaining resource requirements before a job is processed, (3) monitoring resource consumption while a job is being processed and (4) collecting resource accounting data after the completion of a job.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2707"/>
+  <seriesInfo name="RFC" value="2707"/>
 </reference>

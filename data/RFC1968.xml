@@ -1,14 +1,15 @@
 <reference anchor="RFC1968" target="https://www.rfc-editor.org/info/rfc1968">
   <front>
     <title>The PPP Encryption Control Protocol (ECP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1968"/>
-    <author fullname="G. Meyer"/>
+    <author fullname="G. Meyer" initials="G." surname="Meyer">
+      <organization/>
+    </author>
     <date year="1996" month="June"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-ECP</keyword>
-    <keyword>Point-to-Point</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>data</keyword>
-    <abstract>This document defines a method for negotiating data encryption over PPP links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a method for negotiating data encryption over PPP links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1968"/>
+  <seriesInfo name="RFC" value="1968"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC2063" target="https://www.rfc-editor.org/info/rfc2063">
   <front>
     <title>Traffic Flow Measurement:  Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2063"/>
-    <author fullname="N. Brownlee"/>
-    <author fullname="C. Mills"/>
-    <author fullname="G. Ruth"/>
+    <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+      <organization/>
+    </author>
+    <author fullname="C. Mills" initials="C." surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="G. Ruth" initials="G." surname="Ruth">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
     <workgroup>rtfm</workgroup>
-    <keyword>TFM-ARCH</keyword>
-    <keyword>network</keyword>
-    <keyword>data</keyword>
-    <abstract>This document describes an architecture for the measurement and reporting of network traffic flows, discusses how this relates to an overall network traffic flow architecture, and describes how it can be used within the Internet.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an architecture for the measurement and reporting of network traffic flows, discusses how this relates to an overall network traffic flow architecture, and describes how it can be used within the Internet.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2063"/>
+  <seriesInfo name="RFC" value="2063"/>
 </reference>

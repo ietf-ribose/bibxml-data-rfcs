@@ -1,13 +1,15 @@
 <reference anchor="RFC2918" target="https://www.rfc-editor.org/info/rfc2918">
   <front>
     <title>Route Refresh Capability for BGP-4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2918"/>
-    <author fullname="E. Chen"/>
+    <author fullname="E. Chen" initials="E." surname="Chen">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>idr</workgroup>
-    <keyword>border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document defines a new Border Gateway Protocol (BGP) capability termed 'Route Refresh Capability', which would allow the dynamic exchange of route refresh request between BGP speakers and subsequent re-advertisement of the respective Adj-RIB-Out. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new Border Gateway Protocol (BGP) capability termed 'Route Refresh Capability', which would allow the dynamic exchange of route refresh request between BGP speakers and subsequent re-advertisement of the respective Adj-RIB-Out. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2918"/>
+  <seriesInfo name="RFC" value="2918"/>
 </reference>

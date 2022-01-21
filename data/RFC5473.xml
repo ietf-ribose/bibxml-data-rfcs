@@ -1,12 +1,22 @@
 <reference anchor="RFC5473" target="https://www.rfc-editor.org/info/rfc5473">
   <front>
     <title>Reducing Redundancy in IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Reports</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5473"/>
-    <author fullname="E. Boschi"/>
-    <author fullname="L. Mark"/>
-    <author fullname="B. Claise"/>
+    <author fullname="E. Boschi" initials="E." surname="Boschi">
+      <organization/>
+    </author>
+    <author fullname="L. Mark" initials="L." surname="Mark">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>ipfix</workgroup>
-    <abstract>This document describes a bandwidth saving method for exporting Flow or packet information using the IP Flow Information eXport (IPFIX) protocol. As the Packet Sampling (PSAMP) protocol is based on IPFIX, these considerations are valid for PSAMP exports as well. This method works by separating information common to several Flow Records from information specific to an individual Flow Record. Common Flow information is exported only once in a Data Record defined by an Options Template, while the rest of the specific Flow information is associated with the common information via a unique identifier. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a bandwidth saving method for exporting Flow or packet information using the IP Flow Information eXport (IPFIX) protocol. As the Packet Sampling (PSAMP) protocol is based on IPFIX, these considerations are valid for PSAMP exports as well.</t>
+      <t>This method works by separating information common to several Flow Records from information specific to an individual Flow Record. Common Flow information is exported only once in a Data Record defined by an Options Template, while the rest of the specific Flow information is associated with the common information via a unique identifier. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5473"/>
+  <seriesInfo name="RFC" value="5473"/>
 </reference>

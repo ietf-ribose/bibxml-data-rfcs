@@ -1,12 +1,21 @@
 <reference anchor="RFC8339" target="https://www.rfc-editor.org/info/rfc8339">
   <front>
     <title>Definition of P2MP PW TLV for Label Switched Path (LSP) Ping Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8339"/>
-    <author fullname="P. Jain"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="S. Aldrin"/>
+    <author fullname="P. Jain" initials="P." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
     <date year="2018" month="March"/>
     <workgroup>pals</workgroup>
-    <abstract>Label Switched Path (LSP) Ping is a widely deployed Operation, Administration, and Maintenance (OAM) mechanism in MPLS networks.  This document describes a mechanism to verify connectivity of Point-to-Multipoint (P2MP) Pseudowires (PWs) using LSP Ping.</abstract>
+    <abstract>
+      <t>Label Switched Path (LSP) Ping is a widely deployed Operation, Administration, and Maintenance (OAM) mechanism in MPLS networks.  This document describes a mechanism to verify connectivity of Point-to-Multipoint (P2MP) Pseudowires (PWs) using LSP Ping.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8339"/>
+  <seriesInfo name="RFC" value="8339"/>
 </reference>

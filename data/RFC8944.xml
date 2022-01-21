@@ -1,14 +1,27 @@
 <reference anchor="RFC8944" target="https://www.rfc-editor.org/info/rfc8944">
   <front>
     <title>A YANG Data Model for Layer 2 Network Topologies</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8944"/>
-    <author fullname="J. Dong"/>
-    <author fullname="X. Wei"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="A. Liu"/>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="X. Wei" initials="X." surname="Wei">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="A. Liu" initials="A." surname="Liu">
+      <organization/>
+    </author>
     <date year="2020" month="November"/>
     <workgroup>i2rs</workgroup>
-    <abstract>This document defines a YANG data model for Layer 2 network topologies.  In particular, this data model augments the generic network and network topology data models with topology attributes that are specific to Layer 2.</abstract>
+    <abstract>
+      <t>This document defines a YANG data model for Layer 2 network topologies.  In particular, this data model augments the generic network and network topology data models with topology attributes that are specific to Layer 2.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8944"/>
+  <seriesInfo name="RFC" value="8944"/>
 </reference>

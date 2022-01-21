@@ -1,17 +1,24 @@
 <reference anchor="RFC2408" target="https://www.rfc-editor.org/info/rfc2408">
   <front>
     <title>Internet Security Association and Key Management Protocol (ISAKMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2408"/>
-    <author fullname="D. Maughan"/>
-    <author fullname="M. Schertler"/>
-    <author fullname="M. Schneider"/>
-    <author fullname="J. Turner"/>
+    <author fullname="D. Maughan" initials="D." surname="Maughan">
+      <organization/>
+    </author>
+    <author fullname="M. Schertler" initials="M." surname="Schertler">
+      <organization/>
+    </author>
+    <author fullname="M. Schneider" initials="M." surname="Schneider">
+      <organization/>
+    </author>
+    <author fullname="J. Turner" initials="J." surname="Turner">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ISAKMP</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>cryptography</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo describes a protocol utilizing security concepts necessary for establishing Security Associations (SA) and cryptographic keys in an Internet environment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a protocol utilizing security concepts necessary for establishing Security Associations (SA) and cryptographic keys in an Internet environment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2408"/>
+  <seriesInfo name="RFC" value="2408"/>
 </reference>

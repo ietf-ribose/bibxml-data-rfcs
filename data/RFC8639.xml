@@ -1,16 +1,27 @@
 <reference anchor="RFC8639" target="https://www.rfc-editor.org/info/rfc8639">
   <front>
     <title>Subscription to YANG Notifications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8639"/>
-    <author fullname="E. Voit"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="A. Gonzalez Prieto"/>
-    <author fullname="E. Nilsen-Nygaard"/>
-    <author fullname="A. Tripathy"/>
+    <author fullname="E. Voit" initials="E." surname="Voit">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="A. Gonzalez Prieto" initials="A." surname="Gonzalez">
+      <organization/>
+    </author>
+    <author fullname="E. Nilsen-Nygaard" initials="E." surname="Nilsen-Nygaard">
+      <organization/>
+    </author>
+    <author fullname="A. Tripathy" initials="A." surname="Tripathy">
+      <organization/>
+    </author>
     <date year="2019" month="September"/>
     <workgroup>netconf</workgroup>
-    <keyword>telemetry</keyword>
-    <keyword>YANG-Push</keyword>
-    <abstract>This document defines a YANG data model and associated mechanisms enabling subscriber-specific subscriptions to a publisher's event streams.  Applying these elements allows a subscriber to request and receive a continuous, customized feed of publisher-generated information.</abstract>
+    <abstract>
+      <t>This document defines a YANG data model and associated mechanisms enabling subscriber-specific subscriptions to a publisher's event streams.  Applying these elements allows a subscriber to request and receive a continuous, customized feed of publisher-generated information.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8639"/>
+  <seriesInfo name="RFC" value="8639"/>
 </reference>

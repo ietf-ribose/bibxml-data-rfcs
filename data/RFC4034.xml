@@ -1,19 +1,28 @@
 <reference anchor="RFC4034" target="https://www.rfc-editor.org/info/rfc4034">
   <front>
     <title>Resource Records for the DNS Security Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4034"/>
-    <author fullname="R. Arends"/>
-    <author fullname="R. Austein"/>
-    <author fullname="M. Larson"/>
-    <author fullname="D. Massey"/>
-    <author fullname="S. Rose"/>
+    <author fullname="R. Arends" initials="R." surname="Arends">
+      <organization/>
+    </author>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
+    <author fullname="M. Larson" initials="M." surname="Larson">
+      <organization/>
+    </author>
+    <author fullname="D. Massey" initials="D." surname="Massey">
+      <organization/>
+    </author>
+    <author fullname="S. Rose" initials="S." surname="Rose">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>dnsext</workgroup>
-    <keyword>domain name system</keyword>
-    <keyword>authentication</keyword>
-    <keyword>origin integrity</keyword>
-    <keyword>dnssec</keyword>
-    <keyword>domain name system security extensions</keyword>
-    <abstract>This document is part of a family of documents that describe the DNS Security Extensions (DNSSEC). The DNS Security Extensions are a collection of resource records and protocol modifications that provide source authentication for the DNS. This document defines the public key (DNSKEY), delegation signer (DS), resource record digital signature (RRSIG), and authenticated denial of existence (NSEC) resource records. The purpose and format of each resource record is described in detail, and an example of each resource record is given. This document obsoletes RFC 2535 and incorporates changes from all updates to RFC 2535. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is part of a family of documents that describe the DNS Security Extensions (DNSSEC). The DNS Security Extensions are a collection of resource records and protocol modifications that provide source authentication for the DNS. This document defines the public key (DNSKEY), delegation signer (DS), resource record digital signature (RRSIG), and authenticated denial of existence (NSEC) resource records. The purpose and format of each resource record is described in detail, and an example of each resource record is given.</t>
+      <t>This document obsoletes RFC 2535 and incorporates changes from all updates to RFC 2535. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4034"/>
+  <seriesInfo name="RFC" value="4034"/>
 </reference>

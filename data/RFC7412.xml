@@ -1,14 +1,27 @@
 <reference anchor="RFC7412" target="https://www.rfc-editor.org/info/rfc7412">
   <front>
     <title>Requirements for MPLS Transport Profile (MPLS-TP) Shared Mesh Protection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7412"/>
-    <author fullname="Y. Weingarten"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="P. Pan"/>
-    <author fullname="J. Ryoo"/>
-    <author fullname="G. Mirsky"/>
+    <author fullname="Y. Weingarten" initials="Y." surname="Weingarten">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="P. Pan" initials="P." surname="Pan">
+      <organization/>
+    </author>
+    <author fullname="J. Ryoo" initials="J." surname="Ryoo">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>mpls</workgroup>
-    <abstract>This document presents the basic network objectives for the behavior of Shared Mesh Protection (SMP) that are not based on control-plane support.  This document provides an expansion of the basic requirements presented in RFC 5654 ("Requirements of an MPLS Transport Profile") and RFC 6372 ("MPLS Transport Profile (MPLS-TP) Survivability Framework").  This document provides requirements for any mechanism that would be used to implement SMP for MPLS-TP data paths, in networks that delegate protection switch coordination to the data plane.</abstract>
+    <abstract>
+      <t>This document presents the basic network objectives for the behavior of Shared Mesh Protection (SMP) that are not based on control-plane support.  This document provides an expansion of the basic requirements presented in RFC 5654 ("Requirements of an MPLS Transport Profile") and RFC 6372 ("MPLS Transport Profile (MPLS-TP) Survivability Framework").  This document provides requirements for any mechanism that would be used to implement SMP for MPLS-TP data paths, in networks that delegate protection switch coordination to the data plane.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7412"/>
+  <seriesInfo name="RFC" value="7412"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC5695" target="https://www.rfc-editor.org/info/rfc5695">
   <front>
     <title>MPLS Forwarding Benchmarking Methodology for IP Flows</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5695"/>
-    <author fullname="A. Akhter"/>
-    <author fullname="R. Asati"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="A. Akhter" initials="A." surname="Akhter">
+      <organization/>
+    </author>
+    <author fullname="R. Asati" initials="R." surname="Asati">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2009" month="November"/>
     <workgroup>bmwg</workgroup>
-    <keyword>multiprotocol label switching</keyword>
-    <keyword>mpmls forwarding devices</keyword>
-    <abstract>This document describes a methodology specific to the benchmarking of Multiprotocol Label Switching (MPLS) forwarding devices, limited to the most common MPLS packet forwarding scenarios and delay measurements for each, considering IP flows.  It builds upon the tenets set forth in RFC 2544, RFC 1242, and other IETF Benchmarking Methodology Working Group (BMWG) efforts.  This document seeks to extend these efforts to the MPLS paradigm.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a methodology specific to the benchmarking of Multiprotocol Label Switching (MPLS) forwarding devices, limited to the most common MPLS packet forwarding scenarios and delay measurements for each, considering IP flows.  It builds upon the tenets set forth in RFC 2544, RFC 1242, and other IETF Benchmarking Methodology Working Group (BMWG) efforts.  This document seeks to extend these efforts to the MPLS paradigm.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5695"/>
+  <seriesInfo name="RFC" value="5695"/>
 </reference>

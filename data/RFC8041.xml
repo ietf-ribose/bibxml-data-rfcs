@@ -1,23 +1,21 @@
 <reference anchor="RFC8041" target="https://www.rfc-editor.org/info/rfc8041">
   <front>
     <title>Use Cases and Operational Experience with Multipath TCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8041"/>
-    <author fullname="O. Bonaventure"/>
-    <author fullname="C. Paasch"/>
-    <author fullname="G. Detal"/>
+    <author fullname="O. Bonaventure" initials="O." surname="Bonaventure">
+      <organization/>
+    </author>
+    <author fullname="C. Paasch" initials="C." surname="Paasch">
+      <organization/>
+    </author>
+    <author fullname="G. Detal" initials="G." surname="Detal">
+      <organization/>
+    </author>
     <date year="2017" month="January"/>
     <workgroup>mptcp</workgroup>
-    <keyword>TCP</keyword>
-    <keyword>MPTCP</keyword>
-    <keyword>Middlebox</keyword>
-    <keyword>Congestion Control</keyword>
-    <keyword>Path Manager</keyword>
-    <keyword>Scheduler</keyword>
-    <keyword>Proxy</keyword>
-    <keyword>Load-Balancer</keyword>
-    <keyword>Datacenter</keyword>
-    <keyword>Cellular/WiFi Offload</keyword>
-    <keyword>Hybrid Access Networks</keyword>
-    <abstract>This document discusses both use cases and operational experience with Multipath TCP (MPTCP) in real networks.  It lists several prominent use cases where Multipath TCP has been considered and is being used.  It also gives insight to some heuristics and decisions that have helped to realize these use cases and suggests possible improvements.</abstract>
+    <abstract>
+      <t>This document discusses both use cases and operational experience with Multipath TCP (MPTCP) in real networks.  It lists several prominent use cases where Multipath TCP has been considered and is being used.  It also gives insight to some heuristics and decisions that have helped to realize these use cases and suggests possible improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8041"/>
+  <seriesInfo name="RFC" value="8041"/>
 </reference>

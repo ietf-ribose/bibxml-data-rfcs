@@ -1,13 +1,15 @@
 <reference anchor="RFC1663" target="https://www.rfc-editor.org/info/rfc1663">
   <front>
     <title>PPP Reliable Transmission</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1663"/>
-    <author fullname="D. Rand"/>
+    <author fullname="D. Rand" initials="D." surname="Rand">
+      <organization/>
+    </author>
     <date year="1994" month="July"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-TRANS</keyword>
-    <keyword>Point</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document defines a method for negotiating and using Numbered-Mode, as defined by ISO 7776 [2], to provide a reliable serial link. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a method for negotiating and using Numbered-Mode, as defined by ISO 7776 [2], to provide a reliable serial link. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1663"/>
+  <seriesInfo name="RFC" value="1663"/>
 </reference>

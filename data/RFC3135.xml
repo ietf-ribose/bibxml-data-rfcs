@@ -1,20 +1,27 @@
 <reference anchor="RFC3135" target="https://www.rfc-editor.org/info/rfc3135">
   <front>
     <title>Performance Enhancing Proxies Intended to Mitigate Link-Related Degradations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3135"/>
-    <author fullname="J. Border"/>
-    <author fullname="M. Kojo"/>
-    <author fullname="J. Griner"/>
-    <author fullname="G. Montenegro"/>
-    <author fullname="Z. Shelby"/>
+    <author fullname="J. Border" initials="J." surname="Border">
+      <organization/>
+    </author>
+    <author fullname="M. Kojo" initials="M." surname="Kojo">
+      <organization/>
+    </author>
+    <author fullname="J. Griner" initials="J." surname="Griner">
+      <organization/>
+    </author>
+    <author fullname="G. Montenegro" initials="G." surname="Montenegro">
+      <organization/>
+    </author>
+    <author fullname="Z. Shelby" initials="Z." surname="Shelby">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
     <workgroup>pilc</workgroup>
-    <keyword>PEP</keyword>
-    <keyword>PILC</keyword>
-    <keyword>TCP</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document is a survey of Performance Enhancing Proxies (PEPs) often employed to improve degraded TCP performance caused by characteristics of specific link environments, for example, in satellite, wireless WAN, and wireless LAN environments.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is a survey of Performance Enhancing Proxies (PEPs) often employed to improve degraded TCP performance caused by characteristics of specific link environments, for example, in satellite, wireless WAN, and wireless LAN environments.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3135"/>
+  <seriesInfo name="RFC" value="3135"/>
 </reference>

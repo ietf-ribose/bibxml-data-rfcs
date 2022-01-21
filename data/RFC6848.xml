@@ -1,19 +1,27 @@
 <reference anchor="RFC6848" target="https://www.rfc-editor.org/info/rfc6848">
   <front>
     <title>Specifying Civic Address Extensions in the Presence Information Data Format Location Object (PIDF-LO)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6848"/>
-    <author fullname="J. Winterbottom"/>
-    <author fullname="M. Thomson"/>
-    <author fullname="R. Barnes"/>
-    <author fullname="B. Rosen"/>
-    <author fullname="R. George"/>
+    <author fullname="J. Winterbottom" initials="J." surname="Winterbottom">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="B. Rosen" initials="B." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="R. George" initials="R." surname="George">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>geopriv</workgroup>
-    <keyword>Extension</keyword>
-    <keyword>Local</keyword>
-    <keyword>Civic</keyword>
-    <keyword>Location</keyword>
-    <keyword>GEOPRIV</keyword>
-    <abstract>New fields are occasionally added to civic addresses.  A backward- compatible mechanism for adding civic address elements to the Geopriv civic address format is described.  A formal mechanism for handling unsupported extensions when translating between XML and DHCP civic address forms is defined for entities that need to perform this translation.  Initial extensions for some new elements are also defined.  The Location-to-Service Translation (LoST) protocol mechanism (defined in RFC 5222) that returns civic address element names used for validation of location information is clarified and is normatively updated to require a qualifying namespace identifier on each civic address element returned as part of the validation process. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>New fields are occasionally added to civic addresses.  A backward- compatible mechanism for adding civic address elements to the Geopriv civic address format is described.  A formal mechanism for handling unsupported extensions when translating between XML and DHCP civic address forms is defined for entities that need to perform this translation.  Initial extensions for some new elements are also defined.  The Location-to-Service Translation (LoST) protocol mechanism (defined in RFC 5222) that returns civic address element names used for validation of location information is clarified and is normatively updated to require a qualifying namespace identifier on each civic address element returned as part of the validation process. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6848"/>
+  <seriesInfo name="RFC" value="6848"/>
 </reference>

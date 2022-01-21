@@ -1,15 +1,20 @@
 <reference anchor="RFC2341" target="https://www.rfc-editor.org/info/rfc2341">
   <front>
     <title>Cisco Layer Two Forwarding (Protocol) "L2F"</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2341"/>
-    <author fullname="A. Valencia"/>
-    <author fullname="M. Littlewood"/>
-    <author fullname="T. Kolar"/>
+    <author fullname="A. Valencia" initials="A." surname="Valencia">
+      <organization/>
+    </author>
+    <author fullname="M. Littlewood" initials="M." surname="Littlewood">
+      <organization/>
+    </author>
+    <author fullname="T. Kolar" initials="T." surname="Kolar">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
-    <keyword>L2F</keyword>
-    <keyword>tunneling</keyword>
-    <keyword>dial-up</keyword>
-    <keyword>network</keyword>
-    <abstract>This document describes the Layer Two Forwarding protocol (L2F) which permits the tunneling of the link layer (i.e., HDLC, async HDLC, or SLIP frames) of higher level protocols.  This memo describes a historic protocol for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes the Layer Two Forwarding protocol (L2F) which permits the tunneling of the link layer (i.e., HDLC, async HDLC, or SLIP frames) of higher level protocols.  This memo describes a historic protocol for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2341"/>
+  <seriesInfo name="RFC" value="2341"/>
 </reference>

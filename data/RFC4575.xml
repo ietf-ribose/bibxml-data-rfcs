@@ -1,15 +1,21 @@
 <reference anchor="RFC4575" target="https://www.rfc-editor.org/info/rfc4575">
   <front>
     <title>A Session Initiation Protocol (SIP) Event Package for Conference State</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4575"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="O. Levin"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="O. Levin" initials="O." surname="Levin">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>sipping</workgroup>
-    <keyword>conference event package</keyword>
-    <keyword>uri</keyword>
-    <keyword>uniform resource identifier</keyword>
-    <abstract>This document defines a conference event package for tightly coupled conferences using the Session Initiation Protocol (SIP) events framework, along with a data format used in notifications for this package.  The conference package allows users to subscribe to a conference Uniform Resource Identifier (URI).  Notifications are sent about changes in the membership of this conference and optionally about changes in the state of additional conference components. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a conference event package for tightly coupled conferences using the Session Initiation Protocol (SIP) events framework, along with a data format used in notifications for this package.  The conference package allows users to subscribe to a conference Uniform Resource Identifier (URI).  Notifications are sent about changes in the membership of this conference and optionally about changes in the state of additional conference components. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4575"/>
+  <seriesInfo name="RFC" value="4575"/>
 </reference>

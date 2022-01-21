@@ -1,13 +1,21 @@
 <reference anchor="RFC5914" target="https://www.rfc-editor.org/info/rfc5914">
   <front>
     <title>Trust Anchor Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5914"/>
-    <author fullname="R. Housley"/>
-    <author fullname="S. Ashmore"/>
-    <author fullname="C. Wallace"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="S. Ashmore" initials="S." surname="Ashmore">
+      <organization/>
+    </author>
+    <author fullname="C. Wallace" initials="C." surname="Wallace">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>trust anchor management</keyword>
-    <abstract>This document describes a structure for representing trust anchor information.  A trust anchor is an authoritative entity represented by a public key and associated data.  The public key is used to verify digital signatures, and the associated data is used to constrain the types of information or actions for which the trust anchor is authoritative.  The structures defined in this document are intended to satisfy the format-related requirements defined in Trust Anchor Management Requirements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a structure for representing trust anchor information.  A trust anchor is an authoritative entity represented by a public key and associated data.  The public key is used to verify digital signatures, and the associated data is used to constrain the types of information or actions for which the trust anchor is authoritative.  The structures defined in this document are intended to satisfy the format-related requirements defined in Trust Anchor Management Requirements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5914"/>
+  <seriesInfo name="RFC" value="5914"/>
 </reference>

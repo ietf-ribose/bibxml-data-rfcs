@@ -1,10 +1,17 @@
 <reference anchor="RFC0824" target="https://www.rfc-editor.org/info/rfc824">
   <front>
     <title>CRONUS Virtual Local Network</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0824"/>
-    <author fullname="W.I. MacGregor"/>
-    <author fullname="D.C. Tappan"/>
+    <author fullname="W.I. MacGregor" initials="W.I." surname="MacGregor">
+      <organization/>
+    </author>
+    <author fullname="D.C. Tappan" initials="D.C." surname="Tappan">
+      <organization/>
+    </author>
     <date year="1982" month="August"/>
-    <abstract>The purpose of this note is to describe the CRONUS Virtual Local Network, especially the addressing related features.  These features include a method for mapping between Internet Addresses and Local Network addresses.  This is a topic of current concern in the ARPA Internet community.  This note is intended to stimulate discussion.  This is not a specification of an Internet Standard.</abstract>
+    <abstract>
+      <t>The purpose of this note is to describe the CRONUS Virtual Local Network, especially the addressing related features.  These features include a method for mapping between Internet Addresses and Local Network addresses.  This is a topic of current concern in the ARPA Internet community.  This note is intended to stimulate discussion.  This is not a specification of an Internet Standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0824"/>
+  <seriesInfo name="RFC" value="824"/>
 </reference>

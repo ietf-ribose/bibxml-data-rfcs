@@ -1,15 +1,18 @@
 <reference anchor="RFC5825" target="https://www.rfc-editor.org/info/rfc5825">
   <front>
     <title>Displaying Downgraded Messages for Email Address Internationalization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5825"/>
-    <author fullname="K. Fujiwara"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="K. Fujiwara" initials="K." surname="Fujiwara">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>eai</workgroup>
-    <keyword>EAI</keyword>
-    <keyword>Email Address Internationalization</keyword>
-    <keyword>Downgrade</keyword>
-    <keyword>MAIL</keyword>
-    <abstract>This document describes a method for displaying downgraded messages that originally contained internationalized email addresses or internationalized header fields.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a method for displaying downgraded messages that originally contained internationalized email addresses or internationalized header fields.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5825"/>
+  <seriesInfo name="RFC" value="5825"/>
 </reference>

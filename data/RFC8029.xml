@@ -1,17 +1,31 @@
 <reference anchor="RFC8029" target="https://www.rfc-editor.org/info/rfc8029">
   <front>
     <title>Detecting Multiprotocol Label Switched (MPLS) Data-Plane Failures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8029"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="N. Kumar"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="M. Chen"/>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="N. Kumar" initials="N." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS echo request</keyword>
-    <keyword>MPLS echo reply</keyword>
-    <abstract>This document describes a simple and efficient mechanism to detect data-plane failures in Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs). It defines a probe message called an "MPLS echo request" and a response message called an "MPLS echo reply" for returning the result of the probe. The MPLS echo request is intended to contain sufficient information to check correct operation of the data plane and to verify the data plane against the control plane, thereby localizing faults. This document obsoletes RFCs 4379, 6424, 6829, and 7537, and updates RFC 1122.</abstract>
+    <abstract>
+      <t>This document describes a simple and efficient mechanism to detect data-plane failures in Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs). It defines a probe message called an "MPLS echo request" and a response message called an "MPLS echo reply" for returning the result of the probe. The MPLS echo request is intended to contain sufficient information to check correct operation of the data plane and to verify the data plane against the control plane, thereby localizing faults.</t>
+      <t>This document obsoletes RFCs 4379, 6424, 6829, and 7537, and updates RFC 1122.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8029"/>
+  <seriesInfo name="RFC" value="8029"/>
 </reference>

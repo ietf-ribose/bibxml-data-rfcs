@@ -1,12 +1,21 @@
 <reference anchor="RFC7112" target="https://www.rfc-editor.org/info/rfc7112">
   <front>
     <title>Implications of Oversized IPv6 Header Chains</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7112"/>
-    <author fullname="F. Gont"/>
-    <author fullname="V. Manral"/>
-    <author fullname="R. Bonica"/>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
     <date year="2014" month="January"/>
     <workgroup>6man</workgroup>
-    <abstract>The IPv6 specification allows IPv6 Header Chains of an arbitrary size.  The specification also allows options that can, in turn, extend each of the headers.  In those scenarios in which the IPv6 Header Chain or options are unusually long and packets are fragmented, or scenarios in which the fragment size is very small, the First Fragment of a packet may fail to include the entire IPv6 Header Chain.  This document discusses the interoperability and security problems of such traffic, and updates RFC 2460 such that the First Fragment of a packet is required to contain the entire IPv6 Header Chain.</abstract>
+    <abstract>
+      <t>The IPv6 specification allows IPv6 Header Chains of an arbitrary size.  The specification also allows options that can, in turn, extend each of the headers.  In those scenarios in which the IPv6 Header Chain or options are unusually long and packets are fragmented, or scenarios in which the fragment size is very small, the First Fragment of a packet may fail to include the entire IPv6 Header Chain.  This document discusses the interoperability and security problems of such traffic, and updates RFC 2460 such that the First Fragment of a packet is required to contain the entire IPv6 Header Chain.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7112"/>
+  <seriesInfo name="RFC" value="7112"/>
 </reference>

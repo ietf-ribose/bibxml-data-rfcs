@@ -1,15 +1,18 @@
 <reference anchor="RFC1314" target="https://www.rfc-editor.org/info/rfc1314">
   <front>
     <title>A File Format for the Exchange of Images in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1314"/>
-    <author fullname="A. Katz"/>
-    <author fullname="D. Cohen"/>
+    <author fullname="A. Katz" initials="A." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="D. Cohen" initials="D." surname="Cohen">
+      <organization/>
+    </author>
     <date year="1992" month="April"/>
     <workgroup>netfax</workgroup>
-    <keyword>NETFAX</keyword>
-    <keyword>netfax</keyword>
-    <keyword>TIFF</keyword>
-    <keyword>facsimile</keyword>
-    <abstract>This document defines a standard file format for the exchange of fax- like black and white images within the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a standard file format for the exchange of fax- like black and white images within the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1314"/>
+  <seriesInfo name="RFC" value="1314"/>
 </reference>

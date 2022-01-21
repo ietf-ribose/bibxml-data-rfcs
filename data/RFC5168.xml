@@ -1,14 +1,21 @@
 <reference anchor="RFC5168" target="https://www.rfc-editor.org/info/rfc5168">
   <front>
     <title>XML Schema for Media Control</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5168"/>
-    <author fullname="O. Levin"/>
-    <author fullname="R. Even"/>
-    <author fullname="P. Hagendorf"/>
+    <author fullname="O. Levin" initials="O." surname="Levin">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="P. Hagendorf" initials="P." surname="Hagendorf">
+      <organization/>
+    </author>
     <date year="2008" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>extensible markup language</keyword>
-    <keyword>video fast update</keyword>
-    <abstract>This document defines an Extensible Markup Language (XML) Schema for video fast update in a tightly controlled environment, developed by Microsoft, Polycom, Radvision and used by multiple vendors.  This document describes a method that has been deployed in Session Initiation Protocol (SIP) based systems over the last three years and is being used across real-time interactive applications from different vendors in an interoperable manner.  New implementations are discouraged from using the method described except for backward compatibility purposes.  New implementations are required to use the new Full Intra Request command in the RTP Control Protocol (RTCP) channel.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines an Extensible Markup Language (XML) Schema for video fast update in a tightly controlled environment, developed by Microsoft, Polycom, Radvision and used by multiple vendors.  This document describes a method that has been deployed in Session Initiation Protocol (SIP) based systems over the last three years and is being used across real-time interactive applications from different vendors in an interoperable manner.  New implementations are discouraged from using the method described except for backward compatibility purposes.  New implementations are required to use the new Full Intra Request command in the RTP Control Protocol (RTCP) channel.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5168"/>
+  <seriesInfo name="RFC" value="5168"/>
 </reference>

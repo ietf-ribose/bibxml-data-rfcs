@@ -1,17 +1,19 @@
 <reference anchor="RFC4634" target="https://www.rfc-editor.org/info/rfc4634">
   <front>
     <title>US Secure Hash Algorithms (SHA and HMAC-SHA)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4634"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="T. Hansen"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="T. Hansen" initials="T." surname="Hansen">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>fips</keyword>
-    <keyword>federal information processing standard</keyword>
-    <keyword>sha-224</keyword>
-    <keyword>sha-256</keyword>
-    <keyword>sha-384</keyword>
-    <keyword>sha-512</keyword>
-    <abstract>The United States of America has adopted a suite of Secure Hash Algorithms (SHAs), including four beyond SHA-1, as part of a Federal Information Processing Standard (FIPS), specifically SHA-224 (RFC 3874), SHA-256, SHA-384, and SHA-512. The purpose of this document is to make source code performing these hash functions conveniently available to the Internet community. The sample code supports input strings of arbitrary bit length. SHA-1's sample code from RFC 3174 has also been updated to handle input strings of arbitrary bit length. Most of the text herein was adapted by the authors from FIPS 180-2. Code to perform SHA-based HMACs, with arbitrary bit length text, is also included. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The United States of America has adopted a suite of Secure Hash Algorithms (SHAs), including four beyond SHA-1, as part of a Federal Information Processing Standard (FIPS), specifically SHA-224 (RFC 3874), SHA-256, SHA-384, and SHA-512. The purpose of this document is to make source code performing these hash functions conveniently available to the Internet community. The sample code supports input strings of arbitrary bit length. SHA-1's sample code from RFC 3174 has also been updated to handle input strings of arbitrary bit length. Most of the text herein was adapted by the authors from FIPS 180-2.</t>
+      <t>Code to perform SHA-based HMACs, with arbitrary bit length text, is also included. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4634"/>
+  <seriesInfo name="RFC" value="4634"/>
 </reference>

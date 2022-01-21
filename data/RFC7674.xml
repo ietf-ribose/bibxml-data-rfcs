@@ -1,12 +1,15 @@
 <reference anchor="RFC7674" target="https://www.rfc-editor.org/info/rfc7674">
   <front>
     <title>Clarification of the Flowspec Redirect Extended Community</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7674"/>
-    <author fullname="J. Haas"/>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>idr</workgroup>
-    <keyword>bgp</keyword>
-    <keyword>flowspec</keyword>
-    <abstract>This document updates RFC 5575 ("Dissemination of Flow Specification Rules") to clarify the formatting of the BGP Flowspec Redirect Extended Community.</abstract>
+    <abstract>
+      <t>This document updates RFC 5575 ("Dissemination of Flow Specification Rules") to clarify the formatting of the BGP Flowspec Redirect Extended Community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7674"/>
+  <seriesInfo name="RFC" value="7674"/>
 </reference>

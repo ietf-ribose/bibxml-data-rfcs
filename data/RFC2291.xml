@@ -1,18 +1,24 @@
 <reference anchor="RFC2291" target="https://www.rfc-editor.org/info/rfc2291">
   <front>
     <title>Requirements for a Distributed Authoring and Versioning Protocol for the World Wide Web</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2291"/>
-    <author fullname="J. Slein"/>
-    <author fullname="F. Vitali"/>
-    <author fullname="E. Whitehead"/>
-    <author fullname="D. Durand"/>
+    <author fullname="J. Slein" initials="J." surname="Slein">
+      <organization/>
+    </author>
+    <author fullname="F. Vitali" initials="F." surname="Vitali">
+      <organization/>
+    </author>
+    <author fullname="E. Whitehead" initials="E." surname="Whitehead">
+      <organization/>
+    </author>
+    <author fullname="D. Durand" initials="D." surname="Durand">
+      <organization/>
+    </author>
     <date year="1998" month="February"/>
     <workgroup>webdav</workgroup>
-    <keyword>WWW</keyword>
-    <keyword>remote</keyword>
-    <keyword>editing</keyword>
-    <keyword>locking</keyword>
-    <keyword>mechanism</keyword>
-    <abstract>This document presents a list of features in the form of requirements for a Web Distributed Authoring and Versioning protocol which, if implemented, would improve the efficiency of common remote editing operations, provide a locking mechanism to prevent overwrite conflicts, improve link management support between non-HTML data types, provide a simple attribute-value metadata facility, provide for the creation and reading of container data types, and integrate versioning into the WWW.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document presents a list of features in the form of requirements for a Web Distributed Authoring and Versioning protocol which, if implemented, would improve the efficiency of common remote editing operations, provide a locking mechanism to prevent overwrite conflicts, improve link management support between non-HTML data types, provide a simple attribute-value metadata facility, provide for the creation and reading of container data types, and integrate versioning into the WWW.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2291"/>
+  <seriesInfo name="RFC" value="2291"/>
 </reference>

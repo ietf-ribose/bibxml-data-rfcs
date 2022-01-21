@@ -1,21 +1,26 @@
 <reference anchor="RFC7989" target="https://www.rfc-editor.org/info/rfc7989">
   <front>
     <title>End-to-End Session Identification in IP-Based Multimedia Communication Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7989"/>
-    <author fullname="P. Jones"/>
-    <author fullname="G. Salgueiro"/>
-    <author fullname="C. Pearce"/>
-    <author fullname="P. Giralt"/>
+    <author fullname="P. Jones" initials="P." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author fullname="C. Pearce" initials="C." surname="Pearce">
+      <organization/>
+    </author>
+    <author fullname="P. Giralt" initials="P." surname="Giralt">
+      <organization/>
+    </author>
     <date year="2016" month="October"/>
     <workgroup>insipid</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>Session Initiation Protocol</keyword>
-    <keyword>troubleshooting</keyword>
-    <keyword>Session-ID</keyword>
-    <keyword>session identifier</keyword>
-    <keyword>H460.27</keyword>
-    <keyword>remote parameter</keyword>
-    <keyword>UUID</keyword>
-    <abstract>This document describes an end-to-end session identifier for use in IP-based multimedia communication systems that enables endpoints, intermediary devices, and management systems to identify a session end-to-end, associate multiple endpoints with a given multipoint conference, track communication sessions when they are redirected, and associate one or more media flows with a given communication session. While the identifier is intended to work across multiple protocols, this document describes its usage in the Session Initiation Protocol (SIP). This document also describes a backwards-compatibility mechanism for an existing session identifier implementation (RFC 7329) that is sufficiently different from the procedures defined in this document. This document obsoletes RFC 7329.</abstract>
+    <abstract>
+      <t>This document describes an end-to-end session identifier for use in IP-based multimedia communication systems that enables endpoints, intermediary devices, and management systems to identify a session end-to-end, associate multiple endpoints with a given multipoint conference, track communication sessions when they are redirected, and associate one or more media flows with a given communication session. While the identifier is intended to work across multiple protocols, this document describes its usage in the Session Initiation Protocol (SIP).</t>
+      <t>This document also describes a backwards-compatibility mechanism for an existing session identifier implementation (RFC 7329) that is sufficiently different from the procedures defined in this document.</t>
+      <t>This document obsoletes RFC 7329.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7989"/>
+  <seriesInfo name="RFC" value="7989"/>
 </reference>

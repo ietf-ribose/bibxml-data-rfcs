@@ -1,15 +1,21 @@
 <reference anchor="RFC8651" target="https://www.rfc-editor.org/info/rfc8651">
   <front>
     <title>Dynamic Link Exchange Protocol (DLEP) Control-Plane-Based Pause Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8651"/>
-    <author fullname="B. Cheng"/>
-    <author fullname="D. Wiggins"/>
-    <author fullname="L. Berger"/>
+    <author fullname="B. Cheng" initials="B." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="D. Wiggins" initials="D." surname="Wiggins">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
     <date year="2019" month="October"/>
     <workgroup>manet</workgroup>
-    <keyword>DLEP</keyword>
-    <keyword>Flow control</keyword>
-    <keyword>Pause</keyword>
-    <abstract>This document defines an extension to the Dynamic Link Exchange Protocol (DLEP) that enables a modem to use DLEP messages to pause and resume data traffic coming from its peer router.</abstract>
+    <abstract>
+      <t>This document defines an extension to the Dynamic Link Exchange Protocol (DLEP) that enables a modem to use DLEP messages to pause and resume data traffic coming from its peer router.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8651"/>
+  <seriesInfo name="RFC" value="8651"/>
 </reference>

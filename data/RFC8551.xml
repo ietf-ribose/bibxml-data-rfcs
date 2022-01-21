@@ -1,13 +1,21 @@
 <reference anchor="RFC8551" target="https://www.rfc-editor.org/info/rfc8551">
   <front>
     <title>Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Message Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8551"/>
-    <author fullname="J. Schaad"/>
-    <author fullname="B. Ramsdell"/>
-    <author fullname="S. Turner"/>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
+    <author fullname="B. Ramsdell" initials="B." surname="Ramsdell">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2019" month="April"/>
     <workgroup>lamps</workgroup>
-    <keyword>S/MIME</keyword>
-    <abstract>This document defines Secure/Multipurpose Internet Mail Extensions (S/MIME) version 4.0.  S/MIME provides a consistent way to send and receive secure MIME data.  Digital signatures provide authentication, message integrity, and non-repudiation with proof of origin.  Encryption provides data confidentiality.  Compression can be used to reduce data size.  This document obsoletes RFC 5751.</abstract>
+    <abstract>
+      <t>This document defines Secure/Multipurpose Internet Mail Extensions (S/MIME) version 4.0.  S/MIME provides a consistent way to send and receive secure MIME data.  Digital signatures provide authentication, message integrity, and non-repudiation with proof of origin.  Encryption provides data confidentiality.  Compression can be used to reduce data size.  This document obsoletes RFC 5751.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8551"/>
+  <seriesInfo name="RFC" value="8551"/>
 </reference>

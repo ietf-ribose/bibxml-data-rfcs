@@ -1,18 +1,24 @@
 <reference anchor="RFC6614" target="https://www.rfc-editor.org/info/rfc6614">
   <front>
     <title>Transport Layer Security (TLS) Encryption for RADIUS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6614"/>
-    <author fullname="S. Winter"/>
-    <author fullname="M. McCauley"/>
-    <author fullname="S. Venaas"/>
-    <author fullname="K. Wierenga"/>
+    <author fullname="S. Winter" initials="S." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="M. McCauley" initials="M." surname="McCauley">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
+    <author fullname="K. Wierenga" initials="K." surname="Wierenga">
+      <organization/>
+    </author>
     <date year="2012" month="May"/>
     <workgroup>radext</workgroup>
-    <keyword>RADIUS</keyword>
-    <keyword>AAA</keyword>
-    <keyword>Security</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Remote Authentication Dial-In User Server</keyword>
-    <abstract>This document specifies a transport profile for RADIUS using Transport Layer Security (TLS) over TCP as the transport protocol.  This enables dynamic trust relationships between RADIUS servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a transport profile for RADIUS using Transport Layer Security (TLS) over TCP as the transport protocol.  This enables dynamic trust relationships between RADIUS servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6614"/>
+  <seriesInfo name="RFC" value="6614"/>
 </reference>

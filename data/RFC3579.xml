@@ -1,16 +1,17 @@
 <reference anchor="RFC3579" target="https://www.rfc-editor.org/info/rfc3579">
   <front>
     <title>RADIUS (Remote Authentication Dial In User Service) Support For Extensible Authentication Protocol (EAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3579"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="P. Calhoun"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
     <date year="2003" month="September"/>
-    <keyword>RADIUS</keyword>
-    <keyword>encryption</keyword>
-    <keyword>NAS</keyword>
-    <keyword>Network</keyword>
-    <keyword>Access</keyword>
-    <keyword>Server</keyword>
-    <abstract>This document defines Remote Authentication Dial In User Service (RADIUS) support for the Extensible Authentication Protocol (EAP), an authentication framework which supports multiple authentication mechanisms.  In the proposed scheme, the Network Access Server (NAS) forwards EAP packets to and from the RADIUS server, encapsulated within EAP-Message attributes.  This has the advantage of allowing the NAS to support any EAP authentication method, without the need for method- specific code, which resides on the RADIUS server.  While EAP was originally developed for use with PPP, it is now also in use with IEEE 802.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines Remote Authentication Dial In User Service (RADIUS) support for the Extensible Authentication Protocol (EAP), an authentication framework which supports multiple authentication mechanisms.  In the proposed scheme, the Network Access Server (NAS) forwards EAP packets to and from the RADIUS server, encapsulated within EAP-Message attributes.  This has the advantage of allowing the NAS to support any EAP authentication method, without the need for method- specific code, which resides on the RADIUS server.  While EAP was originally developed for use with PPP, it is now also in use with IEEE 802.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3579"/>
+  <seriesInfo name="RFC" value="3579"/>
 </reference>

@@ -1,12 +1,16 @@
 <reference anchor="RFC8674" target="https://www.rfc-editor.org/info/rfc8674">
   <front>
     <title>The "safe" HTTP Preference</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8674"/>
-    <author fullname="M. Nottingham"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
-    <keyword>safe</keyword>
-    <keyword>preference</keyword>
-    <keyword>child-protection</keyword>
-    <abstract>This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server. This specification does not define a precise semantic for "safe". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information. Support for this preference by clients and servers is optional.</abstract>
+    <abstract>
+      <t>This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server.</t>
+      <t>This specification does not define a precise semantic for "safe". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information.</t>
+      <t>Support for this preference by clients and servers is optional.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8674"/>
+  <seriesInfo name="RFC" value="8674"/>
 </reference>

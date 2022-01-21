@@ -1,13 +1,24 @@
 <reference anchor="RFC7955" target="https://www.rfc-editor.org/info/rfc7955">
   <front>
     <title>Management Guidelines for the Locator/ID Separation Protocol (LISP) Endpoint Identifier (EID) Block</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7955"/>
-    <author fullname="L. Iannone"/>
-    <author fullname="R. Jorgensen"/>
-    <author fullname="D. Conrad"/>
-    <author fullname="G. Huston"/>
+    <author fullname="L. Iannone" initials="L." surname="Iannone">
+      <organization/>
+    </author>
+    <author fullname="R. Jorgensen" initials="R." surname="Jorgensen">
+      <organization/>
+    </author>
+    <author fullname="D. Conrad" initials="D." surname="Conrad">
+      <organization/>
+    </author>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
     <date year="2016" month="September"/>
     <workgroup>lisp</workgroup>
-    <abstract>This document proposes a framework for the management of the Locator/ ID Separation Protocol (LISP) Endpoint Identifier (EID) address block.  The framework described relies on hierarchical distribution of the address space, granting temporary usage of prefixes of such space to requesting organizations.</abstract>
+    <abstract>
+      <t>This document proposes a framework for the management of the Locator/ ID Separation Protocol (LISP) Endpoint Identifier (EID) address block.  The framework described relies on hierarchical distribution of the address space, granting temporary usage of prefixes of such space to requesting organizations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7955"/>
+  <seriesInfo name="RFC" value="7955"/>
 </reference>

@@ -1,10 +1,15 @@
 <reference anchor="RFC8069" target="https://www.rfc-editor.org/info/rfc8069">
   <front>
     <title>URN Namespace for IEEE</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8069"/>
-    <author fullname="A. Thomas"/>
+    <author fullname="A. Thomas" initials="A." surname="Thomas">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document describes the Namespace Identifier (NID) 'ieee' for Uniform Resource Names (URNs) used to identify resources published by the Institute of Electrical and Electronics Engineers (IEEE).  IEEE specifies and manages resources that utilize this URN identification model.  Management activities for these and other resources types are handled by the manager of the IEEE Registration Authority.</abstract>
+    <abstract>
+      <t>This document describes the Namespace Identifier (NID) 'ieee' for Uniform Resource Names (URNs) used to identify resources published by the Institute of Electrical and Electronics Engineers (IEEE).  IEEE specifies and manages resources that utilize this URN identification model.  Management activities for these and other resources types are handled by the manager of the IEEE Registration Authority.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8069"/>
+  <seriesInfo name="RFC" value="8069"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC3480" target="https://www.rfc-editor.org/info/rfc3480">
   <front>
     <title>Signalling Unnumbered Links in CR-LDP (Constraint-Routing Label Distribution Protocol)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3480"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="A. Kullberg"/>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="A. Kullberg" initials="A." surname="Kullberg">
+      <organization/>
+    </author>
     <date year="2003" month="February"/>
     <workgroup>mpls</workgroup>
-    <keyword>mpls</keyword>
-    <keyword>multiprotocol label switching</keyword>
-    <keyword>traffic engineering</keyword>
-    <keyword>mpls-te</keyword>
-    <abstract>Current signalling used by Multi-Protocol Label Switching Traffic Engineering (MPLS TE) does not provide support for unnumbered links.  This document defines procedures and extensions to Constraint-Routing Label Distribution Protocol (CR-LDP), one of the MPLS TE signalling protocols that are needed in order to support unnumbered links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Current signalling used by Multi-Protocol Label Switching Traffic Engineering (MPLS TE) does not provide support for unnumbered links.  This document defines procedures and extensions to Constraint-Routing Label Distribution Protocol (CR-LDP), one of the MPLS TE signalling protocols that are needed in order to support unnumbered links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3480"/>
+  <seriesInfo name="RFC" value="3480"/>
 </reference>

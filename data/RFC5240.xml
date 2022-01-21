@@ -1,15 +1,18 @@
 <reference anchor="RFC5240" target="https://www.rfc-editor.org/info/rfc5240">
   <front>
     <title>Protocol Independent Multicast (PIM) Bootstrap Router MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5240"/>
-    <author fullname="B. Joshi"/>
-    <author fullname="R. Bijlani"/>
+    <author fullname="B. Joshi" initials="B." surname="Joshi">
+      <organization/>
+    </author>
+    <author fullname="R. Bijlani" initials="R." surname="Bijlani">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>pim</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>bootstrap router</keyword>
-    <keyword>bsr</keyword>
-    <keyword>PIM-BSR-MIB</keyword>
-    <abstract>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Bootstrap Router (BSR) mechanism for PIM (Protocol Independent Multicast). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Bootstrap Router (BSR) mechanism for PIM (Protocol Independent Multicast). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5240"/>
+  <seriesInfo name="RFC" value="5240"/>
 </reference>

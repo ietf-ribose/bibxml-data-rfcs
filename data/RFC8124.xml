@@ -1,13 +1,18 @@
 <reference anchor="RFC8124" target="https://www.rfc-editor.org/info/rfc8124">
   <front>
     <title>The Session Description Protocol (SDP) WebSocket Connection URI Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8124"/>
-    <author fullname="R. Ravindranath"/>
-    <author fullname="G. Salgueiro"/>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>bfcpbis</workgroup>
-    <keyword>Secure WebSocket</keyword>
-    <keyword>Uniform Resource Identifier</keyword>
-    <abstract>The WebSocket protocol enables bidirectional real-time communication between clients and servers in web-based applications.  This document specifies extensions to Session Description Protocol (SDP) for application protocols using WebSocket as a transport.</abstract>
+    <abstract>
+      <t>The WebSocket protocol enables bidirectional real-time communication between clients and servers in web-based applications.  This document specifies extensions to Session Description Protocol (SDP) for application protocols using WebSocket as a transport.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8124"/>
+  <seriesInfo name="RFC" value="8124"/>
 </reference>

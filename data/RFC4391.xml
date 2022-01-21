@@ -1,14 +1,18 @@
 <reference anchor="RFC4391" target="https://www.rfc-editor.org/info/rfc4391">
   <front>
     <title>Transmission of IP over InfiniBand (IPoIB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4391"/>
-    <author fullname="J. Chu"/>
-    <author fullname="V. Kashyap"/>
+    <author fullname="J. Chu" initials="J." surname="Chu">
+      <organization/>
+    </author>
+    <author fullname="V. Kashyap" initials="V." surname="Kashyap">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>ipoib</workgroup>
-    <keyword>address resolution protocol</keyword>
-    <keyword>arp</keyword>
-    <keyword>ib</keyword>
-    <abstract>This document specifies a method for encapsulating and transmitting IPv4/IPv6 and Address Resolution Protocol (ARP) packets over InfiniBand (IB).  It describes the link-layer address to be used when resolving the IP addresses in IP over InfiniBand (IPoIB) subnets.  The document also describes the mapping from IP multicast addresses to InfiniBand multicast addresses.  In addition, this document defines the setup and configuration of IPoIB links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a method for encapsulating and transmitting IPv4/IPv6 and Address Resolution Protocol (ARP) packets over InfiniBand (IB).  It describes the link-layer address to be used when resolving the IP addresses in IP over InfiniBand (IPoIB) subnets.  The document also describes the mapping from IP multicast addresses to InfiniBand multicast addresses.  In addition, this document defines the setup and configuration of IPoIB links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4391"/>
+  <seriesInfo name="RFC" value="4391"/>
 </reference>

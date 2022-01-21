@@ -1,11 +1,18 @@
 <reference anchor="RFC4030" target="https://www.rfc-editor.org/info/rfc4030">
   <front>
     <title>The Authentication Suboption for the Dynamic Host Configuration Protocol (DHCP) Relay Agent Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4030"/>
-    <author fullname="M. Stapp"/>
-    <author fullname="T. Lemon"/>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>dhc</workgroup>
-    <abstract>The Dynamic Host Configuration Protocol (DHCP) Relay Agent Information Option (RFC 3046) conveys information between a DHCP Relay Agent and a DHCP server.  This specification defines an authentication suboption for that option, containing a keyed hash in its payload.  The suboption supports data integrity and replay protection for relayed DHCP messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Dynamic Host Configuration Protocol (DHCP) Relay Agent Information Option (RFC 3046) conveys information between a DHCP Relay Agent and a DHCP server.  This specification defines an authentication suboption for that option, containing a keyed hash in its payload.  The suboption supports data integrity and replay protection for relayed DHCP messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4030"/>
+  <seriesInfo name="RFC" value="4030"/>
 </reference>

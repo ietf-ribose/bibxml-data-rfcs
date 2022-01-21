@@ -1,16 +1,17 @@
 <reference anchor="RFC1864" target="https://www.rfc-editor.org/info/rfc1864">
   <front>
     <title>The Content-MD5 Header Field</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1864"/>
-    <author fullname="J. Myers"/>
-    <author fullname="M. Rose"/>
+    <author fullname="J. Myers" initials="J." surname="Myers">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="1995" month="October"/>
-    <keyword>CON-MD5</keyword>
-    <keyword>MIME</keyword>
-    <keyword>EMail</keyword>
-    <keyword>Integrity</keyword>
-    <keyword>MIC</keyword>
-    <keyword>Digest</keyword>
-    <abstract>This memo specifies an optional header field, Content-MD5, for use with MIME-conformant messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies an optional header field, Content-MD5, for use with MIME-conformant messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1864"/>
+  <seriesInfo name="RFC" value="1864"/>
 </reference>

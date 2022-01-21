@@ -1,16 +1,22 @@
 <reference anchor="RFC4221" target="https://www.rfc-editor.org/info/rfc4221">
   <front>
     <title>Multiprotocol Label Switching (MPLS) Management Overview</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4221"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="C. Srinivasan"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="C. Srinivasan" initials="C." surname="Srinivasan">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>mpls</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>management architecture</keyword>
-    <keyword>network management</keyword>
-    <abstract>A range of Management Information Base (MIB) modules has been developed to help model and manage the various aspects of Multiprotocol Label Switching (MPLS) networks. These MIB modules are defined in separate documents that focus on the specific areas of responsibility of the modules that they describe. This document describes the management architecture for MPLS and indicates the interrelationships between the different MIB modules used for MPLS network management. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>A range of Management Information Base (MIB) modules has been developed to help model and manage the various aspects of Multiprotocol Label Switching (MPLS) networks. These MIB modules are defined in separate documents that focus on the specific areas of responsibility of the modules that they describe.</t>
+      <t>This document describes the management architecture for MPLS and indicates the interrelationships between the different MIB modules used for MPLS network management. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4221"/>
+  <seriesInfo name="RFC" value="4221"/>
 </reference>

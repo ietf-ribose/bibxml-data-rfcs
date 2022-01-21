@@ -1,18 +1,15 @@
 <reference anchor="RFC2603" target="https://www.rfc-editor.org/info/rfc2603">
   <front>
     <title>ILMI-Based Server Discovery for NHRP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2603"/>
-    <author fullname="M. Davison"/>
+    <author fullname="M. Davison" initials="M." surname="Davison">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>ion</workgroup>
-    <keyword>integrated</keyword>
-    <keyword>local</keyword>
-    <keyword>management</keyword>
-    <keyword>interface</keyword>
-    <keyword>next</keyword>
-    <keyword>hop</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo defines how ILMI-based Server Discovery, which provides a method for ATM-attached hosts and routers to dynamically determine the ATM addresses of servers, shall be used to locate NHRP servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines how ILMI-based Server Discovery, which provides a method for ATM-attached hosts and routers to dynamically determine the ATM addresses of servers, shall be used to locate NHRP servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2603"/>
+  <seriesInfo name="RFC" value="2603"/>
 </reference>

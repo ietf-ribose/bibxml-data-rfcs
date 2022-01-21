@@ -1,13 +1,18 @@
 <reference anchor="RFC4287" target="https://www.rfc-editor.org/info/rfc4287">
   <front>
     <title>The Atom Syndication Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4287"/>
-    <author fullname="M. Nottingham"/>
-    <author fullname="R. Sayre"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
+    <author fullname="R. Sayre" initials="R." surname="Sayre">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>atompub</workgroup>
-    <keyword>xml-basd web content</keyword>
-    <keyword>metadata</keyword>
-    <abstract>This document specifies Atom, an XML-based Web content and metadata syndication format. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies Atom, an XML-based Web content and metadata syndication format. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4287"/>
+  <seriesInfo name="RFC" value="4287"/>
 </reference>

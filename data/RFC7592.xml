@@ -1,13 +1,24 @@
 <reference anchor="RFC7592" target="https://www.rfc-editor.org/info/rfc7592">
   <front>
     <title>OAuth 2.0 Dynamic Client Registration Management Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7592"/>
-    <author fullname="J. Richer"/>
-    <author fullname="M. Jones"/>
-    <author fullname="J. Bradley"/>
-    <author fullname="M. Machulak"/>
+    <author fullname="J. Richer" initials="J." surname="Richer">
+      <organization/>
+    </author>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="J. Bradley" initials="J." surname="Bradley">
+      <organization/>
+    </author>
+    <author fullname="M. Machulak" initials="M." surname="Machulak">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>oauth</workgroup>
-    <abstract>This specification defines methods for management of OAuth 2.0 dynamic client registrations for use cases in which the properties of a registered client may need to be changed during the lifetime of the client.  Not all authorization servers supporting dynamic client registration will support these management methods.</abstract>
+    <abstract>
+      <t>This specification defines methods for management of OAuth 2.0 dynamic client registrations for use cases in which the properties of a registered client may need to be changed during the lifetime of the client.  Not all authorization servers supporting dynamic client registration will support these management methods.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7592"/>
+  <seriesInfo name="RFC" value="7592"/>
 </reference>

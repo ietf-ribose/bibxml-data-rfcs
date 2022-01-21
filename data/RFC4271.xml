@@ -1,14 +1,24 @@
 <reference anchor="RFC4271" target="https://www.rfc-editor.org/info/rfc4271">
   <front>
     <title>A Border Gateway Protocol 4 (BGP-4)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4271"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="T. Li"/>
-    <author fullname="S. Hares"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="S. Hares" initials="S." surname="Hares">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-4</keyword>
-    <keyword>routing</keyword>
-    <abstract>This document discusses the Border Gateway Protocol (BGP), which is an inter-Autonomous System routing protocol. The primary function of a BGP speaking system is to exchange network reachability information with other BGP systems. This network reachability information includes information on the list of Autonomous Systems (ASes) that reachability information traverses. This information is sufficient for constructing a graph of AS connectivity for this reachability from which routing loops may be pruned, and, at the AS level, some policy decisions may be enforced. BGP-4 provides a set of mechanisms for supporting Classless Inter-Domain Routing (CIDR). These mechanisms include support for advertising a set of destinations as an IP prefix, and eliminating the concept of network "class" within BGP. BGP-4 also introduces mechanisms that allow aggregation of routes, including aggregation of AS paths. This document obsoletes RFC 1771. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document discusses the Border Gateway Protocol (BGP), which is an inter-Autonomous System routing protocol.</t>
+      <t>The primary function of a BGP speaking system is to exchange network reachability information with other BGP systems. This network reachability information includes information on the list of Autonomous Systems (ASes) that reachability information traverses. This information is sufficient for constructing a graph of AS connectivity for this reachability from which routing loops may be pruned, and, at the AS level, some policy decisions may be enforced.</t>
+      <t>BGP-4 provides a set of mechanisms for supporting Classless Inter-Domain Routing (CIDR). These mechanisms include support for advertising a set of destinations as an IP prefix, and eliminating the concept of network "class" within BGP. BGP-4 also introduces mechanisms that allow aggregation of routes, including aggregation of AS paths.</t>
+      <t>This document obsoletes RFC 1771. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4271"/>
+  <seriesInfo name="RFC" value="4271"/>
 </reference>

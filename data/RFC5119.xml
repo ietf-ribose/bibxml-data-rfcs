@@ -1,12 +1,15 @@
 <reference anchor="RFC5119" target="https://www.rfc-editor.org/info/rfc5119">
   <front>
     <title>A Uniform Resource Name (URN) Namespace for the Society of Motion Picture and Television Engineers (SMPTE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5119"/>
-    <author fullname="T. Edwards"/>
+    <author fullname="T. Edwards" initials="T." surname="Edwards">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>persistent resources</keyword>
-    <keyword>universal labels,</keyword>
-    <abstract>This document describes a Uniform Resource Name (URN) namespace for the Society of Motion Picture and Television Engineers (SMPTE) for naming persistent resources that SMPTE produces or manages.  A subnamespace for Universal Labels is specifically described.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a Uniform Resource Name (URN) namespace for the Society of Motion Picture and Television Engineers (SMPTE) for naming persistent resources that SMPTE produces or manages.  A subnamespace for Universal Labels is specifically described.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5119"/>
+  <seriesInfo name="RFC" value="5119"/>
 </reference>

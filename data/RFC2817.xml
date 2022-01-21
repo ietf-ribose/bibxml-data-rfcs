@@ -1,17 +1,18 @@
 <reference anchor="RFC2817" target="https://www.rfc-editor.org/info/rfc2817">
   <front>
     <title>Upgrading to TLS Within HTTP/1.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2817"/>
-    <author fullname="R. Khare"/>
-    <author fullname="S. Lawrence"/>
+    <author fullname="R. Khare" initials="R." surname="Khare">
+      <organization/>
+    </author>
+    <author fullname="S. Lawrence" initials="S." surname="Lawrence">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
     <workgroup>tls</workgroup>
-    <keyword>hypertext</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>transport</keyword>
-    <keyword>layer</keyword>
-    <keyword>security</keyword>
-    <abstract>This memo explains how to use the Upgrade mechanism in HTTP/1.1 to initiate Transport Layer Security (TLS) over an existing TCP connection. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo explains how to use the Upgrade mechanism in HTTP/1.1 to initiate Transport Layer Security (TLS) over an existing TCP connection. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2817"/>
+  <seriesInfo name="RFC" value="2817"/>
 </reference>

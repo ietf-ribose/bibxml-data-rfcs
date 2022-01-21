@@ -1,16 +1,21 @@
 <reference anchor="RFC2502" target="https://www.rfc-editor.org/info/rfc2502">
   <front>
     <title>Limitations of Internet Protocol Suite for Distributed Simulation the Large Multicast Environment</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2502"/>
-    <author fullname="M. Pullen"/>
-    <author fullname="M. Myjak"/>
-    <author fullname="C. Bouwens"/>
+    <author fullname="M. Pullen" initials="M." surname="Pullen">
+      <organization/>
+    </author>
+    <author fullname="M. Myjak" initials="M." surname="Myjak">
+      <organization/>
+    </author>
+    <author fullname="C. Bouwens" initials="C." surname="Bouwens">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>lsma</workgroup>
-    <keyword>IP</keyword>
-    <keyword>DIS</keyword>
-    <keyword>distributed</keyword>
-    <keyword>applications</keyword>
-    <abstract>This memo defines services that LSMA has found to be required, and aspects of the Internet protocols that LSMA has found to need further development in order to meet these requirements.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines services that LSMA has found to be required, and aspects of the Internet protocols that LSMA has found to need further development in order to meet these requirements.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2502"/>
+  <seriesInfo name="RFC" value="2502"/>
 </reference>

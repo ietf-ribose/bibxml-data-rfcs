@@ -1,15 +1,21 @@
 <reference anchor="RFC5566" target="https://www.rfc-editor.org/info/rfc5566">
   <front>
     <title>BGP IPsec Tunnel Encapsulation Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5566"/>
-    <author fullname="L. Berger"/>
-    <author fullname="R. White"/>
-    <author fullname="E. Rosen"/>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
     <date year="2009" month="June"/>
     <workgroup>softwire</workgroup>
-    <keyword>border gateway protocol</keyword>
-    <keyword>safi</keyword>
-    <keyword>subsequent address family identifier</keyword>
-    <abstract>The BGP Encapsulation Subsequent Address Family Identifier (SAFI) provides a method for the dynamic exchange of encapsulation information and for the indication of encapsulation protocol types to be used for different next hops.  Currently, support for Generic Routing Encapsulation (GRE), Layer 2 Tunneling Protocol (L2TPv3), and IP in IP tunnel types are defined.  This document defines support for IPsec tunnel types. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The BGP Encapsulation Subsequent Address Family Identifier (SAFI) provides a method for the dynamic exchange of encapsulation information and for the indication of encapsulation protocol types to be used for different next hops.  Currently, support for Generic Routing Encapsulation (GRE), Layer 2 Tunneling Protocol (L2TPv3), and IP in IP tunnel types are defined.  This document defines support for IPsec tunnel types. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5566"/>
+  <seriesInfo name="RFC" value="5566"/>
 </reference>

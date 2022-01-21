@@ -1,16 +1,24 @@
 <reference anchor="RFC8289" target="https://www.rfc-editor.org/info/rfc8289">
   <front>
     <title>Controlled Delay Active Queue Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8289"/>
-    <author fullname="K. Nichols"/>
-    <author fullname="V. Jacobson"/>
-    <author fullname="A. McGregor"/>
-    <author fullname="J. Iyengar"/>
+    <author fullname="K. Nichols" initials="K." surname="Nichols">
+      <organization/>
+    </author>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
+    <author fullname="A. McGregor" initials="A." surname="McGregor">
+      <organization/>
+    </author>
+    <author fullname="J. Iyengar" initials="J." surname="Iyengar">
+      <organization/>
+    </author>
     <date year="2018" month="January"/>
     <workgroup>aqm</workgroup>
-    <keyword>CoDel</keyword>
-    <keyword>AQM</keyword>
-    <keyword>Active Queue Management</keyword>
-    <abstract>This document describes CoDel (Controlled Delay) -- a general framework that controls bufferbloat-generated excess delay in modern networking environments.  CoDel consists of an estimator, a setpoint, and a control loop.  It requires no configuration in normal Internet deployments.</abstract>
+    <abstract>
+      <t>This document describes CoDel (Controlled Delay) -- a general framework that controls bufferbloat-generated excess delay in modern networking environments.  CoDel consists of an estimator, a setpoint, and a control loop.  It requires no configuration in normal Internet deployments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8289"/>
+  <seriesInfo name="RFC" value="8289"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC7639" target="https://www.rfc-editor.org/info/rfc7639">
   <front>
     <title>The ALPN HTTP Header Field</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7639"/>
-    <author fullname="A. Hutton"/>
-    <author fullname="J. Uberti"/>
-    <author fullname="M. Thomson"/>
+    <author fullname="A. Hutton" initials="A." surname="Hutton">
+      <organization/>
+    </author>
+    <author fullname="J. Uberti" initials="J." surname="Uberti">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>httpbis</workgroup>
-    <keyword>HTTP CONNECT</keyword>
-    <keyword>Firewall</keyword>
-    <keyword>HTTP proxy</keyword>
-    <abstract>This specification allows HTTP CONNECT requests to indicate what protocol is intended to be used within the tunnel once established, using the ALPN header field.</abstract>
+    <abstract>
+      <t>This specification allows HTTP CONNECT requests to indicate what protocol is intended to be used within the tunnel once established, using the ALPN header field.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7639"/>
+  <seriesInfo name="RFC" value="7639"/>
 </reference>

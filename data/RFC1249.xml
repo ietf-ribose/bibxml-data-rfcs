@@ -1,17 +1,20 @@
 <reference anchor="RFC1249" target="https://www.rfc-editor.org/info/rfc1249">
   <front>
     <title>DIXIE Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1249"/>
-    <author fullname="T. Howes"/>
-    <author fullname="M. Smith"/>
-    <author fullname="B. Beecher"/>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="B. Beecher" initials="B." surname="Beecher">
+      <organization/>
+    </author>
     <date year="1991" month="August"/>
-    <keyword>DIXIE</keyword>
-    <keyword>DIXIE</keyword>
-    <keyword>protocol</keyword>
-    <keyword>directory services</keyword>
-    <keyword>X.500</keyword>
-    <keyword>DAP</keyword>
-    <abstract>This RFC defines a mechanism by which TCP/UDP based clients can access OSI Directory Service without the overhead of the ISO transport and presentation protocols required to implement full-blown DAP.  This memo provides information for the Internet community.  It does not specify any standard.</abstract>
+    <abstract>
+      <t>This RFC defines a mechanism by which TCP/UDP based clients can access OSI Directory Service without the overhead of the ISO transport and presentation protocols required to implement full-blown DAP.  This memo provides information for the Internet community.  It does not specify any standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1249"/>
+  <seriesInfo name="RFC" value="1249"/>
 </reference>

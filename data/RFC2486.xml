@@ -1,14 +1,18 @@
 <reference anchor="RFC2486" target="https://www.rfc-editor.org/info/rfc2486">
   <front>
     <title>The Network Access Identifier</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2486"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="M. Beadles"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="M. Beadles" initials="M." surname="Beadles">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
     <workgroup>roamops</workgroup>
-    <keyword>NAI</keyword>
-    <keyword>tunneling</keyword>
-    <keyword>roaming</keyword>
-    <abstract>This document proposes syntax for the Network Access Identifier (NAI), the userID submitted by the client during PPP authentication. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes syntax for the Network Access Identifier (NAI), the userID submitted by the client during PPP authentication. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2486"/>
+  <seriesInfo name="RFC" value="2486"/>
 </reference>

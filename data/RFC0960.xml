@@ -1,10 +1,17 @@
 <reference anchor="RFC0960" target="https://www.rfc-editor.org/info/rfc960">
   <front>
     <title>Assigned numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0960"/>
-    <author fullname="J.K. Reynolds"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J.K. Reynolds" initials="J.K." surname="Reynolds">
+      <organization/>
+    </author>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1985" month="December"/>
-    <abstract>This memo documents the currently assigned values from several series of numbers used in network protocol implementations.  This edition of Assigned Numbers updates and obsoletes RFC-943.  This memo is an official status report on the numbers used in protocols in the ARPA-Internet community.  See RFC-990 and 997.</abstract>
+    <abstract>
+      <t>This memo documents the currently assigned values from several series of numbers used in network protocol implementations.  This edition of Assigned Numbers updates and obsoletes RFC-943.  This memo is an official status report on the numbers used in protocols in the ARPA-Internet community.  See RFC-990 and 997.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0960"/>
+  <seriesInfo name="RFC" value="960"/>
 </reference>

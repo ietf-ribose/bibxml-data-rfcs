@@ -1,10 +1,15 @@
 <reference anchor="RFC6560" target="https://www.rfc-editor.org/info/rfc6560">
   <front>
     <title>One-Time Password (OTP) Pre-Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6560"/>
-    <author fullname="G. Richards"/>
+    <author fullname="G. Richards" initials="G." surname="Richards">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>krb-wg</workgroup>
-    <abstract>The Kerberos protocol provides a framework authenticating a client using the exchange of pre-authentication data.  This document describes the use of this framework to carry out One-Time Password (OTP) authentication. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Kerberos protocol provides a framework authenticating a client using the exchange of pre-authentication data.  This document describes the use of this framework to carry out One-Time Password (OTP) authentication. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6560"/>
+  <seriesInfo name="RFC" value="6560"/>
 </reference>

@@ -1,10 +1,17 @@
 <reference anchor="RFC1086" target="https://www.rfc-editor.org/info/rfc1086">
   <front>
     <title>ISO-TP0 bridge between TCP and X.25</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1086"/>
-    <author fullname="J.P. Onions"/>
-    <author fullname="M.T. Rose"/>
+    <author fullname="J.P. Onions" initials="J.P." surname="Onions">
+      <organization/>
+    </author>
+    <author fullname="M.T. Rose" initials="M.T." surname="Rose">
+      <organization/>
+    </author>
     <date year="1988" month="December"/>
-    <abstract>This memo proposes a standard for the Internet community.  Hosts on the Internet that choose to implement ISO TP0 transport connectivity between TCP and X.25 based hosts are expected to experiment with this proposal.  TCP port 146 is reserved for this proposal.</abstract>
+    <abstract>
+      <t>This memo proposes a standard for the Internet community.  Hosts on the Internet that choose to implement ISO TP0 transport connectivity between TCP and X.25 based hosts are expected to experiment with this proposal.  TCP port 146 is reserved for this proposal.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1086"/>
+  <seriesInfo name="RFC" value="1086"/>
 </reference>

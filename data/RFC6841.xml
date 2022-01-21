@@ -1,16 +1,22 @@
 <reference anchor="RFC6841" target="https://www.rfc-editor.org/info/rfc6841">
   <front>
     <title>A Framework for DNSSEC Policies and DNSSEC Practice Statements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6841"/>
-    <author fullname="F. Ljunggren"/>
-    <author fullname="AM. Eklund Lowinder"/>
-    <author fullname="T. Okubo"/>
+    <author fullname="F. Ljunggren" initials="F." surname="Ljunggren">
+      <organization/>
+    </author>
+    <author fullname="AM. Eklund Lowinder" initials="AM." surname="Eklund">
+      <organization/>
+    </author>
+    <author fullname="T. Okubo" initials="T." surname="Okubo">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>dnsop</workgroup>
-    <keyword>DNS</keyword>
-    <keyword>DNSSEC</keyword>
-    <keyword>DP</keyword>
-    <keyword>DPS</keyword>
-    <abstract>This document presents a framework to assist writers of DNS Security Extensions (DNSSEC) Policies and DNSSEC Practice Statements, such as domain managers and zone operators on both the top level and secondary level, who are managing and operating a DNS zone with Security Extensions implemented. In particular, the framework provides a comprehensive list of topics that should be considered for inclusion into a DNSSEC Policy definition and Practice Statement. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document presents a framework to assist writers of DNS Security Extensions (DNSSEC) Policies and DNSSEC Practice Statements, such as domain managers and zone operators on both the top level and secondary level, who are managing and operating a DNS zone with Security Extensions implemented.</t>
+      <t>In particular, the framework provides a comprehensive list of topics that should be considered for inclusion into a DNSSEC Policy definition and Practice Statement. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6841"/>
+  <seriesInfo name="RFC" value="6841"/>
 </reference>

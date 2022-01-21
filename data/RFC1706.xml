@@ -1,20 +1,17 @@
 <reference anchor="RFC1706" target="https://www.rfc-editor.org/info/rfc1706">
   <front>
     <title>DNS NSAP Resource Records</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1706"/>
-    <author fullname="B. Manning"/>
-    <author fullname="R. Colella"/>
+    <author fullname="B. Manning" initials="B." surname="Manning">
+      <organization/>
+    </author>
+    <author fullname="R. Colella" initials="R." surname="Colella">
+      <organization/>
+    </author>
     <date year="1994" month="October"/>
-    <keyword>DNS-NSAP</keyword>
-    <keyword>Domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>ISO</keyword>
-    <keyword>OSI</keyword>
-    <keyword>Address</keyword>
-    <keyword>RR</keyword>
-    <keyword>Record</keyword>
-    <keyword>Resource</keyword>
-    <abstract>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping.  The RR may be used with any NSAP address format.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping.  The RR may be used with any NSAP address format.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1706"/>
+  <seriesInfo name="RFC" value="1706"/>
 </reference>

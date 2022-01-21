@@ -1,14 +1,21 @@
 <reference anchor="RFC4568" target="https://www.rfc-editor.org/info/rfc4568">
   <front>
     <title>Session Description Protocol (SDP) Security Descriptions for Media Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4568"/>
-    <author fullname="F. Andreasen"/>
-    <author fullname="M. Baugher"/>
-    <author fullname="D. Wing"/>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
+    <author fullname="M. Baugher" initials="M." surname="Baugher">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>mmusic</workgroup>
-    <keyword>srtp</keyword>
-    <keyword>secure real-time transport protocol</keyword>
-    <abstract>This document defines a Session Description Protocol (SDP) cryptographic attribute for unicast media streams.  The attribute describes a cryptographic key and other parameters that serve to configure security for a unicast media stream in either a single message or a roundtrip exchange.  The attribute can be used with a variety of SDP media transports, and this document defines how to use it for the Secure Real-time Transport Protocol (SRTP) unicast media streams.  The SDP crypto attribute requires the services of a data security protocol to secure the SDP message. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Session Description Protocol (SDP) cryptographic attribute for unicast media streams.  The attribute describes a cryptographic key and other parameters that serve to configure security for a unicast media stream in either a single message or a roundtrip exchange.  The attribute can be used with a variety of SDP media transports, and this document defines how to use it for the Secure Real-time Transport Protocol (SRTP) unicast media streams.  The SDP crypto attribute requires the services of a data security protocol to secure the SDP message. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4568"/>
+  <seriesInfo name="RFC" value="4568"/>
 </reference>

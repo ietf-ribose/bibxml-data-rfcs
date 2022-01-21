@@ -1,15 +1,14 @@
 <reference anchor="RFC2193" target="https://www.rfc-editor.org/info/rfc2193">
   <front>
     <title>IMAP4 Mailbox Referrals</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2193"/>
-    <author fullname="M. Gahrns"/>
+    <author fullname="M. Gahrns" initials="M." surname="Gahrns">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
-    <keyword>IMAP4MAIL</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Access</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>messages</keyword>
-    <abstract>Mailbox referrals allow clients to seamlessly access mailboxes that are distributed across several IMAP4 servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Mailbox referrals allow clients to seamlessly access mailboxes that are distributed across several IMAP4 servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2193"/>
+  <seriesInfo name="RFC" value="2193"/>
 </reference>

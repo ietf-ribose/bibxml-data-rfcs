@@ -1,12 +1,16 @@
 <reference anchor="RFC9029" target="https://www.rfc-editor.org/info/rfc9029">
   <front>
     <title>Updates to the Allocation Policy for the Border Gateway Protocol - Link State (BGP-LS) Parameters Registries</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9029"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2021" month="June"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-LS</keyword>
-    <keyword>IANA</keyword>
-    <abstract>RFC 7752 defines the Border Gateway Protocol - Link State (BGP-LS). IANA created a registry consistent with that document called "Border Gateway Protocol - Link State (BGP-LS) Parameters" with a number of subregistries. The allocation policy applied by IANA for those registries is "Specification Required", as defined in RFC 8126. This document updates RFC 7752 by changing the allocation policy for all of the registries to "Expert Review" and by updating the guidance to the designated experts.</abstract>
+    <abstract>
+      <t>RFC 7752 defines the Border Gateway Protocol - Link State (BGP-LS). IANA created a registry consistent with that document called "Border Gateway Protocol - Link State (BGP-LS) Parameters" with a number of subregistries. The allocation policy applied by IANA for those registries is "Specification Required", as defined in RFC 8126.</t>
+      <t>This document updates RFC 7752 by changing the allocation policy for all of the registries to "Expert Review" and by updating the guidance to the designated experts.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9029"/>
+  <seriesInfo name="RFC" value="9029"/>
 </reference>

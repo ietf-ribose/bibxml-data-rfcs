@@ -1,15 +1,15 @@
 <reference anchor="RFC2923" target="https://www.rfc-editor.org/info/rfc2923">
   <front>
     <title>TCP Problems with Path MTU Discovery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2923"/>
-    <author fullname="K. Lahey"/>
+    <author fullname="K. Lahey" initials="K." surname="Lahey">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>tcpimpl</workgroup>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <keyword>maximum</keyword>
-    <keyword>unit</keyword>
-    <abstract>This memo catalogs several known Transmission Control Protocol (TCP) implementation problems dealing with Path Maximum Transmission Unit Discovery (PMTUD), including the long-standing black hole problem, stretch acknowlegements (ACKs) due to confusion between Maximum Segment Size (MSS) and segment size, and MSS advertisement based on PMTU.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo catalogs several known Transmission Control Protocol (TCP) implementation problems dealing with Path Maximum Transmission Unit Discovery (PMTUD), including the long-standing black hole problem, stretch acknowlegements (ACKs) due to confusion between Maximum Segment Size (MSS) and segment size, and MSS advertisement based on PMTU.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2923"/>
+  <seriesInfo name="RFC" value="2923"/>
 </reference>

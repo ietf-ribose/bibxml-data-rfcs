@@ -1,10 +1,14 @@
 <reference anchor="RFC7511" target="https://www.rfc-editor.org/info/rfc7511">
   <front>
     <title>Scenic Routing for IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7511"/>
-    <author fullname="M. Wilhelm"/>
+    <author fullname="M. Wilhelm" initials="M." surname="Wilhelm">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
-    <keyword>green it</keyword>
-    <abstract>This document specifies a new routing scheme for the current version of the Internet Protocol version 6 (IPv6) in the spirit of "Green IT", whereby packets will be routed to get as much fresh-air time as possible.</abstract>
+    <abstract>
+      <t>This document specifies a new routing scheme for the current version of the Internet Protocol version 6 (IPv6) in the spirit of "Green IT", whereby packets will be routed to get as much fresh-air time as possible.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7511"/>
+  <seriesInfo name="RFC" value="7511"/>
 </reference>

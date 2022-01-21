@@ -1,19 +1,27 @@
 <reference anchor="RFC7044" target="https://www.rfc-editor.org/info/rfc7044">
   <front>
     <title>An Extension to the Session Initiation Protocol (SIP) for Request History Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7044"/>
-    <author fullname="M. Barnes"/>
-    <author fullname="F. Audet"/>
-    <author fullname="S. Schubert"/>
-    <author fullname="J. van Elburg"/>
-    <author fullname="C. Holmberg"/>
+    <author fullname="M. Barnes" initials="M." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="F. Audet" initials="F." surname="Audet">
+      <organization/>
+    </author>
+    <author fullname="S. Schubert" initials="S." surname="Schubert">
+      <organization/>
+    </author>
+    <author fullname="J. van Elburg" initials="J." surname="van">
+      <organization/>
+    </author>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
     <date year="2014" month="February"/>
     <workgroup>sipcore</workgroup>
-    <keyword>history-info</keyword>
-    <keyword>retarget</keyword>
-    <keyword>enhanced services</keyword>
-    <keyword>voicemail</keyword>
-    <keyword>automatic call distribution</keyword>
-    <abstract>This document defines a standard mechanism for capturing the history information associated with a Session Initiation Protocol (SIP) request.  This capability enables many enhanced services by providing the information as to how and why a SIP request arrives at a specific application or user.  This document defines an optional SIP header field, History-Info, for capturing the history information in requests.  The document also defines SIP header field parameters for the History-Info and Contact header fields to tag the method by which the target of a request is determined.  In addition, this specification defines a value for the Privacy header field that directs the anonymization of values in the History-Info header field.  This document obsoletes RFC 4244.</abstract>
+    <abstract>
+      <t>This document defines a standard mechanism for capturing the history information associated with a Session Initiation Protocol (SIP) request.  This capability enables many enhanced services by providing the information as to how and why a SIP request arrives at a specific application or user.  This document defines an optional SIP header field, History-Info, for capturing the history information in requests.  The document also defines SIP header field parameters for the History-Info and Contact header fields to tag the method by which the target of a request is determined.  In addition, this specification defines a value for the Privacy header field that directs the anonymization of values in the History-Info header field.  This document obsoletes RFC 4244.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7044"/>
+  <seriesInfo name="RFC" value="7044"/>
 </reference>

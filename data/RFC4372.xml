@@ -1,17 +1,24 @@
 <reference anchor="RFC4372" target="https://www.rfc-editor.org/info/rfc4372">
   <front>
     <title>Chargeable User Identity</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4372"/>
-    <author fullname="F. Adrangi"/>
-    <author fullname="A. Lior"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="J. Loughney"/>
+    <author fullname="F. Adrangi" initials="F." surname="Adrangi">
+      <organization/>
+    </author>
+    <author fullname="A. Lior" initials="A." surname="Lior">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="J. Loughney" initials="J." surname="Loughney">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>radext</workgroup>
-    <keyword>radius</keyword>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>roaming transaction</keyword>
-    <keyword>home network</keyword>
-    <abstract>This document describes a new Remote Authentication Dial-In User Service (RADIUS) attribute, Chargeable-User-Identity.  This attribute can be used by a home network to identify a user for the purpose of roaming transactions that occur outside of the home network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a new Remote Authentication Dial-In User Service (RADIUS) attribute, Chargeable-User-Identity.  This attribute can be used by a home network to identify a user for the purpose of roaming transactions that occur outside of the home network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4372"/>
+  <seriesInfo name="RFC" value="4372"/>
 </reference>

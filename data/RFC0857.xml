@@ -1,11 +1,18 @@
 <reference anchor="RFC0857" target="https://www.rfc-editor.org/info/rfc857">
   <front>
     <title>Telnet Echo Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0857"/>
-    <author fullname="J. Postel"/>
-    <author fullname="J. Reynolds"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1983" month="May"/>
-    <keyword>TOPT-ECHO</keyword>
-    <abstract>This Telnet Option enables remote echoing by the other Telnet module.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 15390.</abstract>
+    <abstract>
+      <t>This Telnet Option enables remote echoing by the other Telnet module.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 15390.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0857"/>
+  <seriesInfo name="STD" value="28"/>
+  <seriesInfo name="RFC" value="857"/>
 </reference>

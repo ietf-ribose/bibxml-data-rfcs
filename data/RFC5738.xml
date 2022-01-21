@@ -1,13 +1,18 @@
 <reference anchor="RFC5738" target="https://www.rfc-editor.org/info/rfc5738">
   <front>
     <title>IMAP Support for UTF-8</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5738"/>
-    <author fullname="P. Resnick"/>
-    <author fullname="C. Newman"/>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>eai</workgroup>
-    <keyword>internet message access protocol</keyword>
-    <keyword>imap4rev1</keyword>
-    <abstract>This specification extends the Internet Message Access Protocol version 4rev1 (IMAP4rev1) to support UTF-8 encoded international characters in user names, mail addresses, and message headers.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This specification extends the Internet Message Access Protocol version 4rev1 (IMAP4rev1) to support UTF-8 encoded international characters in user names, mail addresses, and message headers.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5738"/>
+  <seriesInfo name="RFC" value="5738"/>
 </reference>

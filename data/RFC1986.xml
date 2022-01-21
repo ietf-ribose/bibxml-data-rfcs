@@ -1,15 +1,23 @@
 <reference anchor="RFC1986" target="https://www.rfc-editor.org/info/rfc1986">
   <front>
     <title>Experiments with a Simple File Transfer Protocol for Radio Links using Enhanced Trivial File Transfer Protocol (ETFTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1986"/>
-    <author fullname="W. Polites"/>
-    <author fullname="W. Wollman"/>
-    <author fullname="D. Woo"/>
-    <author fullname="R. Langan"/>
+    <author fullname="W. Polites" initials="W." surname="Polites">
+      <organization/>
+    </author>
+    <author fullname="W. Wollman" initials="W." surname="Wollman">
+      <organization/>
+    </author>
+    <author fullname="D. Woo" initials="D." surname="Woo">
+      <organization/>
+    </author>
+    <author fullname="R. Langan" initials="R." surname="Langan">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
-    <keyword>ETFTP</keyword>
-    <keyword>TFTP</keyword>
-    <keyword>NETBLT</keyword>
-    <abstract>This document is a description of the Enhanced Trivial File Transfer Protocol (ETFTP).  This protocol is an experimental implementation of the NETwork BLock Transfer Protocol (NETBLT), RFC 998 [1], as a file transfer application program.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document is a description of the Enhanced Trivial File Transfer Protocol (ETFTP).  This protocol is an experimental implementation of the NETwork BLock Transfer Protocol (NETBLT), RFC 998 [1], as a file transfer application program.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1986"/>
+  <seriesInfo name="RFC" value="1986"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="RFC8072" target="https://www.rfc-editor.org/info/rfc8072">
   <front>
     <title>YANG Patch Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8072"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="K. Watsen"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>netconf</workgroup>
-    <keyword>RESTCONF</keyword>
-    <abstract>This document describes a method for applying patches to configuration datastores using data defined with the YANG data modeling language.</abstract>
+    <abstract>
+      <t>This document describes a method for applying patches to configuration datastores using data defined with the YANG data modeling language.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8072"/>
+  <seriesInfo name="RFC" value="8072"/>
 </reference>

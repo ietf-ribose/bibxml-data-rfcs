@@ -1,14 +1,18 @@
 <reference anchor="RFC2684" target="https://www.rfc-editor.org/info/rfc2684">
   <front>
     <title>Multiprotocol Encapsulation over ATM Adaptation Layer 5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2684"/>
-    <author fullname="D. Grossman"/>
-    <author fullname="J. Heinanen"/>
+    <author fullname="D. Grossman" initials="D." surname="Grossman">
+      <organization/>
+    </author>
+    <author fullname="J. Heinanen" initials="J." surname="Heinanen">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>ion</workgroup>
-    <keyword>asynchronous,transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>multiplexing</keyword>
-    <abstract>This memo replaces RFC 1483.  It describes two encapsulations methods for carrying network interconnect traffic over AAL type 5 over ATM. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo replaces RFC 1483.  It describes two encapsulations methods for carrying network interconnect traffic over AAL type 5 over ATM. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2684"/>
+  <seriesInfo name="RFC" value="2684"/>
 </reference>

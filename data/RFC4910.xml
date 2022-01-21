@@ -1,14 +1,18 @@
 <reference anchor="RFC4910" target="https://www.rfc-editor.org/info/rfc4910">
   <front>
     <title>Robust XML Encoding Rules (RXER) for Abstract Syntax Notation One (ASN.1)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4910"/>
-    <author fullname="S. Legg"/>
-    <author fullname="D. Prager"/>
+    <author fullname="S. Legg" initials="S." surname="Legg">
+      <organization/>
+    </author>
+    <author fullname="D. Prager" initials="D." surname="Prager">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>extensible markup language</keyword>
-    <keyword>canonical rxer</keyword>
-    <keyword>crxer</keyword>
-    <abstract>This document defines a set of Abstract Syntax Notation One (ASN.1) encoding rules, called the Robust XML Encoding Rules or RXER, that produce an Extensible Markup Language (XML) representation for values of any given ASN.1 data type.  Rules for producing a canonical RXER encoding are also defined.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines a set of Abstract Syntax Notation One (ASN.1) encoding rules, called the Robust XML Encoding Rules or RXER, that produce an Extensible Markup Language (XML) representation for values of any given ASN.1 data type.  Rules for producing a canonical RXER encoding are also defined.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4910"/>
+  <seriesInfo name="RFC" value="4910"/>
 </reference>

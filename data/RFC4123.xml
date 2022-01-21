@@ -1,11 +1,17 @@
 <reference anchor="RFC4123" target="https://www.rfc-editor.org/info/rfc4123">
   <front>
     <title>Session Initiation Protocol (SIP)-H.323 Interworking Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4123"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="C. Agboh"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="C. Agboh" initials="C." surname="Agboh">
+      <organization/>
+    </author>
     <date year="2005" month="July"/>
-    <keyword>SIP-H.323 IWF</keyword>
-    <abstract>This document describes the requirements for the logical entity known as the Session Initiation Protocol (SIP)-H.323 Interworking Function (SIP-H.323 IWF) that will allow the interworking between SIP and H.323.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the requirements for the logical entity known as the Session Initiation Protocol (SIP)-H.323 Interworking Function (SIP-H.323 IWF) that will allow the interworking between SIP and H.323.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4123"/>
+  <seriesInfo name="RFC" value="4123"/>
 </reference>

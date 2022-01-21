@@ -1,11 +1,15 @@
 <reference anchor="RFC4370" target="https://www.rfc-editor.org/info/rfc4370">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Proxied Authorization Control</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4370"/>
-    <author fullname="R. Weltman"/>
+    <author fullname="R. Weltman" initials="R." surname="Weltman">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>proxy authorization control</keyword>
-    <abstract>This document defines the Lightweight Directory Access Protocol (LDAP) Proxy Authorization Control.  The Proxy Authorization Control allows a client to request that an operation be processed under a provided authorization identity instead of under the current authorization identity associated with the connection. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Lightweight Directory Access Protocol (LDAP) Proxy Authorization Control.  The Proxy Authorization Control allows a client to request that an operation be processed under a provided authorization identity instead of under the current authorization identity associated with the connection. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4370"/>
+  <seriesInfo name="RFC" value="4370"/>
 </reference>

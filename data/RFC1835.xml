@@ -1,23 +1,24 @@
 <reference anchor="RFC1835" target="https://www.rfc-editor.org/info/rfc1835">
   <front>
     <title>Architecture of the WHOIS++ service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1835"/>
-    <author fullname="P. Deutsch"/>
-    <author fullname="R. Schoultz"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="C. Weider"/>
+    <author fullname="P. Deutsch" initials="P." surname="Deutsch">
+      <organization/>
+    </author>
+    <author fullname="R. Schoultz" initials="R." surname="Schoultz">
+      <organization/>
+    </author>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="C. Weider" initials="C." surname="Weider">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
     <workgroup>wnils</workgroup>
-    <keyword>WHOIS++</keyword>
-    <keyword>nicname</keyword>
-    <keyword>TCP</keyword>
-    <keyword>Transmission</keyword>
-    <keyword>Control</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>directory</keyword>
-    <keyword>service</keyword>
-    <keyword>server</keyword>
-    <keyword>retrieval</keyword>
-    <abstract>This document describes WHOIS++, an extension to the trivial WHOIS service described in RFC 954 to permit WHOIS-like servers to make available more structured information to the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes WHOIS++, an extension to the trivial WHOIS service described in RFC 954 to permit WHOIS-like servers to make available more structured information to the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1835"/>
+  <seriesInfo name="RFC" value="1835"/>
 </reference>

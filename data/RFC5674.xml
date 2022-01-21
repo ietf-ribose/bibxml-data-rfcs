@@ -1,13 +1,18 @@
 <reference anchor="RFC5674" target="https://www.rfc-editor.org/info/rfc5674">
   <front>
     <title>Alarms in Syslog</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5674"/>
-    <author fullname="S. Chisholm"/>
-    <author fullname="R. Gerhards"/>
+    <author fullname="S. Chisholm" initials="S." surname="Chisholm">
+      <organization/>
+    </author>
+    <author fullname="R. Gerhards" initials="R." surname="Gerhards">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>opsawg</workgroup>
-    <keyword>SYSLOG</keyword>
-    <keyword>alarm</keyword>
-    <abstract>This document describes how to send alarm information in syslog.  It includes the mapping of ITU perceived severities onto syslog message fields.  It also includes a number of alarm-specific SD-PARAM definitions from X.733 and the IETF Alarm MIB. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to send alarm information in syslog.  It includes the mapping of ITU perceived severities onto syslog message fields.  It also includes a number of alarm-specific SD-PARAM definitions from X.733 and the IETF Alarm MIB. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5674"/>
+  <seriesInfo name="RFC" value="5674"/>
 </reference>

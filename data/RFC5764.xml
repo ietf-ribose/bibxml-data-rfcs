@@ -1,13 +1,18 @@
 <reference anchor="RFC5764" target="https://www.rfc-editor.org/info/rfc5764">
   <front>
     <title>Datagram Transport Layer Security (DTLS) Extension to Establish Keys for the Secure Real-time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5764"/>
-    <author fullname="D. McGrew"/>
-    <author fullname="E. Rescorla"/>
+    <author fullname="D. McGrew" initials="D." surname="McGrew">
+      <organization/>
+    </author>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>avt</workgroup>
-    <keyword>secure rtp control protocol</keyword>
-    <keyword>srtcp</keyword>
-    <abstract>This document describes a Datagram Transport Layer Security (DTLS) extension to establish keys for Secure RTP (SRTP) and Secure RTP Control Protocol (SRTCP) flows.  DTLS keying happens on the media path, independent of any out-of-band signalling channel present. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a Datagram Transport Layer Security (DTLS) extension to establish keys for Secure RTP (SRTP) and Secure RTP Control Protocol (SRTCP) flows.  DTLS keying happens on the media path, independent of any out-of-band signalling channel present. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5764"/>
+  <seriesInfo name="RFC" value="5764"/>
 </reference>

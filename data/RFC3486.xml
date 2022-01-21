@@ -1,10 +1,15 @@
 <reference anchor="RFC3486" target="https://www.rfc-editor.org/info/rfc3486">
   <front>
     <title>Compressing the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3486"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2003" month="February"/>
     <workgroup>sip</workgroup>
-    <abstract>This document describes a mechanism to signal that compression is desired for one or more Session Initiation Protocol (SIP) messages.  It also states when it is appropriate to send compressed SIP messages to a SIP entity. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a mechanism to signal that compression is desired for one or more Session Initiation Protocol (SIP) messages.  It also states when it is appropriate to send compressed SIP messages to a SIP entity. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3486"/>
+  <seriesInfo name="RFC" value="3486"/>
 </reference>

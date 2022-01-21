@@ -1,13 +1,21 @@
 <reference anchor="RFC6505" target="https://www.rfc-editor.org/info/rfc6505">
   <front>
     <title>A Mixer Control Package for the Media Control Channel Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6505"/>
-    <author fullname="S. McGlashan"/>
-    <author fullname="T. Melanchuk"/>
-    <author fullname="C. Boulton"/>
+    <author fullname="S. McGlashan" initials="S." surname="McGlashan">
+      <organization/>
+    </author>
+    <author fullname="T. Melanchuk" initials="T." surname="Melanchuk">
+      <organization/>
+    </author>
+    <author fullname="C. Boulton" initials="C." surname="Boulton">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>mediactrl</workgroup>
-    <keyword>conference mixer</keyword>
-    <abstract>This document defines a Media Control Channel Framework Package for managing mixers for media conferences and connections.  The package defines request elements for managing conference mixers, managing mixers between conferences and/or connections, as well as associated responses and notifications.  The package also defines elements for auditing package capabilities and mixers [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Media Control Channel Framework Package for managing mixers for media conferences and connections.  The package defines request elements for managing conference mixers, managing mixers between conferences and/or connections, as well as associated responses and notifications.  The package also defines elements for auditing package capabilities and mixers [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6505"/>
+  <seriesInfo name="RFC" value="6505"/>
 </reference>

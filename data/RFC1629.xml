@@ -1,16 +1,24 @@
 <reference anchor="RFC1629" target="https://www.rfc-editor.org/info/rfc1629">
   <front>
     <title>Guidelines for OSI NSAP Allocation in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1629"/>
-    <author fullname="R. Colella"/>
-    <author fullname="R. Callon"/>
-    <author fullname="E. Gardner"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="R. Colella" initials="R." surname="Colella">
+      <organization/>
+    </author>
+    <author fullname="R. Callon" initials="R." surname="Callon">
+      <organization/>
+    </author>
+    <author fullname="E. Gardner" initials="E." surname="Gardner">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
     <workgroup>osinsap</workgroup>
-    <keyword>OSI-NSAP</keyword>
-    <keyword>CLNP</keyword>
-    <keyword>Address</keyword>
-    <abstract>This paper provides guidelines for allocating NSAP addresses in the Internet.  The guidelines provided in this paper have been the basis for initial deployment of CLNP in the Internet, and have proven very valuable both as an aid to scaling of CLNP routing, and for address administration. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This paper provides guidelines for allocating NSAP addresses in the Internet.  The guidelines provided in this paper have been the basis for initial deployment of CLNP in the Internet, and have proven very valuable both as an aid to scaling of CLNP routing, and for address administration. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1629"/>
+  <seriesInfo name="RFC" value="1629"/>
 </reference>

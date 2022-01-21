@@ -1,16 +1,18 @@
 <reference anchor="RFC3012" target="https://www.rfc-editor.org/info/rfc3012">
   <front>
     <title>Mobile IPv4 Challenge/Response Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3012"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="P. Calhoun"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>mobileip</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>authentication</keyword>
-    <keyword>foreign</keyword>
-    <keyword>agent</keyword>
-    <abstract>In this specification, we define extensions for the Mobile IP Agent Advertisements and the Registration Request that allow a foreign agent to use a challenge/response mechanism to authenticate the mobile node. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In this specification, we define extensions for the Mobile IP Agent Advertisements and the Registration Request that allow a foreign agent to use a challenge/response mechanism to authenticate the mobile node. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3012"/>
+  <seriesInfo name="RFC" value="3012"/>
 </reference>

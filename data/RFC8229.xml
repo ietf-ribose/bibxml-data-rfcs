@@ -1,16 +1,21 @@
 <reference anchor="RFC8229" target="https://www.rfc-editor.org/info/rfc8229">
   <front>
     <title>TCP Encapsulation of IKE and IPsec Packets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8229"/>
-    <author fullname="T. Pauly"/>
-    <author fullname="S. Touati"/>
-    <author fullname="R. Mantha"/>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author fullname="S. Touati" initials="S." surname="Touati">
+      <organization/>
+    </author>
+    <author fullname="R. Mantha" initials="R." surname="Mantha">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IKE</keyword>
-    <keyword>IKEv2</keyword>
-    <keyword>IPsec</keyword>
-    <keyword>TCP</keyword>
-    <abstract>This document describes a method to transport Internet Key Exchange Protocol (IKE) and IPsec packets over a TCP connection for traversing network middleboxes that may block IKE negotiation over UDP.  This method, referred to as "TCP encapsulation", involves sending both IKE packets for Security Association establishment and Encapsulating Security Payload (ESP) packets over a TCP connection.  This method is intended to be used as a fallback option when IKE cannot be negotiated over UDP.</abstract>
+    <abstract>
+      <t>This document describes a method to transport Internet Key Exchange Protocol (IKE) and IPsec packets over a TCP connection for traversing network middleboxes that may block IKE negotiation over UDP.  This method, referred to as "TCP encapsulation", involves sending both IKE packets for Security Association establishment and Encapsulating Security Payload (ESP) packets over a TCP connection.  This method is intended to be used as a fallback option when IKE cannot be negotiated over UDP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8229"/>
+  <seriesInfo name="RFC" value="8229"/>
 </reference>

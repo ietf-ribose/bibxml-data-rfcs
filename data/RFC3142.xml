@@ -1,14 +1,18 @@
 <reference anchor="RFC3142" target="https://www.rfc-editor.org/info/rfc3142">
   <front>
     <title>An IPv6-to-IPv4 Transport Relay Translator</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3142"/>
-    <author fullname="J. Hagino"/>
-    <author fullname="K. Yamamoto"/>
+    <author fullname="J. Hagino" initials="J." surname="Hagino">
+      <organization/>
+    </author>
+    <author fullname="K. Yamamoto" initials="K." surname="Yamamoto">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
     <workgroup>ngtrans</workgroup>
-    <keyword>TRT</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <abstract>The document describes an IPv6-to-IPv4 transport relay translator (TRT).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The document describes an IPv6-to-IPv4 transport relay translator (TRT).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3142"/>
+  <seriesInfo name="RFC" value="3142"/>
 </reference>

@@ -1,23 +1,30 @@
 <reference anchor="RFC6598" target="https://www.rfc-editor.org/info/rfc6598">
   <front>
     <title>IANA-Reserved IPv4 Prefix for Shared Address Space</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6598"/>
-    <author fullname="J. Weil"/>
-    <author fullname="V. Kuarsingh"/>
-    <author fullname="C. Donley"/>
-    <author fullname="C. Liljenstolpe"/>
-    <author fullname="M. Azinger"/>
+    <author fullname="J. Weil" initials="J." surname="Weil">
+      <organization/>
+    </author>
+    <author fullname="V. Kuarsingh" initials="V." surname="Kuarsingh">
+      <organization/>
+    </author>
+    <author fullname="C. Donley" initials="C." surname="Donley">
+      <organization/>
+    </author>
+    <author fullname="C. Liljenstolpe" initials="C." surname="Liljenstolpe">
+      <organization/>
+    </author>
+    <author fullname="M. Azinger" initials="M." surname="Azinger">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>shared block</keyword>
-    <keyword>CGN</keyword>
-    <keyword>NAT</keyword>
-    <keyword>Carrier Grade NAT</keyword>
-    <keyword>private address space</keyword>
-    <keyword>service provider</keyword>
-    <keyword>address translation</keyword>
-    <keyword>non-globally routable</keyword>
-    <keyword>non-overlapping address space</keyword>
-    <abstract>This document requests the allocation of an IPv4 /10 address block to be used as Shared Address Space to accommodate the needs of Carrier- Grade NAT (CGN) devices. It is anticipated that Service Providers will use this Shared Address Space to number the interfaces that connect CGN devices to Customer Premises Equipment (CPE). Shared Address Space is distinct from RFC 1918 private address space because it is intended for use on Service Provider networks. However, it may be used in a manner similar to RFC 1918 private address space on routing equipment that is able to do address translation across router interfaces when the addresses are identical on two different interfaces. Details are provided in the text of this document. This document details the allocation of an additional special-use IPv4 address block and updates RFC 5735. This memo documents an Internet Best Current Practice.</abstract>
+    <abstract>
+      <t>This document requests the allocation of an IPv4 /10 address block to be used as Shared Address Space to accommodate the needs of Carrier- Grade NAT (CGN) devices. It is anticipated that Service Providers will use this Shared Address Space to number the interfaces that connect CGN devices to Customer Premises Equipment (CPE).</t>
+      <t>Shared Address Space is distinct from RFC 1918 private address space because it is intended for use on Service Provider networks. However, it may be used in a manner similar to RFC 1918 private address space on routing equipment that is able to do address translation across router interfaces when the addresses are identical on two different interfaces. Details are provided in the text of this document.</t>
+      <t>This document details the allocation of an additional special-use IPv4 address block and updates RFC 5735. This memo documents an Internet Best Current Practice.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6598"/>
+  <seriesInfo name="BCP" value="153"/>
+  <seriesInfo name="RFC" value="6598"/>
 </reference>

@@ -1,9 +1,14 @@
 <reference anchor="RFC1921" target="https://www.rfc-editor.org/info/rfc1921">
   <front>
     <title>TNVIP Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1921"/>
-    <author fullname="J. Dujonc"/>
+    <author fullname="J. Dujonc" initials="J." surname="Dujonc">
+      <organization/>
+    </author>
     <date year="1996" month="March"/>
-    <abstract>The goal of this document specifies a Telnet profile to support VIP terminal emulation allowing the access to the BULL hosts applications through a TCP/IP network.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The goal of this document specifies a Telnet profile to support VIP terminal emulation allowing the access to the BULL hosts applications through a TCP/IP network.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1921"/>
+  <seriesInfo name="RFC" value="1921"/>
 </reference>

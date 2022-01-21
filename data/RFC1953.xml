@@ -1,20 +1,32 @@
 <reference anchor="RFC1953" target="https://www.rfc-editor.org/info/rfc1953">
   <front>
     <title>Ipsilon Flow Management Protocol Specification for IPv4 Version 1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1953"/>
-    <author fullname="P. Newman"/>
-    <author fullname="W. Edwards"/>
-    <author fullname="R. Hinden"/>
-    <author fullname="E. Hoffman"/>
-    <author fullname="F. Ching Liaw"/>
-    <author fullname="T. Lyon"/>
-    <author fullname="G. Minshall"/>
+    <author fullname="P. Newman" initials="P." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="W. Edwards" initials="W." surname="Edwards">
+      <organization/>
+    </author>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
+    <author fullname="E. Hoffman" initials="E." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="F. Ching Liaw" initials="F." surname="Ching">
+      <organization/>
+    </author>
+    <author fullname="T. Lyon" initials="T." surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="G. Minshall" initials="G." surname="Minshall">
+      <organization/>
+    </author>
     <date year="1996" month="May"/>
-    <keyword>IFMP</keyword>
-    <keyword>IP</keyword>
-    <keyword>flow</keyword>
-    <keyword>routing</keyword>
-    <keyword>information</keyword>
-    <abstract>The Ipsilon Flow Management Protocol (IFMP), is a protocol for allowing a node to instruct an adjacent node to attach a layer 2 label to a specified IP flow.  This document provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The Ipsilon Flow Management Protocol (IFMP), is a protocol for allowing a node to instruct an adjacent node to attach a layer 2 label to a specified IP flow.  This document provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1953"/>
+  <seriesInfo name="RFC" value="1953"/>
 </reference>

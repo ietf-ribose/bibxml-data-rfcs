@@ -1,16 +1,18 @@
 <reference anchor="RFC2244" target="https://www.rfc-editor.org/info/rfc2244">
   <front>
     <title>ACAP -- Application Configuration Access Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2244"/>
-    <author fullname="C. Newman"/>
-    <author fullname="J. G. Myers"/>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="J. G. Myers" initials="J." surname="G.">
+      <organization/>
+    </author>
     <date year="1997" month="November"/>
     <workgroup>acap</workgroup>
-    <keyword>ACAP</keyword>
-    <keyword>URL</keyword>
-    <keyword>Uniform</keyword>
-    <keyword>Resource</keyword>
-    <keyword>Locator</keyword>
-    <abstract>The Application Configuration Access Protocol (ACAP) is designed to support remote storage and access of program option, configuration and preference information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Application Configuration Access Protocol (ACAP) is designed to support remote storage and access of program option, configuration and preference information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2244"/>
+  <seriesInfo name="RFC" value="2244"/>
 </reference>

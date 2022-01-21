@@ -1,16 +1,33 @@
 <reference anchor="RFC6926" target="https://www.rfc-editor.org/info/rfc6926">
   <front>
     <title>DHCPv4 Bulk Leasequery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6926"/>
-    <author fullname="K. Kinnear"/>
-    <author fullname="M. Stapp"/>
-    <author fullname="R. Desetti"/>
-    <author fullname="B. Joshi"/>
-    <author fullname="N. Russell"/>
-    <author fullname="P. Kurapati"/>
-    <author fullname="B. Volz"/>
+    <author fullname="K. Kinnear" initials="K." surname="Kinnear">
+      <organization/>
+    </author>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
+    <author fullname="R. Desetti" initials="R." surname="Desetti">
+      <organization/>
+    </author>
+    <author fullname="B. Joshi" initials="B." surname="Joshi">
+      <organization/>
+    </author>
+    <author fullname="N. Russell" initials="N." surname="Russell">
+      <organization/>
+    </author>
+    <author fullname="P. Kurapati" initials="P." surname="Kurapati">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>dhc</workgroup>
-    <abstract>The Dynamic Host Configuration Protocol for IPv4 (DHCPv4) Leasequery protocol allows a requestor to request information about DHCPv4 bindings.  This protocol is limited to queries for individual bindings.  In some situations, individual binding queries may not be efficient or even possible.  This document extends the DHCPv4 Leasequery protocol to allow for bulk transfer of DHCPv4 address binding data via TCP.</abstract>
+    <abstract>
+      <t>The Dynamic Host Configuration Protocol for IPv4 (DHCPv4) Leasequery protocol allows a requestor to request information about DHCPv4 bindings.  This protocol is limited to queries for individual bindings.  In some situations, individual binding queries may not be efficient or even possible.  This document extends the DHCPv4 Leasequery protocol to allow for bulk transfer of DHCPv4 address binding data via TCP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6926"/>
+  <seriesInfo name="RFC" value="6926"/>
 </reference>

@@ -1,13 +1,24 @@
 <reference anchor="RFC6307" target="https://www.rfc-editor.org/info/rfc6307">
   <front>
     <title>Encapsulation Methods for Transport of Fibre Channel Traffic over MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6307"/>
-    <author fullname="D. Black"/>
-    <author fullname="L. Dunbar"/>
-    <author fullname="M. Roth"/>
-    <author fullname="R. Solomon"/>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="L. Dunbar" initials="L." surname="Dunbar">
+      <organization/>
+    </author>
+    <author fullname="M. Roth" initials="M." surname="Roth">
+      <organization/>
+    </author>
+    <author fullname="R. Solomon" initials="R." surname="Solomon">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>pwe3</workgroup>
-    <abstract>A Fibre Channel pseudowire (PW) is used to carry Fibre Channel traffic over an MPLS network.  This enables service providers to take advantage of MPLS to offer "emulated" Fibre Channel services.  This document specifies the encapsulation of Fibre Channel traffic within a pseudowire.  It also specifies the common procedures for using a PW to provide a Fibre Channel service. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A Fibre Channel pseudowire (PW) is used to carry Fibre Channel traffic over an MPLS network.  This enables service providers to take advantage of MPLS to offer "emulated" Fibre Channel services.  This document specifies the encapsulation of Fibre Channel traffic within a pseudowire.  It also specifies the common procedures for using a PW to provide a Fibre Channel service. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6307"/>
+  <seriesInfo name="RFC" value="6307"/>
 </reference>

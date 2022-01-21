@@ -1,13 +1,24 @@
 <reference anchor="RFC6923" target="https://www.rfc-editor.org/info/rfc6923">
   <front>
     <title>MPLS Transport Profile (MPLS-TP) Identifiers Following ITU-T Conventions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6923"/>
-    <author fullname="R. Winter"/>
-    <author fullname="E. Gray"/>
-    <author fullname="H. van Helvoort"/>
-    <author fullname="M. Betts"/>
+    <author fullname="R. Winter" initials="R." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="H. van Helvoort" initials="H." surname="van">
+      <organization/>
+    </author>
+    <author fullname="M. Betts" initials="M." surname="Betts">
+      <organization/>
+    </author>
     <date year="2013" month="May"/>
     <workgroup>mpls</workgroup>
-    <abstract>This document specifies an extension to the identifiers to be used in the Transport Profile of Multiprotocol Label Switching (MPLS-TP).  Identifiers that follow IP/MPLS conventions have already been defined.  This memo augments that set of identifiers for MPLS-TP management and Operations, Administration, and Maintenance (OAM) functions to include identifier information in a format typically used by the International Telecommunication Union Telecommunication Standardization Sector (ITU-T).</abstract>
+    <abstract>
+      <t>This document specifies an extension to the identifiers to be used in the Transport Profile of Multiprotocol Label Switching (MPLS-TP).  Identifiers that follow IP/MPLS conventions have already been defined.  This memo augments that set of identifiers for MPLS-TP management and Operations, Administration, and Maintenance (OAM) functions to include identifier information in a format typically used by the International Telecommunication Union Telecommunication Standardization Sector (ITU-T).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6923"/>
+  <seriesInfo name="RFC" value="6923"/>
 </reference>

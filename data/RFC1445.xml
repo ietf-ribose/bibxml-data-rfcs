@@ -1,14 +1,18 @@
 <reference anchor="RFC1445" target="https://www.rfc-editor.org/info/rfc1445">
   <front>
     <title>Administrative Model for version 2 of the Simple Network Management Protocol (SNMPv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1445"/>
-    <author fullname="J. Galvin"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="J. Galvin" initials="J." surname="Galvin">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="1993" month="April"/>
     <workgroup>snmpsec</workgroup>
-    <keyword>SNMP</keyword>
-    <keyword>Management</keyword>
-    <keyword>Framework</keyword>
-    <abstract>It is the purpose of this document, the Administrative Model for SNMPv2, to define how the administrative framework is applied to realize effective network management in a variety of configurations and environments. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>It is the purpose of this document, the Administrative Model for SNMPv2, to define how the administrative framework is applied to realize effective network management in a variety of configurations and environments. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1445"/>
+  <seriesInfo name="RFC" value="1445"/>
 </reference>

@@ -1,15 +1,30 @@
 <reference anchor="RFC7599" target="https://www.rfc-editor.org/info/rfc7599">
   <front>
     <title>Mapping of Address and Port using Translation (MAP-T)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7599"/>
-    <author fullname="X. Li"/>
-    <author fullname="C. Bao"/>
-    <author fullname="W. Dec"/>
-    <author fullname="O. Troan"/>
-    <author fullname="S. Matsushima"/>
-    <author fullname="T. Murakami"/>
+    <author fullname="X. Li" initials="X." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="C. Bao" initials="C." surname="Bao">
+      <organization/>
+    </author>
+    <author fullname="W. Dec" initials="W." surname="Dec">
+      <organization/>
+    </author>
+    <author fullname="O. Troan" initials="O." surname="Troan">
+      <organization/>
+    </author>
+    <author fullname="S. Matsushima" initials="S." surname="Matsushima">
+      <organization/>
+    </author>
+    <author fullname="T. Murakami" initials="T." surname="Murakami">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>softwire</workgroup>
-    <abstract>This document specifies the solution architecture based on "Mapping of Address and Port" stateless IPv6-IPv4 Network Address Translation (NAT64) for providing shared or non-shared IPv4 address connectivity to and across an IPv6 network.</abstract>
+    <abstract>
+      <t>This document specifies the solution architecture based on "Mapping of Address and Port" stateless IPv6-IPv4 Network Address Translation (NAT64) for providing shared or non-shared IPv4 address connectivity to and across an IPv6 network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7599"/>
+  <seriesInfo name="RFC" value="7599"/>
 </reference>

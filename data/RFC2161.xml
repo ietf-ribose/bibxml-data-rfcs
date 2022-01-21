@@ -1,16 +1,15 @@
 <reference anchor="RFC2161" target="https://www.rfc-editor.org/info/rfc2161">
   <front>
     <title>A MIME Body Part for ODA</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2161"/>
-    <author fullname="H. Alvestrand"/>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>mixer</workgroup>
-    <keyword>MIME-ODA</keyword>
-    <keyword>mixer</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document contains the definitions, originally contained in RFC 1495 and RFC 1341, on how to carry ODA in MIME, and how to translate it to its X.400 representation.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document contains the definitions, originally contained in RFC 1495 and RFC 1341, on how to carry ODA in MIME, and how to translate it to its X.400 representation.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2161"/>
+  <seriesInfo name="RFC" value="2161"/>
 </reference>

@@ -1,17 +1,17 @@
 <reference anchor="RFC2831" target="https://www.rfc-editor.org/info/rfc2831">
   <front>
     <title>Using Digest Authentication as a SASL Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2831"/>
-    <author fullname="P. Leach"/>
-    <author fullname="C. Newman"/>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
-    <keyword>http</keyword>
-    <keyword>hypertext</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <keyword>simple</keyword>
-    <keyword>layer</keyword>
-    <abstract>This specification defines how HTTP Digest Authentication can be used as a SASL mechanism for any protocol that has a SASL (Simple Authentication and Security Layer) profile. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines how HTTP Digest Authentication can be used as a SASL mechanism for any protocol that has a SASL (Simple Authentication and Security Layer) profile. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2831"/>
+  <seriesInfo name="RFC" value="2831"/>
 </reference>

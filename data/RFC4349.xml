@@ -1,12 +1,18 @@
 <reference anchor="RFC4349" target="https://www.rfc-editor.org/info/rfc4349">
   <front>
     <title>High-Level Data Link Control (HDLC) Frames over Layer 2 Tunneling Protocol, Version 3 (L2TPv3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4349"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="M. Townsley"/>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="M. Townsley" initials="M." surname="Townsley">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>l2tpext</workgroup>
-    <keyword>pseudowire</keyword>
-    <abstract>The Layer 2 Tunneling Protocol, Version 3, (L2TPv3) defines a protocol for tunneling a variety of data link protocols over IP networks.  This document describes the specifics of how to tunnel High-Level Data Link Control (HDLC) frames over L2TPv3. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Layer 2 Tunneling Protocol, Version 3, (L2TPv3) defines a protocol for tunneling a variety of data link protocols over IP networks.  This document describes the specifics of how to tunnel High-Level Data Link Control (HDLC) frames over L2TPv3. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4349"/>
+  <seriesInfo name="RFC" value="4349"/>
 </reference>

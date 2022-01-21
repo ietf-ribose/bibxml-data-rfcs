@@ -1,13 +1,18 @@
 <reference anchor="RFC4047" target="https://www.rfc-editor.org/info/rfc4047">
   <front>
     <title>MIME Sub-type Registrations for Flexible Image Transport System (FITS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4047"/>
-    <author fullname="S. Allen"/>
-    <author fullname="D. Wells"/>
+    <author fullname="S. Allen" initials="S." surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="D. Wells" initials="D." surname="Wells">
+      <organization/>
+    </author>
     <date year="2005" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>multipurpose internet mail extensions</keyword>
-    <keyword>astronomical observations</keyword>
-    <abstract>This document describes the registration of the Multipurpose Internet Mail Extensions (MIME) sub-types to be used by the international astronomical community for the interchange of Flexible Image Transport System (FITS) files.  The encoding is defined by the published FITS standard documents.  The FITS format has been in use since 1979, and almost all data from astronomical observations are interchanged by using FITS.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the registration of the Multipurpose Internet Mail Extensions (MIME) sub-types to be used by the international astronomical community for the interchange of Flexible Image Transport System (FITS) files.  The encoding is defined by the published FITS standard documents.  The FITS format has been in use since 1979, and almost all data from astronomical observations are interchanged by using FITS.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4047"/>
+  <seriesInfo name="RFC" value="4047"/>
 </reference>

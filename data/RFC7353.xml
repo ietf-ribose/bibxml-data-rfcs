@@ -1,17 +1,21 @@
 <reference anchor="RFC7353" target="https://www.rfc-editor.org/info/rfc7353">
   <front>
     <title>Security Requirements for BGP Path Validation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7353"/>
-    <author fullname="S. Bellovin"/>
-    <author fullname="R. Bush"/>
-    <author fullname="D. Ward"/>
+    <author fullname="S. Bellovin" initials="S." surname="Bellovin">
+      <organization/>
+    </author>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>sidr</workgroup>
-    <keyword>Routing</keyword>
-    <keyword>BGP</keyword>
-    <keyword>Security</keyword>
-    <keyword>AS_PATH</keyword>
-    <keyword>and RPKI</keyword>
-    <abstract>This document describes requirements for a BGP security protocol design to provide cryptographic assurance that the origin Autonomous System (AS) has the right to announce the prefix and to provide assurance of the AS Path of the announcement.</abstract>
+    <abstract>
+      <t>This document describes requirements for a BGP security protocol design to provide cryptographic assurance that the origin Autonomous System (AS) has the right to announce the prefix and to provide assurance of the AS Path of the announcement.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7353"/>
+  <seriesInfo name="RFC" value="7353"/>
 </reference>

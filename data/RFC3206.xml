@@ -1,11 +1,14 @@
 <reference anchor="RFC3206" target="https://www.rfc-editor.org/info/rfc3206">
   <front>
     <title>The SYS and AUTH POP Response Codes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3206"/>
-    <author fullname="R. Gellens"/>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
     <date year="2002" month="February"/>
-    <keyword>security</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo proposes two response codes: SYS and AUTH, which enable clients to unambiguously determine an optimal response to an authentication failure.  In addition, a new capability (AUTH-RESP-CODE) is defined. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo proposes two response codes: SYS and AUTH, which enable clients to unambiguously determine an optimal response to an authentication failure.  In addition, a new capability (AUTH-RESP-CODE) is defined. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3206"/>
+  <seriesInfo name="RFC" value="3206"/>
 </reference>

@@ -1,11 +1,16 @@
 <reference anchor="RFC8288" target="https://www.rfc-editor.org/info/rfc8288">
   <front>
     <title>Web Linking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8288"/>
-    <author fullname="M. Nottingham"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>link relation</keyword>
-    <abstract>This specification defines a model for the relationships between resources on the Web ("links") and the type of those relationships ("link relation types"). It also defines the serialisation of such links in HTTP headers with the Link header field.</abstract>
+    <abstract>
+      <t>This specification defines a model for the relationships between resources on the Web ("links") and the type of those relationships ("link relation types").</t>
+      <t>It also defines the serialisation of such links in HTTP headers with the Link header field.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8288"/>
+  <seriesInfo name="RFC" value="8288"/>
 </reference>

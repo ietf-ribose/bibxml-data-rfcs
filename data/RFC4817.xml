@@ -1,17 +1,27 @@
 <reference anchor="RFC4817" target="https://www.rfc-editor.org/info/rfc4817">
   <front>
     <title>Encapsulation of MPLS over Layer 2 Tunneling Protocol Version 3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4817"/>
-    <author fullname="M. Townsley"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="S. Wainner"/>
-    <author fullname="T. Seely"/>
-    <author fullname="J. Young"/>
+    <author fullname="M. Townsley" initials="M." surname="Townsley">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="S. Wainner" initials="S." surname="Wainner">
+      <organization/>
+    </author>
+    <author fullname="T. Seely" initials="T." surname="Seely">
+      <organization/>
+    </author>
+    <author fullname="J. Young" initials="J." surname="Young">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>mpls</workgroup>
-    <keyword>l2tpv3</keyword>
-    <keyword>multiprotocol label switching label stack</keyword>
-    <keyword>label stack</keyword>
-    <abstract>The Layer 2 Tunneling Protocol, Version 3 (L2TPv3) defines a protocol for tunneling a variety of payload types over IP networks.  This document defines how to carry an MPLS label stack and its payload over the L2TPv3 data encapsulation.  This enables an application that traditionally requires an MPLS-enabled core network, to utilize an L2TPv3 encapsulation over an IP network instead. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Layer 2 Tunneling Protocol, Version 3 (L2TPv3) defines a protocol for tunneling a variety of payload types over IP networks.  This document defines how to carry an MPLS label stack and its payload over the L2TPv3 data encapsulation.  This enables an application that traditionally requires an MPLS-enabled core network, to utilize an L2TPv3 encapsulation over an IP network instead. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4817"/>
+  <seriesInfo name="RFC" value="4817"/>
 </reference>

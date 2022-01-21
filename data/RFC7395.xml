@@ -1,14 +1,21 @@
 <reference anchor="RFC7395" target="https://www.rfc-editor.org/info/rfc7395">
   <front>
     <title>An Extensible Messaging and Presence Protocol (XMPP) Subprotocol for WebSocket</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7395"/>
-    <author fullname="L. Stout"/>
-    <author fullname="J. Moffitt"/>
-    <author fullname="E. Cestari"/>
+    <author fullname="L. Stout" initials="L." surname="Stout">
+      <organization/>
+    </author>
+    <author fullname="J. Moffitt" initials="J." surname="Moffitt">
+      <organization/>
+    </author>
+    <author fullname="E. Cestari" initials="E." surname="Cestari">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>xmpp</workgroup>
-    <keyword>WebSocket</keyword>
-    <keyword>XMPP</keyword>
-    <abstract>This document defines a binding for the Extensible Messaging and Presence Protocol (XMPP) over a WebSocket transport layer.  A WebSocket binding for XMPP provides higher performance than the current HTTP binding for XMPP.</abstract>
+    <abstract>
+      <t>This document defines a binding for the Extensible Messaging and Presence Protocol (XMPP) over a WebSocket transport layer.  A WebSocket binding for XMPP provides higher performance than the current HTTP binding for XMPP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7395"/>
+  <seriesInfo name="RFC" value="7395"/>
 </reference>

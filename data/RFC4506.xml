@@ -1,14 +1,16 @@
 <reference anchor="RFC4506" target="https://www.rfc-editor.org/info/rfc4506">
   <front>
     <title>XDR: External Data Representation Standard</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4506"/>
-    <author fullname="M. Eisler"/>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>XDR</keyword>
-    <keyword>rpc</keyword>
-    <keyword>onc</keyword>
-    <keyword>open network computing</keyword>
-    <abstract>This document describes the External Data Representation Standard (XDR) protocol as it is currently deployed and accepted.  This document obsoletes RFC 1832. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the External Data Representation Standard (XDR) protocol as it is currently deployed and accepted.  This document obsoletes RFC 1832. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4506"/>
+  <seriesInfo name="STD" value="67"/>
+  <seriesInfo name="RFC" value="4506"/>
 </reference>

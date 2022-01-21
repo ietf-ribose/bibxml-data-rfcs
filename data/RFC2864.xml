@@ -1,14 +1,18 @@
 <reference anchor="RFC2864" target="https://www.rfc-editor.org/info/rfc2864">
   <front>
     <title>The Inverted Stack Table Extension to the Interfaces Group MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2864"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="G. Hanson"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="G. Hanson" initials="G." surname="Hanson">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>ifmib</workgroup>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects which provide an inverted mapping of the interface stack table used for managing network interfaces. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects which provide an inverted mapping of the interface stack table used for managing network interfaces. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2864"/>
+  <seriesInfo name="RFC" value="2864"/>
 </reference>

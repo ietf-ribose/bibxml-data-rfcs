@@ -1,15 +1,21 @@
 <reference anchor="RFC4362" target="https://www.rfc-editor.org/info/rfc4362">
   <front>
     <title>RObust Header Compression (ROHC): A Link-Layer Assisted Profile for IP/UDP/RTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4362"/>
-    <author fullname="L-E. Jonsson"/>
-    <author fullname="G. Pelletier"/>
-    <author fullname="K. Sandlund"/>
+    <author fullname="L-E. Jonsson" initials="L-E." surname="Jonsson">
+      <organization/>
+    </author>
+    <author fullname="G. Pelletier" initials="G." surname="Pelletier">
+      <organization/>
+    </author>
+    <author fullname="K. Sandlund" initials="K." surname="Sandlund">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>rohc</workgroup>
-    <keyword>internet protocol</keyword>
-    <keyword>user datagram protocol</keyword>
-    <keyword>real-time transport protocol</keyword>
-    <abstract>This document defines a ROHC (Robust Header Compression) profile for compression of IP/UDP/RTP (Internet Protocol/User Datagram Protocol/Real-Time Transport Protocol) packets, utilizing functionality provided by the lower layers to increase compression efficiency by completely eliminating the header for most packets during optimal operation.  The profile is built as an extension to the ROHC RTP profile.  It defines additional mechanisms needed in ROHC, states requirements on the assisting layer to guarantee transparency, and specifies general logic for compression and decompression related to the usage of the header-free packet format.  This document is a replacement for RFC 3242, which it obsoletes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a ROHC (Robust Header Compression) profile for compression of IP/UDP/RTP (Internet Protocol/User Datagram Protocol/Real-Time Transport Protocol) packets, utilizing functionality provided by the lower layers to increase compression efficiency by completely eliminating the header for most packets during optimal operation.  The profile is built as an extension to the ROHC RTP profile.  It defines additional mechanisms needed in ROHC, states requirements on the assisting layer to guarantee transparency, and specifies general logic for compression and decompression related to the usage of the header-free packet format.  This document is a replacement for RFC 3242, which it obsoletes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4362"/>
+  <seriesInfo name="RFC" value="4362"/>
 </reference>

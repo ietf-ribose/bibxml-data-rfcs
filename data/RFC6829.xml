@@ -1,13 +1,25 @@
 <reference anchor="RFC6829" target="https://www.rfc-editor.org/info/rfc6829">
   <front>
     <title>Label Switched Path (LSP) Ping for Pseudowire Forwarding Equivalence Classes (FECs) Advertised over IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6829"/>
-    <author fullname="M. Chen"/>
-    <author fullname="P. Pan"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="R. Asati"/>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="P. Pan" initials="P." surname="Pan">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="R. Asati" initials="R." surname="Asati">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>mpls</workgroup>
-    <abstract>The Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Ping and traceroute mechanisms are commonly used to detect and isolate data-plane failures in all MPLS LSPs, including LSPs used for each direction of an MPLS Pseudowire (PW). However, the LSP Ping and traceroute elements used for PWs are not specified for IPv6 address usage. This document extends the PW LSP Ping and traceroute mechanisms so they can be used with PWs that are set up and maintained using IPv6 LDP sessions. This document updates RFC 4379. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Ping and traceroute mechanisms are commonly used to detect and isolate data-plane failures in all MPLS LSPs, including LSPs used for each direction of an MPLS Pseudowire (PW). However, the LSP Ping and traceroute elements used for PWs are not specified for IPv6 address usage.</t>
+      <t>This document extends the PW LSP Ping and traceroute mechanisms so they can be used with PWs that are set up and maintained using IPv6 LDP sessions. This document updates RFC 4379. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6829"/>
+  <seriesInfo name="RFC" value="6829"/>
 </reference>

@@ -1,13 +1,24 @@
 <reference anchor="RFC6208" target="https://www.rfc-editor.org/info/rfc6208">
   <front>
     <title>Cloud Data Management Interface (CDMI) Media Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6208"/>
-    <author fullname="K. Sankar"/>
-    <author fullname="A. Jones"/>
+    <author fullname="K. Sankar" initials="K." surname="Sankar">
+      <organization/>
+    </author>
+    <author fullname="A. Jones" initials="A." surname="Jones">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>snia</keyword>
-    <keyword>Storage Networking Industry Association</keyword>
-    <abstract>This document describes several Internet media types defined for the Cloud Data Management Interface (CDMI) by the Storage Networking Industry Association (SNIA). The media types are: o application/cdmi-object o application/cdmi-container o application/cdmi-domain o application/cdmi-capability o application/cdmi-queue This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes several Internet media types defined for the Cloud Data Management Interface (CDMI) by the Storage Networking Industry Association (SNIA). The media types are:</t>
+      <t>o application/cdmi-object</t>
+      <t>o application/cdmi-container</t>
+      <t>o application/cdmi-domain</t>
+      <t>o application/cdmi-capability</t>
+      <t>o application/cdmi-queue</t>
+      <t>This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6208"/>
+  <seriesInfo name="RFC" value="6208"/>
 </reference>

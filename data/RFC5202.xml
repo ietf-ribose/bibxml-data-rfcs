@@ -1,13 +1,21 @@
 <reference anchor="RFC5202" target="https://www.rfc-editor.org/info/rfc5202">
   <front>
     <title>Using the Encapsulating Security Payload (ESP) Transport Format with the Host Identity Protocol (HIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5202"/>
-    <author fullname="P. Jokela"/>
-    <author fullname="R. Moskowitz"/>
-    <author fullname="P. Nikander"/>
+    <author fullname="P. Jokela" initials="P." surname="Jokela">
+      <organization/>
+    </author>
+    <author fullname="R. Moskowitz" initials="R." surname="Moskowitz">
+      <organization/>
+    </author>
+    <author fullname="P. Nikander" initials="P." surname="Nikander">
+      <organization/>
+    </author>
     <date year="2008" month="April"/>
     <workgroup>hip</workgroup>
-    <keyword>user data packets</keyword>
-    <abstract>This memo specifies an Encapsulated Security Payload (ESP) based mechanism for transmission of user data packets, to be used with the Host Identity Protocol (HIP).  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo specifies an Encapsulated Security Payload (ESP) based mechanism for transmission of user data packets, to be used with the Host Identity Protocol (HIP).  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5202"/>
+  <seriesInfo name="RFC" value="5202"/>
 </reference>

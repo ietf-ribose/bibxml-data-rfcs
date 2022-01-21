@@ -1,14 +1,27 @@
 <reference anchor="RFC8811" target="https://www.rfc-editor.org/info/rfc8811">
   <front>
     <title>DDoS Open Threat Signaling (DOTS) Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8811"/>
-    <author fullname="A. Mortensen"/>
-    <author fullname="T. Reddy.K"/>
-    <author fullname="F. Andreasen"/>
-    <author fullname="N. Teague"/>
-    <author fullname="R. Compton"/>
+    <author fullname="A. Mortensen" initials="A." surname="Mortensen">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
+    <author fullname="N. Teague" initials="N." surname="Teague">
+      <organization/>
+    </author>
+    <author fullname="R. Compton" initials="R." surname="Compton">
+      <organization/>
+    </author>
     <date year="2020" month="August"/>
     <workgroup>dots</workgroup>
-    <abstract>This document describes an architecture for establishing and maintaining Distributed Denial-of-Service (DDoS) Open Threat Signaling (DOTS) within and between domains.  The document does not specify protocols or protocol extensions, instead focusing on defining architectural relationships, components, and concepts used in a DOTS deployment.</abstract>
+    <abstract>
+      <t>This document describes an architecture for establishing and maintaining Distributed Denial-of-Service (DDoS) Open Threat Signaling (DOTS) within and between domains.  The document does not specify protocols or protocol extensions, instead focusing on defining architectural relationships, components, and concepts used in a DOTS deployment.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8811"/>
+  <seriesInfo name="RFC" value="8811"/>
 </reference>

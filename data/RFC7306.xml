@@ -1,19 +1,27 @@
 <reference anchor="RFC7306" target="https://www.rfc-editor.org/info/rfc7306">
   <front>
     <title>Remote Direct Memory Access (RDMA) Protocol Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7306"/>
-    <author fullname="H. Shah"/>
-    <author fullname="F. Marti"/>
-    <author fullname="W. Noureddine"/>
-    <author fullname="A. Eiriksson"/>
-    <author fullname="R. Sharp"/>
+    <author fullname="H. Shah" initials="H." surname="Shah">
+      <organization/>
+    </author>
+    <author fullname="F. Marti" initials="F." surname="Marti">
+      <organization/>
+    </author>
+    <author fullname="W. Noureddine" initials="W." surname="Noureddine">
+      <organization/>
+    </author>
+    <author fullname="A. Eiriksson" initials="A." surname="Eiriksson">
+      <organization/>
+    </author>
+    <author fullname="R. Sharp" initials="R." surname="Sharp">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>storm</workgroup>
-    <keyword>iWARP</keyword>
-    <keyword>RDMAP</keyword>
-    <keyword>DDP</keyword>
-    <keyword>RDMA</keyword>
-    <keyword>DMA</keyword>
-    <abstract>This document specifies extensions to the IETF Remote Direct Memory Access Protocol (RDMAP) as specified in RFC 5040.  RDMAP provides read and write services directly to applications and enables data to be transferred directly into Upper-Layer Protocol (ULP) Buffers without intermediate data copies.  The extensions specified in this document provide the following capabilities and/or improvements: Atomic Operations and Immediate Data.</abstract>
+    <abstract>
+      <t>This document specifies extensions to the IETF Remote Direct Memory Access Protocol (RDMAP) as specified in RFC 5040.  RDMAP provides read and write services directly to applications and enables data to be transferred directly into Upper-Layer Protocol (ULP) Buffers without intermediate data copies.  The extensions specified in this document provide the following capabilities and/or improvements: Atomic Operations and Immediate Data.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7306"/>
+  <seriesInfo name="RFC" value="7306"/>
 </reference>

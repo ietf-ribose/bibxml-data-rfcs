@@ -1,16 +1,17 @@
 <reference anchor="RFC3087" target="https://www.rfc-editor.org/info/rfc3087">
   <front>
     <title>Control of Service Context using SIP Request-URI</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3087"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="R. Sparks"/>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="R. Sparks" initials="R." surname="Sparks">
+      <organization/>
+    </author>
     <date year="2001" month="April"/>
-    <keyword>session</keyword>
-    <keyword>initiation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>uniform</keyword>
-    <keyword>resource</keyword>
-    <keyword>identifier</keyword>
-    <abstract>This memo describes a useful way to conceptualize the use of the standard SIP (Session Initiation Protocol) Request-URI (Uniform Resource Identifier) that the authors and many members of the SIP community think is suitable as a convention.  It does not define any new protocol with respect to RFC 2543.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes a useful way to conceptualize the use of the standard SIP (Session Initiation Protocol) Request-URI (Uniform Resource Identifier) that the authors and many members of the SIP community think is suitable as a convention.  It does not define any new protocol with respect to RFC 2543.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3087"/>
+  <seriesInfo name="RFC" value="3087"/>
 </reference>

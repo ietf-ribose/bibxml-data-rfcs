@@ -1,13 +1,22 @@
 <reference anchor="RFC7985" target="https://www.rfc-editor.org/info/rfc7985">
   <front>
     <title>Security Threats to Simplified Multicast Forwarding (SMF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7985"/>
-    <author fullname="J. Yi"/>
-    <author fullname="T. Clausen"/>
-    <author fullname="U. Herberg"/>
+    <author fullname="J. Yi" initials="J." surname="Yi">
+      <organization/>
+    </author>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
+    <author fullname="U. Herberg" initials="U." surname="Herberg">
+      <organization/>
+    </author>
     <date year="2016" month="November"/>
     <workgroup>manet</workgroup>
-    <keyword>MANET</keyword>
-    <abstract>This document analyzes security threats to Simplified Multicast Forwarding (SMF), including vulnerabilities of duplicate packet detection and relay set selection mechanisms. This document is not intended to propose solutions to the threats described. In addition, this document updates RFC 7186 regarding threats to the relay set selection mechanisms using the Mobile Ad Hoc Network (MANET) Neighborhood Discovery Protocol (NHDP) (RFC 6130).</abstract>
+    <abstract>
+      <t>This document analyzes security threats to Simplified Multicast Forwarding (SMF), including vulnerabilities of duplicate packet detection and relay set selection mechanisms. This document is not intended to propose solutions to the threats described.</t>
+      <t>In addition, this document updates RFC 7186 regarding threats to the relay set selection mechanisms using the Mobile Ad Hoc Network (MANET) Neighborhood Discovery Protocol (NHDP) (RFC 6130).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7985"/>
+  <seriesInfo name="RFC" value="7985"/>
 </reference>

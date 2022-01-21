@@ -1,16 +1,21 @@
 <reference anchor="RFC8845" target="https://www.rfc-editor.org/info/rfc8845">
   <front>
     <title>Framework for Telepresence Multi-Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8845"/>
-    <author fullname="M. Duckworth"/>
-    <author fullname="A. Pepperell"/>
-    <author fullname="S. Wenger"/>
+    <author fullname="M. Duckworth" initials="M." surname="Duckworth">
+      <organization/>
+    </author>
+    <author fullname="A. Pepperell" initials="A." surname="Pepperell">
+      <organization/>
+    </author>
+    <author fullname="S. Wenger" initials="S." surname="Wenger">
+      <organization/>
+    </author>
     <date year="2021" month="January"/>
     <workgroup>clue</workgroup>
-    <keyword>Telepresence</keyword>
-    <keyword>Conferencing</keyword>
-    <keyword>Video-Conferencing</keyword>
-    <keyword>MCU</keyword>
-    <abstract>This document defines a framework for a protocol to enable devices in a telepresence conference to interoperate.  The protocol enables communication of information about multiple media streams so a sending system and receiving system can make reasonable decisions about transmitting, selecting, and rendering the media streams.  This protocol is used in addition to SIP signaling and Session Description Protocol (SDP) negotiation for setting up a telepresence session.</abstract>
+    <abstract>
+      <t>This document defines a framework for a protocol to enable devices in a telepresence conference to interoperate.  The protocol enables communication of information about multiple media streams so a sending system and receiving system can make reasonable decisions about transmitting, selecting, and rendering the media streams.  This protocol is used in addition to SIP signaling and Session Description Protocol (SDP) negotiation for setting up a telepresence session.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8845"/>
+  <seriesInfo name="RFC" value="8845"/>
 </reference>

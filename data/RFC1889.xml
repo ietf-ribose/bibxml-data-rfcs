@@ -1,20 +1,27 @@
 <reference anchor="RFC1889" target="https://www.rfc-editor.org/info/rfc1889">
   <front>
     <title>RTP: A Transport Protocol for Real-Time Applications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1889"/>
-    <author fullname="Audio-Video Transport Working Group"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="S. Casner"/>
-    <author fullname="R. Frederick"/>
-    <author fullname="V. Jacobson"/>
+    <author fullname="Audio-Video Transport Working Group" initials="Audio-Video" surname="Transport">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="S. Casner" initials="S." surname="Casner">
+      <organization/>
+    </author>
+    <author fullname="R. Frederick" initials="R." surname="Frederick">
+      <organization/>
+    </author>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
     <date year="1996" month="January"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP</keyword>
-    <keyword>end-to-end</keyword>
-    <keyword>network</keyword>
-    <keyword>audio</keyword>
-    <keyword>video</keyword>
-    <keyword>RTCP</keyword>
-    <abstract>This memorandum describes RTP, the real-time transport protocol.  RTP provides end-to-end network transport functions suitable for applications transmitting real-time data, such as audio, video or simulation data, over multicast or unicast network services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memorandum describes RTP, the real-time transport protocol.  RTP provides end-to-end network transport functions suitable for applications transmitting real-time data, such as audio, video or simulation data, over multicast or unicast network services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1889"/>
+  <seriesInfo name="RFC" value="1889"/>
 </reference>

@@ -1,9 +1,14 @@
 <reference anchor="RFC0635" target="https://www.rfc-editor.org/info/rfc635">
   <front>
     <title>Assessment of ARPANET protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0635"/>
-    <author fullname="V. Cerf"/>
+    <author fullname="V. Cerf" initials="V." surname="Cerf">
+      <organization/>
+    </author>
     <date year="1974" month="April"/>
-    <abstract>Theoretical and practical motivation for redesign.  Multipacket messages; host retransmission; duplicate detection; sequencing; acknowledgement.</abstract>
+    <abstract>
+      <t>Theoretical and practical motivation for redesign.  Multipacket messages; host retransmission; duplicate detection; sequencing; acknowledgement.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0635"/>
+  <seriesInfo name="RFC" value="635"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC5647" target="https://www.rfc-editor.org/info/rfc5647">
   <front>
     <title>AES Galois Counter Mode for the Secure Shell Transport Layer Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5647"/>
-    <author fullname="K. Igoe"/>
-    <author fullname="J. Solinas"/>
+    <author fullname="K. Igoe" initials="K." surname="Igoe">
+      <organization/>
+    </author>
+    <author fullname="J. Solinas" initials="J." surname="Solinas">
+      <organization/>
+    </author>
     <date year="2009" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ssh</keyword>
-    <keyword>remote-login</keyword>
-    <abstract>Secure shell (SSH) is a secure remote-login protocol.  SSH provides for algorithms that provide authentication, key agreement, confidentiality, and data-integrity services.  The purpose of this document is to show how the AES Galois Counter Mode can be used to provide both confidentiality and data integrity to the SSH Transport Layer Protocol.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Secure shell (SSH) is a secure remote-login protocol.  SSH provides for algorithms that provide authentication, key agreement, confidentiality, and data-integrity services.  The purpose of this document is to show how the AES Galois Counter Mode can be used to provide both confidentiality and data integrity to the SSH Transport Layer Protocol.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5647"/>
+  <seriesInfo name="RFC" value="5647"/>
 </reference>

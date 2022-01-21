@@ -1,12 +1,18 @@
 <reference anchor="RFC4347" target="https://www.rfc-editor.org/info/rfc4347">
   <front>
     <title>Datagram Transport Layer Security</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4347"/>
-    <author fullname="E. Rescorla"/>
-    <author fullname="N. Modadugu"/>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
+    <author fullname="N. Modadugu" initials="N." surname="Modadugu">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>dtls</keyword>
-    <abstract>This document specifies Version 1.0 of the Datagram Transport Layer Security (DTLS) protocol.  The DTLS protocol provides communications privacy for datagram protocols.  The protocol allows client/server applications to communicate in a way that is designed to prevent eavesdropping, tampering, or message forgery.  The DTLS protocol is based on the Transport Layer Security (TLS) protocol and provides equivalent security guarantees.  Datagram semantics of the underlying transport are preserved by the DTLS protocol.</abstract>
+    <abstract>
+      <t>This document specifies Version 1.0 of the Datagram Transport Layer Security (DTLS) protocol.  The DTLS protocol provides communications privacy for datagram protocols.  The protocol allows client/server applications to communicate in a way that is designed to prevent eavesdropping, tampering, or message forgery.  The DTLS protocol is based on the Transport Layer Security (TLS) protocol and provides equivalent security guarantees.  Datagram semantics of the underlying transport are preserved by the DTLS protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4347"/>
+  <seriesInfo name="RFC" value="4347"/>
 </reference>

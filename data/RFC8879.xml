@@ -1,14 +1,19 @@
 <reference anchor="RFC8879" target="https://www.rfc-editor.org/info/rfc8879">
   <front>
     <title>TLS Certificate Compression</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8879"/>
-    <author fullname="A. Ghedini"/>
-    <author fullname="V. Vasiliev"/>
+    <author fullname="A. Ghedini" initials="A." surname="Ghedini">
+      <organization/>
+    </author>
+    <author fullname="V. Vasiliev" initials="V." surname="Vasiliev">
+      <organization/>
+    </author>
     <date year="2020" month="December"/>
     <workgroup>tls</workgroup>
-    <keyword>zlib</keyword>
-    <keyword>brotli</keyword>
-    <keyword>zstd</keyword>
-    <abstract>In TLS handshakes, certificate chains often take up the majority of the bytes transmitted. This document describes how certificate chains can be compressed to reduce the amount of data transmitted and avoid some round trips.</abstract>
+    <abstract>
+      <t>In TLS handshakes, certificate chains often take up the majority of the bytes transmitted.</t>
+      <t>This document describes how certificate chains can be compressed to reduce the amount of data transmitted and avoid some round trips.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8879"/>
+  <seriesInfo name="RFC" value="8879"/>
 </reference>

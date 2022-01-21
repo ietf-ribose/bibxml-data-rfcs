@@ -1,13 +1,17 @@
 <reference anchor="RFC2825" target="https://www.rfc-editor.org/info/rfc2825">
   <front>
     <title>A Tangled Web: Issues of I18N, Domain Names, and the Other Internet protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2825"/>
-    <author fullname="IAB"/>
-    <author fullname="L. Daigle"/>
+    <author fullname="IAB" initials="IAB" surname="">
+      <organization/>
+    </author>
+    <author fullname="L. Daigle" initials="L." surname="Daigle">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
-    <keyword>character sets</keyword>
-    <keyword>e-commerce</keyword>
-    <keyword>interoperability</keyword>
-    <abstract>This document is a statement by the Internet Architecture Board.  It is not a protocol specification, but an attempt to clarify the range of architectural issues that the internationalization of domain names faces.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is a statement by the Internet Architecture Board.  It is not a protocol specification, but an attempt to clarify the range of architectural issues that the internationalization of domain names faces.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2825"/>
+  <seriesInfo name="RFC" value="2825"/>
 </reference>

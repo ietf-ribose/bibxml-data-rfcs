@@ -1,20 +1,24 @@
 <reference anchor="RFC7290" target="https://www.rfc-editor.org/info/rfc7290">
   <front>
     <title>Test Plan and Results for Advancing RFC 2680 on the Standards Track</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7290"/>
-    <author fullname="L. Ciavattone"/>
-    <author fullname="R. Geib"/>
-    <author fullname="A. Morton"/>
-    <author fullname="M. Wieser"/>
+    <author fullname="L. Ciavattone" initials="L." surname="Ciavattone">
+      <organization/>
+    </author>
+    <author fullname="R. Geib" initials="R." surname="Geib">
+      <organization/>
+    </author>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="M. Wieser" initials="M." surname="Wieser">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>ippm</workgroup>
-    <keyword>packet loss</keyword>
-    <keyword>IPPM implementation comparison</keyword>
-    <keyword>perfas+</keyword>
-    <keyword>netem</keyword>
-    <keyword>IPPM comparison</keyword>
-    <keyword>metric test, WIPM</keyword>
-    <keyword>NetProbe</keyword>
-    <abstract>This memo provides the supporting test plan and results to advance RFC 2680, a performance metric RFC defining one-way packet loss metrics, along the Standards Track.  Observing that the metric definitions themselves should be the primary focus rather than the implementations of metrics, this memo describes the test procedures to evaluate specific metric requirement clauses to determine if the requirement has been interpreted and implemented as intended.  Two completely independent implementations have been tested against the key specifications of RFC 2680.</abstract>
+    <abstract>
+      <t>This memo provides the supporting test plan and results to advance RFC 2680, a performance metric RFC defining one-way packet loss metrics, along the Standards Track.  Observing that the metric definitions themselves should be the primary focus rather than the implementations of metrics, this memo describes the test procedures to evaluate specific metric requirement clauses to determine if the requirement has been interpreted and implemented as intended.  Two completely independent implementations have been tested against the key specifications of RFC 2680.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7290"/>
+  <seriesInfo name="RFC" value="7290"/>
 </reference>

@@ -1,19 +1,25 @@
 <reference anchor="RFC4601" target="https://www.rfc-editor.org/info/rfc4601">
   <front>
     <title>Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification (Revised)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4601"/>
-    <author fullname="B. Fenner"/>
-    <author fullname="M. Handley"/>
-    <author fullname="H. Holbrook"/>
-    <author fullname="I. Kouvelas"/>
+    <author fullname="B. Fenner" initials="B." surname="Fenner">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="H. Holbrook" initials="H." surname="Holbrook">
+      <organization/>
+    </author>
+    <author fullname="I. Kouvelas" initials="I." surname="Kouvelas">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>pim</workgroup>
-    <keyword>PIM-SM</keyword>
-    <keyword>routing</keyword>
-    <keyword>message</keyword>
-    <keyword>type</keyword>
-    <keyword>timers</keyword>
-    <keyword>flags</keyword>
-    <abstract>This document specifies Protocol Independent Multicast - Sparse Mode (PIM-SM). PIM-SM is a multicast routing protocol that can use the underlying unicast routing information base or a separate multicast-capable routing information base. It builds unidirectional shared trees rooted at a Rendezvous Point (RP) per group, and optionally creates shortest-path trees per source. This document obsoletes RFC 2362, an Experimental version of PIM-SM. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies Protocol Independent Multicast - Sparse Mode (PIM-SM). PIM-SM is a multicast routing protocol that can use the underlying unicast routing information base or a separate multicast-capable routing information base. It builds unidirectional shared trees rooted at a Rendezvous Point (RP) per group, and optionally creates shortest-path trees per source.</t>
+      <t>This document obsoletes RFC 2362, an Experimental version of PIM-SM. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4601"/>
+  <seriesInfo name="RFC" value="4601"/>
 </reference>

@@ -1,12 +1,14 @@
 <reference anchor="RFC2775" target="https://www.rfc-editor.org/info/rfc2775">
   <front>
     <title>Internet Transparency</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2775"/>
-    <author fullname="B. Carpenter"/>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
-    <keyword>end-to-end</keyword>
-    <keyword>network layer</keyword>
-    <keyword>connectivity</keyword>
-    <abstract>This document describes the current state of the Internet from the architectural viewpoint, concentrating on issues of end-to-end connectivity and transparency.</abstract>
+    <abstract>
+      <t>This document describes the current state of the Internet from the architectural viewpoint, concentrating on issues of end-to-end connectivity and transparency.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2775"/>
+  <seriesInfo name="RFC" value="2775"/>
 </reference>

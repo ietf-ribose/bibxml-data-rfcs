@@ -1,11 +1,20 @@
 <reference anchor="RFC8077" target="https://www.rfc-editor.org/info/rfc8077">
   <front>
     <title>Pseudowire Setup and Maintenance Using the Label Distribution Protocol (LDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8077"/>
-    <author fullname="L. Martini"/>
-    <author fullname="G. Heron"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>pals</workgroup>
-    <abstract>Layer 2 services (such as Frame Relay, Asynchronous Transfer Mode, and Ethernet) can be emulated over an MPLS backbone by encapsulating the Layer 2 Protocol Data Units (PDUs) and then transmitting them over pseudowires (PWs). It is also possible to use pseudowires to provide low-rate Time-Division Multiplexed and Synchronous Optical NETworking circuit emulation over an MPLS-enabled network. This document specifies a protocol for establishing and maintaining the pseudowires, using extensions to the Label Distribution Protocol (LDP). Procedures for encapsulating Layer 2 PDUs are specified in other documents. This document is a rewrite of RFC 4447 for publication as an Internet Standard.</abstract>
+    <abstract>
+      <t>Layer 2 services (such as Frame Relay, Asynchronous Transfer Mode, and Ethernet) can be emulated over an MPLS backbone by encapsulating the Layer 2 Protocol Data Units (PDUs) and then transmitting them over pseudowires (PWs). It is also possible to use pseudowires to provide low-rate Time-Division Multiplexed and Synchronous Optical NETworking circuit emulation over an MPLS-enabled network. This document specifies a protocol for establishing and maintaining the pseudowires, using extensions to the Label Distribution Protocol (LDP). Procedures for encapsulating Layer 2 PDUs are specified in other documents.</t>
+      <t>This document is a rewrite of RFC 4447 for publication as an Internet Standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8077"/>
+  <seriesInfo name="STD" value="84"/>
+  <seriesInfo name="RFC" value="8077"/>
 </reference>

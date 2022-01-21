@@ -1,15 +1,21 @@
 <reference anchor="RFC2861" target="https://www.rfc-editor.org/info/rfc2861">
   <front>
     <title>TCP Congestion Window Validation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2861"/>
-    <author fullname="M. Handley"/>
-    <author fullname="J. Padhye"/>
-    <author fullname="S. Floyd"/>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="J. Padhye" initials="J." surname="Padhye">
+      <organization/>
+    </author>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes a simple modification to TCP's congestion control algorithms to decay the congestion window cwnd after the transition from a sufficiently-long application-limited period, while using the slow-start threshold ssthresh to save information about the previous value of the congestion window.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a simple modification to TCP's congestion control algorithms to decay the congestion window cwnd after the transition from a sufficiently-long application-limited period, while using the slow-start threshold ssthresh to save information about the previous value of the congestion window.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2861"/>
+  <seriesInfo name="RFC" value="2861"/>
 </reference>

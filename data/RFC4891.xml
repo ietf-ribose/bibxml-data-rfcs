@@ -1,16 +1,24 @@
 <reference anchor="RFC4891" target="https://www.rfc-editor.org/info/rfc4891">
   <front>
     <title>Using IPsec to Secure IPv6-in-IPv4 Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4891"/>
-    <author fullname="R. Graveman"/>
-    <author fullname="M. Parthasarathy"/>
-    <author fullname="P. Savola"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="R. Graveman" initials="R." surname="Graveman">
+      <organization/>
+    </author>
+    <author fullname="M. Parthasarathy" initials="M." surname="Parthasarathy">
+      <organization/>
+    </author>
+    <author fullname="P. Savola" initials="P." surname="Savola">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>v6ops</workgroup>
-    <keyword>internet protocol</keyword>
-    <keyword>internet protocol security</keyword>
-    <keyword>ip security</keyword>
-    <abstract>This document gives guidance on securing manually configured IPv6-in- IPv4 tunnels using IPsec in transport mode.  No additional protocol extensions are described beyond those available with the IPsec framework.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document gives guidance on securing manually configured IPv6-in- IPv4 tunnels using IPsec in transport mode.  No additional protocol extensions are described beyond those available with the IPsec framework.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4891"/>
+  <seriesInfo name="RFC" value="4891"/>
 </reference>

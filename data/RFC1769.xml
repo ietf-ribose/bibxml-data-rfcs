@@ -1,12 +1,14 @@
 <reference anchor="RFC1769" target="https://www.rfc-editor.org/info/rfc1769">
   <front>
     <title>Simple Network Time Protocol (SNTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1769"/>
-    <author fullname="D. Mills"/>
+    <author fullname="D. Mills" initials="D." surname="Mills">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
-    <keyword>Clocks</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>NTP</keyword>
-    <abstract>This memorandum describes the Simple Network Time Protocol (SNTP), which is an adaptation of the Network Time Protocol (NTP) used to synchronize computer clocks in the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memorandum describes the Simple Network Time Protocol (SNTP), which is an adaptation of the Network Time Protocol (NTP) used to synchronize computer clocks in the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1769"/>
+  <seriesInfo name="RFC" value="1769"/>
 </reference>

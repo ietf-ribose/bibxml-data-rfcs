@@ -1,11 +1,19 @@
 <reference anchor="RFC3873" target="https://www.rfc-editor.org/info/rfc3873">
   <front>
     <title>Stream Control Transmission Protocol (SCTP) Management Information Base (MIB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3873"/>
-    <author fullname="J. Pastor"/>
-    <author fullname="M. Belinchon"/>
+    <author fullname="J. Pastor" initials="J." surname="Pastor">
+      <organization/>
+    </author>
+    <author fullname="M. Belinchon" initials="M." surname="Belinchon">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>sigtran</workgroup>
-    <abstract>The Stream Control Transmission Protocol (SCTP) is a reliable transport protocol operating on top of a connectionless packet network such as IP. It is designed to transport public switched telephone network (PSTN) signaling messages over the connectionless packet network, but is capable of broader applications. This memo defines the Management Information Base (MIB) module which describes the minimum set of objects needed to manage the implementation of the SCTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Stream Control Transmission Protocol (SCTP) is a reliable transport protocol operating on top of a connectionless packet network such as IP. It is designed to transport public switched telephone network (PSTN) signaling messages over the connectionless packet network, but is capable of broader applications.</t>
+      <t>This memo defines the Management Information Base (MIB) module which describes the minimum set of objects needed to manage the implementation of the SCTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3873"/>
+  <seriesInfo name="RFC" value="3873"/>
 </reference>

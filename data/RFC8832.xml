@@ -1,12 +1,21 @@
 <reference anchor="RFC8832" target="https://www.rfc-editor.org/info/rfc8832">
   <front>
     <title>WebRTC Data Channel Establishment Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8832"/>
-    <author fullname="R. Jesup"/>
-    <author fullname="S. Loreto"/>
-    <author fullname="M. Tüxen"/>
+    <author fullname="R. Jesup" initials="R." surname="Jesup">
+      <organization/>
+    </author>
+    <author fullname="S. Loreto" initials="S." surname="Loreto">
+      <organization/>
+    </author>
+    <author fullname="M. Tüxen" initials="M." surname="Tüxen">
+      <organization/>
+    </author>
     <date year="2021" month="January"/>
     <workgroup>rtcweb</workgroup>
-    <abstract>The WebRTC framework specifies protocol support for direct interactive rich communication using audio, video, and data between two peers' web browsers.  This document specifies a simple protocol for establishing symmetric data channels between the peers.  It uses a two-way handshake and allows sending of user data without waiting for the handshake to complete.</abstract>
+    <abstract>
+      <t>The WebRTC framework specifies protocol support for direct interactive rich communication using audio, video, and data between two peers' web browsers.  This document specifies a simple protocol for establishing symmetric data channels between the peers.  It uses a two-way handshake and allows sending of user data without waiting for the handshake to complete.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8832"/>
+  <seriesInfo name="RFC" value="8832"/>
 </reference>

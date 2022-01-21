@@ -1,15 +1,17 @@
 <reference anchor="RFC3179" target="https://www.rfc-editor.org/info/rfc3179">
   <front>
     <title>Script MIB Extensibility Protocol Version 1.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3179"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="J. Quittek"/>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="J. Quittek" initials="J." surname="Quittek">
+      <organization/>
+    </author>
     <date year="2001" month="October"/>
-    <keyword>SMX</keyword>
-    <keyword>language</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>The Script MIB extensibility protocol (SMX) defined in this memo separates language specific runtime systems from language independent Script MIB implementations.  The IETF Script MIB defines an interface for the delegation of management functions based on the Internet management framework.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Script MIB extensibility protocol (SMX) defined in this memo separates language specific runtime systems from language independent Script MIB implementations.  The IETF Script MIB defines an interface for the delegation of management functions based on the Internet management framework.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3179"/>
+  <seriesInfo name="RFC" value="3179"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="RFC5937" target="https://www.rfc-editor.org/info/rfc5937">
   <front>
     <title>Using Trust Anchor Constraints during Certification Path Processing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5937"/>
-    <author fullname="S. Ashmore"/>
-    <author fullname="C. Wallace"/>
+    <author fullname="S. Ashmore" initials="S." surname="Ashmore">
+      <organization/>
+    </author>
+    <author fullname="C. Wallace" initials="C." surname="Wallace">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>TA</keyword>
-    <abstract>This document describes how to use information associated with a trust anchor public key when validating certification paths.  This information can be used to constrain the usage of a trust anchor.  Typically, constraints are used to limit the certificate policies and names that can appear in certification paths validated using a trust anchor.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes how to use information associated with a trust anchor public key when validating certification paths.  This information can be used to constrain the usage of a trust anchor.  Typically, constraints are used to limit the certificate policies and names that can appear in certification paths validated using a trust anchor.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5937"/>
+  <seriesInfo name="RFC" value="5937"/>
 </reference>

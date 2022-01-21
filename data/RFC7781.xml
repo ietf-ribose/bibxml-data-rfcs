@@ -1,17 +1,27 @@
 <reference anchor="RFC7781" target="https://www.rfc-editor.org/info/rfc7781">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL): Pseudo-Nickname for Active-Active Access</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7781"/>
-    <author fullname="H. Zhai"/>
-    <author fullname="T. Senevirathne"/>
-    <author fullname="R. Perlman"/>
-    <author fullname="M. Zhang"/>
-    <author fullname="Y. Li"/>
+    <author fullname="H. Zhai" initials="H." surname="Zhai">
+      <organization/>
+    </author>
+    <author fullname="T. Senevirathne" initials="T." surname="Senevirathne">
+      <organization/>
+    </author>
+    <author fullname="R. Perlman" initials="R." surname="Perlman">
+      <organization/>
+    </author>
+    <author fullname="M. Zhang" initials="M." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="Y. Li" initials="Y." surname="Li">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>trill</workgroup>
-    <keyword>virtual RBridge</keyword>
-    <keyword>aggregation</keyword>
-    <keyword>flip-flopping</keyword>
-    <abstract>The IETF TRILL (Transparent Interconnection of Lots of Links) protocol provides support for flow-level multipathing for both unicast and multi-destination traffic in networks with arbitrary topology.  Active-active access at the TRILL edge is the extension of these characteristics to end stations that are multiply connected to a TRILL campus as discussed in RFC 7379.  In this document, the edge RBridge (Routing Bridge, or TRILL switch) group providing active-active access to such an end station is represented as a virtual RBridge.  Based on the concept of the virtual RBridge, along with its pseudo-nickname, this document specifies a method for TRILL active-active access by such end stations.</abstract>
+    <abstract>
+      <t>The IETF TRILL (Transparent Interconnection of Lots of Links) protocol provides support for flow-level multipathing for both unicast and multi-destination traffic in networks with arbitrary topology.  Active-active access at the TRILL edge is the extension of these characteristics to end stations that are multiply connected to a TRILL campus as discussed in RFC 7379.  In this document, the edge RBridge (Routing Bridge, or TRILL switch) group providing active-active access to such an end station is represented as a virtual RBridge.  Based on the concept of the virtual RBridge, along with its pseudo-nickname, this document specifies a method for TRILL active-active access by such end stations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7781"/>
+  <seriesInfo name="RFC" value="7781"/>
 </reference>

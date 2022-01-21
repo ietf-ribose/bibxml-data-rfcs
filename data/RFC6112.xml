@@ -1,13 +1,21 @@
 <reference anchor="RFC6112" target="https://www.rfc-editor.org/info/rfc6112">
   <front>
     <title>Anonymity Support for Kerberos</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6112"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="P. Leach"/>
-    <author fullname="S. Hartman"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>krb-wg</workgroup>
-    <keyword>kerberos realm</keyword>
-    <abstract>This document defines extensions to the Kerberos protocol to allow a Kerberos client to securely communicate with a Kerberos application service without revealing its identity, or without revealing more than its Kerberos realm.  It also defines extensions that allow a Kerberos client to obtain anonymous credentials without revealing its identity to the Kerberos Key Distribution Center (KDC).  This document updates RFCs 4120, 4121, and 4556. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extensions to the Kerberos protocol to allow a Kerberos client to securely communicate with a Kerberos application service without revealing its identity, or without revealing more than its Kerberos realm.  It also defines extensions that allow a Kerberos client to obtain anonymous credentials without revealing its identity to the Kerberos Key Distribution Center (KDC).  This document updates RFCs 4120, 4121, and 4556. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6112"/>
+  <seriesInfo name="RFC" value="6112"/>
 </reference>

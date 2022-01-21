@@ -1,16 +1,26 @@
 <reference anchor="RFC8483" target="https://www.rfc-editor.org/info/rfc8483">
   <front>
     <title>Yeti DNS Testbed</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8483"/>
-    <author fullname="L. Song"/>
-    <author fullname="D. Liu"/>
-    <author fullname="P. Vixie"/>
-    <author fullname="A. Kato"/>
-    <author fullname="S. Kerr"/>
+    <author fullname="L. Song" initials="L." surname="Song">
+      <organization/>
+    </author>
+    <author fullname="D. Liu" initials="D." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="P. Vixie" initials="P." surname="Vixie">
+      <organization/>
+    </author>
+    <author fullname="A. Kato" initials="A." surname="Kato">
+      <organization/>
+    </author>
+    <author fullname="S. Kerr" initials="S." surname="Kerr">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
-    <keyword>Root Server</keyword>
-    <keyword>DNSSEC</keyword>
-    <keyword>IPv6</keyword>
-    <abstract>Yeti DNS is an experimental, non-production root server testbed that provides an environment where technical and operational experiments can safely be performed without risk to production root server infrastructure.  This document aims solely to document the technical and operational experience of deploying a system that is similar to but different from the Root Server system (on which the Internet's Domain Name System is designed and built).</abstract>
+    <abstract>
+      <t>Yeti DNS is an experimental, non-production root server testbed that provides an environment where technical and operational experiments can safely be performed without risk to production root server infrastructure.  This document aims solely to document the technical and operational experience of deploying a system that is similar to but different from the Root Server system (on which the Internet's Domain Name System is designed and built).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8483"/>
+  <seriesInfo name="RFC" value="8483"/>
 </reference>

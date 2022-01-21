@@ -1,15 +1,17 @@
 <reference anchor="RFC1415" target="https://www.rfc-editor.org/info/rfc1415">
   <front>
     <title>FTP-FTAM Gateway Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1415"/>
-    <author fullname="J. Mindel"/>
-    <author fullname="R. Slaski"/>
+    <author fullname="J. Mindel" initials="J." surname="Mindel">
+      <organization/>
+    </author>
+    <author fullname="R. Slaski" initials="R." surname="Slaski">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
-    <keyword>FTP</keyword>
-    <keyword>FTAM</keyword>
-    <keyword>transfer</keyword>
-    <keyword>ISO</keyword>
-    <keyword>OSI</keyword>
-    <abstract>This memo describes a dual protocol stack application layer gateway that performs protocol translation, in an interactive environment, between the FTP and FTAM file transfer protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a dual protocol stack application layer gateway that performs protocol translation, in an interactive environment, between the FTP and FTAM file transfer protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1415"/>
+  <seriesInfo name="RFC" value="1415"/>
 </reference>

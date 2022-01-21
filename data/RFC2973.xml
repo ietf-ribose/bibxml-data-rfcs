@@ -1,17 +1,21 @@
 <reference anchor="RFC2973" target="https://www.rfc-editor.org/info/rfc2973">
   <front>
     <title>IS-IS Mesh Groups</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2973"/>
-    <author fullname="R. Balay"/>
-    <author fullname="D. Katz"/>
-    <author fullname="J. Parker"/>
+    <author fullname="R. Balay" initials="R." surname="Balay">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="J. Parker" initials="J." surname="Parker">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate</keyword>
-    <keyword>system</keyword>
-    <keyword>PDU</keyword>
-    <keyword>protocol data</keyword>
-    <keyword>unit</keyword>
-    <abstract>This document describes a mechanism to reduce redundant packet transmissions for the Intermediate System to Intermediate System (IS-IS) Routing protocol, as described in ISO 10589.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a mechanism to reduce redundant packet transmissions for the Intermediate System to Intermediate System (IS-IS) Routing protocol, as described in ISO 10589.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2973"/>
+  <seriesInfo name="RFC" value="2973"/>
 </reference>

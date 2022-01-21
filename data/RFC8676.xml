@@ -1,22 +1,18 @@
 <reference anchor="RFC8676" target="https://www.rfc-editor.org/info/rfc8676">
   <front>
     <title>YANG Modules for IPv4-in-IPv6 Address plus Port (A+P) Softwires</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8676"/>
-    <author fullname="I. Farrer"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="I. Farrer" initials="I." surname="Farrer">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2019" month="November"/>
     <workgroup>softwire</workgroup>
-    <keyword>A+P</keyword>
-    <keyword>address sharing</keyword>
-    <keyword>port set</keyword>
-    <keyword>Port range</keyword>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>NETCONF</keyword>
-    <keyword>RESTCONF</keyword>
-    <keyword>Programmability</keyword>
-    <keyword>Dynamic provisioning</keyword>
-    <keyword>automation</keyword>
-    <keyword>IPv6</keyword>
-    <abstract>This document defines YANG modules for the configuration and operation of IPv4-in-IPv6 softwire Border Relays and Customer Premises Equipment for the Lightweight 4over6, Mapping of Address and Port with Encapsulation (MAP-E), and Mapping of Address and Port using Translation (MAP-T) softwire mechanisms.</abstract>
+    <abstract>
+      <t>This document defines YANG modules for the configuration and operation of IPv4-in-IPv6 softwire Border Relays and Customer Premises Equipment for the Lightweight 4over6, Mapping of Address and Port with Encapsulation (MAP-E), and Mapping of Address and Port using Translation (MAP-T) softwire mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8676"/>
+  <seriesInfo name="RFC" value="8676"/>
 </reference>

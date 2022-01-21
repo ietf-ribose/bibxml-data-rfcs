@@ -1,13 +1,22 @@
 <reference anchor="RFC8445" target="https://www.rfc-editor.org/info/rfc8445">
   <front>
     <title>Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8445"/>
-    <author fullname="A. Keranen"/>
-    <author fullname="C. Holmberg"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2018" month="July"/>
     <workgroup>ice</workgroup>
-    <keyword>NAT</keyword>
-    <abstract>This document describes a protocol for Network Address Translator (NAT) traversal for UDP-based communication. This protocol is called Interactive Connectivity Establishment (ICE). ICE makes use of the Session Traversal Utilities for NAT (STUN) protocol and its extension, Traversal Using Relay NAT (TURN). This document obsoletes RFC 5245.</abstract>
+    <abstract>
+      <t>This document describes a protocol for Network Address Translator (NAT) traversal for UDP-based communication. This protocol is called Interactive Connectivity Establishment (ICE). ICE makes use of the Session Traversal Utilities for NAT (STUN) protocol and its extension, Traversal Using Relay NAT (TURN).</t>
+      <t>This document obsoletes RFC 5245.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8445"/>
+  <seriesInfo name="RFC" value="8445"/>
 </reference>

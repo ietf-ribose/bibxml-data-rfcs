@@ -1,12 +1,15 @@
 <reference anchor="RFC7951" target="https://www.rfc-editor.org/info/rfc7951">
   <front>
     <title>JSON Encoding of Data Modeled with YANG</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7951"/>
-    <author fullname="L. Lhotka"/>
+    <author fullname="L. Lhotka" initials="L." surname="Lhotka">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>netmod</workgroup>
-    <keyword>I-JSON</keyword>
-    <keyword>RESTCONF</keyword>
-    <abstract>This document defines encoding rules for representing configuration data, state data, parameters of Remote Procedure Call (RPC) operations or actions, and notifications defined using YANG as JavaScript Object Notation (JSON) text.</abstract>
+    <abstract>
+      <t>This document defines encoding rules for representing configuration data, state data, parameters of Remote Procedure Call (RPC) operations or actions, and notifications defined using YANG as JavaScript Object Notation (JSON) text.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7951"/>
+  <seriesInfo name="RFC" value="7951"/>
 </reference>

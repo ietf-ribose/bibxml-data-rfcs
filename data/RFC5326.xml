@@ -1,15 +1,21 @@
 <reference anchor="RFC5326" target="https://www.rfc-editor.org/info/rfc5326">
   <front>
     <title>Licklider Transmission Protocol - Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5326"/>
-    <author fullname="M. Ramadas"/>
-    <author fullname="S. Burleigh"/>
-    <author fullname="S. Farrell"/>
+    <author fullname="M. Ramadas" initials="M." surname="Ramadas">
+      <organization/>
+    </author>
+    <author fullname="S. Burleigh" initials="S." surname="Burleigh">
+      <organization/>
+    </author>
+    <author fullname="S. Farrell" initials="S." surname="Farrell">
+      <organization/>
+    </author>
     <date year="2008" month="September"/>
-    <keyword>ltp</keyword>
-    <keyword>round-trip times</keyword>
-    <keyword>rtt</keyword>
-    <keyword>long-haul</keyword>
-    <abstract>This document describes the Licklider Transmission Protocol (LTP), designed to provide retransmission-based reliability over links characterized by extremely long message round-trip times (RTTs) and/or frequent interruptions in connectivity. Since communication across interplanetary space is the most prominent example of this sort of environment, LTP is principally aimed at supporting "long-haul" reliable transmission in interplanetary space, but it has applications in other environments as well. This document is a product of the Delay Tolerant Networking Research Group and has been reviewed by that group. No objections to its publication as an RFC were raised. This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the Licklider Transmission Protocol (LTP), designed to provide retransmission-based reliability over links characterized by extremely long message round-trip times (RTTs) and/or frequent interruptions in connectivity. Since communication across interplanetary space is the most prominent example of this sort of environment, LTP is principally aimed at supporting "long-haul" reliable transmission in interplanetary space, but it has applications in other environments as well.</t>
+      <t>This document is a product of the Delay Tolerant Networking Research Group and has been reviewed by that group. No objections to its publication as an RFC were raised. This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5326"/>
+  <seriesInfo name="RFC" value="5326"/>
 </reference>

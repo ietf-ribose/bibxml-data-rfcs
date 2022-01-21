@@ -1,20 +1,33 @@
 <reference anchor="RFC3530" target="https://www.rfc-editor.org/info/rfc3530">
   <front>
     <title>Network File System (NFS) version 4 Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3530"/>
-    <author fullname="S. Shepler"/>
-    <author fullname="B. Callaghan"/>
-    <author fullname="D. Robinson"/>
-    <author fullname="R. Thurlow"/>
-    <author fullname="C. Beame"/>
-    <author fullname="M. Eisler"/>
-    <author fullname="D. Noveck"/>
+    <author fullname="S. Shepler" initials="S." surname="Shepler">
+      <organization/>
+    </author>
+    <author fullname="B. Callaghan" initials="B." surname="Callaghan">
+      <organization/>
+    </author>
+    <author fullname="D. Robinson" initials="D." surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="R. Thurlow" initials="R." surname="Thurlow">
+      <organization/>
+    </author>
+    <author fullname="C. Beame" initials="C." surname="Beame">
+      <organization/>
+    </author>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
+    <author fullname="D. Noveck" initials="D." surname="Noveck">
+      <organization/>
+    </author>
     <date year="2003" month="April"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>NFSv4</keyword>
-    <keyword>network</keyword>
-    <keyword>file</keyword>
-    <keyword>system</keyword>
-    <abstract>The Network File System (NFS) version 4 is a distributed filesystem protocol which owes heritage to NFS protocol version 2, RFC 1094, and version 3, RFC 1813.  Unlike earlier versions, the NFS version 4 protocol supports traditional file access while integrating support for file locking and the mount protocol.  In addition, support for strong security (and its negotiation), compound operations, client caching, and internationalization have been added.  Of course, attention has been applied to making NFS version 4 operate well in an Internet environment.  This document replaces RFC 3010 as the definition of the NFS version 4 protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Network File System (NFS) version 4 is a distributed filesystem protocol which owes heritage to NFS protocol version 2, RFC 1094, and version 3, RFC 1813.  Unlike earlier versions, the NFS version 4 protocol supports traditional file access while integrating support for file locking and the mount protocol.  In addition, support for strong security (and its negotiation), compound operations, client caching, and internationalization have been added.  Of course, attention has been applied to making NFS version 4 operate well in an Internet environment.  This document replaces RFC 3010 as the definition of the NFS version 4 protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3530"/>
+  <seriesInfo name="RFC" value="3530"/>
 </reference>

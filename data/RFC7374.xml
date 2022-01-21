@@ -1,15 +1,18 @@
 <reference anchor="RFC7374" target="https://www.rfc-editor.org/info/rfc7374">
   <front>
     <title>Service Discovery Usage for REsource LOcation And Discovery (RELOAD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7374"/>
-    <author fullname="J. Maenpaa"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="J. Maenpaa" initials="J." surname="Maenpaa">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>p2psip</workgroup>
-    <keyword>P2PSIP</keyword>
-    <keyword>ReDiR</keyword>
-    <keyword>P2P</keyword>
-    <keyword>DHT</keyword>
-    <abstract>REsource LOcation And Discovery (RELOAD) does not define a generic service discovery mechanism as a part of the base protocol (RFC 6940).  This document defines how the Recursive Distributed Rendezvous (ReDiR) service discovery mechanism can be applied to RELOAD overlays to provide a generic service discovery mechanism.</abstract>
+    <abstract>
+      <t>REsource LOcation And Discovery (RELOAD) does not define a generic service discovery mechanism as a part of the base protocol (RFC 6940).  This document defines how the Recursive Distributed Rendezvous (ReDiR) service discovery mechanism can be applied to RELOAD overlays to provide a generic service discovery mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7374"/>
+  <seriesInfo name="RFC" value="7374"/>
 </reference>

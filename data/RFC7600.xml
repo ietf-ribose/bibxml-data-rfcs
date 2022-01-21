@@ -1,25 +1,30 @@
 <reference anchor="RFC7600" target="https://www.rfc-editor.org/info/rfc7600">
   <front>
     <title>IPv4 Residual Deployment via IPv6 - A Stateless Solution (4rd)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7600"/>
-    <author fullname="R. Despres"/>
-    <author fullname="S. Jiang"/>
-    <author fullname="R. Penno"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="G. Chen"/>
-    <author fullname="M. Chen"/>
+    <author fullname="R. Despres" initials="R." surname="Despres">
+      <organization/>
+    </author>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="G. Chen" initials="G." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>softwire</workgroup>
-    <keyword>Coexistence</keyword>
-    <keyword>Transition</keyword>
-    <keyword>Interworking</keyword>
-    <keyword>Tunneling</keyword>
-    <keyword>Stateless</keyword>
-    <keyword>4rd</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Mapping</keyword>
-    <keyword>Global Addressing</keyword>
-    <abstract>This document specifies a stateless solution for service providers to progressively deploy IPv6-only network domains while still offering IPv4 service to customers.  The solution's distinctive properties are that TCP/UDP IPv4 packets are valid TCP/UDP IPv6 packets during domain traversal and that IPv4 fragmentation rules are fully preserved end to end.  Each customer can be assigned one public IPv4 address, several public IPv4 addresses, or a shared address with a restricted port set.</abstract>
+    <abstract>
+      <t>This document specifies a stateless solution for service providers to progressively deploy IPv6-only network domains while still offering IPv4 service to customers.  The solution's distinctive properties are that TCP/UDP IPv4 packets are valid TCP/UDP IPv6 packets during domain traversal and that IPv4 fragmentation rules are fully preserved end to end.  Each customer can be assigned one public IPv4 address, several public IPv4 addresses, or a shared address with a restricted port set.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7600"/>
+  <seriesInfo name="RFC" value="7600"/>
 </reference>

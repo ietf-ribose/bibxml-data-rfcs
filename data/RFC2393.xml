@@ -1,18 +1,24 @@
 <reference anchor="RFC2393" target="https://www.rfc-editor.org/info/rfc2393">
   <front>
     <title>IP Payload Compression Protocol (IPComp)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2393"/>
-    <author fullname="A. Shacham"/>
-    <author fullname="R. Monsour"/>
-    <author fullname="R. Pereira"/>
-    <author fullname="M. Thomas"/>
+    <author fullname="A. Shacham" initials="A." surname="Shacham">
+      <organization/>
+    </author>
+    <author fullname="R. Monsour" initials="R." surname="Monsour">
+      <organization/>
+    </author>
+    <author fullname="R. Pereira" initials="R." surname="Pereira">
+      <organization/>
+    </author>
+    <author fullname="M. Thomas" initials="M." surname="Thomas">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ippcp</workgroup>
-    <keyword>IPCOMP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>datagram</keyword>
-    <keyword>lossless</keyword>
-    <abstract>This document describes a protocol intended to provide lossless compression for Internet Protocol datagrams in an Internet environment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a protocol intended to provide lossless compression for Internet Protocol datagrams in an Internet environment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2393"/>
+  <seriesInfo name="RFC" value="2393"/>
 </reference>

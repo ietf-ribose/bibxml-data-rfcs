@@ -1,13 +1,15 @@
 <reference anchor="RFC7218" target="https://www.rfc-editor.org/info/rfc7218">
   <front>
     <title>Adding Acronyms to Simplify Conversations about DNS-Based Authentication of Named Entities (DANE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7218"/>
-    <author fullname="O. Gudmundsson"/>
+    <author fullname="O. Gudmundsson" initials="O." surname="Gudmundsson">
+      <organization/>
+    </author>
     <date year="2014" month="April"/>
     <workgroup>dane</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>DANE</keyword>
-    <keyword>Applications</keyword>
-    <abstract>Experience has shown that people get confused when discussing the three numeric fields of the TLSA record.  This document specifies descriptive acronyms for the three numeric fields in TLSA records.  This document updates the format of the IANA registry created by RFC 6698.</abstract>
+    <abstract>
+      <t>Experience has shown that people get confused when discussing the three numeric fields of the TLSA record.  This document specifies descriptive acronyms for the three numeric fields in TLSA records.  This document updates the format of the IANA registry created by RFC 6698.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7218"/>
+  <seriesInfo name="RFC" value="7218"/>
 </reference>

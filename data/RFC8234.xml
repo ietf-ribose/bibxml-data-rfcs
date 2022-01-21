@@ -1,17 +1,27 @@
 <reference anchor="RFC8234" target="https://www.rfc-editor.org/info/rfc8234">
   <front>
     <title>Updates to MPLS Transport Profile (MPLS-TP) Linear Protection in Automatic Protection Switching (APS) Mode</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8234"/>
-    <author fullname="J. Ryoo"/>
-    <author fullname="T. Cheung"/>
-    <author fullname="H. van Helvoort"/>
-    <author fullname="I. Busi"/>
-    <author fullname="G. Wen"/>
+    <author fullname="J. Ryoo" initials="J." surname="Ryoo">
+      <organization/>
+    </author>
+    <author fullname="T. Cheung" initials="T." surname="Cheung">
+      <organization/>
+    </author>
+    <author fullname="H. van Helvoort" initials="H." surname="van">
+      <organization/>
+    </author>
+    <author fullname="I. Busi" initials="I." surname="Busi">
+      <organization/>
+    </author>
+    <author fullname="G. Wen" initials="G." surname="Wen">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>mpls</workgroup>
-    <keyword>APS mode</keyword>
-    <keyword>initialization</keyword>
-    <keyword>mpls-tp linear protection</keyword>
-    <abstract>This document contains updates to MPLS Transport Profile (MPLS-TP) linear protection in Automatic Protection Switching (APS) mode defined in RFC 7271.  The updates provide rules related to the initialization of the Protection State Coordination (PSC) Control Logic (in which the state machine resides) when operating in APS mode and clarify the operation related to state transition table lookup.</abstract>
+    <abstract>
+      <t>This document contains updates to MPLS Transport Profile (MPLS-TP) linear protection in Automatic Protection Switching (APS) mode defined in RFC 7271.  The updates provide rules related to the initialization of the Protection State Coordination (PSC) Control Logic (in which the state machine resides) when operating in APS mode and clarify the operation related to state transition table lookup.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8234"/>
+  <seriesInfo name="RFC" value="8234"/>
 </reference>

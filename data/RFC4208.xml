@@ -1,17 +1,24 @@
 <reference anchor="RFC4208" target="https://www.rfc-editor.org/info/rfc4208">
   <front>
     <title>Generalized Multiprotocol Label Switching (GMPLS) User-Network Interface (UNI): Resource ReserVation Protocol-Traffic Engineering (RSVP-TE) Support for the Overlay Model</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4208"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="J. Drake"/>
-    <author fullname="H. Ishimatsu"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="H. Ishimatsu" initials="H." surname="Ishimatsu">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2005" month="October"/>
     <workgroup>ccamp</workgroup>
-    <keyword>lsp</keyword>
-    <keyword>label switched paths</keyword>
-    <keyword>routing protocol</keyword>
-    <keyword>signaling protocol</keyword>
-    <abstract>Generalized Multiprotocol Label Switching (GMPLS) defines both routing and signaling protocols for the creation of Label Switched Paths (LSPs) in various switching technologies.  These protocols can be used to support a number of deployment scenarios.  This memo addresses the application of GMPLS to the overlay model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Generalized Multiprotocol Label Switching (GMPLS) defines both routing and signaling protocols for the creation of Label Switched Paths (LSPs) in various switching technologies.  These protocols can be used to support a number of deployment scenarios.  This memo addresses the application of GMPLS to the overlay model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4208"/>
+  <seriesInfo name="RFC" value="4208"/>
 </reference>

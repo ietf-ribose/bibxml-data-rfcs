@@ -1,12 +1,20 @@
 <reference anchor="RFC4540" target="https://www.rfc-editor.org/info/rfc4540">
   <front>
     <title>NEC's Simple Middlebox Configuration (SIMCO) Protocol Version 3.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4540"/>
-    <author fullname="M. Stiemerling"/>
-    <author fullname="J. Quittek"/>
-    <author fullname="C. Cadar"/>
+    <author fullname="M. Stiemerling" initials="M." surname="Stiemerling">
+      <organization/>
+    </author>
+    <author fullname="J. Quittek" initials="J." surname="Quittek">
+      <organization/>
+    </author>
+    <author fullname="C. Cadar" initials="C." surname="Cadar">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
-    <keyword>midcom</keyword>
-    <abstract>This document describes a protocol for controlling middleboxes such as firewalls and network address translators.  It is a fully compliant implementation of the Middlebox Communications (MIDCOM) semantics described in RFC 3989.  Compared to earlier experimental versions of the SIMCO protocol, this version (3.0) uses binary message encodings in order to reduce resource requirements.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a protocol for controlling middleboxes such as firewalls and network address translators.  It is a fully compliant implementation of the Middlebox Communications (MIDCOM) semantics described in RFC 3989.  Compared to earlier experimental versions of the SIMCO protocol, this version (3.0) uses binary message encodings in order to reduce resource requirements.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4540"/>
+  <seriesInfo name="RFC" value="4540"/>
 </reference>

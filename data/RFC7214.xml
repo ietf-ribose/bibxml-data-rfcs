@@ -1,11 +1,19 @@
 <reference anchor="RFC7214" target="https://www.rfc-editor.org/info/rfc7214">
   <front>
     <title>Moving Generic Associated Channel (G-ACh) IANA Registries to a New Registry</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7214"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>mpls</workgroup>
-    <abstract>RFC 5586 generalized the applicability of the pseudowire Associated Channel Header (PW-ACH) into the Generic Associated Channel G-ACh. However, registries and allocations of G-ACh parameters had been distributed throughout different, sometimes unrelated, registries. This document coalesces these into a new "Generic Associated Channel (G-ACh) Parameters" registry under the "Multiprotocol Label Switching Architecture (MPLS)" heading. This document updates RFC 5586. This document also updates RFCs 6374, 6378, 6427, and 6428.</abstract>
+    <abstract>
+      <t>RFC 5586 generalized the applicability of the pseudowire Associated Channel Header (PW-ACH) into the Generic Associated Channel G-ACh. However, registries and allocations of G-ACh parameters had been distributed throughout different, sometimes unrelated, registries. This document coalesces these into a new "Generic Associated Channel (G-ACh) Parameters" registry under the "Multiprotocol Label Switching Architecture (MPLS)" heading. This document updates RFC 5586.</t>
+      <t>This document also updates RFCs 6374, 6378, 6427, and 6428.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7214"/>
+  <seriesInfo name="RFC" value="7214"/>
 </reference>

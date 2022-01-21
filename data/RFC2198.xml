@@ -1,18 +1,36 @@
 <reference anchor="RFC2198" target="https://www.rfc-editor.org/info/rfc2198">
   <front>
     <title>RTP Payload for Redundant Audio Data</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2198"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="I. Kouvelas"/>
-    <author fullname="O. Hodson"/>
-    <author fullname="V. Hardman"/>
-    <author fullname="M. Handley"/>
-    <author fullname="J.C. Bolot"/>
-    <author fullname="A. Vega-Garcia"/>
-    <author fullname="S. Fosse-Parisis"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="I. Kouvelas" initials="I." surname="Kouvelas">
+      <organization/>
+    </author>
+    <author fullname="O. Hodson" initials="O." surname="Hodson">
+      <organization/>
+    </author>
+    <author fullname="V. Hardman" initials="V." surname="Hardman">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="J.C. Bolot" initials="J.C." surname="Bolot">
+      <organization/>
+    </author>
+    <author fullname="A. Vega-Garcia" initials="A." surname="Vega-Garcia">
+      <organization/>
+    </author>
+    <author fullname="S. Fosse-Parisis" initials="S." surname="Fosse-Parisis">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP-RAD</keyword>
-    <abstract>This document describes a payload format for use with the real-time transport protocol (RTP), version 2, for encoding redundant audio data. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a payload format for use with the real-time transport protocol (RTP), version 2, for encoding redundant audio data. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2198"/>
+  <seriesInfo name="RFC" value="2198"/>
 </reference>

@@ -1,12 +1,15 @@
 <reference anchor="RFC3425" target="https://www.rfc-editor.org/info/rfc3425">
   <front>
     <title>Obsoleting IQUERY</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3425"/>
-    <author fullname="D. Lawrence"/>
+    <author fullname="D. Lawrence" initials="D." surname="Lawrence">
+      <organization/>
+    </author>
     <date year="2002" month="November"/>
     <workgroup>dnsext</workgroup>
-    <keyword>dns lookups</keyword>
-    <keyword>domain</keyword>
-    <abstract>The IQUERY method of performing inverse DNS lookups, specified in RFC 1035, has not been generally implemented and has usually been operationally disabled where it has been implemented.  Both reflect a general view in the community that the concept was unwise and that the widely-used alternate approach of using pointer (PTR) queries and reverse-mapping records is preferable.  Consequently, this document deprecates the IQUERY operation, declaring it entirely obsolete.  This document updates RFC 1035. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The IQUERY method of performing inverse DNS lookups, specified in RFC 1035, has not been generally implemented and has usually been operationally disabled where it has been implemented.  Both reflect a general view in the community that the concept was unwise and that the widely-used alternate approach of using pointer (PTR) queries and reverse-mapping records is preferable.  Consequently, this document deprecates the IQUERY operation, declaring it entirely obsolete.  This document updates RFC 1035. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3425"/>
+  <seriesInfo name="RFC" value="3425"/>
 </reference>

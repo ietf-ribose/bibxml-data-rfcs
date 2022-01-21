@@ -1,16 +1,14 @@
 <reference anchor="RFC1910" target="https://www.rfc-editor.org/info/rfc1910">
   <front>
     <title>User-based Security Model for SNMPv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1910"/>
-    <author fullname="G. Waters"/>
+    <author fullname="G. Waters" initials="G." surname="Waters">
+      <organization/>
+    </author>
     <date year="1996" month="February"/>
-    <keyword>SNMPV2SM</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Version</keyword>
-    <keyword>2</keyword>
-    <abstract>In this administrative framework, a security model defines the mechanisms used to achieve an administratively-defined level of security for protocol interactions.  Although many such security models might be defined, it is the purpose of this document, User-based Security Model for SNMPv2, to define the first, and, as of this writing, only, security model for this administrative framework.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>In this administrative framework, a security model defines the mechanisms used to achieve an administratively-defined level of security for protocol interactions.  Although many such security models might be defined, it is the purpose of this document, User-based Security Model for SNMPv2, to define the first, and, as of this writing, only, security model for this administrative framework.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1910"/>
+  <seriesInfo name="RFC" value="1910"/>
 </reference>

@@ -1,18 +1,30 @@
 <reference anchor="RFC1928" target="https://www.rfc-editor.org/info/rfc1928">
   <front>
     <title>SOCKS Protocol Version 5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1928"/>
-    <author fullname="M. Leech"/>
-    <author fullname="M. Ganis"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="R. Kuris"/>
-    <author fullname="D. Koblas"/>
-    <author fullname="L. Jones"/>
+    <author fullname="M. Leech" initials="M." surname="Leech">
+      <organization/>
+    </author>
+    <author fullname="M. Ganis" initials="M." surname="Ganis">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="R. Kuris" initials="R." surname="Kuris">
+      <organization/>
+    </author>
+    <author fullname="D. Koblas" initials="D." surname="Koblas">
+      <organization/>
+    </author>
+    <author fullname="L. Jones" initials="L." surname="Jones">
+      <organization/>
+    </author>
     <date year="1996" month="March"/>
     <workgroup>aft</workgroup>
-    <keyword>SOCKSV5</keyword>
-    <keyword>firewalls</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo describes a protocol that is an evolution of the previous version of the protocol, version 4 [1].  This new protocol stems from active discussions and prototype implementations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a protocol that is an evolution of the previous version of the protocol, version 4 [1].  This new protocol stems from active discussions and prototype implementations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1928"/>
+  <seriesInfo name="RFC" value="1928"/>
 </reference>

@@ -1,15 +1,24 @@
 <reference anchor="RFC5996" target="https://www.rfc-editor.org/info/rfc5996">
   <front>
     <title>Internet Key Exchange Protocol Version 2 (IKEv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5996"/>
-    <author fullname="C. Kaufman"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="Y. Nir"/>
-    <author fullname="P. Eronen"/>
+    <author fullname="C. Kaufman" initials="C." surname="Kaufman">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Y. Nir" initials="Y." surname="Nir">
+      <organization/>
+    </author>
+    <author fullname="P. Eronen" initials="P." surname="Eronen">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IKE</keyword>
-    <keyword>IPsec</keyword>
-    <abstract>This document describes version 2 of the Internet Key Exchange (IKE) protocol.  IKE is a component of IPsec used for performing mutual authentication and establishing and maintaining Security Associations (SAs).  This document replaces and updates RFC 4306, and includes all of the clarifications from RFC 4718. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes version 2 of the Internet Key Exchange (IKE) protocol.  IKE is a component of IPsec used for performing mutual authentication and establishing and maintaining Security Associations (SAs).  This document replaces and updates RFC 4306, and includes all of the clarifications from RFC 4718. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5996"/>
+  <seriesInfo name="RFC" value="5996"/>
 </reference>

@@ -1,13 +1,15 @@
 <reference anchor="RFC1559" target="https://www.rfc-editor.org/info/rfc1559">
   <front>
     <title>DECnet Phase IV MIB Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1559"/>
-    <author fullname="J. Saperia"/>
+    <author fullname="J. Saperia" initials="J." surname="Saperia">
+      <organization/>
+    </author>
     <date year="1993" month="December"/>
     <workgroup>decnetiv</workgroup>
-    <keyword>DECNET-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This memo defines a set of DECnet Phase IV extensions that have been created for the Internet MIB.  It reflects changes which are the result of operational experience based on RFC 1289. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a set of DECnet Phase IV extensions that have been created for the Internet MIB.  It reflects changes which are the result of operational experience based on RFC 1289. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1559"/>
+  <seriesInfo name="RFC" value="1559"/>
 </reference>

@@ -1,26 +1,56 @@
 <reference anchor="RFC2309" target="https://www.rfc-editor.org/info/rfc2309">
   <front>
     <title>Recommendations on Queue Management and Congestion Avoidance in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2309"/>
-    <author fullname="B. Braden"/>
-    <author fullname="D. Clark"/>
-    <author fullname="J. Crowcroft"/>
-    <author fullname="B. Davie"/>
-    <author fullname="S. Deering"/>
-    <author fullname="D. Estrin"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="V. Jacobson"/>
-    <author fullname="G. Minshall"/>
-    <author fullname="C. Partridge"/>
-    <author fullname="L. Peterson"/>
-    <author fullname="K. Ramakrishnan"/>
-    <author fullname="S. Shenker"/>
-    <author fullname="J. Wroclawski"/>
-    <author fullname="L. Zhang"/>
+    <author fullname="B. Braden" initials="B." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="D. Clark" initials="D." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="J. Crowcroft" initials="J." surname="Crowcroft">
+      <organization/>
+    </author>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
+    <author fullname="D. Estrin" initials="D." surname="Estrin">
+      <organization/>
+    </author>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
+    <author fullname="G. Minshall" initials="G." surname="Minshall">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
+    <author fullname="L. Peterson" initials="L." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="K. Ramakrishnan" initials="K." surname="Ramakrishnan">
+      <organization/>
+    </author>
+    <author fullname="S. Shenker" initials="S." surname="Shenker">
+      <organization/>
+    </author>
+    <author fullname="J. Wroclawski" initials="J." surname="Wroclawski">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
-    <keyword>performance</keyword>
-    <keyword>router</keyword>
-    <keyword>deployment</keyword>
-    <abstract>This memo presents two recommendations to the Internet community concerning measures to improve and preserve Internet performance.  It presents a strong recommendation for testing, standardization, and widespread deployment of active queue management in routers, to improve the performance of today's Internet.  It also urges a concerted effort of research, measurement, and ultimate deployment of router mechanisms to protect the Internet from flows that are not sufficiently responsive to congestion notification.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo presents two recommendations to the Internet community concerning measures to improve and preserve Internet performance.  It presents a strong recommendation for testing, standardization, and widespread deployment of active queue management in routers, to improve the performance of today's Internet.  It also urges a concerted effort of research, measurement, and ultimate deployment of router mechanisms to protect the Internet from flows that are not sufficiently responsive to congestion notification.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2309"/>
+  <seriesInfo name="RFC" value="2309"/>
 </reference>

@@ -1,11 +1,18 @@
 <reference anchor="RFC7407" target="https://www.rfc-editor.org/info/rfc7407">
   <front>
     <title>A YANG Data Model for SNMP Configuration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7407"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>netmod</workgroup>
-    <abstract>This document defines a collection of YANG definitions for configuring SNMP engines.</abstract>
+    <abstract>
+      <t>This document defines a collection of YANG definitions for configuring SNMP engines.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7407"/>
+  <seriesInfo name="RFC" value="7407"/>
 </reference>

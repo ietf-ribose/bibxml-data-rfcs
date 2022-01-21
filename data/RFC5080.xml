@@ -1,11 +1,18 @@
 <reference anchor="RFC5080" target="https://www.rfc-editor.org/info/rfc5080">
   <front>
     <title>Common Remote Authentication Dial In User Service (RADIUS) Implementation Issues and Suggested Fixes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5080"/>
-    <author fullname="D. Nelson"/>
-    <author fullname="A. DeKok"/>
+    <author fullname="D. Nelson" initials="D." surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="A. DeKok" initials="A." surname="DeKok">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>radext</workgroup>
-    <abstract>This document describes common issues seen in Remote Authentication Dial In User Service (RADIUS) implementations and suggests some fixes.  Where applicable, ambiguities and errors in previous RADIUS specifications are clarified. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes common issues seen in Remote Authentication Dial In User Service (RADIUS) implementations and suggests some fixes.  Where applicable, ambiguities and errors in previous RADIUS specifications are clarified. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5080"/>
+  <seriesInfo name="RFC" value="5080"/>
 </reference>

@@ -1,19 +1,27 @@
 <reference anchor="RFC7851" target="https://www.rfc-editor.org/info/rfc7851">
   <front>
     <title>Peer-to-Peer (P2P) Overlay Diagnostics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7851"/>
-    <author fullname="H. Song"/>
-    <author fullname="X. Jiang"/>
-    <author fullname="R. Even"/>
-    <author fullname="D. Bryan"/>
-    <author fullname="Y. Sun"/>
+    <author fullname="H. Song" initials="H." surname="Song">
+      <organization/>
+    </author>
+    <author fullname="X. Jiang" initials="X." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="D. Bryan" initials="D." surname="Bryan">
+      <organization/>
+    </author>
+    <author fullname="Y. Sun" initials="Y." surname="Sun">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
     <workgroup>p2psip</workgroup>
-    <keyword>Real-time Applications and Infrastructure</keyword>
-    <keyword>P2PSIP Working Group</keyword>
-    <keyword>Diagnostics</keyword>
-    <keyword>P2P</keyword>
-    <keyword>P2PSIP</keyword>
-    <abstract>This document describes mechanisms for Peer-to-Peer (P2P) overlay diagnostics.  It defines extensions to the REsource LOcation And Discovery (RELOAD) base protocol to collect diagnostic information and details the protocol specifications for these extensions.  Useful diagnostic information for connection and node status monitoring is also defined.  The document also describes the usage scenarios and provides examples of how these methods are used to perform diagnostics.</abstract>
+    <abstract>
+      <t>This document describes mechanisms for Peer-to-Peer (P2P) overlay diagnostics.  It defines extensions to the REsource LOcation And Discovery (RELOAD) base protocol to collect diagnostic information and details the protocol specifications for these extensions.  Useful diagnostic information for connection and node status monitoring is also defined.  The document also describes the usage scenarios and provides examples of how these methods are used to perform diagnostics.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7851"/>
+  <seriesInfo name="RFC" value="7851"/>
 </reference>

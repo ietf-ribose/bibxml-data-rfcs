@@ -1,17 +1,24 @@
 <reference anchor="RFC8981" target="https://www.rfc-editor.org/info/rfc8981">
   <front>
     <title>Temporary Address Extensions for Stateless Address Autoconfiguration in IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8981"/>
-    <author fullname="F. Gont"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="T. Narten"/>
-    <author fullname="R. Draves"/>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="R. Draves" initials="R." surname="Draves">
+      <organization/>
+    </author>
     <date year="2021" month="February"/>
     <workgroup>6man</workgroup>
-    <keyword>privacy</keyword>
-    <keyword>anonymity</keyword>
-    <keyword>unlinkability</keyword>
-    <keyword>crypto-based address changing</keyword>
-    <abstract>This document describes an extension to IPv6 Stateless Address Autoconfiguration that causes hosts to generate temporary addresses with randomized interface identifiers for each prefix advertised with autoconfiguration enabled.  Changing addresses over time limits the window of time during which eavesdroppers and other information collectors may trivially perform address-based network-activity correlation when the same address is employed for multiple transactions by the same host.  Additionally, it reduces the window of exposure of a host as being accessible via an address that becomes revealed as a result of active communication.  This document obsoletes RFC 4941.</abstract>
+    <abstract>
+      <t>This document describes an extension to IPv6 Stateless Address Autoconfiguration that causes hosts to generate temporary addresses with randomized interface identifiers for each prefix advertised with autoconfiguration enabled.  Changing addresses over time limits the window of time during which eavesdroppers and other information collectors may trivially perform address-based network-activity correlation when the same address is employed for multiple transactions by the same host.  Additionally, it reduces the window of exposure of a host as being accessible via an address that becomes revealed as a result of active communication.  This document obsoletes RFC 4941.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8981"/>
+  <seriesInfo name="RFC" value="8981"/>
 </reference>

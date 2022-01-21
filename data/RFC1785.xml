@@ -1,15 +1,18 @@
 <reference anchor="RFC1785" target="https://www.rfc-editor.org/info/rfc1785">
   <front>
     <title>TFTP Option Negotiation Analysis</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1785"/>
-    <author fullname="G. Malkin"/>
-    <author fullname="A. Harkin"/>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
+    <author fullname="A. Harkin" initials="A." surname="Harkin">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>tftpexts</workgroup>
-    <keyword>trivial</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <keyword>booting</keyword>
-    <abstract>This document was written to allay concerns that the presence of options in a TFTP Request packet might cause pathological behavior on servers which do not support TFTP option negotiation.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document was written to allay concerns that the presence of options in a TFTP Request packet might cause pathological behavior on servers which do not support TFTP option negotiation.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1785"/>
+  <seriesInfo name="RFC" value="1785"/>
 </reference>

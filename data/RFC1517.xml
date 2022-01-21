@@ -1,13 +1,18 @@
 <reference anchor="RFC1517" target="https://www.rfc-editor.org/info/rfc1517">
   <front>
     <title>Applicability Statement for the Implementation of Classless Inter-Domain Routing (CIDR)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1517"/>
-    <author fullname="Internet Engineering Steering Group"/>
-    <author fullname="R. Hinden"/>
+    <author fullname="Internet Engineering Steering Group" initials="Internet" surname="Engineering">
+      <organization/>
+    </author>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
     <date year="1993" month="September"/>
     <workgroup>IESG</workgroup>
-    <keyword>CIDR</keyword>
-    <keyword>Address</keyword>
-    <abstract>Classless Inter-Domain Routing (CIDR) defines a mechanism to slow the growth of routing tables and reduce the need to allocate new IP network numbers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Classless Inter-Domain Routing (CIDR) defines a mechanism to slow the growth of routing tables and reduce the need to allocate new IP network numbers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1517"/>
+  <seriesInfo name="RFC" value="1517"/>
 </reference>

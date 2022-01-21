@@ -1,17 +1,15 @@
 <reference anchor="RFC2333" target="https://www.rfc-editor.org/info/rfc2333">
   <front>
     <title>NHRP Protocol Applicability Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2333"/>
-    <author fullname="D. Cansever"/>
+    <author fullname="D. Cansever" initials="D." surname="Cansever">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>next</keyword>
-    <keyword>hop</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <keyword>routing</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <abstract>As required by the Routing Protocol Criteria [RFC 1264], this memo discusses the applicability of the Next Hop Resolution Protocol (NHRP) in routing of IP datagrams over Non-Broadcast Multiple Access (NBMA) networks, such as ATM, SMDS and X.25. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>As required by the Routing Protocol Criteria [RFC 1264], this memo discusses the applicability of the Next Hop Resolution Protocol (NHRP) in routing of IP datagrams over Non-Broadcast Multiple Access (NBMA) networks, such as ATM, SMDS and X.25. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2333"/>
+  <seriesInfo name="RFC" value="2333"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC1965" target="https://www.rfc-editor.org/info/rfc1965">
   <front>
     <title>Autonomous System Confederations for BGP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1965"/>
-    <author fullname="P. Traina"/>
+    <author fullname="P. Traina" initials="P." surname="Traina">
+      <organization/>
+    </author>
     <date year="1996" month="June"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-ASC</keyword>
-    <keyword>Border</keyword>
-    <keyword>Gateway</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document describes an extension to BGP which may be used to create a confederation of autonomous systems which is represented as one single autonomous system to BGP peers external to the confederation.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an extension to BGP which may be used to create a confederation of autonomous systems which is represented as one single autonomous system to BGP peers external to the confederation.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1965"/>
+  <seriesInfo name="RFC" value="1965"/>
 </reference>

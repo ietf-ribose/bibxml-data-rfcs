@@ -1,13 +1,18 @@
 <reference anchor="RFC4383" target="https://www.rfc-editor.org/info/rfc4383">
   <front>
     <title>The Use of Timed Efficient Stream Loss-Tolerant Authentication (TESLA) in the Secure Real-time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4383"/>
-    <author fullname="M. Baugher"/>
-    <author fullname="E. Carrara"/>
+    <author fullname="M. Baugher" initials="M." surname="Baugher">
+      <organization/>
+    </author>
+    <author fullname="E. Carrara" initials="E." surname="Carrara">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>msec</workgroup>
-    <keyword>multicast data stream</keyword>
-    <keyword>broadcast data stream</keyword>
-    <abstract>This memo describes the use of the Timed Efficient Stream Loss-tolerant Authentication (RFC 4082) transform within the Secure Real-time Transport Protocol (SRTP), to provide data origin authentication for multicast and broadcast data streams. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the use of the Timed Efficient Stream Loss-tolerant Authentication (RFC 4082) transform within the Secure Real-time Transport Protocol (SRTP), to provide data origin authentication for multicast and broadcast data streams. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4383"/>
+  <seriesInfo name="RFC" value="4383"/>
 </reference>

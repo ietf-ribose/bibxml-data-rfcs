@@ -1,14 +1,15 @@
 <reference anchor="RFC6857" target="https://www.rfc-editor.org/info/rfc6857">
   <front>
     <title>Post-Delivery Message Downgrading for Internationalized Email Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6857"/>
-    <author fullname="K. Fujiwara"/>
+    <author fullname="K. Fujiwara" initials="K." surname="Fujiwara">
+      <organization/>
+    </author>
     <date year="2013" month="March"/>
     <workgroup>eai</workgroup>
-    <keyword>EAI</keyword>
-    <keyword>Email Address Internationalization</keyword>
-    <keyword>Downgrade</keyword>
-    <keyword>MAIL</keyword>
-    <abstract>The Email Address Internationalization (SMTPUTF8) extension to SMTP allows Unicode characters encoded in UTF-8 and outside the ASCII repertoire in mail header fields.  Upgraded POP and IMAP servers support internationalized messages.  If a POP or IMAP client does not support Email Address Internationalization, a POP or IMAP server cannot deliver internationalized messages to the client and cannot remove the message.  To avoid that situation, this document describes a mechanism for converting internationalized messages into the traditional message format.  As part of the conversion process, message elements that require internationalized treatment are recoded or removed, and receivers are able to recognize that they received messages containing such elements, even if they cannot process the internationalized elements.</abstract>
+    <abstract>
+      <t>The Email Address Internationalization (SMTPUTF8) extension to SMTP allows Unicode characters encoded in UTF-8 and outside the ASCII repertoire in mail header fields.  Upgraded POP and IMAP servers support internationalized messages.  If a POP or IMAP client does not support Email Address Internationalization, a POP or IMAP server cannot deliver internationalized messages to the client and cannot remove the message.  To avoid that situation, this document describes a mechanism for converting internationalized messages into the traditional message format.  As part of the conversion process, message elements that require internationalized treatment are recoded or removed, and receivers are able to recognize that they received messages containing such elements, even if they cannot process the internationalized elements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6857"/>
+  <seriesInfo name="RFC" value="6857"/>
 </reference>

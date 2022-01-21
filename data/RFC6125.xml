@@ -1,11 +1,18 @@
 <reference anchor="RFC6125" target="https://www.rfc-editor.org/info/rfc6125">
   <front>
     <title>Representation and Verification of Domain-Based Application Service Identity within Internet Public Key Infrastructure Using X.509 (PKIX) Certificates in the Context of Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6125"/>
-    <author fullname="P. Saint-Andre"/>
-    <author fullname="J. Hodges"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
+    <author fullname="J. Hodges" initials="J." surname="Hodges">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>Many application technologies enable secure communication between two entities by means of Internet Public Key Infrastructure Using X.509 (PKIX) certificates in the context of Transport Layer Security (TLS).  This document specifies procedures for representing and verifying the identity of application services in such interactions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Many application technologies enable secure communication between two entities by means of Internet Public Key Infrastructure Using X.509 (PKIX) certificates in the context of Transport Layer Security (TLS).  This document specifies procedures for representing and verifying the identity of application services in such interactions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6125"/>
+  <seriesInfo name="RFC" value="6125"/>
 </reference>

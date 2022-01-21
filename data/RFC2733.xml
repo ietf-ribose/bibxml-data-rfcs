@@ -1,15 +1,18 @@
 <reference anchor="RFC2733" target="https://www.rfc-editor.org/info/rfc2733">
   <front>
     <title>An RTP Payload Format for Generic Forward Error Correction</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2733"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="1999" month="December"/>
     <workgroup>avt</workgroup>
-    <keyword>FEC</keyword>
-    <keyword>real-time</keyword>
-    <keyword>protocol</keyword>
-    <keyword>stream</keyword>
-    <abstract>This document specifies a payload format for generic forward error correction of media encapsulated in RTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a payload format for generic forward error correction of media encapsulated in RTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2733"/>
+  <seriesInfo name="RFC" value="2733"/>
 </reference>

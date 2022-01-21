@@ -1,17 +1,17 @@
 <reference anchor="RFC2476" target="https://www.rfc-editor.org/info/rfc2476">
   <front>
     <title>Message Submission</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2476"/>
-    <author fullname="R. Gellens"/>
-    <author fullname="J. Klensin"/>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
-    <keyword>smtp</keyword>
-    <keyword>simple</keyword>
-    <keyword>mail</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>user</keyword>
-    <keyword>agent</keyword>
-    <abstract>This memo describes a low cost, deterministic means for messages to be identified as submissions, and specifies what actions are to be taken by a submission server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a low cost, deterministic means for messages to be identified as submissions, and specifies what actions are to be taken by a submission server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2476"/>
+  <seriesInfo name="RFC" value="2476"/>
 </reference>

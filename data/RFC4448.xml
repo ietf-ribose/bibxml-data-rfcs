@@ -1,17 +1,24 @@
 <reference anchor="RFC4448" target="https://www.rfc-editor.org/info/rfc4448">
   <front>
     <title>Encapsulation Methods for Transport of Ethernet over MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4448"/>
-    <author fullname="L. Martini"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="N. El-Aawar"/>
-    <author fullname="G. Heron"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="N. El-Aawar" initials="N." surname="El-Aawar">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>pwe3</workgroup>
-    <keyword>pw</keyword>
-    <keyword>pseudowire</keyword>
-    <keyword>pdu</keyword>
-    <keyword>protocol data units</keyword>
-    <abstract>An Ethernet pseudowire (PW) is used to carry Ethernet/802.3 Protocol Data Units (PDUs) over an MPLS network.  This enables service providers to offer "emulated" Ethernet services over existing MPLS networks.  This document specifies the encapsulation of Ethernet/802.3 PDUs within a pseudowire.  It also specifies the procedures for using a PW to provide a "point-to-point Ethernet" service. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>An Ethernet pseudowire (PW) is used to carry Ethernet/802.3 Protocol Data Units (PDUs) over an MPLS network.  This enables service providers to offer "emulated" Ethernet services over existing MPLS networks.  This document specifies the encapsulation of Ethernet/802.3 PDUs within a pseudowire.  It also specifies the procedures for using a PW to provide a "point-to-point Ethernet" service. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4448"/>
+  <seriesInfo name="RFC" value="4448"/>
 </reference>

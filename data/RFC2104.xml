@@ -1,19 +1,21 @@
 <reference anchor="RFC2104" target="https://www.rfc-editor.org/info/rfc2104">
   <front>
     <title>HMAC: Keyed-Hashing for Message Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2104"/>
-    <author fullname="H. Krawczyk"/>
-    <author fullname="M. Bellare"/>
-    <author fullname="R. Canetti"/>
+    <author fullname="H. Krawczyk" initials="H." surname="Krawczyk">
+      <organization/>
+    </author>
+    <author fullname="M. Bellare" initials="M." surname="Bellare">
+      <organization/>
+    </author>
+    <author fullname="R. Canetti" initials="R." surname="Canetti">
+      <organization/>
+    </author>
     <date year="1997" month="February"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>Message</keyword>
-    <keyword>Digest</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Security</keyword>
-    <keyword>encryption</keyword>
-    <abstract>This document describes HMAC, a mechanism for message authentication using cryptographic hash functions.  HMAC can be used with any iterative cryptographic hash function, e.g., MD5, SHA-1, in combination with a secret shared key.  The cryptographic strength of HMAC depends on the properties of the underlying hash function.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind</abstract>
+    <abstract>
+      <t>This document describes HMAC, a mechanism for message authentication using cryptographic hash functions.  HMAC can be used with any iterative cryptographic hash function, e.g., MD5, SHA-1, in combination with a secret shared key.  The cryptographic strength of HMAC depends on the properties of the underlying hash function.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2104"/>
+  <seriesInfo name="RFC" value="2104"/>
 </reference>

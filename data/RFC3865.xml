@@ -1,16 +1,15 @@
 <reference anchor="RFC3865" target="https://www.rfc-editor.org/info/rfc3865">
   <front>
     <title>A No Soliciting Simple Mail Transfer Protocol (SMTP) Service Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3865"/>
-    <author fullname="C. Malamud"/>
+    <author fullname="C. Malamud" initials="C." surname="Malamud">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>unsolicited bulk email</keyword>
-    <keyword>ube</keyword>
-    <keyword>no soliciting</keyword>
-    <keyword>solicitation class keywords</keyword>
-    <keyword>solicitation mail header</keyword>
-    <keyword>trace fields</keyword>
-    <abstract>This document proposes an extension to Soliciting Simple Mail Transfer Protocol (SMTP) for an electronic mail equivalent to the real-world "No Soliciting" sign.  In addition to the service extension, a new message header and extensions to the existing "received" message header are described. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes an extension to Soliciting Simple Mail Transfer Protocol (SMTP) for an electronic mail equivalent to the real-world "No Soliciting" sign.  In addition to the service extension, a new message header and extensions to the existing "received" message header are described. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3865"/>
+  <seriesInfo name="RFC" value="3865"/>
 </reference>

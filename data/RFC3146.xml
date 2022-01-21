@@ -1,15 +1,18 @@
 <reference anchor="RFC3146" target="https://www.rfc-editor.org/info/rfc3146">
   <front>
     <title>Transmission of IPv6 Packets over IEEE 1394 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3146"/>
-    <author fullname="K. Fujisawa"/>
-    <author fullname="A. Onoe"/>
+    <author fullname="K. Fujisawa" initials="K." surname="Fujisawa">
+      <organization/>
+    </author>
+    <author fullname="A. Onoe" initials="A." surname="Onoe">
+      <organization/>
+    </author>
     <date year="2001" month="October"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>link-local</keyword>
-    <keyword>addresses</keyword>
-    <keyword>statelessly</keyword>
-    <keyword>autoconfigured</keyword>
-    <abstract>This document describes the frame format for transmission of IPv6 packets and the method of forming IPv6 link-local addresses and statelessly autoconfigured addresses on IEEE1394 networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the frame format for transmission of IPv6 packets and the method of forming IPv6 link-local addresses and statelessly autoconfigured addresses on IEEE1394 networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3146"/>
+  <seriesInfo name="RFC" value="3146"/>
 </reference>

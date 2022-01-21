@@ -1,12 +1,15 @@
 <reference anchor="RFC7405" target="https://www.rfc-editor.org/info/rfc7405">
   <front>
     <title>Case-Sensitive String Support in ABNF</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7405"/>
-    <author fullname="P. Kyzivat"/>
+    <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>BNF</keyword>
-    <keyword>ABNF Syntax</keyword>
-    <abstract>This document extends the base definition of ABNF (Augmented Backus-Naur Form) to include a way to specify US-ASCII string literals that are matched in a case-sensitive manner.</abstract>
+    <abstract>
+      <t>This document extends the base definition of ABNF (Augmented Backus-Naur Form) to include a way to specify US-ASCII string literals that are matched in a case-sensitive manner.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7405"/>
+  <seriesInfo name="RFC" value="7405"/>
 </reference>

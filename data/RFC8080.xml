@@ -1,15 +1,18 @@
 <reference anchor="RFC8080" target="https://www.rfc-editor.org/info/rfc8080">
   <front>
     <title>Edwards-Curve Digital Security Algorithm (EdDSA) for DNSSEC</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8080"/>
-    <author fullname="O. Sury"/>
-    <author fullname="R. Edmonds"/>
+    <author fullname="O. Sury" initials="O." surname="Sury">
+      <organization/>
+    </author>
+    <author fullname="R. Edmonds" initials="R." surname="Edmonds">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>curdle</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>EdDSA</keyword>
-    <keyword>ed25519</keyword>
-    <keyword>ed448</keyword>
-    <abstract>This document describes how to specify Edwards-curve Digital Security Algorithm (EdDSA) keys and signatures in DNS Security (DNSSEC).  It uses EdDSA with the choice of two curves: Ed25519 and Ed448.</abstract>
+    <abstract>
+      <t>This document describes how to specify Edwards-curve Digital Security Algorithm (EdDSA) keys and signatures in DNS Security (DNSSEC).  It uses EdDSA with the choice of two curves: Ed25519 and Ed448.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8080"/>
+  <seriesInfo name="RFC" value="8080"/>
 </reference>

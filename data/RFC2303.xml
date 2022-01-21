@@ -1,13 +1,15 @@
 <reference anchor="RFC2303" target="https://www.rfc-editor.org/info/rfc2303">
   <front>
     <title>Minimal PSTN address format in Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2303"/>
-    <author fullname="C. Allocchio"/>
+    <author fullname="C. Allocchio" initials="C." surname="Allocchio">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>fax</workgroup>
-    <keyword>MIN-PSTN</keyword>
-    <keyword>e-mail</keyword>
-    <keyword>service</keyword>
-    <abstract>This memo describes the MINIMAL addressing method to encode PSTN addresses into e-mail addresses and the standard extension mechanism to allow definition of further standard elements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the MINIMAL addressing method to encode PSTN addresses into e-mail addresses and the standard extension mechanism to allow definition of further standard elements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2303"/>
+  <seriesInfo name="RFC" value="2303"/>
 </reference>

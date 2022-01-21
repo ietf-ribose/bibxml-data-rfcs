@@ -1,14 +1,18 @@
 <reference anchor="RFC1514" target="https://www.rfc-editor.org/info/rfc1514">
   <front>
     <title>Host Resources MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1514"/>
-    <author fullname="P. Grillo"/>
-    <author fullname="S. Waldbusser"/>
+    <author fullname="P. Grillo" initials="P." surname="Grillo">
+      <organization/>
+    </author>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
     <date year="1993" month="September"/>
     <workgroup>hostmib</workgroup>
-    <keyword>HOST-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This memo defines a MIB for use with managing host systems. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a MIB for use with managing host systems. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1514"/>
+  <seriesInfo name="RFC" value="1514"/>
 </reference>

@@ -1,21 +1,21 @@
 <reference anchor="RFC5415" target="https://www.rfc-editor.org/info/rfc5415">
   <front>
     <title>Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5415"/>
-    <author fullname="P. Calhoun"/>
-    <author fullname="M. Montemurro"/>
-    <author fullname="D. Stanley"/>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
+    <author fullname="M. Montemurro" initials="M." surname="Montemurro">
+      <organization/>
+    </author>
+    <author fullname="D. Stanley" initials="D." surname="Stanley">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>capwap</workgroup>
-    <keyword>LWAPP</keyword>
-    <keyword>CAPWAP</keyword>
-    <keyword>802.11</keyword>
-    <keyword>IEEE</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>WiFi</keyword>
-    <keyword>Access Point</keyword>
-    <keyword>Access Controller</keyword>
-    <keyword>Wireless Termination Point</keyword>
-    <abstract>This specification defines the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol, meeting the objectives defined by the CAPWAP Working Group in RFC 4564.  The CAPWAP protocol is designed to be flexible, allowing it to be used for a variety of wireless technologies.  This document describes the base CAPWAP protocol, while separate binding extensions will enable its use with additional wireless technologies. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol, meeting the objectives defined by the CAPWAP Working Group in RFC 4564.  The CAPWAP protocol is designed to be flexible, allowing it to be used for a variety of wireless technologies.  This document describes the base CAPWAP protocol, while separate binding extensions will enable its use with additional wireless technologies. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5415"/>
+  <seriesInfo name="RFC" value="5415"/>
 </reference>

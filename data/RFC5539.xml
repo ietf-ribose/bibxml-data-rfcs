@@ -1,13 +1,15 @@
 <reference anchor="RFC5539" target="https://www.rfc-editor.org/info/rfc5539">
   <front>
     <title>NETCONF over Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5539"/>
-    <author fullname="M. Badra"/>
+    <author fullname="M. Badra" initials="M." surname="Badra">
+      <organization/>
+    </author>
     <date year="2009" month="May"/>
     <workgroup>netconf</workgroup>
-    <keyword>Authentication</keyword>
-    <keyword>TLS</keyword>
-    <keyword>RPC</keyword>
-    <abstract>The Network Configuration Protocol (NETCONF) provides mechanisms to install, manipulate, and delete the configuration of network devices.  This document describes how to use the Transport Layer Security (TLS) protocol to secure NETCONF exchanges. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Network Configuration Protocol (NETCONF) provides mechanisms to install, manipulate, and delete the configuration of network devices.  This document describes how to use the Transport Layer Security (TLS) protocol to secure NETCONF exchanges. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5539"/>
+  <seriesInfo name="RFC" value="5539"/>
 </reference>

@@ -1,13 +1,26 @@
 <reference anchor="RFC6155" target="https://www.rfc-editor.org/info/rfc6155">
   <front>
     <title>Use of Device Identity in HTTP-Enabled Location Delivery (HELD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6155"/>
-    <author fullname="J. Winterbottom"/>
-    <author fullname="M. Thomson"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="R. Barnes"/>
+    <author fullname="J. Winterbottom" initials="J." surname="Winterbottom">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>geopriv</workgroup>
-    <abstract>When a Location Information Server receives a request for location information (using the locationRequest message), described in the base HTTP-Enabled Location Delivery (HELD) specification, it uses the source IP address of the arriving message as a pointer to the location determination process. This is sufficient in environments where the location of a Device can be determined based on its IP address. Two additional use cases are addressed by this document. In the first, location configuration requires additional or alternative identifiers from the source IP address provided in the request. In the second, an entity other than the Device requests the location of the Device. This document extends the HELD protocol to allow the location request message to carry Device identifiers. Privacy and security considerations describe the conditions where requests containing identifiers are permitted. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>When a Location Information Server receives a request for location information (using the locationRequest message), described in the base HTTP-Enabled Location Delivery (HELD) specification, it uses the source IP address of the arriving message as a pointer to the location determination process. This is sufficient in environments where the location of a Device can be determined based on its IP address.</t>
+      <t>Two additional use cases are addressed by this document. In the first, location configuration requires additional or alternative identifiers from the source IP address provided in the request. In the second, an entity other than the Device requests the location of the Device.</t>
+      <t>This document extends the HELD protocol to allow the location request message to carry Device identifiers. Privacy and security considerations describe the conditions where requests containing identifiers are permitted. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6155"/>
+  <seriesInfo name="RFC" value="6155"/>
 </reference>

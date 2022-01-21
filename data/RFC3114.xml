@@ -1,16 +1,15 @@
 <reference anchor="RFC3114" target="https://www.rfc-editor.org/info/rfc3114">
   <front>
     <title>Implementing Company Classification Policy with the S/MIME Security Label</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3114"/>
-    <author fullname="W. Nicolls"/>
+    <author fullname="W. Nicolls" initials="W." surname="Nicolls">
+      <organization/>
+    </author>
     <date year="2002" month="May"/>
     <workgroup>smime</workgroup>
-    <keyword>data</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet mail extensions</keyword>
-    <keyword>access control</keyword>
-    <keyword>information classification</keyword>
-    <keyword>security category</keyword>
-    <abstract>This document discusses how company security policy for data classification can be mapped to the S/MIME security label.  Actual policies from three companies provide worked examples.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses how company security policy for data classification can be mapped to the S/MIME security label.  Actual policies from three companies provide worked examples.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3114"/>
+  <seriesInfo name="RFC" value="3114"/>
 </reference>

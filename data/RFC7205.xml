@@ -1,13 +1,24 @@
 <reference anchor="RFC7205" target="https://www.rfc-editor.org/info/rfc7205">
   <front>
     <title>Use Cases for Telepresence Multistreams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7205"/>
-    <author fullname="A. Romanow"/>
-    <author fullname="S. Botzko"/>
-    <author fullname="M. Duckworth"/>
-    <author fullname="R. Even"/>
+    <author fullname="A. Romanow" initials="A." surname="Romanow">
+      <organization/>
+    </author>
+    <author fullname="S. Botzko" initials="S." surname="Botzko">
+      <organization/>
+    </author>
+    <author fullname="M. Duckworth" initials="M." surname="Duckworth">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
     <date year="2014" month="April"/>
     <workgroup>clue</workgroup>
-    <abstract>Telepresence conferencing systems seek to create an environment that gives users (or user groups) that are not co-located a feeling of co-located presence through multimedia communication that includes at least audio and video signals of high fidelity.  A number of techniques for handling audio and video streams are used to create this experience.  When these techniques are not similar, interoperability between different systems is difficult at best, and often not possible.  Conveying information about the relationships between multiple streams of media would enable senders and receivers to make choices to allow telepresence systems to interwork.  This memo describes the most typical and important use cases for sending multiple streams in a telepresence conference.</abstract>
+    <abstract>
+      <t>Telepresence conferencing systems seek to create an environment that gives users (or user groups) that are not co-located a feeling of co-located presence through multimedia communication that includes at least audio and video signals of high fidelity.  A number of techniques for handling audio and video streams are used to create this experience.  When these techniques are not similar, interoperability between different systems is difficult at best, and often not possible.  Conveying information about the relationships between multiple streams of media would enable senders and receivers to make choices to allow telepresence systems to interwork.  This memo describes the most typical and important use cases for sending multiple streams in a telepresence conference.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7205"/>
+  <seriesInfo name="RFC" value="7205"/>
 </reference>

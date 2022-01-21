@@ -1,12 +1,15 @@
 <reference anchor="RFC4016" target="https://www.rfc-editor.org/info/rfc4016">
   <front>
     <title>Protocol for Carrying Authentication and Network Access (PANA) Threat Analysis and Security Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4016"/>
-    <author fullname="M. Parthasarathy"/>
+    <author fullname="M. Parthasarathy" initials="M." surname="Parthasarathy">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>pana</workgroup>
-    <keyword>authentication</keyword>
-    <keyword>network access</keyword>
-    <abstract>This document discusses the threats to protocols used to carry authentication for network access.  The security requirements arising from these threats will be used as additional input to the Protocol for Carrying Authentication for Network Access (PANA) Working Group for designing the IP based network access authentication protocol.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses the threats to protocols used to carry authentication for network access.  The security requirements arising from these threats will be used as additional input to the Protocol for Carrying Authentication for Network Access (PANA) Working Group for designing the IP based network access authentication protocol.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4016"/>
+  <seriesInfo name="RFC" value="4016"/>
 </reference>

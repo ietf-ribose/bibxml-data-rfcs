@@ -1,18 +1,30 @@
 <reference anchor="RFC8679" target="https://www.rfc-editor.org/info/rfc8679">
   <front>
     <title>MPLS Egress Protection Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8679"/>
-    <author fullname="Y. Shen"/>
-    <author fullname="M. Jeganathan"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="H. Gredler"/>
-    <author fullname="C. Michel"/>
-    <author fullname="H. Chen"/>
+    <author fullname="Y. Shen" initials="Y." surname="Shen">
+      <organization/>
+    </author>
+    <author fullname="M. Jeganathan" initials="M." surname="Jeganathan">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="H. Gredler" initials="H." surname="Gredler">
+      <organization/>
+    </author>
+    <author fullname="C. Michel" initials="C." surname="Michel">
+      <organization/>
+    </author>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>mpls</workgroup>
-    <keyword>fast reroute</keyword>
-    <keyword>egress protection</keyword>
-    <keyword>local repair</keyword>
-    <abstract>This document specifies a fast reroute framework for protecting IP/MPLS services and MPLS transport tunnels against egress node and egress link failures.  For each type of egress failure, it defines the roles of Point of Local Repair (PLR), protector, and backup egress router and the procedures of establishing a bypass tunnel from a PLR to a protector.  It describes the behaviors of these routers in handling an egress failure, including local repair on the PLR and context-based forwarding on the protector.  The framework can be used to develop egress protection mechanisms to reduce traffic loss before global repair reacts to an egress failure and control-plane protocols converge on the topology changes due to the egress failure.</abstract>
+    <abstract>
+      <t>This document specifies a fast reroute framework for protecting IP/MPLS services and MPLS transport tunnels against egress node and egress link failures.  For each type of egress failure, it defines the roles of Point of Local Repair (PLR), protector, and backup egress router and the procedures of establishing a bypass tunnel from a PLR to a protector.  It describes the behaviors of these routers in handling an egress failure, including local repair on the PLR and context-based forwarding on the protector.  The framework can be used to develop egress protection mechanisms to reduce traffic loss before global repair reacts to an egress failure and control-plane protocols converge on the topology changes due to the egress failure.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8679"/>
+  <seriesInfo name="RFC" value="8679"/>
 </reference>

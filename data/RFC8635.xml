@@ -1,12 +1,21 @@
 <reference anchor="RFC8635" target="https://www.rfc-editor.org/info/rfc8635">
   <front>
     <title>Router Keying for BGPsec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8635"/>
-    <author fullname="R. Bush"/>
-    <author fullname="S. Turner"/>
-    <author fullname="K. Patel"/>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
     <date year="2019" month="August"/>
     <workgroup>sidrops</workgroup>
-    <abstract>BGPsec-speaking routers are provisioned with private keys in order to sign BGPsec announcements.  The corresponding public keys are published in the Global Resource Public Key Infrastructure (RPKI), enabling verification of BGPsec messages.  This document describes two methods of generating the public-private key pairs: router-driven and operator-driven.</abstract>
+    <abstract>
+      <t>BGPsec-speaking routers are provisioned with private keys in order to sign BGPsec announcements.  The corresponding public keys are published in the Global Resource Public Key Infrastructure (RPKI), enabling verification of BGPsec messages.  This document describes two methods of generating the public-private key pairs: router-driven and operator-driven.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8635"/>
+  <seriesInfo name="RFC" value="8635"/>
 </reference>

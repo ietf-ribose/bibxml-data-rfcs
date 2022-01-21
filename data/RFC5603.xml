@@ -1,13 +1,18 @@
 <reference anchor="RFC5603" target="https://www.rfc-editor.org/info/rfc5603">
   <front>
     <title>Ethernet Pseudowire (PW) Management Information Base (MIB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5603"/>
-    <author fullname="D. Zelig"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="D. Zelig" initials="D." surname="Zelig">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>pwe3</workgroup>
-    <keyword>ethernet pw</keyword>
-    <keyword>PW-ENET-STD-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for modeling of Ethernet pseudowire (PW) services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for modeling of Ethernet pseudowire (PW) services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5603"/>
+  <seriesInfo name="RFC" value="5603"/>
 </reference>

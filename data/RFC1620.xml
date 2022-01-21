@@ -1,18 +1,20 @@
 <reference anchor="RFC1620" target="https://www.rfc-editor.org/info/rfc1620">
   <front>
     <title>Internet Architecture Extensions for Shared Media</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1620"/>
-    <author fullname="B. Braden"/>
-    <author fullname="J. Postel"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="B. Braden" initials="B." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
-    <keyword>Public</keyword>
-    <keyword>data</keyword>
-    <keyword>networks</keyword>
-    <keyword>ARP</keyword>
-    <keyword>address</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo discusses alternative approaches to extending the Internet architecture to eliminate some or all unnecessary hops.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo discusses alternative approaches to extending the Internet architecture to eliminate some or all unnecessary hops.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1620"/>
+  <seriesInfo name="RFC" value="1620"/>
 </reference>

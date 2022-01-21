@@ -1,10 +1,15 @@
 <reference anchor="RFC7867" target="https://www.rfc-editor.org/info/rfc7867">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Block for Loss Concealment Metrics for Video Applications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7867"/>
-    <author fullname="R. Huang"/>
+    <author fullname="R. Huang" initials="R." surname="Huang">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>xrblock</workgroup>
-    <abstract>This document defines a new RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of loss concealment metrics for video applications of RTP.</abstract>
+    <abstract>
+      <t>This document defines a new RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of loss concealment metrics for video applications of RTP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7867"/>
+  <seriesInfo name="RFC" value="7867"/>
 </reference>

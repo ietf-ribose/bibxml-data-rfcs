@@ -1,15 +1,25 @@
 <reference anchor="RFC7535" target="https://www.rfc-editor.org/info/rfc7535">
   <front>
     <title>AS112 Redirection Using DNAME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7535"/>
-    <author fullname="J. Abley"/>
-    <author fullname="B. Dickson"/>
-    <author fullname="W. Kumari"/>
-    <author fullname="G. Michaelson"/>
+    <author fullname="J. Abley" initials="J." surname="Abley">
+      <organization/>
+    </author>
+    <author fullname="B. Dickson" initials="B." surname="Dickson">
+      <organization/>
+    </author>
+    <author fullname="W. Kumari" initials="W." surname="Kumari">
+      <organization/>
+    </author>
+    <author fullname="G. Michaelson" initials="G." surname="Michaelson">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>dnsop</workgroup>
-    <keyword>DNS</keyword>
-    <keyword>root server</keyword>
-    <abstract>AS112 provides a mechanism for handling reverse lookups on IP addresses that are not unique (e.g., RFC 1918 addresses). This document describes modifications to the deployment and use of AS112 infrastructure that will allow zones to be added and dropped much more easily, using DNAME resource records. This approach makes it possible for any DNS zone administrator to sink traffic relating to parts of the global DNS namespace under their control to the AS112 infrastructure without coordination with the operators of AS112 infrastructure.</abstract>
+    <abstract>
+      <t>AS112 provides a mechanism for handling reverse lookups on IP addresses that are not unique (e.g., RFC 1918 addresses). This document describes modifications to the deployment and use of AS112 infrastructure that will allow zones to be added and dropped much more easily, using DNAME resource records.</t>
+      <t>This approach makes it possible for any DNS zone administrator to sink traffic relating to parts of the global DNS namespace under their control to the AS112 infrastructure without coordination with the operators of AS112 infrastructure.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7535"/>
+  <seriesInfo name="RFC" value="7535"/>
 </reference>

@@ -1,12 +1,15 @@
 <reference anchor="RFC3465" target="https://www.rfc-editor.org/info/rfc3465">
   <front>
     <title>TCP Congestion Control with Appropriate Byte Counting (ABC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3465"/>
-    <author fullname="M. Allman"/>
+    <author fullname="M. Allman" initials="M." surname="Allman">
+      <organization/>
+    </author>
     <date year="2003" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>transmission control protocol</keyword>
-    <keyword>security performance</keyword>
-    <abstract>This document proposes a small modification to the way TCP increases its congestion window.  Rather than the traditional method of increasing the congestion window by a constant amount for each arriving acknowledgment, the document suggests basing the increase on the number of previously unacknowledged bytes each ACK covers.  This change improves the performance of TCP, as well as closes a security hole TCP receivers can use to induce the sender into increasing the sending rate too rapidly.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document proposes a small modification to the way TCP increases its congestion window.  Rather than the traditional method of increasing the congestion window by a constant amount for each arriving acknowledgment, the document suggests basing the increase on the number of previously unacknowledged bytes each ACK covers.  This change improves the performance of TCP, as well as closes a security hole TCP receivers can use to induce the sender into increasing the sending rate too rapidly.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3465"/>
+  <seriesInfo name="RFC" value="3465"/>
 </reference>

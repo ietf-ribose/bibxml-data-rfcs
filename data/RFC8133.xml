@@ -1,15 +1,23 @@
 <reference anchor="RFC8133" target="https://www.rfc-editor.org/info/rfc8133">
   <front>
     <title>The Security Evaluated Standardized Password-Authenticated Key Exchange (SESPAKE) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8133"/>
-    <author fullname="S. Smyshlyaev"/>
-    <author fullname="E. Alekseev"/>
-    <author fullname="I. Oshkin"/>
-    <author fullname="V. Popov"/>
+    <author fullname="S. Smyshlyaev" initials="S." surname="Smyshlyaev">
+      <organization/>
+    </author>
+    <author fullname="E. Alekseev" initials="E." surname="Alekseev">
+      <organization/>
+    </author>
+    <author fullname="I. Oshkin" initials="I." surname="Oshkin">
+      <organization/>
+    </author>
+    <author fullname="V. Popov" initials="V." surname="Popov">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
-    <keyword>cryptography</keyword>
-    <keyword>secure channel</keyword>
-    <keyword>elliptic curve</keyword>
-    <abstract>This document describes the Security Evaluated Standardized Password- Authenticated Key Exchange (SESPAKE) protocol.  The SESPAKE protocol provides password-authenticated key exchange for usage in systems for protection of sensitive information.  The security proofs of the protocol were made for situations involving an active adversary in the channel, including man-in-the-middle (MitM) attacks and attacks based on the impersonation of one of the subjects.</abstract>
+    <abstract>
+      <t>This document describes the Security Evaluated Standardized Password- Authenticated Key Exchange (SESPAKE) protocol.  The SESPAKE protocol provides password-authenticated key exchange for usage in systems for protection of sensitive information.  The security proofs of the protocol were made for situations involving an active adversary in the channel, including man-in-the-middle (MitM) attacks and attacks based on the impersonation of one of the subjects.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8133"/>
+  <seriesInfo name="RFC" value="8133"/>
 </reference>

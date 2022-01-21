@@ -1,12 +1,18 @@
 <reference anchor="RFC1654" target="https://www.rfc-editor.org/info/rfc1654">
   <front>
     <title>A Border Gateway Protocol 4 (BGP-4)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1654"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="T. Li"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
     <date year="1994" month="July"/>
     <workgroup>idr</workgroup>
-    <keyword>routing</keyword>
-    <abstract>This document defines an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1654"/>
+  <seriesInfo name="RFC" value="1654"/>
 </reference>

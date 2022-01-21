@@ -1,15 +1,27 @@
 <reference anchor="RFC9084" target="https://www.rfc-editor.org/info/rfc9084">
   <front>
     <title>OSPF Prefix Originator Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9084"/>
-    <author fullname="A. Wang"/>
-    <author fullname="A. Lindem"/>
-    <author fullname="J. Dong"/>
-    <author fullname="P. Psenak"/>
-    <author fullname="K. Talaulikar"/>
+    <author fullname="A. Wang" initials="A." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
     <date year="2021" month="August"/>
     <workgroup>lsr</workgroup>
-    <keyword>OSPF</keyword>
-    <abstract>This document defines OSPF extensions to include information associated with the node originating a prefix along with the prefix advertisement.  These extensions do not change the core OSPF route computation functionality but provide useful information for network analysis, troubleshooting, and use cases like traffic engineering.</abstract>
+    <abstract>
+      <t>This document defines OSPF extensions to include information associated with the node originating a prefix along with the prefix advertisement.  These extensions do not change the core OSPF route computation functionality but provide useful information for network analysis, troubleshooting, and use cases like traffic engineering.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9084"/>
+  <seriesInfo name="RFC" value="9084"/>
 </reference>

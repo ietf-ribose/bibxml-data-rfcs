@@ -1,13 +1,22 @@
 <reference anchor="RFC6533" target="https://www.rfc-editor.org/info/rfc6533">
   <front>
     <title>Internationalized Delivery Status and Disposition Notifications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6533"/>
-    <author fullname="T. Hansen"/>
-    <author fullname="C. Newman"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="T. Hansen" initials="T." surname="Hansen">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>eai</workgroup>
-    <keyword>dsn</keyword>
-    <abstract>Delivery status notifications (DSNs) are critical to the correct operation of an email system. However, the existing Draft Standards (RFC 3461, RFC 3464, RFC 6522) are presently limited to ASCII text in the machine-readable portions of the protocol. This specification adds a new address type for international email addresses so an original recipient address with non-ASCII characters can be correctly preserved even after downgrading. This also provides updated content return media types for delivery status notifications and message disposition notifications to support use of the new address type. This document extends RFC 3461, RFC 3464, RFC 3798, and RFC 6522. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Delivery status notifications (DSNs) are critical to the correct operation of an email system. However, the existing Draft Standards (RFC 3461, RFC 3464, RFC 6522) are presently limited to ASCII text in the machine-readable portions of the protocol. This specification adds a new address type for international email addresses so an original recipient address with non-ASCII characters can be correctly preserved even after downgrading. This also provides updated content return media types for delivery status notifications and message disposition notifications to support use of the new address type.</t>
+      <t>This document extends RFC 3461, RFC 3464, RFC 3798, and RFC 6522. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6533"/>
+  <seriesInfo name="RFC" value="6533"/>
 </reference>

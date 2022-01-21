@@ -1,23 +1,18 @@
 <reference anchor="RFC7516" target="https://www.rfc-editor.org/info/rfc7516">
   <front>
     <title>JSON Web Encryption (JWE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7516"/>
-    <author fullname="M. Jones"/>
-    <author fullname="J. Hildebrand"/>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="J. Hildebrand" initials="J." surname="Hildebrand">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>jose</workgroup>
-    <keyword>JavaScript Object Notation</keyword>
-    <keyword>JSON</keyword>
-    <keyword>JSON Object Signing and Encryption</keyword>
-    <keyword>JOSE</keyword>
-    <keyword>JSON Web Signature</keyword>
-    <keyword>JWS</keyword>
-    <keyword>JSON Web Encryption</keyword>
-    <keyword>JWE</keyword>
-    <keyword>JSON Web Key</keyword>
-    <keyword>JWK</keyword>
-    <keyword>JSON Web Algorithms</keyword>
-    <keyword>JWA</keyword>
-    <abstract>JSON Web Encryption (JWE) represents encrypted content using JSON-based data structures.  Cryptographic algorithms and identifiers for use with this specification are described in the separate JSON Web Algorithms (JWA) specification and IANA registries defined by that specification.  Related digital signature and Message Authentication Code (MAC) capabilities are described in the separate JSON Web Signature (JWS) specification.</abstract>
+    <abstract>
+      <t>JSON Web Encryption (JWE) represents encrypted content using JSON-based data structures.  Cryptographic algorithms and identifiers for use with this specification are described in the separate JSON Web Algorithms (JWA) specification and IANA registries defined by that specification.  Related digital signature and Message Authentication Code (MAC) capabilities are described in the separate JSON Web Signature (JWS) specification.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7516"/>
+  <seriesInfo name="RFC" value="7516"/>
 </reference>

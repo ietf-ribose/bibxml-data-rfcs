@@ -1,15 +1,24 @@
 <reference anchor="RFC3697" target="https://www.rfc-editor.org/info/rfc3697">
   <front>
     <title>IPv6 Flow Label Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3697"/>
-    <author fullname="J. Rajahalme"/>
-    <author fullname="A. Conta"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="S. Deering"/>
+    <author fullname="J. Rajahalme" initials="J." surname="Rajahalme">
+      <organization/>
+    </author>
+    <author fullname="A. Conta" initials="A." surname="Conta">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="2004" month="March"/>
     <workgroup>ipv6</workgroup>
-    <keyword>nodes</keyword>
-    <keyword>packets</keyword>
-    <abstract>This document specifies the IPv6 Flow Label field and the minimum requirements for IPv6 source nodes labeling flows, IPv6 nodes forwarding labeled packets, and flow state establishment methods.  Even when mentioned as examples of possible uses of the flow labeling, more detailed requirements for specific use cases are out of scope for this document.  The usage of the Flow Label field enables efficient IPv6 flow classification based only on IPv6 main header fields in fixed positions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the IPv6 Flow Label field and the minimum requirements for IPv6 source nodes labeling flows, IPv6 nodes forwarding labeled packets, and flow state establishment methods.  Even when mentioned as examples of possible uses of the flow labeling, more detailed requirements for specific use cases are out of scope for this document.  The usage of the Flow Label field enables efficient IPv6 flow classification based only on IPv6 main header fields in fixed positions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3697"/>
+  <seriesInfo name="RFC" value="3697"/>
 </reference>

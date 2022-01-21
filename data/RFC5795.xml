@@ -1,12 +1,23 @@
 <reference anchor="RFC5795" target="https://www.rfc-editor.org/info/rfc5795">
   <front>
     <title>The RObust Header Compression (ROHC) Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5795"/>
-    <author fullname="K. Sandlund"/>
-    <author fullname="G. Pelletier"/>
-    <author fullname="L-E. Jonsson"/>
+    <author fullname="K. Sandlund" initials="K." surname="Sandlund">
+      <organization/>
+    </author>
+    <author fullname="G. Pelletier" initials="G." surname="Pelletier">
+      <organization/>
+    </author>
+    <author fullname="L-E. Jonsson" initials="L-E." surname="Jonsson">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>rohc</workgroup>
-    <abstract>The Robust Header Compression (ROHC) protocol provides an efficient, flexible, and future-proof header compression concept. It is designed to operate efficiently and robustly over various link technologies with different characteristics. The ROHC framework, along with a set of compression profiles, was initially defined in RFC 3095. To improve and simplify the ROHC specifications, this document explicitly defines the ROHC framework and the profile for uncompressed separately. More specifically, the definition of the framework does not modify or update the definition of the framework specified by RFC 3095. This specification obsoletes RFC 4995. It fixes one interoperability issue that was erroneously introduced in RFC 4995, and adds some minor clarifications. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Robust Header Compression (ROHC) protocol provides an efficient, flexible, and future-proof header compression concept. It is designed to operate efficiently and robustly over various link technologies with different characteristics.</t>
+      <t>The ROHC framework, along with a set of compression profiles, was initially defined in RFC 3095. To improve and simplify the ROHC specifications, this document explicitly defines the ROHC framework and the profile for uncompressed separately. More specifically, the definition of the framework does not modify or update the definition of the framework specified by RFC 3095.</t>
+      <t>This specification obsoletes RFC 4995. It fixes one interoperability issue that was erroneously introduced in RFC 4995, and adds some minor clarifications. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5795"/>
+  <seriesInfo name="RFC" value="5795"/>
 </reference>

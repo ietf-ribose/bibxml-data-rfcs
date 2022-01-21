@@ -1,14 +1,18 @@
 <reference anchor="RFC5759" target="https://www.rfc-editor.org/info/rfc5759">
   <front>
     <title>Suite B Certificate and Certificate Revocation List (CRL) Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5759"/>
-    <author fullname="J. Solinas"/>
-    <author fullname="L. Zieglar"/>
+    <author fullname="J. Solinas" initials="J." surname="Solinas">
+      <organization/>
+    </author>
+    <author fullname="L. Zieglar" initials="L." surname="Zieglar">
+      <organization/>
+    </author>
     <date year="2010" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>x.509 v3 certificates</keyword>
-    <keyword>x.509 v2 certificate revocation lists</keyword>
-    <keyword>crl</keyword>
-    <abstract>This document specifies a base profile for X.509 v3 Certificates and X.509 v2 Certificate Revocation Lists (CRLs) for use with the United States National Security Agency's Suite B Cryptography.  The reader is assumed to have familiarity with RFC 5280, "Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile".  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document specifies a base profile for X.509 v3 Certificates and X.509 v2 Certificate Revocation Lists (CRLs) for use with the United States National Security Agency's Suite B Cryptography.  The reader is assumed to have familiarity with RFC 5280, "Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile".  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5759"/>
+  <seriesInfo name="RFC" value="5759"/>
 </reference>

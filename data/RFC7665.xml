@@ -1,11 +1,18 @@
 <reference anchor="RFC7665" target="https://www.rfc-editor.org/info/rfc7665">
   <front>
     <title>Service Function Chaining (SFC) Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7665"/>
-    <author fullname="J. Halpern"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>sfc</workgroup>
-    <abstract>This document describes an architecture for the specification, creation, and ongoing maintenance of Service Function Chains (SFCs) in a network.  It includes architectural concepts, principles, and components used in the construction of composite services through deployment of SFCs, with a focus on those to be standardized in the IETF.  This document does not propose solutions, protocols, or extensions to existing protocols.</abstract>
+    <abstract>
+      <t>This document describes an architecture for the specification, creation, and ongoing maintenance of Service Function Chains (SFCs) in a network.  It includes architectural concepts, principles, and components used in the construction of composite services through deployment of SFCs, with a focus on those to be standardized in the IETF.  This document does not propose solutions, protocols, or extensions to existing protocols.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7665"/>
+  <seriesInfo name="RFC" value="7665"/>
 </reference>

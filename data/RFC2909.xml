@@ -1,18 +1,30 @@
 <reference anchor="RFC2909" target="https://www.rfc-editor.org/info/rfc2909">
   <front>
     <title>The Multicast Address-Set Claim (MASC) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2909"/>
-    <author fullname="P. Radoslavov"/>
-    <author fullname="D. Estrin"/>
-    <author fullname="R. Govindan"/>
-    <author fullname="M. Handley"/>
-    <author fullname="S. Kumar"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="P. Radoslavov" initials="P." surname="Radoslavov">
+      <organization/>
+    </author>
+    <author fullname="D. Estrin" initials="D." surname="Estrin">
+      <organization/>
+    </author>
+    <author fullname="R. Govindan" initials="R." surname="Govindan">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="S. Kumar" initials="S." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>malloc</workgroup>
-    <keyword>MASC</keyword>
-    <keyword>inter-domain</keyword>
-    <keyword>router</keyword>
-    <abstract>This document describes the Multicast Address-Set Claim (MASC) protocol which can be used for inter-domain multicast address set allocation.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the Multicast Address-Set Claim (MASC) protocol which can be used for inter-domain multicast address set allocation.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2909"/>
+  <seriesInfo name="RFC" value="2909"/>
 </reference>

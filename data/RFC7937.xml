@@ -1,17 +1,24 @@
 <reference anchor="RFC7937" target="https://www.rfc-editor.org/info/rfc7937">
   <front>
     <title>Content Distribution Network Interconnection (CDNI) Logging Interface</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7937"/>
-    <author fullname="F. Le Faucheur"/>
-    <author fullname="G. Bertrand"/>
-    <author fullname="I. Oprescu"/>
-    <author fullname="R. Peterkofsky"/>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="G. Bertrand" initials="G." surname="Bertrand">
+      <organization/>
+    </author>
+    <author fullname="I. Oprescu" initials="I." surname="Oprescu">
+      <organization/>
+    </author>
+    <author fullname="R. Peterkofsky" initials="R." surname="Peterkofsky">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>cdni</workgroup>
-    <keyword>CDNI</keyword>
-    <keyword>Logging</keyword>
-    <keyword>CDN</keyword>
-    <keyword>Interconnection</keyword>
-    <abstract>This memo specifies the Logging interface between a downstream Content Distribution Network (dCDN) and an upstream CDN (uCDN) that are interconnected as per the CDN Interconnection (CDNI) framework.  First, it describes a reference model for CDNI logging.  Then, it specifies the CDNI Logging File format and the actual protocol for exchange of CDNI Logging Files.</abstract>
+    <abstract>
+      <t>This memo specifies the Logging interface between a downstream Content Distribution Network (dCDN) and an upstream CDN (uCDN) that are interconnected as per the CDN Interconnection (CDNI) framework.  First, it describes a reference model for CDNI logging.  Then, it specifies the CDNI Logging File format and the actual protocol for exchange of CDNI Logging Files.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7937"/>
+  <seriesInfo name="RFC" value="7937"/>
 </reference>

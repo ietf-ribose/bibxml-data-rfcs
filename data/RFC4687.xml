@@ -1,17 +1,26 @@
 <reference anchor="RFC4687" target="https://www.rfc-editor.org/info/rfc4687">
   <front>
     <title>Operations and Management (OAM) Requirements  for Point-to-Multipoint MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4687"/>
-    <author fullname="S. Yasukawa"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="D. King"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="S. Yasukawa" initials="S." surname="Yasukawa">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>mpls</workgroup>
-    <keyword>multiprotocol label switching</keyword>
-    <keyword>pwmp</keyword>
-    <keyword>lsp</keyword>
-    <keyword>p2mp mpls lsp</keyword>
-    <abstract>Multi-Protocol Label Switching (MPLS) has been extended to encompass point-to-multipoint (P2MP) Label Switched Paths (LSPs). As with point-to-point MPLS LSPs, the requirement to detect, handle, and diagnose control and data plane defects is critical. For operators deploying services based on P2MP MPLS LSPs, the detection and specification of how to handle those defects are important because such defects not only may affect the fundamentals of an MPLS network, but also may impact service level specification commitments for customers of their network. This document describes requirements for data plane operations and management for P2MP MPLS LSPs. These requirements apply to all forms of P2MP MPLS LSPs, and include P2MP Traffic Engineered (TE) LSPs and multicast LSPs. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Multi-Protocol Label Switching (MPLS) has been extended to encompass point-to-multipoint (P2MP) Label Switched Paths (LSPs). As with point-to-point MPLS LSPs, the requirement to detect, handle, and diagnose control and data plane defects is critical.</t>
+      <t>For operators deploying services based on P2MP MPLS LSPs, the detection and specification of how to handle those defects are important because such defects not only may affect the fundamentals of an MPLS network, but also may impact service level specification commitments for customers of their network.</t>
+      <t>This document describes requirements for data plane operations and management for P2MP MPLS LSPs. These requirements apply to all forms of P2MP MPLS LSPs, and include P2MP Traffic Engineered (TE) LSPs and multicast LSPs. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4687"/>
+  <seriesInfo name="RFC" value="4687"/>
 </reference>

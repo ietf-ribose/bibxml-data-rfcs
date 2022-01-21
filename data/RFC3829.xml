@@ -1,13 +1,21 @@
 <reference anchor="RFC3829" target="https://www.rfc-editor.org/info/rfc3829">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Authorization Identity Request and Response Controls</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3829"/>
-    <author fullname="R. Weltman"/>
-    <author fullname="M. Smith"/>
-    <author fullname="M. Wahl"/>
+    <author fullname="R. Weltman" initials="R." surname="Weltman">
+      <organization/>
+    </author>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="M. Wahl" initials="M." surname="Wahl">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>bind operation</keyword>
-    <abstract>This document extends the Lightweight Directory Access Protocol (LDAP) bind operation with a mechanism for requesting and returning the authorization identity it establishes.  Specifically, this document defines the Authorization Identity Request and Response controls for use with the Bind operation.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document extends the Lightweight Directory Access Protocol (LDAP) bind operation with a mechanism for requesting and returning the authorization identity it establishes.  Specifically, this document defines the Authorization Identity Request and Response controls for use with the Bind operation.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3829"/>
+  <seriesInfo name="RFC" value="3829"/>
 </reference>

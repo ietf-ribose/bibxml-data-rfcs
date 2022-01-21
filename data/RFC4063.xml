@@ -1,14 +1,21 @@
 <reference anchor="RFC4063" target="https://www.rfc-editor.org/info/rfc4063">
   <front>
     <title>Considerations When Using Basic OSPF Convergence Benchmarks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4063"/>
-    <author fullname="V. Manral"/>
-    <author fullname="R. White"/>
-    <author fullname="A. Shaikh"/>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="A. Shaikh" initials="A." surname="Shaikh">
+      <organization/>
+    </author>
     <date year="2005" month="April"/>
     <workgroup>bmwg</workgroup>
-    <keyword>spf time</keyword>
-    <keyword>adjacency formation time</keyword>
-    <abstract>This document discusses the applicability of various tests for measuring single router control plane convergence, specifically in regard to the Open Shortest First (OSPF) protocol.  There are two general sections in this document, the first discusses advantages and limitations of specific OSPF convergence tests, and the second discusses more general pitfalls to be considered when routing protocol convergence is tested.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses the applicability of various tests for measuring single router control plane convergence, specifically in regard to the Open Shortest First (OSPF) protocol.  There are two general sections in this document, the first discusses advantages and limitations of specific OSPF convergence tests, and the second discusses more general pitfalls to be considered when routing protocol convergence is tested.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4063"/>
+  <seriesInfo name="RFC" value="4063"/>
 </reference>

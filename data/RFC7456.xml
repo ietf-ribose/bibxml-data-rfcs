@@ -1,14 +1,27 @@
 <reference anchor="RFC7456" target="https://www.rfc-editor.org/info/rfc7456">
   <front>
     <title>Loss and Delay Measurement in Transparent Interconnection of Lots of Links (TRILL)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7456"/>
-    <author fullname="T. Mizrahi"/>
-    <author fullname="T. Senevirathne"/>
-    <author fullname="S. Salam"/>
-    <author fullname="D. Kumar"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="T. Mizrahi" initials="T." surname="Mizrahi">
+      <organization/>
+    </author>
+    <author fullname="T. Senevirathne" initials="T." surname="Senevirathne">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="D. Kumar" initials="D." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>trill</workgroup>
-    <abstract>Performance Monitoring (PM) is a key aspect of Operations, Administration, and Maintenance (OAM).  It allows network operators to verify the Service Level Agreement (SLA) provided to customers and to detect network anomalies.  This document specifies mechanisms for Loss Measurement and Delay Measurement in Transparent Interconnection of Lots of Links (TRILL) networks.</abstract>
+    <abstract>
+      <t>Performance Monitoring (PM) is a key aspect of Operations, Administration, and Maintenance (OAM).  It allows network operators to verify the Service Level Agreement (SLA) provided to customers and to detect network anomalies.  This document specifies mechanisms for Loss Measurement and Delay Measurement in Transparent Interconnection of Lots of Links (TRILL) networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7456"/>
+  <seriesInfo name="RFC" value="7456"/>
 </reference>

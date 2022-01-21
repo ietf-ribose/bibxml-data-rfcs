@@ -1,13 +1,18 @@
 <reference anchor="RFC8051" target="https://www.rfc-editor.org/info/rfc8051">
   <front>
     <title>Applicability of a Stateful Path Computation Element (PCE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8051"/>
-    <author fullname="X. Zhang"/>
-    <author fullname="I. Minei"/>
+    <author fullname="X. Zhang" initials="X." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
     <date year="2017" month="January"/>
     <workgroup>pce</workgroup>
-    <keyword>Stateful PCE</keyword>
-    <keyword>Applicability</keyword>
-    <abstract>A stateful Path Computation Element (PCE) maintains information about Label Switched Path (LSP) characteristics and resource usage within a network in order to provide traffic-engineering calculations for its associated Path Computation Clients (PCCs).  This document describes general considerations for a stateful PCE deployment and examines its applicability and benefits, as well as its challenges and limitations, through a number of use cases.  PCE Communication Protocol (PCEP) extensions required for stateful PCE usage are covered in separate documents.</abstract>
+    <abstract>
+      <t>A stateful Path Computation Element (PCE) maintains information about Label Switched Path (LSP) characteristics and resource usage within a network in order to provide traffic-engineering calculations for its associated Path Computation Clients (PCCs).  This document describes general considerations for a stateful PCE deployment and examines its applicability and benefits, as well as its challenges and limitations, through a number of use cases.  PCE Communication Protocol (PCEP) extensions required for stateful PCE usage are covered in separate documents.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8051"/>
+  <seriesInfo name="RFC" value="8051"/>
 </reference>

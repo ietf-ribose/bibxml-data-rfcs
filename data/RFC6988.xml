@@ -1,16 +1,28 @@
 <reference anchor="RFC6988" target="https://www.rfc-editor.org/info/rfc6988">
   <front>
     <title>Requirements for Energy Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6988"/>
-    <author fullname="J. Quittek"/>
-    <author fullname="M. Chandramouli"/>
-    <author fullname="R. Winter"/>
-    <author fullname="T. Dietz"/>
-    <author fullname="B. Claise"/>
+    <author fullname="J. Quittek" initials="J." surname="Quittek">
+      <organization/>
+    </author>
+    <author fullname="M. Chandramouli" initials="M." surname="Chandramouli">
+      <organization/>
+    </author>
+    <author fullname="R. Winter" initials="R." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="T. Dietz" initials="T." surname="Dietz">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>eman</workgroup>
-    <keyword>monitoring functions</keyword>
-    <keyword>control functions</keyword>
-    <abstract>This document defines requirements for standards specifications for Energy Management. The requirements defined in this document are concerned with monitoring functions as well as control functions. Monitoring functions include identifying energy-managed devices and their components, as well as monitoring their Power States, Power Inlets, Power Outlets, actual power, Power Attributes, received energy, provided energy, and contained batteries. Control functions include such functions as controlling power supply and Power State of energy-managed devices and their components. This document does not specify the features that must be implemented by compliant implementations but rather lists features that must be supported by standards for Energy Management.</abstract>
+    <abstract>
+      <t>This document defines requirements for standards specifications for Energy Management. The requirements defined in this document are concerned with monitoring functions as well as control functions. Monitoring functions include identifying energy-managed devices and their components, as well as monitoring their Power States, Power Inlets, Power Outlets, actual power, Power Attributes, received energy, provided energy, and contained batteries. Control functions include such functions as controlling power supply and Power State of energy-managed devices and their components.</t>
+      <t>This document does not specify the features that must be implemented by compliant implementations but rather lists features that must be supported by standards for Energy Management.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6988"/>
+  <seriesInfo name="RFC" value="6988"/>
 </reference>

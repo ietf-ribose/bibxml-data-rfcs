@@ -1,16 +1,21 @@
 <reference anchor="RFC1997" target="https://www.rfc-editor.org/info/rfc1997">
   <front>
     <title>BGP Communities Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1997"/>
-    <author fullname="R. Chandra"/>
-    <author fullname="P. Traina"/>
-    <author fullname="T. Li"/>
+    <author fullname="R. Chandra" initials="R." surname="Chandra">
+      <organization/>
+    </author>
+    <author fullname="P. Traina" initials="P." surname="Traina">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-COMM</keyword>
-    <keyword>Border</keyword>
-    <keyword>Gateway</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document describes an extension to BGP which may be used to pass additional information to both neighboring and remote BGP peers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extension to BGP which may be used to pass additional information to both neighboring and remote BGP peers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1997"/>
+  <seriesInfo name="RFC" value="1997"/>
 </reference>

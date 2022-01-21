@@ -1,19 +1,29 @@
 <reference anchor="RFC8684" target="https://www.rfc-editor.org/info/rfc8684">
   <front>
     <title>TCP Extensions for Multipath Operation with Multiple Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8684"/>
-    <author fullname="A. Ford"/>
-    <author fullname="C. Raiciu"/>
-    <author fullname="M. Handley"/>
-    <author fullname="O. Bonaventure"/>
-    <author fullname="C. Paasch"/>
+    <author fullname="A. Ford" initials="A." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="C. Raiciu" initials="C." surname="Raiciu">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="O. Bonaventure" initials="O." surname="Bonaventure">
+      <organization/>
+    </author>
+    <author fullname="C. Paasch" initials="C." surname="Paasch">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
     <workgroup>mptcp</workgroup>
-    <keyword>tcp</keyword>
-    <keyword>extensions</keyword>
-    <keyword>multipath</keyword>
-    <keyword>multihomed</keyword>
-    <keyword>subflow</keyword>
-    <abstract>TCP/IP communication is currently restricted to a single path per connection, yet multiple paths often exist between peers. The simultaneous use of these multiple paths for a TCP/IP session would improve resource usage within the network and thus improve user experience through higher throughput and improved resilience to network failure. Multipath TCP provides the ability to simultaneously use multiple paths between peers. This document presents a set of extensions to traditional TCP to support multipath operation. The protocol offers the same type of service to applications as TCP (i.e., a reliable bytestream), and it provides the components necessary to establish and use multiple TCP flows across potentially disjoint paths. This document specifies v1 of Multipath TCP, obsoleting v0 as specified in RFC 6824, through clarifications and modifications primarily driven by deployment experience.</abstract>
+    <abstract>
+      <t>TCP/IP communication is currently restricted to a single path per connection, yet multiple paths often exist between peers. The simultaneous use of these multiple paths for a TCP/IP session would improve resource usage within the network and thus improve user experience through higher throughput and improved resilience to network failure.</t>
+      <t>Multipath TCP provides the ability to simultaneously use multiple paths between peers. This document presents a set of extensions to traditional TCP to support multipath operation. The protocol offers the same type of service to applications as TCP (i.e., a reliable bytestream), and it provides the components necessary to establish and use multiple TCP flows across potentially disjoint paths.</t>
+      <t>This document specifies v1 of Multipath TCP, obsoleting v0 as specified in RFC 6824, through clarifications and modifications primarily driven by deployment experience.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8684"/>
+  <seriesInfo name="RFC" value="8684"/>
 </reference>

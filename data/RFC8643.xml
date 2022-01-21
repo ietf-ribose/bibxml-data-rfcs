@@ -1,19 +1,27 @@
 <reference anchor="RFC8643" target="https://www.rfc-editor.org/info/rfc8643">
   <front>
     <title>An Opportunistic Approach for Secure Real-time Transport Protocol (OSRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8643"/>
-    <author fullname="A. Johnston"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="A. Hutton"/>
-    <author fullname="R. Jesske"/>
-    <author fullname="T. Stach"/>
+    <author fullname="A. Johnston" initials="A." surname="Johnston">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="A. Hutton" initials="A." surname="Hutton">
+      <organization/>
+    </author>
+    <author fullname="R. Jesske" initials="R." surname="Jesske">
+      <organization/>
+    </author>
+    <author fullname="T. Stach" initials="T." surname="Stach">
+      <organization/>
+    </author>
     <date year="2019" month="August"/>
     <workgroup>sipbrandy</workgroup>
-    <keyword>srtp</keyword>
-    <keyword>opportunistic security</keyword>
-    <keyword>encryption</keyword>
-    <keyword>best effort</keyword>
-    <keyword>osrtp</keyword>
-    <abstract>Opportunistic Secure Real-time Transport Protocol (OSRTP) is an implementation of the Opportunistic Security mechanism, as defined in RFC 7435, applied to the Real-time Transport Protocol (RTP).  OSRTP allows encrypted media to be used in environments where support for encryption is not known in advance and is not required.  OSRTP does not require Session Description Protocol (SDP) extensions or features and is fully backwards compatible with existing implementations using encrypted and authenticated media and implementations that do not encrypt or authenticate media packets.  OSRTP is not specific to any key management technique for Secure RTP (SRTP).  OSRTP is a transitional approach useful for migrating existing deployments of real-time communications to a fully encrypted and authenticated state.</abstract>
+    <abstract>
+      <t>Opportunistic Secure Real-time Transport Protocol (OSRTP) is an implementation of the Opportunistic Security mechanism, as defined in RFC 7435, applied to the Real-time Transport Protocol (RTP).  OSRTP allows encrypted media to be used in environments where support for encryption is not known in advance and is not required.  OSRTP does not require Session Description Protocol (SDP) extensions or features and is fully backwards compatible with existing implementations using encrypted and authenticated media and implementations that do not encrypt or authenticate media packets.  OSRTP is not specific to any key management technique for Secure RTP (SRTP).  OSRTP is a transitional approach useful for migrating existing deployments of real-time communications to a fully encrypted and authenticated state.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8643"/>
+  <seriesInfo name="RFC" value="8643"/>
 </reference>

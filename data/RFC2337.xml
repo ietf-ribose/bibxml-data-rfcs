@@ -1,17 +1,21 @@
 <reference anchor="RFC2337" target="https://www.rfc-editor.org/info/rfc2337">
   <front>
     <title>Intra-LIS IP multicast among routers over ATM using Sparse Mode PIM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2337"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <abstract>This document describes how intra-LIS IP multicast can be efficiently supported among routers over ATM without using the Multicast Address Resolution Server (MARS).  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</abstract>
+    <abstract>
+      <t>This document describes how intra-LIS IP multicast can be efficiently supported among routers over ATM without using the Multicast Address Resolution Server (MARS).  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2337"/>
+  <seriesInfo name="RFC" value="2337"/>
 </reference>

@@ -1,12 +1,15 @@
 <reference anchor="RFC5722" target="https://www.rfc-editor.org/info/rfc5722">
   <front>
     <title>Handling of Overlapping IPv6 Fragments</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5722"/>
-    <author fullname="S. Krishnan"/>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
     <date year="2009" month="December"/>
     <workgroup>6man</workgroup>
-    <keyword>fragmentation</keyword>
-    <keyword>overlapping fragments</keyword>
-    <abstract>The fragmentation and reassembly algorithm specified in the base IPv6 specification allows fragments to overlap.  This document demonstrates the security issues associated with allowing overlapping fragments and updates the IPv6 specification to explicitly forbid overlapping fragments. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The fragmentation and reassembly algorithm specified in the base IPv6 specification allows fragments to overlap.  This document demonstrates the security issues associated with allowing overlapping fragments and updates the IPv6 specification to explicitly forbid overlapping fragments. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5722"/>
+  <seriesInfo name="RFC" value="5722"/>
 </reference>

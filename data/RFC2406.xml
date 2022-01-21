@@ -1,19 +1,18 @@
 <reference anchor="RFC2406" target="https://www.rfc-editor.org/info/rfc2406">
   <front>
     <title>IP Encapsulating Security Payload (ESP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2406"/>
-    <author fullname="S. Kent"/>
-    <author fullname="R. Atkinson"/>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ESP</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>encapsulating</keyword>
-    <keyword>security</keyword>
-    <keyword>ipv4</keyword>
-    <keyword>ipv6</keyword>
-    <abstract>The Encapsulating Security Payload (ESP) header is designed to provide a mix of security services in IPv4 and IPv6. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Encapsulating Security Payload (ESP) header is designed to provide a mix of security services in IPv4 and IPv6. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2406"/>
+  <seriesInfo name="RFC" value="2406"/>
 </reference>

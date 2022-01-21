@@ -1,17 +1,28 @@
 <reference anchor="RFC8038" target="https://www.rfc-editor.org/info/rfc8038">
   <front>
     <title>Exporting MIB Variables Using the IP Flow Information Export (IPFIX) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8038"/>
-    <author fullname="P. Aitken"/>
-    <author fullname="B. Claise"/>
-    <author fullname="S. B S"/>
-    <author fullname="C. McDowall"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="P. Aitken" initials="P." surname="Aitken">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="S. B S" initials="S." surname="B">
+      <organization/>
+    </author>
+    <author fullname="C. McDowall" initials="C." surname="McDowall">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>IPFIX</keyword>
-    <keyword>MIB</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This document specifies a way to complement IP Flow Information Export (IPFIX) Data Records with Management Information Base (MIB) objects, avoiding the need to define new IPFIX Information Elements for existing MIB objects that are already fully specified. Two IPFIX Options Templates, as well as a method for creating IPFIX Options Templates that are used to export the extra data required to fully describe Simple Network Management Protocol (SNMP) MIB objects in IPFIX, are specified herein.</abstract>
+    <abstract>
+      <t>This document specifies a way to complement IP Flow Information Export (IPFIX) Data Records with Management Information Base (MIB) objects, avoiding the need to define new IPFIX Information Elements for existing MIB objects that are already fully specified.</t>
+      <t>Two IPFIX Options Templates, as well as a method for creating IPFIX Options Templates that are used to export the extra data required to fully describe Simple Network Management Protocol (SNMP) MIB objects in IPFIX, are specified herein.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8038"/>
+  <seriesInfo name="RFC" value="8038"/>
 </reference>

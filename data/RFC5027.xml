@@ -1,17 +1,18 @@
 <reference anchor="RFC5027" target="https://www.rfc-editor.org/info/rfc5027">
   <front>
     <title>Security Preconditions for Session Description Protocol (SDP) Media Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5027"/>
-    <author fullname="F. Andreasen"/>
-    <author fullname="D. Wing"/>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>mmusic</workgroup>
-    <keyword>DTLS</keyword>
-    <keyword>DTLS-SRTP</keyword>
-    <keyword>TLS</keyword>
-    <keyword>MIKEY</keyword>
-    <keyword>Security Descriptions</keyword>
-    <keyword>SRTP</keyword>
-    <abstract>This document defines a new security precondition for the Session Description Protocol (SDP) precondition framework described in RFCs 3312 and 4032.  A security precondition can be used to delay session establishment or modification until media stream security for a secure media stream has been negotiated successfully. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new security precondition for the Session Description Protocol (SDP) precondition framework described in RFCs 3312 and 4032.  A security precondition can be used to delay session establishment or modification until media stream security for a secure media stream has been negotiated successfully. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5027"/>
+  <seriesInfo name="RFC" value="5027"/>
 </reference>

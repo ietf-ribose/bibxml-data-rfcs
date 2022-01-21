@@ -1,15 +1,18 @@
 <reference anchor="RFC3440" target="https://www.rfc-editor.org/info/rfc3440">
   <front>
     <title>Definitions of Extension Managed Objects for Asymmetric Digital Subscriber Lines</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3440"/>
-    <author fullname="F. Ly"/>
-    <author fullname="G. Bathrick"/>
+    <author fullname="F. Ly" initials="F." surname="Ly">
+      <organization/>
+    </author>
+    <author fullname="G. Bathrick" initials="G." surname="Bathrick">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>adslmib</workgroup>
-    <keyword>simple network management protocol</keyword>
-    <keyword>mib</keyword>
-    <keyword>adsl</keyword>
-    <keyword>asymmetric digital subscriber line</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes additional managed objects used for managing Asymmetric Digital Subscriber Line (ADSL) interfaces not covered by the ADSL Line MIB (RFC 2662). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes additional managed objects used for managing Asymmetric Digital Subscriber Line (ADSL) interfaces not covered by the ADSL Line MIB (RFC 2662). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3440"/>
+  <seriesInfo name="RFC" value="3440"/>
 </reference>

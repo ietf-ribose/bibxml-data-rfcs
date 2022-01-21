@@ -1,17 +1,15 @@
 <reference anchor="RFC6604" target="https://www.rfc-editor.org/info/rfc6604">
   <front>
     <title>xNAME RCODE and Status Bits Clarification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6604"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNS</keyword>
-    <keyword>DNSSEC</keyword>
-    <keyword>CNAME</keyword>
-    <keyword>DNAME</keyword>
-    <keyword>Domain Name</keyword>
-    <keyword>response code</keyword>
-    <keyword>canonical name</keyword>
-    <abstract>The Domain Name System (DNS) has long provided means, such as the CNAME (Canonical Name), whereby a DNS query can be redirected to a different name.  A DNS response header has an RCODE (Response Code) field, used for indicating errors, and response status bits.  This document clarifies, in the case of such redirected queries, how the RCODE and status bits correspond to the initial query cycle (where the CNAME or the like was detected) and subsequent or final query cycles. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Domain Name System (DNS) has long provided means, such as the CNAME (Canonical Name), whereby a DNS query can be redirected to a different name.  A DNS response header has an RCODE (Response Code) field, used for indicating errors, and response status bits.  This document clarifies, in the case of such redirected queries, how the RCODE and status bits correspond to the initial query cycle (where the CNAME or the like was detected) and subsequent or final query cycles. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6604"/>
+  <seriesInfo name="RFC" value="6604"/>
 </reference>

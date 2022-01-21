@@ -1,10 +1,14 @@
 <reference anchor="RFC0996" target="https://www.rfc-editor.org/info/rfc996">
   <front>
     <title>Statistics server</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0996"/>
-    <author fullname="D.L. Mills"/>
+    <author fullname="D.L. Mills" initials="D.L." surname="Mills">
+      <organization/>
+    </author>
     <date year="1987" month="February"/>
-    <keyword>STATSRV</keyword>
-    <abstract>This RFC specifies a standard for the ARPA Internet community.  Hosts and gateways on the DARPA Internet that choose to implement a remote statistics monitoring facility may use this protocol to send statistics data upon request to a monitoring center or debugging host.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the ARPA Internet community.  Hosts and gateways on the DARPA Internet that choose to implement a remote statistics monitoring facility may use this protocol to send statistics data upon request to a monitoring center or debugging host.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0996"/>
+  <seriesInfo name="RFC" value="996"/>
 </reference>

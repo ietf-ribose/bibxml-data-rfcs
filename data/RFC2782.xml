@@ -1,18 +1,21 @@
 <reference anchor="RFC2782" target="https://www.rfc-editor.org/info/rfc2782">
   <front>
     <title>A DNS RR for specifying the location of services (DNS SRV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2782"/>
-    <author fullname="A. Gulbrandsen"/>
-    <author fullname="P. Vixie"/>
-    <author fullname="L. Esibov"/>
+    <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
+    <author fullname="P. Vixie" initials="P." surname="Vixie">
+      <organization/>
+    </author>
+    <author fullname="L. Esibov" initials="L." surname="Esibov">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNS-SRV</keyword>
-    <keyword>domain</keyword>
-    <keyword>name</keyword>
-    <keyword>system</keyword>
-    <keyword>resource</keyword>
-    <keyword>record</keyword>
-    <abstract>This document describes a DNS RR which specifies the location of the server(s) for a specific protocol and domain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a DNS RR which specifies the location of the server(s) for a specific protocol and domain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2782"/>
+  <seriesInfo name="RFC" value="2782"/>
 </reference>

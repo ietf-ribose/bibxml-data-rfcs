@@ -1,13 +1,23 @@
 <reference anchor="RFC2281" target="https://www.rfc-editor.org/info/rfc2281">
   <front>
     <title>Cisco Hot Standby Router Protocol (HSRP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2281"/>
-    <author fullname="T. Li"/>
-    <author fullname="B. Cole"/>
-    <author fullname="P. Morton"/>
-    <author fullname="D. Li"/>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="B. Cole" initials="B." surname="Cole">
+      <organization/>
+    </author>
+    <author fullname="P. Morton" initials="P." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="D. Li" initials="D." surname="Li">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
-    <keyword>HSRP</keyword>
-    <abstract>The memo specifies the Hot Standby Router Protocol (HSRP).  The goal of the protocol is to allow hosts to appear to use a single router and to maintain connectivity even if the actual first hop router they are using fails.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The memo specifies the Hot Standby Router Protocol (HSRP).  The goal of the protocol is to allow hosts to appear to use a single router and to maintain connectivity even if the actual first hop router they are using fails.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2281"/>
+  <seriesInfo name="RFC" value="2281"/>
 </reference>

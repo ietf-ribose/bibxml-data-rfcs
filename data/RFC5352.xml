@@ -1,16 +1,27 @@
 <reference anchor="RFC5352" target="https://www.rfc-editor.org/info/rfc5352">
   <front>
     <title>Aggregate Server Access Protocol (ASAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5352"/>
-    <author fullname="R. Stewart"/>
-    <author fullname="Q. Xie"/>
-    <author fullname="M. Stillman"/>
-    <author fullname="M. Tuexen"/>
+    <author fullname="R. Stewart" initials="R." surname="Stewart">
+      <organization/>
+    </author>
+    <author fullname="Q. Xie" initials="Q." surname="Xie">
+      <organization/>
+    </author>
+    <author fullname="M. Stillman" initials="M." surname="Stillman">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
     <date year="2008" month="September"/>
     <workgroup>rserpool</workgroup>
-    <keyword>rserpool</keyword>
-    <keyword>enrp</keyword>
-    <keyword>endpoint handlespace redundancy protocol</keyword>
-    <abstract>Aggregate Server Access Protocol (ASAP; RFC 5352), in conjunction with the Endpoint Handlespace Redundancy Protocol (ENRP; RFC 5353), provides a high-availability data transfer mechanism over IP networks. ASAP uses a handle-based addressing model that isolates a logical communication endpoint from its IP address(es), thus effectively eliminating the binding between the communication endpoint and its physical IP address(es), which normally constitutes a single point of failure. In addition, ASAP defines each logical communication destination as a pool, providing full transparent support for server pooling and load sharing. It also allows dynamic system scalability -- members of a server pool can be added or removed at any time without interrupting the service. ASAP is designed to take full advantage of the network level redundancy provided by the Stream Transmission Control Protocol (SCTP; RFC 4960). Each transport protocol, other than SCTP, MUST have an accompanying transport mapping document. It should be noted that ASAP messages passed between Pool Elements (PEs) and ENRP servers MUST use the SCTP transport protocol. The high-availability server pooling is gained by combining two protocols, namely ASAP and ENRP, in which ASAP provides the user interface for Pool Handle to address translation, load sharing management, and fault management, while ENRP defines the high- availability Pool Handle translation service. This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Aggregate Server Access Protocol (ASAP; RFC 5352), in conjunction with the Endpoint Handlespace Redundancy Protocol (ENRP; RFC 5353), provides a high-availability data transfer mechanism over IP networks. ASAP uses a handle-based addressing model that isolates a logical communication endpoint from its IP address(es), thus effectively eliminating the binding between the communication endpoint and its physical IP address(es), which normally constitutes a single point of failure.</t>
+      <t>In addition, ASAP defines each logical communication destination as a pool, providing full transparent support for server pooling and load sharing. It also allows dynamic system scalability -- members of a server pool can be added or removed at any time without interrupting the service.</t>
+      <t>ASAP is designed to take full advantage of the network level redundancy provided by the Stream Transmission Control Protocol (SCTP; RFC 4960). Each transport protocol, other than SCTP, MUST have an accompanying transport mapping document. It should be noted that ASAP messages passed between Pool Elements (PEs) and ENRP servers MUST use the SCTP transport protocol.</t>
+      <t>The high-availability server pooling is gained by combining two protocols, namely ASAP and ENRP, in which ASAP provides the user interface for Pool Handle to address translation, load sharing management, and fault management, while ENRP defines the high- availability Pool Handle translation service. This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5352"/>
+  <seriesInfo name="RFC" value="5352"/>
 </reference>

@@ -1,25 +1,42 @@
 <reference anchor="RFC2429" target="https://www.rfc-editor.org/info/rfc2429">
   <front>
     <title>RTP Payload Format for the 1998 Version of ITU-T Rec. H.263 Video (H.263+)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2429"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="L. Cline"/>
-    <author fullname="G. Deisher"/>
-    <author fullname="T. Gardos"/>
-    <author fullname="C. Maciocco"/>
-    <author fullname="D. Newell"/>
-    <author fullname="J. Ott"/>
-    <author fullname="G. Sullivan"/>
-    <author fullname="S. Wenger"/>
-    <author fullname="C. Zhu"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="L. Cline" initials="L." surname="Cline">
+      <organization/>
+    </author>
+    <author fullname="G. Deisher" initials="G." surname="Deisher">
+      <organization/>
+    </author>
+    <author fullname="T. Gardos" initials="T." surname="Gardos">
+      <organization/>
+    </author>
+    <author fullname="C. Maciocco" initials="C." surname="Maciocco">
+      <organization/>
+    </author>
+    <author fullname="D. Newell" initials="D." surname="Newell">
+      <organization/>
+    </author>
+    <author fullname="J. Ott" initials="J." surname="Ott">
+      <organization/>
+    </author>
+    <author fullname="G. Sullivan" initials="G." surname="Sullivan">
+      <organization/>
+    </author>
+    <author fullname="S. Wenger" initials="S." surname="Wenger">
+      <organization/>
+    </author>
+    <author fullname="C. Zhu" initials="C." surname="Zhu">
+      <organization/>
+    </author>
     <date year="1998" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>real</keyword>
-    <keyword>time</keyword>
-    <keyword>transport</keyword>
-    <keyword>protocol</keyword>
-    <keyword>multicast</keyword>
-    <keyword>unicast</keyword>
-    <abstract>This document specifies an RTP payload header format applicable to the transmission of video streams generated based on the 1998 version of ITU-T Recommendation H.263. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an RTP payload header format applicable to the transmission of video streams generated based on the 1998 version of ITU-T Recommendation H.263. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2429"/>
+  <seriesInfo name="RFC" value="2429"/>
 </reference>

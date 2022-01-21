@@ -1,16 +1,21 @@
 <reference anchor="RFC1490" target="https://www.rfc-editor.org/info/rfc1490">
   <front>
     <title>Multiprotocol Interconnect over Frame Relay</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1490"/>
-    <author fullname="T. Bradley"/>
-    <author fullname="C. Brown"/>
-    <author fullname="A. Malis"/>
+    <author fullname="T. Bradley" initials="T." surname="Bradley">
+      <organization/>
+    </author>
+    <author fullname="C. Brown" initials="C." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
     <date year="1993" month="July"/>
     <workgroup>iplpdn</workgroup>
-    <keyword>standard</keyword>
-    <keyword>standards</keyword>
-    <keyword>IP</keyword>
-    <keyword>over</keyword>
-    <abstract>This memo describes an encapsulation method for carrying network interconnect traffic over a Frame Relay backbone.  It covers aspects of both Bridging and Routing.  Additionally, it describes a simple fragmentation procedure for carrying large frames over a frame relay network with a smaller MTU. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes an encapsulation method for carrying network interconnect traffic over a Frame Relay backbone.  It covers aspects of both Bridging and Routing.  Additionally, it describes a simple fragmentation procedure for carrying large frames over a frame relay network with a smaller MTU. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1490"/>
+  <seriesInfo name="RFC" value="1490"/>
 </reference>

@@ -1,13 +1,16 @@
 <reference anchor="RFC7896" target="https://www.rfc-editor.org/info/rfc7896">
   <front>
     <title>Update to the Include Route Object (IRO) Specification in the Path Computation Element Communication Protocol (PCEP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7896"/>
-    <author fullname="D. Dhody"/>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>pce</workgroup>
-    <keyword>PCEP</keyword>
-    <keyword>PCE</keyword>
-    <keyword>IRO</keyword>
-    <abstract>The Path Computation Element Communication Protocol (PCEP) enables communications between a Path Computation Client (PCC) and a PCE, or between two PCEs. RFC 5440 defines the Include Route Object (IRO) to specify network elements to be traversed in the computed path. The specification does not specify if the IRO contains an ordered or unordered list of subobjects. During recent discussions, it was determined that there was a need to define a standard representation to ensure interoperability. It was also noted that there is a benefit in the handling of an attribute of the IRO's subobject, the L bit. This document updates RFC 5440 regarding the IRO specification.</abstract>
+    <abstract>
+      <t>The Path Computation Element Communication Protocol (PCEP) enables communications between a Path Computation Client (PCC) and a PCE, or between two PCEs. RFC 5440 defines the Include Route Object (IRO) to specify network elements to be traversed in the computed path. The specification does not specify if the IRO contains an ordered or unordered list of subobjects. During recent discussions, it was determined that there was a need to define a standard representation to ensure interoperability. It was also noted that there is a benefit in the handling of an attribute of the IRO's subobject, the L bit.</t>
+      <t>This document updates RFC 5440 regarding the IRO specification.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7896"/>
+  <seriesInfo name="RFC" value="7896"/>
 </reference>

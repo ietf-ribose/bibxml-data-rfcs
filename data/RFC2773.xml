@@ -1,14 +1,21 @@
 <reference anchor="RFC2773" target="https://www.rfc-editor.org/info/rfc2773">
   <front>
     <title>Encryption using KEA and SKIPJACK</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2773"/>
-    <author fullname="R. Housley"/>
-    <author fullname="P. Yee"/>
-    <author fullname="W. Nace"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="P. Yee" initials="P." surname="Yee">
+      <organization/>
+    </author>
+    <author fullname="W. Nace" initials="W." surname="Nace">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>cat</workgroup>
-    <keyword>key exchange algorithm</keyword>
-    <keyword>symmetric</keyword>
-    <abstract>This document defines a method to encrypt a file transfer using the FTP specification STD 9, RFC 959, "File Transfer Protocol (FTP)", (October</abstract>
+    <abstract>
+      <t>This document defines a method to encrypt a file transfer using the FTP specification STD 9, RFC 959, "File Transfer Protocol (FTP)", (October</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2773"/>
+  <seriesInfo name="RFC" value="2773"/>
 </reference>

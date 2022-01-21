@@ -1,14 +1,18 @@
 <reference anchor="RFC8599" target="https://www.rfc-editor.org/info/rfc8599">
   <front>
     <title>Push Notification with the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8599"/>
-    <author fullname="C. Holmberg"/>
-    <author fullname="M. Arnold"/>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="M. Arnold" initials="M." surname="Arnold">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>Push</keyword>
-    <keyword>Notification</keyword>
-    <abstract>This document describes how a Push Notification Service (PNS) can be used to wake a suspended Session Initiation Protocol (SIP) User Agent (UA) with push notifications, and it also describes how the UA can send binding-refresh REGISTER requests and receive incoming SIP requests in an environment in which the UA may be suspended.  The document defines new SIP URI parameters to exchange PNS information between the UA and the SIP entity that will then request that push notifications be sent to the UA.  It also defines the parameters to trigger such push notification requests.  The document also defines new feature-capability indicators that can be used to indicate support of this mechanism.</abstract>
+    <abstract>
+      <t>This document describes how a Push Notification Service (PNS) can be used to wake a suspended Session Initiation Protocol (SIP) User Agent (UA) with push notifications, and it also describes how the UA can send binding-refresh REGISTER requests and receive incoming SIP requests in an environment in which the UA may be suspended.  The document defines new SIP URI parameters to exchange PNS information between the UA and the SIP entity that will then request that push notifications be sent to the UA.  It also defines the parameters to trigger such push notification requests.  The document also defines new feature-capability indicators that can be used to indicate support of this mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8599"/>
+  <seriesInfo name="RFC" value="8599"/>
 </reference>

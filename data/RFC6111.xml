@@ -1,12 +1,15 @@
 <reference anchor="RFC6111" target="https://www.rfc-editor.org/info/rfc6111">
   <front>
     <title>Additional Kerberos Naming Constraints</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6111"/>
-    <author fullname="L. Zhu"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>krb-wg</workgroup>
-    <keyword>principal names</keyword>
-    <keyword>realm names</keyword>
-    <abstract>This document defines new naming constraints for well-known Kerberos principal names and well-known Kerberos realm names. [STANDARDS- TRACK]</abstract>
+    <abstract>
+      <t>This document defines new naming constraints for well-known Kerberos principal names and well-known Kerberos realm names. [STANDARDS- TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6111"/>
+  <seriesInfo name="RFC" value="6111"/>
 </reference>

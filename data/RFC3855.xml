@@ -1,13 +1,18 @@
 <reference anchor="RFC3855" target="https://www.rfc-editor.org/info/rfc3855">
   <front>
     <title>Transporting Secure/Multipurpose Internet Mail Extensions (S/MIME) Objects in X.400</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3855"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="C. Bonatti"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="C. Bonatti" initials="C." surname="Bonatti">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>smime</workgroup>
-    <keyword>cms</keyword>
-    <keyword>cryptographic message syntax message</keyword>
-    <abstract>This document describes protocol options for conveying objects that have been protected using the Cryptographic Message Syntax (CMS) and Secure/Multipurpose Internet Mail Extensions (S/MIME) version 3.1 over an X.400 message transfer system. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes protocol options for conveying objects that have been protected using the Cryptographic Message Syntax (CMS) and Secure/Multipurpose Internet Mail Extensions (S/MIME) version 3.1 over an X.400 message transfer system. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3855"/>
+  <seriesInfo name="RFC" value="3855"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC3620" target="https://www.rfc-editor.org/info/rfc3620">
   <front>
     <title>The TUNNEL Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3620"/>
-    <author fullname="D. New"/>
+    <author fullname="D. New" initials="D." surname="New">
+      <organization/>
+    </author>
     <date year="2003" month="October"/>
     <workgroup>idwg</workgroup>
-    <keyword>beep</keyword>
-    <keyword>blocks extensible exchange protocol</keyword>
-    <keyword>firewall</keyword>
-    <keyword>application layer</keyword>
-    <abstract>This memo describes a Blocks Extensible Exchange Protocol (BEEP) profile that allows a BEEP peer to serve as an application-layer proxy.  It allows authorized users to access services through a firewall.</abstract>
+    <abstract>
+      <t>This memo describes a Blocks Extensible Exchange Protocol (BEEP) profile that allows a BEEP peer to serve as an application-layer proxy.  It allows authorized users to access services through a firewall.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3620"/>
+  <seriesInfo name="RFC" value="3620"/>
 </reference>

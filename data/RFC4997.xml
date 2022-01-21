@@ -1,12 +1,18 @@
 <reference anchor="RFC4997" target="https://www.rfc-editor.org/info/rfc4997">
   <front>
     <title>Formal Notation for RObust Header Compression (ROHC-FN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4997"/>
-    <author fullname="R. Finking"/>
-    <author fullname="G. Pelletier"/>
+    <author fullname="R. Finking" initials="R." surname="Finking">
+      <organization/>
+    </author>
+    <author fullname="G. Pelletier" initials="G." surname="Pelletier">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>rohc</workgroup>
-    <keyword>Robust Header Compression - Formal Notation</keyword>
-    <abstract>This document defines Robust Header Compression - Formal Notation (ROHC-FN), a formal notation to specify field encodings for compressed formats when defining new profiles within the ROHC framework.  ROHC-FN offers a library of encoding methods that are often used in ROHC profiles and can thereby help to simplify future profile development work. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines Robust Header Compression - Formal Notation (ROHC-FN), a formal notation to specify field encodings for compressed formats when defining new profiles within the ROHC framework.  ROHC-FN offers a library of encoding methods that are often used in ROHC profiles and can thereby help to simplify future profile development work. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4997"/>
+  <seriesInfo name="RFC" value="4997"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC3170" target="https://www.rfc-editor.org/info/rfc3170">
   <front>
     <title>IP Multicast Applications: Challenges and Solutions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3170"/>
-    <author fullname="B. Quinn"/>
-    <author fullname="K. Almeroth"/>
+    <author fullname="B. Quinn" initials="B." surname="Quinn">
+      <organization/>
+    </author>
+    <author fullname="K. Almeroth" initials="K." surname="Almeroth">
+      <organization/>
+    </author>
     <date year="2001" month="September"/>
     <workgroup>mboned</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>unicast</keyword>
-    <abstract>This document describes the challenges involved with designing and implementing multicast applications.  It is an introductory guide for application developers that highlights the unique considerations of multicast applications as compared to unicast applications.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the challenges involved with designing and implementing multicast applications.  It is an introductory guide for application developers that highlights the unique considerations of multicast applications as compared to unicast applications.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3170"/>
+  <seriesInfo name="RFC" value="3170"/>
 </reference>

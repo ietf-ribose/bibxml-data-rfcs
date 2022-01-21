@@ -1,16 +1,24 @@
 <reference anchor="RFC8542" target="https://www.rfc-editor.org/info/rfc8542">
   <front>
     <title>A YANG Data Model for Fabric Topology in Data-Center Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8542"/>
-    <author fullname="Y. Zhuang"/>
-    <author fullname="D. Shi"/>
-    <author fullname="R. Gu"/>
-    <author fullname="H. Ananthakrishnan"/>
+    <author fullname="Y. Zhuang" initials="Y." surname="Zhuang">
+      <organization/>
+    </author>
+    <author fullname="D. Shi" initials="D." surname="Shi">
+      <organization/>
+    </author>
+    <author fullname="R. Gu" initials="R." surname="Gu">
+      <organization/>
+    </author>
+    <author fullname="H. Ananthakrishnan" initials="H." surname="Ananthakrishnan">
+      <organization/>
+    </author>
     <date year="2019" month="March"/>
     <workgroup>i2rs</workgroup>
-    <keyword>YANG</keyword>
-    <keyword>Fabric Topology</keyword>
-    <keyword>Data-Center Networks</keyword>
-    <abstract>This document defines a YANG data model for fabric topology in data- center networks and represents one possible view of the data-center fabric.  This document focuses on the data model only and does not endorse any kind of network design that could be based on the abovementioned model.</abstract>
+    <abstract>
+      <t>This document defines a YANG data model for fabric topology in data- center networks and represents one possible view of the data-center fabric.  This document focuses on the data model only and does not endorse any kind of network design that could be based on the abovementioned model.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8542"/>
+  <seriesInfo name="RFC" value="8542"/>
 </reference>

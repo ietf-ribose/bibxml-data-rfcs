@@ -1,21 +1,23 @@
 <reference anchor="RFC8763" target="https://www.rfc-editor.org/info/rfc8763">
   <front>
     <title>Deployment Considerations for Information-Centric Networking (ICN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8763"/>
-    <author fullname="A. Rahman"/>
-    <author fullname="D. Trossen"/>
-    <author fullname="D. Kutscher"/>
-    <author fullname="R. Ravindran"/>
+    <author fullname="A. Rahman" initials="A." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="D. Trossen" initials="D." surname="Trossen">
+      <organization/>
+    </author>
+    <author fullname="D. Kutscher" initials="D." surname="Kutscher">
+      <organization/>
+    </author>
+    <author fullname="R. Ravindran" initials="R." surname="Ravindran">
+      <organization/>
+    </author>
     <date year="2020" month="April"/>
-    <keyword>routing</keyword>
-    <keyword>Content Delivery Network (CDN)</keyword>
-    <keyword>overlay</keyword>
-    <keyword>underlay</keyword>
-    <keyword>virtual</keyword>
-    <keyword>virtualization</keyword>
-    <keyword>naming</keyword>
-    <keyword>NFV</keyword>
-    <keyword>SDN</keyword>
-    <abstract>Information-Centric Networking (ICN) is now reaching technological maturity after many years of fundamental research and experimentation.  This document provides a number of deployment considerations in the interest of helping the ICN community move forward to the next step of live deployments.  First, the major deployment configurations for ICN are described, including the key overlay and underlay approaches.  Then, proposed deployment migration paths are outlined to address major practical issues, such as network and application migration.  Next, selected ICN trial experiences are summarized.  Finally, protocol areas that require further standardization are identified to facilitate future interoperable ICN deployments.  This document is a product of the Information-Centric Networking Research Group (ICNRG).</abstract>
+    <abstract>
+      <t>Information-Centric Networking (ICN) is now reaching technological maturity after many years of fundamental research and experimentation.  This document provides a number of deployment considerations in the interest of helping the ICN community move forward to the next step of live deployments.  First, the major deployment configurations for ICN are described, including the key overlay and underlay approaches.  Then, proposed deployment migration paths are outlined to address major practical issues, such as network and application migration.  Next, selected ICN trial experiences are summarized.  Finally, protocol areas that require further standardization are identified to facilitate future interoperable ICN deployments.  This document is a product of the Information-Centric Networking Research Group (ICNRG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8763"/>
+  <seriesInfo name="RFC" value="8763"/>
 </reference>

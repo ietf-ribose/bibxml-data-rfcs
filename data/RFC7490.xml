@@ -1,14 +1,27 @@
 <reference anchor="RFC7490" target="https://www.rfc-editor.org/info/rfc7490">
   <front>
     <title>Remote Loop-Free Alternate (LFA) Fast Reroute (FRR)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7490"/>
-    <author fullname="S. Bryant"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="M. Shand"/>
-    <author fullname="N. So"/>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="M. Shand" initials="M." surname="Shand">
+      <organization/>
+    </author>
+    <author fullname="N. So" initials="N." surname="So">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
     <workgroup>rtgwg</workgroup>
-    <abstract>This document describes an extension to the basic IP fast reroute mechanism, described in RFC 5286, that provides additional backup connectivity for point-to-point link failures when none can be provided by the basic mechanisms.</abstract>
+    <abstract>
+      <t>This document describes an extension to the basic IP fast reroute mechanism, described in RFC 5286, that provides additional backup connectivity for point-to-point link failures when none can be provided by the basic mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7490"/>
+  <seriesInfo name="RFC" value="7490"/>
 </reference>

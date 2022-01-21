@@ -1,13 +1,15 @@
 <reference anchor="RFC6162" target="https://www.rfc-editor.org/info/rfc6162">
   <front>
     <title>Elliptic Curve Algorithms for Cryptographic Message Syntax (CMS) Asymmetric Key Package Content Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6162"/>
-    <author fullname="S. Turner"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ecdsa</keyword>
-    <keyword>ecdh</keyword>
-    <keyword>EnvelopedData and Elliptic Curve Digital Signature Algorithm</keyword>
-    <abstract>This document describes conventions for using Elliptic Curve cryptographic algorithms with SignedData and EnvelopedData to protect the AsymmetricKeyPackage content type.  Specifically, it includes conventions necessary to implement Elliptic Curve Diffie-Hellman (ECDH) with EnvelopedData and Elliptic Curve Digital Signature Algorithm (ECDSA) with SignedData.  This document extends RFC 5959. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes conventions for using Elliptic Curve cryptographic algorithms with SignedData and EnvelopedData to protect the AsymmetricKeyPackage content type.  Specifically, it includes conventions necessary to implement Elliptic Curve Diffie-Hellman (ECDH) with EnvelopedData and Elliptic Curve Digital Signature Algorithm (ECDSA) with SignedData.  This document extends RFC 5959. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6162"/>
+  <seriesInfo name="RFC" value="6162"/>
 </reference>

@@ -1,18 +1,25 @@
 <reference anchor="RFC2289" target="https://www.rfc-editor.org/info/rfc2289">
   <front>
     <title>A One-Time Password System</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2289"/>
-    <author fullname="N. Haller"/>
-    <author fullname="C. Metz"/>
-    <author fullname="P. Nesser"/>
-    <author fullname="M. Straw"/>
+    <author fullname="N. Haller" initials="N." surname="Haller">
+      <organization/>
+    </author>
+    <author fullname="C. Metz" initials="C." surname="Metz">
+      <organization/>
+    </author>
+    <author fullname="P. Nesser" initials="P." surname="Nesser">
+      <organization/>
+    </author>
+    <author fullname="M. Straw" initials="M." surname="Straw">
+      <organization/>
+    </author>
     <date year="1998" month="February"/>
     <workgroup>otp</workgroup>
-    <keyword>ONE-PASS</keyword>
-    <keyword>authentication</keyword>
-    <keyword>OTP</keyword>
-    <keyword>replay</keyword>
-    <keyword>attach</keyword>
-    <abstract>This document describes a one-time password authentication system (OTP).  The system provides authentication for system access (login) and other applications requiring authentication that is secure against passive attacks based on replaying captured reusable passwords. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a one-time password authentication system (OTP).  The system provides authentication for system access (login) and other applications requiring authentication that is secure against passive attacks based on replaying captured reusable passwords. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2289"/>
+  <seriesInfo name="STD" value="61"/>
+  <seriesInfo name="RFC" value="2289"/>
 </reference>

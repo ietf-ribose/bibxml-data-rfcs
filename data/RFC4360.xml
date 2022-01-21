@@ -1,12 +1,21 @@
 <reference anchor="RFC4360" target="https://www.rfc-editor.org/info/rfc4360">
   <front>
     <title>BGP Extended Communities Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4360"/>
-    <author fullname="S. Sangli"/>
-    <author fullname="D. Tappan"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="S. Sangli" initials="S." surname="Sangli">
+      <organization/>
+    </author>
+    <author fullname="D. Tappan" initials="D." surname="Tappan">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>idr</workgroup>
-    <abstract>This document describes the "extended community" BGP-4 attribute.  This attribute provides a mechanism for labeling information carried in BGP-4.  These labels can be used to control the distribution of this information, or for other applications. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the "extended community" BGP-4 attribute.  This attribute provides a mechanism for labeling information carried in BGP-4.  These labels can be used to control the distribution of this information, or for other applications. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4360"/>
+  <seriesInfo name="RFC" value="4360"/>
 </reference>

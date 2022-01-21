@@ -1,15 +1,18 @@
 <reference anchor="RFC1784" target="https://www.rfc-editor.org/info/rfc1784">
   <front>
     <title>TFTP Timeout Interval and Transfer Size Options</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1784"/>
-    <author fullname="G. Malkin"/>
-    <author fullname="A. Harkin"/>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
+    <author fullname="A. Harkin" initials="A." surname="Harkin">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>tftpexts</workgroup>
-    <keyword>trivial</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <keyword>booting</keyword>
-    <abstract>This document describes two TFTP options.  The first allows the client and server to negotiate the Timeout Interval.  The second allows the side receiving the file to determine the ultimate size of the transfer before it begins. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes two TFTP options.  The first allows the client and server to negotiate the Timeout Interval.  The second allows the side receiving the file to determine the ultimate size of the transfer before it begins. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1784"/>
+  <seriesInfo name="RFC" value="1784"/>
 </reference>

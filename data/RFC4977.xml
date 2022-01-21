@@ -1,15 +1,18 @@
 <reference anchor="RFC4977" target="https://www.rfc-editor.org/info/rfc4977">
   <front>
     <title>Problem Statement: Dual Stack Mobility</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4977"/>
-    <author fullname="G. Tsirtsis"/>
-    <author fullname="H. Soliman"/>
+    <author fullname="G. Tsirtsis" initials="G." surname="Tsirtsis">
+      <organization/>
+    </author>
+    <author fullname="H. Soliman" initials="H." surname="Soliman">
+      <organization/>
+    </author>
     <date year="2007" month="August"/>
     <workgroup>mip6</workgroup>
-    <keyword>mobility management protocol</keyword>
-    <keyword>mipv4</keyword>
-    <keyword>mipv6</keyword>
-    <keyword>mobile ip</keyword>
-    <abstract>This document discusses the issues associated with mobility management for dual stack mobile nodes.  Currently, two mobility management protocols are defined for IPv4 and IPv6.  Deploying both in a dual stack mobile node introduces a number of problems.  Deployment and operational issues motivate the use of a single mobility management protocol.  This document discusses such motivations.  The document also discusses requirements for the Mobile IPv4 (MIPv4) and Mobile IPv6 (MIPv6) protocol so that they can support mobility management for a dual stack node.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses the issues associated with mobility management for dual stack mobile nodes.  Currently, two mobility management protocols are defined for IPv4 and IPv6.  Deploying both in a dual stack mobile node introduces a number of problems.  Deployment and operational issues motivate the use of a single mobility management protocol.  This document discusses such motivations.  The document also discusses requirements for the Mobile IPv4 (MIPv4) and Mobile IPv6 (MIPv6) protocol so that they can support mobility management for a dual stack node.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4977"/>
+  <seriesInfo name="RFC" value="4977"/>
 </reference>

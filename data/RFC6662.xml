@@ -1,18 +1,27 @@
 <reference anchor="RFC6662" target="https://www.rfc-editor.org/info/rfc6662">
   <front>
     <title>Pre-Congestion Notification (PCN) Boundary-Node Behavior for the Single Marking (SM) Mode of Operation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6662"/>
-    <author fullname="A. Charny"/>
-    <author fullname="J. Zhang"/>
-    <author fullname="G. Karagiannis"/>
-    <author fullname="M. Menth"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="A. Charny" initials="A." surname="Charny">
+      <organization/>
+    </author>
+    <author fullname="J. Zhang" initials="J." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="G. Karagiannis" initials="G." surname="Karagiannis">
+      <organization/>
+    </author>
+    <author fullname="M. Menth" initials="M." surname="Menth">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2012" month="July"/>
     <workgroup>pcn</workgroup>
-    <keyword>PCN</keyword>
-    <keyword>single marking</keyword>
-    <keyword>SM</keyword>
-    <keyword>edge node behavior</keyword>
-    <abstract>Pre-Congestion Notification (PCN) is a means for protecting the quality of service for inelastic traffic admitted to a Diffserv domain.  The overall PCN architecture is described in RFC 5559.  This memo is one of a series describing possible boundary-node behaviors for a PCN-domain.  The behavior described here is that for a form of measurement-based load control using two PCN marking states: not- marked and excess-traffic-marked.  This behavior is known informally as the Single Marking (SM) PCN-boundary-node behavior.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Pre-Congestion Notification (PCN) is a means for protecting the quality of service for inelastic traffic admitted to a Diffserv domain.  The overall PCN architecture is described in RFC 5559.  This memo is one of a series describing possible boundary-node behaviors for a PCN-domain.  The behavior described here is that for a form of measurement-based load control using two PCN marking states: not- marked and excess-traffic-marked.  This behavior is known informally as the Single Marking (SM) PCN-boundary-node behavior.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6662"/>
+  <seriesInfo name="RFC" value="6662"/>
 </reference>

@@ -1,20 +1,18 @@
 <reference anchor="RFC2409" target="https://www.rfc-editor.org/info/rfc2409">
   <front>
     <title>The Internet Key Exchange (IKE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2409"/>
-    <author fullname="D. Harkins"/>
-    <author fullname="D. Carrel"/>
+    <author fullname="D. Harkins" initials="D." surname="Harkins">
+      <organization/>
+    </author>
+    <author fullname="D. Carrel" initials="D." surname="Carrel">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>IKE</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>oakley</keyword>
-    <keyword>authentication</keyword>
-    <keyword>isakmp</keyword>
-    <keyword>internet</keyword>
-    <keyword>security</keyword>
-    <keyword>key</keyword>
-    <keyword>management</keyword>
-    <abstract>This memo describes a hybrid protocol.  The purpose is to negotiate, and provide authenticated keying material for, security associations in a protected manner. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a hybrid protocol.  The purpose is to negotiate, and provide authenticated keying material for, security associations in a protected manner. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2409"/>
+  <seriesInfo name="RFC" value="2409"/>
 </reference>

@@ -1,19 +1,18 @@
 <reference anchor="RFC2577" target="https://www.rfc-editor.org/info/rfc2577">
   <front>
     <title>FTP Security Considerations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2577"/>
-    <author fullname="M. Allman"/>
-    <author fullname="S. Ostermann"/>
+    <author fullname="M. Allman" initials="M." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="S. Ostermann" initials="S." surname="Ostermann">
+      <organization/>
+    </author>
     <date year="1999" month="May"/>
     <workgroup>ftpext</workgroup>
-    <keyword>FTP-SEC</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>bounce</keyword>
-    <keyword>attack</keyword>
-    <keyword>password</keyword>
-    <keyword>server</keyword>
-    <abstract>This document provides suggestions for system administrators and those implementing FTP servers that will decrease the security problems associated with FTP.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides suggestions for system administrators and those implementing FTP servers that will decrease the security problems associated with FTP.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2577"/>
+  <seriesInfo name="RFC" value="2577"/>
 </reference>

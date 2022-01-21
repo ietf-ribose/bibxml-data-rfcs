@@ -1,14 +1,27 @@
 <reference anchor="RFC7268" target="https://www.rfc-editor.org/info/rfc7268">
   <front>
     <title>RADIUS Attributes for IEEE 802 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7268"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="J. Malinen"/>
-    <author fullname="P. Congdon"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="M. Jones"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="J. Malinen" initials="J." surname="Malinen">
+      <organization/>
+    </author>
+    <author fullname="P. Congdon" initials="P." surname="Congdon">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>radext</workgroup>
-    <abstract>RFC 3580 provides guidelines for the use of the Remote Authentication Dial-In User Service (RADIUS) within IEEE 802 local area networks (LANs).  This document defines additional attributes for use within IEEE 802 networks and clarifies the usage of the EAP-Key-Name Attribute and the Called-Station-Id Attribute.  This document updates RFCs 3580 and 4072.</abstract>
+    <abstract>
+      <t>RFC 3580 provides guidelines for the use of the Remote Authentication Dial-In User Service (RADIUS) within IEEE 802 local area networks (LANs).  This document defines additional attributes for use within IEEE 802 networks and clarifies the usage of the EAP-Key-Name Attribute and the Called-Station-Id Attribute.  This document updates RFCs 3580 and 4072.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7268"/>
+  <seriesInfo name="RFC" value="7268"/>
 </reference>

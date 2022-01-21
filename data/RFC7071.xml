@@ -1,18 +1,18 @@
 <reference anchor="RFC7071" target="https://www.rfc-editor.org/info/rfc7071">
   <front>
     <title>A Media Type for Reputation Interchange</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7071"/>
-    <author fullname="N. Borenstein"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="N. Borenstein" initials="N." surname="Borenstein">
+      <organization/>
+    </author>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2013" month="November"/>
     <workgroup>repute</workgroup>
-    <keyword>reputation</keyword>
-    <keyword>domain</keyword>
-    <keyword>security</keyword>
-    <keyword>messaging</keyword>
-    <keyword>dkim</keyword>
-    <keyword>spf</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document defines the format of reputation response data ("reputons"), the media type for packaging it, and definition of a registry for the names of reputation applications and response sets.</abstract>
+    <abstract>
+      <t>This document defines the format of reputation response data ("reputons"), the media type for packaging it, and definition of a registry for the names of reputation applications and response sets.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7071"/>
+  <seriesInfo name="RFC" value="7071"/>
 </reference>

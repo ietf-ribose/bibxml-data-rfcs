@@ -1,13 +1,21 @@
 <reference anchor="RFC4458" target="https://www.rfc-editor.org/info/rfc4458">
   <front>
     <title>Session Initiation Protocol (SIP) URIs for Applications such as Voicemail and Interactive Voice Response (IVR)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4458"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="F. Audet"/>
-    <author fullname="J. Elwell"/>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="F. Audet" initials="F." surname="Audet">
+      <organization/>
+    </author>
+    <author fullname="J. Elwell" initials="J." surname="Elwell">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>universal resource identifiers</keyword>
-    <abstract>The Session Initiation Protocol (SIP) is often used to initiate connections to applications such as voicemail or interactive voice recognition systems.  This specification describes a convention for forming SIP service URIs that request particular services based on redirecting targets from such applications.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Session Initiation Protocol (SIP) is often used to initiate connections to applications such as voicemail or interactive voice recognition systems.  This specification describes a convention for forming SIP service URIs that request particular services based on redirecting targets from such applications.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4458"/>
+  <seriesInfo name="RFC" value="4458"/>
 </reference>

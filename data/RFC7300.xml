@@ -1,13 +1,19 @@
 <reference anchor="RFC7300" target="https://www.rfc-editor.org/info/rfc7300">
   <front>
     <title>Reservation of Last Autonomous System (AS) Numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7300"/>
-    <author fullname="J. Haas"/>
-    <author fullname="J. Mitchell"/>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
+    <author fullname="J. Mitchell" initials="J." surname="Mitchell">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>idr</workgroup>
-    <keyword>asn</keyword>
-    <keyword>last asns</keyword>
-    <abstract>This document reserves two Autonomous System Numbers (ASNs) at the end of the 16-bit and 32-bit ranges, described in this document as "Last ASNs", and provides guidance to implementers and operators on their use.  This document updates Section 10 of RFC 1930.</abstract>
+    <abstract>
+      <t>This document reserves two Autonomous System Numbers (ASNs) at the end of the 16-bit and 32-bit ranges, described in this document as "Last ASNs", and provides guidance to implementers and operators on their use.  This document updates Section 10 of RFC 1930.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7300"/>
+  <seriesInfo name="BCP" value="6"/>
+  <seriesInfo name="RFC" value="7300"/>
 </reference>

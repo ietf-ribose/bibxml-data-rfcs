@@ -1,11 +1,17 @@
 <reference anchor="RFC1236" target="https://www.rfc-editor.org/info/rfc1236">
   <front>
     <title>IP to X.121 address mapping for DDN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1236"/>
-    <author fullname="L. Morales"/>
-    <author fullname="P. Hasse"/>
+    <author fullname="L. Morales" initials="L." surname="Morales">
+      <organization/>
+    </author>
+    <author fullname="P. Hasse" initials="P." surname="Hasse">
+      <organization/>
+    </author>
     <date year="1991" month="June"/>
-    <keyword>IP-X.121</keyword>
-    <abstract>This memo defines a standard way of converting IP addresses to CCITT X.121 addresses and is the recommended standard for use on the Internet, specifically for the Defense Data Network (DDN).  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo defines a standard way of converting IP addresses to CCITT X.121 addresses and is the recommended standard for use on the Internet, specifically for the Defense Data Network (DDN).  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1236"/>
+  <seriesInfo name="RFC" value="1236"/>
 </reference>

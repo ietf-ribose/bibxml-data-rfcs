@@ -1,14 +1,22 @@
 <reference anchor="RFC5624" target="https://www.rfc-editor.org/info/rfc5624">
   <front>
     <title>Quality of Service Parameters for Usage with Diameter</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5624"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="E. Davies"/>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="E. Davies" initials="E." surname="Davies">
+      <organization/>
+    </author>
     <date year="2009" month="August"/>
     <workgroup>dime</workgroup>
-    <keyword>Diameter</keyword>
-    <keyword>QoS Parameters</keyword>
-    <abstract>This document defines a number of Quality of Service (QoS) parameters that can be reused for conveying QoS information within Diameter. The defined QoS information includes data traffic parameters for describing a token bucket filter, a bandwidth parameter, and a per-hop behavior class object. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a number of Quality of Service (QoS) parameters that can be reused for conveying QoS information within Diameter.</t>
+      <t>The defined QoS information includes data traffic parameters for describing a token bucket filter, a bandwidth parameter, and a per-hop behavior class object. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5624"/>
+  <seriesInfo name="RFC" value="5624"/>
 </reference>

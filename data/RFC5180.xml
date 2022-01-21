@@ -1,16 +1,24 @@
 <reference anchor="RFC5180" target="https://www.rfc-editor.org/info/rfc5180">
   <front>
     <title>IPv6 Benchmarking Methodology for Network Interconnect Devices</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5180"/>
-    <author fullname="C. Popoviciu"/>
-    <author fullname="A. Hamza"/>
-    <author fullname="G. Van de Velde"/>
-    <author fullname="D. Dugatkin"/>
+    <author fullname="C. Popoviciu" initials="C." surname="Popoviciu">
+      <organization/>
+    </author>
+    <author fullname="A. Hamza" initials="A." surname="Hamza">
+      <organization/>
+    </author>
+    <author fullname="G. Van de Velde" initials="G." surname="Van">
+      <organization/>
+    </author>
+    <author fullname="D. Dugatkin" initials="D." surname="Dugatkin">
+      <organization/>
+    </author>
     <date year="2008" month="May"/>
     <workgroup>bmwg</workgroup>
-    <keyword>rfc2544</keyword>
-    <keyword>ipv6</keyword>
-    <keyword>benchmarking guidelines</keyword>
-    <abstract>The benchmarking methodologies defined in RFC 2544 are IP version independent.  However, RFC 2544 does not address some of the specificities of IPv6.  This document provides additional benchmarking guidelines, which in conjunction with RFC 2544, lead to a more complete and realistic evaluation of the IPv6 performance of network interconnect devices.  IPv6 transition mechanisms are outside the scope of this document.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The benchmarking methodologies defined in RFC 2544 are IP version independent.  However, RFC 2544 does not address some of the specificities of IPv6.  This document provides additional benchmarking guidelines, which in conjunction with RFC 2544, lead to a more complete and realistic evaluation of the IPv6 performance of network interconnect devices.  IPv6 transition mechanisms are outside the scope of this document.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5180"/>
+  <seriesInfo name="RFC" value="5180"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC4378" target="https://www.rfc-editor.org/info/rfc4378">
   <front>
     <title>A Framework for Multi-Protocol Label Switching (MPLS) Operations and Management (OAM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4378"/>
-    <author fullname="D. Allan"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="D. Allan" initials="D." surname="Allan">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>mpls</workgroup>
-    <keyword>data plane</keyword>
-    <keyword>fcaps</keyword>
-    <abstract>This document is a framework for how data plane protocols can be applied to operations and maintenance procedures for Multi-Protocol Label Switching (MPLS).  The document is structured to outline how Operations and Management (OAM) functionality can be used to assist in fault, configuration, accounting, performance, and security management, commonly known by the acronym FCAPS.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is a framework for how data plane protocols can be applied to operations and maintenance procedures for Multi-Protocol Label Switching (MPLS).  The document is structured to outline how Operations and Management (OAM) functionality can be used to assist in fault, configuration, accounting, performance, and security management, commonly known by the acronym FCAPS.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4378"/>
+  <seriesInfo name="RFC" value="4378"/>
 </reference>

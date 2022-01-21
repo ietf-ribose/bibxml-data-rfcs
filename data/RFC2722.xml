@@ -1,15 +1,21 @@
 <reference anchor="RFC2722" target="https://www.rfc-editor.org/info/rfc2722">
   <front>
     <title>Traffic Flow Measurement: Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2722"/>
-    <author fullname="N. Brownlee"/>
-    <author fullname="C. Mills"/>
-    <author fullname="G. Ruth"/>
+    <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+      <organization/>
+    </author>
+    <author fullname="C. Mills" initials="C." surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="G. Ruth" initials="G." surname="Ruth">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>rtfm</workgroup>
-    <keyword>network</keyword>
-    <keyword>meters</keyword>
-    <keyword>data</keyword>
-    <abstract>This document provides a general framework for describing network traffic flows, presents an architecture for traffic flow measurement and reporting, discusses how this relates to an overall network traffic flow architecture and indicates how it can be used within the Internet.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides a general framework for describing network traffic flows, presents an architecture for traffic flow measurement and reporting, discusses how this relates to an overall network traffic flow architecture and indicates how it can be used within the Internet.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2722"/>
+  <seriesInfo name="RFC" value="2722"/>
 </reference>

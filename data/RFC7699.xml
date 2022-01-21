@@ -1,15 +1,25 @@
 <reference anchor="RFC7699" target="https://www.rfc-editor.org/info/rfc7699">
   <front>
     <title>Generalized Labels for the Flexi-Grid in Lambda Switch Capable (LSC) Label Switching Routers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7699"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="D. King"/>
-    <author fullname="Y. Li"/>
-    <author fullname="F. Zhang"/>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
+    <author fullname="Y. Li" initials="Y." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2015" month="November"/>
     <workgroup>ccamp</workgroup>
-    <keyword>GMPLS</keyword>
-    <keyword>RSVP-TE</keyword>
-    <abstract>GMPLS supports the description of optical switching by identifying entries in fixed lists of switchable wavelengths (called grids) through the encoding of lambda labels. Work within the ITU-T Study Group 15 has defined a finer-granularity grid, and the facility to flexibly select different widths of spectrum from the grid. This document defines a new GMPLS lambda label format to support this flexi-grid. This document updates RFCs 3471 and 6205 by introducing a new label format.</abstract>
+    <abstract>
+      <t>GMPLS supports the description of optical switching by identifying entries in fixed lists of switchable wavelengths (called grids) through the encoding of lambda labels. Work within the ITU-T Study Group 15 has defined a finer-granularity grid, and the facility to flexibly select different widths of spectrum from the grid. This document defines a new GMPLS lambda label format to support this flexi-grid.</t>
+      <t>This document updates RFCs 3471 and 6205 by introducing a new label format.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7699"/>
+  <seriesInfo name="RFC" value="7699"/>
 </reference>

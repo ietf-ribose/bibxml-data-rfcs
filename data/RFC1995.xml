@@ -1,15 +1,15 @@
 <reference anchor="RFC1995" target="https://www.rfc-editor.org/info/rfc1995">
   <front>
     <title>Incremental Zone Transfer in DNS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1995"/>
-    <author fullname="M. Ohta"/>
+    <author fullname="M. Ohta" initials="M." surname="Ohta">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>dnsind</workgroup>
-    <keyword>DNS-IZT</keyword>
-    <keyword>Domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>IXFR</keyword>
-    <abstract>This document proposes extensions to the DNS protocols to provide an incremental zone transfer (IXFR) mechanism. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes extensions to the DNS protocols to provide an incremental zone transfer (IXFR) mechanism. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1995"/>
+  <seriesInfo name="RFC" value="1995"/>
 </reference>

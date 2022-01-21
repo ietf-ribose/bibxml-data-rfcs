@@ -1,15 +1,15 @@
 <reference anchor="RFC3008" target="https://www.rfc-editor.org/info/rfc3008">
   <front>
     <title>Domain Name System Security (DNSSEC) Signing Authority</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3008"/>
-    <author fullname="B. Wellington"/>
+    <author fullname="B. Wellington" initials="B." surname="Wellington">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>authentication</keyword>
-    <keyword>validation</keyword>
-    <keyword>SIG</keyword>
-    <keyword>signature</keyword>
-    <abstract>This document proposes a revised model of Domain Name System Security (DNSSEC) Signing Authority.  The revised model is designed to clarify earlier documents and add additional restrictions to simplify the secure resolution process.  Specifically, this affects the authorization of keys to sign sets of records. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes a revised model of Domain Name System Security (DNSSEC) Signing Authority.  The revised model is designed to clarify earlier documents and add additional restrictions to simplify the secure resolution process.  Specifically, this affects the authorization of keys to sign sets of records. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3008"/>
+  <seriesInfo name="RFC" value="3008"/>
 </reference>

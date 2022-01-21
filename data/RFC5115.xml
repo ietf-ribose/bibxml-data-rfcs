@@ -1,13 +1,18 @@
 <reference anchor="RFC5115" target="https://www.rfc-editor.org/info/rfc5115">
   <front>
     <title>Telephony Routing over IP (TRIP) Attribute for Resource Priority</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5115"/>
-    <author fullname="K. Carlberg"/>
-    <author fullname="P. O'Hanlon"/>
+    <author fullname="K. Carlberg" initials="K." surname="Carlberg">
+      <organization/>
+    </author>
+    <author fullname="P. O'Hanlon" initials="P." surname="O'Hanlon">
+      <organization/>
+    </author>
     <date year="2008" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ip telephony</keyword>
-    <keyword>ResourcePriority</keyword>
-    <abstract>This document defines a new attribute for the Telephony Routing over IP (TRIP) protocol.  The attribute associates protocols/services in the PSTN offering authorized prioritization during call setup that are reachable through a TRIP gateway.  Current examples of preferential service in the Public Switched Telephone Network (PSTN) are Government Emergency Telecommunications Service (GETS) in the U.S.  and Government Telephone Preference Scheme (GTPS) in the U.K.  The proposed attribute for TRIP is based on the NameSpace.Value tuple defined for the SIP Resource-Priority field. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new attribute for the Telephony Routing over IP (TRIP) protocol.  The attribute associates protocols/services in the PSTN offering authorized prioritization during call setup that are reachable through a TRIP gateway.  Current examples of preferential service in the Public Switched Telephone Network (PSTN) are Government Emergency Telecommunications Service (GETS) in the U.S.  and Government Telephone Preference Scheme (GTPS) in the U.K.  The proposed attribute for TRIP is based on the NameSpace.Value tuple defined for the SIP Resource-Priority field. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5115"/>
+  <seriesInfo name="RFC" value="5115"/>
 </reference>

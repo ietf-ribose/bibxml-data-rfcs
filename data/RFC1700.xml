@@ -1,16 +1,17 @@
 <reference anchor="RFC1700" target="https://www.rfc-editor.org/info/rfc1700">
   <front>
     <title>Assigned Numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1700"/>
-    <author fullname="J. Reynolds"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1994" month="October"/>
-    <keyword>status</keyword>
-    <keyword>procedure</keyword>
-    <keyword>index</keyword>
-    <keyword>parameters</keyword>
-    <keyword>registered</keyword>
-    <keyword>allocated</keyword>
-    <abstract>This RFC is a snapshot of the ongoing process of the assignment of protocol parameters for the Internet protocol suite.  To make the current information readily available the assignments are kept up-to- date in a set of online text files.  This memo is a status report on the parameters (i.e., numbers and keywords) used in protocols in the Internet community.</abstract>
+    <abstract>
+      <t>This RFC is a snapshot of the ongoing process of the assignment of protocol parameters for the Internet protocol suite.  To make the current information readily available the assignments are kept up-to- date in a set of online text files.  This memo is a status report on the parameters (i.e., numbers and keywords) used in protocols in the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1700"/>
+  <seriesInfo name="RFC" value="1700"/>
 </reference>

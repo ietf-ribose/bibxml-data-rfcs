@@ -1,14 +1,17 @@
 <reference anchor="RFC1130" target="https://www.rfc-editor.org/info/rfc1130">
   <front>
     <title>IAB official protocol standards</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1130"/>
-    <author fullname="Defense Advanced Research Projects Agency"/>
-    <author fullname="Internet Activities Board"/>
+    <author fullname="Defense Advanced Research Projects Agency" initials="Defense" surname="Advanced">
+      <organization/>
+    </author>
+    <author fullname="Internet Activities Board" initials="Internet" surname="Activities">
+      <organization/>
+    </author>
     <date year="1989" month="October"/>
-    <keyword>IAB</keyword>
-    <keyword>official</keyword>
-    <keyword>protocol</keyword>
-    <keyword>standards</keyword>
-    <abstract>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Activities Board (IAB).</abstract>
+    <abstract>
+      <t>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Activities Board (IAB).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1130"/>
+  <seriesInfo name="RFC" value="1130"/>
 </reference>

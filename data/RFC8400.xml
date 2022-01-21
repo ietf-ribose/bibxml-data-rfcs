@@ -1,16 +1,27 @@
 <reference anchor="RFC8400" target="https://www.rfc-editor.org/info/rfc8400">
   <front>
     <title>Extensions to RSVP-TE for Label Switched Path (LSP) Egress Protection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8400"/>
-    <author fullname="H. Chen"/>
-    <author fullname="A. Liu"/>
-    <author fullname="T. Saad"/>
-    <author fullname="F. Xu"/>
-    <author fullname="L. Huang"/>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="A. Liu" initials="A." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="T. Saad" initials="T." surname="Saad">
+      <organization/>
+    </author>
+    <author fullname="F. Xu" initials="F." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="L. Huang" initials="L." surname="Huang">
+      <organization/>
+    </author>
     <date year="2018" month="June"/>
     <workgroup>teas</workgroup>
-    <keyword>FRR</keyword>
-    <keyword>Fast Reroute</keyword>
-    <abstract>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for locally protecting the egress node(s) of a Point-to-Point (P2P) or Point-to-Multipoint (P2MP) Traffic Engineered (TE) Label Switched Path (LSP).</abstract>
+    <abstract>
+      <t>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for locally protecting the egress node(s) of a Point-to-Point (P2P) or Point-to-Multipoint (P2MP) Traffic Engineered (TE) Label Switched Path (LSP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8400"/>
+  <seriesInfo name="RFC" value="8400"/>
 </reference>

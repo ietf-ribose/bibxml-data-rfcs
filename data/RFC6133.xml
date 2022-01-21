@@ -1,12 +1,21 @@
 <reference anchor="RFC6133" target="https://www.rfc-editor.org/info/rfc6133">
   <front>
     <title>Sieve Email Filtering: Use of Presence Information with Auto-Responder Functionality</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6133"/>
-    <author fullname="R. George"/>
-    <author fullname="B. Leiba"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="R. George" initials="R." surname="George">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>sieve</workgroup>
-    <abstract>This document describes how the Sieve email filtering language, along with some extensions, can be used to create automatic replies to incoming electronic mail messages based on the address book and presence information of the recipient.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes how the Sieve email filtering language, along with some extensions, can be used to create automatic replies to incoming electronic mail messages based on the address book and presence information of the recipient.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6133"/>
+  <seriesInfo name="RFC" value="6133"/>
 </reference>

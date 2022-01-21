@@ -1,12 +1,20 @@
 <reference anchor="RFC6159" target="https://www.rfc-editor.org/info/rfc6159">
   <front>
     <title>Session-Specific Explicit Diameter Request Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6159"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
-    <keyword>Diameter routing</keyword>
-    <abstract>This document describes a mechanism to enable specific Diameter proxies to remain in the path of all message exchanges constituting a Diameter session.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes a mechanism to enable specific Diameter proxies to remain in the path of all message exchanges constituting a Diameter session.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6159"/>
+  <seriesInfo name="RFC" value="6159"/>
 </reference>

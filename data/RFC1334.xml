@@ -1,15 +1,18 @@
 <reference anchor="RFC1334" target="https://www.rfc-editor.org/info/rfc1334">
   <front>
     <title>PPP Authentication Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1334"/>
-    <author fullname="B. Lloyd"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="B. Lloyd" initials="B." surname="Lloyd">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1992" month="October"/>
     <workgroup>pppext</workgroup>
-    <keyword>point</keyword>
-    <keyword>serial</keyword>
-    <keyword>line</keyword>
-    <keyword>dial-up</keyword>
-    <abstract>This document defines two protocols for Authentication: the Password Authentication Protocol and the Challenge-Handshake Authentication Protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines two protocols for Authentication: the Password Authentication Protocol and the Challenge-Handshake Authentication Protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1334"/>
+  <seriesInfo name="RFC" value="1334"/>
 </reference>

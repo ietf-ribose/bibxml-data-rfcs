@@ -1,14 +1,27 @@
 <reference anchor="RFC6079" target="https://www.rfc-editor.org/info/rfc6079">
   <front>
     <title>HIP BONE: Host Identity Protocol (HIP) Based Overlay Networking Environment (BONE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6079"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="P. Nikander"/>
-    <author fullname="J. Hautakorpi"/>
-    <author fullname="A. Keranen"/>
-    <author fullname="A. Johnston"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="P. Nikander" initials="P." surname="Nikander">
+      <organization/>
+    </author>
+    <author fullname="J. Hautakorpi" initials="J." surname="Hautakorpi">
+      <organization/>
+    </author>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
+    <author fullname="A. Johnston" initials="A." surname="Johnston">
+      <organization/>
+    </author>
     <date year="2011" month="January"/>
     <workgroup>hip</workgroup>
-    <abstract>This document specifies a framework to build HIP-based (Host Identity Protocol) overlay networks.  This framework uses HIP to perform connection management.  Other functions, such as data storage and retrieval or overlay maintenance, are implemented using protocols other than HIP.  These protocols are loosely referred to as "peer protocols".  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies a framework to build HIP-based (Host Identity Protocol) overlay networks.  This framework uses HIP to perform connection management.  Other functions, such as data storage and retrieval or overlay maintenance, are implemented using protocols other than HIP.  These protocols are loosely referred to as "peer protocols".  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6079"/>
+  <seriesInfo name="RFC" value="6079"/>
 </reference>

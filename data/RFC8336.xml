@@ -1,13 +1,18 @@
 <reference anchor="RFC8336" target="https://www.rfc-editor.org/info/rfc8336">
   <front>
     <title>The ORIGIN HTTP/2 Frame</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8336"/>
-    <author fullname="M. Nottingham"/>
-    <author fullname="E. Nygren"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
+    <author fullname="E. Nygren" initials="E." surname="Nygren">
+      <organization/>
+    </author>
     <date year="2018" month="March"/>
     <workgroup>httpbis</workgroup>
-    <keyword>connection coalescing</keyword>
-    <keyword>HTTP</keyword>
-    <abstract>This document specifies the ORIGIN frame for HTTP/2, to indicate what origins are available on a given connection.</abstract>
+    <abstract>
+      <t>This document specifies the ORIGIN frame for HTTP/2, to indicate what origins are available on a given connection.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8336"/>
+  <seriesInfo name="RFC" value="8336"/>
 </reference>

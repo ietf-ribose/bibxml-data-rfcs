@@ -1,14 +1,15 @@
 <reference anchor="RFC5096" target="https://www.rfc-editor.org/info/rfc5096">
   <front>
     <title>Mobile IPv6 Experimental Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5096"/>
-    <author fullname="V. Devarapalli"/>
+    <author fullname="V. Devarapalli" initials="V." surname="Devarapalli">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>mip6</workgroup>
-    <keyword>mip6</keyword>
-    <keyword>mobility header</keyword>
-    <keyword>mobility option</keyword>
-    <keyword>mipv6</keyword>
-    <abstract>This document defines a new experimental Mobility Header message and a Mobility option that can be used for experimental extensions to the Mobile IPv6 protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new experimental Mobility Header message and a Mobility option that can be used for experimental extensions to the Mobile IPv6 protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5096"/>
+  <seriesInfo name="RFC" value="5096"/>
 </reference>

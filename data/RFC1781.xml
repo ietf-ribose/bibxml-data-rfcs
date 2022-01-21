@@ -1,14 +1,15 @@
 <reference anchor="RFC1781" target="https://www.rfc-editor.org/info/rfc1781">
   <front>
     <title>Using the OSI Directory to Achieve User Friendly Naming</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1781"/>
-    <author fullname="S. Kille"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>asid</workgroup>
-    <keyword>OSI-Dir</keyword>
-    <keyword>X.500</keyword>
-    <keyword>directory names</keyword>
-    <keyword>representing names</keyword>
-    <abstract>This proposal sets out some conventions for representing names in a friendly manner, and shows how this can be used to achieve really friendly naming. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This proposal sets out some conventions for representing names in a friendly manner, and shows how this can be used to achieve really friendly naming. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1781"/>
+  <seriesInfo name="RFC" value="1781"/>
 </reference>

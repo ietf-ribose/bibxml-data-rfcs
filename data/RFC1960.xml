@@ -1,15 +1,15 @@
 <reference anchor="RFC1960" target="https://www.rfc-editor.org/info/rfc1960">
   <front>
     <title>A String Representation of LDAP Search Filters</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1960"/>
-    <author fullname="T. Howes"/>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="1996" month="June"/>
     <workgroup>asid</workgroup>
-    <keyword>LDAP-STR</keyword>
-    <keyword>Lightweight</keyword>
-    <keyword>Directory</keyword>
-    <keyword>Access</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>The Lightweight Directory Access Protocol (LDAP) [1] defines a network representation of a search filter transmitted to an LDAP server.  Some applications may find it useful to have a common way of representing these search filters in a human-readable form.  This document defines a human-readable string format for representing LDAP search filters. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Lightweight Directory Access Protocol (LDAP) [1] defines a network representation of a search filter transmitted to an LDAP server.  Some applications may find it useful to have a common way of representing these search filters in a human-readable form.  This document defines a human-readable string format for representing LDAP search filters. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1960"/>
+  <seriesInfo name="RFC" value="1960"/>
 </reference>

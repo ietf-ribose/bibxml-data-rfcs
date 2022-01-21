@@ -1,16 +1,18 @@
 <reference anchor="RFC2735" target="https://www.rfc-editor.org/info/rfc2735">
   <front>
     <title>NHRP Support for Virtual Private Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2735"/>
-    <author fullname="B. Fox"/>
-    <author fullname="B. Petri"/>
+    <author fullname="B. Fox" initials="B." surname="Fox">
+      <organization/>
+    </author>
+    <author fullname="B. Petri" initials="B." surname="Petri">
+      <organization/>
+    </author>
     <date year="1999" month="December"/>
     <workgroup>ion</workgroup>
-    <keyword>next hop</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <keyword>VPN</keyword>
-    <keyword>addresses</keyword>
-    <abstract>The NBMA Next Hop Resolution Protocol (NHRP) is used to determine the NBMA subnetwork addresses of the "NBMA next hop" towards a public internetworking layer address.  This document describes the enhancements necessary to enable NHRP to perform the same function for private internetworking layer addresses available within the framework of a Virtual Private Network (VPN) service on a shared NBMA network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The NBMA Next Hop Resolution Protocol (NHRP) is used to determine the NBMA subnetwork addresses of the "NBMA next hop" towards a public internetworking layer address.  This document describes the enhancements necessary to enable NHRP to perform the same function for private internetworking layer addresses available within the framework of a Virtual Private Network (VPN) service on a shared NBMA network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2735"/>
+  <seriesInfo name="RFC" value="2735"/>
 </reference>

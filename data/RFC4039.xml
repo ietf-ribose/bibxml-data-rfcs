@@ -1,12 +1,21 @@
 <reference anchor="RFC4039" target="https://www.rfc-editor.org/info/rfc4039">
   <front>
     <title>Rapid Commit Option for the Dynamic Host Configuration Protocol version 4 (DHCPv4)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4039"/>
-    <author fullname="S. Park"/>
-    <author fullname="P. Kim"/>
-    <author fullname="B. Volz"/>
+    <author fullname="S. Park" initials="S." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="P. Kim" initials="P." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>dhc</workgroup>
-    <abstract>This document defines a new Dynamic Host Configuration Protocol version 4 (DHCPv4) option, modeled on the DHCPv6 Rapid Commit option, for obtaining IP address and configuration information using a 2-message exchange rather than the usual 4-message exchange, expediting client configuration. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new Dynamic Host Configuration Protocol version 4 (DHCPv4) option, modeled on the DHCPv6 Rapid Commit option, for obtaining IP address and configuration information using a 2-message exchange rather than the usual 4-message exchange, expediting client configuration. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4039"/>
+  <seriesInfo name="RFC" value="4039"/>
 </reference>

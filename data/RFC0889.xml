@@ -1,9 +1,14 @@
 <reference anchor="RFC0889" target="https://www.rfc-editor.org/info/rfc889">
   <front>
     <title>Internet Delay Experiments</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0889"/>
-    <author fullname="D.L. Mills"/>
+    <author fullname="D.L. Mills" initials="D.L." surname="Mills">
+      <organization/>
+    </author>
     <date year="1983" month="December"/>
-    <abstract>This memo reports on some measurements of round-trip times in the Internet and suggests some possible improvements to the TCP retransmission timeout calculation.  This memo is both a status report on the Internet and advice to TCP implementers.</abstract>
+    <abstract>
+      <t>This memo reports on some measurements of round-trip times in the Internet and suggests some possible improvements to the TCP retransmission timeout calculation.  This memo is both a status report on the Internet and advice to TCP implementers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0889"/>
+  <seriesInfo name="RFC" value="889"/>
 </reference>

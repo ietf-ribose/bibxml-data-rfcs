@@ -1,14 +1,17 @@
 <reference anchor="RFC2437" target="https://www.rfc-editor.org/info/rfc2437">
   <front>
     <title>PKCS #1: RSA Cryptography Specifications Version 2.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2437"/>
-    <author fullname="B. Kaliski"/>
-    <author fullname="J. Staddon"/>
+    <author fullname="B. Kaliski" initials="B." surname="Kaliski">
+      <organization/>
+    </author>
+    <author fullname="J. Staddon" initials="J." surname="Staddon">
+      <organization/>
+    </author>
     <date year="1998" month="October"/>
-    <keyword>data</keyword>
-    <keyword>public</keyword>
-    <keyword>key</keyword>
-    <keyword>cryptosystem</keyword>
-    <abstract>This memo is the successor to RFC 2313.  This document provides recommendations for the implementation of public-key cryptography based on the RSA algorithm.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo is the successor to RFC 2313.  This document provides recommendations for the implementation of public-key cryptography based on the RSA algorithm.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2437"/>
+  <seriesInfo name="RFC" value="2437"/>
 </reference>

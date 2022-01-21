@@ -1,14 +1,24 @@
 <reference anchor="RFC5221" target="https://www.rfc-editor.org/info/rfc5221">
   <front>
     <title>Requirements for Address Selection Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5221"/>
-    <author fullname="A. Matsumoto"/>
-    <author fullname="T. Fujisaki"/>
-    <author fullname="R. Hiromi"/>
-    <author fullname="K. Kanayama"/>
+    <author fullname="A. Matsumoto" initials="A." surname="Matsumoto">
+      <organization/>
+    </author>
+    <author fullname="T. Fujisaki" initials="T." surname="Fujisaki">
+      <organization/>
+    </author>
+    <author fullname="R. Hiromi" initials="R." surname="Hiromi">
+      <organization/>
+    </author>
+    <author fullname="K. Kanayama" initials="K." surname="Kanayama">
+      <organization/>
+    </author>
     <date year="2008" month="July"/>
     <workgroup>v6ops</workgroup>
-    <keyword>default address selection</keyword>
-    <abstract>There are some problematic cases when using the default address selection mechanism that RFC 3484 defines.  This document describes additional requirements that operate with RFC 3484 to solve the problems.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>There are some problematic cases when using the default address selection mechanism that RFC 3484 defines.  This document describes additional requirements that operate with RFC 3484 to solve the problems.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5221"/>
+  <seriesInfo name="RFC" value="5221"/>
 </reference>

@@ -1,30 +1,15 @@
 <reference anchor="RFC4303" target="https://www.rfc-editor.org/info/rfc4303">
   <front>
     <title>IP Encapsulating Security Payload (ESP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4303"/>
-    <author fullname="S. Kent"/>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ESP</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>encapsulating</keyword>
-    <keyword>security</keyword>
-    <keyword>ipv4</keyword>
-    <keyword>ipv6</keyword>
-    <keyword>ip security</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>authentication</keyword>
-    <keyword>integrity</keyword>
-    <keyword>anti-replay</keyword>
-    <keyword>ah</keyword>
-    <keyword>ip authentication header</keyword>
-    <keyword>ike</keyword>
-    <keyword>internet key exchange</keyword>
-    <keyword>ikev2</keyword>
-    <keyword>esn</keyword>
-    <keyword>extended sequence number</keyword>
-    <abstract>This document describes an updated version of the Encapsulating Security Payload (ESP) protocol, which is designed to provide a mix of security services in IPv4 and IPv6.  ESP is used to provide confidentiality, data origin authentication, connectionless integrity, an anti-replay service (a form of partial sequence integrity), and limited traffic flow confidentiality.  This document obsoletes RFC 2406 (November 1998). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an updated version of the Encapsulating Security Payload (ESP) protocol, which is designed to provide a mix of security services in IPv4 and IPv6.  ESP is used to provide confidentiality, data origin authentication, connectionless integrity, an anti-replay service (a form of partial sequence integrity), and limited traffic flow confidentiality.  This document obsoletes RFC 2406 (November 1998). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4303"/>
+  <seriesInfo name="RFC" value="4303"/>
 </reference>

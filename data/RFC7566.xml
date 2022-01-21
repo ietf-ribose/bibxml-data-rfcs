@@ -1,12 +1,17 @@
 <reference anchor="RFC7566" target="https://www.rfc-editor.org/info/rfc7566">
   <front>
     <title>Enumservice Registration for 'acct' URI</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7566"/>
-    <author fullname="L. Goix"/>
-    <author fullname="K. Li"/>
+    <author fullname="L. Goix" initials="L." surname="Goix">
+      <organization/>
+    </author>
+    <author fullname="K. Li" initials="K." surname="Li">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
-    <keyword>Reverse Phone Lookup</keyword>
-    <keyword>Social Network Web</keyword>
-    <abstract>This document registers an E.164 Number Mapping (ENUM) service for 'acct' URIs (Uniform Resource Identifiers).</abstract>
+    <abstract>
+      <t>This document registers an E.164 Number Mapping (ENUM) service for 'acct' URIs (Uniform Resource Identifiers).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7566"/>
+  <seriesInfo name="RFC" value="7566"/>
 </reference>

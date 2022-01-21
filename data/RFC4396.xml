@@ -1,32 +1,18 @@
 <reference anchor="RFC4396" target="https://www.rfc-editor.org/info/rfc4396">
   <front>
     <title>RTP Payload Format for 3rd Generation Partnership Project (3GPP) Timed Text</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4396"/>
-    <author fullname="J. Rey"/>
-    <author fullname="Y. Matsui"/>
+    <author fullname="J. Rey" initials="J." surname="Rey">
+      <organization/>
+    </author>
+    <author fullname="Y. Matsui" initials="Y." surname="Matsui">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>avt</workgroup>
-    <keyword>3GPP</keyword>
-    <keyword>3GPP timed text</keyword>
-    <keyword>streaming</keyword>
-    <keyword> real-time streaming</keyword>
-    <keyword>titling</keyword>
-    <keyword>decorated text</keyword>
-    <keyword>scrolling text</keyword>
-    <keyword>karaoke</keyword>
-    <keyword>hyperlinked text</keyword>
-    <keyword>highlighted text</keyword>
-    <keyword>blinking text</keyword>
-    <keyword>highlight color</keyword>
-    <keyword>text delay</keyword>
-    <keyword>text style</keyword>
-    <keyword>text box</keyword>
-    <keyword>text wrap</keyword>
-    <keyword>text sample</keyword>
-    <keyword>sample descriptions</keyword>
-    <keyword>modifier boxes</keyword>
-    <keyword>UTF-8</keyword>
-    <keyword>UTF-16</keyword>
-    <abstract>This document specifies an RTP payload format for the transmission of 3GPP (3rd Generation Partnership Project) timed text.  3GPP timed text is a time-lined, decorated text media format with defined storage in a 3GP file.  Timed Text can be synchronized with audio/video contents and used in applications such as captioning, titling, and multimedia presentations.  In the following sections, the problems of streaming timed text are addressed, and a payload format for streaming 3GPP timed text over RTP is specified. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an RTP payload format for the transmission of 3GPP (3rd Generation Partnership Project) timed text.  3GPP timed text is a time-lined, decorated text media format with defined storage in a 3GP file.  Timed Text can be synchronized with audio/video contents and used in applications such as captioning, titling, and multimedia presentations.  In the following sections, the problems of streaming timed text are addressed, and a payload format for streaming 3GPP timed text over RTP is specified. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4396"/>
+  <seriesInfo name="RFC" value="4396"/>
 </reference>

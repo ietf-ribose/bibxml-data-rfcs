@@ -1,15 +1,19 @@
 <reference anchor="RFC8756" target="https://www.rfc-editor.org/info/rfc8756">
   <front>
     <title>Commercial National Security Algorithm (CNSA) Suite Profile of Certificate Management over CMS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8756"/>
-    <author fullname="M. Jenkins"/>
-    <author fullname="L. Zieglar"/>
+    <author fullname="M. Jenkins" initials="M." surname="Jenkins">
+      <organization/>
+    </author>
+    <author fullname="L. Zieglar" initials="L." surname="Zieglar">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
-    <keyword>NSA</keyword>
-    <keyword>CNSA</keyword>
-    <keyword>NSS</keyword>
-    <keyword>certificate</keyword>
-    <keyword>enrollment</keyword>
-    <abstract>This document specifies a profile of the Certificate Management over CMS (CMC) protocol for managing X.509 public key certificates in applications that use the Commercial National Security Algorithm (CNSA) Suite published by the United States Government. The profile applies to the capabilities, configuration, and operation of all components of US National Security Systems that manage X.509 public key certificates over CMS. It is also appropriate for all other US Government systems that process high-value information. The profile is made publicly available here for use by developers and operators of these and any other system deployments.</abstract>
+    <abstract>
+      <t>This document specifies a profile of the Certificate Management over CMS (CMC) protocol for managing X.509 public key certificates in applications that use the Commercial National Security Algorithm (CNSA) Suite published by the United States Government.</t>
+      <t>The profile applies to the capabilities, configuration, and operation of all components of US National Security Systems that manage X.509 public key certificates over CMS. It is also appropriate for all other US Government systems that process high-value information.</t>
+      <t>The profile is made publicly available here for use by developers and operators of these and any other system deployments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8756"/>
+  <seriesInfo name="RFC" value="8756"/>
 </reference>

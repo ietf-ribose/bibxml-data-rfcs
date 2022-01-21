@@ -1,15 +1,21 @@
 <reference anchor="RFC5118" target="https://www.rfc-editor.org/info/rfc5118">
   <front>
     <title>Session Initiation Protocol (SIP) Torture Test Messages for Internet Protocol Version 6 (IPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5118"/>
-    <author fullname="V. Gurbani"/>
-    <author fullname="C. Boulton"/>
-    <author fullname="R. Sparks"/>
+    <author fullname="V. Gurbani" initials="V." surname="Gurbani">
+      <organization/>
+    </author>
+    <author fullname="C. Boulton" initials="C." surname="Boulton">
+      <organization/>
+    </author>
+    <author fullname="R. Sparks" initials="R." surname="Sparks">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>sipping</workgroup>
-    <keyword>Torture test</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>SIP</keyword>
-    <abstract>This document provides examples of Session Initiation Protocol (SIP) test messages designed to exercise and "torture" the code of an IPv6-enabled SIP implementation.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides examples of Session Initiation Protocol (SIP) test messages designed to exercise and "torture" the code of an IPv6-enabled SIP implementation.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5118"/>
+  <seriesInfo name="RFC" value="5118"/>
 </reference>

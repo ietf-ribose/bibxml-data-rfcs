@@ -1,9 +1,14 @@
 <reference anchor="RFC0804" target="https://www.rfc-editor.org/info/rfc804">
   <front>
     <title>CCITT draft recommendation T.4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0804"/>
-    <author fullname="International Telegraph and Telephone Consultative Committee of the International Telecommunication Union"/>
+    <author fullname="International Telegraph and Telephone Consultative Committee of the International Telecommunication Union" initials="International" surname="Telegraph">
+      <organization/>
+    </author>
     <date year="1981" month="January"/>
-    <abstract>This is the CCITT standard for group 3 facsimile encoding.  This is useful for data compression of bit map data.</abstract>
+    <abstract>
+      <t>This is the CCITT standard for group 3 facsimile encoding.  This is useful for data compression of bit map data.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0804"/>
+  <seriesInfo name="RFC" value="804"/>
 </reference>

@@ -1,17 +1,27 @@
 <reference anchor="RFC6956" target="https://www.rfc-editor.org/info/rfc6956">
   <front>
     <title>Forwarding and Control Element Separation (ForCES) Logical Function Block (LFB) Library</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6956"/>
-    <author fullname="W. Wang"/>
-    <author fullname="E. Haleplidis"/>
-    <author fullname="K. Ogawa"/>
-    <author fullname="C. Li"/>
-    <author fullname="J. Halpern"/>
+    <author fullname="W. Wang" initials="W." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="E. Haleplidis" initials="E." surname="Haleplidis">
+      <organization/>
+    </author>
+    <author fullname="K. Ogawa" initials="K." surname="Ogawa">
+      <organization/>
+    </author>
+    <author fullname="C. Li" initials="C." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
     <date year="2013" month="June"/>
     <workgroup>forces</workgroup>
-    <keyword>ForCES</keyword>
-    <keyword>LFB</keyword>
-    <keyword>Library</keyword>
-    <abstract>This document defines basic classes of Logical Function Blocks (LFBs) used in Forwarding and Control Element Separation (ForCES).  The basic LFB classes are defined according to the ForCES Forwarding Element (FE) model and ForCES protocol specifications; they are scoped to meet requirements of typical router functions and are considered the basic LFB library for ForCES.  The library includes the descriptions of the LFBs and the XML definitions.</abstract>
+    <abstract>
+      <t>This document defines basic classes of Logical Function Blocks (LFBs) used in Forwarding and Control Element Separation (ForCES).  The basic LFB classes are defined according to the ForCES Forwarding Element (FE) model and ForCES protocol specifications; they are scoped to meet requirements of typical router functions and are considered the basic LFB library for ForCES.  The library includes the descriptions of the LFBs and the XML definitions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6956"/>
+  <seriesInfo name="RFC" value="6956"/>
 </reference>

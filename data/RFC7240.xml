@@ -1,12 +1,15 @@
 <reference anchor="RFC7240" target="https://www.rfc-editor.org/info/rfc7240">
   <front>
     <title>Prefer Header for HTTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7240"/>
-    <author fullname="J. Snell"/>
+    <author fullname="J. Snell" initials="J." surname="Snell">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>http</keyword>
-    <keyword>prefer</keyword>
-    <abstract>This specification defines an HTTP header field that can be used by a client to request that certain behaviors be employed by a server while processing a request.</abstract>
+    <abstract>
+      <t>This specification defines an HTTP header field that can be used by a client to request that certain behaviors be employed by a server while processing a request.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7240"/>
+  <seriesInfo name="RFC" value="7240"/>
 </reference>

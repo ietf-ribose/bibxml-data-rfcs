@@ -1,19 +1,22 @@
 <reference anchor="RFC5543" target="https://www.rfc-editor.org/info/rfc5543">
   <front>
     <title>BGP Traffic Engineering Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5543"/>
-    <author fullname="H. Ould-Brahim"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="H. Ould-Brahim" initials="H." surname="Ould-Brahim">
+      <organization/>
+    </author>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2009" month="May"/>
     <workgroup>softwire</workgroup>
-    <keyword>BGP-TE</keyword>
-    <keyword>BGP-TE Attribute</keyword>
-    <keyword>Traffic Engineering with BGP</keyword>
-    <keyword>Inter-domain Traffic Engineering</keyword>
-    <keyword>L1VPN BGP-TE</keyword>
-    <keyword>BGP-TE-VPN</keyword>
-    <keyword>VPN BGP Traffic Engineering Attribute</keyword>
-    <abstract>This document defines a new BGP attribute, the Traffic Engineering attribute, that enables BGP to carry Traffic Engineering information. The scope and applicability of this attribute currently excludes its use for non-VPN reachability information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new BGP attribute, the Traffic Engineering attribute, that enables BGP to carry Traffic Engineering information.</t>
+      <t>The scope and applicability of this attribute currently excludes its use for non-VPN reachability information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5543"/>
+  <seriesInfo name="RFC" value="5543"/>
 </reference>

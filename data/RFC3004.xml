@@ -1,20 +1,33 @@
 <reference anchor="RFC3004" target="https://www.rfc-editor.org/info/rfc3004">
   <front>
     <title>The User Class Option for DHCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3004"/>
-    <author fullname="G. Stump"/>
-    <author fullname="R. Droms"/>
-    <author fullname="Y. Gu"/>
-    <author fullname="R. Vyaghrapuri"/>
-    <author fullname="A. Demirtjis"/>
-    <author fullname="B. Beser"/>
-    <author fullname="J. Privat"/>
+    <author fullname="G. Stump" initials="G." surname="Stump">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
+    <author fullname="Y. Gu" initials="Y." surname="Gu">
+      <organization/>
+    </author>
+    <author fullname="R. Vyaghrapuri" initials="R." surname="Vyaghrapuri">
+      <organization/>
+    </author>
+    <author fullname="A. Demirtjis" initials="A." surname="Demirtjis">
+      <organization/>
+    </author>
+    <author fullname="B. Beser" initials="B." surname="Beser">
+      <organization/>
+    </author>
+    <author fullname="J. Privat" initials="J." surname="Privat">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>dhc</workgroup>
-    <keyword>dynamic</keyword>
-    <keyword>host</keyword>
-    <keyword>configuration</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This option is used by a Dynamic Host Configuration Protocol (DHCP) client to optionally identify the type or category of user or applications it represents.  The information contained in this option is an opaque field that represents the user class of which the client is a member.  Based on this class, a DHCP server selects the appropriate address pool to assign an address to the client and the appropriate configuration parameters.  This option should be configurable by a user. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This option is used by a Dynamic Host Configuration Protocol (DHCP) client to optionally identify the type or category of user or applications it represents.  The information contained in this option is an opaque field that represents the user class of which the client is a member.  Based on this class, a DHCP server selects the appropriate address pool to assign an address to the client and the appropriate configuration parameters.  This option should be configurable by a user. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3004"/>
+  <seriesInfo name="RFC" value="3004"/>
 </reference>

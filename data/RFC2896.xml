@@ -1,16 +1,21 @@
 <reference anchor="RFC2896" target="https://www.rfc-editor.org/info/rfc2896">
   <front>
     <title>Remote Network Monitoring MIB Protocol Identifier Macros</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2896"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="C. Bucci"/>
-    <author fullname="R. Iddon"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="C. Bucci" initials="C." surname="Bucci">
+      <organization/>
+    </author>
+    <author fullname="R. Iddon" initials="R." surname="Iddon">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
     <workgroup>rmonmib</workgroup>
-    <keyword>RMON</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo contains various protocol identifier examples, which can be used to produce valid protocolDirTable ``INDEX`` encodings, as defined by the Remote Network Monitoring MIB and the RMON Protocol Identifier Reference.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo contains various protocol identifier examples, which can be used to produce valid protocolDirTable ``INDEX`` encodings, as defined by the Remote Network Monitoring MIB and the RMON Protocol Identifier Reference.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2896"/>
+  <seriesInfo name="RFC" value="2896"/>
 </reference>

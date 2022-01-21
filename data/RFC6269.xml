@@ -1,18 +1,28 @@
 <reference anchor="RFC6269" target="https://www.rfc-editor.org/info/rfc6269">
   <front>
     <title>Issues with IP Address Sharing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6269"/>
-    <author fullname="M. Ford"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="A. Durand"/>
-    <author fullname="P. Levis"/>
-    <author fullname="P. Roberts"/>
+    <author fullname="M. Ford" initials="M." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="A. Durand" initials="A." surname="Durand">
+      <organization/>
+    </author>
+    <author fullname="P. Levis" initials="P." surname="Levis">
+      <organization/>
+    </author>
+    <author fullname="P. Roberts" initials="P." surname="Roberts">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>intarea</workgroup>
-    <keyword>IPv4 address exhaustion</keyword>
-    <keyword>completion</keyword>
-    <keyword>shared</keyword>
-    <keyword>sharing issues</keyword>
-    <abstract>The completion of IPv4 address allocations from IANA and the Regional Internet Registries (RIRs) is causing service providers around the world to question how they will continue providing IPv4 connectivity service to their subscribers when there are no longer sufficient IPv4 addresses to allocate them one per subscriber. Several possible solutions to this problem are now emerging based around the idea of shared IPv4 addressing. These solutions give rise to a number of issues, and this memo identifies those common to all such address sharing approaches. Such issues include application failures, additional service monitoring complexity, new security vulnerabilities, and so on. Solution-specific discussions are out of scope. Deploying IPv6 is the only perennial way to ease pressure on the public IPv4 address pool without the need for address sharing mechanisms that give rise to the issues identified herein. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The completion of IPv4 address allocations from IANA and the Regional Internet Registries (RIRs) is causing service providers around the world to question how they will continue providing IPv4 connectivity service to their subscribers when there are no longer sufficient IPv4 addresses to allocate them one per subscriber. Several possible solutions to this problem are now emerging based around the idea of shared IPv4 addressing. These solutions give rise to a number of issues, and this memo identifies those common to all such address sharing approaches. Such issues include application failures, additional service monitoring complexity, new security vulnerabilities, and so on. Solution-specific discussions are out of scope.</t>
+      <t>Deploying IPv6 is the only perennial way to ease pressure on the public IPv4 address pool without the need for address sharing mechanisms that give rise to the issues identified herein. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6269"/>
+  <seriesInfo name="RFC" value="6269"/>
 </reference>

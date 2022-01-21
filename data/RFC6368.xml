@@ -1,20 +1,27 @@
 <reference anchor="RFC6368" target="https://www.rfc-editor.org/info/rfc6368">
   <front>
     <title>Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP Virtual Private Networks (VPNs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6368"/>
-    <author fullname="P. Marques"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="K. Patel"/>
-    <author fullname="K. Kumaki"/>
-    <author fullname="T. Yamagata"/>
+    <author fullname="P. Marques" initials="P." surname="Marques">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="K. Kumaki" initials="K." surname="Kumaki">
+      <organization/>
+    </author>
+    <author fullname="T. Yamagata" initials="T." surname="Yamagata">
+      <organization/>
+    </author>
     <date year="2011" month="September"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>l3vpn</keyword>
-    <keyword>iBGP</keyword>
-    <keyword>loops</keyword>
-    <keyword>as-override</keyword>
-    <keyword>attribute set</keyword>
-    <keyword>attr_set</keyword>
-    <abstract>This document defines protocol extensions and procedures for BGP Provider/Customer Edge router iteration in BGP/MPLS IP VPNs.  These extensions and procedures have the objective of making the usage of the BGP/MPLS IP VPN transparent to the customer network, as far as routing information is concerned. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines protocol extensions and procedures for BGP Provider/Customer Edge router iteration in BGP/MPLS IP VPNs.  These extensions and procedures have the objective of making the usage of the BGP/MPLS IP VPN transparent to the customer network, as far as routing information is concerned. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6368"/>
+  <seriesInfo name="RFC" value="6368"/>
 </reference>

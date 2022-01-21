@@ -1,17 +1,15 @@
 <reference anchor="RFC7484" target="https://www.rfc-editor.org/info/rfc7484">
   <front>
     <title>Finding the Authoritative Registration Data (RDAP) Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7484"/>
-    <author fullname="M. Blanchet"/>
+    <author fullname="M. Blanchet" initials="M." surname="Blanchet">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>weirds</workgroup>
-    <keyword>whois</keyword>
-    <keyword>bootstrap</keyword>
-    <keyword>IDN</keyword>
-    <keyword>AS</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>JSON</keyword>
-    <abstract>This document specifies a method to find which Registration Data Access Protocol (RDAP) server is authoritative to answer queries for a requested scope, such as domain names, IP addresses, or Autonomous System numbers.</abstract>
+    <abstract>
+      <t>This document specifies a method to find which Registration Data Access Protocol (RDAP) server is authoritative to answer queries for a requested scope, such as domain names, IP addresses, or Autonomous System numbers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7484"/>
+  <seriesInfo name="RFC" value="7484"/>
 </reference>

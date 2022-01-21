@@ -1,18 +1,15 @@
 <reference anchor="RFC4708" target="https://www.rfc-editor.org/info/rfc4708">
   <front>
     <title>CellML Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4708"/>
-    <author fullname="A. Miller"/>
+    <author fullname="A. Miller" initials="A." surname="Miller">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>media format</keyword>
-    <keyword>mathematical model</keyword>
-    <keyword>mathematical modelling</keyword>
-    <keyword>mathematical modeling</keyword>
-    <keyword>content MathML</keyword>
-    <keyword>markup languages</keyword>
-    <keyword>bioengineering</keyword>
-    <keyword>biology</keyword>
-    <abstract>This document standardises a new media type -- application/cellml+xml -- for use in exchanging mathematical models represented in a CellML Umbrella 1.0 compliant markup language.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document standardises a new media type -- application/cellml+xml -- for use in exchanging mathematical models represented in a CellML Umbrella 1.0 compliant markup language.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4708"/>
+  <seriesInfo name="RFC" value="4708"/>
 </reference>

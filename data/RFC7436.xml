@@ -1,13 +1,25 @@
 <reference anchor="RFC7436" target="https://www.rfc-editor.org/info/rfc7436">
   <front>
     <title>IP-Only LAN Service (IPLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7436"/>
-    <author fullname="H. Shah"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="F. Le Faucheur"/>
-    <author fullname="G. Heron"/>
+    <author fullname="H. Shah" initials="H." surname="Shah">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
     <date year="2015" month="January"/>
     <workgroup>l2vpn</workgroup>
-    <abstract>A Virtual Private LAN Service (VPLS) is used to interconnect systems across a wide-area or metropolitan-area network, making it appear that they are on a private LAN. The systems that are interconnected may themselves be LAN switches. If, however, they are IP hosts or IP routers, certain simplifications to the operation of the VPLS are possible. We call this simplified type of VPLS an "IP-only LAN Service" (IPLS). In an IPLS, as in a VPLS, LAN interfaces are run in promiscuous mode, and frames are forwarded based on their destination Media Access Control (MAC) addresses. However, the maintenance of the MAC forwarding tables is done via signaling, rather than via the MAC address learning procedures specified in the IEEE's "Media Access Control (MAC) Bridges". This document specifies the protocol extensions and procedures for support of the IPLS service. The original intent was to provide an alternate solution to VPLS for those Provider Edge (PE) routers that were not capable of learning MAC addresses through data plane. This became a non-issue with newer hardware. The concepts put forth by this document are still valuable and are adopted in one form or other by newer work such as Ethernet VPN in L2VPN working group and possible data center applications. At this point, no further action is planned to update this document and it is published simply as a historic record of the ideas.</abstract>
+    <abstract>
+      <t>A Virtual Private LAN Service (VPLS) is used to interconnect systems across a wide-area or metropolitan-area network, making it appear that they are on a private LAN. The systems that are interconnected may themselves be LAN switches. If, however, they are IP hosts or IP routers, certain simplifications to the operation of the VPLS are possible. We call this simplified type of VPLS an "IP-only LAN Service" (IPLS). In an IPLS, as in a VPLS, LAN interfaces are run in promiscuous mode, and frames are forwarded based on their destination Media Access Control (MAC) addresses. However, the maintenance of the MAC forwarding tables is done via signaling, rather than via the MAC address learning procedures specified in the IEEE's "Media Access Control (MAC) Bridges". This document specifies the protocol extensions and procedures for support of the IPLS service.</t>
+      <t>The original intent was to provide an alternate solution to VPLS for those Provider Edge (PE) routers that were not capable of learning MAC addresses through data plane. This became a non-issue with newer hardware. The concepts put forth by this document are still valuable and are adopted in one form or other by newer work such as Ethernet VPN in L2VPN working group and possible data center applications. At this point, no further action is planned to update this document and it is published simply as a historic record of the ideas.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7436"/>
+  <seriesInfo name="RFC" value="7436"/>
 </reference>

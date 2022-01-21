@@ -1,14 +1,21 @@
 <reference anchor="RFC2959" target="https://www.rfc-editor.org/info/rfc2959">
   <front>
     <title>Real-Time Transport Protocol Management Information Base</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2959"/>
-    <author fullname="M. Baugher"/>
-    <author fullname="B. Strahm"/>
-    <author fullname="I. Suconick"/>
+    <author fullname="M. Baugher" initials="M." surname="Baugher">
+      <organization/>
+    </author>
+    <author fullname="B. Strahm" initials="B." surname="Strahm">
+      <organization/>
+    </author>
+    <author fullname="I. Suconick" initials="I." surname="Suconick">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP</keyword>
-    <keyword>MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2959"/>
+  <seriesInfo name="RFC" value="2959"/>
 </reference>

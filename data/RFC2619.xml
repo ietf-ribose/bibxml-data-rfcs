@@ -1,20 +1,18 @@
 <reference anchor="RFC2619" target="https://www.rfc-editor.org/info/rfc2619">
   <front>
     <title>RADIUS Authentication Server MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2619"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="B. Aboba"/>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>radius</workgroup>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <keyword>security</keyword>
-    <keyword>remote</keyword>
-    <keyword>access</keyword>
-    <keyword>dialin</keyword>
-    <keyword>user</keyword>
-    <keyword>service</keyword>
-    <abstract>This memo defines a set of extensions which instrument RADIUS authentication server functions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a set of extensions which instrument RADIUS authentication server functions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2619"/>
+  <seriesInfo name="RFC" value="2619"/>
 </reference>

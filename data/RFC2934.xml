@@ -1,18 +1,24 @@
 <reference anchor="RFC2934" target="https://www.rfc-editor.org/info/rfc2934">
   <front>
     <title>Protocol Independent Multicast MIB for IPv4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2934"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Thaler"/>
-    <author fullname="B. Fenner"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
+    <author fullname="B. Fenner" initials="B." surname="Fenner">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>idmr</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Protocol Independent Multicast (PIM) protocol for IPv4.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Protocol Independent Multicast (PIM) protocol for IPv4.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2934"/>
+  <seriesInfo name="RFC" value="2934"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC3898" target="https://www.rfc-editor.org/info/rfc3898">
   <front>
     <title>Network Information Service (NIS) Configuration Options for Dynamic Host Configuration Protocol for IPv6 (DHCPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3898"/>
-    <author fullname="V. Kalusivalingam"/>
+    <author fullname="V. Kalusivalingam" initials="V." surname="Kalusivalingam">
+      <organization/>
+    </author>
     <date year="2004" month="October"/>
     <workgroup>dhc</workgroup>
-    <keyword>NIS Servers</keyword>
-    <keyword>NIS+ Servers</keyword>
-    <keyword>NIS Client Domain Name</keyword>
-    <keyword>NIS+ Client Domain name</keyword>
-    <abstract>This document describes four options for Network Information Service (NIS) related configuration information in Dynamic Host Configuration Protocol for IPv6 (DHCPv6): NIS Servers, NIS+ Servers, NIS Client Domain Name, NIS+ Client Domain name. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes four options for Network Information Service (NIS) related configuration information in Dynamic Host Configuration Protocol for IPv6 (DHCPv6): NIS Servers, NIS+ Servers, NIS Client Domain Name, NIS+ Client Domain name. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3898"/>
+  <seriesInfo name="RFC" value="3898"/>
 </reference>

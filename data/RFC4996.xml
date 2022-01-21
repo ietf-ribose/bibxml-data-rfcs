@@ -1,13 +1,25 @@
 <reference anchor="RFC4996" target="https://www.rfc-editor.org/info/rfc4996">
   <front>
     <title>RObust Header Compression (ROHC): A Profile for TCP/IP (ROHC-TCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4996"/>
-    <author fullname="G. Pelletier"/>
-    <author fullname="K. Sandlund"/>
-    <author fullname="L-E. Jonsson"/>
-    <author fullname="M. West"/>
+    <author fullname="G. Pelletier" initials="G." surname="Pelletier">
+      <organization/>
+    </author>
+    <author fullname="K. Sandlund" initials="K." surname="Sandlund">
+      <organization/>
+    </author>
+    <author fullname="L-E. Jonsson" initials="L-E." surname="Jonsson">
+      <organization/>
+    </author>
+    <author fullname="M. West" initials="M." surname="West">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>rohc</workgroup>
-    <abstract>This document specifies a ROHC (Robust Header Compression) profile for compression of TCP/IP packets. The profile, called ROHC-TCP, provides efficient and robust compression of TCP headers, including frequently used TCP options such as SACK (Selective Acknowledgments) and Timestamps. ROHC-TCP works well when used over links with significant error rates and long round-trip times. For many bandwidth-limited links where header compression is essential, such characteristics are common. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a ROHC (Robust Header Compression) profile for compression of TCP/IP packets. The profile, called ROHC-TCP, provides efficient and robust compression of TCP headers, including frequently used TCP options such as SACK (Selective Acknowledgments) and Timestamps.</t>
+      <t>ROHC-TCP works well when used over links with significant error rates and long round-trip times. For many bandwidth-limited links where header compression is essential, such characteristics are common. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4996"/>
+  <seriesInfo name="RFC" value="4996"/>
 </reference>

@@ -1,13 +1,14 @@
 <reference anchor="RFC8125" target="https://www.rfc-editor.org/info/rfc8125">
   <front>
     <title>Requirements for Password-Authenticated Key Agreement (PAKE) Schemes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8125"/>
-    <author fullname="J. Schmidt"/>
+    <author fullname="J. Schmidt" initials="J." surname="Schmidt">
+      <organization/>
+    </author>
     <date year="2017" month="April"/>
-    <keyword>Password</keyword>
-    <keyword>Key Agreement</keyword>
-    <keyword>Password-Authenticated Key Agreement</keyword>
-    <keyword>Cryptographic Protocol</keyword>
-    <abstract>Password-Authenticated Key Agreement (PAKE) schemes are interactive protocols that allow the participants to authenticate each other and derive shared cryptographic keys using a (weaker) shared password.  This document reviews different types of PAKE schemes.  Furthermore, it presents requirements and gives recommendations to designers of new schemes.  It is a product of the Crypto Forum Research Group (CFRG).</abstract>
+    <abstract>
+      <t>Password-Authenticated Key Agreement (PAKE) schemes are interactive protocols that allow the participants to authenticate each other and derive shared cryptographic keys using a (weaker) shared password.  This document reviews different types of PAKE schemes.  Furthermore, it presents requirements and gives recommendations to designers of new schemes.  It is a product of the Crypto Forum Research Group (CFRG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8125"/>
+  <seriesInfo name="RFC" value="8125"/>
 </reference>

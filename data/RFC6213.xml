@@ -1,13 +1,18 @@
 <reference anchor="RFC6213" target="https://www.rfc-editor.org/info/rfc6213">
   <front>
     <title>IS-IS BFD-Enabled TLV</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6213"/>
-    <author fullname="C. Hopps"/>
-    <author fullname="L. Ginsberg"/>
+    <author fullname="C. Hopps" initials="C." surname="Hopps">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>isis</workgroup>
-    <keyword>type-length-value</keyword>
-    <keyword>Bidirectional Forwarding Detection</keyword>
-    <abstract>This document describes a type-length-value (TLV) for use in the IS-IS routing protocol that allows for the proper use of the Bidirectional Forwarding Detection (BFD) protocol.  There exist certain scenarios in which IS-IS will not react appropriately to a BFD-detected forwarding plane failure without use of either this TLV or some other method. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a type-length-value (TLV) for use in the IS-IS routing protocol that allows for the proper use of the Bidirectional Forwarding Detection (BFD) protocol.  There exist certain scenarios in which IS-IS will not react appropriately to a BFD-detected forwarding plane failure without use of either this TLV or some other method. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6213"/>
+  <seriesInfo name="RFC" value="6213"/>
 </reference>

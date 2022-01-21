@@ -1,16 +1,27 @@
 <reference anchor="RFC8329" target="https://www.rfc-editor.org/info/rfc8329">
   <front>
     <title>Framework for Interface to Network Security Functions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8329"/>
-    <author fullname="D. Lopez"/>
-    <author fullname="E. Lopez"/>
-    <author fullname="L. Dunbar"/>
-    <author fullname="J. Strassner"/>
-    <author fullname="R. Kumar"/>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="E. Lopez" initials="E." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="L. Dunbar" initials="L." surname="Dunbar">
+      <organization/>
+    </author>
+    <author fullname="J. Strassner" initials="J." surname="Strassner">
+      <organization/>
+    </author>
+    <author fullname="R. Kumar" initials="R." surname="Kumar">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>i2nsf</workgroup>
-    <keyword>security policy</keyword>
-    <keyword>security capability</keyword>
-    <abstract>This document describes the framework for Interface to Network Security Functions (I2NSF) and defines a reference model (including major functional components) for I2NSF.  Network Security Functions (NSFs) are packet-processing engines that inspect and optionally modify packets traversing networks, either directly or in the context of sessions to which the packet is associated.</abstract>
+    <abstract>
+      <t>This document describes the framework for Interface to Network Security Functions (I2NSF) and defines a reference model (including major functional components) for I2NSF.  Network Security Functions (NSFs) are packet-processing engines that inspect and optionally modify packets traversing networks, either directly or in the context of sessions to which the packet is associated.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8329"/>
+  <seriesInfo name="RFC" value="8329"/>
 </reference>

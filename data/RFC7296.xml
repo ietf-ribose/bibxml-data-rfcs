@@ -1,16 +1,28 @@
 <reference anchor="RFC7296" target="https://www.rfc-editor.org/info/rfc7296">
   <front>
     <title>Internet Key Exchange Protocol Version 2 (IKEv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7296"/>
-    <author fullname="C. Kaufman"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="Y. Nir"/>
-    <author fullname="P. Eronen"/>
-    <author fullname="T. Kivinen"/>
+    <author fullname="C. Kaufman" initials="C." surname="Kaufman">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="Y. Nir" initials="Y." surname="Nir">
+      <organization/>
+    </author>
+    <author fullname="P. Eronen" initials="P." surname="Eronen">
+      <organization/>
+    </author>
+    <author fullname="T. Kivinen" initials="T." surname="Kivinen">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IKE</keyword>
-    <keyword>IPsec</keyword>
-    <abstract>This document describes version 2 of the Internet Key Exchange (IKE) protocol.  IKE is a component of IPsec used for performing mutual authentication and establishing and maintaining Security Associations (SAs).  This document obsoletes RFC 5996, and includes all of the errata for it.  It advances IKEv2 to be an Internet Standard.</abstract>
+    <abstract>
+      <t>This document describes version 2 of the Internet Key Exchange (IKE) protocol.  IKE is a component of IPsec used for performing mutual authentication and establishing and maintaining Security Associations (SAs).  This document obsoletes RFC 5996, and includes all of the errata for it.  It advances IKEv2 to be an Internet Standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7296"/>
+  <seriesInfo name="STD" value="79"/>
+  <seriesInfo name="RFC" value="7296"/>
 </reference>

@@ -1,15 +1,27 @@
 <reference anchor="RFC8745" target="https://www.rfc-editor.org/info/rfc8745">
   <front>
     <title>Path Computation Element Communication Protocol (PCEP) Extensions for Associating Working and Protection Label Switched Paths (LSPs) with Stateful PCE</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8745"/>
-    <author fullname="H. Ananthakrishnan"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="C. Barth"/>
-    <author fullname="I. Minei"/>
-    <author fullname="M. Negi"/>
+    <author fullname="H. Ananthakrishnan" initials="H." surname="Ananthakrishnan">
+      <organization/>
+    </author>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="C. Barth" initials="C." surname="Barth">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="M. Negi" initials="M." surname="Negi">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
     <workgroup>pce</workgroup>
-    <keyword>PCEP</keyword>
-    <abstract>An active stateful Path Computation Element (PCE) is capable of computing as well as controlling via Path Computation Element Communication Protocol (PCEP) Multiprotocol Label Switching Traffic Engineering (MPLS-TE) Label Switched Paths (LSPs).  Furthermore, it is also possible for an active stateful PCE to create, maintain, and delete LSPs.  This document defines the PCEP extension to associate two or more LSPs to provide end-to-end path protection.</abstract>
+    <abstract>
+      <t>An active stateful Path Computation Element (PCE) is capable of computing as well as controlling via Path Computation Element Communication Protocol (PCEP) Multiprotocol Label Switching Traffic Engineering (MPLS-TE) Label Switched Paths (LSPs).  Furthermore, it is also possible for an active stateful PCE to create, maintain, and delete LSPs.  This document defines the PCEP extension to associate two or more LSPs to provide end-to-end path protection.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8745"/>
+  <seriesInfo name="RFC" value="8745"/>
 </reference>

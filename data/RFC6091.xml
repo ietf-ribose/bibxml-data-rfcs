@@ -1,14 +1,18 @@
 <reference anchor="RFC6091" target="https://www.rfc-editor.org/info/rfc6091">
   <front>
     <title>Using OpenPGP Keys for Transport Layer Security (TLS) Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6091"/>
-    <author fullname="N. Mavrogiannopoulos"/>
-    <author fullname="D. Gillmor"/>
+    <author fullname="N. Mavrogiannopoulos" initials="N." surname="Mavrogiannopoulos">
+      <organization/>
+    </author>
+    <author fullname="D. Gillmor" initials="D." surname="Gillmor">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Certificate type negotiation</keyword>
-    <keyword>tls handshake protocol</keyword>
-    <keyword>handshake</keyword>
-    <abstract>This memo defines Transport Layer Security (TLS) extensions and associated semantics that allow clients and servers to negotiate the use of OpenPGP certificates for a TLS session, and specifies how to transport OpenPGP certificates via TLS.  It also defines the registry for non-X.509 certificate types.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo defines Transport Layer Security (TLS) extensions and associated semantics that allow clients and servers to negotiate the use of OpenPGP certificates for a TLS session, and specifies how to transport OpenPGP certificates via TLS.  It also defines the registry for non-X.509 certificate types.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6091"/>
+  <seriesInfo name="RFC" value="6091"/>
 </reference>

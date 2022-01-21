@@ -1,18 +1,15 @@
 <reference anchor="RFC6120" target="https://www.rfc-editor.org/info/rfc6120">
   <front>
     <title>Extensible Messaging and Presence Protocol (XMPP): Core</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6120"/>
-    <author fullname="P. Saint-Andre"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>xmpp</workgroup>
-    <keyword>XMPP</keyword>
-    <keyword>Extensible Messaging and Presence Protocol</keyword>
-    <keyword>Jabber</keyword>
-    <keyword>Messaging</keyword>
-    <keyword>Instant Messaging</keyword>
-    <keyword>Presence</keyword>
-    <keyword>Extensible Markup Language</keyword>
-    <keyword>XML</keyword>
-    <abstract>The Extensible Messaging and Presence Protocol (XMPP) is an application profile of the Extensible Markup Language (XML) that enables the near-real-time exchange of structured yet extensible data between any two or more network entities.  This document defines XMPP's core protocol methods: setup and teardown of XML streams, channel encryption, authentication, error handling, and communication primitives for messaging, network availability ("presence"), and request-response interactions.  This document obsoletes RFC 3920. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Extensible Messaging and Presence Protocol (XMPP) is an application profile of the Extensible Markup Language (XML) that enables the near-real-time exchange of structured yet extensible data between any two or more network entities.  This document defines XMPP's core protocol methods: setup and teardown of XML streams, channel encryption, authentication, error handling, and communication primitives for messaging, network availability ("presence"), and request-response interactions.  This document obsoletes RFC 3920. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6120"/>
+  <seriesInfo name="RFC" value="6120"/>
 </reference>

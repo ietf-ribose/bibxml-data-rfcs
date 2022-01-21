@@ -1,16 +1,17 @@
 <reference anchor="RFC2342" target="https://www.rfc-editor.org/info/rfc2342">
   <front>
     <title>IMAP4 Namespace</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2342"/>
-    <author fullname="M. Gahrns"/>
-    <author fullname="C. Newman"/>
+    <author fullname="M. Gahrns" initials="M." surname="Gahrns">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
-    <keyword>IMAP4NAME</keyword>
-    <keyword>internet</keyword>
-    <keyword>message</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>mailbox</keyword>
-    <abstract>This document defines a NAMESPACE command that allows a client to discover the prefixes of namespaces used by a server for personal mailboxes, other users' mailboxes, and shared mailboxes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a NAMESPACE command that allows a client to discover the prefixes of namespaces used by a server for personal mailboxes, other users' mailboxes, and shared mailboxes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2342"/>
+  <seriesInfo name="RFC" value="2342"/>
 </reference>

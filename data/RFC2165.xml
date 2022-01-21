@@ -1,14 +1,24 @@
 <reference anchor="RFC2165" target="https://www.rfc-editor.org/info/rfc2165">
   <front>
     <title>Service Location Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2165"/>
-    <author fullname="J. Veizades"/>
-    <author fullname="E. Guttman"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="S. Kaplan"/>
+    <author fullname="J. Veizades" initials="J." surname="Veizades">
+      <organization/>
+    </author>
+    <author fullname="E. Guttman" initials="E." surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="S. Kaplan" initials="S." surname="Kaplan">
+      <organization/>
+    </author>
     <date year="1997" month="June"/>
     <workgroup>svrloc</workgroup>
-    <keyword>SLP</keyword>
-    <abstract>The Service Location Protocol provides a scalable framework for the discovery and selection of network services.  Using this protocol, computers using the Internet no longer need so much static configuration of network services for network based applications.  This is especially important as computers become more portable, and users less tolerant or able to fulfill the demands of network system administration. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Service Location Protocol provides a scalable framework for the discovery and selection of network services.  Using this protocol, computers using the Internet no longer need so much static configuration of network services for network based applications.  This is especially important as computers become more portable, and users less tolerant or able to fulfill the demands of network system administration. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2165"/>
+  <seriesInfo name="RFC" value="2165"/>
 </reference>

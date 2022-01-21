@@ -1,17 +1,28 @@
 <reference anchor="RFC8370" target="https://www.rfc-editor.org/info/rfc8370">
   <front>
     <title>Techniques to Improve the Scalability of RSVP-TE Deployments</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8370"/>
-    <author fullname="V. Beeram"/>
-    <author fullname="I. Minei"/>
-    <author fullname="R. Shakir"/>
-    <author fullname="D. Pacella"/>
-    <author fullname="T. Saad"/>
+    <author fullname="V. Beeram" initials="V." surname="Beeram">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="R. Shakir" initials="R." surname="Shakir">
+      <organization/>
+    </author>
+    <author fullname="D. Pacella" initials="D." surname="Pacella">
+      <organization/>
+    </author>
+    <author fullname="T. Saad" initials="T." surname="Saad">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
     <workgroup>teas</workgroup>
-    <keyword>RSVP-TE Scaling</keyword>
-    <keyword>RI-RSVP</keyword>
-    <keyword>Per-Peer Flow Control</keyword>
-    <abstract>Networks that utilize RSVP-TE LSPs are encountering implementations that have a limited ability to support the growth in the number of LSPs deployed. This document defines two techniques, Refresh-Interval Independent RSVP (RI-RSVP) and Per-Peer Flow Control, that reduce the number of processing cycles required to maintain RSVP-TE LSP state in Label Switching Routers (LSRs) and hence allow implementations to support larger scale deployments.</abstract>
+    <abstract>
+      <t>Networks that utilize RSVP-TE LSPs are encountering implementations that have a limited ability to support the growth in the number of LSPs deployed.</t>
+      <t>This document defines two techniques, Refresh-Interval Independent RSVP (RI-RSVP) and Per-Peer Flow Control, that reduce the number of processing cycles required to maintain RSVP-TE LSP state in Label Switching Routers (LSRs) and hence allow implementations to support larger scale deployments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8370"/>
+  <seriesInfo name="RFC" value="8370"/>
 </reference>

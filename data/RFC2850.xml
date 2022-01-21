@@ -1,14 +1,18 @@
 <reference anchor="RFC2850" target="https://www.rfc-editor.org/info/rfc2850">
   <front>
     <title>Charter of the Internet Architecture Board (IAB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2850"/>
-    <author fullname="Internet Architecture Board"/>
-    <author fullname="B. Carpenter"/>
+    <author fullname="Internet Architecture Board" initials="Internet" surname="Architecture">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
-    <keyword>ISOC</keyword>
-    <keyword>Internet Society</keyword>
-    <keyword>IETF</keyword>
-    <keyword>IRTF</keyword>
-    <abstract>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board.  It replaces RFC 1601.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board.  It replaces RFC 1601.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2850"/>
+  <seriesInfo name="BCP" value="39"/>
+  <seriesInfo name="RFC" value="2850"/>
 </reference>

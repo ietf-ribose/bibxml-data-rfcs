@@ -1,19 +1,28 @@
 <reference anchor="RFC8802" target="https://www.rfc-editor.org/info/rfc8802">
   <front>
     <title>The Quality for Service (Q4S) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8802"/>
-    <author fullname="J.J. Aranda"/>
-    <author fullname="M. Cortes"/>
-    <author fullname="J. Salvachúa"/>
-    <author fullname="M. Narganes"/>
-    <author fullname="I. Martínez-Sarriegui"/>
+    <author fullname="J.J. Aranda" initials="J.J." surname="Aranda">
+      <organization/>
+    </author>
+    <author fullname="M. Cortes" initials="M." surname="Cortes">
+      <organization/>
+    </author>
+    <author fullname="J. Salvachúa" initials="J." surname="Salvachúa">
+      <organization/>
+    </author>
+    <author fullname="M. Narganes" initials="M." surname="Narganes">
+      <organization/>
+    </author>
+    <author fullname="I. Martínez-Sarriegui" initials="I." surname="Martínez-Sarriegui">
+      <organization/>
+    </author>
     <date year="2020" month="July"/>
-    <keyword>quality measurement</keyword>
-    <keyword>measurement protocol</keyword>
-    <keyword>latency</keyword>
-    <keyword>jitter</keyword>
-    <keyword>bandwidth</keyword>
-    <keyword>packet-loss</keyword>
-    <abstract>This memo describes an application-level protocol for the communication of end-to-end QoS compliance information based on the HyperText Transfer Protocol (HTTP) and the Session Description Protocol (SDP). The Quality for Service (Q4S) protocol provides a mechanism to negotiate and monitor latency, jitter, bandwidth, and packet loss, and to alert whenever one of the negotiated conditions is violated. Implementation details on the actions to be triggered upon reception/detection of QoS alerts exchanged by the protocol are out of scope of this document; it is either application dependent (e.g., act to increase quality or reduce bit-rate) or network dependent (e.g., change connection's quality profile). This protocol specification is the product of research conducted over a number of years; it is presented here as a permanent record and to offer a foundation for future similar work. It does not represent a standard protocol and does not have IETF consensus.</abstract>
+    <abstract>
+      <t>This memo describes an application-level protocol for the communication of end-to-end QoS compliance information based on the HyperText Transfer Protocol (HTTP) and the Session Description Protocol (SDP). The Quality for Service (Q4S) protocol provides a mechanism to negotiate and monitor latency, jitter, bandwidth, and packet loss, and to alert whenever one of the negotiated conditions is violated.</t>
+      <t>Implementation details on the actions to be triggered upon reception/detection of QoS alerts exchanged by the protocol are out of scope of this document; it is either application dependent (e.g., act to increase quality or reduce bit-rate) or network dependent (e.g., change connection's quality profile).</t>
+      <t>This protocol specification is the product of research conducted over a number of years; it is presented here as a permanent record and to offer a foundation for future similar work. It does not represent a standard protocol and does not have IETF consensus.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8802"/>
+  <seriesInfo name="RFC" value="8802"/>
 </reference>

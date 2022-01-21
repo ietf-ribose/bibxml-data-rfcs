@@ -1,11 +1,18 @@
 <reference anchor="RFC8273" target="https://www.rfc-editor.org/info/rfc8273">
   <front>
     <title>Unique IPv6 Prefix per Host</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8273"/>
-    <author fullname="J. Brzozowski"/>
-    <author fullname="G. Van de Velde"/>
+    <author fullname="J. Brzozowski" initials="J." surname="Brzozowski">
+      <organization/>
+    </author>
+    <author fullname="G. Van de Velde" initials="G." surname="Van">
+      <organization/>
+    </author>
     <date year="2017" month="December"/>
     <workgroup>v6ops</workgroup>
-    <abstract>This document outlines an approach utilizing existing IPv6 protocols to allow hosts to be assigned a unique IPv6 prefix (instead of a unique IPv6 address from a shared IPv6 prefix).  Benefits of using a unique IPv6 prefix over a unique service-provider IPv6 address include improved host isolation and enhanced subscriber management on shared network segments.</abstract>
+    <abstract>
+      <t>This document outlines an approach utilizing existing IPv6 protocols to allow hosts to be assigned a unique IPv6 prefix (instead of a unique IPv6 address from a shared IPv6 prefix).  Benefits of using a unique IPv6 prefix over a unique service-provider IPv6 address include improved host isolation and enhanced subscriber management on shared network segments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8273"/>
+  <seriesInfo name="RFC" value="8273"/>
 </reference>

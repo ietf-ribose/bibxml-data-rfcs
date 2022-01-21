@@ -1,16 +1,21 @@
 <reference anchor="RFC8191" target="https://www.rfc-editor.org/info/rfc8191">
   <front>
     <title>Home Network Prefix Renumbering in Proxy Mobile IPv6 (PMIPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8191"/>
-    <author fullname="Z. Yan"/>
-    <author fullname="J. Lee"/>
-    <author fullname="X. Lee"/>
+    <author fullname="Z. Yan" initials="Z." surname="Yan">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="X. Lee" initials="X." surname="Lee">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>dmm</workgroup>
-    <keyword>PMIPv6</keyword>
-    <keyword>HNP</keyword>
-    <keyword>HNP renumbering</keyword>
-    <keyword>LMA handover</keyword>
-    <abstract>In the basic Proxy Mobile IPv6 (PMIPv6) specification, a Mobile Node (MN) is assigned with a Home Network Prefix (HNP) during its initial attachment, and the MN configures its Home Address (HoA) with the HNP.  During the movement of the MN, the HNP remains unchanged to keep ongoing communications associated with the HoA.  However, the current PMIPv6 specification does not specify related operations when HNP renumbering has occurred (e.g., due to change of service provider or site topology, etc.).  In this document, a solution to support HNP renumbering is proposed, as an optional extension of the PMIPv6 specification.</abstract>
+    <abstract>
+      <t>In the basic Proxy Mobile IPv6 (PMIPv6) specification, a Mobile Node (MN) is assigned with a Home Network Prefix (HNP) during its initial attachment, and the MN configures its Home Address (HoA) with the HNP.  During the movement of the MN, the HNP remains unchanged to keep ongoing communications associated with the HoA.  However, the current PMIPv6 specification does not specify related operations when HNP renumbering has occurred (e.g., due to change of service provider or site topology, etc.).  In this document, a solution to support HNP renumbering is proposed, as an optional extension of the PMIPv6 specification.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8191"/>
+  <seriesInfo name="RFC" value="8191"/>
 </reference>

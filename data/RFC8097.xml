@@ -1,14 +1,27 @@
 <reference anchor="RFC8097" target="https://www.rfc-editor.org/info/rfc8097">
   <front>
     <title>BGP Prefix Origin Validation State Extended Community</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8097"/>
-    <author fullname="P. Mohapatra"/>
-    <author fullname="K. Patel"/>
-    <author fullname="J. Scudder"/>
-    <author fullname="D. Ward"/>
-    <author fullname="R. Bush"/>
+    <author fullname="P. Mohapatra" initials="P." surname="Mohapatra">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>sidr</workgroup>
-    <abstract>This document defines a new BGP opaque extended community to carry the origination Autonomous System (AS) validation state inside an autonomous system.  Internal BGP (IBGP) speakers that receive this validation state can configure local policies that allow it to influence their decision process.</abstract>
+    <abstract>
+      <t>This document defines a new BGP opaque extended community to carry the origination Autonomous System (AS) validation state inside an autonomous system.  Internal BGP (IBGP) speakers that receive this validation state can configure local policies that allow it to influence their decision process.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8097"/>
+  <seriesInfo name="RFC" value="8097"/>
 </reference>

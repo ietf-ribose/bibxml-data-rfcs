@@ -1,16 +1,24 @@
 <reference anchor="RFC3406" target="https://www.rfc-editor.org/info/rfc3406">
   <front>
     <title>Uniform Resource Names (URN) Namespace Definition Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3406"/>
-    <author fullname="L. Daigle"/>
-    <author fullname="D. van Gulik"/>
-    <author fullname="R. Iannella"/>
-    <author fullname="P. Faltstrom"/>
+    <author fullname="L. Daigle" initials="L." surname="Daigle">
+      <organization/>
+    </author>
+    <author fullname="D. van Gulik" initials="D." surname="van">
+      <organization/>
+    </author>
+    <author fullname="R. Iannella" initials="R." surname="Iannella">
+      <organization/>
+    </author>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
     <date year="2002" month="October"/>
     <workgroup>urn</workgroup>
-    <keyword>namespaces</keyword>
-    <keyword>applications</keyword>
-    <keyword>structure</keyword>
-    <abstract>This document lays out general definitions of and mechanisms for establishing Uniform Resource Names (URN) "namespaces".  The URN WG has defined a syntax for URNs in RFC 2141, as well as some proposed mechanisms for their resolution and use in Internet applications in RFC 3401 and RFC 3405.  The whole rests on the concept of individual "namespaces" within the URN structure.  Apart from proof-of-concept namespaces, the use of existing identifiers in URNs has been discussed in RFC 2288.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>This document lays out general definitions of and mechanisms for establishing Uniform Resource Names (URN) "namespaces".  The URN WG has defined a syntax for URNs in RFC 2141, as well as some proposed mechanisms for their resolution and use in Internet applications in RFC 3401 and RFC 3405.  The whole rests on the concept of individual "namespaces" within the URN structure.  Apart from proof-of-concept namespaces, the use of existing identifiers in URNs has been discussed in RFC 2288.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3406"/>
+  <seriesInfo name="RFC" value="3406"/>
 </reference>

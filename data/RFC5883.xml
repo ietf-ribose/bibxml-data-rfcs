@@ -1,11 +1,18 @@
 <reference anchor="RFC5883" target="https://www.rfc-editor.org/info/rfc5883">
   <front>
     <title>Bidirectional Forwarding Detection (BFD) for Multihop Paths</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5883"/>
-    <author fullname="D. Katz"/>
-    <author fullname="D. Ward"/>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>bfd</workgroup>
-    <abstract>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol over multihop paths, including unidirectional links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol over multihop paths, including unidirectional links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5883"/>
+  <seriesInfo name="RFC" value="5883"/>
 </reference>

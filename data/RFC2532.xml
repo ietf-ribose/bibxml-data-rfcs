@@ -1,14 +1,18 @@
 <reference anchor="RFC2532" target="https://www.rfc-editor.org/info/rfc2532">
   <front>
     <title>Extended Facsimile Using Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2532"/>
-    <author fullname="L. Masinter"/>
-    <author fullname="D. Wing"/>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>fax</workgroup>
-    <keyword>mail</keyword>
-    <keyword>user</keyword>
-    <keyword>fax</keyword>
-    <abstract>This document describes extensions to "Simple Mode of Facsimile Using Internet Mail", and describes additional features, including transmission of enhanced document characteristics (higher resolution, color) and confirmation of delivery and processing. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes extensions to "Simple Mode of Facsimile Using Internet Mail", and describes additional features, including transmission of enhanced document characteristics (higher resolution, color) and confirmation of delivery and processing. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2532"/>
+  <seriesInfo name="RFC" value="2532"/>
 </reference>

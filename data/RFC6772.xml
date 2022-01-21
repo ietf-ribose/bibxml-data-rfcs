@@ -1,17 +1,31 @@
 <reference anchor="RFC6772" target="https://www.rfc-editor.org/info/rfc6772">
   <front>
     <title>Geolocation Policy: A Document Format for Expressing Privacy Preferences for Location Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6772"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="J. Cuellar"/>
-    <author fullname="J. Polk"/>
-    <author fullname="J. Morris"/>
-    <author fullname="M. Thomson"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="J. Cuellar" initials="J." surname="Cuellar">
+      <organization/>
+    </author>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="J. Morris" initials="J." surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>geopriv</workgroup>
-    <keyword>Authorization Policy</keyword>
-    <keyword>Location Privacy</keyword>
-    <abstract>This document defines an authorization policy language for controlling access to location information. It extends the Common Policy authorization framework to provide location-specific access control. More specifically, this document defines condition elements specific to location information in order to restrict access to data based on the current location of the Target. Furthermore, this document defines two algorithms for reducing the granularity of returned location information. The first algorithm is defined for usage with civic location information, whereas the other one applies to geodetic location information. Both algorithms come with limitations. There are circumstances where the amount of location obfuscation provided is less than what is desired. These algorithms might not be appropriate for all application domains. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an authorization policy language for controlling access to location information. It extends the Common Policy authorization framework to provide location-specific access control. More specifically, this document defines condition elements specific to location information in order to restrict access to data based on the current location of the Target.</t>
+      <t>Furthermore, this document defines two algorithms for reducing the granularity of returned location information. The first algorithm is defined for usage with civic location information, whereas the other one applies to geodetic location information. Both algorithms come with limitations. There are circumstances where the amount of location obfuscation provided is less than what is desired. These algorithms might not be appropriate for all application domains. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6772"/>
+  <seriesInfo name="RFC" value="6772"/>
 </reference>

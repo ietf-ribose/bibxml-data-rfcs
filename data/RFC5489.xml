@@ -1,15 +1,18 @@
 <reference anchor="RFC5489" target="https://www.rfc-editor.org/info/rfc5489">
   <front>
     <title>ECDHE_PSK Cipher Suites for Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5489"/>
-    <author fullname="M. Badra"/>
-    <author fullname="I. Hajjeh"/>
+    <author fullname="M. Badra" initials="M." surname="Badra">
+      <organization/>
+    </author>
+    <author fullname="I. Hajjeh" initials="I." surname="Hajjeh">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>tls</workgroup>
-    <keyword>pre-shared key</keyword>
-    <keyword> Diffie-Hellman</keyword>
-    <keyword>Key Exchange</keyword>
-    <keyword>Elliptic Curve Cryptography</keyword>
-    <abstract>This document extends RFC 4279, RFC 4492, and RFC 4785 and specifies a set of cipher suites that use a pre-shared key (PSK) to authenticate an Elliptic Curve Diffie-Hellman exchange with Ephemeral keys (ECDHE).  These cipher suites provide Perfect Forward Secrecy (PFS).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document extends RFC 4279, RFC 4492, and RFC 4785 and specifies a set of cipher suites that use a pre-shared key (PSK) to authenticate an Elliptic Curve Diffie-Hellman exchange with Ephemeral keys (ECDHE).  These cipher suites provide Perfect Forward Secrecy (PFS).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5489"/>
+  <seriesInfo name="RFC" value="5489"/>
 </reference>

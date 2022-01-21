@@ -1,12 +1,21 @@
 <reference anchor="RFC6728" target="https://www.rfc-editor.org/info/rfc6728">
   <front>
     <title>Configuration Data Model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6728"/>
-    <author fullname="G. Muenz"/>
-    <author fullname="B. Claise"/>
-    <author fullname="P. Aitken"/>
+    <author fullname="G. Muenz" initials="G." surname="Muenz">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="P. Aitken" initials="P." surname="Aitken">
+      <organization/>
+    </author>
     <date year="2012" month="October"/>
     <workgroup>ipfix</workgroup>
-    <abstract>This document specifies a data model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) protocols.  It is for configuring and monitoring Selection Processes, Caches, Exporting Processes, and Collecting Processes of IPFIX- and PSAMP-compliant Monitoring Devices using the Network Configuration Protocol (NETCONF).  The data model is defined using UML (Unified Modeling Language) class diagrams and formally specified using YANG.  The configuration data is encoded in Extensible Markup Language (XML). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a data model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) protocols.  It is for configuring and monitoring Selection Processes, Caches, Exporting Processes, and Collecting Processes of IPFIX- and PSAMP-compliant Monitoring Devices using the Network Configuration Protocol (NETCONF).  The data model is defined using UML (Unified Modeling Language) class diagrams and formally specified using YANG.  The configuration data is encoded in Extensible Markup Language (XML). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6728"/>
+  <seriesInfo name="RFC" value="6728"/>
 </reference>

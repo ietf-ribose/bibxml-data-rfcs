@@ -1,20 +1,27 @@
 <reference anchor="RFC3832" target="https://www.rfc-editor.org/info/rfc3832">
   <front>
     <title>Remote Service Discovery in the Service Location Protocol (SLP) via DNS SRV</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3832"/>
-    <author fullname="W. Zhao"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="E. Guttman"/>
-    <author fullname="C. Bisdikian"/>
-    <author fullname="W. Jerome"/>
+    <author fullname="W. Zhao" initials="W." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="E. Guttman" initials="E." surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="C. Bisdikian" initials="C." surname="Bisdikian">
+      <organization/>
+    </author>
+    <author fullname="W. Jerome" initials="W." surname="Jerome">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>DNS-SRV</keyword>
-    <keyword>domain</keyword>
-    <keyword>name</keyword>
-    <keyword>system</keyword>
-    <keyword>resource</keyword>
-    <keyword>record</keyword>
-    <abstract>Remote service discovery refers to discovering desired services in given remote (i.e., non-local) DNS domains.  This document describes remote service discovery in the Service Location Protocol (SLP) via DNS SRV.  It defines the DNS SRV Resource Records for SLP Directory Agent services, discusses various issues in using SLP and DNS SRV together for remote service discovery, and gives the steps for discovering desired services in remote DNS domains.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Remote service discovery refers to discovering desired services in given remote (i.e., non-local) DNS domains.  This document describes remote service discovery in the Service Location Protocol (SLP) via DNS SRV.  It defines the DNS SRV Resource Records for SLP Directory Agent services, discusses various issues in using SLP and DNS SRV together for remote service discovery, and gives the steps for discovering desired services in remote DNS domains.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3832"/>
+  <seriesInfo name="RFC" value="3832"/>
 </reference>

@@ -1,14 +1,20 @@
 <reference anchor="RFC4503" target="https://www.rfc-editor.org/info/rfc4503">
   <front>
     <title>A Description of the Rabbit Stream Cipher Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4503"/>
-    <author fullname="M. Boesgaard"/>
-    <author fullname="M. Vesterager"/>
-    <author fullname="E. Zenner"/>
+    <author fullname="M. Boesgaard" initials="M." surname="Boesgaard">
+      <organization/>
+    </author>
+    <author fullname="M. Vesterager" initials="M." surname="Vesterager">
+      <organization/>
+    </author>
+    <author fullname="E. Zenner" initials="E." surname="Zenner">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
-    <keyword>iv</keyword>
-    <keyword>initialization vector</keyword>
-    <keyword>encryption algorithm</keyword>
-    <abstract>This document describes the encryption algorithm Rabbit.  It is a stream cipher algorithm with a 128-bit key and 64-bit initialization vector (IV).  The method was published in 2003 and has been subject to public security and performance revision.  Its high performance makes it particularly suited for the use with Internet protocols where large amounts of data have to be processed.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the encryption algorithm Rabbit.  It is a stream cipher algorithm with a 128-bit key and 64-bit initialization vector (IV).  The method was published in 2003 and has been subject to public security and performance revision.  Its high performance makes it particularly suited for the use with Internet protocols where large amounts of data have to be processed.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4503"/>
+  <seriesInfo name="RFC" value="4503"/>
 </reference>

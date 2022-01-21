@@ -1,16 +1,18 @@
 <reference anchor="RFC2472" target="https://www.rfc-editor.org/info/rfc2472">
   <front>
     <title>IP Version 6 over PPP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2472"/>
-    <author fullname="D. Haskin"/>
-    <author fullname="E. Allen"/>
+    <author fullname="D. Haskin" initials="D." surname="Haskin">
+      <organization/>
+    </author>
+    <author fullname="E. Allen" initials="E." surname="Allen">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>IPv6-PPP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>ipv6</keyword>
-    <abstract>This document defines the method for transmission of IP Version 6 packets over PPP links as well as the Network Control Protocol (NCP) for establishing and configuring the IPv6 over PPP.  It also specifies the method of forming IPv6 link-local addresses on PPP links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the method for transmission of IP Version 6 packets over PPP links as well as the Network Control Protocol (NCP) for establishing and configuring the IPv6 over PPP.  It also specifies the method of forming IPv6 link-local addresses on PPP links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2472"/>
+  <seriesInfo name="RFC" value="2472"/>
 </reference>

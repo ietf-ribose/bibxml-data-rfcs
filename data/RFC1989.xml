@@ -1,13 +1,15 @@
 <reference anchor="RFC1989" target="https://www.rfc-editor.org/info/rfc1989">
   <front>
     <title>PPP Link Quality Monitoring</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1989"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-LINK</keyword>
-    <keyword>Point-to-Point</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document defines a protocol for generating Link-Quality-Reports. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a protocol for generating Link-Quality-Reports. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1989"/>
+  <seriesInfo name="RFC" value="1989"/>
 </reference>

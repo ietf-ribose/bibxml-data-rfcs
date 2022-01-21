@@ -1,15 +1,24 @@
 <reference anchor="RFC4067" target="https://www.rfc-editor.org/info/rfc4067">
   <front>
     <title>Context Transfer Protocol (CXTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4067"/>
-    <author fullname="J. Loughney"/>
-    <author fullname="M. Nakhjiri"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="R. Koodli"/>
+    <author fullname="J. Loughney" initials="J." surname="Loughney">
+      <organization/>
+    </author>
+    <author fullname="M. Nakhjiri" initials="M." surname="Nakhjiri">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="R. Koodli" initials="R." surname="Koodli">
+      <organization/>
+    </author>
     <date year="2005" month="July"/>
     <workgroup>seamoby</workgroup>
-    <keyword>mobile node</keyword>
-    <keyword>mn</keyword>
-    <abstract>This document presents the Context Transfer Protocol (CXTP) that enables authorized context transfers.  Context transfers allow better support for node based mobility so that the applications running on mobile nodes can operate with minimal disruption.  Key objectives are to reduce latency and packet losses, and to avoid the re-initiation of signaling to and from the mobile node.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document presents the Context Transfer Protocol (CXTP) that enables authorized context transfers.  Context transfers allow better support for node based mobility so that the applications running on mobile nodes can operate with minimal disruption.  Key objectives are to reduce latency and packet losses, and to avoid the re-initiation of signaling to and from the mobile node.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4067"/>
+  <seriesInfo name="RFC" value="4067"/>
 </reference>

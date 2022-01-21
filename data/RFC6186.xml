@@ -1,15 +1,15 @@
 <reference anchor="RFC6186" target="https://www.rfc-editor.org/info/rfc6186">
   <front>
     <title>Use of SRV Records for Locating Email Submission/Access Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6186"/>
-    <author fullname="C. Daboo"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>imap</keyword>
-    <keyword>pop3</keyword>
-    <keyword>smtp</keyword>
-    <keyword>dns</keyword>
-    <keyword>discovery</keyword>
-    <abstract>This specification describes how SRV records can be used to locate email services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification describes how SRV records can be used to locate email services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6186"/>
+  <seriesInfo name="RFC" value="6186"/>
 </reference>

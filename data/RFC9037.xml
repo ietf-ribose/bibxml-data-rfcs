@@ -1,15 +1,24 @@
 <reference anchor="RFC9037" target="https://www.rfc-editor.org/info/rfc9037">
   <front>
     <title>Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9037"/>
-    <author fullname="B. Varga"/>
-    <author fullname="J. Farkas"/>
-    <author fullname="A. Malis"/>
-    <author fullname="S. Bryant"/>
+    <author fullname="B. Varga" initials="B." surname="Varga">
+      <organization/>
+    </author>
+    <author fullname="J. Farkas" initials="J." surname="Farkas">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
     <date year="2021" month="June"/>
     <workgroup>detnet</workgroup>
-    <keyword>sub-network</keyword>
-    <keyword>flow mapping</keyword>
-    <abstract>This document specifies the Deterministic Networking (DetNet) MPLS data plane when operating over an IEEE 802.1 Time-Sensitive Networking (TSN) sub-network.  This document does not define new procedures or processes.  Whenever this document makes statements or recommendations, they are taken from normative text in the referenced RFCs.</abstract>
+    <abstract>
+      <t>This document specifies the Deterministic Networking (DetNet) MPLS data plane when operating over an IEEE 802.1 Time-Sensitive Networking (TSN) sub-network.  This document does not define new procedures or processes.  Whenever this document makes statements or recommendations, they are taken from normative text in the referenced RFCs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9037"/>
+  <seriesInfo name="RFC" value="9037"/>
 </reference>

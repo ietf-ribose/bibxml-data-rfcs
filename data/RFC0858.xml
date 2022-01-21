@@ -1,11 +1,18 @@
 <reference anchor="RFC0858" target="https://www.rfc-editor.org/info/rfc858">
   <front>
     <title>Telnet Suppress Go Ahead Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0858"/>
-    <author fullname="J. Postel"/>
-    <author fullname="J. Reynolds"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1983" month="May"/>
-    <keyword>TOPT-SUPP</keyword>
-    <abstract>This Telnet Option disables the exchange of go-ahead signals between the Telnet modules.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 15392.</abstract>
+    <abstract>
+      <t>This Telnet Option disables the exchange of go-ahead signals between the Telnet modules.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 15392.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0858"/>
+  <seriesInfo name="STD" value="29"/>
+  <seriesInfo name="RFC" value="858"/>
 </reference>

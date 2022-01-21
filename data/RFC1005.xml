@@ -1,10 +1,17 @@
 <reference anchor="RFC1005" target="https://www.rfc-editor.org/info/rfc1005">
   <front>
     <title>ARPANET AHIP-E Host Access Protocol (enhanced AHIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1005"/>
-    <author fullname="A. Khanna"/>
-    <author fullname="A.G. Malis"/>
+    <author fullname="A. Khanna" initials="A." surname="Khanna">
+      <organization/>
+    </author>
+    <author fullname="A.G. Malis" initials="A.G." surname="Malis">
+      <organization/>
+    </author>
     <date year="1987" month="May"/>
-    <abstract>This RFC is a proposed specification for the encoding of Class A IP addresses for use on ARPANET-style networks such as the Milnet and Arpanet, and for enhancements to the ARPANET AHIP Host Access Protocol (AHIP; formerly known as 1822).  These enhancements increase the size of the PSN field, allow ARPANET hosts to use logical names to address each other, allow for the communication of type-of-service information from the host to the PSN and enable the PSN to provide congestion feedback to the host on a connection basis.</abstract>
+    <abstract>
+      <t>This RFC is a proposed specification for the encoding of Class A IP addresses for use on ARPANET-style networks such as the Milnet and Arpanet, and for enhancements to the ARPANET AHIP Host Access Protocol (AHIP; formerly known as 1822).  These enhancements increase the size of the PSN field, allow ARPANET hosts to use logical names to address each other, allow for the communication of type-of-service information from the host to the PSN and enable the PSN to provide congestion feedback to the host on a connection basis.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1005"/>
+  <seriesInfo name="RFC" value="1005"/>
 </reference>

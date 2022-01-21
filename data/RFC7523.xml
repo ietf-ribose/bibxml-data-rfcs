@@ -1,17 +1,21 @@
 <reference anchor="RFC7523" target="https://www.rfc-editor.org/info/rfc7523">
   <front>
     <title>JSON Web Token (JWT) Profile for OAuth 2.0 Client Authentication and Authorization Grants</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7523"/>
-    <author fullname="M. Jones"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="C. Mortimore"/>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="C. Mortimore" initials="C." surname="Mortimore">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>oauth</workgroup>
-    <keyword>OAuth</keyword>
-    <keyword>JWT</keyword>
-    <keyword>Assertion</keyword>
-    <keyword>Token</keyword>
-    <keyword>Security Token</keyword>
-    <abstract>This specification defines the use of a JSON Web Token (JWT) Bearer Token as a means for requesting an OAuth 2.0 access token as well as for client authentication.</abstract>
+    <abstract>
+      <t>This specification defines the use of a JSON Web Token (JWT) Bearer Token as a means for requesting an OAuth 2.0 access token as well as for client authentication.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7523"/>
+  <seriesInfo name="RFC" value="7523"/>
 </reference>

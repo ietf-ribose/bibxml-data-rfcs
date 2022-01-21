@@ -1,19 +1,27 @@
 <reference anchor="RFC9135" target="https://www.rfc-editor.org/info/rfc9135">
   <front>
     <title>Integrated Routing and Bridging in Ethernet VPN (EVPN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9135"/>
-    <author fullname="A. Sajassi"/>
-    <author fullname="S. Salam"/>
-    <author fullname="S. Thoria"/>
-    <author fullname="J. Drake"/>
-    <author fullname="J. Rabadan"/>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="S. Thoria" initials="S." surname="Thoria">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
     <date year="2021" month="October"/>
     <workgroup>bess</workgroup>
-    <keyword>IRB</keyword>
-    <keyword>inter-subnet-forwarding</keyword>
-    <keyword>symmetric</keyword>
-    <keyword>asymmetric</keyword>
-    <keyword>mobility</keyword>
-    <abstract>Ethernet VPN (EVPN) provides an extensible and flexible multihoming VPN solution over an MPLS/IP network for intra-subnet connectivity among Tenant Systems and end devices that can be physical or virtual.  However, there are scenarios for which there is a need for a dynamic and efficient inter-subnet connectivity among these Tenant Systems and end devices while maintaining the multihoming capabilities of EVPN.  This document describes an Integrated Routing and Bridging (IRB) solution based on EVPN to address such requirements.</abstract>
+    <abstract>
+      <t>Ethernet VPN (EVPN) provides an extensible and flexible multihoming VPN solution over an MPLS/IP network for intra-subnet connectivity among Tenant Systems and end devices that can be physical or virtual.  However, there are scenarios for which there is a need for a dynamic and efficient inter-subnet connectivity among these Tenant Systems and end devices while maintaining the multihoming capabilities of EVPN.  This document describes an Integrated Routing and Bridging (IRB) solution based on EVPN to address such requirements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9135"/>
+  <seriesInfo name="RFC" value="9135"/>
 </reference>

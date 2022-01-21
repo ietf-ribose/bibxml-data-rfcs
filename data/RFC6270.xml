@@ -1,14 +1,15 @@
 <reference anchor="RFC6270" target="https://www.rfc-editor.org/info/rfc6270">
   <front>
     <title>The 'tn3270' URI Scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6270"/>
-    <author fullname="M. Yevstifeyev"/>
+    <author fullname="M. Yevstifeyev" initials="M." surname="Yevstifeyev">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>URI</keyword>
-    <keyword>Telnet</keyword>
-    <keyword>Telnet 3270</keyword>
-    <keyword>TN3270</keyword>
-    <abstract>This document is the specification of the 'tn3270' Uniform Resource Identifier (URI) scheme, which is used to designate the access to the resources available via Telnet 3270 mode (TN3270) and Telnet 3270 Enhanced mode (TN3270E).  It updates RFC 1041 and RFC 2355, which specify these protocols, and RFC 1738, which firstly mentioned this URI scheme without defining its syntax and semantics. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is the specification of the 'tn3270' Uniform Resource Identifier (URI) scheme, which is used to designate the access to the resources available via Telnet 3270 mode (TN3270) and Telnet 3270 Enhanced mode (TN3270E).  It updates RFC 1041 and RFC 2355, which specify these protocols, and RFC 1738, which firstly mentioned this URI scheme without defining its syntax and semantics. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6270"/>
+  <seriesInfo name="RFC" value="6270"/>
 </reference>

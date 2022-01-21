@@ -1,16 +1,18 @@
 <reference anchor="RFC9035" target="https://www.rfc-editor.org/info/rfc9035">
   <front>
     <title>A Routing Protocol for Low-Power and Lossy Networks (RPL) Destination-Oriented Directed Acyclic Graph (DODAG) Configuration Option for the 6LoWPAN Routing Header</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9035"/>
-    <author fullname="P. Thubert"/>
-    <author fullname="L. Zhao"/>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
+    <author fullname="L. Zhao" initials="L." surname="Zhao">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>roll</workgroup>
-    <keyword>IoT</keyword>
-    <keyword>Header Compression</keyword>
-    <keyword>Source Routing Header</keyword>
-    <keyword>Hop-by-Hop Header</keyword>
-    <keyword>RPL artifacts</keyword>
-    <abstract>This document updates RFC 8138 by defining a bit in the Routing Protocol for Low-Power and Lossy Networks (RPL) Destination-Oriented Directed Acyclic Graph (DODAG) Configuration option to indicate whether compression is used within the RPL Instance and to specify the behavior of nodes compliant with RFC 8138 when the bit is set and unset.</abstract>
+    <abstract>
+      <t>This document updates RFC 8138 by defining a bit in the Routing Protocol for Low-Power and Lossy Networks (RPL) Destination-Oriented Directed Acyclic Graph (DODAG) Configuration option to indicate whether compression is used within the RPL Instance and to specify the behavior of nodes compliant with RFC 8138 when the bit is set and unset.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9035"/>
+  <seriesInfo name="RFC" value="9035"/>
 </reference>

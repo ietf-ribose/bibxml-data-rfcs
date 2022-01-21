@@ -1,13 +1,15 @@
 <reference anchor="RFC6014" target="https://www.rfc-editor.org/info/rfc6014">
   <front>
     <title>Cryptographic Algorithm Identifier Allocation for DNSSEC</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6014"/>
-    <author fullname="P. Hoffman"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
     <date year="2010" month="November"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>digital signatures</keyword>
-    <keyword>algorithms</keyword>
-    <abstract>This document specifies how DNSSEC cryptographic algorithm identifiers in the IANA registries are allocated.  It changes the requirement from "standard required" to "RFC Required".  It does not change the list of algorithms that are recommended or required for DNSSEC implementations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how DNSSEC cryptographic algorithm identifiers in the IANA registries are allocated.  It changes the requirement from "standard required" to "RFC Required".  It does not change the list of algorithms that are recommended or required for DNSSEC implementations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6014"/>
+  <seriesInfo name="RFC" value="6014"/>
 </reference>

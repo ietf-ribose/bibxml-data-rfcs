@@ -1,27 +1,21 @@
 <reference anchor="RFC1829" target="https://www.rfc-editor.org/info/rfc1829">
   <front>
     <title>The ESP DES-CBC Transform</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1829"/>
-    <author fullname="P. Karn"/>
-    <author fullname="P. Metzger"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="P. Karn" initials="P." surname="Karn">
+      <organization/>
+    </author>
+    <author fullname="P. Metzger" initials="P." surname="Metzger">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
     <workgroup>ipsec</workgroup>
-    <keyword>Encapsulating</keyword>
-    <keyword>Security</keyword>
-    <keyword>Payload</keyword>
-    <keyword>US</keyword>
-    <keyword>Data</keyword>
-    <keyword>Encryption</keyword>
-    <keyword>Standard</keyword>
-    <keyword>Cipher</keyword>
-    <keyword>Block</keyword>
-    <keyword>Chaining</keyword>
-    <keyword>IP</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Security</keyword>
-    <keyword>ipsec</keyword>
-    <abstract>This document describes the DES-CBC security transform for the IP Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the DES-CBC security transform for the IP Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1829"/>
+  <seriesInfo name="RFC" value="1829"/>
 </reference>

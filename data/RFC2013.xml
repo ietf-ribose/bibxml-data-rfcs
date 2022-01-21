@@ -1,17 +1,15 @@
 <reference anchor="RFC2013" target="https://www.rfc-editor.org/info/rfc2013">
   <front>
     <title>SNMPv2 Management Information Base for the User Datagram Protocol using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2013"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>MIB-UDP]</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MIB</keyword>
-    <keyword>UDP</keyword>
-    <abstract>This document is the MIB module which defines managed objects for managing implementations of the User Datagram Protocol (UDP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is the MIB module which defines managed objects for managing implementations of the User Datagram Protocol (UDP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2013"/>
+  <seriesInfo name="RFC" value="2013"/>
 </reference>

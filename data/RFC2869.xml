@@ -1,18 +1,21 @@
 <reference anchor="RFC2869" target="https://www.rfc-editor.org/info/rfc2869">
   <front>
     <title>RADIUS Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2869"/>
-    <author fullname="C. Rigney"/>
-    <author fullname="W. Willats"/>
-    <author fullname="P. Calhoun"/>
+    <author fullname="C. Rigney" initials="C." surname="Rigney">
+      <organization/>
+    </author>
+    <author fullname="W. Willats" initials="W." surname="Willats">
+      <organization/>
+    </author>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>radius</workgroup>
-    <keyword>RADIUS</keyword>
-    <keyword>encryption</keyword>
-    <keyword>NAS</keyword>
-    <keyword>Network</keyword>
-    <keyword>Access</keyword>
-    <keyword>Server</keyword>
-    <abstract>This document describes additional attributes for carrying authentication, authorization and accounting information between a Network Access Server (NAS) and a shared Accounting Server using the Remote Authentication Dial In User Service (RADIUS) protocol described in RFC 2865 and RFC 2866.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes additional attributes for carrying authentication, authorization and accounting information between a Network Access Server (NAS) and a shared Accounting Server using the Remote Authentication Dial In User Service (RADIUS) protocol described in RFC 2865 and RFC 2866.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2869"/>
+  <seriesInfo name="RFC" value="2869"/>
 </reference>

@@ -1,11 +1,18 @@
 <reference anchor="RFC3952" target="https://www.rfc-editor.org/info/rfc3952">
   <front>
     <title>Real-time Transport Protocol (RTP) Payload Format for internet Low Bit Rate Codec (iLBC) Speech</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3952"/>
-    <author fullname="A. Duric"/>
-    <author fullname="S. Andersen"/>
+    <author fullname="A. Duric" initials="A." surname="Duric">
+      <organization/>
+    </author>
+    <author fullname="S. Andersen" initials="S." surname="Andersen">
+      <organization/>
+    </author>
     <date year="2004" month="December"/>
     <workgroup>avt</workgroup>
-    <abstract>This document describes the Real-time Transport Protocol (RTP) payload format for the internet Low Bit Rate Codec (iLBC) Speech developed by Global IP Sound (GIPS).  Also, within the document there are included necessary details for the use of iLBC with MIME and Session Description Protocol (SDP).  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the Real-time Transport Protocol (RTP) payload format for the internet Low Bit Rate Codec (iLBC) Speech developed by Global IP Sound (GIPS).  Also, within the document there are included necessary details for the use of iLBC with MIME and Session Description Protocol (SDP).  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3952"/>
+  <seriesInfo name="RFC" value="3952"/>
 </reference>

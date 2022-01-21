@@ -1,13 +1,23 @@
 <reference anchor="RFC1519" target="https://www.rfc-editor.org/info/rfc1519">
   <front>
     <title>Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1519"/>
-    <author fullname="V. Fuller"/>
-    <author fullname="T. Li"/>
-    <author fullname="J. Yu"/>
-    <author fullname="K. Varadhan"/>
+    <author fullname="V. Fuller" initials="V." surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="J. Yu" initials="J." surname="Yu">
+      <organization/>
+    </author>
+    <author fullname="K. Varadhan" initials="K." surname="Varadhan">
+      <organization/>
+    </author>
     <date year="1993" month="September"/>
-    <keyword>CIDR-STRA]</keyword>
-    <abstract>This memo discusses strategies for address assignment of the existing IP address space with a view to conserve the address space and stem the explosive growth of routing tables in default-route-free routers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo discusses strategies for address assignment of the existing IP address space with a view to conserve the address space and stem the explosive growth of routing tables in default-route-free routers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1519"/>
+  <seriesInfo name="RFC" value="1519"/>
 </reference>

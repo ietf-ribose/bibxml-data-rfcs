@@ -1,14 +1,15 @@
 <reference anchor="RFC8197" target="https://www.rfc-editor.org/info/rfc8197">
   <front>
     <title>A SIP Response Code for Unwanted Calls</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8197"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2017" month="July"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>robocall</keyword>
-    <keyword>unwanted</keyword>
-    <keyword>response code</keyword>
-    <abstract>This document defines the 607 (Unwanted) SIP response code, allowing called parties to indicate that the call or message was unwanted.  SIP entities may use this information to adjust how future calls from this calling party are handled for the called party or more broadly.</abstract>
+    <abstract>
+      <t>This document defines the 607 (Unwanted) SIP response code, allowing called parties to indicate that the call or message was unwanted.  SIP entities may use this information to adjust how future calls from this calling party are handled for the called party or more broadly.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8197"/>
+  <seriesInfo name="RFC" value="8197"/>
 </reference>

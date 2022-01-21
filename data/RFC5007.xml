@@ -1,16 +1,24 @@
 <reference anchor="RFC5007" target="https://www.rfc-editor.org/info/rfc5007">
   <front>
     <title>DHCPv6 Leasequery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5007"/>
-    <author fullname="J. Brzozowski"/>
-    <author fullname="K. Kinnear"/>
-    <author fullname="B. Volz"/>
-    <author fullname="S. Zeng"/>
+    <author fullname="J. Brzozowski" initials="J." surname="Brzozowski">
+      <organization/>
+    </author>
+    <author fullname="K. Kinnear" initials="K." surname="Kinnear">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
+    <author fullname="S. Zeng" initials="S." surname="Zeng">
+      <organization/>
+    </author>
     <date year="2007" month="September"/>
     <workgroup>dhc</workgroup>
-    <keyword>dhc</keyword>
-    <keyword>dhcp</keyword>
-    <keyword>ipv6</keyword>
-    <abstract>This document specifies a leasequery exchange for the Dynamic Host Configuration Protocol for IPv6 (DHCPv6) that can be used to obtain lease information about DHCPv6 clients from a DHCPv6 server.  This document specifies the scope of data that can be retrieved as well as both DHCPv6 leasequery requestor and server behavior.  This document extends DHCPv6. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a leasequery exchange for the Dynamic Host Configuration Protocol for IPv6 (DHCPv6) that can be used to obtain lease information about DHCPv6 clients from a DHCPv6 server.  This document specifies the scope of data that can be retrieved as well as both DHCPv6 leasequery requestor and server behavior.  This document extends DHCPv6. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5007"/>
+  <seriesInfo name="RFC" value="5007"/>
 </reference>

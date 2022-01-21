@@ -1,15 +1,15 @@
 <reference anchor="RFC1628" target="https://www.rfc-editor.org/info/rfc1628">
   <front>
     <title>UPS Management Information Base</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1628"/>
-    <author fullname="J. Case"/>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
     <workgroup>upsmib</workgroup>
-    <keyword>UPS-MIB</keyword>
-    <keyword>Uninterruptible</keyword>
-    <keyword>Power</keyword>
-    <keyword>Supply</keyword>
-    <keyword>MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing uninterruptible power supply (UPS) systems. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing uninterruptible power supply (UPS) systems. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1628"/>
+  <seriesInfo name="RFC" value="1628"/>
 </reference>

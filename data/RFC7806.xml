@@ -1,11 +1,18 @@
 <reference anchor="RFC7806" target="https://www.rfc-editor.org/info/rfc7806">
   <front>
     <title>On Queuing, Marking, and Dropping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7806"/>
-    <author fullname="F. Baker"/>
-    <author fullname="R. Pan"/>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="R. Pan" initials="R." surname="Pan">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>aqm</workgroup>
-    <abstract>This note discusses queuing and marking/dropping algorithms.  While these algorithms may be implemented in a coupled manner, this note argues that specifications, measurements, and comparisons should decouple the different algorithms and their contributions to system behavior.</abstract>
+    <abstract>
+      <t>This note discusses queuing and marking/dropping algorithms.  While these algorithms may be implemented in a coupled manner, this note argues that specifications, measurements, and comparisons should decouple the different algorithms and their contributions to system behavior.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7806"/>
+  <seriesInfo name="RFC" value="7806"/>
 </reference>

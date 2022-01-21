@@ -1,13 +1,14 @@
 <reference anchor="RFC2142" target="https://www.rfc-editor.org/info/rfc2142">
   <front>
     <title>Mailbox Names for Common Services, Roles and Functions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2142"/>
-    <author fullname="D. Crocker"/>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
     <date year="1997" month="May"/>
-    <keyword>MAIL-SERV</keyword>
-    <keyword>email</keyword>
-    <keyword>internet</keyword>
-    <keyword>addresses</keyword>
-    <abstract>This specification enumerates and describes Internet mail addresses (mailbox name @ host reference) to be used when contacting personnel at an organization. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification enumerates and describes Internet mail addresses (mailbox name @ host reference) to be used when contacting personnel at an organization. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2142"/>
+  <seriesInfo name="RFC" value="2142"/>
 </reference>

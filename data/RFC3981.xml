@@ -1,11 +1,18 @@
 <reference anchor="RFC3981" target="https://www.rfc-editor.org/info/rfc3981">
   <front>
     <title>IRIS: The Internet Registry Information Service (IRIS) Core Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3981"/>
-    <author fullname="A. Newton"/>
-    <author fullname="M. Sanz"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
+    <author fullname="M. Sanz" initials="M." surname="Sanz">
+      <organization/>
+    </author>
     <date year="2005" month="January"/>
     <workgroup>crisp</workgroup>
-    <abstract>This document describes an application layer client-server protocol for a framework to represent the query and result operations of the information services of Internet registries.  Specified in the Extensible Markup Language (XML), the protocol defines generic query and result operations and a mechanism for extending these operations for specific registry service needs. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an application layer client-server protocol for a framework to represent the query and result operations of the information services of Internet registries.  Specified in the Extensible Markup Language (XML), the protocol defines generic query and result operations and a mechanism for extending these operations for specific registry service needs. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3981"/>
+  <seriesInfo name="RFC" value="3981"/>
 </reference>

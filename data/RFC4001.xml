@@ -1,16 +1,24 @@
 <reference anchor="RFC4001" target="https://www.rfc-editor.org/info/rfc4001">
   <front>
     <title>Textual Conventions for Internet Network Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4001"/>
-    <author fullname="M. Daniele"/>
-    <author fullname="B. Haberman"/>
-    <author fullname="S. Routhier"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="M. Daniele" initials="M." surname="Daniele">
+      <organization/>
+    </author>
+    <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
+    <author fullname="S. Routhier" initials="S." surname="Routhier">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>management information base</keyword>
-    <keyword>internet network layer addressing information</keyword>
-    <abstract>This MIB module defines textual conventions to represent commonly used Internet network layer addressing information.  The intent is that these textual conventions will be imported and used in MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This MIB module defines textual conventions to represent commonly used Internet network layer addressing information.  The intent is that these textual conventions will be imported and used in MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4001"/>
+  <seriesInfo name="RFC" value="4001"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC5528" target="https://www.rfc-editor.org/info/rfc5528">
   <front>
     <title>Camellia Counter Mode and Camellia Counter with CBC-MAC Mode Algorithms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5528"/>
-    <author fullname="A. Kato"/>
-    <author fullname="M. Kanda"/>
-    <author fullname="S. Kanno"/>
+    <author fullname="A. Kato" initials="A." surname="Kato">
+      <organization/>
+    </author>
+    <author fullname="M. Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
+    <author fullname="S. Kanno" initials="S." surname="Kanno">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Camellia</keyword>
-    <keyword>Block Cipher</keyword>
-    <keyword>Mode of operation</keyword>
-    <abstract>This document describes the algorithms and presents test vectors for the Camellia block cipher algorithm in Counter mode (CTR) and Counter with Cipher Block Chaining MAC mode (CCM).  The purpose of this document is to make the Camellia-CTR and Camellia-CCM algorithm conveniently available to the Internet Community.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the algorithms and presents test vectors for the Camellia block cipher algorithm in Counter mode (CTR) and Counter with Cipher Block Chaining MAC mode (CCM).  The purpose of this document is to make the Camellia-CTR and Camellia-CCM algorithm conveniently available to the Internet Community.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5528"/>
+  <seriesInfo name="RFC" value="5528"/>
 </reference>

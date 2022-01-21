@@ -1,13 +1,18 @@
 <reference anchor="RFC2389" target="https://www.rfc-editor.org/info/rfc2389">
   <front>
     <title>Feature negotiation mechanism for the File Transfer Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2389"/>
-    <author fullname="P. Hethmon"/>
-    <author fullname="R. Elz"/>
+    <author fullname="P. Hethmon" initials="P." surname="Hethmon">
+      <organization/>
+    </author>
+    <author fullname="R. Elz" initials="R." surname="Elz">
+      <organization/>
+    </author>
     <date year="1998" month="August"/>
     <workgroup>ftpext</workgroup>
-    <keyword>FTP</keyword>
-    <keyword>catalogue</keyword>
-    <abstract>This document provides a mechanism by which clients of the FTP protocol can discover which new features are supported by a particular FTP server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document provides a mechanism by which clients of the FTP protocol can discover which new features are supported by a particular FTP server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2389"/>
+  <seriesInfo name="RFC" value="2389"/>
 </reference>

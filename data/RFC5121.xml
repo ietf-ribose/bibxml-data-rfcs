@@ -1,16 +1,27 @@
 <reference anchor="RFC5121" target="https://www.rfc-editor.org/info/rfc5121">
   <front>
     <title>Transmission of IPv6 via the IPv6 Convergence Sublayer over IEEE 802.16 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5121"/>
-    <author fullname="B. Patil"/>
-    <author fullname="F. Xia"/>
-    <author fullname="B. Sarikaya"/>
-    <author fullname="JH. Choi"/>
-    <author fullname="S. Madanapalli"/>
+    <author fullname="B. Patil" initials="B." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="F. Xia" initials="F." surname="Xia">
+      <organization/>
+    </author>
+    <author fullname="B. Sarikaya" initials="B." surname="Sarikaya">
+      <organization/>
+    </author>
+    <author fullname="JH. Choi" initials="JH." surname="Choi">
+      <organization/>
+    </author>
+    <author fullname="S. Madanapalli" initials="S." surname="Madanapalli">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>16ng</workgroup>
-    <keyword>Neighbor Discovery</keyword>
-    <keyword>Per-MS Perfix</keyword>
-    <abstract>IEEE Std 802.16 is an air interface specification for fixed and mobile Broadband Wireless Access Systems.  Service-specific convergence sublayers to which upper-layer protocols interface are a part of the IEEE 802.16 MAC (Medium Access Control).  The Packet convergence sublayer (CS) is used for the transport of all packet- based protocols such as Internet Protocol (IP) and IEEE 802.3 LAN/MAN CSMA/CD Access Method (Ethernet).  IPv6 packets can be sent and received via the IP-specific part of the Packet CS.  This document specifies the addressing and operation of IPv6 over the IP-specific part of the Packet CS for hosts served by a network that utilizes the IEEE Std 802.16 air interface.  It recommends the assignment of a unique prefix (or prefixes) to each host and allows the host to use multiple identifiers within that prefix, including support for randomly generated interface identifiers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>IEEE Std 802.16 is an air interface specification for fixed and mobile Broadband Wireless Access Systems.  Service-specific convergence sublayers to which upper-layer protocols interface are a part of the IEEE 802.16 MAC (Medium Access Control).  The Packet convergence sublayer (CS) is used for the transport of all packet- based protocols such as Internet Protocol (IP) and IEEE 802.3 LAN/MAN CSMA/CD Access Method (Ethernet).  IPv6 packets can be sent and received via the IP-specific part of the Packet CS.  This document specifies the addressing and operation of IPv6 over the IP-specific part of the Packet CS for hosts served by a network that utilizes the IEEE Std 802.16 air interface.  It recommends the assignment of a unique prefix (or prefixes) to each host and allows the host to use multiple identifiers within that prefix, including support for randomly generated interface identifiers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5121"/>
+  <seriesInfo name="RFC" value="5121"/>
 </reference>

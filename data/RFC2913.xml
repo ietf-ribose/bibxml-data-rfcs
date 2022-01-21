@@ -1,14 +1,15 @@
 <reference anchor="RFC2913" target="https://www.rfc-editor.org/info/rfc2913">
   <front>
     <title>MIME Content Types in Media Feature Expressions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2913"/>
-    <author fullname="G. Klyne"/>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>conneg</workgroup>
-    <keyword>multipurpose</keyword>
-    <keyword>mail extensions</keyword>
-    <keyword>tag</keyword>
-    <keyword>format</keyword>
-    <abstract>This memo defines a media feature tag whose value is a Multipurpose Internet Mail Extensions (MIME) content type. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a media feature tag whose value is a Multipurpose Internet Mail Extensions (MIME) content type. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2913"/>
+  <seriesInfo name="RFC" value="2913"/>
 </reference>

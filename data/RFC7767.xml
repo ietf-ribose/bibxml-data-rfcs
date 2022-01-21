@@ -1,21 +1,24 @@
 <reference anchor="RFC7767" target="https://www.rfc-editor.org/info/rfc7767">
   <front>
     <title>Application-Initiated Check-Pointing via the Port Control Protocol (PCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7767"/>
-    <author fullname="S. Vinapamula"/>
-    <author fullname="S. Sivakumar"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="T. Reddy"/>
+    <author fullname="S. Vinapamula" initials="S." surname="Vinapamula">
+      <organization/>
+    </author>
+    <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
-    <keyword>serviceability</keyword>
-    <keyword>SDN</keyword>
-    <keyword>resilience</keyword>
-    <keyword>robustness</keyword>
-    <keyword>network programmability</keyword>
-    <keyword>network API</keyword>
-    <keyword>application control</keyword>
-    <keyword>service-aware networking</keyword>
-    <keyword>automation</keyword>
-    <abstract>This document specifies a mechanism for a host to indicate via the Port Control Protocol (PCP) which connections should be protected against network failures. These connections will then be subject to high-availability mechanisms enabled on the network side. This approach assumes that applications and/or users have more visibility about sensitive connections than any heuristic that can be enabled on the network side to guess which connections should be check-pointed.</abstract>
+    <abstract>
+      <t>This document specifies a mechanism for a host to indicate via the Port Control Protocol (PCP) which connections should be protected against network failures. These connections will then be subject to high-availability mechanisms enabled on the network side.</t>
+      <t>This approach assumes that applications and/or users have more visibility about sensitive connections than any heuristic that can be enabled on the network side to guess which connections should be check-pointed.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7767"/>
+  <seriesInfo name="RFC" value="7767"/>
 </reference>

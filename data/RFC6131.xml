@@ -1,14 +1,18 @@
 <reference anchor="RFC6131" target="https://www.rfc-editor.org/info/rfc6131">
   <front>
     <title>Sieve Vacation Extension: "Seconds" Parameter</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6131"/>
-    <author fullname="R. George"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="R. George" initials="R." surname="George">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>sieve</workgroup>
-    <keyword>email</keyword>
-    <keyword>filters</keyword>
-    <keyword>auto-replies</keyword>
-    <abstract>This document describes a further extension to the Sieve Vacation extension, allowing multiple auto-replies to the same sender in a single day by adding a ":seconds" parameter. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a further extension to the Sieve Vacation extension, allowing multiple auto-replies to the same sender in a single day by adding a ":seconds" parameter. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6131"/>
+  <seriesInfo name="RFC" value="6131"/>
 </reference>

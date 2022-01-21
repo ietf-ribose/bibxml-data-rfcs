@@ -1,12 +1,18 @@
 <reference anchor="RFC5635" target="https://www.rfc-editor.org/info/rfc5635">
   <front>
     <title>Remote Triggered Black Hole Filtering with Unicast Reverse Path Forwarding (uRPF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5635"/>
-    <author fullname="W. Kumari"/>
-    <author fullname="D. McPherson"/>
+    <author fullname="W. Kumari" initials="W." surname="Kumari">
+      <organization/>
+    </author>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
     <date year="2009" month="August"/>
     <workgroup>opsec</workgroup>
-    <keyword>rtbh</keyword>
-    <abstract>Remote Triggered Black Hole (RTBH) filtering is a popular and effective technique for the mitigation of denial-of-service attacks.  This document expands upon destination-based RTBH filtering by outlining a method to enable filtering by source address as well.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Remote Triggered Black Hole (RTBH) filtering is a popular and effective technique for the mitigation of denial-of-service attacks.  This document expands upon destination-based RTBH filtering by outlining a method to enable filtering by source address as well.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5635"/>
+  <seriesInfo name="RFC" value="5635"/>
 </reference>

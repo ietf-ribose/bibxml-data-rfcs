@@ -1,20 +1,24 @@
 <reference anchor="RFC2133" target="https://www.rfc-editor.org/info/rfc2133">
   <front>
     <title>Basic Socket Interface Extensions for IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2133"/>
-    <author fullname="R. Gilligan"/>
-    <author fullname="S. Thomson"/>
-    <author fullname="J. Bound"/>
-    <author fullname="W. Stevens"/>
+    <author fullname="R. Gilligan" initials="R." surname="Gilligan">
+      <organization/>
+    </author>
+    <author fullname="S. Thomson" initials="S." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="J. Bound" initials="J." surname="Bound">
+      <organization/>
+    </author>
+    <author fullname="W. Stevens" initials="W." surname="Stevens">
+      <organization/>
+    </author>
     <date year="1997" month="April"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>application</keyword>
-    <keyword>program</keyword>
-    <keyword>interface</keyword>
-    <keyword>API</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>addresses</keyword>
-    <abstract>This memo defines a set of extensions to the socket interface to support the larger address size and new features of IPv6.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo defines a set of extensions to the socket interface to support the larger address size and new features of IPv6.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2133"/>
+  <seriesInfo name="RFC" value="2133"/>
 </reference>

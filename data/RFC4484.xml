@@ -1,14 +1,24 @@
 <reference anchor="RFC4484" target="https://www.rfc-editor.org/info/rfc4484">
   <front>
     <title>Trait-Based Authorization Requirements for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4484"/>
-    <author fullname="J. Peterson"/>
-    <author fullname="J. Polk"/>
-    <author fullname="D. Sicker"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="D. Sicker" initials="D." surname="Sicker">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>sipping</workgroup>
-    <keyword>policy decision</keyword>
-    <abstract>This document lays out a set of requirements related to trait-based authorization for the Session Initiation Protocol (SIP).  While some authentication mechanisms are described in the base SIP specification, trait-based authorization provides information used to make policy decisions based on the attributes of a participant in a session.  This approach provides a richer framework for authorization, as well as allows greater privacy for users of an identity system.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document lays out a set of requirements related to trait-based authorization for the Session Initiation Protocol (SIP).  While some authentication mechanisms are described in the base SIP specification, trait-based authorization provides information used to make policy decisions based on the attributes of a participant in a session.  This approach provides a richer framework for authorization, as well as allows greater privacy for users of an identity system.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4484"/>
+  <seriesInfo name="RFC" value="4484"/>
 </reference>

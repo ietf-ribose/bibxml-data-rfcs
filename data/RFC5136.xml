@@ -1,18 +1,18 @@
 <reference anchor="RFC5136" target="https://www.rfc-editor.org/info/rfc5136">
   <front>
     <title>Defining Network Capacity</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5136"/>
-    <author fullname="P. Chimento"/>
-    <author fullname="J. Ishac"/>
+    <author fullname="P. Chimento" initials="P." surname="Chimento">
+      <organization/>
+    </author>
+    <author fullname="J. Ishac" initials="J." surname="Ishac">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>ippm</workgroup>
-    <keyword>bandwidth</keyword>
-    <keyword>bandwidth estimation</keyword>
-    <keyword>capacity estimation</keyword>
-    <keyword>link capacity</keyword>
-    <keyword>available capacity</keyword>
-    <keyword>narrow link</keyword>
-    <keyword>tight link</keyword>
-    <abstract>Measuring capacity is a task that sounds simple, but in reality can be quite complex.  In addition, the lack of a unified nomenclature on this subject makes it increasingly difficult to properly build, test, and use techniques and tools built around these constructs.  This document provides definitions for the terms 'Capacity' and 'Available Capacity' related to IP traffic traveling between a source and destination in an IP network.  By doing so, we hope to provide a common framework for the discussion and analysis of a diverse set of current and future estimation techniques.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Measuring capacity is a task that sounds simple, but in reality can be quite complex.  In addition, the lack of a unified nomenclature on this subject makes it increasingly difficult to properly build, test, and use techniques and tools built around these constructs.  This document provides definitions for the terms 'Capacity' and 'Available Capacity' related to IP traffic traveling between a source and destination in an IP network.  By doing so, we hope to provide a common framework for the discussion and analysis of a diverse set of current and future estimation techniques.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5136"/>
+  <seriesInfo name="RFC" value="5136"/>
 </reference>

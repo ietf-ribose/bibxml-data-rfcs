@@ -1,16 +1,18 @@
 <reference anchor="RFC2233" target="https://www.rfc-editor.org/info/rfc2233">
   <front>
     <title>The Interfaces Group MIB using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2233"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="F. Kastenholz"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="F. Kastenholz" initials="F." surname="Kastenholz">
+      <organization/>
+    </author>
     <date year="1997" month="November"/>
     <workgroup>ifmib</workgroup>
-    <keyword>INTERGRMIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>Network</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Network Interfaces. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Network Interfaces. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2233"/>
+  <seriesInfo name="RFC" value="2233"/>
 </reference>

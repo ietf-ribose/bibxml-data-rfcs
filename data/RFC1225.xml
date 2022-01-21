@@ -1,9 +1,14 @@
 <reference anchor="RFC1225" target="https://www.rfc-editor.org/info/rfc1225">
   <front>
     <title>Post Office Protocol: Version 3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1225"/>
-    <author fullname="M.T. Rose"/>
+    <author fullname="M.T. Rose" initials="M.T." surname="Rose">
+      <organization/>
+    </author>
     <date year="1991" month="May"/>
-    <abstract>This memo suggests a simple method for workstations to dynamically access mail from a mailbox server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo suggests a simple method for workstations to dynamically access mail from a mailbox server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1225"/>
+  <seriesInfo name="RFC" value="1225"/>
 </reference>

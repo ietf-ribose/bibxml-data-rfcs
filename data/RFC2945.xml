@@ -1,13 +1,14 @@
 <reference anchor="RFC2945" target="https://www.rfc-editor.org/info/rfc2945">
   <front>
     <title>The SRP Authentication and Key Exchange System</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2945"/>
-    <author fullname="T. Wu"/>
+    <author fullname="T. Wu" initials="T." surname="Wu">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>secure</keyword>
-    <keyword>remote</keyword>
-    <keyword>password</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes a cryptographically strong network authentication mechanism known as the Secure Remote Password (SRP) protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a cryptographically strong network authentication mechanism known as the Secure Remote Password (SRP) protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2945"/>
+  <seriesInfo name="RFC" value="2945"/>
 </reference>

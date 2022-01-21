@@ -1,14 +1,18 @@
 <reference anchor="RFC6474" target="https://www.rfc-editor.org/info/rfc6474">
   <front>
     <title>vCard Format Extensions: Place of Birth, Place and Date of Death</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6474"/>
-    <author fullname="K. Li"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="K. Li" initials="K." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="2011" month="December"/>
     <workgroup>vcarddav</workgroup>
-    <keyword>contacts</keyword>
-    <keyword>address-book</keyword>
-    <keyword>personal-information</keyword>
-    <abstract>The base vCard 4.0 specification defines a large number of properties, including date of birth.  This specification adds three new properties to vCard 4.0: place of birth, place of death, and date of death. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The base vCard 4.0 specification defines a large number of properties, including date of birth.  This specification adds three new properties to vCard 4.0: place of birth, place of death, and date of death. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6474"/>
+  <seriesInfo name="RFC" value="6474"/>
 </reference>

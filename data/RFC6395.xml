@@ -1,11 +1,18 @@
 <reference anchor="RFC6395" target="https://www.rfc-editor.org/info/rfc6395">
   <front>
     <title>An Interface Identifier (ID) Hello Option for PIM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6395"/>
-    <author fullname="S. Gulrajani"/>
-    <author fullname="S. Venaas"/>
+    <author fullname="S. Gulrajani" initials="S." surname="Gulrajani">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
     <date year="2011" month="October"/>
     <workgroup>pim</workgroup>
-    <abstract>This document defines a new PIM Hello option to advertise an Interface Identifier that can be used by PIM protocols to uniquely identify an interface of a neighboring router. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new PIM Hello option to advertise an Interface Identifier that can be used by PIM protocols to uniquely identify an interface of a neighboring router. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6395"/>
+  <seriesInfo name="RFC" value="6395"/>
 </reference>

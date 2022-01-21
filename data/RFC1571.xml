@@ -1,10 +1,15 @@
 <reference anchor="RFC1571" target="https://www.rfc-editor.org/info/rfc1571">
   <front>
     <title>Telnet Environment Option Interoperability Issues</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1571"/>
-    <author fullname="D. Borman"/>
+    <author fullname="D. Borman" initials="D." surname="Borman">
+      <organization/>
+    </author>
     <date year="1994" month="January"/>
     <workgroup>telnet</workgroup>
-    <abstract>This document describes a method for allowing implementors to ensure that their implementation of the Environment option will be interoperable with as many other implementations as possible, by providing a set of heuristics that can be used to help identify which definitions for VAR and VALUE are being used by the other side of the connection.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes a method for allowing implementors to ensure that their implementation of the Environment option will be interoperable with as many other implementations as possible, by providing a set of heuristics that can be used to help identify which definitions for VAR and VALUE are being used by the other side of the connection.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1571"/>
+  <seriesInfo name="RFC" value="1571"/>
 </reference>

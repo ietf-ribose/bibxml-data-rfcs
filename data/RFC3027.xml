@@ -1,17 +1,18 @@
 <reference anchor="RFC3027" target="https://www.rfc-editor.org/info/rfc3027">
   <front>
     <title>Protocol Complications with the IP Network Address Translator</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3027"/>
-    <author fullname="M. Holdrege"/>
-    <author fullname="P. Srisuresh"/>
+    <author fullname="M. Holdrege" initials="M." surname="Holdrege">
+      <organization/>
+    </author>
+    <author fullname="P. Srisuresh" initials="P." surname="Srisuresh">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>nat</workgroup>
-    <keyword>IP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>network</keyword>
-    <keyword>address</keyword>
-    <keyword>translator</keyword>
-    <abstract>The purpose of this document is to identify the protocols and applications that break with NAT enroute.  The document also attempts to identify any known workarounds.  This document attempts to capture as much information as possible, but is by no means a comprehensive coverage.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The purpose of this document is to identify the protocols and applications that break with NAT enroute.  The document also attempts to identify any known workarounds.  This document attempts to capture as much information as possible, but is by no means a comprehensive coverage.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3027"/>
+  <seriesInfo name="RFC" value="3027"/>
 </reference>

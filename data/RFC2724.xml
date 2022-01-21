@@ -1,15 +1,24 @@
 <reference anchor="RFC2724" target="https://www.rfc-editor.org/info/rfc2724">
   <front>
     <title>RTFM: New Attributes for Traffic Flow Measurement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2724"/>
-    <author fullname="S. Handelman"/>
-    <author fullname="S. Stibler"/>
-    <author fullname="N. Brownlee"/>
-    <author fullname="G. Ruth"/>
+    <author fullname="S. Handelman" initials="S." surname="Handelman">
+      <organization/>
+    </author>
+    <author fullname="S. Stibler" initials="S." surname="Stibler">
+      <organization/>
+    </author>
+    <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+      <organization/>
+    </author>
+    <author fullname="G. Ruth" initials="G." surname="Ruth">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>rtfm</workgroup>
-    <keyword>real-time</keyword>
-    <keyword>network</keyword>
-    <abstract>This document discusses RTFM flows and the attributes which they can have, so as to provide a logical framework for extending the architecture by adding new attributes.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses RTFM flows and the attributes which they can have, so as to provide a logical framework for extending the architecture by adding new attributes.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2724"/>
+  <seriesInfo name="RFC" value="2724"/>
 </reference>

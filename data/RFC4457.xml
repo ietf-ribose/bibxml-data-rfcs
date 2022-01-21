@@ -1,16 +1,18 @@
 <reference anchor="RFC4457" target="https://www.rfc-editor.org/info/rfc4457">
   <front>
     <title>The Session Initiation Protocol (SIP) P-User-Database Private-Header (P-Header)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4457"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="G. Blanco"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="G. Blanco" initials="G." surname="Blanco">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>3gpp</keyword>
-    <keyword>third generation partnership project</keyword>
-    <keyword>3rd generation partnership project</keyword>
-    <keyword>ims</keyword>
-    <keyword>ip multimedia subsystem</keyword>
-    <abstract>This document specifies the Session Initiation Protocol (SIP) P-User-Database Private-Header (P-header).  This header field is used in the 3rd-Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) to provide SIP registrars and SIP proxy servers with the address of the database that contains the user profile of the user that generated a particular request.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies the Session Initiation Protocol (SIP) P-User-Database Private-Header (P-header).  This header field is used in the 3rd-Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) to provide SIP registrars and SIP proxy servers with the address of the database that contains the user profile of the user that generated a particular request.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4457"/>
+  <seriesInfo name="RFC" value="4457"/>
 </reference>

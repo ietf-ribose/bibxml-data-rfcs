@@ -1,18 +1,15 @@
 <reference anchor="RFC4825" target="https://www.rfc-editor.org/info/rfc4825">
   <front>
     <title>The Extensible Markup Language (XML) Configuration Access Protocol (XCAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4825"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>simple</workgroup>
-    <keyword>sip</keyword>
-    <keyword>xml</keyword>
-    <keyword>http</keyword>
-    <keyword>rest</keyword>
-    <keyword>buddy list</keyword>
-    <keyword>simple</keyword>
-    <keyword>presence</keyword>
-    <keyword>data manipulation</keyword>
-    <abstract>This specification defines the Extensible Markup Language (XML) Configuration Access Protocol (XCAP).  XCAP allows a client to read, write, and modify application configuration data stored in XML format on a server.  XCAP maps XML document sub-trees and element attributes to HTTP URIs, so that these components can be directly accessed by HTTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines the Extensible Markup Language (XML) Configuration Access Protocol (XCAP).  XCAP allows a client to read, write, and modify application configuration data stored in XML format on a server.  XCAP maps XML document sub-trees and element attributes to HTTP URIs, so that these components can be directly accessed by HTTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4825"/>
+  <seriesInfo name="RFC" value="4825"/>
 </reference>

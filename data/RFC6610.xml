@@ -1,14 +1,27 @@
 <reference anchor="RFC6610" target="https://www.rfc-editor.org/info/rfc6610">
   <front>
     <title>DHCP Options for Home Information Discovery in Mobile IPv6 (MIPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6610"/>
-    <author fullname="H. Jang"/>
-    <author fullname="A. Yegin"/>
-    <author fullname="K. Chowdhury"/>
-    <author fullname="J. Choi"/>
-    <author fullname="T. Lemon"/>
+    <author fullname="H. Jang" initials="H." surname="Jang">
+      <organization/>
+    </author>
+    <author fullname="A. Yegin" initials="A." surname="Yegin">
+      <organization/>
+    </author>
+    <author fullname="K. Chowdhury" initials="K." surname="Chowdhury">
+      <organization/>
+    </author>
+    <author fullname="J. Choi" initials="J." surname="Choi">
+      <organization/>
+    </author>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
     <date year="2012" month="May"/>
     <workgroup>mip6</workgroup>
-    <abstract>This document defines a DHCP-based scheme to enable dynamic discovery of Mobile IPv6 home network information.  New DHCP options are defined that allow a mobile node to request the home agent IP address, Fully Qualified Domain Name (FQDN), or home network prefix and obtain it via the DHCP response. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a DHCP-based scheme to enable dynamic discovery of Mobile IPv6 home network information.  New DHCP options are defined that allow a mobile node to request the home agent IP address, Fully Qualified Domain Name (FQDN), or home network prefix and obtain it via the DHCP response. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6610"/>
+  <seriesInfo name="RFC" value="6610"/>
 </reference>

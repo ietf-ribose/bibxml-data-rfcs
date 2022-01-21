@@ -1,13 +1,24 @@
 <reference anchor="RFC6486" target="https://www.rfc-editor.org/info/rfc6486">
   <front>
     <title>Manifests for the Resource Public Key Infrastructure (RPKI)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6486"/>
-    <author fullname="R. Austein"/>
-    <author fullname="G. Huston"/>
-    <author fullname="S. Kent"/>
-    <author fullname="M. Lepinski"/>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
+    <author fullname="M. Lepinski" initials="M." surname="Lepinski">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>sidr</workgroup>
-    <abstract>This document defines a "manifest" for use in the Resource Public Key Infrastructure (RPKI).  A manifest is a signed object (file) that contains a listing of all the signed objects (files) in the repository publication point (directory) associated with an authority responsible for publishing in the repository.  For each certificate, Certificate Revocation List (CRL), or other type of signed objects issued by the authority that are published at this repository publication point, the manifest contains both the name of the file containing the object and a hash of the file content.  Manifests are intended to enable a relying party (RP) to detect certain forms of attacks against a repository.  Specifically, if an RP checks a manifest's contents against the signed objects retrieved from a repository publication point, then the RP can detect "stale" (valid) data and deletion of signed objects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a "manifest" for use in the Resource Public Key Infrastructure (RPKI).  A manifest is a signed object (file) that contains a listing of all the signed objects (files) in the repository publication point (directory) associated with an authority responsible for publishing in the repository.  For each certificate, Certificate Revocation List (CRL), or other type of signed objects issued by the authority that are published at this repository publication point, the manifest contains both the name of the file containing the object and a hash of the file content.  Manifests are intended to enable a relying party (RP) to detect certain forms of attacks against a repository.  Specifically, if an RP checks a manifest's contents against the signed objects retrieved from a repository publication point, then the RP can detect "stale" (valid) data and deletion of signed objects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6486"/>
+  <seriesInfo name="RFC" value="6486"/>
 </reference>

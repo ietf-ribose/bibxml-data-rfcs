@@ -1,13 +1,21 @@
 <reference anchor="RFC3739" target="https://www.rfc-editor.org/info/rfc3739">
   <front>
     <title>Internet X.509 Public Key Infrastructure: Qualified Certificates Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3739"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="M. Nystrom"/>
-    <author fullname="T. Polk"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="M. Nystrom" initials="M." surname="Nystrom">
+      <organization/>
+    </author>
+    <author fullname="T. Polk" initials="T." surname="Polk">
+      <organization/>
+    </author>
     <date year="2004" month="March"/>
     <workgroup>pkix</workgroup>
-    <keyword>syntax</keyword>
-    <abstract>This document forms a certificate profile, based on RFC 3280, for identity certificates issued to natural persons.  The profile defines specific conventions for certificates that are qualified within a defined legal framework, named Qualified Certificates.  However, the profile does not define any legal requirements for such Qualified Certificates.  The goal of this document is to define a certificate profile that supports the issuance of Qualified Certificates independent of local legal requirements.  The profile is however not limited to Qualified Certificates and further profiling may facilitate specific local needs. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document forms a certificate profile, based on RFC 3280, for identity certificates issued to natural persons.  The profile defines specific conventions for certificates that are qualified within a defined legal framework, named Qualified Certificates.  However, the profile does not define any legal requirements for such Qualified Certificates.  The goal of this document is to define a certificate profile that supports the issuance of Qualified Certificates independent of local legal requirements.  The profile is however not limited to Qualified Certificates and further profiling may facilitate specific local needs. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3739"/>
+  <seriesInfo name="RFC" value="3739"/>
 </reference>

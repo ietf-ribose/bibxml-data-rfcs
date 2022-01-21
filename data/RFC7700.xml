@@ -1,17 +1,15 @@
 <reference anchor="RFC7700" target="https://www.rfc-editor.org/info/rfc7700">
   <front>
     <title>Preparation, Enforcement, and Comparison of Internationalized Strings Representing Nicknames</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7700"/>
-    <author fullname="P. Saint-Andre"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
     <date year="2015" month="December"/>
     <workgroup>precis</workgroup>
-    <keyword>nickname</keyword>
-    <keyword>SIP</keyword>
-    <keyword>SIMPLE</keyword>
-    <keyword>XMPP</keyword>
-    <keyword>MSRP</keyword>
-    <keyword>XCON</keyword>
-    <keyword>chatrooms</keyword>
-    <abstract>This document describes methods for handling Unicode strings representing memorable, human-friendly names (called "nicknames", "display names", or "petnames") for people, devices, accounts, websites, and other entities.</abstract>
+    <abstract>
+      <t>This document describes methods for handling Unicode strings representing memorable, human-friendly names (called "nicknames", "display names", or "petnames") for people, devices, accounts, websites, and other entities.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7700"/>
+  <seriesInfo name="RFC" value="7700"/>
 </reference>

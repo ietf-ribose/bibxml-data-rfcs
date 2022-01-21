@@ -1,16 +1,25 @@
 <reference anchor="RFC7175" target="https://www.rfc-editor.org/info/rfc7175">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL): Bidirectional Forwarding Detection (BFD) Support</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7175"/>
-    <author fullname="V. Manral"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="D. Ward"/>
-    <author fullname="A. Banerjee"/>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
+    <author fullname="A. Banerjee" initials="A." surname="Banerjee">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>trill</workgroup>
-    <keyword>RBridge</keyword>
-    <keyword>Echo</keyword>
-    <keyword>one-hop</keyword>
-    <abstract>This document specifies use of the Bidirectional Forwarding Detection (BFD) protocol in Routing Bridge (RBridge) campuses based on the RBridge Channel extension to the Transparent Interconnection of Lots of Links (TRILL) protocol. BFD is a widely deployed Operations, Administration, and Maintenance (OAM) mechanism in IP and MPLS networks, using UDP and Associated Channel Header (ACH) encapsulation respectively. This document specifies the BFD encapsulation over TRILL.</abstract>
+    <abstract>
+      <t>This document specifies use of the Bidirectional Forwarding Detection (BFD) protocol in Routing Bridge (RBridge) campuses based on the RBridge Channel extension to the Transparent Interconnection of Lots of Links (TRILL) protocol.</t>
+      <t>BFD is a widely deployed Operations, Administration, and Maintenance (OAM) mechanism in IP and MPLS networks, using UDP and Associated Channel Header (ACH) encapsulation respectively. This document specifies the BFD encapsulation over TRILL.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7175"/>
+  <seriesInfo name="RFC" value="7175"/>
 </reference>

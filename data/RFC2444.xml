@@ -1,16 +1,15 @@
 <reference anchor="RFC2444" target="https://www.rfc-editor.org/info/rfc2444">
   <front>
     <title>The One-Time-Password SASL Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2444"/>
-    <author fullname="C. Newman"/>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
     <date year="1998" month="October"/>
     <workgroup>otp</workgroup>
-    <keyword>OTP-SASL</keyword>
-    <keyword>otp</keyword>
-    <keyword>simple</keyword>
-    <keyword>authentication</keyword>
-    <keyword>security</keyword>
-    <keyword>layer</keyword>
-    <abstract>OTP provides a useful authentication mechanism for situations where there is limited client or server trust.  Currently, OTP is added to protocols in an ad-hoc fashion with heuristic parsing.  This specification defines an OTP SASL mechanism so it can be easily and formally integrated into many application protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>OTP provides a useful authentication mechanism for situations where there is limited client or server trust.  Currently, OTP is added to protocols in an ad-hoc fashion with heuristic parsing.  This specification defines an OTP SASL mechanism so it can be easily and formally integrated into many application protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2444"/>
+  <seriesInfo name="RFC" value="2444"/>
 </reference>

@@ -1,17 +1,15 @@
 <reference anchor="RFC2012" target="https://www.rfc-editor.org/info/rfc2012">
   <front>
     <title>SNMPv2 Management Information Base for the Transmission Control Protocol using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2012"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>MIB-TCP</keyword>
-    <keyword>TCP</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MIB</keyword>
-    <abstract>This document is the MIB module which defines managed objects for managing implementations of the Transmission Control Protocol (TCP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is the MIB module which defines managed objects for managing implementations of the Transmission Control Protocol (TCP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2012"/>
+  <seriesInfo name="RFC" value="2012"/>
 </reference>

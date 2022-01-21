@@ -1,15 +1,27 @@
 <reference anchor="RFC6705" target="https://www.rfc-editor.org/info/rfc6705">
   <front>
     <title>Localized Routing for Proxy Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6705"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="R. Koodli"/>
-    <author fullname="P. Loureiro"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="A. Dutta"/>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="R. Koodli" initials="R." surname="Koodli">
+      <organization/>
+    </author>
+    <author fullname="P. Loureiro" initials="P." surname="Loureiro">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="A. Dutta" initials="A." surname="Dutta">
+      <organization/>
+    </author>
     <date year="2012" month="September"/>
     <workgroup>netext</workgroup>
-    <keyword>PMIPv6</keyword>
-    <abstract>Proxy Mobile IPv6 (PMIPv6) is a network based mobility management protocol that enables IP mobility for a host without requiring its participation in any mobility-related signaling.  PMIPv6 requires all communications to go through the local mobility anchor.  As this can be suboptimal, Localized Routing (LR) allows Mobile Nodes (MNs) attached to the same or different Mobile Access Gateways (MAGs) to route traffic by using localized forwarding or a direct tunnel between the gateways.  This document proposes initiation, utilization, and termination mechanisms for localized routing between mobile access gateways within a proxy mobile IPv6 domain.  It defines two new signaling messages, Localized Routing Initiation (LRI) and Local Routing Acknowledgment (LRA), that are used to realize this mechanism. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Proxy Mobile IPv6 (PMIPv6) is a network based mobility management protocol that enables IP mobility for a host without requiring its participation in any mobility-related signaling.  PMIPv6 requires all communications to go through the local mobility anchor.  As this can be suboptimal, Localized Routing (LR) allows Mobile Nodes (MNs) attached to the same or different Mobile Access Gateways (MAGs) to route traffic by using localized forwarding or a direct tunnel between the gateways.  This document proposes initiation, utilization, and termination mechanisms for localized routing between mobile access gateways within a proxy mobile IPv6 domain.  It defines two new signaling messages, Localized Routing Initiation (LRI) and Local Routing Acknowledgment (LRA), that are used to realize this mechanism. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6705"/>
+  <seriesInfo name="RFC" value="6705"/>
 </reference>

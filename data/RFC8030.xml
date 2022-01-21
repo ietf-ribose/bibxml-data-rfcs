@@ -1,16 +1,21 @@
 <reference anchor="RFC8030" target="https://www.rfc-editor.org/info/rfc8030">
   <front>
     <title>Generic Event Delivery Using HTTP Push</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8030"/>
-    <author fullname="M. Thomson"/>
-    <author fullname="E. Damaggio"/>
-    <author fullname="B. Raymor"/>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="E. Damaggio" initials="E." surname="Damaggio">
+      <organization/>
+    </author>
+    <author fullname="B. Raymor" initials="B." surname="Raymor">
+      <organization/>
+    </author>
     <date year="2016" month="December"/>
     <workgroup>webpush</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>HTTP2</keyword>
-    <keyword>Push</keyword>
-    <keyword>WebPush</keyword>
-    <abstract>This document describes a simple protocol for the delivery of real- time events to user agents.  This scheme uses HTTP/2 server push.</abstract>
+    <abstract>
+      <t>This document describes a simple protocol for the delivery of real- time events to user agents.  This scheme uses HTTP/2 server push.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8030"/>
+  <seriesInfo name="RFC" value="8030"/>
 </reference>

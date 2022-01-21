@@ -1,21 +1,24 @@
 <reference anchor="RFC8387" target="https://www.rfc-editor.org/info/rfc8387">
   <front>
     <title>Practical Considerations and Implementation Experiences in Securing Smart Object Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8387"/>
-    <author fullname="M. Sethi"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="A. Keranen"/>
-    <author fullname="H. Back"/>
+    <author fullname="M. Sethi" initials="M." surname="Sethi">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
+    <author fullname="H. Back" initials="H." surname="Back">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
     <workgroup>lwig</workgroup>
-    <keyword>IoT</keyword>
-    <keyword>security</keyword>
-    <keyword>integrity</keyword>
-    <keyword>signing</keyword>
-    <keyword>ECC</keyword>
-    <keyword>CoAP</keyword>
-    <keyword>asymmetric</keyword>
-    <keyword>cryptography</keyword>
-    <abstract>This memo describes challenges associated with securing resource- constrained smart object devices.  The memo describes a possible deployment model where resource-constrained devices sign message objects, discusses the availability of cryptographic libraries for resource-constrained devices, and presents some preliminary experiences with those libraries for message signing on resource- constrained devices.  Lastly, the memo discusses trade-offs involving different types of security approaches.</abstract>
+    <abstract>
+      <t>This memo describes challenges associated with securing resource- constrained smart object devices.  The memo describes a possible deployment model where resource-constrained devices sign message objects, discusses the availability of cryptographic libraries for resource-constrained devices, and presents some preliminary experiences with those libraries for message signing on resource- constrained devices.  Lastly, the memo discusses trade-offs involving different types of security approaches.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8387"/>
+  <seriesInfo name="RFC" value="8387"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="RFC1934" target="https://www.rfc-editor.org/info/rfc1934">
   <front>
     <title>Ascend's Multilink Protocol Plus (MP+)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1934"/>
-    <author fullname="K. Smith"/>
+    <author fullname="K. Smith" initials="K." surname="Smith">
+      <organization/>
+    </author>
     <date year="1996" month="April"/>
-    <keyword>PPP</keyword>
-    <abstract>This document proposes an extension to the PPP Multilink Protocol (MP) [1].  Multilink Protocol Plus (MP+) is a new control protocol for managing multiple data links that are bundled by MP.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document proposes an extension to the PPP Multilink Protocol (MP) [1].  Multilink Protocol Plus (MP+) is a new control protocol for managing multiple data links that are bundled by MP.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1934"/>
+  <seriesInfo name="RFC" value="1934"/>
 </reference>

@@ -1,19 +1,24 @@
 <reference anchor="RFC2565" target="https://www.rfc-editor.org/info/rfc2565">
   <front>
     <title>Internet Printing Protocol/1.0: Encoding and Transport</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2565"/>
-    <author fullname="R. Herriot"/>
-    <author fullname="S. Butler"/>
-    <author fullname="P. Moore"/>
-    <author fullname="R. Turner"/>
+    <author fullname="R. Herriot" initials="R." surname="Herriot">
+      <organization/>
+    </author>
+    <author fullname="S. Butler" initials="S." surname="Butler">
+      <organization/>
+    </author>
+    <author fullname="P. Moore" initials="P." surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="R. Turner" initials="R." surname="Turner">
+      <organization/>
+    </author>
     <date year="1999" month="April"/>
     <workgroup>ipp</workgroup>
-    <keyword>IPP-E-T</keyword>
-    <keyword>IPP</keyword>
-    <keyword>application</keyword>
-    <keyword>media-type</keyword>
-    <keyword>media</keyword>
-    <keyword>type</keyword>
-    <abstract>This document defines the rules for encoding IPP operations and IPP attributes into a new Internet mime media type called "application/ipp".  This document also defines the rules for transporting over HTTP a message body whose Content-Type is "application/ipp".  This document defines an Experimental protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the rules for encoding IPP operations and IPP attributes into a new Internet mime media type called "application/ipp".  This document also defines the rules for transporting over HTTP a message body whose Content-Type is "application/ipp".  This document defines an Experimental protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2565"/>
+  <seriesInfo name="RFC" value="2565"/>
 </reference>

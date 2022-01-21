@@ -1,12 +1,15 @@
 <reference anchor="RFC6922" target="https://www.rfc-editor.org/info/rfc6922">
   <front>
     <title>The application/sql Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6922"/>
-    <author fullname="Y. Shafranovich"/>
+    <author fullname="Y. Shafranovich" initials="Y." surname="Shafranovich">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>SQL</keyword>
-    <keyword>MIME</keyword>
-    <abstract>This document registers the application/sql media type to be used for the Structured Query Language (SQL).</abstract>
+    <abstract>
+      <t>This document registers the application/sql media type to be used for the Structured Query Language (SQL).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6922"/>
+  <seriesInfo name="RFC" value="6922"/>
 </reference>

@@ -1,16 +1,14 @@
 <reference anchor="RFC2554" target="https://www.rfc-editor.org/info/rfc2554">
   <front>
     <title>SMTP Service Extension for Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2554"/>
-    <author fullname="J. Myers"/>
+    <author fullname="J. Myers" initials="J." surname="Myers">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
-    <keyword>simple</keyword>
-    <keyword>mail</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <keyword>layer</keyword>
-    <keyword>sasl</keyword>
-    <abstract>This document defines an SMTP service extension [ESMTP] whereby an SMTP client may indicate an authentication mechanism to the server, perform an authentication protocol exchange, and optionally negotiate a security layer for subsequent protocol interactions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an SMTP service extension [ESMTP] whereby an SMTP client may indicate an authentication mechanism to the server, perform an authentication protocol exchange, and optionally negotiate a security layer for subsequent protocol interactions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2554"/>
+  <seriesInfo name="RFC" value="2554"/>
 </reference>

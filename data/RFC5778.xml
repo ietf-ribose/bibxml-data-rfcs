@@ -1,14 +1,28 @@
 <reference anchor="RFC5778" target="https://www.rfc-editor.org/info/rfc5778">
   <front>
     <title>Diameter Mobile IPv6: Support for Home Agent to Diameter Server Interaction</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5778"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="J. Bournelle"/>
-    <author fullname="G. Giaretta"/>
-    <author fullname="M. Nakhjiri"/>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="J. Bournelle" initials="J." surname="Bournelle">
+      <organization/>
+    </author>
+    <author fullname="G. Giaretta" initials="G." surname="Giaretta">
+      <organization/>
+    </author>
+    <author fullname="M. Nakhjiri" initials="M." surname="Nakhjiri">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
     <workgroup>dime</workgroup>
-    <abstract>Mobile IPv6 deployments may want to bootstrap their operations dynamically based on an interaction between the home agent and the Diameter server of the Mobile Service Provider. This document specifies the interaction between a Mobile IP home agent and a Diameter server. This document defines the home agent to the Diameter server communication when the mobile node authenticates using the Internet Key Exchange v2 protocol with the Extensible Authentication Protocol or using the Mobile IPv6 Authentication Protocol. In addition to authentication and authorization, the configuration of Mobile IPv6- specific parameters and accounting is specified in this document. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Mobile IPv6 deployments may want to bootstrap their operations dynamically based on an interaction between the home agent and the Diameter server of the Mobile Service Provider. This document specifies the interaction between a Mobile IP home agent and a Diameter server.</t>
+      <t>This document defines the home agent to the Diameter server communication when the mobile node authenticates using the Internet Key Exchange v2 protocol with the Extensible Authentication Protocol or using the Mobile IPv6 Authentication Protocol. In addition to authentication and authorization, the configuration of Mobile IPv6- specific parameters and accounting is specified in this document. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5778"/>
+  <seriesInfo name="RFC" value="5778"/>
 </reference>

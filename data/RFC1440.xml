@@ -1,13 +1,14 @@
 <reference anchor="RFC1440" target="https://www.rfc-editor.org/info/rfc1440">
   <front>
     <title>SIFT/UFT: Sender-Initiated/Unsolicited File Transfer</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1440"/>
-    <author fullname="R. Troth"/>
+    <author fullname="R. Troth" initials="R." surname="Troth">
+      <organization/>
+    </author>
     <date year="1993" month="July"/>
-    <keyword>SIFT</keyword>
-    <keyword>UFT</keyword>
-    <keyword>Send</keyword>
-    <keyword>FTP</keyword>
-    <abstract>This document describes a Sender-Initiated File Transfer (SIFT) protocol, also commonly called Unsolicited File Transfer (UFT) protocol.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a Sender-Initiated File Transfer (SIFT) protocol, also commonly called Unsolicited File Transfer (UFT) protocol.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1440"/>
+  <seriesInfo name="RFC" value="1440"/>
 </reference>

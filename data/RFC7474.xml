@@ -1,17 +1,25 @@
 <reference anchor="RFC7474" target="https://www.rfc-editor.org/info/rfc7474">
   <front>
     <title>Security Extension for OSPFv2 When Using Manual Key Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7474"/>
-    <author fullname="M. Bhatia"/>
-    <author fullname="S. Hartman"/>
-    <author fullname="D. Zhang"/>
-    <author fullname="A. Lindem"/>
+    <author fullname="M. Bhatia" initials="M." surname="Bhatia">
+      <organization/>
+    </author>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
+    <author fullname="D. Zhang" initials="D." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
     <workgroup>ospf</workgroup>
-    <keyword>OSPF</keyword>
-    <keyword>cryptographic authentication</keyword>
-    <keyword>security</keyword>
-    <keyword>replay attacks</keyword>
-    <abstract>The current OSPFv2 cryptographic authentication mechanism as defined in RFCs 2328 and 5709 is vulnerable to both inter-session and intra- session replay attacks when using manual keying. Additionally, the existing cryptographic authentication mechanism does not cover the IP header. This omission can be exploited to carry out various types of attacks. This document defines changes to the authentication sequence number mechanism that will protect OSPFv2 from both inter-session and intra- session replay attacks when using manual keys for securing OSPFv2 protocol packets. Additionally, we also describe some changes in the cryptographic hash computation that will eliminate attacks resulting from OSPFv2 not protecting the IP header.</abstract>
+    <abstract>
+      <t>The current OSPFv2 cryptographic authentication mechanism as defined in RFCs 2328 and 5709 is vulnerable to both inter-session and intra- session replay attacks when using manual keying. Additionally, the existing cryptographic authentication mechanism does not cover the IP header. This omission can be exploited to carry out various types of attacks.</t>
+      <t>This document defines changes to the authentication sequence number mechanism that will protect OSPFv2 from both inter-session and intra- session replay attacks when using manual keys for securing OSPFv2 protocol packets. Additionally, we also describe some changes in the cryptographic hash computation that will eliminate attacks resulting from OSPFv2 not protecting the IP header.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7474"/>
+  <seriesInfo name="RFC" value="7474"/>
 </reference>

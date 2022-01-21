@@ -1,19 +1,27 @@
 <reference anchor="RFC1664" target="https://www.rfc-editor.org/info/rfc1664">
   <front>
     <title>Using the Internet DNS to Distribute RFC1327 Mail Address Mapping Tables</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1664"/>
-    <author fullname="C. Allocchio"/>
-    <author fullname="A. Bonito"/>
-    <author fullname="B. Cole"/>
-    <author fullname="S. Giordano"/>
-    <author fullname="R. Hagens"/>
+    <author fullname="C. Allocchio" initials="C." surname="Allocchio">
+      <organization/>
+    </author>
+    <author fullname="A. Bonito" initials="A." surname="Bonito">
+      <organization/>
+    </author>
+    <author fullname="B. Cole" initials="B." surname="Cole">
+      <organization/>
+    </author>
+    <author fullname="S. Giordano" initials="S." surname="Giordano">
+      <organization/>
+    </author>
+    <author fullname="R. Hagens" initials="R." surname="Hagens">
+      <organization/>
+    </author>
     <date year="1994" month="August"/>
     <workgroup>x400ops</workgroup>
-    <keyword>domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>X.400</keyword>
-    <keyword>Email</keyword>
-    <abstract>This memo defines how to store in the Internet Domain Name System the mapping information needed by e-mail gateways and other tools to map RFC822 domain names into X.400 O/R names and vice versa.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines how to store in the Internet Domain Name System the mapping information needed by e-mail gateways and other tools to map RFC822 domain names into X.400 O/R names and vice versa.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1664"/>
+  <seriesInfo name="RFC" value="1664"/>
 </reference>

@@ -1,18 +1,24 @@
 <reference anchor="RFC2305" target="https://www.rfc-editor.org/info/rfc2305">
   <front>
     <title>A Simple Mode of Facsimile Using Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2305"/>
-    <author fullname="K. Toyoda"/>
-    <author fullname="H. Ohno"/>
-    <author fullname="J. Murai"/>
-    <author fullname="D. Wing"/>
+    <author fullname="K. Toyoda" initials="K." surname="Toyoda">
+      <organization/>
+    </author>
+    <author fullname="H. Ohno" initials="H." surname="Ohno">
+      <organization/>
+    </author>
+    <author fullname="J. Murai" initials="J." surname="Murai">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>fax</workgroup>
-    <keyword>SMFAX-IM</keyword>
-    <keyword>data</keyword>
-    <keyword>file</keyword>
-    <keyword>format</keyword>
-    <keyword>e-mail</keyword>
-    <abstract>This specification provides for "simple mode" carriage of facsimile data over the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification provides for "simple mode" carriage of facsimile data over the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2305"/>
+  <seriesInfo name="RFC" value="2305"/>
 </reference>

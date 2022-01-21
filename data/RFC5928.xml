@@ -1,12 +1,15 @@
 <reference anchor="RFC5928" target="https://www.rfc-editor.org/info/rfc5928">
   <front>
     <title>Traversal Using Relays around NAT (TURN) Resolution Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5928"/>
-    <author fullname="M. Petit-Huguenin"/>
+    <author fullname="M. Petit-Huguenin" initials="M." surname="Petit-Huguenin">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>behave</workgroup>
-    <keyword>NAT</keyword>
-    <keyword>Traversal</keyword>
-    <abstract>This document defines a resolution mechanism to generate a list of server transport addresses that can be tried to create a Traversal Using Relays around NAT (TURN) allocation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a resolution mechanism to generate a list of server transport addresses that can be tried to create a Traversal Using Relays around NAT (TURN) allocation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5928"/>
+  <seriesInfo name="RFC" value="5928"/>
 </reference>

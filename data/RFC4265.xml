@@ -1,12 +1,18 @@
 <reference anchor="RFC4265" target="https://www.rfc-editor.org/info/rfc4265">
   <front>
     <title>Definition of Textual Conventions for Virtual Private Network (VPN) Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4265"/>
-    <author fullname="B. Schliesser"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="B. Schliesser" initials="B." surname="Schliesser">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>tc</keyword>
-    <abstract>This document describes Textual Conventions used for managing Virtual Private Networks (VPNs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes Textual Conventions used for managing Virtual Private Networks (VPNs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4265"/>
+  <seriesInfo name="RFC" value="4265"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="RFC5203" target="https://www.rfc-editor.org/info/rfc5203">
   <front>
     <title>Host Identity Protocol (HIP) Registration Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5203"/>
-    <author fullname="J. Laganier"/>
-    <author fullname="T. Koponen"/>
-    <author fullname="L. Eggert"/>
+    <author fullname="J. Laganier" initials="J." surname="Laganier">
+      <organization/>
+    </author>
+    <author fullname="T. Koponen" initials="T." surname="Koponen">
+      <organization/>
+    </author>
+    <author fullname="L. Eggert" initials="L." surname="Eggert">
+      <organization/>
+    </author>
     <date year="2008" month="April"/>
     <workgroup>hip</workgroup>
-    <keyword>register</keyword>
-    <abstract>This document specifies a registration mechanism for the Host Identity Protocol (HIP) that allows hosts to register with services, such as HIP rendezvous servers or middleboxes.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies a registration mechanism for the Host Identity Protocol (HIP) that allows hosts to register with services, such as HIP rendezvous servers or middleboxes.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5203"/>
+  <seriesInfo name="RFC" value="5203"/>
 </reference>

@@ -1,15 +1,19 @@
 <reference anchor="RFC5306" target="https://www.rfc-editor.org/info/rfc5306">
   <front>
     <title>Restart Signaling for IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5306"/>
-    <author fullname="M. Shand"/>
-    <author fullname="L. Ginsberg"/>
+    <author fullname="M. Shand" initials="M." surname="Shand">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <keyword>LSP database synchronization</keyword>
-    <keyword>Link State</keyword>
-    <keyword>Routing</keyword>
-    <abstract>This document describes a mechanism for a restarting router to signal to its neighbors that it is restarting, allowing them to reestablish their adjacencies without cycling through the down state, while still correctly initiating database synchronization. This document additionally describes a mechanism for a restarting router to determine when it has achieved Link State Protocol Data Unit (LSP) database synchronization with its neighbors and a mechanism to optimize LSP database synchronization, while minimizing transient routing disruption when a router starts. This document obsoletes RFC 3847. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a mechanism for a restarting router to signal to its neighbors that it is restarting, allowing them to reestablish their adjacencies without cycling through the down state, while still correctly initiating database synchronization.</t>
+      <t>This document additionally describes a mechanism for a restarting router to determine when it has achieved Link State Protocol Data Unit (LSP) database synchronization with its neighbors and a mechanism to optimize LSP database synchronization, while minimizing transient routing disruption when a router starts. This document obsoletes RFC 3847. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5306"/>
+  <seriesInfo name="RFC" value="5306"/>
 </reference>

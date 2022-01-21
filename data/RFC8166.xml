@@ -1,13 +1,21 @@
 <reference anchor="RFC8166" target="https://www.rfc-editor.org/info/rfc8166">
   <front>
     <title>Remote Direct Memory Access Transport for Remote Procedure Call Version 1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8166"/>
-    <author fullname="C. Lever"/>
-    <author fullname="W. Simpson"/>
-    <author fullname="T. Talpey"/>
+    <author fullname="C. Lever" initials="C." surname="Lever">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
+    <author fullname="T. Talpey" initials="T." surname="Talpey">
+      <organization/>
+    </author>
     <date year="2017" month="June"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>RPC-over-RDMA</keyword>
-    <abstract>This document specifies a protocol for conveying Remote Procedure Call (RPC) messages on physical transports capable of Remote Direct Memory Access (RDMA).  This protocol is referred to as the RPC-over- RDMA version 1 protocol in this document.  It requires no revision to application RPC protocols or the RPC protocol itself.  This document obsoletes RFC 5666.</abstract>
+    <abstract>
+      <t>This document specifies a protocol for conveying Remote Procedure Call (RPC) messages on physical transports capable of Remote Direct Memory Access (RDMA).  This protocol is referred to as the RPC-over- RDMA version 1 protocol in this document.  It requires no revision to application RPC protocols or the RPC protocol itself.  This document obsoletes RFC 5666.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8166"/>
+  <seriesInfo name="RFC" value="8166"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="RFC7911" target="https://www.rfc-editor.org/info/rfc7911">
   <front>
     <title>Advertisement of Multiple Paths in BGP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7911"/>
-    <author fullname="D. Walton"/>
-    <author fullname="A. Retana"/>
-    <author fullname="E. Chen"/>
-    <author fullname="J. Scudder"/>
+    <author fullname="D. Walton" initials="D." surname="Walton">
+      <organization/>
+    </author>
+    <author fullname="A. Retana" initials="A." surname="Retana">
+      <organization/>
+    </author>
+    <author fullname="E. Chen" initials="E." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>idr</workgroup>
-    <keyword>border gateway protocol</keyword>
-    <abstract>This document defines a BGP extension that allows the advertisement of multiple paths for the same address prefix without the new paths implicitly replacing any previous ones.  The essence of the extension is that each path is identified by a Path Identifier in addition to the address prefix.</abstract>
+    <abstract>
+      <t>This document defines a BGP extension that allows the advertisement of multiple paths for the same address prefix without the new paths implicitly replacing any previous ones.  The essence of the extension is that each path is identified by a Path Identifier in addition to the address prefix.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7911"/>
+  <seriesInfo name="RFC" value="7911"/>
 </reference>

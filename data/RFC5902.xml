@@ -1,17 +1,20 @@
 <reference anchor="RFC5902" target="https://www.rfc-editor.org/info/rfc5902">
   <front>
     <title>IAB Thoughts on IPv6 Network Address Translation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5902"/>
-    <author fullname="D. Thaler"/>
-    <author fullname="L. Zhang"/>
-    <author fullname="G. Lebovitz"/>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="G. Lebovitz" initials="G." surname="Lebovitz">
+      <organization/>
+    </author>
     <date year="2010" month="July"/>
-    <keyword>NAT</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Transparency</keyword>
-    <keyword>End-to-End</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>Multihoming</keyword>
-    <abstract>There has been much recent discussion on the topic of whether the IETF should develop standards for IPv6 Network Address Translators (NATs).  This document articulates the architectural issues raised by IPv6 NATs, the pros and cons of having IPv6 NATs, and provides the IAB's thoughts on the current open issues and the solution space.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>There has been much recent discussion on the topic of whether the IETF should develop standards for IPv6 Network Address Translators (NATs).  This document articulates the architectural issues raised by IPv6 NATs, the pros and cons of having IPv6 NATs, and provides the IAB's thoughts on the current open issues and the solution space.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5902"/>
+  <seriesInfo name="RFC" value="5902"/>
 </reference>

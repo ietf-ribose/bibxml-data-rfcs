@@ -1,18 +1,24 @@
 <reference anchor="RFC5691" target="https://www.rfc-editor.org/info/rfc5691">
   <front>
     <title>RTP Payload Format for Elementary Streams with MPEG Surround Multi-Channel Audio</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5691"/>
-    <author fullname="F. de Bont"/>
-    <author fullname="S. Doehla"/>
-    <author fullname="M. Schmidt"/>
-    <author fullname="R. Sperschneider"/>
+    <author fullname="F. de Bont" initials="F." surname="de">
+      <organization/>
+    </author>
+    <author fullname="S. Doehla" initials="S." surname="Doehla">
+      <organization/>
+    </author>
+    <author fullname="M. Schmidt" initials="M." surname="Schmidt">
+      <organization/>
+    </author>
+    <author fullname="R. Sperschneider" initials="R." surname="Sperschneider">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>MPEG Surround</keyword>
-    <keyword>RFC 3640</keyword>
-    <keyword>RTP</keyword>
-    <keyword>MPEG-4</keyword>
-    <keyword>AAC</keyword>
-    <abstract>This memo describes extensions for the RTP payload format defined in RFC 3640 for the transport of MPEG Surround multi-channel audio.  Additional Media Type parameters are defined to signal backwards- compatible transmission inside an MPEG-4 Audio elementary stream.  In addition, a layered transmission scheme that doesn't use the MPEG-4 systems framework is presented to transport an MPEG Surround elementary stream via RTP in parallel with an RTP stream containing the downmixed audio data. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes extensions for the RTP payload format defined in RFC 3640 for the transport of MPEG Surround multi-channel audio.  Additional Media Type parameters are defined to signal backwards- compatible transmission inside an MPEG-4 Audio elementary stream.  In addition, a layered transmission scheme that doesn't use the MPEG-4 systems framework is presented to transport an MPEG Surround elementary stream via RTP in parallel with an RTP stream containing the downmixed audio data. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5691"/>
+  <seriesInfo name="RFC" value="5691"/>
 </reference>

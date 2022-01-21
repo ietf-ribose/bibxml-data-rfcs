@@ -1,18 +1,21 @@
 <reference anchor="RFC1323" target="https://www.rfc-editor.org/info/rfc1323">
   <front>
     <title>TCP Extensions for High Performance</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1323"/>
-    <author fullname="V. Jacobson"/>
-    <author fullname="R. Braden"/>
-    <author fullname="D. Borman"/>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
+    <author fullname="R. Braden" initials="R." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="D. Borman" initials="D." surname="Borman">
+      <organization/>
+    </author>
     <date year="1992" month="May"/>
     <workgroup>tcplw</workgroup>
-    <keyword>TCP-EXT</keyword>
-    <keyword>options</keyword>
-    <keyword>PAWS</keyword>
-    <keyword>window</keyword>
-    <keyword>scale</keyword>
-    <keyword>window</keyword>
-    <abstract>This memo presents a set of TCP extensions to improve performance over large bandwidth*delay product paths and to provide reliable operation over very high-speed paths.  It defines new TCP options for scaled windows and timestamps, which are designed to provide compatible interworking with TCP's that do not implement the extensions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo presents a set of TCP extensions to improve performance over large bandwidth*delay product paths and to provide reliable operation over very high-speed paths.  It defines new TCP options for scaled windows and timestamps, which are designed to provide compatible interworking with TCP's that do not implement the extensions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1323"/>
+  <seriesInfo name="RFC" value="1323"/>
 </reference>

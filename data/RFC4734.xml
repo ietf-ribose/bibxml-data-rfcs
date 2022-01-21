@@ -1,17 +1,18 @@
 <reference anchor="RFC4734" target="https://www.rfc-editor.org/info/rfc4734">
   <front>
     <title>Definition of Events for Modem, Fax, and Text Telephony Signals</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4734"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2006" month="December"/>
     <workgroup>avt</workgroup>
-    <keyword>real-time</keyword>
-    <keyword>application</keyword>
-    <keyword>protocol</keyword>
-    <keyword>DTMF</keyword>
-    <keyword>dual-tone</keyword>
-    <keyword>multifrequency</keyword>
-    <abstract>This memo updates RFC 4733 to add event codes for modem, fax, and text telephony signals when carried in the telephony event RTP payload.  It supersedes the assignment of event codes for this purpose in RFC 2833, and therefore obsoletes that part of RFC 2833. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo updates RFC 4733 to add event codes for modem, fax, and text telephony signals when carried in the telephony event RTP payload.  It supersedes the assignment of event codes for this purpose in RFC 2833, and therefore obsoletes that part of RFC 2833. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4734"/>
+  <seriesInfo name="RFC" value="4734"/>
 </reference>

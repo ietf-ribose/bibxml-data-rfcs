@@ -1,14 +1,15 @@
 <reference anchor="RFC2785" target="https://www.rfc-editor.org/info/rfc2785">
   <front>
     <title>Methods for Avoiding the "Small-Subgroup" Attacks on the Diffie-Hellman Key Agreement Method for S/MIME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2785"/>
-    <author fullname="R. Zuccherato"/>
+    <author fullname="R. Zuccherato" initials="R." surname="Zuccherato">
+      <organization/>
+    </author>
     <date year="2000" month="March"/>
     <workgroup>smime</workgroup>
-    <keyword>security</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail extensions</keyword>
-    <abstract>This document will describe the situations relevant to implementations of S/MIME version 3 in which protection is necessary and the methods that can be used to prevent these attacks.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document will describe the situations relevant to implementations of S/MIME version 3 in which protection is necessary and the methods that can be used to prevent these attacks.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2785"/>
+  <seriesInfo name="RFC" value="2785"/>
 </reference>

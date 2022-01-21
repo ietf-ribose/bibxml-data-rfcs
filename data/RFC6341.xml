@@ -1,13 +1,25 @@
 <reference anchor="RFC6341" target="https://www.rfc-editor.org/info/rfc6341">
   <front>
     <title>Use Cases and Requirements for SIP-Based Media Recording (SIPREC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6341"/>
-    <author fullname="K. Rehor"/>
-    <author fullname="L. Portman"/>
-    <author fullname="A. Hutton"/>
-    <author fullname="R. Jain"/>
+    <author fullname="K. Rehor" initials="K." surname="Rehor">
+      <organization/>
+    </author>
+    <author fullname="L. Portman" initials="L." surname="Portman">
+      <organization/>
+    </author>
+    <author fullname="A. Hutton" initials="A." surname="Hutton">
+      <organization/>
+    </author>
+    <author fullname="R. Jain" initials="R." surname="Jain">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>siprec</workgroup>
-    <abstract>Session recording is a critical requirement in many business communications environments, such as call centers and financial trading floors. In some of these environments, all calls must be recorded for regulatory and compliance reasons. In others, calls may be recorded for quality control or business analytics. Recording is typically performed by sending a copy of the session media to the recording devices. This document specifies requirements for extensions to SIP that will manage delivery of RTP media to a recording device. This is being referred to as SIP-based Media Recording. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Session recording is a critical requirement in many business communications environments, such as call centers and financial trading floors. In some of these environments, all calls must be recorded for regulatory and compliance reasons. In others, calls may be recorded for quality control or business analytics.</t>
+      <t>Recording is typically performed by sending a copy of the session media to the recording devices. This document specifies requirements for extensions to SIP that will manage delivery of RTP media to a recording device. This is being referred to as SIP-based Media Recording. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6341"/>
+  <seriesInfo name="RFC" value="6341"/>
 </reference>

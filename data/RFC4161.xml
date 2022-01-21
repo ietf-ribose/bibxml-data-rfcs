@@ -1,20 +1,28 @@
 <reference anchor="RFC4161" target="https://www.rfc-editor.org/info/rfc4161">
   <front>
     <title>Guidelines for Optional Services for Internet Fax Gateways</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4161"/>
-    <author fullname="K. Mimura"/>
-    <author fullname="K. Yokoyama"/>
-    <author fullname="T. Satoh"/>
-    <author fullname="K. Watanabe"/>
-    <author fullname="C. Kanaide"/>
+    <author fullname="K. Mimura" initials="K." surname="Mimura">
+      <organization/>
+    </author>
+    <author fullname="K. Yokoyama" initials="K." surname="Yokoyama">
+      <organization/>
+    </author>
+    <author fullname="T. Satoh" initials="T." surname="Satoh">
+      <organization/>
+    </author>
+    <author fullname="K. Watanabe" initials="K." surname="Watanabe">
+      <organization/>
+    </author>
+    <author fullname="C. Kanaide" initials="C." surname="Kanaide">
+      <organization/>
+    </author>
     <date year="2005" month="August"/>
     <workgroup>fax</workgroup>
-    <keyword>general switched telephone network acsimile service</keyword>
-    <keyword>gstn fax</keyword>
-    <keyword>internet fax service</keyword>
-    <keyword>i-fax</keyword>
-    <keyword>offramp gateway</keyword>
-    <keyword>onramp gateway</keyword>
-    <abstract>To allow connectivity between the general switched telephone network facsimile service (GSTN fax) and the e-mail-based Internet Fax service (i-fax), an "Internet Fax Gateway" is required. This document provides guidelines for the optional functionality of Internet Fax Gateways. In this context, an "offramp gateway" provides facsimile data transmission from i-fax to GSTN fax; vice versa, an "onramp gateway" provides data transmission from GSTN fax to i-fax. The recommendations in this document apply to the integrated service including Internet Fax terminals, computers with i-fax software on the Internet, and GSTN fax terminals on the GSTN. This document supplements the recommendation for minimal features of an Internet Fax Gateway. In particular, it covers techniques for dropping duplicated fax messages, automatic fax re-transmission, error, return notice, and log handling, and possible authorization methods by DTMF (Dual Tone Multi-Frequency) for onramp gateways. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>To allow connectivity between the general switched telephone network facsimile service (GSTN fax) and the e-mail-based Internet Fax service (i-fax), an "Internet Fax Gateway" is required. This document provides guidelines for the optional functionality of Internet Fax Gateways. In this context, an "offramp gateway" provides facsimile data transmission from i-fax to GSTN fax; vice versa, an "onramp gateway" provides data transmission from GSTN fax to i-fax. The recommendations in this document apply to the integrated service including Internet Fax terminals, computers with i-fax software on the Internet, and GSTN fax terminals on the GSTN.</t>
+      <t>This document supplements the recommendation for minimal features of an Internet Fax Gateway. In particular, it covers techniques for dropping duplicated fax messages, automatic fax re-transmission, error, return notice, and log handling, and possible authorization methods by DTMF (Dual Tone Multi-Frequency) for onramp gateways. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4161"/>
+  <seriesInfo name="RFC" value="4161"/>
 </reference>

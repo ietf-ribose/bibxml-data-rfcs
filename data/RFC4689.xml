@@ -1,14 +1,24 @@
 <reference anchor="RFC4689" target="https://www.rfc-editor.org/info/rfc4689">
   <front>
     <title>Terminology for Benchmarking Network-layer Traffic Control Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4689"/>
-    <author fullname="S. Poretsky"/>
-    <author fullname="J. Perser"/>
-    <author fullname="S. Erramilli"/>
-    <author fullname="S. Khurana"/>
+    <author fullname="S. Poretsky" initials="S." surname="Poretsky">
+      <organization/>
+    </author>
+    <author fullname="J. Perser" initials="J." surname="Perser">
+      <organization/>
+    </author>
+    <author fullname="S. Erramilli" initials="S." surname="Erramilli">
+      <organization/>
+    </author>
+    <author fullname="S. Khurana" initials="S." surname="Khurana">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>bmwg</workgroup>
-    <keyword>packet classification</keyword>
-    <abstract>This document describes terminology for the benchmarking of devices that implement traffic control using packet classification based on defined criteria.  The terminology is to be applied to measurements made on the data plane to evaluate IP traffic control mechanisms.  Rules for packet classification can be based on any field in the IP header, such as the Differentiated Services Code Point (DSCP), or any field in the packet payload, such as port number.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes terminology for the benchmarking of devices that implement traffic control using packet classification based on defined criteria.  The terminology is to be applied to measurements made on the data plane to evaluate IP traffic control mechanisms.  Rules for packet classification can be based on any field in the IP header, such as the Differentiated Services Code Point (DSCP), or any field in the packet payload, such as port number.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4689"/>
+  <seriesInfo name="RFC" value="4689"/>
 </reference>

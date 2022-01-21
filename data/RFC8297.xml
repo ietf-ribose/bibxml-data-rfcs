@@ -1,12 +1,15 @@
 <reference anchor="RFC8297" target="https://www.rfc-editor.org/info/rfc8297">
   <front>
     <title>An HTTP Status Code for Indicating Hints</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8297"/>
-    <author fullname="K. Oku"/>
+    <author fullname="K. Oku" initials="K." surname="Oku">
+      <organization/>
+    </author>
     <date year="2017" month="December"/>
     <workgroup>httpbis</workgroup>
-    <keyword>push</keyword>
-    <keyword>preload</keyword>
-    <abstract>This memo introduces an informational HTTP status code that can be used to convey hints that help a client make preparations for processing the final response.</abstract>
+    <abstract>
+      <t>This memo introduces an informational HTTP status code that can be used to convey hints that help a client make preparations for processing the final response.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8297"/>
+  <seriesInfo name="RFC" value="8297"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC2710" target="https://www.rfc-editor.org/info/rfc2710">
   <front>
     <title>Multicast Listener Discovery (MLD) for IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2710"/>
-    <author fullname="S. Deering"/>
-    <author fullname="W. Fenner"/>
-    <author fullname="B. Haberman"/>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
+    <author fullname="W. Fenner" initials="W." surname="Fenner">
+      <organization/>
+    </author>
+    <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>MLD-IPv6</keyword>
-    <keyword>internet protocol</keyword>
-    <keyword>routher</keyword>
-    <keyword>packets</keyword>
-    <abstract>This document specifies the protocol used by an IPv6 router to discover the presence of multicast listeners (that is, nodes wishing to receive multicast packets) on its directly attached links, and to discover specifically which multicast addresses are of interest to those neighboring nodes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the protocol used by an IPv6 router to discover the presence of multicast listeners (that is, nodes wishing to receive multicast packets) on its directly attached links, and to discover specifically which multicast addresses are of interest to those neighboring nodes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2710"/>
+  <seriesInfo name="RFC" value="2710"/>
 </reference>

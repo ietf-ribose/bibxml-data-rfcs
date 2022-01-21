@@ -1,24 +1,33 @@
 <reference anchor="RFC3035" target="https://www.rfc-editor.org/info/rfc3035">
   <front>
     <title>MPLS using LDP and ATM VC Switching</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3035"/>
-    <author fullname="B. Davie"/>
-    <author fullname="J. Lawrence"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="P. Doolan"/>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
+    <author fullname="J. Lawrence" initials="J." surname="Lawrence">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="P. Doolan" initials="P." surname="Doolan">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>multi-protocol</keyword>
-    <keyword>label</keyword>
-    <keyword>switching</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>distribution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document extends and clarifies the relevant portions of RFC 3031 and RFC 3036 by specifying in more detail the procedures which to be used when distributing labels to or from ATM-LSRs, when those labels represent Forwarding Equivalence Classes (FECs, see RFC 3031) for which the routes are determined on a hop-by-hop basis by network layer routing algorithms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document extends and clarifies the relevant portions of RFC 3031 and RFC 3036 by specifying in more detail the procedures which to be used when distributing labels to or from ATM-LSRs, when those labels represent Forwarding Equivalence Classes (FECs, see RFC 3031) for which the routes are determined on a hop-by-hop basis by network layer routing algorithms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3035"/>
+  <seriesInfo name="RFC" value="3035"/>
 </reference>

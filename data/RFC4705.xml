@@ -1,14 +1,18 @@
 <reference anchor="RFC4705" target="https://www.rfc-editor.org/info/rfc4705">
   <front>
     <title>GigaBeam High-Speed Radio Link Encryption</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4705"/>
-    <author fullname="R. Housley"/>
-    <author fullname="A. Corry"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="A. Corry" initials="A." surname="Corry">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>key management</keyword>
-    <keyword>wifiber</keyword>
-    <keyword>radio link</keyword>
-    <abstract>This document describes the encryption and key management used by GigaBeam as part of the WiFiber(tm) family of radio link products.  The security solution is documented in the hope that other wireless product development efforts will include comparable capabilities.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the encryption and key management used by GigaBeam as part of the WiFiber(tm) family of radio link products.  The security solution is documented in the hope that other wireless product development efforts will include comparable capabilities.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4705"/>
+  <seriesInfo name="RFC" value="4705"/>
 </reference>

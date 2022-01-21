@@ -1,21 +1,24 @@
 <reference anchor="RFC7659" target="https://www.rfc-editor.org/info/rfc7659">
   <front>
     <title>Definitions of Managed Objects for Network Address Translators (NATs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7659"/>
-    <author fullname="S. Perreault"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="S. Sivakumar"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>management information base</keyword>
-    <keyword>NATV2-MIB</keyword>
-    <keyword>NAT-MIB</keyword>
-    <keyword>basic nat</keyword>
-    <keyword>pooled nat</keyword>
-    <keyword>carrier-grade nat</keyword>
-    <keyword>CGN</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for devices implementing the Network Address Translator (NAT) function.  The new MIB module defined in this document, NATV2-MIB, is intended to replace module NAT-MIB (RFC 4008).  NATV2-MIB is not backwards compatible with NAT-MIB, for reasons given in the text of this document.  A companion document deprecates all objects in NAT-MIB.  NATV2-MIB can be used for the monitoring of NAT instances on a device capable of NAT function.  Compliance levels are defined for three application scenarios: basic NAT, pooled NAT, and carrier-grade NAT (CGN).</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for devices implementing the Network Address Translator (NAT) function.  The new MIB module defined in this document, NATV2-MIB, is intended to replace module NAT-MIB (RFC 4008).  NATV2-MIB is not backwards compatible with NAT-MIB, for reasons given in the text of this document.  A companion document deprecates all objects in NAT-MIB.  NATV2-MIB can be used for the monitoring of NAT instances on a device capable of NAT function.  Compliance levels are defined for three application scenarios: basic NAT, pooled NAT, and carrier-grade NAT (CGN).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7659"/>
+  <seriesInfo name="RFC" value="7659"/>
 </reference>

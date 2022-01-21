@@ -1,14 +1,15 @@
 <reference anchor="RFC3007" target="https://www.rfc-editor.org/info/rfc3007">
   <front>
     <title>Secure Domain Name System (DNS) Dynamic Update</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3007"/>
-    <author fullname="B. Wellington"/>
+    <author fullname="B. Wellington" initials="B." surname="Wellington">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>dnsext</workgroup>
-    <keyword>security</keyword>
-    <keyword>authentication</keyword>
-    <keyword>validation</keyword>
-    <keyword>DNSSEC</keyword>
-    <abstract>This document proposes a method for performing secure Domain Name System (DNS) dynamic updates. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes a method for performing secure Domain Name System (DNS) dynamic updates. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3007"/>
+  <seriesInfo name="RFC" value="3007"/>
 </reference>

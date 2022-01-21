@@ -1,16 +1,26 @@
 <reference anchor="RFC2903" target="https://www.rfc-editor.org/info/rfc2903">
   <front>
     <title>Generic AAA Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2903"/>
-    <author fullname="C. de Laat"/>
-    <author fullname="G. Gross"/>
-    <author fullname="L. Gommans"/>
-    <author fullname="J. Vollbrecht"/>
-    <author fullname="D. Spence"/>
+    <author fullname="C. de Laat" initials="C." surname="de">
+      <organization/>
+    </author>
+    <author fullname="G. Gross" initials="G." surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="L. Gommans" initials="L." surname="Gommans">
+      <organization/>
+    </author>
+    <author fullname="J. Vollbrecht" initials="J." surname="Vollbrecht">
+      <organization/>
+    </author>
+    <author fullname="D. Spence" initials="D." surname="Spence">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
-    <keyword>authentication</keyword>
-    <keyword>authorization</keyword>
-    <keyword>accounting</keyword>
-    <abstract>This memo proposes an Authentication, Authorization, Accounting (AAA) architecture that would incorporate a generic AAA server along with an application interface to a set of Application Specific Modules that could perform application specific AAA functions.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo proposes an Authentication, Authorization, Accounting (AAA) architecture that would incorporate a generic AAA server along with an application interface to a set of Application Specific Modules that could perform application specific AAA functions.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2903"/>
+  <seriesInfo name="RFC" value="2903"/>
 </reference>

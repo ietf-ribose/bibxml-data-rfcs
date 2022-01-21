@@ -1,17 +1,15 @@
 <reference anchor="RFC8332" target="https://www.rfc-editor.org/info/rfc8332">
   <front>
     <title>Use of RSA Keys with SHA-256 and SHA-512 in the Secure Shell (SSH) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8332"/>
-    <author fullname="D. Bider"/>
+    <author fullname="D. Bider" initials="D." surname="Bider">
+      <organization/>
+    </author>
     <date year="2018" month="March"/>
     <workgroup>curdle</workgroup>
-    <keyword>rsa-sha2-256</keyword>
-    <keyword>rsa-sha2-512</keyword>
-    <keyword>ssh-rsa</keyword>
-    <keyword>publickey</keyword>
-    <keyword>server-sig-algs</keyword>
-    <keyword>signature</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo updates RFCs 4252 and 4253 to define new public key algorithms for use of RSA keys with SHA-256 and SHA-512 for server and client authentication in SSH connections.</abstract>
+    <abstract>
+      <t>This memo updates RFCs 4252 and 4253 to define new public key algorithms for use of RSA keys with SHA-256 and SHA-512 for server and client authentication in SSH connections.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8332"/>
+  <seriesInfo name="RFC" value="8332"/>
 </reference>

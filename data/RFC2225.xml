@@ -1,18 +1,18 @@
 <reference anchor="RFC2225" target="https://www.rfc-editor.org/info/rfc2225">
   <front>
     <title>Classical IP and ARP over ATM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2225"/>
-    <author fullname="M. Laubach"/>
-    <author fullname="J. Halpern"/>
+    <author fullname="M. Laubach" initials="M." surname="Laubach">
+      <organization/>
+    </author>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>IP-ATM</keyword>
-    <keyword>Internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>address</keyword>
-    <keyword>resolution</keyword>
-    <keyword>asynchronous,transfer</keyword>
-    <keyword>mode</keyword>
-    <abstract>This memo defines an initial application of classical IP and ARP in an Asynchronous Transfer Mode (ATM) network environment configured as a Logical IP Subnetwork (LIS). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an initial application of classical IP and ARP in an Asynchronous Transfer Mode (ATM) network environment configured as a Logical IP Subnetwork (LIS). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2225"/>
+  <seriesInfo name="RFC" value="2225"/>
 </reference>

@@ -1,13 +1,24 @@
 <reference anchor="RFC7834" target="https://www.rfc-editor.org/info/rfc7834">
   <front>
     <title>Locator/ID Separation Protocol (LISP) Impact</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7834"/>
-    <author fullname="D. Saucez"/>
-    <author fullname="L. Iannone"/>
-    <author fullname="A. Cabellos"/>
-    <author fullname="F. Coras"/>
+    <author fullname="D. Saucez" initials="D." surname="Saucez">
+      <organization/>
+    </author>
+    <author fullname="L. Iannone" initials="L." surname="Iannone">
+      <organization/>
+    </author>
+    <author fullname="A. Cabellos" initials="A." surname="Cabellos">
+      <organization/>
+    </author>
+    <author fullname="F. Coras" initials="F." surname="Coras">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>lisp</workgroup>
-    <abstract>The Locator/ID Separation Protocol (LISP) aims to improve the Internet routing scalability properties by leveraging three principles: address role separation, encapsulation, and mapping.  In this document, based on implementation work, deployment experiences, and theoretical studies, we discuss the impact that the deployment of LISP can have on both the routing infrastructure and the end user.</abstract>
+    <abstract>
+      <t>The Locator/ID Separation Protocol (LISP) aims to improve the Internet routing scalability properties by leveraging three principles: address role separation, encapsulation, and mapping.  In this document, based on implementation work, deployment experiences, and theoretical studies, we discuss the impact that the deployment of LISP can have on both the routing infrastructure and the end user.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7834"/>
+  <seriesInfo name="RFC" value="7834"/>
 </reference>

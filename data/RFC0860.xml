@@ -1,11 +1,18 @@
 <reference anchor="RFC0860" target="https://www.rfc-editor.org/info/rfc860">
   <front>
     <title>Telnet Timing Mark Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0860"/>
-    <author fullname="J. Postel"/>
-    <author fullname="J. Reynolds"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1983" month="May"/>
-    <keyword>TOPT-TIM</keyword>
-    <abstract>This Telnet Option provides a way to check the roundtrip path between two Telnet modules.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 16238.</abstract>
+    <abstract>
+      <t>This Telnet Option provides a way to check the roundtrip path between two Telnet modules.  This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.  Obsoletes NIC 16238.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0860"/>
+  <seriesInfo name="STD" value="31"/>
+  <seriesInfo name="RFC" value="860"/>
 </reference>

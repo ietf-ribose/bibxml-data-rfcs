@@ -1,10 +1,17 @@
 <reference anchor="RFC1228" target="https://www.rfc-editor.org/info/rfc1228">
   <front>
     <title>SNMP-DPI: Simple Network Management Protocol Distributed Program Interface</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1228"/>
-    <author fullname="G. Carpenter"/>
-    <author fullname="B. Wijnen"/>
+    <author fullname="G. Carpenter" initials="G." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
     <date year="1991" month="May"/>
-    <abstract>This RFC describes a protocol that International Business Machines Corporation (IBM) has been implementing in most of its SNMP agents to allow dynamic extension of supported MIBs.  This is an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This RFC describes a protocol that International Business Machines Corporation (IBM) has been implementing in most of its SNMP agents to allow dynamic extension of supported MIBs.  This is an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1228"/>
+  <seriesInfo name="RFC" value="1228"/>
 </reference>

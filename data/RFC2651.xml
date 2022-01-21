@@ -1,16 +1,18 @@
 <reference anchor="RFC2651" target="https://www.rfc-editor.org/info/rfc2651">
   <front>
     <title>The Architecture of the Common Indexing Protocol (CIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2651"/>
-    <author fullname="J. Allen"/>
-    <author fullname="M. Mealling"/>
+    <author fullname="J. Allen" initials="J." surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="M. Mealling" initials="M." surname="Mealling">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>find</workgroup>
-    <keyword>CIP</keyword>
-    <keyword>query</keyword>
-    <keyword>routing</keyword>
-    <keyword>database</keyword>
-    <keyword>servers</keyword>
-    <abstract>This document describes the CIP framework, including its architecture and the protocol specifics of exchanging indices. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the CIP framework, including its architecture and the protocol specifics of exchanging indices. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2651"/>
+  <seriesInfo name="RFC" value="2651"/>
 </reference>

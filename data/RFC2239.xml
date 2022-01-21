@@ -1,15 +1,27 @@
 <reference anchor="RFC2239" target="https://www.rfc-editor.org/info/rfc2239">
   <front>
     <title>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs) using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2239"/>
-    <author fullname="K. de Graaf"/>
-    <author fullname="D. Romascanu"/>
-    <author fullname="D. McMaster"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="S. Roberts"/>
+    <author fullname="K. de Graaf" initials="K." surname="de">
+      <organization/>
+    </author>
+    <author fullname="D. Romascanu" initials="D." surname="Romascanu">
+      <organization/>
+    </author>
+    <author fullname="D. McMaster" initials="D." surname="McMaster">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="S. Roberts" initials="S." surname="Roberts">
+      <organization/>
+    </author>
     <date year="1997" month="November"/>
     <workgroup>hubmib</workgroup>
-    <keyword>MAUS-MIB</keyword>
-    <abstract>This memo defines an portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing 10 and 100 Mb/second Medium Attachment Units (MAUs) based on IEEE Std 802.3 Section 30, "10 &amp; 100 Mb/s Management," October 26, 1995. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing 10 and 100 Mb/second Medium Attachment Units (MAUs) based on IEEE Std 802.3 Section 30, "10 &amp; 100 Mb/s Management," October 26, 1995. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2239"/>
+  <seriesInfo name="RFC" value="2239"/>
 </reference>

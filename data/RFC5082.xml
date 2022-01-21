@@ -1,16 +1,27 @@
 <reference anchor="RFC5082" target="https://www.rfc-editor.org/info/rfc5082">
   <front>
     <title>The Generalized TTL Security Mechanism (GTSM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5082"/>
-    <author fullname="V. Gill"/>
-    <author fullname="J. Heasley"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="P. Savola"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="V. Gill" initials="V." surname="Gill">
+      <organization/>
+    </author>
+    <author fullname="J. Heasley" initials="J." surname="Heasley">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="P. Savola" initials="P." surname="Savola">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>time to live</keyword>
-    <keyword>packet hop limit</keyword>
-    <abstract>The use of a packet's Time to Live (TTL) (IPv4) or Hop Limit (IPv6) to verify whether the packet was originated by an adjacent node on a connected link has been used in many recent protocols.  This document generalizes this technique.  This document obsoletes Experimental RFC 3682. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The use of a packet's Time to Live (TTL) (IPv4) or Hop Limit (IPv6) to verify whether the packet was originated by an adjacent node on a connected link has been used in many recent protocols.  This document generalizes this technique.  This document obsoletes Experimental RFC 3682. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5082"/>
+  <seriesInfo name="RFC" value="5082"/>
 </reference>

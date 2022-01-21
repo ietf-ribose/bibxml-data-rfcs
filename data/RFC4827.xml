@@ -1,19 +1,18 @@
 <reference anchor="RFC4827" target="https://www.rfc-editor.org/info/rfc4827">
   <front>
     <title>An Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Usage for Manipulating Presence Document Contents</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4827"/>
-    <author fullname="M. Isomaki"/>
-    <author fullname="E. Leppanen"/>
+    <author fullname="M. Isomaki" initials="M." surname="Isomaki">
+      <organization/>
+    </author>
+    <author fullname="E. Leppanen" initials="E." surname="Leppanen">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>simple</workgroup>
-    <keyword>PIDF</keyword>
-    <keyword>AUID</keyword>
-    <keyword>hard state</keyword>
-    <keyword>PUBLISH</keyword>
-    <keyword>SIP Presence</keyword>
-    <keyword>SIMPLE</keyword>
-    <keyword>pidf-manipulation</keyword>
-    <keyword>XCAP application usage</keyword>
-    <abstract>This document describes a usage of the Extensible Markup Language (XML) Configuration Access Protocol (XCAP) for manipulating the contents of Presence Information Data Format (PIDF) based presence documents.  It is intended to be used in Session Initiation Protocol (SIP) based presence systems, where the Event State Compositor can use the XCAP-manipulated presence document as one of the inputs on which it builds the overall presence state for the presentity. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a usage of the Extensible Markup Language (XML) Configuration Access Protocol (XCAP) for manipulating the contents of Presence Information Data Format (PIDF) based presence documents.  It is intended to be used in Session Initiation Protocol (SIP) based presence systems, where the Event State Compositor can use the XCAP-manipulated presence document as one of the inputs on which it builds the overall presence state for the presentity. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4827"/>
+  <seriesInfo name="RFC" value="4827"/>
 </reference>

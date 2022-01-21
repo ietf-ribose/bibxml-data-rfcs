@@ -1,16 +1,24 @@
 <reference anchor="RFC7734" target="https://www.rfc-editor.org/info/rfc7734">
   <front>
     <title>Support for Shortest Path Bridging MAC Mode over Ethernet VPN (EVPN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7734"/>
-    <author fullname="D. Allan"/>
-    <author fullname="J. Tantsura"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="A. Sajassi"/>
+    <author fullname="D. Allan" initials="D." surname="Allan">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
     <date year="2016" month="January"/>
     <workgroup>bess</workgroup>
-    <keyword>SPBM</keyword>
-    <keyword>Provider Backbone Bridging Provider Edges</keyword>
-    <keyword>PBB-EVPN</keyword>
-    <abstract>This document describes how Ethernet Shortest Path Bridging MAC mode (SPBM) can be combined with Ethernet VPN (EVPN) to interwork with Provider Backbone Bridging Provider Edges (PBB PEs) as described in the PBB-EVPN solution (RFC 7623).  This is achieved via operational isolation of each Ethernet network attached to an EVPN core while supporting full interworking between the different variations of Ethernet networks.</abstract>
+    <abstract>
+      <t>This document describes how Ethernet Shortest Path Bridging MAC mode (SPBM) can be combined with Ethernet VPN (EVPN) to interwork with Provider Backbone Bridging Provider Edges (PBB PEs) as described in the PBB-EVPN solution (RFC 7623).  This is achieved via operational isolation of each Ethernet network attached to an EVPN core while supporting full interworking between the different variations of Ethernet networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7734"/>
+  <seriesInfo name="RFC" value="7734"/>
 </reference>

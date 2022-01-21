@@ -1,13 +1,24 @@
 <reference anchor="RFC3928" target="https://www.rfc-editor.org/info/rfc3928">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Client Update Protocol (LCUP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3928"/>
-    <author fullname="R. Megginson"/>
-    <author fullname="M. Smith"/>
-    <author fullname="O. Natkovich"/>
-    <author fullname="J. Parham"/>
+    <author fullname="R. Megginson" initials="R." surname="Megginson">
+      <organization/>
+    </author>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="O. Natkovich" initials="O." surname="Natkovich">
+      <organization/>
+    </author>
+    <author fullname="J. Parham" initials="J." surname="Parham">
+      <organization/>
+    </author>
     <date year="2004" month="October"/>
     <workgroup>ldup</workgroup>
-    <abstract>This document defines the Lightweight Directory Access Protocol (LDAP) Client Update Protocol (LCUP).  The protocol is intended to allow an LDAP client to synchronize with the content of a directory information tree (DIT) stored by an LDAP server and to be notified about the changes to that content. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Lightweight Directory Access Protocol (LDAP) Client Update Protocol (LCUP).  The protocol is intended to allow an LDAP client to synchronize with the content of a directory information tree (DIT) stored by an LDAP server and to be notified about the changes to that content. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3928"/>
+  <seriesInfo name="RFC" value="3928"/>
 </reference>

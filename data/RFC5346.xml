@@ -1,20 +1,25 @@
 <reference anchor="RFC5346" target="https://www.rfc-editor.org/info/rfc5346">
   <front>
     <title>Operational Requirements for ENUM-Based Softswitch Use</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5346"/>
-    <author fullname="J. Lim"/>
-    <author fullname="W. Kim"/>
-    <author fullname="C. Park"/>
-    <author fullname="L. Conroy"/>
+    <author fullname="J. Lim" initials="J." surname="Lim">
+      <organization/>
+    </author>
+    <author fullname="W. Kim" initials="W." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="C. Park" initials="C." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="L. Conroy" initials="L." surname="Conroy">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>enum</workgroup>
-    <keyword>Applications</keyword>
-    <keyword>ENUM</keyword>
-    <keyword>DNS</keyword>
-    <keyword>E.164</keyword>
-    <keyword>NAPTR</keyword>
-    <keyword>Softswitch</keyword>
-    <keyword>Field Trial</keyword>
-    <abstract>This document describes experiences of operational requirements and several considerations for ENUM-based softswitches concerning call routing between two Korean Voice over IP (VoIP) carriers, gained during the ENUM pre-commercial trial hosted by the National Internet Development Agency of Korea (NIDA) in 2006. These experiences show that an interim solution can maintain the stability of ongoing commercial softswitch system operations during the initial stage of ENUM service, where the DNS does not have sufficient data for the majority of calls. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes experiences of operational requirements and several considerations for ENUM-based softswitches concerning call routing between two Korean Voice over IP (VoIP) carriers, gained during the ENUM pre-commercial trial hosted by the National Internet Development Agency of Korea (NIDA) in 2006.</t>
+      <t>These experiences show that an interim solution can maintain the stability of ongoing commercial softswitch system operations during the initial stage of ENUM service, where the DNS does not have sufficient data for the majority of calls. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5346"/>
+  <seriesInfo name="RFC" value="5346"/>
 </reference>

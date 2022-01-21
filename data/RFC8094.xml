@@ -1,12 +1,22 @@
 <reference anchor="RFC8094" target="https://www.rfc-editor.org/info/rfc8094">
   <front>
     <title>DNS over Datagram Transport Layer Security (DTLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8094"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="D. Wing"/>
-    <author fullname="P. Patil"/>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="P. Patil" initials="P." surname="Patil">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>dprive</workgroup>
-    <abstract>DNS queries and responses are visible to network elements on the path between the DNS client and its server. These queries and responses can contain privacy-sensitive information, which is valuable to protect. This document proposes the use of Datagram Transport Layer Security (DTLS) for DNS, to protect against passive listeners and certain active attacks. As latency is critical for DNS, this proposal also discusses mechanisms to reduce DTLS round trips and reduce the DTLS handshake size. The proposed mechanism runs over port 853.</abstract>
+    <abstract>
+      <t>DNS queries and responses are visible to network elements on the path between the DNS client and its server. These queries and responses can contain privacy-sensitive information, which is valuable to protect.</t>
+      <t>This document proposes the use of Datagram Transport Layer Security (DTLS) for DNS, to protect against passive listeners and certain active attacks. As latency is critical for DNS, this proposal also discusses mechanisms to reduce DTLS round trips and reduce the DTLS handshake size. The proposed mechanism runs over port 853.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8094"/>
+  <seriesInfo name="RFC" value="8094"/>
 </reference>

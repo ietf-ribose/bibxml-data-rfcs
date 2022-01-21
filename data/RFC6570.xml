@@ -1,21 +1,27 @@
 <reference anchor="RFC6570" target="https://www.rfc-editor.org/info/rfc6570">
   <front>
     <title>URI Template</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6570"/>
-    <author fullname="J. Gregorio"/>
-    <author fullname="R. Fielding"/>
-    <author fullname="M. Hadley"/>
-    <author fullname="M. Nottingham"/>
-    <author fullname="D. Orchard"/>
+    <author fullname="J. Gregorio" initials="J." surname="Gregorio">
+      <organization/>
+    </author>
+    <author fullname="R. Fielding" initials="R." surname="Fielding">
+      <organization/>
+    </author>
+    <author fullname="M. Hadley" initials="M." surname="Hadley">
+      <organization/>
+    </author>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
+    <author fullname="D. Orchard" initials="D." surname="Orchard">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>template</keyword>
-    <keyword>Uniform Resource Identifier</keyword>
-    <keyword>URI</keyword>
-    <keyword>URI Template</keyword>
-    <keyword>Internationalized Resource Identifier</keyword>
-    <keyword>IRI</keyword>
-    <keyword>IRI Template</keyword>
-    <abstract>A URI Template is a compact sequence of characters for describing a range of Uniform Resource Identifiers through variable expansion.  This specification defines the URI Template syntax and the process for expanding a URI Template into a URI reference, along with guidelines for the use of URI Templates on the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A URI Template is a compact sequence of characters for describing a range of Uniform Resource Identifiers through variable expansion.  This specification defines the URI Template syntax and the process for expanding a URI Template into a URI reference, along with guidelines for the use of URI Templates on the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6570"/>
+  <seriesInfo name="RFC" value="6570"/>
 </reference>

@@ -1,12 +1,21 @@
 <reference anchor="RFC7220" target="https://www.rfc-editor.org/info/rfc7220">
   <front>
     <title>Description Option for the Port Control Protocol (PCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7220"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="R. Penno"/>
-    <author fullname="D. Wing"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>pcp</workgroup>
-    <abstract>This document extends the Port Control Protocol (PCP) with the ability to associate a description with a PCP-instantiated mapping.  It does this by defining a new DESCRIPTION option.</abstract>
+    <abstract>
+      <t>This document extends the Port Control Protocol (PCP) with the ability to associate a description with a PCP-instantiated mapping.  It does this by defining a new DESCRIPTION option.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7220"/>
+  <seriesInfo name="RFC" value="7220"/>
 </reference>

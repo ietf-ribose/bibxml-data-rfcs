@@ -1,14 +1,22 @@
 <reference anchor="RFC4061" target="https://www.rfc-editor.org/info/rfc4061">
   <front>
     <title>Benchmarking Basic OSPF Single Router Control Plane Convergence</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4061"/>
-    <author fullname="V. Manral"/>
-    <author fullname="R. White"/>
-    <author fullname="A. Shaikh"/>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="A. Shaikh" initials="A." surname="Shaikh">
+      <organization/>
+    </author>
     <date year="2005" month="April"/>
     <workgroup>bmwg</workgroup>
-    <keyword>spf time</keyword>
-    <keyword>adjacency formation time</keyword>
-    <abstract>This document provides suggestions for measuring OSPF single router control plane convergence. Its initial emphasis is on the control plane of a single OSPF router. We do not address forwarding plane performance. NOTE: In this document, the word "convergence" relates to single router control plane convergence only. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides suggestions for measuring OSPF single router control plane convergence. Its initial emphasis is on the control plane of a single OSPF router. We do not address forwarding plane performance.</t>
+      <t>NOTE: In this document, the word "convergence" relates to single router control plane convergence only. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4061"/>
+  <seriesInfo name="RFC" value="4061"/>
 </reference>

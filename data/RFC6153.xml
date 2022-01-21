@@ -1,12 +1,18 @@
 <reference anchor="RFC6153" target="https://www.rfc-editor.org/info/rfc6153">
   <front>
     <title>DHCPv4 and DHCPv6 Options for Access Network Discovery and Selection Function (ANDSF) Discovery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6153"/>
-    <author fullname="S. Das"/>
-    <author fullname="G. Bajko"/>
+    <author fullname="S. Das" initials="S." surname="Das">
+      <organization/>
+    </author>
+    <author fullname="G. Bajko" initials="G." surname="Bajko">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Dynamic Host Configuration Protocol</keyword>
-    <abstract>This document defines new Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) options to enable a mobile node to discover Access Network Discovery and Selection Function (ANDSF) entities in an IP network.  ANDSF is being developed in the Third Generation Partnership Project (3GPP) and provides inter-system mobility policies and access-network-specific information to the mobile nodes (MNs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines new Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) options to enable a mobile node to discover Access Network Discovery and Selection Function (ANDSF) entities in an IP network.  ANDSF is being developed in the Third Generation Partnership Project (3GPP) and provides inter-system mobility policies and access-network-specific information to the mobile nodes (MNs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6153"/>
+  <seriesInfo name="RFC" value="6153"/>
 </reference>

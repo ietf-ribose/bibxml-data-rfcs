@@ -1,16 +1,18 @@
 <reference anchor="RFC5788" target="https://www.rfc-editor.org/info/rfc5788">
   <front>
     <title>IMAP4 Keyword Registry</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5788"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="D. Cridland"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="D. Cridland" initials="D." surname="Cridland">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>IMAP</keyword>
-    <keyword>email</keyword>
-    <keyword>tag</keyword>
-    <keyword>label</keyword>
-    <keyword>keyword</keyword>
-    <abstract>The aim of this document is to establish a new IANA registry for IMAP keywords and to define a procedure for keyword registration, in order to improve interoperability between different IMAP clients. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>The aim of this document is to establish a new IANA registry for IMAP keywords and to define a procedure for keyword registration, in order to improve interoperability between different IMAP clients. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5788"/>
+  <seriesInfo name="RFC" value="5788"/>
 </reference>

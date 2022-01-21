@@ -1,14 +1,21 @@
 <reference anchor="RFC3878" target="https://www.rfc-editor.org/info/rfc3878">
   <front>
     <title>Alarm Reporting Control Management Information Base (MIB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3878"/>
-    <author fullname="H. Lam"/>
-    <author fullname="A. Huynh"/>
-    <author fullname="D. Perkins"/>
+    <author fullname="H. Lam" initials="H." surname="Lam">
+      <organization/>
+    </author>
+    <author fullname="A. Huynh" initials="A." surname="Huynh">
+      <organization/>
+    </author>
+    <author fullname="D. Perkins" initials="D." surname="Perkins">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>disman</workgroup>
-    <keyword>alarm condition</keyword>
-    <keyword>probably cause</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for controlling the reporting of alarm conditions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for controlling the reporting of alarm conditions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3878"/>
+  <seriesInfo name="RFC" value="3878"/>
 </reference>

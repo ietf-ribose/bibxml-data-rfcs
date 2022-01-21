@@ -1,12 +1,21 @@
 <reference anchor="RFC3815" target="https://www.rfc-editor.org/info/rfc3815">
   <front>
     <title>Definitions of Managed Objects for the Multiprotocol Label Switching (MPLS), Label Distribution Protocol (LDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3815"/>
-    <author fullname="J. Cucchiara"/>
-    <author fullname="H. Sjostrand"/>
-    <author fullname="J. Luciani"/>
+    <author fullname="J. Cucchiara" initials="J." surname="Cucchiara">
+      <organization/>
+    </author>
+    <author fullname="H. Sjostrand" initials="H." surname="Sjostrand">
+      <organization/>
+    </author>
+    <author fullname="J. Luciani" initials="J." surname="Luciani">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>mpls</workgroup>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for the Multiprotocol Label Switching, Label Distribution Protocol (LDP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for the Multiprotocol Label Switching, Label Distribution Protocol (LDP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3815"/>
+  <seriesInfo name="RFC" value="3815"/>
 </reference>

@@ -1,19 +1,24 @@
 <reference anchor="RFC2377" target="https://www.rfc-editor.org/info/rfc2377">
   <front>
     <title>Naming Plan for Internet Directory-Enabled Applications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2377"/>
-    <author fullname="A. Grimstad"/>
-    <author fullname="R. Huber"/>
-    <author fullname="S. Sataluri"/>
-    <author fullname="M. Wahl"/>
+    <author fullname="A. Grimstad" initials="A." surname="Grimstad">
+      <organization/>
+    </author>
+    <author fullname="R. Huber" initials="R." surname="Huber">
+      <organization/>
+    </author>
+    <author fullname="S. Sataluri" initials="S." surname="Sataluri">
+      <organization/>
+    </author>
+    <author fullname="M. Wahl" initials="M." surname="Wahl">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
     <workgroup>ids</workgroup>
-    <keyword>x.500</keyword>
-    <keyword>applications</keyword>
-    <keyword>iwps</keyword>
-    <keyword>white</keyword>
-    <keyword>pages</keyword>
-    <keyword>service</keyword>
-    <abstract>Application of the conventional X.500 approach to naming has heretofore, in the experience of the authors, proven to be an obstacle to the wide deployment of directory-enabled applications on the Internet.  We propose a new directory naming plan that leverages the strengths of the most popular and successful Internet naming schemes for naming objects in a hierarchical directory.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>Application of the conventional X.500 approach to naming has heretofore, in the experience of the authors, proven to be an obstacle to the wide deployment of directory-enabled applications on the Internet.  We propose a new directory naming plan that leverages the strengths of the most popular and successful Internet naming schemes for naming objects in a hierarchical directory.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2377"/>
+  <seriesInfo name="RFC" value="2377"/>
 </reference>

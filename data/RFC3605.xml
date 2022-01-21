@@ -1,13 +1,15 @@
 <reference anchor="RFC3605" target="https://www.rfc-editor.org/info/rfc3605">
   <front>
     <title>Real Time Control Protocol (RTCP) attribute in Session Description Protocol (SDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3605"/>
-    <author fullname="C. Huitema"/>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
     <date year="2003" month="October"/>
     <workgroup>mmusic</workgroup>
-    <keyword>nat</keyword>
-    <keyword>network access translation</keyword>
-    <keyword>port mapping</keyword>
-    <abstract>The Session Description Protocol (SDP) is used to describe the parameters of media streams used in multimedia sessions.  When a session requires multiple ports, SDP assumes that these ports have consecutive numbers.  However, when the session crosses a network address translation device that also uses port mapping, the ordering of ports can be destroyed by the translation.  To handle this, we propose an extension attribute to SDP.</abstract>
+    <abstract>
+      <t>The Session Description Protocol (SDP) is used to describe the parameters of media streams used in multimedia sessions.  When a session requires multiple ports, SDP assumes that these ports have consecutive numbers.  However, when the session crosses a network address translation device that also uses port mapping, the ordering of ports can be destroyed by the translation.  To handle this, we propose an extension attribute to SDP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3605"/>
+  <seriesInfo name="RFC" value="3605"/>
 </reference>

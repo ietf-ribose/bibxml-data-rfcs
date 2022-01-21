@@ -1,17 +1,21 @@
 <reference anchor="RFC2926" target="https://www.rfc-editor.org/info/rfc2926">
   <front>
     <title>Conversion of LDAP Schemas to and from SLP Templates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2926"/>
-    <author fullname="J. Kempf"/>
-    <author fullname="R. Moats"/>
-    <author fullname="P. St. Pierre"/>
+    <author fullname="J. Kempf" initials="J." surname="Kempf">
+      <organization/>
+    </author>
+    <author fullname="R. Moats" initials="R." surname="Moats">
+      <organization/>
+    </author>
+    <author fullname="P. St. Pierre" initials="P." surname="St.">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>svrloc</workgroup>
-    <keyword>service location</keyword>
-    <keyword>protocol</keyword>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <abstract>This document describes a procedure for mapping between Service Location Protocol (SLP) service advertisements and lightweight directory access protocol (LDAP) descriptions of services.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a procedure for mapping between Service Location Protocol (SLP) service advertisements and lightweight directory access protocol (LDAP) descriptions of services.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2926"/>
+  <seriesInfo name="RFC" value="2926"/>
 </reference>

@@ -1,21 +1,14 @@
 <reference anchor="RFC3533" target="https://www.rfc-editor.org/info/rfc3533">
   <front>
     <title>The Ogg Encapsulation Format Version 0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3533"/>
-    <author fullname="S. Pfeiffer"/>
+    <author fullname="S. Pfeiffer" initials="S." surname="Pfeiffer">
+      <organization/>
+    </author>
     <date year="2003" month="May"/>
-    <keyword>bitstream</keyword>
-    <keyword>media streams</keyword>
-    <keyword>video</keyword>
-    <keyword>audio</keyword>
-    <keyword>xiph.org</keyword>
-    <keyword>multimedia</keyword>
-    <keyword>media interleading format</keyword>
-    <keyword>video bitstream packaging</keyword>
-    <keyword>audio bitstream packaging</keyword>
-    <keyword>free encapsulation format</keyword>
-    <keyword>stream based storage of codec data</keyword>
-    <keyword>framed bitstream</keyword>
-    <abstract>This document describes the Ogg bitstream format version 0, which is a general, freely-available encapsulation format for media streams.  It is able to encapsulate any kind and number of video and audio encoding formats as well as other data streams in a single bitstream.  This memo provides information for the Internet community.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the Ogg bitstream format version 0, which is a general, freely-available encapsulation format for media streams.  It is able to encapsulate any kind and number of video and audio encoding formats as well as other data streams in a single bitstream.  This memo provides information for the Internet community.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3533"/>
+  <seriesInfo name="RFC" value="3533"/>
 </reference>

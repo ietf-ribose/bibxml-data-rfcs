@@ -1,23 +1,27 @@
 <reference anchor="RFC2332" target="https://www.rfc-editor.org/info/rfc2332">
   <front>
     <title>NBMA Next Hop Resolution Protocol (NHRP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2332"/>
-    <author fullname="J. Luciani"/>
-    <author fullname="D. Katz"/>
-    <author fullname="D. Piscitello"/>
-    <author fullname="B. Cole"/>
-    <author fullname="N. Doraswamy"/>
+    <author fullname="J. Luciani" initials="J." surname="Luciani">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="D. Piscitello" initials="D." surname="Piscitello">
+      <organization/>
+    </author>
+    <author fullname="B. Cole" initials="B." surname="Cole">
+      <organization/>
+    </author>
+    <author fullname="N. Doraswamy" initials="N." surname="Doraswamy">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>NHRP</keyword>
-    <keyword>internetworking</keyword>
-    <keyword>layer</keyword>
-    <keyword>address</keyword>
-    <keyword>subnetwork</keyword>
-    <keyword>multiprotocol</keyword>
-    <keyword>non-broadcast</keyword>
-    <keyword>multiple</keyword>
-    <keyword>access</keyword>
-    <abstract>This document describes the NBMA Next Hop Resolution Protocol (NHRP).  NHRP can be used by a source station (host or router) connected to a Non-Broadcast, Multi-Access (NBMA) subnetwork to determine the internetworking layer address and NBMA subnetwork addresses of the "NBMA next hop" towards a destination station. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the NBMA Next Hop Resolution Protocol (NHRP).  NHRP can be used by a source station (host or router) connected to a Non-Broadcast, Multi-Access (NBMA) subnetwork to determine the internetworking layer address and NBMA subnetwork addresses of the "NBMA next hop" towards a destination station. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2332"/>
+  <seriesInfo name="RFC" value="2332"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC6907" target="https://www.rfc-editor.org/info/rfc6907">
   <front>
     <title>Use Cases and Interpretations of Resource Public Key Infrastructure (RPKI) Objects for Issuers and Relying Parties</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6907"/>
-    <author fullname="T. Manderson"/>
-    <author fullname="K. Sriram"/>
-    <author fullname="R. White"/>
+    <author fullname="T. Manderson" initials="T." surname="Manderson">
+      <organization/>
+    </author>
+    <author fullname="K. Sriram" initials="K." surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
     <date year="2013" month="March"/>
     <workgroup>sidr</workgroup>
-    <keyword>Prefix origin validation</keyword>
-    <keyword>Routing security</keyword>
-    <keyword>BGP security</keyword>
-    <abstract>This document describes a number of use cases together with directions and interpretations for organizations and relying parties when creating or encountering Resource Public Key Infrastructure (RPKI) object scenarios in the public RPKI.  All of these items are discussed here in relation to the Internet routing system.</abstract>
+    <abstract>
+      <t>This document describes a number of use cases together with directions and interpretations for organizations and relying parties when creating or encountering Resource Public Key Infrastructure (RPKI) object scenarios in the public RPKI.  All of these items are discussed here in relation to the Internet routing system.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6907"/>
+  <seriesInfo name="RFC" value="6907"/>
 </reference>

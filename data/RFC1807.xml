@@ -1,13 +1,17 @@
 <reference anchor="RFC1807" target="https://www.rfc-editor.org/info/rfc1807">
   <front>
     <title>A Format for Bibliographic Records</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1807"/>
-    <author fullname="R. Lasher"/>
-    <author fullname="D. Cohen"/>
+    <author fullname="R. Lasher" initials="R." surname="Lasher">
+      <organization/>
+    </author>
+    <author fullname="D. Cohen" initials="D." surname="Cohen">
+      <organization/>
+    </author>
     <date year="1995" month="June"/>
-    <keyword>library</keyword>
-    <keyword>technical reports</keyword>
-    <keyword>email services</keyword>
-    <abstract>This RFC defines a format for bibliographic records describing technical reports.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This RFC defines a format for bibliographic records describing technical reports.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1807"/>
+  <seriesInfo name="RFC" value="1807"/>
 </reference>

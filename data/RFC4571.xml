@@ -1,13 +1,15 @@
 <reference anchor="RFC4571" target="https://www.rfc-editor.org/info/rfc4571">
   <front>
     <title>Framing Real-time Transport Protocol (RTP) and RTP Control Protocol (RTCP) Packets over Connection-Oriented Transport</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4571"/>
-    <author fullname="J. Lazzaro"/>
+    <author fullname="J. Lazzaro" initials="J." surname="Lazzaro">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>avt</workgroup>
-    <keyword>TCP-based media transport</keyword>
-    <keyword>TCP tunnel</keyword>
-    <keyword>transmission control protocol</keyword>
-    <abstract>This memo defines a method for framing Real-time Transport Protocol (RTP) and RTP Control Protocol (RTCP) packets onto connection-oriented transport (such as TCP).  The memo also defines how session descriptions may specify RTP streams that use the framing method. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a method for framing Real-time Transport Protocol (RTP) and RTP Control Protocol (RTCP) packets onto connection-oriented transport (such as TCP).  The memo also defines how session descriptions may specify RTP streams that use the framing method. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4571"/>
+  <seriesInfo name="RFC" value="4571"/>
 </reference>

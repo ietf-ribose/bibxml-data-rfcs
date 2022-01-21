@@ -1,11 +1,15 @@
 <reference anchor="RFC1854" target="https://www.rfc-editor.org/info/rfc1854">
   <front>
     <title>SMTP Service Extension for Command Pipelining</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1854"/>
-    <author fullname="N. Freed"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
     <date year="1995" month="October"/>
     <workgroup>mailext</workgroup>
-    <keyword>simple mail transfer protocol</keyword>
-    <abstract>This memo defines an extension to the SMTP service whereby a server can indicate the extent of its ability to accept multiple commands in a single TCP send operation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the SMTP service whereby a server can indicate the extent of its ability to accept multiple commands in a single TCP send operation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1854"/>
+  <seriesInfo name="RFC" value="1854"/>
 </reference>

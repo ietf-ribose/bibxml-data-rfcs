@@ -1,11 +1,18 @@
 <reference anchor="RFC7686" target="https://www.rfc-editor.org/info/rfc7686">
   <front>
     <title>The ".onion" Special-Use Domain Name</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7686"/>
-    <author fullname="J. Appelbaum"/>
-    <author fullname="A. Muffett"/>
+    <author fullname="J. Appelbaum" initials="J." surname="Appelbaum">
+      <organization/>
+    </author>
+    <author fullname="A. Muffett" initials="A." surname="Muffett">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>dnsop</workgroup>
-    <abstract>This document registers the ".onion" Special-Use Domain Name.</abstract>
+    <abstract>
+      <t>This document registers the ".onion" Special-Use Domain Name.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7686"/>
+  <seriesInfo name="RFC" value="7686"/>
 </reference>

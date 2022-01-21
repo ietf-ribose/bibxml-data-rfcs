@@ -1,13 +1,18 @@
 <reference anchor="RFC8605" target="https://www.rfc-editor.org/info/rfc8605">
   <front>
     <title>vCard Format Extensions: ICANN Extensions for the Registration Data Access Protocol (RDAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8605"/>
-    <author fullname="S. Hollenbeck"/>
-    <author fullname="R. Carney"/>
+    <author fullname="S. Hollenbeck" initials="S." surname="Hollenbeck">
+      <organization/>
+    </author>
+    <author fullname="R. Carney" initials="R." surname="Carney">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>RDAP</keyword>
-    <keyword>vCard</keyword>
-    <abstract>This document defines extensions to the vCard data format for representing and exchanging contact information used to implement the Internet Corporation for Assigned Names and Numbers (ICANN) operational profile for the Registration Data Access Protocol (RDAP).  The property and parameter defined here are used to add values to RDAP responses that are consistent with ICANN policies.</abstract>
+    <abstract>
+      <t>This document defines extensions to the vCard data format for representing and exchanging contact information used to implement the Internet Corporation for Assigned Names and Numbers (ICANN) operational profile for the Registration Data Access Protocol (RDAP).  The property and parameter defined here are used to add values to RDAP responses that are consistent with ICANN policies.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8605"/>
+  <seriesInfo name="RFC" value="8605"/>
 </reference>

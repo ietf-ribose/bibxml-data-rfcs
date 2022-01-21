@@ -1,13 +1,21 @@
 <reference anchor="RFC4548" target="https://www.rfc-editor.org/info/rfc4548">
   <front>
     <title>Internet Code Point (ICP) Assignments for NSAP Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4548"/>
-    <author fullname="E. Gray"/>
-    <author fullname="J. Rutemiller"/>
-    <author fullname="G. Swallow"/>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="J. Rutemiller" initials="J." surname="Rutemiller">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>network service access point</keyword>
-    <abstract>This document is intended to accomplish two highly inter-related tasks: to establish an "initial" Internet Code Point (ICP) assignment for each of IPv4 and IPv6 address encoding in Network Service Access Point (NSAP) Addresses, and to recommend an IANA assignment policy for currently unassigned ICP values.  In the first task, this document is a partial replacement for RFC 1888 -- particularly for section 6 of RFC 1888.  In the second task, this document incorporates wording and specifications from ITU-T Recommendation X.213 and further recommends that IANA use the "IETF consensus" assignment policy in making future ICP assignments. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is intended to accomplish two highly inter-related tasks: to establish an "initial" Internet Code Point (ICP) assignment for each of IPv4 and IPv6 address encoding in Network Service Access Point (NSAP) Addresses, and to recommend an IANA assignment policy for currently unassigned ICP values.  In the first task, this document is a partial replacement for RFC 1888 -- particularly for section 6 of RFC 1888.  In the second task, this document incorporates wording and specifications from ITU-T Recommendation X.213 and further recommends that IANA use the "IETF consensus" assignment policy in making future ICP assignments. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4548"/>
+  <seriesInfo name="RFC" value="4548"/>
 </reference>

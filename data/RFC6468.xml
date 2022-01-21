@@ -1,15 +1,21 @@
 <reference anchor="RFC6468" target="https://www.rfc-editor.org/info/rfc6468">
   <front>
     <title>Sieve Notification Mechanism: SIP MESSAGE</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6468"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="B. Leiba"/>
-    <author fullname="K. Li"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
+    <author fullname="K. Li" initials="K." surname="Li">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>sieve</workgroup>
-    <keyword>Sieve</keyword>
-    <keyword>SIP</keyword>
-    <keyword>notification</keyword>
-    <abstract>This document describes a profile of the Sieve extension for notifications, to allow notifications to be sent over SIP MESSAGE. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a profile of the Sieve extension for notifications, to allow notifications to be sent over SIP MESSAGE. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6468"/>
+  <seriesInfo name="RFC" value="6468"/>
 </reference>

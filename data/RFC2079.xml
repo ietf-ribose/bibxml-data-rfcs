@@ -1,16 +1,15 @@
 <reference anchor="RFC2079" target="https://www.rfc-editor.org/info/rfc2079">
   <front>
     <title>Definition of an X.500 Attribute Type and an Object Class to Hold Uniform Resource Identifiers (URIs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2079"/>
-    <author fullname="M. Smith"/>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
     <workgroup>asid</workgroup>
-    <keyword>URI-ATT</keyword>
-    <keyword>URL</keyword>
-    <keyword>Universal</keyword>
-    <keyword>Resource</keyword>
-    <keyword>Locators</keyword>
-    <keyword>Directory</keyword>
-    <abstract>This document builds on the experimentation to date and defines a new attribute type and an auxiliary object class to allow URIs, including URLs, to be stored in directory entries in a standard way. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document builds on the experimentation to date and defines a new attribute type and an auxiliary object class to allow URIs, including URLs, to be stored in directory entries in a standard way. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2079"/>
+  <seriesInfo name="RFC" value="2079"/>
 </reference>

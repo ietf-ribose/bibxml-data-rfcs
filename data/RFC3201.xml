@@ -1,12 +1,18 @@
 <reference anchor="RFC3201" target="https://www.rfc-editor.org/info/rfc3201">
   <front>
     <title>Definitions of Managed Objects for Circuit to Interface Translation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3201"/>
-    <author fullname="R. Steinberger"/>
-    <author fullname="O. Nicklass"/>
+    <author fullname="R. Steinberger" initials="R." surname="Steinberger">
+      <organization/>
+    </author>
+    <author fullname="O. Nicklass" initials="O." surname="Nicklass">
+      <organization/>
+    </author>
     <date year="2002" month="January"/>
     <workgroup>frnetmib</workgroup>
-    <keyword>mib</keyword>
-    <abstract>This memo defines an extension of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing the insertion of interesting Circuit Interfaces into the ifTable.  This is important for circuits that must be used within other MIB modules which require an ifEntry.  It allows for integrated monitoring of circuits as well as routing to circuits using unaltered, pre-existing MIB modules. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing the insertion of interesting Circuit Interfaces into the ifTable.  This is important for circuits that must be used within other MIB modules which require an ifEntry.  It allows for integrated monitoring of circuits as well as routing to circuits using unaltered, pre-existing MIB modules. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3201"/>
+  <seriesInfo name="RFC" value="3201"/>
 </reference>

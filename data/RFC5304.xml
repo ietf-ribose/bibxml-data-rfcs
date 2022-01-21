@@ -1,19 +1,19 @@
 <reference anchor="RFC5304" target="https://www.rfc-editor.org/info/rfc5304">
   <front>
     <title>IS-IS Cryptographic Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5304"/>
-    <author fullname="T. Li"/>
-    <author fullname="R. Atkinson"/>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <keyword>IS-IS authentication</keyword>
-    <keyword>MD5</keyword>
-    <keyword>HMAC-MD5</keyword>
-    <keyword>security</keyword>
-    <keyword>routing</keyword>
-    <keyword>iso</keyword>
-    <keyword>international standards organization</keyword>
-    <abstract>This document describes the authentication of Intermediate System to Intermediate System (IS-IS) Protocol Data Units (PDUs) using the Hashed Message Authentication Codes - Message Digest 5 (HMAC-MD5) algorithm as found in RFC 2104. IS-IS is specified in International Standards Organization (ISO) 10589, with extensions to support Internet Protocol version 4 (IPv4) described in RFC 1195. The base specification includes an authentication mechanism that allows for multiple authentication algorithms. The base specification only specifies the algorithm for cleartext passwords. This document replaces RFC 3567. This document proposes an extension to that specification that allows the use of the HMAC-MD5 authentication algorithm to be used in conjunction with the existing authentication mechanisms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the authentication of Intermediate System to Intermediate System (IS-IS) Protocol Data Units (PDUs) using the Hashed Message Authentication Codes - Message Digest 5 (HMAC-MD5) algorithm as found in RFC 2104. IS-IS is specified in International Standards Organization (ISO) 10589, with extensions to support Internet Protocol version 4 (IPv4) described in RFC 1195. The base specification includes an authentication mechanism that allows for multiple authentication algorithms. The base specification only specifies the algorithm for cleartext passwords. This document replaces RFC 3567.</t>
+      <t>This document proposes an extension to that specification that allows the use of the HMAC-MD5 authentication algorithm to be used in conjunction with the existing authentication mechanisms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5304"/>
+  <seriesInfo name="RFC" value="5304"/>
 </reference>

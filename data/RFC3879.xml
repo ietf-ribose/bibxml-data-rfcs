@@ -1,13 +1,18 @@
 <reference anchor="RFC3879" target="https://www.rfc-editor.org/info/rfc3879">
   <front>
     <title>Deprecating Site Local Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3879"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="B. Carpenter"/>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>ipv6</workgroup>
-    <keyword>ipv6</keyword>
-    <keyword>architecture</keyword>
-    <abstract>This document describes the issues surrounding the use of IPv6 site-local unicast addresses in their original form, and formally deprecates them.  This deprecation does not prevent their continued use until a replacement has been standardized and implemented. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the issues surrounding the use of IPv6 site-local unicast addresses in their original form, and formally deprecates them.  This deprecation does not prevent their continued use until a replacement has been standardized and implemented. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3879"/>
+  <seriesInfo name="RFC" value="3879"/>
 </reference>

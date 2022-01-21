@@ -1,14 +1,18 @@
 <reference anchor="RFC7808" target="https://www.rfc-editor.org/info/rfc7808">
   <front>
     <title>Time Zone Data Distribution Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7808"/>
-    <author fullname="M. Douglass"/>
-    <author fullname="C. Daboo"/>
+    <author fullname="M. Douglass" initials="M." surname="Douglass">
+      <organization/>
+    </author>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
     <date year="2016" month="March"/>
     <workgroup>tzdist</workgroup>
-    <keyword>time zone</keyword>
-    <keyword>calendaring</keyword>
-    <keyword>scheduling</keyword>
-    <abstract>This document defines a time zone data distribution service that allows reliable, secure, and fast delivery of time zone data and leap-second rules to client systems such as calendaring and scheduling applications or operating systems.</abstract>
+    <abstract>
+      <t>This document defines a time zone data distribution service that allows reliable, secure, and fast delivery of time zone data and leap-second rules to client systems such as calendaring and scheduling applications or operating systems.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7808"/>
+  <seriesInfo name="RFC" value="7808"/>
 </reference>

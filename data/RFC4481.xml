@@ -1,10 +1,15 @@
 <reference anchor="RFC4481" target="https://www.rfc-editor.org/info/rfc4481">
   <front>
     <title>Timed Presence Extensions to the Presence Information Data Format (PIDF) to Indicate Status Information for Past and Future Time Intervals</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4481"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>simple</workgroup>
-    <abstract>The Presence Information Data Format (PIDF) defines a basic XML format for presenting presence information for a presentity.  This document extends PIDF, adding a timed status extension (<timed-status> element) that allows a presentity to declare its status for a time interval fully in the future or the past. [STANDARDS-TRACK]</timed-status></abstract>
+    <abstract>
+      <t>The Presence Information Data Format (PIDF) defines a basic XML format for presenting presence information for a presentity.  This document extends PIDF, adding a timed status extension (<timed-status> element) that allows a presentity to declare its status for a time interval fully in the future or the past. [STANDARDS-TRACK]</timed-status></t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4481"/>
+  <seriesInfo name="RFC" value="4481"/>
 </reference>

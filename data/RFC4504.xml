@@ -1,16 +1,22 @@
 <reference anchor="RFC4504" target="https://www.rfc-editor.org/info/rfc4504">
   <front>
     <title>SIP Telephony Device Requirements and Configuration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4504"/>
-    <author fullname="H. Sinnreich"/>
-    <author fullname=" S. Lass"/>
-    <author fullname="C. Stredicke"/>
+    <author fullname="H. Sinnreich" initials="H." surname="Sinnreich">
+      <organization/>
+    </author>
+    <author fullname=" S. Lass" initials="S." surname="Lass">
+      <organization/>
+    </author>
+    <author fullname="C. Stredicke" initials="C." surname="Stredicke">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>session initiation protocol</keyword>
-    <keyword>pc</keyword>
-    <keyword>pda</keyword>
-    <keyword>analog</keyword>
-    <abstract>This document describes the requirements for SIP telephony devices, based on the deployment experience of large numbers of SIP phones and PC clients using different implementations in various networks. The objectives of the requirements are a well-defined set of interoperability and multi-vendor-supported core features, so as to enable similar ease of purchase, installation, and operation as found for PCs, PDAs, analog feature phones or mobile phones. We present a glossary of the most common settings and some of the more widely used values for some settings. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the requirements for SIP telephony devices, based on the deployment experience of large numbers of SIP phones and PC clients using different implementations in various networks. The objectives of the requirements are a well-defined set of interoperability and multi-vendor-supported core features, so as to enable similar ease of purchase, installation, and operation as found for PCs, PDAs, analog feature phones or mobile phones.</t>
+      <t>We present a glossary of the most common settings and some of the more widely used values for some settings. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4504"/>
+  <seriesInfo name="RFC" value="4504"/>
 </reference>

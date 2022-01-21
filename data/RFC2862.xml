@@ -1,16 +1,18 @@
 <reference anchor="RFC2862" target="https://www.rfc-editor.org/info/rfc2862">
   <front>
     <title>RTP Payload Format for Real-Time Pointers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2862"/>
-    <author fullname="M. Civanlar"/>
-    <author fullname="G. Cash"/>
+    <author fullname="M. Civanlar" initials="M." surname="Civanlar">
+      <organization/>
+    </author>
+    <author fullname="G. Cash" initials="G." surname="Cash">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>avt</workgroup>
-    <keyword>view graphs</keyword>
-    <keyword>resolution</keyword>
-    <keyword>audio</keyword>
-    <keyword>video</keyword>
-    <keyword>signals</keyword>
-    <abstract>This document describes an RTP payload format for transporting the coordinates of a dynamic pointer that may be used during a presentation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an RTP payload format for transporting the coordinates of a dynamic pointer that may be used during a presentation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2862"/>
+  <seriesInfo name="RFC" value="2862"/>
 </reference>

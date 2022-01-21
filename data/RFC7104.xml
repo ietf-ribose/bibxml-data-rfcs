@@ -1,16 +1,21 @@
 <reference anchor="RFC7104" target="https://www.rfc-editor.org/info/rfc7104">
   <front>
     <title>Duplication Grouping Semantics in the Session Description Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7104"/>
-    <author fullname="A. Begen"/>
-    <author fullname="Y. Cai"/>
-    <author fullname="H. Ou"/>
+    <author fullname="A. Begen" initials="A." surname="Begen">
+      <organization/>
+    </author>
+    <author fullname="Y. Cai" initials="Y." surname="Cai">
+      <organization/>
+    </author>
+    <author fullname="H. Ou" initials="H." surname="Ou">
+      <organization/>
+    </author>
     <date year="2014" month="January"/>
     <workgroup>mmusic</workgroup>
-    <keyword>SDP</keyword>
-    <keyword>ssrc</keyword>
-    <keyword>synchronization source</keyword>
-    <keyword>grouping framework</keyword>
-    <abstract>Packet loss is undesirable for real-time multimedia sessions, but it can occur due to congestion or other unplanned network outages.  This is especially true for IP multicast networks, where packet loss patterns can vary greatly between receivers.  One technique that can be used to recover from packet loss without incurring unbounded delay for all the receivers is to duplicate the packets and send them in separate redundant streams.  This document defines the semantics for grouping redundant streams in the Session Description Protocol (SDP).  The semantics defined in this document are to be used with the SDP Grouping Framework.  Grouping semantics at the Synchronization Source (SSRC) level are also defined in this document for RTP streams using SSRC multiplexing.</abstract>
+    <abstract>
+      <t>Packet loss is undesirable for real-time multimedia sessions, but it can occur due to congestion or other unplanned network outages.  This is especially true for IP multicast networks, where packet loss patterns can vary greatly between receivers.  One technique that can be used to recover from packet loss without incurring unbounded delay for all the receivers is to duplicate the packets and send them in separate redundant streams.  This document defines the semantics for grouping redundant streams in the Session Description Protocol (SDP).  The semantics defined in this document are to be used with the SDP Grouping Framework.  Grouping semantics at the Synchronization Source (SSRC) level are also defined in this document for RTP streams using SSRC multiplexing.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7104"/>
+  <seriesInfo name="RFC" value="7104"/>
 </reference>

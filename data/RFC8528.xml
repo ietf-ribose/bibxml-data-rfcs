@@ -1,11 +1,18 @@
 <reference anchor="RFC8528" target="https://www.rfc-editor.org/info/rfc8528">
   <front>
     <title>YANG Schema Mount</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8528"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="L. Lhotka"/>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="L. Lhotka" initials="L." surname="Lhotka">
+      <organization/>
+    </author>
     <date year="2019" month="March"/>
     <workgroup>netmod</workgroup>
-    <abstract>This document defines a mechanism that adds the schema trees defined by a set of YANG modules onto a mount point defined in the schema tree in another YANG module.</abstract>
+    <abstract>
+      <t>This document defines a mechanism that adds the schema trees defined by a set of YANG modules onto a mount point defined in the schema tree in another YANG module.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8528"/>
+  <seriesInfo name="RFC" value="8528"/>
 </reference>

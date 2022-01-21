@@ -1,16 +1,24 @@
 <reference anchor="RFC3778" target="https://www.rfc-editor.org/info/rfc3778">
   <front>
     <title>The application/pdf Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3778"/>
-    <author fullname="E. Taft"/>
-    <author fullname="J. Pravetz"/>
-    <author fullname="S. Zilles"/>
-    <author fullname="L. Masinter"/>
+    <author fullname="E. Taft" initials="E." surname="Taft">
+      <organization/>
+    </author>
+    <author fullname="J. Pravetz" initials="J." surname="Pravetz">
+      <organization/>
+    </author>
+    <author fullname="S. Zilles" initials="S." surname="Zilles">
+      <organization/>
+    </author>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
     <date year="2004" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>portable document format</keyword>
-    <keyword>document exchange</keyword>
-    <keyword>digital signatures</keyword>
-    <abstract>PDF, the 'Portable Document Format', is a general document representation language that has been in use for document exchange on the Internet since 1993.  This document provides an overview of the PDF format, explains the mechanisms for digital signatures and encryption within PDF files, and updates the media type registration of 'application/pdf'.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>PDF, the 'Portable Document Format', is a general document representation language that has been in use for document exchange on the Internet since 1993.  This document provides an overview of the PDF format, explains the mechanisms for digital signatures and encryption within PDF files, and updates the media type registration of 'application/pdf'.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3778"/>
+  <seriesInfo name="RFC" value="3778"/>
 </reference>

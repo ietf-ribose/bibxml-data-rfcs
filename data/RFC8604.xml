@@ -1,13 +1,26 @@
 <reference anchor="RFC8604" target="https://www.rfc-editor.org/info/rfc8604">
   <front>
     <title>Interconnecting Millions of Endpoints with Segment Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8604"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="G. Dawra"/>
-    <author fullname="W. Henderickx"/>
-    <author fullname="D. Cooper"/>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="G. Dawra" initials="G." surname="Dawra">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
+    <author fullname="D. Cooper" initials="D." surname="Cooper">
+      <organization/>
+    </author>
     <date year="2019" month="June"/>
-    <abstract>This document describes an application of Segment Routing to scale the network to support hundreds of thousands of network nodes, and tens of millions of physical underlay endpoints.  This use case can be applied to the interconnection of massive-scale Data Centers (DCs) and/or large aggregation networks.  Forwarding tables of midpoint and leaf nodes only require a few tens of thousands of entries.  This may be achieved by the inherently scaleable nature of Segment Routing and the design proposed in this document.</abstract>
+    <abstract>
+      <t>This document describes an application of Segment Routing to scale the network to support hundreds of thousands of network nodes, and tens of millions of physical underlay endpoints.  This use case can be applied to the interconnection of massive-scale Data Centers (DCs) and/or large aggregation networks.  Forwarding tables of midpoint and leaf nodes only require a few tens of thousands of entries.  This may be achieved by the inherently scaleable nature of Segment Routing and the design proposed in this document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8604"/>
+  <seriesInfo name="RFC" value="8604"/>
 </reference>

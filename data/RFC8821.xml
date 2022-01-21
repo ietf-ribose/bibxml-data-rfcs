@@ -1,15 +1,24 @@
 <reference anchor="RFC8821" target="https://www.rfc-editor.org/info/rfc8821">
   <front>
     <title>PCE-Based Traffic Engineering (TE) in Native IP Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8821"/>
-    <author fullname="A. Wang"/>
-    <author fullname="B. Khasanov"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="H. Chen"/>
+    <author fullname="A. Wang" initials="A." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="B. Khasanov" initials="B." surname="Khasanov">
+      <organization/>
+    </author>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>teas</workgroup>
-    <keyword>Centralized Control Dynamic Routing</keyword>
-    <keyword>CCDR</keyword>
-    <abstract>This document defines an architecture for providing traffic engineering in a native IP network using multiple BGP sessions and a Path Computation Element (PCE)-based central control mechanism.  It defines the Centralized Control Dynamic Routing (CCDR) procedures and identifies needed extensions for the Path Computation Element Communication Protocol (PCEP).</abstract>
+    <abstract>
+      <t>This document defines an architecture for providing traffic engineering in a native IP network using multiple BGP sessions and a Path Computation Element (PCE)-based central control mechanism.  It defines the Centralized Control Dynamic Routing (CCDR) procedures and identifies needed extensions for the Path Computation Element Communication Protocol (PCEP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8821"/>
+  <seriesInfo name="RFC" value="8821"/>
 </reference>

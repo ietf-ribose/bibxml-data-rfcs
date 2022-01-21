@@ -1,14 +1,15 @@
 <reference anchor="RFC7383" target="https://www.rfc-editor.org/info/rfc7383">
   <front>
     <title>Internet Key Exchange Protocol Version 2 (IKEv2) Message Fragmentation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7383"/>
-    <author fullname="V. Smyslov"/>
+    <author fullname="V. Smyslov" initials="V." surname="Smyslov">
+      <organization/>
+    </author>
     <date year="2014" month="November"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IP fragmentation</keyword>
-    <keyword>NAT</keyword>
-    <keyword>firewall</keyword>
-    <keyword>PMTU discovery</keyword>
-    <abstract>This document describes a way to avoid IP fragmentation of large Internet Key Exchange Protocol version 2 (IKEv2) messages.  This allows IKEv2 messages to traverse network devices that do not allow IP fragments to pass through.</abstract>
+    <abstract>
+      <t>This document describes a way to avoid IP fragmentation of large Internet Key Exchange Protocol version 2 (IKEv2) messages.  This allows IKEv2 messages to traverse network devices that do not allow IP fragments to pass through.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7383"/>
+  <seriesInfo name="RFC" value="7383"/>
 </reference>

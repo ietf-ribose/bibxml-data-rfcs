@@ -1,15 +1,27 @@
 <reference anchor="RFC8640" target="https://www.rfc-editor.org/info/rfc8640">
   <front>
     <title>Dynamic Subscription to YANG Events and Datastores over NETCONF</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8640"/>
-    <author fullname="E. Voit"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="A. Gonzalez Prieto"/>
-    <author fullname="E. Nilsen-Nygaard"/>
-    <author fullname="A. Tripathy"/>
+    <author fullname="E. Voit" initials="E." surname="Voit">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="A. Gonzalez Prieto" initials="A." surname="Gonzalez">
+      <organization/>
+    </author>
+    <author fullname="E. Nilsen-Nygaard" initials="E." surname="Nilsen-Nygaard">
+      <organization/>
+    </author>
+    <author fullname="A. Tripathy" initials="A." surname="Tripathy">
+      <organization/>
+    </author>
     <date year="2019" month="September"/>
     <workgroup>netconf</workgroup>
-    <keyword>telemetry</keyword>
-    <abstract>This document provides a Network Configuration Protocol (NETCONF) binding to the dynamic subscription capability of both subscribed notifications and YANG-Push.</abstract>
+    <abstract>
+      <t>This document provides a Network Configuration Protocol (NETCONF) binding to the dynamic subscription capability of both subscribed notifications and YANG-Push.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8640"/>
+  <seriesInfo name="RFC" value="8640"/>
 </reference>

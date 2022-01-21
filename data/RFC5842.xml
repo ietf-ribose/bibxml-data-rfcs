@@ -1,17 +1,24 @@
 <reference anchor="RFC5842" target="https://www.rfc-editor.org/info/rfc5842">
   <front>
     <title>Binding Extensions to Web Distributed Authoring and Versioning (WebDAV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5842"/>
-    <author fullname="G. Clemm"/>
-    <author fullname="J. Crawford"/>
-    <author fullname="J. Reschke"/>
-    <author fullname="J. Whitehead"/>
+    <author fullname="G. Clemm" initials="G." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="J. Crawford" initials="J." surname="Crawford">
+      <organization/>
+    </author>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
+    <author fullname="J. Whitehead" initials="J." surname="Whitehead">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>WebDAV</keyword>
-    <keyword>collections</keyword>
-    <keyword>hard link</keyword>
-    <abstract>This specification defines bindings, and the BIND method for creating multiple bindings to the same resource.  Creating a new binding to a resource causes at least one new URI to be mapped to that resource.  Servers are required to ensure the integrity of any bindings that they allow to be created.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This specification defines bindings, and the BIND method for creating multiple bindings to the same resource.  Creating a new binding to a resource causes at least one new URI to be mapped to that resource.  Servers are required to ensure the integrity of any bindings that they allow to be created.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5842"/>
+  <seriesInfo name="RFC" value="5842"/>
 </reference>

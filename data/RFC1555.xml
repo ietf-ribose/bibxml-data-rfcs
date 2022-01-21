@@ -1,11 +1,17 @@
 <reference anchor="RFC1555" target="https://www.rfc-editor.org/info/rfc1555">
   <front>
     <title>Hebrew Character Encoding for Internet Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1555"/>
-    <author fullname="H. Nussbacher"/>
-    <author fullname="Y. Bourvine"/>
+    <author fullname="H. Nussbacher" initials="H." surname="Nussbacher">
+      <organization/>
+    </author>
+    <author fullname="Y. Bourvine" initials="Y." surname="Bourvine">
+      <organization/>
+    </author>
     <date year="1993" month="December"/>
-    <keyword>Character Set</keyword>
-    <abstract>This document describes the encoding used in electronic mail [RFC822] for transferring Hebrew.  The standard devised makes use of MIME [RFC1521] and ISO-8859-8.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes the encoding used in electronic mail [RFC822] for transferring Hebrew.  The standard devised makes use of MIME [RFC1521] and ISO-8859-8.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1555"/>
+  <seriesInfo name="RFC" value="1555"/>
 </reference>

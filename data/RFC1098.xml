@@ -1,12 +1,23 @@
 <reference anchor="RFC1098" target="https://www.rfc-editor.org/info/rfc1098">
   <front>
     <title>Simple Network Management Protocol (SNMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1098"/>
-    <author fullname="J.D. Case"/>
-    <author fullname="M. Fedor"/>
-    <author fullname="M.L. Schoffstall"/>
-    <author fullname="J. Davin"/>
+    <author fullname="J.D. Case" initials="J.D." surname="Case">
+      <organization/>
+    </author>
+    <author fullname="M. Fedor" initials="M." surname="Fedor">
+      <organization/>
+    </author>
+    <author fullname="M.L. Schoffstall" initials="M.L." surname="Schoffstall">
+      <organization/>
+    </author>
+    <author fullname="J. Davin" initials="J." surname="Davin">
+      <organization/>
+    </author>
     <date year="1989" month="April"/>
-    <abstract>This RFC is a re-release of RFC 1067, with a changed "Status of this Memo" section.  This memo defines a simple protocol by which management information for a network element may be inspected or altered by logically remote users.  In particular, together with its companion memos which describe the structure of management information along with the initial management information base, these documents provide a simple, workable architecture and system for managing TCP/IP-based internets and in particular the Internet.</abstract>
+    <abstract>
+      <t>This RFC is a re-release of RFC 1067, with a changed "Status of this Memo" section.  This memo defines a simple protocol by which management information for a network element may be inspected or altered by logically remote users.  In particular, together with its companion memos which describe the structure of management information along with the initial management information base, these documents provide a simple, workable architecture and system for managing TCP/IP-based internets and in particular the Internet.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1098"/>
+  <seriesInfo name="RFC" value="1098"/>
 </reference>

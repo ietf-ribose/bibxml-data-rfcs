@@ -1,17 +1,15 @@
 <reference anchor="RFC1256" target="https://www.rfc-editor.org/info/rfc1256">
   <front>
     <title>ICMP Router Discovery Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1256"/>
-    <author fullname="S. Deering"/>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="1991" month="September"/>
     <workgroup>rdisc</workgroup>
-    <keyword>ICMP-ROUT</keyword>
-    <keyword>ICMP</keyword>
-    <keyword>router</keyword>
-    <keyword>gateway</keyword>
-    <keyword>discovery</keyword>
-    <keyword>standard</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document specifies an extension of the Internet Control Message Protocol (ICMP) to enable hosts attached to multicast or broadcast networks to discover the IP addresses of their neighboring routers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an extension of the Internet Control Message Protocol (ICMP) to enable hosts attached to multicast or broadcast networks to discover the IP addresses of their neighboring routers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1256"/>
+  <seriesInfo name="RFC" value="1256"/>
 </reference>

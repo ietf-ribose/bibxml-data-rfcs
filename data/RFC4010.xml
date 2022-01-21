@@ -1,15 +1,25 @@
 <reference anchor="RFC4010" target="https://www.rfc-editor.org/info/rfc4010">
   <front>
     <title>Use of the SEED Encryption Algorithm in Cryptographic Message Syntax (CMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4010"/>
-    <author fullname="J. Park"/>
-    <author fullname="S. Lee"/>
-    <author fullname="J. Kim"/>
-    <author fullname="J. Lee"/>
+    <author fullname="J. Park" initials="J." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="S. Lee" initials="S." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J. Kim" initials="J." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>smime</workgroup>
-    <keyword>smime</keyword>
-    <keyword>secure/multipurpose internet mail extensions</keyword>
-    <abstract>This document specifies the conventions for using the SEED encryption algorithm for encryption with the Cryptographic Message Syntax (CMS). SEED is added to the set of optional symmetric encryption algorithms in CMS by providing two classes of unique object identifiers (OIDs). One OID class defines the content encryption algorithms and the other defines the key encryption algorithms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the conventions for using the SEED encryption algorithm for encryption with the Cryptographic Message Syntax (CMS).</t>
+      <t>SEED is added to the set of optional symmetric encryption algorithms in CMS by providing two classes of unique object identifiers (OIDs). One OID class defines the content encryption algorithms and the other defines the key encryption algorithms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4010"/>
+  <seriesInfo name="RFC" value="4010"/>
 </reference>

@@ -1,12 +1,15 @@
 <reference anchor="RFC4044" target="https://www.rfc-editor.org/info/rfc4044">
   <front>
     <title>Fibre Channel Management MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4044"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="2005" month="May"/>
     <workgroup>ips</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>fc-mgmt-mib</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to the Fibre Channel. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to the Fibre Channel. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4044"/>
+  <seriesInfo name="RFC" value="4044"/>
 </reference>

@@ -1,15 +1,19 @@
 <reference anchor="RFC5301" target="https://www.rfc-editor.org/info/rfc5301">
   <front>
     <title>Dynamic Hostname Exchange Mechanism for IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5301"/>
-    <author fullname="D. McPherson"/>
-    <author fullname="N. Shen"/>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
+    <author fullname="N. Shen" initials="N." surname="Shen">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <keyword>routers</keyword>
-    <keyword>tlv</keyword>
-    <keyword>name-to-systemID</keyword>
-    <abstract>RFC 2763 defined a simple and dynamic mechanism for routers running IS-IS to learn about symbolic hostnames. RFC 2763 defined a new TLV that allows the IS-IS routers to flood their name-to-systemID mapping information across the IS-IS network. This document obsoletes RFC 2763. This document moves the capability provided by RFC 2763 to the Standards Track. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>RFC 2763 defined a simple and dynamic mechanism for routers running IS-IS to learn about symbolic hostnames. RFC 2763 defined a new TLV that allows the IS-IS routers to flood their name-to-systemID mapping information across the IS-IS network.</t>
+      <t>This document obsoletes RFC 2763. This document moves the capability provided by RFC 2763 to the Standards Track. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5301"/>
+  <seriesInfo name="RFC" value="5301"/>
 </reference>

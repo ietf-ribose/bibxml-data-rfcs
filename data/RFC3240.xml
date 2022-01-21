@@ -1,14 +1,17 @@
 <reference anchor="RFC3240" target="https://www.rfc-editor.org/info/rfc3240">
   <front>
     <title>Digital Imaging and Communications in Medicine (DICOM) - Application/dicom MIME Sub-type Registration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3240"/>
-    <author fullname="D. Clunie"/>
-    <author fullname="E. Cordonnier"/>
+    <author fullname="D. Clunie" initials="D." surname="Clunie">
+      <organization/>
+    </author>
+    <author fullname="E. Cordonnier" initials="E." surname="Cordonnier">
+      <organization/>
+    </author>
     <date year="2002" month="February"/>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes the registration of the MIME sub-type application/dicom (Digital Imaging and Communications in Medicine).  The baseline encoding is defined by the DICOM Standards Committee in "Digital Imaging and Communications in Medicine".  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the registration of the MIME sub-type application/dicom (Digital Imaging and Communications in Medicine).  The baseline encoding is defined by the DICOM Standards Committee in "Digital Imaging and Communications in Medicine".  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3240"/>
+  <seriesInfo name="RFC" value="3240"/>
 </reference>

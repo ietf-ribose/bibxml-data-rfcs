@@ -1,9 +1,14 @@
 <reference anchor="RFC0972" target="https://www.rfc-editor.org/info/rfc972">
   <front>
     <title>Password Generator Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0972"/>
-    <author fullname="F.J. Wancho"/>
+    <author fullname="F.J. Wancho" initials="F.J." surname="Wancho">
+      <organization/>
+    </author>
     <date year="1986" month="January"/>
-    <abstract>This RFC specifies a standard for the ARPA Internet community.  The Password Generator Service (PWDGEN) provides a set of six randomly generated eight-character "words" with a reasonable level of pronounceability, using a multi-level algorithm.  Hosts on the ARPA Internet that choose to implement a password generator service are expected to adopt and implement this standard.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the ARPA Internet community.  The Password Generator Service (PWDGEN) provides a set of six randomly generated eight-character "words" with a reasonable level of pronounceability, using a multi-level algorithm.  Hosts on the ARPA Internet that choose to implement a password generator service are expected to adopt and implement this standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0972"/>
+  <seriesInfo name="RFC" value="972"/>
 </reference>

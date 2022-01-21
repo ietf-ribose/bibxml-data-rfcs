@@ -1,13 +1,18 @@
 <reference anchor="RFC1638" target="https://www.rfc-editor.org/info/rfc1638">
   <front>
     <title>PPP Bridging Control Protocol (BCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1638"/>
-    <author fullname="F. Baker"/>
-    <author fullname="R. Bowen"/>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="R. Bowen" initials="R." surname="Bowen">
+      <organization/>
+    </author>
     <date year="1994" month="June"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-BCP</keyword>
-    <keyword>Point to Point</keyword>
-    <abstract>This document defines the Network Control Protocol for establishing and configuring Remote Bridging for PPP links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Network Control Protocol for establishing and configuring Remote Bridging for PPP links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1638"/>
+  <seriesInfo name="RFC" value="1638"/>
 </reference>

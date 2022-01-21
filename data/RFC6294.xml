@@ -1,12 +1,17 @@
 <reference anchor="RFC6294" target="https://www.rfc-editor.org/info/rfc6294">
   <front>
     <title>Survey of Proposed Use Cases for the IPv6 Flow Label</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6294"/>
-    <author fullname="Q. Hu"/>
-    <author fullname="B. Carpenter"/>
+    <author fullname="Q. Hu" initials="Q." surname="Hu">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
-    <keyword>Quality of service</keyword>
-    <keyword>QoS</keyword>
-    <abstract>The IPv6 protocol includes a flow label in every packet header, but this field is not used in practice.  This paper describes the flow label standard and discusses the implementation issues that it raises.  It then describes various published proposals for using the flow label and shows that most of them are inconsistent with the standard.  Methods to address this problem are briefly reviewed.  We also question whether the standard should be revised.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The IPv6 protocol includes a flow label in every packet header, but this field is not used in practice.  This paper describes the flow label standard and discusses the implementation issues that it raises.  It then describes various published proposals for using the flow label and shows that most of them are inconsistent with the standard.  Methods to address this problem are briefly reviewed.  We also question whether the standard should be revised.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6294"/>
+  <seriesInfo name="RFC" value="6294"/>
 </reference>

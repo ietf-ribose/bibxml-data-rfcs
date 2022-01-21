@@ -1,16 +1,21 @@
 <reference anchor="RFC8047" target="https://www.rfc-editor.org/info/rfc8047">
   <front>
     <title>Host Multihoming with the Host Identity Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8047"/>
-    <author fullname="T. Henderson"/>
-    <author fullname="C. Vogt"/>
-    <author fullname="J. Arkko"/>
+    <author fullname="T. Henderson" initials="T." surname="Henderson">
+      <organization/>
+    </author>
+    <author fullname="C. Vogt" initials="C." surname="Vogt">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>hip</workgroup>
-    <keyword>hip</keyword>
-    <keyword>multihoming extensions</keyword>
-    <keyword>mobility extensions</keyword>
-    <keyword>locator</keyword>
-    <abstract>This document defines host multihoming extensions to the Host Identity Protocol (HIP), by leveraging protocol components defined for host mobility.</abstract>
+    <abstract>
+      <t>This document defines host multihoming extensions to the Host Identity Protocol (HIP), by leveraging protocol components defined for host mobility.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8047"/>
+  <seriesInfo name="RFC" value="8047"/>
 </reference>

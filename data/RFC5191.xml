@@ -1,16 +1,27 @@
 <reference anchor="RFC5191" target="https://www.rfc-editor.org/info/rfc5191">
   <front>
     <title>Protocol for Carrying Authentication for Network Access (PANA)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5191"/>
-    <author fullname="D. Forsberg"/>
-    <author fullname="Y. Ohba"/>
-    <author fullname="B. Patil"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="A. Yegin"/>
+    <author fullname="D. Forsberg" initials="D." surname="Forsberg">
+      <organization/>
+    </author>
+    <author fullname="Y. Ohba" initials="Y." surname="Ohba">
+      <organization/>
+    </author>
+    <author fullname="B. Patil" initials="B." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="A. Yegin" initials="A." surname="Yegin">
+      <organization/>
+    </author>
     <date year="2008" month="May"/>
     <workgroup>pana</workgroup>
-    <keyword>eap</keyword>
-    <keyword>exensible authentication protocol</keyword>
-    <abstract>This document defines the Protocol for Carrying Authentication for Network Access (PANA), a network-layer transport for Extensible Authentication Protocol (EAP) to enable network access authentication between clients and access networks.  In EAP terms, PANA is a UDP-based EAP lower layer that runs between the EAP peer and the EAP authenticator. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Protocol for Carrying Authentication for Network Access (PANA), a network-layer transport for Extensible Authentication Protocol (EAP) to enable network access authentication between clients and access networks.  In EAP terms, PANA is a UDP-based EAP lower layer that runs between the EAP peer and the EAP authenticator. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5191"/>
+  <seriesInfo name="RFC" value="5191"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC1549" target="https://www.rfc-editor.org/info/rfc1549">
   <front>
     <title>PPP in HDLC Framing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1549"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1993" month="December"/>
     <workgroup>pppext</workgroup>
-    <keyword>point</keyword>
-    <keyword>link</keyword>
-    <keyword>serial</keyword>
-    <keyword>line</keyword>
-    <abstract>This document describes the use of HDLC for framing PPP encapsulated packets. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of HDLC for framing PPP encapsulated packets. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1549"/>
+  <seriesInfo name="RFC" value="1549"/>
 </reference>

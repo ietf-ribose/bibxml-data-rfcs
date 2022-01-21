@@ -1,12 +1,18 @@
 <reference anchor="RFC7146" target="https://www.rfc-editor.org/info/rfc7146">
   <front>
     <title>Securing Block Storage Protocols over IP: RFC 3723 Requirements Update for IPsec v3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7146"/>
-    <author fullname="D. Black"/>
-    <author fullname="P. Koning"/>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="P. Koning" initials="P." surname="Koning">
+      <organization/>
+    </author>
     <date year="2014" month="April"/>
     <workgroup>storm</workgroup>
-    <keyword>IPsec</keyword>
-    <abstract>RFC 3723 specifies IPsec requirements for block storage protocols over IP (e.g., Internet Small Computer System Interface (iSCSI)) based on IPsec v2 (RFC 2401 and related RFCs); those requirements have subsequently been applied to remote direct data placement protocols, e.g., the Remote Direct Memory Access Protocol (RDMAP).  This document updates RFC 3723's IPsec requirements to IPsec v3 (RFC 4301 and related RFCs) and makes some changes to required algorithms based on developments in cryptography since RFC 3723 was published.</abstract>
+    <abstract>
+      <t>RFC 3723 specifies IPsec requirements for block storage protocols over IP (e.g., Internet Small Computer System Interface (iSCSI)) based on IPsec v2 (RFC 2401 and related RFCs); those requirements have subsequently been applied to remote direct data placement protocols, e.g., the Remote Direct Memory Access Protocol (RDMAP).  This document updates RFC 3723's IPsec requirements to IPsec v3 (RFC 4301 and related RFCs) and makes some changes to required algorithms based on developments in cryptography since RFC 3723 was published.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7146"/>
+  <seriesInfo name="RFC" value="7146"/>
 </reference>

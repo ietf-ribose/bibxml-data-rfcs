@@ -1,15 +1,24 @@
 <reference anchor="RFC6733" target="https://www.rfc-editor.org/info/rfc6733">
   <front>
     <title>Diameter Base Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6733"/>
-    <author fullname="V. Fajardo"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="J. Loughney"/>
-    <author fullname="G. Zorn"/>
+    <author fullname="V. Fajardo" initials="V." surname="Fajardo">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="J. Loughney" initials="J." surname="Loughney">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
     <date year="2012" month="October"/>
     <workgroup>dime</workgroup>
-    <keyword>Diameter</keyword>
-    <keyword>AAA</keyword>
-    <abstract>The Diameter base protocol is intended to provide an Authentication, Authorization, and Accounting (AAA) framework for applications such as network access or IP mobility in both local and roaming situations.  This document specifies the message format, transport, error reporting, accounting, and security services used by all Diameter applications.  The Diameter base protocol as defined in this document obsoletes RFC 3588 and RFC 5719, and it must be supported by all new Diameter implementations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Diameter base protocol is intended to provide an Authentication, Authorization, and Accounting (AAA) framework for applications such as network access or IP mobility in both local and roaming situations.  This document specifies the message format, transport, error reporting, accounting, and security services used by all Diameter applications.  The Diameter base protocol as defined in this document obsoletes RFC 3588 and RFC 5719, and it must be supported by all new Diameter implementations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6733"/>
+  <seriesInfo name="RFC" value="6733"/>
 </reference>

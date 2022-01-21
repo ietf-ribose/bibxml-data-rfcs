@@ -1,14 +1,19 @@
 <reference anchor="RFC8398" target="https://www.rfc-editor.org/info/rfc8398">
   <front>
     <title>Internationalized Email Addresses in X.509 Certificates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8398"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="W. Chuang"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="W. Chuang" initials="W." surname="Chuang">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
     <workgroup>lamps</workgroup>
-    <keyword>EAI</keyword>
-    <keyword>PKIX</keyword>
-    <keyword>emal address</keyword>
-    <abstract>This document defines a new name form for inclusion in the otherName field of an X.509 Subject Alternative Name and Issuer Alternative Name extension that allows a certificate subject to be associated with an internationalized email address. This document updates RFC 5280.</abstract>
+    <abstract>
+      <t>This document defines a new name form for inclusion in the otherName field of an X.509 Subject Alternative Name and Issuer Alternative Name extension that allows a certificate subject to be associated with an internationalized email address.</t>
+      <t>This document updates RFC 5280.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8398"/>
+  <seriesInfo name="RFC" value="8398"/>
 </reference>

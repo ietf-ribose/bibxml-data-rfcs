@@ -1,14 +1,19 @@
 <reference anchor="RFC5784" target="https://www.rfc-editor.org/info/rfc5784">
   <front>
     <title>Sieve Email Filtering:  Sieves and Display Directives in XML</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5784"/>
-    <author fullname="N. Freed"/>
-    <author fullname="S. Vedam"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="S. Vedam" initials="S." surname="Vedam">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>sieve</workgroup>
-    <keyword>SMTP</keyword>
-    <keyword>ESMTP</keyword>
-    <keyword>Sieve</keyword>
-    <abstract>This document describes a way to represent Sieve email filtering language scripts in XML. Representing Sieves in XML is intended not as an alternate storage format for Sieve but rather as a means to facilitate manipulation of scripts using XML tools. The XML representation also defines additional elements that have no counterparts in the regular Sieve language. These elements are intended for use by graphical user interfaces and provide facilities for labeling or grouping sections of a script so they can be displayed more conveniently. These elements are represented as specially structured comments in regular Sieve format. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a way to represent Sieve email filtering language scripts in XML. Representing Sieves in XML is intended not as an alternate storage format for Sieve but rather as a means to facilitate manipulation of scripts using XML tools.</t>
+      <t>The XML representation also defines additional elements that have no counterparts in the regular Sieve language. These elements are intended for use by graphical user interfaces and provide facilities for labeling or grouping sections of a script so they can be displayed more conveniently. These elements are represented as specially structured comments in regular Sieve format. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5784"/>
+  <seriesInfo name="RFC" value="5784"/>
 </reference>

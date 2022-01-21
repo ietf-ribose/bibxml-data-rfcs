@@ -1,14 +1,18 @@
 <reference anchor="RFC5839" target="https://www.rfc-editor.org/info/rfc5839">
   <front>
     <title>An Extension to Session Initiation Protocol (SIP) Events for Conditional Event Notification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5839"/>
-    <author fullname="A. Niemi"/>
-    <author fullname="D. Willis"/>
+    <author fullname="A. Niemi" initials="A." surname="Niemi">
+      <organization/>
+    </author>
+    <author fullname="D. Willis" initials="D." surname="Willis">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP events</keyword>
-    <keyword>subnot-etags</keyword>
-    <keyword>optimization</keyword>
-    <abstract>The Session Initiation Protocol (SIP) events framework enables receiving asynchronous notification of various events from other SIP user agents.  This framework defines the procedures for creating, refreshing, and terminating subscriptions, as well as fetching and periodic polling of resource state.  These procedures provide no tools to avoid replaying event notifications that have already been received by a user agent.  This memo defines an extension to SIP events that allows the subscriber to condition the subscription request to whether the state has changed since the previous notification was received.  When such a condition is true, either the body of a resulting event notification or the entire notification message is suppressed. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Session Initiation Protocol (SIP) events framework enables receiving asynchronous notification of various events from other SIP user agents.  This framework defines the procedures for creating, refreshing, and terminating subscriptions, as well as fetching and periodic polling of resource state.  These procedures provide no tools to avoid replaying event notifications that have already been received by a user agent.  This memo defines an extension to SIP events that allows the subscriber to condition the subscription request to whether the state has changed since the previous notification was received.  When such a condition is true, either the body of a resulting event notification or the entire notification message is suppressed. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5839"/>
+  <seriesInfo name="RFC" value="5839"/>
 </reference>

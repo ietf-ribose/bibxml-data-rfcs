@@ -1,11 +1,18 @@
 <reference anchor="RFC5881" target="https://www.rfc-editor.org/info/rfc5881">
   <front>
     <title>Bidirectional Forwarding Detection (BFD) for IPv4 and IPv6 (Single Hop)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5881"/>
-    <author fullname="D. Katz"/>
-    <author fullname="D. Ward"/>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>bfd</workgroup>
-    <abstract>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol over IPv4 and IPv6 for single IP hops. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol over IPv4 and IPv6 for single IP hops. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5881"/>
+  <seriesInfo name="RFC" value="5881"/>
 </reference>

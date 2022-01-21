@@ -1,14 +1,18 @@
 <reference anchor="RFC2046" target="https://www.rfc-editor.org/info/rfc2046">
   <front>
     <title>Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2046"/>
-    <author fullname="N. Freed"/>
-    <author fullname="N. Borenstein"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="N. Borenstein" initials="N." surname="Borenstein">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>822ext</workgroup>
-    <keyword>MIME-MEDIA</keyword>
-    <keyword>headers</keyword>
-    <keyword>structure</keyword>
-    <abstract>This second document defines the general structure of the MIME media typing system and defines an initial set of media types. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This second document defines the general structure of the MIME media typing system and defines an initial set of media types. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2046"/>
+  <seriesInfo name="RFC" value="2046"/>
 </reference>

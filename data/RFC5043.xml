@@ -1,13 +1,18 @@
 <reference anchor="RFC5043" target="https://www.rfc-editor.org/info/rfc5043">
   <front>
     <title>Stream Control Transmission Protocol (SCTP) Direct Data Placement (DDP) Adaptation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5043"/>
-    <author fullname="C. Bestler"/>
-    <author fullname="R. Stewart"/>
+    <author fullname="C. Bestler" initials="C." surname="Bestler">
+      <organization/>
+    </author>
+    <author fullname="R. Stewart" initials="R." surname="Stewart">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>rddp</workgroup>
-    <keyword>lower layer protocol</keyword>
-    <keyword>llp</keyword>
-    <abstract>This document specifies an adaptation layer to provide a Lower Layer Protocol (LLP) service for Direct Data Placement (DDP) using the Stream Control Transmission Protocol (SCTP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an adaptation layer to provide a Lower Layer Protocol (LLP) service for Direct Data Placement (DDP) using the Stream Control Transmission Protocol (SCTP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5043"/>
+  <seriesInfo name="RFC" value="5043"/>
 </reference>

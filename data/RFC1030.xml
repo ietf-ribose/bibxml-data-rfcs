@@ -1,9 +1,14 @@
 <reference anchor="RFC1030" target="https://www.rfc-editor.org/info/rfc1030">
   <front>
     <title>On testing the NETBLT Protocol over divers networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1030"/>
-    <author fullname="M.L. Lambert"/>
+    <author fullname="M.L. Lambert" initials="M.L." surname="Lambert">
+      <organization/>
+    </author>
     <date year="1987" month="November"/>
-    <abstract>This memo describes the results gathered from testing NETBLT over three networks of different bandwidths and round-trip delays.  The results are not complete, but the information gathered so far has not been promising.  The NETBLT protocol is specified in RFC-998; this document assumes an understanding of the specification as described in RFC-998.</abstract>
+    <abstract>
+      <t>This memo describes the results gathered from testing NETBLT over three networks of different bandwidths and round-trip delays.  The results are not complete, but the information gathered so far has not been promising.  The NETBLT protocol is specified in RFC-998; this document assumes an understanding of the specification as described in RFC-998.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1030"/>
+  <seriesInfo name="RFC" value="1030"/>
 </reference>

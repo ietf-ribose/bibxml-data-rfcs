@@ -1,11 +1,20 @@
 <reference anchor="RFC1071" target="https://www.rfc-editor.org/info/rfc1071">
   <front>
     <title>Computing the Internet checksum</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1071"/>
-    <author fullname="R.T. Braden"/>
-    <author fullname="D.A. Borman"/>
-    <author fullname="C. Partridge"/>
+    <author fullname="R.T. Braden" initials="R.T." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="D.A. Borman" initials="D.A." surname="Borman">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
     <date year="1988" month="September"/>
-    <abstract>This RFC summarizes techniques and algorithms for efficiently computing the Internet checksum.  It is not a standard, but a set of useful implementation techniques.</abstract>
+    <abstract>
+      <t>This RFC summarizes techniques and algorithms for efficiently computing the Internet checksum.  It is not a standard, but a set of useful implementation techniques.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1071"/>
+  <seriesInfo name="RFC" value="1071"/>
 </reference>

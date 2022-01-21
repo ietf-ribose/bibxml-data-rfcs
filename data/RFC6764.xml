@@ -1,12 +1,15 @@
 <reference anchor="RFC6764" target="https://www.rfc-editor.org/info/rfc6764">
   <front>
     <title>Locating Services for Calendaring Extensions to WebDAV (CalDAV) and vCard Extensions to WebDAV (CardDAV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6764"/>
-    <author fullname="C. Daboo"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
     <date year="2013" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>SRV</keyword>
-    <keyword>iCalendar</keyword>
-    <abstract>This specification describes how DNS SRV records, DNS TXT records, and well-known URIs can be used together or separately to locate CalDAV (Calendaring Extensions to Web Distributed Authoring and Versioning (WebDAV)) or CardDAV (vCard Extensions to WebDAV) services.</abstract>
+    <abstract>
+      <t>This specification describes how DNS SRV records, DNS TXT records, and well-known URIs can be used together or separately to locate CalDAV (Calendaring Extensions to Web Distributed Authoring and Versioning (WebDAV)) or CardDAV (vCard Extensions to WebDAV) services.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6764"/>
+  <seriesInfo name="RFC" value="6764"/>
 </reference>

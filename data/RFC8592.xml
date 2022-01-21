@@ -1,15 +1,20 @@
 <reference anchor="RFC8592" target="https://www.rfc-editor.org/info/rfc8592">
   <front>
     <title>Key Performance Indicator (KPI) Stamping for the Network Service Header (NSH)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8592"/>
-    <author fullname="R. Browne"/>
-    <author fullname="A. Chilikin"/>
-    <author fullname="T. Mizrahi"/>
+    <author fullname="R. Browne" initials="R." surname="Browne">
+      <organization/>
+    </author>
+    <author fullname="A. Chilikin" initials="A." surname="Chilikin">
+      <organization/>
+    </author>
+    <author fullname="T. Mizrahi" initials="T." surname="Mizrahi">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
-    <keyword>Timestamp</keyword>
-    <keyword>Timestamping</keyword>
-    <keyword>QoS</keyword>
-    <keyword>service chain</keyword>
-    <abstract>This document describes methods of carrying Key Performance Indicators (KPIs) using the Network Service Header (NSH).  These methods may be used, for example, to monitor latency and QoS marking to identify problems on some links or service functions.</abstract>
+    <abstract>
+      <t>This document describes methods of carrying Key Performance Indicators (KPIs) using the Network Service Header (NSH).  These methods may be used, for example, to monitor latency and QoS marking to identify problems on some links or service functions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8592"/>
+  <seriesInfo name="RFC" value="8592"/>
 </reference>

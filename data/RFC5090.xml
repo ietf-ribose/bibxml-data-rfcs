@@ -1,17 +1,27 @@
 <reference anchor="RFC5090" target="https://www.rfc-editor.org/info/rfc5090">
   <front>
     <title>RADIUS Extension for Digest Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5090"/>
-    <author fullname="B. Sterman"/>
-    <author fullname="D. Sadolevsky"/>
-    <author fullname="D. Schwartz"/>
-    <author fullname="D. Williams"/>
-    <author fullname="W. Beck"/>
+    <author fullname="B. Sterman" initials="B." surname="Sterman">
+      <organization/>
+    </author>
+    <author fullname="D. Sadolevsky" initials="D." surname="Sadolevsky">
+      <organization/>
+    </author>
+    <author fullname="D. Schwartz" initials="D." surname="Schwartz">
+      <organization/>
+    </author>
+    <author fullname="D. Williams" initials="D." surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="W. Beck" initials="W." surname="Beck">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>radext</workgroup>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>sip</keyword>
-    <keyword>http</keyword>
-    <abstract>This document defines an extension to the Remote Authentication Dial-In User Service (RADIUS) protocol to enable support of Digest Authentication, for use with HTTP-style protocols like the Session Initiation Protocol (SIP) and HTTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an extension to the Remote Authentication Dial-In User Service (RADIUS) protocol to enable support of Digest Authentication, for use with HTTP-style protocols like the Session Initiation Protocol (SIP) and HTTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5090"/>
+  <seriesInfo name="RFC" value="5090"/>
 </reference>

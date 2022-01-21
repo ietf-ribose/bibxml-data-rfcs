@@ -1,19 +1,21 @@
 <reference anchor="RFC8513" target="https://www.rfc-editor.org/info/rfc8513">
   <front>
     <title>A YANG Data Model for Dual-Stack Lite (DS-Lite)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8513"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="C. Jacquenet"/>
-    <author fullname="S. Sivakumar"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="C. Jacquenet" initials="C." surname="Jacquenet">
+      <organization/>
+    </author>
+    <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+      <organization/>
+    </author>
     <date year="2019" month="January"/>
     <workgroup>softwire</workgroup>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>IPv4 address exhaustion</keyword>
-    <keyword>Service Availability</keyword>
-    <keyword>Address sharing</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>IPv4 over IPv6</keyword>
-    <abstract>This document defines a YANG module for the Dual-Stack Lite (DS-Lite) Address Family Transition Router (AFTR) and Basic Bridging BroadBand (B4) elements.</abstract>
+    <abstract>
+      <t>This document defines a YANG module for the Dual-Stack Lite (DS-Lite) Address Family Transition Router (AFTR) and Basic Bridging BroadBand (B4) elements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8513"/>
+  <seriesInfo name="RFC" value="8513"/>
 </reference>

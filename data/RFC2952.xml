@@ -1,12 +1,14 @@
 <reference anchor="RFC2952" target="https://www.rfc-editor.org/info/rfc2952">
   <front>
     <title>Telnet Encryption: DES 64 bit Cipher Feedback</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2952"/>
-    <author fullname="T. Ts'o"/>
+    <author fullname="T. Ts'o" initials="T." surname="Ts'o">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>data</keyword>
-    <keyword>encryption</keyword>
-    <keyword>standard</keyword>
-    <abstract>This document specifies how to use the DES encryption algorithm in cipher feedback mode with the telnet encryption option.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies how to use the DES encryption algorithm in cipher feedback mode with the telnet encryption option.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2952"/>
+  <seriesInfo name="RFC" value="2952"/>
 </reference>

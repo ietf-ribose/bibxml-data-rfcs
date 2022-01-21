@@ -1,13 +1,18 @@
 <reference anchor="RFC2242" target="https://www.rfc-editor.org/info/rfc2242">
   <front>
     <title>NetWare/IP Domain Name and Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2242"/>
-    <author fullname="R. Droms"/>
-    <author fullname="K. Fong"/>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
+    <author fullname="K. Fong" initials="K." surname="Fong">
+      <organization/>
+    </author>
     <date year="1997" month="November"/>
     <workgroup>dhc</workgroup>
-    <keyword>NETWAREIP</keyword>
-    <keyword>DHCP</keyword>
-    <abstract>This document defines options that carry NetWare/IP domain name and NetWare/IP sub-options to DHCP clients. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines options that carry NetWare/IP domain name and NetWare/IP sub-options to DHCP clients. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2242"/>
+  <seriesInfo name="RFC" value="2242"/>
 </reference>

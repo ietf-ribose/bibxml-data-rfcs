@@ -1,17 +1,26 @@
 <reference anchor="RFC6108" target="https://www.rfc-editor.org/info/rfc6108">
   <front>
     <title>Comcast's Web Notification System Design</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6108"/>
-    <author fullname="C. Chung"/>
-    <author fullname="A. Kasyanov"/>
-    <author fullname="J. Livingood"/>
-    <author fullname="N. Mody"/>
-    <author fullname="B. Van Lieu"/>
+    <author fullname="C. Chung" initials="C." surname="Chung">
+      <organization/>
+    </author>
+    <author fullname="A. Kasyanov" initials="A." surname="Kasyanov">
+      <organization/>
+    </author>
+    <author fullname="J. Livingood" initials="J." surname="Livingood">
+      <organization/>
+    </author>
+    <author fullname="N. Mody" initials="N." surname="Mody">
+      <organization/>
+    </author>
+    <author fullname="B. Van Lieu" initials="B." surname="Van">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
-    <keyword>ISP</keyword>
-    <keyword>Internet Service Provider</keyword>
-    <keyword>bot remediation</keyword>
-    <keyword>bot notification</keyword>
-    <abstract>The objective of this document is to describe a method of providing critical end-user notifications to web browsers, which has been deployed by Comcast, an Internet Service Provider (ISP).  Such a notification system is being used to provide near-immediate notifications to customers, such as to warn them that their traffic exhibits patterns that are indicative of malware or virus infection.  There are other proprietary systems that can perform such notifications, but those systems utilize Deep Packet Inspection (DPI) technology.  In contrast to DPI, this document describes a system that does not rely upon DPI, and is instead based in open IETF standards and open source applications.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The objective of this document is to describe a method of providing critical end-user notifications to web browsers, which has been deployed by Comcast, an Internet Service Provider (ISP).  Such a notification system is being used to provide near-immediate notifications to customers, such as to warn them that their traffic exhibits patterns that are indicative of malware or virus infection.  There are other proprietary systems that can perform such notifications, but those systems utilize Deep Packet Inspection (DPI) technology.  In contrast to DPI, this document describes a system that does not rely upon DPI, and is instead based in open IETF standards and open source applications.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6108"/>
+  <seriesInfo name="RFC" value="6108"/>
 </reference>

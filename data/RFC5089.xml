@@ -1,16 +1,24 @@
 <reference anchor="RFC5089" target="https://www.rfc-editor.org/info/rfc5089">
   <front>
     <title>IS-IS Protocol Extensions for Path Computation Element (PCE) Discovery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5089"/>
-    <author fullname="JL. Le Roux"/>
-    <author fullname="JP. Vasseur"/>
-    <author fullname="Y. Ikejiri"/>
-    <author fullname="R. Zhang"/>
+    <author fullname="JL. Le Roux" initials="JL." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="JP. Vasseur" initials="JP." surname="Vasseur">
+      <organization/>
+    </author>
+    <author fullname="Y. Ikejiri" initials="Y." surname="Ikejiri">
+      <organization/>
+    </author>
+    <author fullname="R. Zhang" initials="R." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2008" month="January"/>
     <workgroup>pce</workgroup>
-    <keyword>path computation client</keyword>
-    <keyword>pcc</keyword>
-    <keyword>intermediate system to intermediate system</keyword>
-    <abstract>There are various circumstances where it is highly desirable for a Path Computation Client (PCC) to be able to dynamically and automatically discover a set of Path Computation Elements (PCEs), along with information that can be used by the PCC for PCE selection.  When the PCE is a Label Switching Router (LSR) participating in the Interior Gateway Protocol (IGP), or even a server participating passively in the IGP, a simple and efficient way to announce PCEs consists of using IGP flooding.  For that purpose, this document defines extensions to the Intermediate System to Intermediate System (IS-IS) routing protocol for the advertisement of PCE Discovery information within an IS-IS area or within the entire IS-IS routing domain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>There are various circumstances where it is highly desirable for a Path Computation Client (PCC) to be able to dynamically and automatically discover a set of Path Computation Elements (PCEs), along with information that can be used by the PCC for PCE selection.  When the PCE is a Label Switching Router (LSR) participating in the Interior Gateway Protocol (IGP), or even a server participating passively in the IGP, a simple and efficient way to announce PCEs consists of using IGP flooding.  For that purpose, this document defines extensions to the Intermediate System to Intermediate System (IS-IS) routing protocol for the advertisement of PCE Discovery information within an IS-IS area or within the entire IS-IS routing domain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5089"/>
+  <seriesInfo name="RFC" value="5089"/>
 </reference>

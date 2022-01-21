@@ -1,23 +1,33 @@
 <reference anchor="RFC2280" target="https://www.rfc-editor.org/info/rfc2280">
   <front>
     <title>Routing Policy Specification Language (RPSL)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2280"/>
-    <author fullname="C. Alaettinoglu"/>
-    <author fullname="T. Bates"/>
-    <author fullname="E. Gerich"/>
-    <author fullname="D. Karrenberg"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="M. Terpstra"/>
-    <author fullname="C. Villamizar"/>
+    <author fullname="C. Alaettinoglu" initials="C." surname="Alaettinoglu">
+      <organization/>
+    </author>
+    <author fullname="T. Bates" initials="T." surname="Bates">
+      <organization/>
+    </author>
+    <author fullname="E. Gerich" initials="E." surname="Gerich">
+      <organization/>
+    </author>
+    <author fullname="D. Karrenberg" initials="D." surname="Karrenberg">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="M. Terpstra" initials="M." surname="Terpstra">
+      <organization/>
+    </author>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>rps</workgroup>
-    <keyword>RPSL</keyword>
-    <keyword>network</keyword>
-    <keyword>operator</keyword>
-    <keyword>AS</keyword>
-    <keyword>autonomous</keyword>
-    <keyword>system</keyword>
-    <keyword>database</keyword>
-    <abstract>This memo is the reference document for the Routing Policy Specification Language (RPSL).  RPSL allows a network operator to be able to specify routing policies at various levels in the Internet hierarchy; for example at the Autonomous System (AS) level.  At the same time, policies can be specified with sufficient detail in RPSL so that low level router configurations can be generated from them.  RPSL is extensible; new routing protocols and new protocol features can be introduced at any time. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo is the reference document for the Routing Policy Specification Language (RPSL).  RPSL allows a network operator to be able to specify routing policies at various levels in the Internet hierarchy; for example at the Autonomous System (AS) level.  At the same time, policies can be specified with sufficient detail in RPSL so that low level router configurations can be generated from them.  RPSL is extensible; new routing protocols and new protocol features can be introduced at any time. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2280"/>
+  <seriesInfo name="RFC" value="2280"/>
 </reference>

@@ -1,17 +1,30 @@
 <reference anchor="RFC8365" target="https://www.rfc-editor.org/info/rfc8365">
   <front>
     <title>A Network Virtualization Overlay Solution Using Ethernet VPN (EVPN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8365"/>
-    <author fullname="A. Sajassi"/>
-    <author fullname="J. Drake"/>
-    <author fullname="N. Bitar"/>
-    <author fullname="R. Shekhar"/>
-    <author fullname="J. Uttaro"/>
-    <author fullname="W. Henderickx"/>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="N. Bitar" initials="N." surname="Bitar">
+      <organization/>
+    </author>
+    <author fullname="R. Shekhar" initials="R." surname="Shekhar">
+      <organization/>
+    </author>
+    <author fullname="J. Uttaro" initials="J." surname="Uttaro">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
     <date year="2018" month="March"/>
     <workgroup>bess</workgroup>
-    <keyword>EVPN Control Plane with VxLAN Encapsulation</keyword>
-    <keyword>EVPN Control Plane with NvGRE Encapsulation</keyword>
-    <abstract>This document specifies how Ethernet VPN (EVPN) can be used as a Network Virtualization Overlay (NVO) solution and explores the various tunnel encapsulation options over IP and their impact on the EVPN control plane and procedures.  In particular, the following encapsulation options are analyzed: Virtual Extensible LAN (VXLAN), Network Virtualization using Generic Routing Encapsulation (NVGRE), and MPLS over GRE.  This specification is also applicable to Generic Network Virtualization Encapsulation (GENEVE); however, some incremental work is required, which will be covered in a separate document.  This document also specifies new multihoming procedures for split-horizon filtering and mass withdrawal.  It also specifies EVPN route constructions for VXLAN/NVGRE encapsulations and Autonomous System Border Router (ASBR) procedures for multihoming of Network Virtualization Edge (NVE) devices.</abstract>
+    <abstract>
+      <t>This document specifies how Ethernet VPN (EVPN) can be used as a Network Virtualization Overlay (NVO) solution and explores the various tunnel encapsulation options over IP and their impact on the EVPN control plane and procedures.  In particular, the following encapsulation options are analyzed: Virtual Extensible LAN (VXLAN), Network Virtualization using Generic Routing Encapsulation (NVGRE), and MPLS over GRE.  This specification is also applicable to Generic Network Virtualization Encapsulation (GENEVE); however, some incremental work is required, which will be covered in a separate document.  This document also specifies new multihoming procedures for split-horizon filtering and mass withdrawal.  It also specifies EVPN route constructions for VXLAN/NVGRE encapsulations and Autonomous System Border Router (ASBR) procedures for multihoming of Network Virtualization Edge (NVE) devices.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8365"/>
+  <seriesInfo name="RFC" value="8365"/>
 </reference>

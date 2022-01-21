@@ -1,14 +1,18 @@
 <reference anchor="RFC4145" target="https://www.rfc-editor.org/info/rfc4145">
   <front>
     <title>TCP-Based Media Transport in the Session Description Protocol (SDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4145"/>
-    <author fullname="D. Yon"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="D. Yon" initials="D." surname="Yon">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2005" month="September"/>
     <workgroup>mmusic</workgroup>
-    <keyword>setup</keyword>
-    <keyword>connection</keyword>
-    <keyword>reestablishment</keyword>
-    <abstract>This document describes how to express media transport over TCP using the Session Description Protocol (SDP).  It defines the SDP 'TCP' protocol identifier, the SDP 'setup' attribute, which describes the connection setup procedure, and the SDP 'connection' attribute, which handles connection reestablishment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to express media transport over TCP using the Session Description Protocol (SDP).  It defines the SDP 'TCP' protocol identifier, the SDP 'setup' attribute, which describes the connection setup procedure, and the SDP 'connection' attribute, which handles connection reestablishment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4145"/>
+  <seriesInfo name="RFC" value="4145"/>
 </reference>

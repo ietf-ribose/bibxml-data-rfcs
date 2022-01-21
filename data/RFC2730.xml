@@ -1,18 +1,21 @@
 <reference anchor="RFC2730" target="https://www.rfc-editor.org/info/rfc2730">
   <front>
     <title>Multicast Address Dynamic Client Allocation Protocol (MADCAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2730"/>
-    <author fullname="S. Hanna"/>
-    <author fullname="B. Patel"/>
-    <author fullname="M. Shah"/>
+    <author fullname="S. Hanna" initials="S." surname="Hanna">
+      <organization/>
+    </author>
+    <author fullname="B. Patel" initials="B." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="M. Shah" initials="M." surname="Shah">
+      <organization/>
+    </author>
     <date year="1999" month="December"/>
     <workgroup>malloc</workgroup>
-    <keyword>MADCAP</keyword>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <keyword>scope</keyword>
-    <keyword>zone</keyword>
-    <keyword>host</keyword>
-    <abstract>This document defines a protocol, Multicast Address Dynamic Client Allocation Protocol (MADCAP), that allows hosts to request multicast addresses from multicast address allocation servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a protocol, Multicast Address Dynamic Client Allocation Protocol (MADCAP), that allows hosts to request multicast addresses from multicast address allocation servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2730"/>
+  <seriesInfo name="RFC" value="2730"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC7845" target="https://www.rfc-editor.org/info/rfc7845">
   <front>
     <title>Ogg Encapsulation for the Opus Audio Codec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7845"/>
-    <author fullname="T. Terriberry"/>
-    <author fullname="R. Lee"/>
-    <author fullname="R. Giles"/>
+    <author fullname="T. Terriberry" initials="T." surname="Terriberry">
+      <organization/>
+    </author>
+    <author fullname="R. Lee" initials="R." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="R. Giles" initials="R." surname="Giles">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>codec</workgroup>
-    <keyword>container</keyword>
-    <keyword>mapping</keyword>
-    <abstract>This document defines the Ogg encapsulation for the Opus interactive speech and audio codec.  This allows data encoded in the Opus format to be stored in an Ogg logical bitstream.</abstract>
+    <abstract>
+      <t>This document defines the Ogg encapsulation for the Opus interactive speech and audio codec.  This allows data encoded in the Opus format to be stored in an Ogg logical bitstream.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7845"/>
+  <seriesInfo name="RFC" value="7845"/>
 </reference>

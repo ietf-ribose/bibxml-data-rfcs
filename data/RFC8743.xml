@@ -1,24 +1,25 @@
 <reference anchor="RFC8743" target="https://www.rfc-editor.org/info/rfc8743">
   <front>
     <title>Multiple Access Management Services Multi-Access Management Services (MAMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8743"/>
-    <author fullname="S. Kanugovi"/>
-    <author fullname="F. Baboescu"/>
-    <author fullname="J. Zhu"/>
-    <author fullname="S. Seo"/>
+    <author fullname="S. Kanugovi" initials="S." surname="Kanugovi">
+      <organization/>
+    </author>
+    <author fullname="F. Baboescu" initials="F." surname="Baboescu">
+      <organization/>
+    </author>
+    <author fullname="J. Zhu" initials="J." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="S. Seo" initials="S." surname="Seo">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
-    <keyword>Integration</keyword>
-    <keyword>Aggregation</keyword>
-    <keyword>Switching</keyword>
-    <keyword>MPTCP</keyword>
-    <keyword>MPQUIC</keyword>
-    <keyword>GMA</keyword>
-    <keyword>5G</keyword>
-    <keyword>LTE</keyword>
-    <keyword>Wi-Fi</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Edge</keyword>
-    <keyword>Proxy</keyword>
-    <abstract>In multiconnectivity scenarios, the clients can simultaneously connect to multiple networks based on different access technologies and network architectures like Wi-Fi, LTE, and DSL. Both the quality of experience of the users and the overall network utilization and efficiency may be improved through the smart selection and combination of access and core network paths that can dynamically adapt to changing network conditions. This document presents a unified problem statement and introduces a solution for managing multiconnectivity. The solution has been developed by the authors based on their experiences in multiple standards bodies, including the IETF and the 3GPP. However, this document is not an Internet Standards Track specification, and it does not represent the consensus opinion of the IETF. This document describes requirements, solution principles, and the architecture of the Multi-Access Management Services (MAMS) framework. The MAMS framework aims to provide best performance while being easy to implement in a wide variety of multiconnectivity deployments. It specifies the protocol for (1) flexibly selecting the best combination of access and core network paths for the uplink and downlink, and (2) determining the user-plane treatment (e.g., tunneling, encryption) and traffic distribution over the selected links, to ensure network efficiency and the best possible application performance.</abstract>
+    <abstract>
+      <t>In multiconnectivity scenarios, the clients can simultaneously connect to multiple networks based on different access technologies and network architectures like Wi-Fi, LTE, and DSL. Both the quality of experience of the users and the overall network utilization and efficiency may be improved through the smart selection and combination of access and core network paths that can dynamically adapt to changing network conditions.</t>
+      <t>This document presents a unified problem statement and introduces a solution for managing multiconnectivity. The solution has been developed by the authors based on their experiences in multiple standards bodies, including the IETF and the 3GPP. However, this document is not an Internet Standards Track specification, and it does not represent the consensus opinion of the IETF.</t>
+      <t>This document describes requirements, solution principles, and the architecture of the Multi-Access Management Services (MAMS) framework. The MAMS framework aims to provide best performance while being easy to implement in a wide variety of multiconnectivity deployments. It specifies the protocol for (1) flexibly selecting the best combination of access and core network paths for the uplink and downlink, and (2) determining the user-plane treatment (e.g., tunneling, encryption) and traffic distribution over the selected links, to ensure network efficiency and the best possible application performance.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8743"/>
+  <seriesInfo name="RFC" value="8743"/>
 </reference>

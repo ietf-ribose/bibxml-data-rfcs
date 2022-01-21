@@ -1,15 +1,17 @@
 <reference anchor="RFC3236" target="https://www.rfc-editor.org/info/rfc3236">
   <front>
     <title>The 'application/xhtml+xml' Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3236"/>
-    <author fullname="M. Baker"/>
-    <author fullname="P. Stark"/>
+    <author fullname="M. Baker" initials="M." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="P. Stark" initials="P." surname="Stark">
+      <organization/>
+    </author>
     <date year="2002" month="January"/>
-    <keyword>mime</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document defines the 'application/xhtml+xml' MIME media type for XHTML based markup languages; it is not intended to obsolete any previous IETF documents, in particular RFC 2854 which registers 'text/html'.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the 'application/xhtml+xml' MIME media type for XHTML based markup languages; it is not intended to obsolete any previous IETF documents, in particular RFC 2854 which registers 'text/html'.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3236"/>
+  <seriesInfo name="RFC" value="3236"/>
 </reference>

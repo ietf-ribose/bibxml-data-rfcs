@@ -1,17 +1,18 @@
 <reference anchor="RFC5277" target="https://www.rfc-editor.org/info/rfc5277">
   <front>
     <title>NETCONF Event Notifications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5277"/>
-    <author fullname="S. Chisholm"/>
-    <author fullname="H. Trevino"/>
+    <author fullname="S. Chisholm" initials="S." surname="Chisholm">
+      <organization/>
+    </author>
+    <author fullname="H. Trevino" initials="H." surname="Trevino">
+      <organization/>
+    </author>
     <date year="2008" month="July"/>
     <workgroup>netconf</workgroup>
-    <keyword>XML</keyword>
-    <keyword>Extensible Markup Language</keyword>
-    <keyword>NETCONF</keyword>
-    <keyword>Event</keyword>
-    <keyword>Asynchronous Message</keyword>
-    <keyword>Notification</keyword>
-    <abstract>This document defines mechanisms that provide an asynchronous message notification delivery service for the Network Configuration protocol (NETCONF).  This is an optional capability built on top of the base NETCONF definition.  This document defines the capabilities and operations necessary to support this service. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines mechanisms that provide an asynchronous message notification delivery service for the Network Configuration protocol (NETCONF).  This is an optional capability built on top of the base NETCONF definition.  This document defines the capabilities and operations necessary to support this service. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5277"/>
+  <seriesInfo name="RFC" value="5277"/>
 </reference>

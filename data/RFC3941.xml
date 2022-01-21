@@ -1,13 +1,24 @@
 <reference anchor="RFC3941" target="https://www.rfc-editor.org/info/rfc3941">
   <front>
     <title>Negative-Acknowledgment (NACK)-Oriented Reliable Multicast (NORM) Building Blocks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3941"/>
-    <author fullname="B. Adamson"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="M. Handley"/>
-    <author fullname="J. Macker"/>
+    <author fullname="B. Adamson" initials="B." surname="Adamson">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="J. Macker" initials="J." surname="Macker">
+      <organization/>
+    </author>
     <date year="2004" month="November"/>
     <workgroup>rmt</workgroup>
-    <abstract>This document discusses the creation of negative-acknowledgment (NACK)-oriented reliable multicast (NORM) protocols.  The rationale for NORM goals and assumptions are presented.  Technical challenges for NACK-oriented (and in some cases general) reliable multicast protocol operation are identified.  These goals and challenges are resolved into a set of functional "building blocks" that address different aspects of NORM protocol operation.  It is anticipated that these building blocks will be useful in generating different instantiations of reliable multicast protocols.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses the creation of negative-acknowledgment (NACK)-oriented reliable multicast (NORM) protocols.  The rationale for NORM goals and assumptions are presented.  Technical challenges for NACK-oriented (and in some cases general) reliable multicast protocol operation are identified.  These goals and challenges are resolved into a set of functional "building blocks" that address different aspects of NORM protocol operation.  It is anticipated that these building blocks will be useful in generating different instantiations of reliable multicast protocols.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3941"/>
+  <seriesInfo name="RFC" value="3941"/>
 </reference>

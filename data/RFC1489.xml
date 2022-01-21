@@ -1,9 +1,14 @@
 <reference anchor="RFC1489" target="https://www.rfc-editor.org/info/rfc1489">
   <front>
     <title>Registration of a Cyrillic Character Set</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1489"/>
-    <author fullname="A. Chernov"/>
+    <author fullname="A. Chernov" initials="A." surname="Chernov">
+      <organization/>
+    </author>
     <date year="1993" month="July"/>
-    <abstract>Though the proposed character set "koi8-r" is not currently an international standard, there is very large user community (including Relcom Net) supporting it.  Factually, "koi8-r" is de-facto standard for Unix and global network applications in the former Soviet Union.  This is the reason the Society of Unix User Groups (SUUG) believes "koi8-r" should be registered.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>Though the proposed character set "koi8-r" is not currently an international standard, there is very large user community (including Relcom Net) supporting it.  Factually, "koi8-r" is de-facto standard for Unix and global network applications in the former Soviet Union.  This is the reason the Society of Unix User Groups (SUUG) believes "koi8-r" should be registered.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1489"/>
+  <seriesInfo name="RFC" value="1489"/>
 </reference>

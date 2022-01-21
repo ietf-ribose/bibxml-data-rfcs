@@ -1,17 +1,21 @@
 <reference anchor="RFC6411" target="https://www.rfc-editor.org/info/rfc6411">
   <front>
     <title>Applicability of Keying Methods for RSVP Security</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6411"/>
-    <author fullname="M. Behringer"/>
-    <author fullname="F. Le Faucheur"/>
-    <author fullname="B. Weis"/>
+    <author fullname="M. Behringer" initials="M." surname="Behringer">
+      <organization/>
+    </author>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="B. Weis" initials="B." surname="Weis">
+      <organization/>
+    </author>
     <date year="2011" month="October"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>RSVP authentication</keyword>
-    <keyword>RSVP integrity</keyword>
-    <keyword>Resource reservation protocol</keyword>
-    <keyword>GDOI</keyword>
-    <keyword>Group domain of interpretation</keyword>
-    <abstract>The Resource reSerVation Protocol (RSVP) allows hop-by-hop integrity protection of RSVP neighbors.  This requires messages to be cryptographically protected using a shared secret between participating nodes.  This document compares group keying for RSVP with per-neighbor or per-interface keying, and discusses the associated key provisioning methods as well as applicability and limitations of these approaches.  This document also discusses applicability of encrypting RSVP messages.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Resource reSerVation Protocol (RSVP) allows hop-by-hop integrity protection of RSVP neighbors.  This requires messages to be cryptographically protected using a shared secret between participating nodes.  This document compares group keying for RSVP with per-neighbor or per-interface keying, and discusses the associated key provisioning methods as well as applicability and limitations of these approaches.  This document also discusses applicability of encrypting RSVP messages.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6411"/>
+  <seriesInfo name="RFC" value="6411"/>
 </reference>

@@ -1,9 +1,14 @@
 <reference anchor="RFC0941" target="https://www.rfc-editor.org/info/rfc941">
   <front>
     <title>Addendum to the network service definition covering network layer addressing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0941"/>
-    <author fullname="International Organization for Standardization"/>
+    <author fullname="International Organization for Standardization" initials="International" surname="Organization">
+      <organization/>
+    </author>
     <date year="1985" month="April"/>
-    <abstract>This Addendum to the Network Service Definition Standard, ISO 8348, defines the abstract syntax and semantics of the Network Address (Network Service Access Point Address).  The Network Address defined in this Addendum is the address that appears in the primitives of the connection-mode Network Service as the calling address, called address, and responding address parameters, and in the primitives of the connectionless-mode Network Service as the source address and destination address parameters.  This document is distributed as an RFC for information only.  It does not specify a standard for the ARPA-Internet.</abstract>
+    <abstract>
+      <t>This Addendum to the Network Service Definition Standard, ISO 8348, defines the abstract syntax and semantics of the Network Address (Network Service Access Point Address).  The Network Address defined in this Addendum is the address that appears in the primitives of the connection-mode Network Service as the calling address, called address, and responding address parameters, and in the primitives of the connectionless-mode Network Service as the source address and destination address parameters.  This document is distributed as an RFC for information only.  It does not specify a standard for the ARPA-Internet.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0941"/>
+  <seriesInfo name="RFC" value="941"/>
 </reference>

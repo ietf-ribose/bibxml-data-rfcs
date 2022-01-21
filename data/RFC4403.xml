@@ -1,13 +1,21 @@
 <reference anchor="RFC4403" target="https://www.rfc-editor.org/info/rfc4403">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Schema for Universal Description, Discovery, and Integration version 3 (UDDIv3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4403"/>
-    <author fullname="B. Bergeson"/>
-    <author fullname="K. Boogert"/>
-    <author fullname="V. Nanjundaswamy"/>
+    <author fullname="B. Bergeson" initials="B." surname="Bergeson">
+      <organization/>
+    </author>
+    <author fullname="K. Boogert" initials="K." surname="Boogert">
+      <organization/>
+    </author>
+    <author fullname="V. Nanjundaswamy" initials="V." surname="Nanjundaswamy">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>LDAPv3</keyword>
-    <abstract>This document defines the Lightweight Directory Access Protocol (LDAPv3) schema for representing Universal Description, Discovery, and Integration (UDDI) data types in an LDAP directory.  It defines the LDAP object class and attribute definitions and containment rules to model UDDI entities, defined in the UDDI version 3 information model, in an LDAPv3-compliant directory.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the Lightweight Directory Access Protocol (LDAPv3) schema for representing Universal Description, Discovery, and Integration (UDDI) data types in an LDAP directory.  It defines the LDAP object class and attribute definitions and containment rules to model UDDI entities, defined in the UDDI version 3 information model, in an LDAPv3-compliant directory.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4403"/>
+  <seriesInfo name="RFC" value="4403"/>
 </reference>

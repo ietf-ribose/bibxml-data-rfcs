@@ -1,16 +1,21 @@
 <reference anchor="RFC3020" target="https://www.rfc-editor.org/info/rfc3020">
   <front>
     <title>Definitions of Managed Objects for Monitoring and Controlling the UNI/NNI Multilink Frame Relay Function</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3020"/>
-    <author fullname="P. Pate"/>
-    <author fullname="B. Lynch"/>
-    <author fullname="K. Rehbehn"/>
+    <author fullname="P. Pate" initials="P." surname="Pate">
+      <organization/>
+    </author>
+    <author fullname="B. Lynch" initials="B." surname="Lynch">
+      <organization/>
+    </author>
+    <author fullname="K. Rehbehn" initials="K." surname="Rehbehn">
+      <organization/>
+    </author>
     <date year="2000" month="December"/>
     <workgroup>frnetmib</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines a Management Information Base (MIB) for monitoring and controlling a UNI/NNI Multilink Frame Relay Function as defined in Frame Relay Forum FRF.16. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a Management Information Base (MIB) for monitoring and controlling a UNI/NNI Multilink Frame Relay Function as defined in Frame Relay Forum FRF.16. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3020"/>
+  <seriesInfo name="RFC" value="3020"/>
 </reference>

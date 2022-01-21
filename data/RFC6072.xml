@@ -1,14 +1,18 @@
 <reference anchor="RFC6072" target="https://www.rfc-editor.org/info/rfc6072">
   <front>
     <title>Certificate Management Service for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6072"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="J. Fischl"/>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="J. Fischl" initials="J." surname="Fischl">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
     <workgroup>sip</workgroup>
-    <keyword>credential service</keyword>
-    <keyword>aor</keyword>
-    <keyword>address of record</keyword>
-    <abstract>This document defines a credential service that allows Session Initiation Protocol (SIP) User Agents (UAs) to use a SIP event package to discover the certificates of other users.  This mechanism allows User Agents that want to contact a given Address-of-Record (AOR) to retrieve that AOR's certificate by subscribing to the credential service, which returns an authenticated response containing that certificate.  The credential service also allows users to store and retrieve their own certificates and private keys. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a credential service that allows Session Initiation Protocol (SIP) User Agents (UAs) to use a SIP event package to discover the certificates of other users.  This mechanism allows User Agents that want to contact a given Address-of-Record (AOR) to retrieve that AOR's certificate by subscribing to the credential service, which returns an authenticated response containing that certificate.  The credential service also allows users to store and retrieve their own certificates and private keys. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6072"/>
+  <seriesInfo name="RFC" value="6072"/>
 </reference>

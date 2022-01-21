@@ -1,14 +1,24 @@
 <reference anchor="RFC7245" target="https://www.rfc-editor.org/info/rfc7245">
   <front>
     <title>An Architecture for Media Recording Using the Session Initiation Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7245"/>
-    <author fullname="A. Hutton"/>
-    <author fullname="L. Portman"/>
-    <author fullname="R. Jain"/>
-    <author fullname="K. Rehor"/>
+    <author fullname="A. Hutton" initials="A." surname="Hutton">
+      <organization/>
+    </author>
+    <author fullname="L. Portman" initials="L." surname="Portman">
+      <organization/>
+    </author>
+    <author fullname="R. Jain" initials="R." surname="Jain">
+      <organization/>
+    </author>
+    <author fullname="K. Rehor" initials="K." surname="Rehor">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>siprec</workgroup>
-    <keyword>sip</keyword>
-    <abstract>Session recording is a critical requirement in many communications environments such as call centers and financial trading.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer protection reasons.  Recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document describes architectures for deploying session recording solutions in an environment that is based on the Session Initiation Protocol (SIP).</abstract>
+    <abstract>
+      <t>Session recording is a critical requirement in many communications environments such as call centers and financial trading.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer protection reasons.  Recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document describes architectures for deploying session recording solutions in an environment that is based on the Session Initiation Protocol (SIP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7245"/>
+  <seriesInfo name="RFC" value="7245"/>
 </reference>

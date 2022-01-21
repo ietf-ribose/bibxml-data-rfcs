@@ -1,18 +1,27 @@
 <reference anchor="RFC3137" target="https://www.rfc-editor.org/info/rfc3137">
   <front>
     <title>OSPF Stub Router Advertisement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3137"/>
-    <author fullname="A. Retana"/>
-    <author fullname="L. Nguyen"/>
-    <author fullname="R. White"/>
-    <author fullname="A. Zinin"/>
-    <author fullname="D. McPherson"/>
+    <author fullname="A. Retana" initials="A." surname="Retana">
+      <organization/>
+    </author>
+    <author fullname="L. Nguyen" initials="L." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="A. Zinin" initials="A." surname="Zinin">
+      <organization/>
+    </author>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
     <workgroup>ospf</workgroup>
-    <keyword>open</keyword>
-    <keyword>shortest</keyword>
-    <keyword>path</keyword>
-    <keyword>first</keyword>
-    <abstract>This memo describes a backward-compatible technique that may be used by OSPF (Open Shortest Path First) implementations to advertise unavailability to forward transit traffic or to lower the preference level for the paths through such a router.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes a backward-compatible technique that may be used by OSPF (Open Shortest Path First) implementations to advertise unavailability to forward transit traffic or to lower the preference level for the paths through such a router.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3137"/>
+  <seriesInfo name="RFC" value="3137"/>
 </reference>

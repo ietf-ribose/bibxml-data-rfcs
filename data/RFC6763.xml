@@ -1,11 +1,18 @@
 <reference anchor="RFC6763" target="https://www.rfc-editor.org/info/rfc6763">
   <front>
     <title>DNS-Based Service Discovery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6763"/>
-    <author fullname="S. Cheshire"/>
-    <author fullname="M. Krochmal"/>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author fullname="M. Krochmal" initials="M." surname="Krochmal">
+      <organization/>
+    </author>
     <date year="2013" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document specifies how DNS resource records are named and structured to facilitate service discovery.  Given a type of service that a client is looking for, and a domain in which the client is looking for that service, this mechanism allows clients to discover a list of named instances of that desired service, using standard DNS queries.  This mechanism is referred to as DNS-based Service Discovery, or DNS-SD.</abstract>
+    <abstract>
+      <t>This document specifies how DNS resource records are named and structured to facilitate service discovery.  Given a type of service that a client is looking for, and a domain in which the client is looking for that service, this mechanism allows clients to discover a list of named instances of that desired service, using standard DNS queries.  This mechanism is referred to as DNS-based Service Discovery, or DNS-SD.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6763"/>
+  <seriesInfo name="RFC" value="6763"/>
 </reference>

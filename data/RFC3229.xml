@@ -1,19 +1,32 @@
 <reference anchor="RFC3229" target="https://www.rfc-editor.org/info/rfc3229">
   <front>
     <title>Delta encoding in HTTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3229"/>
-    <author fullname="J. Mogul"/>
-    <author fullname="B. Krishnamurthy"/>
-    <author fullname="F. Douglis"/>
-    <author fullname="A. Feldmann"/>
-    <author fullname="Y. Goland"/>
-    <author fullname="A. van Hoff"/>
-    <author fullname="D. Hellerstein"/>
+    <author fullname="J. Mogul" initials="J." surname="Mogul">
+      <organization/>
+    </author>
+    <author fullname="B. Krishnamurthy" initials="B." surname="Krishnamurthy">
+      <organization/>
+    </author>
+    <author fullname="F. Douglis" initials="F." surname="Douglis">
+      <organization/>
+    </author>
+    <author fullname="A. Feldmann" initials="A." surname="Feldmann">
+      <organization/>
+    </author>
+    <author fullname="Y. Goland" initials="Y." surname="Goland">
+      <organization/>
+    </author>
+    <author fullname="A. van Hoff" initials="A." surname="van">
+      <organization/>
+    </author>
+    <author fullname="D. Hellerstein" initials="D." surname="Hellerstein">
+      <organization/>
+    </author>
     <date year="2002" month="January"/>
-    <keyword>hyper</keyword>
-    <keyword>text</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes how delta encoding can be supported as a compatible extension to HTTP/1.1. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how delta encoding can be supported as a compatible extension to HTTP/1.1. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3229"/>
+  <seriesInfo name="RFC" value="3229"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC2695" target="https://www.rfc-editor.org/info/rfc2695">
   <front>
     <title>Authentication Mechanisms for ONC RPC</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2695"/>
-    <author fullname="A. Chiu"/>
+    <author fullname="A. Chiu" initials="A." surname="Chiu">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>oncrpc</workgroup>
-    <keyword>remote procedure</keyword>
-    <keyword>call</keyword>
-    <keyword>open network</keyword>
-    <keyword>computing</keyword>
-    <abstract>This document describes two authentication mechanisms created by Sun Microsystems that are commonly used in conjunction with the ONC Remote Procedure Call (ONC RPC Version 2) protocol.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes two authentication mechanisms created by Sun Microsystems that are commonly used in conjunction with the ONC Remote Procedure Call (ONC RPC Version 2) protocol.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2695"/>
+  <seriesInfo name="RFC" value="2695"/>
 </reference>

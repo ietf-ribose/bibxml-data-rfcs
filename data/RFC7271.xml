@@ -1,23 +1,33 @@
 <reference anchor="RFC7271" target="https://www.rfc-editor.org/info/rfc7271">
   <front>
     <title>MPLS Transport Profile (MPLS-TP) Linear Protection to Match the Operational Expectations of Synchronous Digital Hierarchy, Optical Transport Network, and Ethernet Transport Network Operators</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7271"/>
-    <author fullname="J. Ryoo"/>
-    <author fullname="E. Gray"/>
-    <author fullname="H. van Helvoort"/>
-    <author fullname="A. D'Alessandro"/>
-    <author fullname="T. Cheung"/>
-    <author fullname="E. Osborne"/>
+    <author fullname="J. Ryoo" initials="J." surname="Ryoo">
+      <organization/>
+    </author>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="H. van Helvoort" initials="H." surname="van">
+      <organization/>
+    </author>
+    <author fullname="A. D'Alessandro" initials="A." surname="D'Alessandro">
+      <organization/>
+    </author>
+    <author fullname="T. Cheung" initials="T." surname="Cheung">
+      <organization/>
+    </author>
+    <author fullname="E. Osborne" initials="E." surname="Osborne">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>mpls</workgroup>
-    <keyword>PSC mode</keyword>
-    <keyword>APS mode</keyword>
-    <keyword>capabilities</keyword>
-    <keyword>priority</keyword>
-    <keyword>non-revertive</keyword>
-    <keyword>MS-W support</keyword>
-    <keyword>SD support</keyword>
-    <keyword>EXER support</keyword>
-    <abstract>This document describes alternate mechanisms to perform some of the functions of MPLS Transport Profile (MPLS-TP) linear protection defined in RFC 6378, and also defines additional mechanisms. The purpose of these alternate and additional mechanisms is to provide operator control and experience that more closely models the behavior of linear protection seen in other transport networks. This document also introduces capabilities and modes for linear protection. A capability is an individual behavior, and a mode is a particular combination of capabilities. Two modes are defined in this document: Protection State Coordination (PSC) mode and Automatic Protection Switching (APS) mode. This document describes the behavior of the PSC protocol including priority logic and state machine when all the capabilities associated with the APS mode are enabled. This document updates RFC 6378 in that the capability advertisement method defined here is an addition to that document.</abstract>
+    <abstract>
+      <t>This document describes alternate mechanisms to perform some of the functions of MPLS Transport Profile (MPLS-TP) linear protection defined in RFC 6378, and also defines additional mechanisms. The purpose of these alternate and additional mechanisms is to provide operator control and experience that more closely models the behavior of linear protection seen in other transport networks.</t>
+      <t>This document also introduces capabilities and modes for linear protection. A capability is an individual behavior, and a mode is a particular combination of capabilities. Two modes are defined in this document: Protection State Coordination (PSC) mode and Automatic Protection Switching (APS) mode.</t>
+      <t>This document describes the behavior of the PSC protocol including priority logic and state machine when all the capabilities associated with the APS mode are enabled.</t>
+      <t>This document updates RFC 6378 in that the capability advertisement method defined here is an addition to that document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7271"/>
+  <seriesInfo name="RFC" value="7271"/>
 </reference>

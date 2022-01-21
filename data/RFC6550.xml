@@ -1,26 +1,42 @@
 <reference anchor="RFC6550" target="https://www.rfc-editor.org/info/rfc6550">
   <front>
     <title>RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6550"/>
-    <author fullname="T. Winter"/>
-    <author fullname="P. Thubert"/>
-    <author fullname="A. Brandt"/>
-    <author fullname="J. Hui"/>
-    <author fullname="R. Kelsey"/>
-    <author fullname="P. Levis"/>
-    <author fullname="K. Pister"/>
-    <author fullname="R. Struik"/>
-    <author fullname="JP. Vasseur"/>
-    <author fullname="R. Alexander"/>
+    <author fullname="T. Winter" initials="T." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
+    <author fullname="A. Brandt" initials="A." surname="Brandt">
+      <organization/>
+    </author>
+    <author fullname="J. Hui" initials="J." surname="Hui">
+      <organization/>
+    </author>
+    <author fullname="R. Kelsey" initials="R." surname="Kelsey">
+      <organization/>
+    </author>
+    <author fullname="P. Levis" initials="P." surname="Levis">
+      <organization/>
+    </author>
+    <author fullname="K. Pister" initials="K." surname="Pister">
+      <organization/>
+    </author>
+    <author fullname="R. Struik" initials="R." surname="Struik">
+      <organization/>
+    </author>
+    <author fullname="JP. Vasseur" initials="JP." surname="Vasseur">
+      <organization/>
+    </author>
+    <author fullname="R. Alexander" initials="R." surname="Alexander">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>roll</workgroup>
-    <keyword>WSN for Wireless Sensor Network</keyword>
-    <keyword>L3 Mesh for Layer 3 Mesh Network</keyword>
-    <keyword>Routing Protocol</keyword>
-    <keyword>Subnet Routing</keyword>
-    <keyword>Distance Vector</keyword>
-    <keyword>Objective Function</keyword>
-    <keyword>DAG for Directed Acyclic Graph</keyword>
-    <abstract>Low-Power and Lossy Networks (LLNs) are a class of network in which both the routers and their interconnect are constrained.  LLN routers typically operate with constraints on processing power, memory, and energy (battery power).  Their interconnects are characterized by high loss rates, low data rates, and instability.  LLNs are comprised of anything from a few dozen to thousands of routers.  Supported traffic flows include point-to-point (between devices inside the LLN), point-to-multipoint (from a central control point to a subset of devices inside the LLN), and multipoint-to-point (from devices inside the LLN towards a central control point).  This document specifies the IPv6 Routing Protocol for Low-Power and Lossy Networks (RPL), which provides a mechanism whereby multipoint-to-point traffic from devices inside the LLN towards a central control point as well as point-to-multipoint traffic from the central control point to the devices inside the LLN are supported.  Support for point-to-point traffic is also available. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Low-Power and Lossy Networks (LLNs) are a class of network in which both the routers and their interconnect are constrained.  LLN routers typically operate with constraints on processing power, memory, and energy (battery power).  Their interconnects are characterized by high loss rates, low data rates, and instability.  LLNs are comprised of anything from a few dozen to thousands of routers.  Supported traffic flows include point-to-point (between devices inside the LLN), point-to-multipoint (from a central control point to a subset of devices inside the LLN), and multipoint-to-point (from devices inside the LLN towards a central control point).  This document specifies the IPv6 Routing Protocol for Low-Power and Lossy Networks (RPL), which provides a mechanism whereby multipoint-to-point traffic from devices inside the LLN towards a central control point as well as point-to-multipoint traffic from the central control point to the devices inside the LLN are supported.  Support for point-to-point traffic is also available. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6550"/>
+  <seriesInfo name="RFC" value="6550"/>
 </reference>

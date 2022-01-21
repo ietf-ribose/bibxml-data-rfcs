@@ -1,11 +1,18 @@
 <reference anchor="RFC1042" target="https://www.rfc-editor.org/info/rfc1042">
   <front>
     <title>Standard for the transmission of IP datagrams over IEEE 802 networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1042"/>
-    <author fullname="J. Postel"/>
-    <author fullname="J.K. Reynolds"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="J.K. Reynolds" initials="J.K." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1988" month="February"/>
-    <keyword>IP-IEEE</keyword>
-    <abstract>This RFC specifies a standard method of encapsulating the Internet Protocol (IP) datagrams and Address Resolution Protocol (ARP) requests and replies on IEEE 802 Networks to allow compatible and interoperable implementations.  This RFC specifies a protocol standard for the Internet community.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard method of encapsulating the Internet Protocol (IP) datagrams and Address Resolution Protocol (ARP) requests and replies on IEEE 802 Networks to allow compatible and interoperable implementations.  This RFC specifies a protocol standard for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1042"/>
+  <seriesInfo name="STD" value="43"/>
+  <seriesInfo name="RFC" value="1042"/>
 </reference>

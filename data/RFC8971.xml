@@ -1,16 +1,27 @@
 <reference anchor="RFC8971" target="https://www.rfc-editor.org/info/rfc8971">
   <front>
     <title>Bidirectional Forwarding Detection (BFD) for Virtual eXtensible Local Area Network (VXLAN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8971"/>
-    <author fullname="S. Pallagatti"/>
-    <author fullname="G. Mirsky"/>
-    <author fullname="S. Paragiri"/>
-    <author fullname="V. Govindan"/>
-    <author fullname="M. Mudigonda"/>
+    <author fullname="S. Pallagatti" initials="S." surname="Pallagatti">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="S. Paragiri" initials="S." surname="Paragiri">
+      <organization/>
+    </author>
+    <author fullname="V. Govindan" initials="V." surname="Govindan">
+      <organization/>
+    </author>
+    <author fullname="M. Mudigonda" initials="M." surname="Mudigonda">
+      <organization/>
+    </author>
     <date year="2020" month="December"/>
     <workgroup>bfd</workgroup>
-    <keyword>BFD</keyword>
-    <keyword>BFD for VXLAN</keyword>
-    <abstract>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol in point-to-point Virtual eXtensible Local Area Network (VXLAN) tunnels used to form an overlay network.</abstract>
+    <abstract>
+      <t>This document describes the use of the Bidirectional Forwarding Detection (BFD) protocol in point-to-point Virtual eXtensible Local Area Network (VXLAN) tunnels used to form an overlay network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8971"/>
+  <seriesInfo name="RFC" value="8971"/>
 </reference>

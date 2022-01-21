@@ -1,12 +1,21 @@
 <reference anchor="RFC4336" target="https://www.rfc-editor.org/info/rfc4336">
   <front>
     <title>Problem Statement for the Datagram Congestion Control Protocol (DCCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4336"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="M. Handley"/>
-    <author fullname="E. Kohler"/>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="E. Kohler" initials="E." surname="Kohler">
+      <organization/>
+    </author>
     <date year="2006" month="March"/>
     <workgroup>dccp</workgroup>
-    <abstract>This document describes for the historical record the motivation behind the Datagram Congestion Control Protocol (DCCP), an unreliable transport protocol incorporating end-to-end congestion control.  DCCP implements a congestion-controlled, unreliable flow of datagrams for use by applications such as streaming media or on-line games.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes for the historical record the motivation behind the Datagram Congestion Control Protocol (DCCP), an unreliable transport protocol incorporating end-to-end congestion control.  DCCP implements a congestion-controlled, unreliable flow of datagrams for use by applications such as streaming media or on-line games.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4336"/>
+  <seriesInfo name="RFC" value="4336"/>
 </reference>

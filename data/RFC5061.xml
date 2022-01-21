@@ -1,14 +1,27 @@
 <reference anchor="RFC5061" target="https://www.rfc-editor.org/info/rfc5061">
   <front>
     <title>Stream Control Transmission Protocol (SCTP) Dynamic Address Reconfiguration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5061"/>
-    <author fullname="R. Stewart"/>
-    <author fullname="Q. Xie"/>
-    <author fullname="M. Tuexen"/>
-    <author fullname="S. Maruyama"/>
-    <author fullname="M. Kozuka"/>
+    <author fullname="R. Stewart" initials="R." surname="Stewart">
+      <organization/>
+    </author>
+    <author fullname="Q. Xie" initials="Q." surname="Xie">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
+    <author fullname="S. Maruyama" initials="S." surname="Maruyama">
+      <organization/>
+    </author>
+    <author fullname="M. Kozuka" initials="M." surname="Kozuka">
+      <organization/>
+    </author>
     <date year="2007" month="September"/>
     <workgroup>tsvwg</workgroup>
-    <abstract>A local host may have multiple points of attachment to the Internet, giving it a degree of fault tolerance from hardware failures.  Stream Control Transmission Protocol (SCTP) (RFC 4960) was developed to take full advantage of such a multi-homed host to provide a fast failover and association survivability in the face of such hardware failures.  This document describes an extension to SCTP that will allow an SCTP stack to dynamically add an IP address to an SCTP association, dynamically delete an IP address from an SCTP association, and to request to set the primary address the peer will use when sending to an endpoint. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A local host may have multiple points of attachment to the Internet, giving it a degree of fault tolerance from hardware failures.  Stream Control Transmission Protocol (SCTP) (RFC 4960) was developed to take full advantage of such a multi-homed host to provide a fast failover and association survivability in the face of such hardware failures.  This document describes an extension to SCTP that will allow an SCTP stack to dynamically add an IP address to an SCTP association, dynamically delete an IP address from an SCTP association, and to request to set the primary address the peer will use when sending to an endpoint. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5061"/>
+  <seriesInfo name="RFC" value="5061"/>
 </reference>

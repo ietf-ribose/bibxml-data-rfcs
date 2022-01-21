@@ -1,11 +1,15 @@
 <reference anchor="RFC4482" target="https://www.rfc-editor.org/info/rfc4482">
   <front>
     <title>CIPID: Contact Information for the Presence Information Data Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4482"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>simple</workgroup>
-    <keyword>pidf</keyword>
-    <abstract>The Presence Information Data Format (PIDF) defines a basic XML format for presenting presence information for a presentity.  The Contact Information for the Presence Information Data format (CIPID) is an extension that adds elements to PIDF that provide additional contact information about a presentity and its contacts, including references to address book entries and icons. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Presence Information Data Format (PIDF) defines a basic XML format for presenting presence information for a presentity.  The Contact Information for the Presence Information Data format (CIPID) is an extension that adds elements to PIDF that provide additional contact information about a presentity and its contacts, including references to address book entries and icons. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4482"/>
+  <seriesInfo name="RFC" value="4482"/>
 </reference>

@@ -1,11 +1,18 @@
 <reference anchor="RFC4335" target="https://www.rfc-editor.org/info/rfc4335">
   <front>
     <title>The Secure Shell (SSH) Session Channel Break Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4335"/>
-    <author fullname="J. Galbraith"/>
-    <author fullname="P. Remaker"/>
+    <author fullname="J. Galbraith" initials="J." surname="Galbraith">
+      <organization/>
+    </author>
+    <author fullname="P. Remaker" initials="P." surname="Remaker">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>secsh</workgroup>
-    <abstract>The Session Channel Break Extension provides a means to send a BREAK signal over a Secure Shell (SSH) terminal session. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Session Channel Break Extension provides a means to send a BREAK signal over a Secure Shell (SSH) terminal session. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4335"/>
+  <seriesInfo name="RFC" value="4335"/>
 </reference>

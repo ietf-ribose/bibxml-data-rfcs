@@ -1,15 +1,28 @@
 <reference anchor="RFC6182" target="https://www.rfc-editor.org/info/rfc6182">
   <front>
     <title>Architectural Guidelines for Multipath TCP Development</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6182"/>
-    <author fullname="A. Ford"/>
-    <author fullname="C. Raiciu"/>
-    <author fullname="M. Handley"/>
-    <author fullname="S. Barre"/>
-    <author fullname="J. Iyengar"/>
+    <author fullname="A. Ford" initials="A." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="C. Raiciu" initials="C." surname="Raiciu">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="S. Barre" initials="S." surname="Barre">
+      <organization/>
+    </author>
+    <author fullname="J. Iyengar" initials="J." surname="Iyengar">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>mptcp</workgroup>
-    <keyword>multipath tcp architecture</keyword>
-    <abstract>Hosts are often connected by multiple paths, but TCP restricts communications to a single path per transport connection. Resource usage within the network would be more efficient were these multiple paths able to be used concurrently. This should enhance user experience through improved resilience to network failure and higher throughput. This document outlines architectural guidelines for the development of a Multipath Transport Protocol, with references to how these architectural components come together in the development of a Multipath TCP (MPTCP). This document lists certain high-level design decisions that provide foundations for the design of the MPTCP protocol, based upon these architectural requirements. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Hosts are often connected by multiple paths, but TCP restricts communications to a single path per transport connection. Resource usage within the network would be more efficient were these multiple paths able to be used concurrently. This should enhance user experience through improved resilience to network failure and higher throughput.</t>
+      <t>This document outlines architectural guidelines for the development of a Multipath Transport Protocol, with references to how these architectural components come together in the development of a Multipath TCP (MPTCP). This document lists certain high-level design decisions that provide foundations for the design of the MPTCP protocol, based upon these architectural requirements. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6182"/>
+  <seriesInfo name="RFC" value="6182"/>
 </reference>

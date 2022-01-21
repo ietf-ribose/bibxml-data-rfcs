@@ -1,15 +1,15 @@
 <reference anchor="RFC8331" target="https://www.rfc-editor.org/info/rfc8331">
   <front>
     <title>RTP Payload for Society of Motion Picture and Television Engineers (SMPTE) ST 291-1 Ancillary Data</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8331"/>
-    <author fullname="T. Edwards"/>
+    <author fullname="T. Edwards" initials="T." surname="Edwards">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>payload</workgroup>
-    <keyword>SDI</keyword>
-    <keyword>video</keyword>
-    <keyword>captions</keyword>
-    <keyword>timecode</keyword>
-    <keyword>ANC</keyword>
-    <abstract>This memo describes a Real-time Transport Protocol (RTP) payload format for the Society of Motion Picture and Television Engineers (SMPTE) ancillary space (ANC) data, as defined by SMPTE ST 291-1.  SMPTE ANC data is generally used along with professional video formats to carry a range of ancillary data types, including time code, Closed Captioning, and the Active Format Description (AFD).</abstract>
+    <abstract>
+      <t>This memo describes a Real-time Transport Protocol (RTP) payload format for the Society of Motion Picture and Television Engineers (SMPTE) ancillary space (ANC) data, as defined by SMPTE ST 291-1.  SMPTE ANC data is generally used along with professional video formats to carry a range of ancillary data types, including time code, Closed Captioning, and the Active Format Description (AFD).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8331"/>
+  <seriesInfo name="RFC" value="8331"/>
 </reference>

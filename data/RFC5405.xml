@@ -1,13 +1,18 @@
 <reference anchor="RFC5405" target="https://www.rfc-editor.org/info/rfc5405">
   <front>
     <title>Unicast UDP Usage Guidelines for Application Designers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5405"/>
-    <author fullname="L. Eggert"/>
-    <author fullname="G. Fairhurst"/>
+    <author fullname="L. Eggert" initials="L." surname="Eggert">
+      <organization/>
+    </author>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
     <date year="2008" month="November"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>user datagram protocol</keyword>
-    <keyword>congestion control</keyword>
-    <abstract>The User Datagram Protocol (UDP) provides a minimal message-passing transport that has no inherent congestion control mechanisms.  Because congestion control is critical to the stable operation of the Internet, applications and upper-layer protocols that choose to use UDP as an Internet transport must employ mechanisms to prevent congestion collapse and to establish some degree of fairness with concurrent traffic.  This document provides guidelines on the use of UDP for the designers of unicast applications and upper-layer protocols.  Congestion control guidelines are a primary focus, but the document also provides guidance on other topics, including message sizes, reliability, checksums, and middlebox traversal.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>The User Datagram Protocol (UDP) provides a minimal message-passing transport that has no inherent congestion control mechanisms.  Because congestion control is critical to the stable operation of the Internet, applications and upper-layer protocols that choose to use UDP as an Internet transport must employ mechanisms to prevent congestion collapse and to establish some degree of fairness with concurrent traffic.  This document provides guidelines on the use of UDP for the designers of unicast applications and upper-layer protocols.  Congestion control guidelines are a primary focus, but the document also provides guidance on other topics, including message sizes, reliability, checksums, and middlebox traversal.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5405"/>
+  <seriesInfo name="RFC" value="5405"/>
 </reference>

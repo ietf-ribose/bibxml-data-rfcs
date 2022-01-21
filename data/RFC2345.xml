@@ -1,16 +1,20 @@
 <reference anchor="RFC2345" target="https://www.rfc-editor.org/info/rfc2345">
   <front>
     <title>Domain Names and Company Name Retrieval</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2345"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="T. Wolf"/>
-    <author fullname="G. Oglesby"/>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="T. Wolf" initials="T." surname="Wolf">
+      <organization/>
+    </author>
+    <author fullname="G. Oglesby" initials="G." surname="Oglesby">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
-    <keyword>URL</keyword>
-    <keyword>mapping</keyword>
-    <keyword>service</keyword>
-    <keyword>whois</keyword>
-    <keyword>dns</keyword>
-    <abstract>This document proposes a company name to URL mapping service based on the oldest and least complex of Internet directory protocols, whois, in order to explore whether an extremely simple and widely-deployed protocol can succeed where more complex and powerful options have failed or been excessively delayed.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</abstract>
+    <abstract>
+      <t>This document proposes a company name to URL mapping service based on the oldest and least complex of Internet directory protocols, whois, in order to explore whether an extremely simple and widely-deployed protocol can succeed where more complex and powerful options have failed or been excessively delayed.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2345"/>
+  <seriesInfo name="RFC" value="2345"/>
 </reference>

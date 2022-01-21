@@ -1,14 +1,17 @@
 <reference anchor="RFC2009" target="https://www.rfc-editor.org/info/rfc2009">
   <front>
     <title>GPS-Based Addressing and Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2009"/>
-    <author fullname="T. Imielinski"/>
-    <author fullname="J. Navas"/>
+    <author fullname="T. Imielinski" initials="T." surname="Imielinski">
+      <organization/>
+    </author>
+    <author fullname="J. Navas" initials="J." surname="Navas">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
-    <keyword>GPS-AR</keyword>
-    <keyword>domain</keyword>
-    <keyword>names</keyword>
-    <keyword>geographic</keyword>
-    <abstract>This document describes a possible experiment with geographic addresses.  It uses several specific IP addresses and domain names in the discussion as concrete examples to aid in understanding the concepts.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a possible experiment with geographic addresses.  It uses several specific IP addresses and domain names in the discussion as concrete examples to aid in understanding the concepts.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2009"/>
+  <seriesInfo name="RFC" value="2009"/>
 </reference>

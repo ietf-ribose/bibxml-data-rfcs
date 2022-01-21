@@ -1,12 +1,14 @@
 <reference anchor="RFC1805" target="https://www.rfc-editor.org/info/rfc1805">
   <front>
     <title>Location-Independent Data/Software Integrity Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1805"/>
-    <author fullname="A. Rubin"/>
+    <author fullname="A. Rubin" initials="A." surname="Rubin">
+      <organization/>
+    </author>
     <date year="1995" month="June"/>
-    <keyword>Betsi</keyword>
-    <keyword>Security</keyword>
-    <keyword>Cryptography</keyword>
-    <abstract>This memo describes a protocol for adding integrity assurance to files that are distributed across the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo describes a protocol for adding integrity assurance to files that are distributed across the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1805"/>
+  <seriesInfo name="RFC" value="1805"/>
 </reference>

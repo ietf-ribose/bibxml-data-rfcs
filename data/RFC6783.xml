@@ -1,14 +1,18 @@
 <reference anchor="RFC6783" target="https://www.rfc-editor.org/info/rfc6783">
   <front>
     <title>Mailing Lists and Non-ASCII Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6783"/>
-    <author fullname="J. Levine"/>
-    <author fullname="R. Gellens"/>
+    <author fullname="J. Levine" initials="J." surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>eai</workgroup>
-    <keyword>Mail</keyword>
-    <keyword>internationalization</keyword>
-    <keyword>mailing lists</keyword>
-    <abstract>This document describes considerations for mailing lists with the introduction of non-ASCII UTF-8 email addresses.  It outlines some possible scenarios for handling lists with mixtures of non-ASCII and traditional addresses but does not specify protocol changes or offer implementation or deployment advice.  This document is a product of the Internet Engineering Task Force (IETF).</abstract>
+    <abstract>
+      <t>This document describes considerations for mailing lists with the introduction of non-ASCII UTF-8 email addresses.  It outlines some possible scenarios for handling lists with mixtures of non-ASCII and traditional addresses but does not specify protocol changes or offer implementation or deployment advice.  This document is a product of the Internet Engineering Task Force (IETF).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6783"/>
+  <seriesInfo name="RFC" value="6783"/>
 </reference>

@@ -1,18 +1,19 @@
 <reference anchor="RFC4227" target="https://www.rfc-editor.org/info/rfc4227">
   <front>
     <title>Using the Simple Object Access Protocol (SOAP) in Blocks Extensible Exchange Protocol (BEEP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4227"/>
-    <author fullname="E. O'Tuathail"/>
-    <author fullname="M. Rose"/>
+    <author fullname="E. O'Tuathail" initials="E." surname="O'Tuathail">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>xml</keyword>
-    <keyword>extensible markup language</keyword>
-    <keyword>remote procedure calling</keyword>
-    <keyword>rpc</keyword>
-    <keyword>asynchronous event notification</keyword>
-    <keyword>unacknowledged messages</keyword>
-    <keyword>binding</keyword>
-    <abstract>This memo specifies a Simple Object Access Protocol (SOAP) binding to the Blocks Extensible Exchange Protocol (BEEP) core. A SOAP binding describes how SOAP messages are transmitted in the network. The SOAP is an XML-based (eXtensible Markup Language) messaging protocol used to implement a wide variety of distributed messaging models. It defines a message format and describes a variety of message patterns, including, but not limited to, Remote Procedure Calling (RPC), asynchronous event notification, unacknowledged messages, and forwarding via SOAP intermediaries. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies a Simple Object Access Protocol (SOAP) binding to the Blocks Extensible Exchange Protocol (BEEP) core. A SOAP binding describes how SOAP messages are transmitted in the network.</t>
+      <t>The SOAP is an XML-based (eXtensible Markup Language) messaging protocol used to implement a wide variety of distributed messaging models. It defines a message format and describes a variety of message patterns, including, but not limited to, Remote Procedure Calling (RPC), asynchronous event notification, unacknowledged messages, and forwarding via SOAP intermediaries. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4227"/>
+  <seriesInfo name="RFC" value="4227"/>
 </reference>

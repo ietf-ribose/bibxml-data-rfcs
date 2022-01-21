@@ -1,12 +1,15 @@
 <reference anchor="RFC8737" target="https://www.rfc-editor.org/info/rfc8737">
   <front>
     <title>Automated Certificate Management Environment (ACME) TLS Application-Layer Protocol Negotiation (ALPN) Challenge Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8737"/>
-    <author fullname="R.B. Shoemaker"/>
+    <author fullname="R.B. Shoemaker" initials="R.B." surname="Shoemaker">
+      <organization/>
+    </author>
     <date year="2020" month="February"/>
     <workgroup>acme</workgroup>
-    <keyword>acme</keyword>
-    <keyword>pki</keyword>
-    <abstract>This document specifies a new challenge for the Automated Certificate Management Environment (ACME) protocol that allows for domain control validation using TLS.</abstract>
+    <abstract>
+      <t>This document specifies a new challenge for the Automated Certificate Management Environment (ACME) protocol that allows for domain control validation using TLS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8737"/>
+  <seriesInfo name="RFC" value="8737"/>
 </reference>

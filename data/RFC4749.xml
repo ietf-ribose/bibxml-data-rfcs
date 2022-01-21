@@ -1,13 +1,15 @@
 <reference anchor="RFC4749" target="https://www.rfc-editor.org/info/rfc4749">
   <front>
     <title>RTP Payload Format for the G.729.1 Audio Codec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4749"/>
-    <author fullname="A. Sollaud"/>
+    <author fullname="A. Sollaud" initials="A." surname="Sollaud">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>real-time transport protocol</keyword>
-    <keyword>itu-t</keyword>
-    <keyword>international telecommunication union</keyword>
-    <abstract>This document specifies a Real-time Transport Protocol (RTP) payload format to be used for the International Telecommunication Union (ITU-T) G.729.1 audio codec.  A media type registration is included for this payload format. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a Real-time Transport Protocol (RTP) payload format to be used for the International Telecommunication Union (ITU-T) G.729.1 audio codec.  A media type registration is included for this payload format. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4749"/>
+  <seriesInfo name="RFC" value="4749"/>
 </reference>

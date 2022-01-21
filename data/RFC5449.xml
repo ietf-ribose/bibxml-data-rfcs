@@ -1,16 +1,24 @@
 <reference anchor="RFC5449" target="https://www.rfc-editor.org/info/rfc5449">
   <front>
     <title>OSPF Multipoint Relay (MPR) Extension for Ad Hoc Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5449"/>
-    <author fullname="E. Baccelli"/>
-    <author fullname="P. Jacquet"/>
-    <author fullname="D. Nguyen"/>
-    <author fullname="T. Clausen"/>
+    <author fullname="E. Baccelli" initials="E." surname="Baccelli">
+      <organization/>
+    </author>
+    <author fullname="P. Jacquet" initials="P." surname="Jacquet">
+      <organization/>
+    </author>
+    <author fullname="D. Nguyen" initials="D." surname="Nguyen">
+      <organization/>
+    </author>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
     <date year="2009" month="February"/>
     <workgroup>ospf</workgroup>
-    <keyword>open shortest path first</keyword>
-    <keyword>interface type</keyword>
-    <keyword>mobile ad hoc</keyword>
-    <abstract>This document specifies an OSPFv3 interface type tailored for mobile ad hoc networks.  This interface type is derived from the broadcast interface type, and is denoted the "OSPFv3 MANET interface type".  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies an OSPFv3 interface type tailored for mobile ad hoc networks.  This interface type is derived from the broadcast interface type, and is denoted the "OSPFv3 MANET interface type".  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5449"/>
+  <seriesInfo name="RFC" value="5449"/>
 </reference>

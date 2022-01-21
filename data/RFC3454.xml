@@ -1,13 +1,18 @@
 <reference anchor="RFC3454" target="https://www.rfc-editor.org/info/rfc3454">
   <front>
     <title>Preparation of Internationalized Strings ("stringprep")</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3454"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="M. Blanchet"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="M. Blanchet" initials="M." surname="Blanchet">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>unicode text</keyword>
-    <keyword>internationalization</keyword>
-    <abstract>This document describes a framework for preparing Unicode text strings in order to increase the likelihood that string input and string comparison work in ways that make sense for typical users throughout the world.  The stringprep protocol is useful for protocol identifier values, company and personal names, internationalized domain names, and other text strings.  This document does not specify how protocols should prepare text strings.  Protocols must create profiles of stringprep in order to fully specify the processing options. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a framework for preparing Unicode text strings in order to increase the likelihood that string input and string comparison work in ways that make sense for typical users throughout the world.  The stringprep protocol is useful for protocol identifier values, company and personal names, internationalized domain names, and other text strings.  This document does not specify how protocols should prepare text strings.  Protocols must create profiles of stringprep in order to fully specify the processing options. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3454"/>
+  <seriesInfo name="RFC" value="3454"/>
 </reference>

@@ -1,20 +1,27 @@
 <reference anchor="RFC8139" target="https://www.rfc-editor.org/info/rfc8139">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL): Appointed Forwarders</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8139"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="Y. Li"/>
-    <author fullname="M. Umair"/>
-    <author fullname="A. Banerjee"/>
-    <author fullname="F. Hu"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="Y. Li" initials="Y." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="M. Umair" initials="M." surname="Umair">
+      <organization/>
+    </author>
+    <author fullname="A. Banerjee" initials="A." surname="Banerjee">
+      <organization/>
+    </author>
+    <author fullname="F. Hu" initials="F." surname="Hu">
+      <organization/>
+    </author>
     <date year="2017" month="June"/>
     <workgroup>trill</workgroup>
-    <keyword>DRB</keyword>
-    <keyword>VLAN mapping</keyword>
-    <keyword>inhibition</keyword>
-    <keyword>port shutdown</keyword>
-    <keyword>trill</keyword>
-    <keyword>TRansparent Interconnection of Lots of Links</keyword>
-    <abstract>TRILL (Transparent Interconnection of Lots of Links) supports multi-access LAN (Local Area Network) links where a single link can have multiple end stations and TRILL switches attached.  Where multiple TRILL switches are attached to a link, native traffic to and from end stations on that link is handled by a subset of those TRILL switches called "Appointed Forwarders" as originally specified in RFC 6325, with the intent that native traffic in each VLAN be handled by at most one TRILL switch.  This document clarifies and updates the Appointed Forwarder mechanism.  It updates RFCs 6325 and 7177 and obsoletes RFC 6439.</abstract>
+    <abstract>
+      <t>TRILL (Transparent Interconnection of Lots of Links) supports multi-access LAN (Local Area Network) links where a single link can have multiple end stations and TRILL switches attached.  Where multiple TRILL switches are attached to a link, native traffic to and from end stations on that link is handled by a subset of those TRILL switches called "Appointed Forwarders" as originally specified in RFC 6325, with the intent that native traffic in each VLAN be handled by at most one TRILL switch.  This document clarifies and updates the Appointed Forwarder mechanism.  It updates RFCs 6325 and 7177 and obsoletes RFC 6439.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8139"/>
+  <seriesInfo name="RFC" value="8139"/>
 </reference>

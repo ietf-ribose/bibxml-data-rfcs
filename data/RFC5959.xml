@@ -1,12 +1,15 @@
 <reference anchor="RFC5959" target="https://www.rfc-editor.org/info/rfc5959">
   <front>
     <title>Algorithms for Asymmetric Key Package Content Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5959"/>
-    <author fullname="S. Turner"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>EncryptedPrivateKeyInfo</keyword>
-    <keyword>AsymmetricKeyPackage</keyword>
-    <abstract>This document describes the conventions for using several cryptographic algorithms with the EncryptedPrivateKeyInfo structure, as defined in RFC 5958.  It also includes conventions necessary to protect the AsymmetricKeyPackage content type with SignedData, EnvelopedData, EncryptedData, AuthenticatedData, and AuthEnvelopedData. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the conventions for using several cryptographic algorithms with the EncryptedPrivateKeyInfo structure, as defined in RFC 5958.  It also includes conventions necessary to protect the AsymmetricKeyPackage content type with SignedData, EnvelopedData, EncryptedData, AuthenticatedData, and AuthEnvelopedData. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5959"/>
+  <seriesInfo name="RFC" value="5959"/>
 </reference>

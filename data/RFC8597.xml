@@ -1,21 +1,27 @@
 <reference anchor="RFC8597" target="https://www.rfc-editor.org/info/rfc8597">
   <front>
     <title>Cooperating Layered Architecture for Software-Defined Networking (CLAS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8597"/>
-    <author fullname="LM. Contreras"/>
-    <author fullname="CJ. Bernardos"/>
-    <author fullname="D. Lopez"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="P. Iovanna"/>
+    <author fullname="LM. Contreras" initials="LM." surname="Contreras">
+      <organization/>
+    </author>
+    <author fullname="CJ. Bernardos" initials="CJ." surname="Bernardos">
+      <organization/>
+    </author>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="P. Iovanna" initials="P." surname="Iovanna">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
-    <keyword>SDN</keyword>
-    <keyword>Control</keyword>
-    <keyword>Programmability</keyword>
-    <keyword>Intelligence</keyword>
-    <keyword>Transport</keyword>
-    <keyword>Service</keyword>
-    <keyword>Flexibility</keyword>
-    <keyword>Cooperation</keyword>
-    <abstract>Software-Defined Networking (SDN) advocates for the separation of the control plane from the data plane in the network nodes and its logical centralization on one or a set of control entities. Most of the network and/or service intelligence is moved to these control entities. Typically, such an entity is seen as a compendium of interacting control functions in a vertical, tightly integrated fashion. The relocation of the control functions from a number of distributed network nodes to a logical central entity conceptually places together a number of control capabilities with different purposes. As a consequence, the existing solutions do not provide a clear separation between transport control and services that rely upon transport capabilities. This document describes an approach called Cooperating Layered Architecture for Software-Defined Networking (CLAS), wherein the control functions associated with transport are differentiated from those related to services in such a way that they can be provided and maintained independently and can follow their own evolution path.</abstract>
+    <abstract>
+      <t>Software-Defined Networking (SDN) advocates for the separation of the control plane from the data plane in the network nodes and its logical centralization on one or a set of control entities. Most of the network and/or service intelligence is moved to these control entities. Typically, such an entity is seen as a compendium of interacting control functions in a vertical, tightly integrated fashion. The relocation of the control functions from a number of distributed network nodes to a logical central entity conceptually places together a number of control capabilities with different purposes. As a consequence, the existing solutions do not provide a clear separation between transport control and services that rely upon transport capabilities.</t>
+      <t>This document describes an approach called Cooperating Layered Architecture for Software-Defined Networking (CLAS), wherein the control functions associated with transport are differentiated from those related to services in such a way that they can be provided and maintained independently and can follow their own evolution path.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8597"/>
+  <seriesInfo name="RFC" value="8597"/>
 </reference>

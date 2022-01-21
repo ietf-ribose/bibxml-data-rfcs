@@ -1,20 +1,33 @@
 <reference anchor="RFC2616" target="https://www.rfc-editor.org/info/rfc2616">
   <front>
     <title>Hypertext Transfer Protocol -- HTTP/1.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2616"/>
-    <author fullname="R. Fielding"/>
-    <author fullname="J. Gettys"/>
-    <author fullname="J. Mogul"/>
-    <author fullname="H. Frystyk"/>
-    <author fullname="L. Masinter"/>
-    <author fullname="P. Leach"/>
-    <author fullname="T. Berners-Lee"/>
+    <author fullname="R. Fielding" initials="R." surname="Fielding">
+      <organization/>
+    </author>
+    <author fullname="J. Gettys" initials="J." surname="Gettys">
+      <organization/>
+    </author>
+    <author fullname="J. Mogul" initials="J." surname="Mogul">
+      <organization/>
+    </author>
+    <author fullname="H. Frystyk" initials="H." surname="Frystyk">
+      <organization/>
+    </author>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="T. Berners-Lee" initials="T." surname="Berners-Lee">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>http</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>World Wide Web</keyword>
-    <keyword>WWW</keyword>
-    <keyword>hypermedia</keyword>
-    <abstract>HTTP has been in use by the World-Wide Web global information initiative since 1990.  This specification defines the protocol referred to as "HTTP/1.1", and is an update to RFC 2068. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>HTTP has been in use by the World-Wide Web global information initiative since 1990.  This specification defines the protocol referred to as "HTTP/1.1", and is an update to RFC 2068. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2616"/>
+  <seriesInfo name="RFC" value="2616"/>
 </reference>

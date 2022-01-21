@@ -1,26 +1,30 @@
 <reference anchor="RFC3216" target="https://www.rfc-editor.org/info/rfc3216">
   <front>
     <title>SMIng Objectives</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3216"/>
-    <author fullname="C. Elliott"/>
-    <author fullname="D. Harrington"/>
-    <author fullname="J. Jason"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="F. Strauss"/>
-    <author fullname="W. Weiss"/>
+    <author fullname="C. Elliott" initials="C." surname="Elliott">
+      <organization/>
+    </author>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
+    <author fullname="J. Jason" initials="J." surname="Jason">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="F. Strauss" initials="F." surname="Strauss">
+      <organization/>
+    </author>
+    <author fullname="W. Weiss" initials="W." surname="Weiss">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
     <workgroup>sming</workgroup>
-    <keyword>SNMP</keyword>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <keyword>protocol</keyword>
-    <keyword>COPS-PR</keyword>
-    <keyword>common</keyword>
-    <keyword>open</keyword>
-    <keyword>policy</keyword>
-    <keyword>service</keyword>
-    <keyword>provisioning</keyword>
-    <abstract>This document describes the objectives for a new data definition language, suitable for the modeling of network management constructs, that can be directly mapped into SNMP and COPS-PR protocol operations.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the objectives for a new data definition language, suitable for the modeling of network management constructs, that can be directly mapped into SNMP and COPS-PR protocol operations.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3216"/>
+  <seriesInfo name="RFC" value="3216"/>
 </reference>

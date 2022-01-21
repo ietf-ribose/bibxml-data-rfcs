@@ -1,21 +1,27 @@
 <reference anchor="RFC5060" target="https://www.rfc-editor.org/info/rfc5060">
   <front>
     <title>Protocol Independent Multicast MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5060"/>
-    <author fullname="R. Sivaramu"/>
-    <author fullname="J. Lingard"/>
-    <author fullname="D. McWalter"/>
-    <author fullname="B. Joshi"/>
-    <author fullname="A. Kessler"/>
+    <author fullname="R. Sivaramu" initials="R." surname="Sivaramu">
+      <organization/>
+    </author>
+    <author fullname="J. Lingard" initials="J." surname="Lingard">
+      <organization/>
+    </author>
+    <author fullname="D. McWalter" initials="D." surname="McWalter">
+      <organization/>
+    </author>
+    <author fullname="B. Joshi" initials="B." surname="Joshi">
+      <organization/>
+    </author>
+    <author fullname="A. Kessler" initials="A." surname="Kessler">
+      <organization/>
+    </author>
     <date year="2008" month="January"/>
     <workgroup>pim</workgroup>
-    <keyword>PIM</keyword>
-    <keyword>PIM-SM</keyword>
-    <keyword>BIDIR-PIM</keyword>
-    <keyword>PIM-DM</keyword>
-    <keyword>Multicast Routing</keyword>
-    <keyword>PIM-STD-MIB</keyword>
-    <keyword>management information base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Protocol Independent Multicast (PIM) protocols: PIM-SM (Sparse Mode), BIDIR-PIM (Bidirectional), and PIM-DM (Dense Mode).  This document is part of work in progress to obsolete RFC 2934, and is to be preferred where the two documents overlap.  This document does not obsolete RFC 2934. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing the Protocol Independent Multicast (PIM) protocols: PIM-SM (Sparse Mode), BIDIR-PIM (Bidirectional), and PIM-DM (Dense Mode).  This document is part of work in progress to obsolete RFC 2934, and is to be preferred where the two documents overlap.  This document does not obsolete RFC 2934. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5060"/>
+  <seriesInfo name="RFC" value="5060"/>
 </reference>

@@ -1,16 +1,17 @@
 <reference anchor="RFC1823" target="https://www.rfc-editor.org/info/rfc1823">
   <front>
     <title>The LDAP Application Program Interface</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1823"/>
-    <author fullname="T. Howes"/>
-    <author fullname="M. Smith"/>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>API</keyword>
-    <keyword>X.500</keyword>
-    <abstract>This document defines a C language application program interface to the lightweight directory access protocol (LDAP).  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document defines a C language application program interface to the lightweight directory access protocol (LDAP).  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1823"/>
+  <seriesInfo name="RFC" value="1823"/>
 </reference>

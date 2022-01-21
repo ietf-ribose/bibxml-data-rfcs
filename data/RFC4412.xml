@@ -1,28 +1,18 @@
 <reference anchor="RFC4412" target="https://www.rfc-editor.org/info/rfc4412">
   <front>
     <title>Communications Resource Priority for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4412"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="J. Polk"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>sip</workgroup>
-    <keyword>RP</keyword>
-    <keyword>RPH</keyword>
-    <keyword>preferential</keyword>
-    <keyword>preempt</keyword>
-    <keyword>preempted</keyword>
-    <keyword>preemption</keyword>
-    <keyword>queue</keyword>
-    <keyword>DSN</keyword>
-    <keyword>DRSN</keyword>
-    <keyword>WPS</keyword>
-    <keyword>ETS</keyword>
-    <keyword>Q.735</keyword>
-    <keyword>Q735</keyword>
-    <keyword>disaster</keyword>
-    <keyword>I.255</keyword>
-    <keyword>flash</keyword>
-    <keyword>flash-override</keyword>
-    <abstract>This document defines two new Session Initiation Protocol (SIP) header fields for communicating resource priority, namely, "Resource-Priority" and "Accept-Resource-Priority".  The "Resource-Priority" header field can influence the behavior of SIP user agents (such as telephone gateways and IP telephones) and SIP proxies.  It does not directly influence the forwarding behavior of IP routers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines two new Session Initiation Protocol (SIP) header fields for communicating resource priority, namely, "Resource-Priority" and "Accept-Resource-Priority".  The "Resource-Priority" header field can influence the behavior of SIP user agents (such as telephone gateways and IP telephones) and SIP proxies.  It does not directly influence the forwarding behavior of IP routers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4412"/>
+  <seriesInfo name="RFC" value="4412"/>
 </reference>

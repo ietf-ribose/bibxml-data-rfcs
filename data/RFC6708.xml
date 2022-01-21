@@ -1,14 +1,28 @@
 <reference anchor="RFC6708" target="https://www.rfc-editor.org/info/rfc6708">
   <front>
     <title>Application-Layer Traffic Optimization (ALTO) Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6708"/>
-    <author fullname="S. Kiesel"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="M. Stiemerling"/>
-    <author fullname="R. Woundy"/>
-    <author fullname="Y. Yang"/>
+    <author fullname="S. Kiesel" initials="S." surname="Kiesel">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="M. Stiemerling" initials="M." surname="Stiemerling">
+      <organization/>
+    </author>
+    <author fullname="R. Woundy" initials="R." surname="Woundy">
+      <organization/>
+    </author>
+    <author fullname="Y. Yang" initials="Y." surname="Yang">
+      <organization/>
+    </author>
     <date year="2012" month="September"/>
     <workgroup>alto</workgroup>
-    <abstract>Many Internet applications are used to access resources, such as pieces of information or server processes that are available in several equivalent replicas on different hosts. This includes, but is not limited to, peer-to-peer file sharing applications. The goal of Application-Layer Traffic Optimization (ALTO) is to provide guidance to applications that have to select one or several hosts from a set of candidates capable of providing a desired resource. This guidance shall be based on parameters that affect performance and efficiency of the data transmission between the hosts, e.g., the topological distance. The ultimate goal is to improve performance or Quality of Experience in the application while reducing the utilization of the underlying network infrastructure. This document enumerates requirements for specifying, assessing, or comparing protocols and implementations. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Many Internet applications are used to access resources, such as pieces of information or server processes that are available in several equivalent replicas on different hosts. This includes, but is not limited to, peer-to-peer file sharing applications. The goal of Application-Layer Traffic Optimization (ALTO) is to provide guidance to applications that have to select one or several hosts from a set of candidates capable of providing a desired resource. This guidance shall be based on parameters that affect performance and efficiency of the data transmission between the hosts, e.g., the topological distance. The ultimate goal is to improve performance or Quality of Experience in the application while reducing the utilization of the underlying network infrastructure.</t>
+      <t>This document enumerates requirements for specifying, assessing, or comparing protocols and implementations. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6708"/>
+  <seriesInfo name="RFC" value="6708"/>
 </reference>

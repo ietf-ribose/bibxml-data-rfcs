@@ -1,17 +1,15 @@
 <reference anchor="RFC4512" target="https://www.rfc-editor.org/info/rfc4512">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP): Directory Information Models</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4512"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>ldapbis</workgroup>
-    <keyword>LDAv3</keyword>
-    <keyword>x.500</keyword>
-    <keyword>LDAPv3</keyword>
-    <keyword>LDAP3-ATD</keyword>
-    <keyword>syntax</keyword>
-    <keyword>elective extensions</keyword>
-    <keyword>mechanisms</keyword>
-    <abstract>The Lightweight Directory Access Protocol (LDAP) is an Internet protocol for accessing distributed directory services that act in accordance with X.500 data and service models.  This document describes the X.500 Directory Information Models, as used in LDAP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Lightweight Directory Access Protocol (LDAP) is an Internet protocol for accessing distributed directory services that act in accordance with X.500 data and service models.  This document describes the X.500 Directory Information Models, as used in LDAP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4512"/>
+  <seriesInfo name="RFC" value="4512"/>
 </reference>

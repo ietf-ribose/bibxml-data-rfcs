@@ -1,20 +1,14 @@
 <reference anchor="RFC4128" target="https://www.rfc-editor.org/info/rfc4128">
   <front>
     <title>Bandwidth Constraints Models for Differentiated Services (Diffserv)-aware MPLS Traffic Engineering: Performance Evaluation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4128"/>
-    <author fullname="W. Lai"/>
+    <author fullname="W. Lai" initials="W." surname="Lai">
+      <organization/>
+    </author>
     <date year="2005" month="June"/>
-    <keyword>label switched path</keyword>
-    <keyword>lsp</keyword>
-    <keyword>lsp blocking</keyword>
-    <keyword>lsp preemption</keyword>
-    <keyword>lsp priority traffic overload</keyword>
-    <keyword>bandwidth efficiency</keyword>
-    <keyword>bandwidth sharing</keyword>
-    <keyword>bandwidth protection</keyword>
-    <keyword>class isolation</keyword>
-    <keyword>maximum allocation model</keyword>
-    <keyword>russian dolls model</keyword>
-    <abstract>"Differentiated Services (Diffserv)-aware MPLS Traffic Engineering Requirements", RFC 3564, specifies the requirements and selection criteria for Bandwidth Constraints Models.  Two such models, the Maximum Allocation and the Russian Dolls, are described therein.  This document complements RFC 3564 by presenting the results of a performance evaluation of these two models under various operational conditions: normal load, overload, preemption fully or partially enabled, pure blocking, or complete sharing.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>"Differentiated Services (Diffserv)-aware MPLS Traffic Engineering Requirements", RFC 3564, specifies the requirements and selection criteria for Bandwidth Constraints Models.  Two such models, the Maximum Allocation and the Russian Dolls, are described therein.  This document complements RFC 3564 by presenting the results of a performance evaluation of these two models under various operational conditions: normal load, overload, preemption fully or partially enabled, pure blocking, or complete sharing.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4128"/>
+  <seriesInfo name="RFC" value="4128"/>
 </reference>

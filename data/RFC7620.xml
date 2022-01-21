@@ -1,19 +1,27 @@
 <reference anchor="RFC7620" target="https://www.rfc-editor.org/info/rfc7620">
   <front>
     <title>Scenarios with Host Identification Complications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7620"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="B. Chatras"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="B. Williams"/>
-    <author fullname="B. Sarikaya"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="B. Chatras" initials="B." surname="Chatras">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="B. Williams" initials="B." surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="B. Sarikaya" initials="B." surname="Sarikaya">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
-    <keyword>IP address sharing</keyword>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>host identifier</keyword>
-    <keyword>de-multiplexing connections</keyword>
-    <keyword>policy enforcement</keyword>
-    <keyword>service delivery</keyword>
-    <abstract>This document describes a set of scenarios in which complications when identifying which policy to apply for a host are encountered. This problem is abstracted as "host identification". Describing these scenarios allows commonalities between scenarios to be identified, which is helpful during the solution design phase. This document does not include any solution-specific discussions.</abstract>
+    <abstract>
+      <t>This document describes a set of scenarios in which complications when identifying which policy to apply for a host are encountered. This problem is abstracted as "host identification". Describing these scenarios allows commonalities between scenarios to be identified, which is helpful during the solution design phase.</t>
+      <t>This document does not include any solution-specific discussions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7620"/>
+  <seriesInfo name="RFC" value="7620"/>
 </reference>

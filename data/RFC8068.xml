@@ -1,13 +1,21 @@
 <reference anchor="RFC8068" target="https://www.rfc-editor.org/info/rfc8068">
   <front>
     <title>Session Initiation Protocol (SIP) Recording Call Flows</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8068"/>
-    <author fullname="R. Ravindranath"/>
-    <author fullname="P. Ravindran"/>
-    <author fullname="P. Kyzivat"/>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
+    <author fullname="P. Ravindran" initials="P." surname="Ravindran">
+      <organization/>
+    </author>
+    <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>siprec</workgroup>
-    <keyword>sipreq</keyword>
-    <abstract>Session recording is a critical requirement in many communications environments, such as call centers and financial trading organizations.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer-protection reasons.  The recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document lists call flows with metadata snapshots sent from a Session Recording Client (SRC) to a Session Recording Server (SRS).</abstract>
+    <abstract>
+      <t>Session recording is a critical requirement in many communications environments, such as call centers and financial trading organizations.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer-protection reasons.  The recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document lists call flows with metadata snapshots sent from a Session Recording Client (SRC) to a Session Recording Server (SRS).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8068"/>
+  <seriesInfo name="RFC" value="8068"/>
 </reference>

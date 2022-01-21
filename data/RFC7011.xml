@@ -1,12 +1,22 @@
 <reference anchor="RFC7011" target="https://www.rfc-editor.org/info/rfc7011">
   <front>
     <title>Specification of the IP Flow Information Export (IPFIX) Protocol for the Exchange of Flow Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7011"/>
-    <author fullname="B. Claise"/>
-    <author fullname="B. Trammell"/>
-    <author fullname="P. Aitken"/>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="P. Aitken" initials="P." surname="Aitken">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>ipfix</workgroup>
-    <abstract>This document specifies the IP Flow Information Export (IPFIX) protocol, which serves as a means for transmitting Traffic Flow information over the network.  In order to transmit Traffic Flow information from an Exporting Process to a Collecting Process, a common representation of flow data and a standard means of communicating them are required.  This document describes how the IPFIX Data and Template Records are carried over a number of transport protocols from an IPFIX Exporting Process to an IPFIX Collecting Process.  This document obsoletes RFC 5101.</abstract>
+    <abstract>
+      <t>This document specifies the IP Flow Information Export (IPFIX) protocol, which serves as a means for transmitting Traffic Flow information over the network.  In order to transmit Traffic Flow information from an Exporting Process to a Collecting Process, a common representation of flow data and a standard means of communicating them are required.  This document describes how the IPFIX Data and Template Records are carried over a number of transport protocols from an IPFIX Exporting Process to an IPFIX Collecting Process.  This document obsoletes RFC 5101.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7011"/>
+  <seriesInfo name="STD" value="77"/>
+  <seriesInfo name="RFC" value="7011"/>
 </reference>

@@ -1,17 +1,24 @@
 <reference anchor="RFC2252" target="https://www.rfc-editor.org/info/rfc2252">
   <front>
     <title>Lightweight Directory Access Protocol (v3): Attribute Syntax Definitions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2252"/>
-    <author fullname="M. Wahl"/>
-    <author fullname="A. Coulbeck"/>
-    <author fullname="T. Howes"/>
-    <author fullname="S. Kille"/>
+    <author fullname="M. Wahl" initials="M." surname="Wahl">
+      <organization/>
+    </author>
+    <author fullname="A. Coulbeck" initials="A." surname="Coulbeck">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1997" month="December"/>
     <workgroup>asid</workgroup>
-    <keyword>LDAP3-ATD</keyword>
-    <keyword>LDAv3</keyword>
-    <keyword>x.500</keyword>
-    <keyword>syntax</keyword>
-    <abstract>This document defines a set of syntaxes for LDAPv3, and the rules by which attribute values of these syntaxes are represented as octet strings for transmission in the LDAP protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a set of syntaxes for LDAPv3, and the rules by which attribute values of these syntaxes are represented as octet strings for transmission in the LDAP protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2252"/>
+  <seriesInfo name="RFC" value="2252"/>
 </reference>

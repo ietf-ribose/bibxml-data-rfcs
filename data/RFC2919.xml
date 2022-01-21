@@ -1,14 +1,18 @@
 <reference anchor="RFC2919" target="https://www.rfc-editor.org/info/rfc2919">
   <front>
     <title>List-Id: A Structured Field and Namespace for the Identification of Mailing Lists</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2919"/>
-    <author fullname="R. Chandhok"/>
-    <author fullname="G. Wenger"/>
+    <author fullname="R. Chandhok" initials="R." surname="Chandhok">
+      <organization/>
+    </author>
+    <author fullname="G. Wenger" initials="G." surname="Wenger">
+      <organization/>
+    </author>
     <date year="2001" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>server</keyword>
-    <keyword>clients</keyword>
-    <keyword>user agents</keyword>
-    <abstract>Software that handles electronic mailing list messages (servers and user agents) needs a way to reliably identify messages that belong to a particular mailing list.  With the advent of list management headers, it has become even more important to provide a unique identifier for a mailing list regardless of the particular host that serves as the list processor at any given time. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Software that handles electronic mailing list messages (servers and user agents) needs a way to reliably identify messages that belong to a particular mailing list.  With the advent of list management headers, it has become even more important to provide a unique identifier for a mailing list regardless of the particular host that serves as the list processor at any given time. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2919"/>
+  <seriesInfo name="RFC" value="2919"/>
 </reference>

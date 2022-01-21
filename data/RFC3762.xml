@@ -1,12 +1,15 @@
 <reference anchor="RFC3762" target="https://www.rfc-editor.org/info/rfc3762">
   <front>
     <title>Telephone Number Mapping (ENUM) Service Registration for H.323</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3762"/>
-    <author fullname="O. Levin"/>
+    <author fullname="O. Levin" initials="O." surname="Levin">
+      <organization/>
+    </author>
     <date year="2004" month="April"/>
     <workgroup>enum</workgroup>
-    <keyword>multimedia</keyword>
-    <keyword>packet based network</keyword>
-    <abstract>The H.323 specification defines a means for building multimedia communication services over an arbitrary Packet Based Network, including the Internet.  This document registers a Telephone Number Mapping (ENUM) service for H.323 according to specifications and guidelines in RFC 3761. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The H.323 specification defines a means for building multimedia communication services over an arbitrary Packet Based Network, including the Internet.  This document registers a Telephone Number Mapping (ENUM) service for H.323 according to specifications and guidelines in RFC 3761. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3762"/>
+  <seriesInfo name="RFC" value="3762"/>
 </reference>

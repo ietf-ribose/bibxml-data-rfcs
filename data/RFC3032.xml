@@ -1,19 +1,33 @@
 <reference anchor="RFC3032" target="https://www.rfc-editor.org/info/rfc3032">
   <front>
     <title>MPLS Label Stack Encoding</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3032"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="D. Tappan"/>
-    <author fullname="G. Fedorkow"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="T. Li"/>
-    <author fullname="A. Conta"/>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="D. Tappan" initials="D." surname="Tappan">
+      <organization/>
+    </author>
+    <author fullname="G. Fedorkow" initials="G." surname="Fedorkow">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="A. Conta" initials="A." surname="Conta">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>multi-protocol</keyword>
-    <keyword>label</keyword>
-    <keyword>switching</keyword>
-    <abstract>This document specifies the encoding to be used by an LSR in order to transmit labeled packets on Point-to-Point Protocol (PPP) data links, on LAN data links, and possibly on other data links as well.  This document also specifies rules and procedures for processing the various fields of the label stack encoding. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the encoding to be used by an LSR in order to transmit labeled packets on Point-to-Point Protocol (PPP) data links, on LAN data links, and possibly on other data links as well.  This document also specifies rules and procedures for processing the various fields of the label stack encoding. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3032"/>
+  <seriesInfo name="RFC" value="3032"/>
 </reference>

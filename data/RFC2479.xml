@@ -1,13 +1,15 @@
 <reference anchor="RFC2479" target="https://www.rfc-editor.org/info/rfc2479">
   <front>
     <title>Independent Data Unit Protection Generic Security Service Application Program Interface (IDUP-GSS-API)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2479"/>
-    <author fullname="C. Adams"/>
+    <author fullname="C. Adams" initials="C." surname="Adams">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>cat</workgroup>
-    <keyword>data</keyword>
-    <keyword>unit</keyword>
-    <keyword>authentication</keyword>
-    <abstract>The IDUP-GSS-API extends the GSS-API for applications requiring protection of a generic data unit (such as a file or message) in a way which is independent of the protection of any other data unit and independent of any concurrent contact with designated "receivers" of the data unit.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The IDUP-GSS-API extends the GSS-API for applications requiring protection of a generic data unit (such as a file or message) in a way which is independent of the protection of any other data unit and independent of any concurrent contact with designated "receivers" of the data unit.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2479"/>
+  <seriesInfo name="RFC" value="2479"/>
 </reference>

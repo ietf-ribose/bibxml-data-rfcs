@@ -1,20 +1,27 @@
 <reference anchor="RFC9119" target="https://www.rfc-editor.org/info/rfc9119">
   <front>
     <title>Multicast Considerations over IEEE 802 Wireless Media</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9119"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="M. McBride"/>
-    <author fullname="D. Stanley"/>
-    <author fullname="W. Kumari"/>
-    <author fullname="JC. Zúñiga"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="M. McBride" initials="M." surname="McBride">
+      <organization/>
+    </author>
+    <author fullname="D. Stanley" initials="D." surname="Stanley">
+      <organization/>
+    </author>
+    <author fullname="W. Kumari" initials="W." surname="Kumari">
+      <organization/>
+    </author>
+    <author fullname="JC. Zúñiga" initials="JC." surname="Zúñiga">
+      <organization/>
+    </author>
     <date year="2021" month="October"/>
     <workgroup>mboned</workgroup>
-    <keyword>Multicast</keyword>
-    <keyword>IEEE 802 Wireless Multicast</keyword>
-    <keyword>Broadcast</keyword>
-    <keyword>BUM</keyword>
-    <keyword>wifi</keyword>
-    <keyword>wireless</keyword>
-    <abstract>Well-known issues with multicast have prevented the deployment of multicast in 802.11 (Wi-Fi) and other local-area wireless environments.  This document describes the known limitations of wireless (primarily 802.11) Layer 2 multicast.  Also described are certain multicast enhancement features that have been specified by the IETF and by IEEE 802 for wireless media, as well as some operational choices that can be made to improve the performance of the network.  Finally, some recommendations are provided about the usage and combination of these features and operational choices.</abstract>
+    <abstract>
+      <t>Well-known issues with multicast have prevented the deployment of multicast in 802.11 (Wi-Fi) and other local-area wireless environments.  This document describes the known limitations of wireless (primarily 802.11) Layer 2 multicast.  Also described are certain multicast enhancement features that have been specified by the IETF and by IEEE 802 for wireless media, as well as some operational choices that can be made to improve the performance of the network.  Finally, some recommendations are provided about the usage and combination of these features and operational choices.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9119"/>
+  <seriesInfo name="RFC" value="9119"/>
 </reference>

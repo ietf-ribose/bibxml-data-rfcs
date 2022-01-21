@@ -1,19 +1,28 @@
 <reference anchor="RFC1869" target="https://www.rfc-editor.org/info/rfc1869">
   <front>
     <title>SMTP Service Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1869"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="N. Freed"/>
-    <author fullname="M. Rose"/>
-    <author fullname="E. Stefferud"/>
-    <author fullname="D. Crocker"/>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="E. Stefferud" initials="E." surname="Stefferud">
+      <organization/>
+    </author>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
     <date year="1995" month="November"/>
     <workgroup>smtpext</workgroup>
-    <keyword>ESMTP</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Transfer</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo defines a framework for extending the SMTP service by defining a means whereby a server SMTP can inform a client SMTP as to the service extensions it supports. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a framework for extending the SMTP service by defining a means whereby a server SMTP can inform a client SMTP as to the service extensions it supports. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1869"/>
+  <seriesInfo name="STD" value="10"/>
+  <seriesInfo name="RFC" value="1869"/>
 </reference>

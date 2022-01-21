@@ -1,14 +1,21 @@
 <reference anchor="RFC5349" target="https://www.rfc-editor.org/info/rfc5349">
   <front>
     <title>Elliptic Curve Cryptography (ECC) Support for Public Key Cryptography for Initial Authentication in Kerberos (PKINIT)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5349"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="K. Jaganathan"/>
-    <author fullname="K. Lauter"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="K. Jaganathan" initials="K." surname="Jaganathan">
+      <organization/>
+    </author>
+    <author fullname="K. Lauter" initials="K." surname="Lauter">
+      <organization/>
+    </author>
     <date year="2008" month="September"/>
     <workgroup>krb-wg</workgroup>
-    <keyword>ecdh</keyword>
-    <keyword>elliptic curve diffie-hellman</keyword>
-    <abstract>This document describes the use of Elliptic Curve certificates, Elliptic Curve signature schemes and Elliptic Curve Diffie-Hellman (ECDH) key agreement within the framework of PKINIT -- the Kerberos Version 5 extension that provides for the use of public key cryptography.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the use of Elliptic Curve certificates, Elliptic Curve signature schemes and Elliptic Curve Diffie-Hellman (ECDH) key agreement within the framework of PKINIT -- the Kerberos Version 5 extension that provides for the use of public key cryptography.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5349"/>
+  <seriesInfo name="RFC" value="5349"/>
 </reference>

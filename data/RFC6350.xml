@@ -1,11 +1,15 @@
 <reference anchor="RFC6350" target="https://www.rfc-editor.org/info/rfc6350">
   <front>
     <title>vCard Format Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6350"/>
-    <author fullname="S. Perreault"/>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>vcarddav</workgroup>
-    <keyword>vCard</keyword>
-    <abstract>This document defines the vCard data format for representing and exchanging a variety of information about individuals and other entities (e.g., formatted and structured name and delivery addresses, email address, multiple telephone numbers, photograph, logo, audio clips, etc.).  This document obsoletes RFCs 2425, 2426, and 4770, and updates RFC 2739. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the vCard data format for representing and exchanging a variety of information about individuals and other entities (e.g., formatted and structured name and delivery addresses, email address, multiple telephone numbers, photograph, logo, audio clips, etc.).  This document obsoletes RFCs 2425, 2426, and 4770, and updates RFC 2739. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6350"/>
+  <seriesInfo name="RFC" value="6350"/>
 </reference>

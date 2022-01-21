@@ -1,14 +1,24 @@
 <reference anchor="RFC8382" target="https://www.rfc-editor.org/info/rfc8382">
   <front>
     <title>Shared Bottleneck Detection for Coupled Congestion Control for RTP Media</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8382"/>
-    <author fullname="D. Hayes"/>
-    <author fullname="S. Ferlin"/>
-    <author fullname="M. Welzl"/>
-    <author fullname="K. Hiorth"/>
+    <author fullname="D. Hayes" initials="D." surname="Hayes">
+      <organization/>
+    </author>
+    <author fullname="S. Ferlin" initials="S." surname="Ferlin">
+      <organization/>
+    </author>
+    <author fullname="M. Welzl" initials="M." surname="Welzl">
+      <organization/>
+    </author>
+    <author fullname="K. Hiorth" initials="K." surname="Hiorth">
+      <organization/>
+    </author>
     <date year="2018" month="June"/>
     <workgroup>rmcat</workgroup>
-    <keyword>SBD</keyword>
-    <abstract>This document describes a mechanism to detect whether end-to-end data flows share a common bottleneck.  This mechanism relies on summary statistics that are calculated based on continuous measurements and used as input to a grouping algorithm that runs wherever the knowledge is needed.</abstract>
+    <abstract>
+      <t>This document describes a mechanism to detect whether end-to-end data flows share a common bottleneck.  This mechanism relies on summary statistics that are calculated based on continuous measurements and used as input to a grouping algorithm that runs wherever the knowledge is needed.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8382"/>
+  <seriesInfo name="RFC" value="8382"/>
 </reference>

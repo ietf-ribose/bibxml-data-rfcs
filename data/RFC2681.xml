@@ -1,17 +1,21 @@
 <reference anchor="RFC2681" target="https://www.rfc-editor.org/info/rfc2681">
   <front>
     <title>A Round-trip Delay Metric for IPPM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2681"/>
-    <author fullname="G. Almes"/>
-    <author fullname="S. Kalidindi"/>
-    <author fullname="M. Zekauskas"/>
+    <author fullname="G. Almes" initials="G." surname="Almes">
+      <organization/>
+    </author>
+    <author fullname="S. Kalidindi" initials="S." surname="Kalidindi">
+      <organization/>
+    </author>
+    <author fullname="M. Zekauskas" initials="M." surname="Zekauskas">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>ippm</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>performance</keyword>
-    <keyword>metrics</keyword>
-    <keyword>packets</keyword>
-    <abstract>This memo defines a metric for round-trip delay of packets across Internet paths. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a metric for round-trip delay of packets across Internet paths. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2681"/>
+  <seriesInfo name="RFC" value="2681"/>
 </reference>

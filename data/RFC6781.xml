@@ -1,15 +1,23 @@
 <reference anchor="RFC6781" target="https://www.rfc-editor.org/info/rfc6781">
   <front>
     <title>DNSSEC Operational Practices, Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6781"/>
-    <author fullname="O. Kolkman"/>
-    <author fullname="W. Mekking"/>
-    <author fullname="R. Gieben"/>
+    <author fullname="O. Kolkman" initials="O." surname="Kolkman">
+      <organization/>
+    </author>
+    <author fullname="W. Mekking" initials="W." surname="Mekking">
+      <organization/>
+    </author>
+    <author fullname="R. Gieben" initials="R." surname="Gieben">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>dnsop</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>operational</keyword>
-    <keyword>key rollover</keyword>
-    <abstract>This document describes a set of practices for operating the DNS with security extensions (DNSSEC). The target audience is zone administrators deploying DNSSEC. The document discusses operational aspects of using keys and signatures in the DNS. It discusses issues of key generation, key storage, signature generation, key rollover, and related policies. This document obsoletes RFC 4641, as it covers more operational ground and gives more up-to-date requirements with respect to key sizes and the DNSSEC operations.</abstract>
+    <abstract>
+      <t>This document describes a set of practices for operating the DNS with security extensions (DNSSEC). The target audience is zone administrators deploying DNSSEC.</t>
+      <t>The document discusses operational aspects of using keys and signatures in the DNS. It discusses issues of key generation, key storage, signature generation, key rollover, and related policies.</t>
+      <t>This document obsoletes RFC 4641, as it covers more operational ground and gives more up-to-date requirements with respect to key sizes and the DNSSEC operations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6781"/>
+  <seriesInfo name="RFC" value="6781"/>
 </reference>

@@ -1,25 +1,36 @@
 <reference anchor="RFC5810" target="https://www.rfc-editor.org/info/rfc5810">
   <front>
     <title>Forwarding and Control Element Separation (ForCES) Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5810"/>
-    <author fullname="A. Doria"/>
-    <author fullname="J. Hadi Salim"/>
-    <author fullname="R. Haas"/>
-    <author fullname="H. Khosravi"/>
-    <author fullname="W. Wang"/>
-    <author fullname="L. Dong"/>
-    <author fullname="R. Gopal"/>
-    <author fullname="J. Halpern"/>
+    <author fullname="A. Doria" initials="A." surname="Doria">
+      <organization/>
+    </author>
+    <author fullname="J. Hadi Salim" initials="J." surname="Hadi">
+      <organization/>
+    </author>
+    <author fullname="R. Haas" initials="R." surname="Haas">
+      <organization/>
+    </author>
+    <author fullname="H. Khosravi" initials="H." surname="Khosravi">
+      <organization/>
+    </author>
+    <author fullname="W. Wang" initials="W." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="L. Dong" initials="L." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="R. Gopal" initials="R." surname="Gopal">
+      <organization/>
+    </author>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>forces</workgroup>
-    <keyword>control elements</keyword>
-    <keyword>forwarding elements</keyword>
-    <keyword>fe</keyword>
-    <keyword>ce</keyword>
-    <keyword>network element</keyword>
-    <keyword>ne</keyword>
-    <keyword>tml</keyword>
-    <keyword>transport mapping layer</keyword>
-    <abstract>This document specifies the Forwarding and Control Element Separation (ForCES) protocol.  The ForCES protocol is used for communications between Control Elements (CEs) and Forwarding Elements (FEs) in a ForCES Network Element (ForCES NE).  This specification is intended to meet the ForCES protocol requirements defined in RFC 3654.  Besides the ForCES protocol, this specification also defines the requirements for the Transport Mapping Layer (TML). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the Forwarding and Control Element Separation (ForCES) protocol.  The ForCES protocol is used for communications between Control Elements (CEs) and Forwarding Elements (FEs) in a ForCES Network Element (ForCES NE).  This specification is intended to meet the ForCES protocol requirements defined in RFC 3654.  Besides the ForCES protocol, this specification also defines the requirements for the Transport Mapping Layer (TML). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5810"/>
+  <seriesInfo name="RFC" value="5810"/>
 </reference>

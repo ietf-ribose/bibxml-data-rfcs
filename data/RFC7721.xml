@@ -1,12 +1,21 @@
 <reference anchor="RFC7721" target="https://www.rfc-editor.org/info/rfc7721">
   <front>
     <title>Security and Privacy Considerations for IPv6 Address Generation Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7721"/>
-    <author fullname="A. Cooper"/>
-    <author fullname="F. Gont"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="A. Cooper" initials="A." surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2016" month="March"/>
     <workgroup>6man</workgroup>
-    <abstract>This document discusses privacy and security considerations for several IPv6 address generation mechanisms, both standardized and non-standardized.  It evaluates how different mechanisms mitigate different threats and the trade-offs that implementors, developers, and users face in choosing different addresses or address generation mechanisms.</abstract>
+    <abstract>
+      <t>This document discusses privacy and security considerations for several IPv6 address generation mechanisms, both standardized and non-standardized.  It evaluates how different mechanisms mitigate different threats and the trade-offs that implementors, developers, and users face in choosing different addresses or address generation mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7721"/>
+  <seriesInfo name="RFC" value="7721"/>
 </reference>

@@ -1,19 +1,21 @@
 <reference anchor="RFC6802" target="https://www.rfc-editor.org/info/rfc6802">
   <front>
     <title>Ericsson Two-Way Active Measurement Protocol (TWAMP) Value-Added Octets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6802"/>
-    <author fullname="S. Baillargeon"/>
-    <author fullname="C. Flinta"/>
-    <author fullname="A. Johnsson"/>
+    <author fullname="S. Baillargeon" initials="S." surname="Baillargeon">
+      <organization/>
+    </author>
+    <author fullname="C. Flinta" initials="C." surname="Flinta">
+      <organization/>
+    </author>
+    <author fullname="A. Johnsson" initials="A." surname="Johnsson">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>ippm</workgroup>
-    <keyword>available capacity</keyword>
-    <keyword>rate</keyword>
-    <keyword>train</keyword>
-    <keyword>interval</keyword>
-    <keyword>padding</keyword>
-    <keyword>buffer</keyword>
-    <keyword>test session</keyword>
-    <abstract>This memo describes an extension to the Two-Way Active Measurement Protocol (TWAMP).  Specifically, it extends the TWAMP-Test protocol, which identifies and manages packet trains, in order to measure capacity metrics like the available path capacity, tight section capacity, and UDP delivery rate in the forward and reverse path directions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo describes an extension to the Two-Way Active Measurement Protocol (TWAMP).  Specifically, it extends the TWAMP-Test protocol, which identifies and manages packet trains, in order to measure capacity metrics like the available path capacity, tight section capacity, and UDP delivery rate in the forward and reverse path directions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6802"/>
+  <seriesInfo name="RFC" value="6802"/>
 </reference>

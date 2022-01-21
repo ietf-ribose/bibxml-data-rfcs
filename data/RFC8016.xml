@@ -1,19 +1,25 @@
 <reference anchor="RFC8016" target="https://www.rfc-editor.org/info/rfc8016">
   <front>
     <title>Mobility with Traversal Using Relays around NAT (TURN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8016"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="D. Wing"/>
-    <author fullname="P. Patil"/>
-    <author fullname="P. Martinsen"/>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="P. Patil" initials="P." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="P. Martinsen" initials="P." surname="Martinsen">
+      <organization/>
+    </author>
     <date year="2016" month="November"/>
     <workgroup>tram</workgroup>
-    <keyword>IP Address Mobility</keyword>
-    <keyword>VoIP</keyword>
-    <keyword>ICE</keyword>
-    <keyword>STUN</keyword>
-    <keyword>RTP</keyword>
-    <keyword>TUNNEL</keyword>
-    <abstract>It is desirable to minimize traffic disruption caused by changing IP address during a mobility event. One mechanism to minimize disruption is to expose a shorter network path to the mobility event so that only the local network elements are aware of the changed IP address and the remote peer is unaware of the changed IP address. This document provides such an IP address mobility solution using Traversal Using Relays around NAT (TURN). This is achieved by allowing a client to retain an allocation on the TURN server when the IP address of the client changes.</abstract>
+    <abstract>
+      <t>It is desirable to minimize traffic disruption caused by changing IP address during a mobility event. One mechanism to minimize disruption is to expose a shorter network path to the mobility event so that only the local network elements are aware of the changed IP address and the remote peer is unaware of the changed IP address.</t>
+      <t>This document provides such an IP address mobility solution using Traversal Using Relays around NAT (TURN). This is achieved by allowing a client to retain an allocation on the TURN server when the IP address of the client changes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8016"/>
+  <seriesInfo name="RFC" value="8016"/>
 </reference>

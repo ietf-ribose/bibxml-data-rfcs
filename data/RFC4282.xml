@@ -1,17 +1,24 @@
 <reference anchor="RFC4282" target="https://www.rfc-editor.org/info/rfc4282">
   <front>
     <title>The Network Access Identifier</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4282"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="M. Beadles"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="P. Eronen"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="M. Beadles" initials="M." surname="Beadles">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="P. Eronen" initials="P." surname="Eronen">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>radext</workgroup>
-    <keyword>NAI</keyword>
-    <keyword>nai</keyword>
-    <keyword>roaming</keyword>
-    <keyword>tunneling</keyword>
-    <abstract>In order to provide roaming services, it is necessary to have a standardized method for identifying users.  This document defines the syntax for the Network Access Identifier (NAI), the user identity submitted by the client during network authentication. "Roaming" may be loosely defined as the ability to use any one of multiple Internet Service Providers (ISPs), while maintaining a formal, \%customer-vendor relationship with only one.  Examples of where roaming capabilities might be required include ISP "confederations" and \%ISP-provided corporate network access support.  This document is a revised version of RFC 2486, which originally defined NAIs.  Enhancements include international character set and privacy support, as well as a number of corrections to the original RFC. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In order to provide roaming services, it is necessary to have a standardized method for identifying users.  This document defines the syntax for the Network Access Identifier (NAI), the user identity submitted by the client during network authentication. "Roaming" may be loosely defined as the ability to use any one of multiple Internet Service Providers (ISPs), while maintaining a formal, \%customer-vendor relationship with only one.  Examples of where roaming capabilities might be required include ISP "confederations" and \%ISP-provided corporate network access support.  This document is a revised version of RFC 2486, which originally defined NAIs.  Enhancements include international character set and privacy support, as well as a number of corrections to the original RFC. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4282"/>
+  <seriesInfo name="RFC" value="4282"/>
 </reference>

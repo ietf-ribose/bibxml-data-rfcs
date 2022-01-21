@@ -1,10 +1,16 @@
 <reference anchor="RFC6695" target="https://www.rfc-editor.org/info/rfc6695">
   <front>
     <title>Methods to Convey Forward Error Correction (FEC) Framework Configuration Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6695"/>
-    <author fullname="R. Asati"/>
+    <author fullname="R. Asati" initials="R." surname="Asati">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>fecframe</workgroup>
-    <abstract>The Forward Error Correction (FEC) Framework document (RFC 6363) defines the FEC Framework Configuration Information necessary for the FEC Framework operation. This document describes how to use signaling protocols such as the Session Announcement Protocol (SAP), the Session Initiation Protocol (SIP), the Real Time Streaming Protocol (RTSP), etc. for determining and communicating the configuration information between sender(s) and receiver(s). This document doesn't define any new signaling protocol. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Forward Error Correction (FEC) Framework document (RFC 6363) defines the FEC Framework Configuration Information necessary for the FEC Framework operation. This document describes how to use signaling protocols such as the Session Announcement Protocol (SAP), the Session Initiation Protocol (SIP), the Real Time Streaming Protocol (RTSP), etc. for determining and communicating the configuration information between sender(s) and receiver(s).</t>
+      <t>This document doesn't define any new signaling protocol. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6695"/>
+  <seriesInfo name="RFC" value="6695"/>
 </reference>

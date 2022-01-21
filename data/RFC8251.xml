@@ -1,11 +1,18 @@
 <reference anchor="RFC8251" target="https://www.rfc-editor.org/info/rfc8251">
   <front>
     <title>Updates to the Opus Audio Codec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8251"/>
-    <author fullname="JM. Valin"/>
-    <author fullname="K. Vos"/>
+    <author fullname="JM. Valin" initials="JM." surname="Valin">
+      <organization/>
+    </author>
+    <author fullname="K. Vos" initials="K." surname="Vos">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>codec</workgroup>
-    <abstract>This document addresses minor issues that were found in the specification of the Opus audio codec in RFC 6716.  It updates the normative decoder implementation included in Appendix A of RFC 6716.  The changes fix real and potential security-related issues, as well as minor quality-related issues.</abstract>
+    <abstract>
+      <t>This document addresses minor issues that were found in the specification of the Opus audio codec in RFC 6716.  It updates the normative decoder implementation included in Appendix A of RFC 6716.  The changes fix real and potential security-related issues, as well as minor quality-related issues.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8251"/>
+  <seriesInfo name="RFC" value="8251"/>
 </reference>

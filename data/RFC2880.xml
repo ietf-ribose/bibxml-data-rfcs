@@ -1,14 +1,18 @@
 <reference anchor="RFC2880" target="https://www.rfc-editor.org/info/rfc2880">
   <front>
     <title>Internet Fax T.30 Feature Mapping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2880"/>
-    <author fullname="L. McIntyre"/>
-    <author fullname="G. Klyne"/>
+    <author fullname="L. McIntyre" initials="L." surname="McIntyre">
+      <organization/>
+    </author>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
     <workgroup>fax</workgroup>
-    <keyword>schema</keyword>
-    <keyword>media</keyword>
-    <keyword>tags</keyword>
-    <abstract>This document describes how to map Group 3 fax capability identification bits, described in ITU T.30, into the Internet fax feature schema described in "Content feature schema for Internet fax".  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes how to map Group 3 fax capability identification bits, described in ITU T.30, into the Internet fax feature schema described in "Content feature schema for Internet fax".  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2880"/>
+  <seriesInfo name="RFC" value="2880"/>
 </reference>

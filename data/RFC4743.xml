@@ -1,16 +1,15 @@
 <reference anchor="RFC4743" target="https://www.rfc-editor.org/info/rfc4743">
   <front>
     <title>Using NETCONF over the Simple Object Access Protocol (SOAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4743"/>
-    <author fullname="T. Goddard"/>
+    <author fullname="T. Goddard" initials="T." surname="Goddard">
+      <organization/>
+    </author>
     <date year="2006" month="December"/>
     <workgroup>netconf</workgroup>
-    <keyword>NETCONF</keyword>
-    <keyword>XMLCONF</keyword>
-    <keyword>SOAP</keyword>
-    <keyword>device managment</keyword>
-    <keyword>XML</keyword>
-    <keyword>Extensible Markup Language</keyword>
-    <abstract>The Network Configuration Protocol (NETCONF) is applicable to a wide range of devices in a variety of environments.  Web Services is one such environment and is presently characterized by the use of the Simple Object Access Protocol (SOAP).  NETCONF finds many benefits in this environment: from the reuse of existing standards, to ease of software development, to integration with deployed systems.  Herein, we describe SOAP over HTTP and SOAP over Blocks Exchange Extensible Protocol (BEEP) bindings for NETCONF. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Network Configuration Protocol (NETCONF) is applicable to a wide range of devices in a variety of environments.  Web Services is one such environment and is presently characterized by the use of the Simple Object Access Protocol (SOAP).  NETCONF finds many benefits in this environment: from the reuse of existing standards, to ease of software development, to integration with deployed systems.  Herein, we describe SOAP over HTTP and SOAP over Blocks Exchange Extensible Protocol (BEEP) bindings for NETCONF. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4743"/>
+  <seriesInfo name="RFC" value="4743"/>
 </reference>

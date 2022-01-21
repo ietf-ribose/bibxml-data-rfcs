@@ -1,14 +1,18 @@
 <reference anchor="RFC3288" target="https://www.rfc-editor.org/info/rfc3288">
   <front>
     <title>Using the Simple Object Access Protocol (SOAP) in Blocks Extensible Exchange Protocol (BEEP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3288"/>
-    <author fullname="E. O'Tuathail"/>
-    <author fullname="M. Rose"/>
+    <author fullname="E. O'Tuathail" initials="E." surname="O'Tuathail">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="2002" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>binding</keyword>
-    <keyword>markup language</keyword>
-    <keyword>xml</keyword>
-    <abstract>This memo specifies a Simple Object Access Protocol (SOAP) binding to the Blocks Extensible Exchange Protocol core (BEEP).  A SOAP binding describes how SOAP messages are transmitted in the network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies a Simple Object Access Protocol (SOAP) binding to the Blocks Extensible Exchange Protocol core (BEEP).  A SOAP binding describes how SOAP messages are transmitted in the network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3288"/>
+  <seriesInfo name="RFC" value="3288"/>
 </reference>

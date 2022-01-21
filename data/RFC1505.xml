@@ -1,13 +1,20 @@
 <reference anchor="RFC1505" target="https://www.rfc-editor.org/info/rfc1505">
   <front>
     <title>Encoding Header Field for Internet Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1505"/>
-    <author fullname="A. Costanzo"/>
-    <author fullname="D. Robinson"/>
-    <author fullname="R. Ullmann"/>
+    <author fullname="A. Costanzo" initials="A." surname="Costanzo">
+      <organization/>
+    </author>
+    <author fullname="D. Robinson" initials="D." surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="R. Ullmann" initials="R." surname="Ullmann">
+      <organization/>
+    </author>
     <date year="1993" month="August"/>
-    <keyword>EHF-MAIL</keyword>
-    <keyword>Mail</keyword>
-    <abstract>This document expands upon the elective experimental Encoding header field which permits the mailing of multi-part, multi-structured messages.  It replaces RFC 1154.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This document expands upon the elective experimental Encoding header field which permits the mailing of multi-part, multi-structured messages.  It replaces RFC 1154.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1505"/>
+  <seriesInfo name="RFC" value="1505"/>
 </reference>

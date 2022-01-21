@@ -1,14 +1,29 @@
 <reference anchor="RFC7868" target="https://www.rfc-editor.org/info/rfc7868">
   <front>
     <title>Cisco's Enhanced Interior Gateway Routing Protocol (EIGRP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7868"/>
-    <author fullname="D. Savage"/>
-    <author fullname="J. Ng"/>
-    <author fullname="S. Moore"/>
-    <author fullname="D. Slice"/>
-    <author fullname="P. Paluch"/>
-    <author fullname="R. White"/>
+    <author fullname="D. Savage" initials="D." surname="Savage">
+      <organization/>
+    </author>
+    <author fullname="J. Ng" initials="J." surname="Ng">
+      <organization/>
+    </author>
+    <author fullname="S. Moore" initials="S." surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="D. Slice" initials="D." surname="Slice">
+      <organization/>
+    </author>
+    <author fullname="P. Paluch" initials="P." surname="Paluch">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
-    <abstract>This document describes the protocol design and architecture for Enhanced Interior Gateway Routing Protocol (EIGRP).  EIGRP is a routing protocol based on Distance Vector technology.  The specific algorithm used is called "DUAL", a Diffusing Update Algorithm as referenced in "Loop-Free Routing Using Diffusing Computations" (Garcia-Luna-Aceves 1993).  The algorithm and procedures were researched, developed, and simulated by SRI International.</abstract>
+    <abstract>
+      <t>This document describes the protocol design and architecture for Enhanced Interior Gateway Routing Protocol (EIGRP).  EIGRP is a routing protocol based on Distance Vector technology.  The specific algorithm used is called "DUAL", a Diffusing Update Algorithm as referenced in "Loop-Free Routing Using Diffusing Computations" (Garcia-Luna-Aceves 1993).  The algorithm and procedures were researched, developed, and simulated by SRI International.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7868"/>
+  <seriesInfo name="RFC" value="7868"/>
 </reference>

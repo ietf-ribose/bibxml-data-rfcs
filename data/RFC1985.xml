@@ -1,15 +1,14 @@
 <reference anchor="RFC1985" target="https://www.rfc-editor.org/info/rfc1985">
   <front>
     <title>SMTP Service Extension for Remote Message Queue Starting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1985"/>
-    <author fullname="J. De Winter"/>
+    <author fullname="J. De Winter" initials="J." surname="De">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
-    <keyword>SMTP-ETRN</keyword>
-    <keyword>Simple</keyword>
-    <keyword>ETRN</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Transfer</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to start the processing of its queues for messages to go to a given host. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to start the processing of its queues for messages to go to a given host. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1985"/>
+  <seriesInfo name="RFC" value="1985"/>
 </reference>

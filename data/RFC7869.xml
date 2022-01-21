@@ -1,13 +1,17 @@
 <reference anchor="RFC7869" target="https://www.rfc-editor.org/info/rfc7869">
   <front>
     <title>The "vnc" URI Scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7869"/>
-    <author fullname="D. Warden"/>
-    <author fullname="I. Iordanov"/>
+    <author fullname="D. Warden" initials="D." surname="Warden">
+      <organization/>
+    </author>
+    <author fullname="I. Iordanov" initials="I." surname="Iordanov">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
-    <keyword>RFB</keyword>
-    <keyword>Remote Framebuffer</keyword>
-    <keyword>Virtual Network Computing</keyword>
-    <abstract>Virtual Network Computing (VNC) software provides remote desktop functionality.  This document describes a Uniform Resource Identifier (URI) scheme enabling the launch of VNC clients from other applications.  The scheme specifies parameters useful in securely connecting clients with remote hosts.</abstract>
+    <abstract>
+      <t>Virtual Network Computing (VNC) software provides remote desktop functionality.  This document describes a Uniform Resource Identifier (URI) scheme enabling the launch of VNC clients from other applications.  The scheme specifies parameters useful in securely connecting clients with remote hosts.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7869"/>
+  <seriesInfo name="RFC" value="7869"/>
 </reference>

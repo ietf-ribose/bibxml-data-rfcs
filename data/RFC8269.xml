@@ -1,18 +1,27 @@
 <reference anchor="RFC8269" target="https://www.rfc-editor.org/info/rfc8269">
   <front>
     <title>The ARIA Algorithm and Its Use with the Secure Real-Time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8269"/>
-    <author fullname="W. Kim"/>
-    <author fullname="J. Lee"/>
-    <author fullname="J. Park"/>
-    <author fullname="D. Kwon"/>
-    <author fullname="D. Kim"/>
+    <author fullname="W. Kim" initials="W." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J. Park" initials="J." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="D. Kwon" initials="D." surname="Kwon">
+      <organization/>
+    </author>
+    <author fullname="D. Kim" initials="D." surname="Kim">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>avtcore</workgroup>
-    <keyword>ARIA</keyword>
-    <keyword>SRTP</keyword>
-    <keyword>DTLS-SRTP</keyword>
-    <keyword>MIKEY</keyword>
-    <abstract>This document defines the use of the ARIA block cipher algorithm within the Secure Real-time Transport Protocol (SRTP).  It details two modes of operation (CTR and GCM) and the SRTP key derivation functions for ARIA.  Additionally, this document defines DTLS-SRTP protection profiles and Multimedia Internet KEYing (MIKEY) parameter sets for use with ARIA.</abstract>
+    <abstract>
+      <t>This document defines the use of the ARIA block cipher algorithm within the Secure Real-time Transport Protocol (SRTP).  It details two modes of operation (CTR and GCM) and the SRTP key derivation functions for ARIA.  Additionally, this document defines DTLS-SRTP protection profiles and Multimedia Internet KEYing (MIKEY) parameter sets for use with ARIA.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8269"/>
+  <seriesInfo name="RFC" value="8269"/>
 </reference>

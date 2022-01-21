@@ -1,21 +1,18 @@
 <reference anchor="RFC7757" target="https://www.rfc-editor.org/info/rfc7757">
   <front>
     <title>Explicit Address Mappings for Stateless IP/ICMP Translation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7757"/>
-    <author fullname="T. Anderson"/>
-    <author fullname="A. Leiva Popper"/>
+    <author fullname="T. Anderson" initials="T." surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="A. Leiva Popper" initials="A." surname="Leiva">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>v6ops</workgroup>
-    <keyword>Dual Stack</keyword>
-    <keyword>Single Stack</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv4 conservation</keyword>
-    <keyword>IPv4 exhaustion</keyword>
-    <keyword>IPv6-only</keyword>
-    <keyword>IPv6 only</keyword>
-    <keyword>IPv6 transition</keyword>
-    <keyword>IPv6 transition technology</keyword>
-    <keyword>XLAT</keyword>
-    <abstract>This document extends the Stateless IP/ICMP Translation Algorithm (SIIT) with an Explicit Address Mapping (EAM) algorithm and formally updates RFC 6145.  The EAM algorithm facilitates stateless IP/ICMP translation between arbitrary (non-IPv4-translatable) IPv6 endpoints and IPv4.</abstract>
+    <abstract>
+      <t>This document extends the Stateless IP/ICMP Translation Algorithm (SIIT) with an Explicit Address Mapping (EAM) algorithm and formally updates RFC 6145.  The EAM algorithm facilitates stateless IP/ICMP translation between arbitrary (non-IPv4-translatable) IPv6 endpoints and IPv4.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7757"/>
+  <seriesInfo name="RFC" value="7757"/>
 </reference>

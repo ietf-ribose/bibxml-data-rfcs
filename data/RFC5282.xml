@@ -1,17 +1,19 @@
 <reference anchor="RFC5282" target="https://www.rfc-editor.org/info/rfc5282">
   <front>
     <title>Using Authenticated Encryption Algorithms with the Encrypted Payload of the Internet Key Exchange version 2 (IKEv2) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5282"/>
-    <author fullname="D. Black"/>
-    <author fullname="D. McGrew"/>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="D. McGrew" initials="D." surname="McGrew">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>encryption cipher</keyword>
-    <keyword>combined mode algorithms</keyword>
-    <keyword>aes gcm</keyword>
-    <keyword>advanced encryption standard in galois/counter mode</keyword>
-    <keyword>aes ccm</keyword>
-    <keyword>aes in couner with cbc-mac mode</keyword>
-    <abstract>An authenticated encryption algorithm combines encryption and integrity into a single operation; such algorithms may also be referred to as combined modes of an encryption cipher or as combined mode algorithms. This document describes the use of authenticated encryption algorithms with the Encrypted Payload of the Internet Key Exchange version 2 (IKEv2) protocol. The use of two specific authenticated encryption algorithms with the IKEv2 Encrypted Payload is also described; these two algorithms are the Advanced Encryption Standard (AES) in Galois/Counter Mode (AES GCM) and AES in Counter with CBC-MAC Mode (AES CCM). Additional documents may describe the use of other authenticated encryption algorithms with the IKEv2 Encrypted Payload. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>An authenticated encryption algorithm combines encryption and integrity into a single operation; such algorithms may also be referred to as combined modes of an encryption cipher or as combined mode algorithms. This document describes the use of authenticated encryption algorithms with the Encrypted Payload of the Internet Key Exchange version 2 (IKEv2) protocol.</t>
+      <t>The use of two specific authenticated encryption algorithms with the IKEv2 Encrypted Payload is also described; these two algorithms are the Advanced Encryption Standard (AES) in Galois/Counter Mode (AES GCM) and AES in Counter with CBC-MAC Mode (AES CCM). Additional documents may describe the use of other authenticated encryption algorithms with the IKEv2 Encrypted Payload. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5282"/>
+  <seriesInfo name="RFC" value="5282"/>
 </reference>

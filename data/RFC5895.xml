@@ -1,15 +1,17 @@
 <reference anchor="RFC5895" target="https://www.rfc-editor.org/info/rfc5895">
   <front>
     <title>Mapping Characters for Internationalized Domain Names in Applications (IDNA) 2008</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5895"/>
-    <author fullname="P. Resnick"/>
-    <author fullname="P. Hoffman"/>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
-    <keyword>user input</keyword>
-    <keyword>character mapping</keyword>
-    <keyword>locale</keyword>
-    <keyword>user interface</keyword>
-    <keyword>Unicode</keyword>
-    <abstract>In the original version of the Internationalized Domain Names in Applications (IDNA) protocol, any Unicode code points taken from user input were mapped into a set of Unicode code points that "made sense", and then encoded and passed to the domain name system (DNS).  The IDNA2008 protocol (described in RFCs 5890, 5891, 5892, and 5893) presumes that the input to the protocol comes from a set of "permitted" code points, which it then encodes and passes to the DNS, but does not specify what to do with the result of user input.  This document describes the actions that can be taken by an implementation between receiving user input and passing permitted code points to the new IDNA protocol.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>In the original version of the Internationalized Domain Names in Applications (IDNA) protocol, any Unicode code points taken from user input were mapped into a set of Unicode code points that "made sense", and then encoded and passed to the domain name system (DNS).  The IDNA2008 protocol (described in RFCs 5890, 5891, 5892, and 5893) presumes that the input to the protocol comes from a set of "permitted" code points, which it then encodes and passes to the DNS, but does not specify what to do with the result of user input.  This document describes the actions that can be taken by an implementation between receiving user input and passing permitted code points to the new IDNA protocol.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5895"/>
+  <seriesInfo name="RFC" value="5895"/>
 </reference>

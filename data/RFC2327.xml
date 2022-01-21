@@ -1,17 +1,18 @@
 <reference anchor="RFC2327" target="https://www.rfc-editor.org/info/rfc2327">
   <front>
     <title>SDP: Session Description Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2327"/>
-    <author fullname="M. Handley"/>
-    <author fullname="V. Jacobson"/>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>mmusic</workgroup>
-    <keyword>SDP</keyword>
-    <keyword>mbone</keyword>
-    <keyword>internet</keyword>
-    <keyword>multicast</keyword>
-    <keyword>backbone</keyword>
-    <keyword>multimedia</keyword>
-    <abstract>This document defines the Session Description Protocol, SDP.  SDP is intended for describing multimedia sessions for the purposes of session announcement, session invitation, and other forms of multimedia session initiation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Session Description Protocol, SDP.  SDP is intended for describing multimedia sessions for the purposes of session announcement, session invitation, and other forms of multimedia session initiation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2327"/>
+  <seriesInfo name="RFC" value="2327"/>
 </reference>

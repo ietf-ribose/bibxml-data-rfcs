@@ -1,10 +1,17 @@
 <reference anchor="RFC0930" target="https://www.rfc-editor.org/info/rfc930">
   <front>
     <title>Telnet terminal type option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0930"/>
-    <author fullname="M. Solomon"/>
-    <author fullname="E. Wimmers"/>
+    <author fullname="M. Solomon" initials="M." surname="Solomon">
+      <organization/>
+    </author>
+    <author fullname="E. Wimmers" initials="E." surname="Wimmers">
+      <organization/>
+    </author>
     <date year="1985" month="January"/>
-    <abstract>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that exchange terminal type information within the Telnet protocol are expected to adopt and implement this standard.  This standard supersedes RFC-884.  The only change is to specify that the TERMINAL-TYPE IS sub-negotiation should be sent only in response to the TERMINAL-TYPE SEND sub-negotiation.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that exchange terminal type information within the Telnet protocol are expected to adopt and implement this standard.  This standard supersedes RFC-884.  The only change is to specify that the TERMINAL-TYPE IS sub-negotiation should be sent only in response to the TERMINAL-TYPE SEND sub-negotiation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0930"/>
+  <seriesInfo name="RFC" value="930"/>
 </reference>

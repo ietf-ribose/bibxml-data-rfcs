@@ -1,15 +1,24 @@
 <reference anchor="RFC6349" target="https://www.rfc-editor.org/info/rfc6349">
   <front>
     <title>Framework for TCP Throughput Testing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6349"/>
-    <author fullname="B. Constantine"/>
-    <author fullname="G. Forget"/>
-    <author fullname="R. Geib"/>
-    <author fullname="R. Schrage"/>
+    <author fullname="B. Constantine" initials="B." surname="Constantine">
+      <organization/>
+    </author>
+    <author fullname="G. Forget" initials="G." surname="Forget">
+      <organization/>
+    </author>
+    <author fullname="R. Geib" initials="R." surname="Geib">
+      <organization/>
+    </author>
+    <author fullname="R. Schrage" initials="R." surname="Schrage">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>ippm</workgroup>
-    <keyword>metric</keyword>
-    <keyword>TCP testing</keyword>
-    <abstract>This framework describes a practical methodology for measuring end- to-end TCP Throughput in a managed IP network.  The goal is to provide a better indication in regard to user experience.  In this framework, TCP and IP parameters are specified to optimize TCP Throughput.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This framework describes a practical methodology for measuring end- to-end TCP Throughput in a managed IP network.  The goal is to provide a better indication in regard to user experience.  In this framework, TCP and IP parameters are specified to optimize TCP Throughput.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6349"/>
+  <seriesInfo name="RFC" value="6349"/>
 </reference>

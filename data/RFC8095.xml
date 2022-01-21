@@ -1,26 +1,21 @@
 <reference anchor="RFC8095" target="https://www.rfc-editor.org/info/rfc8095">
   <front>
     <title>Services Provided by IETF Transport Protocols and Congestion Control Mechanisms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8095"/>
-    <author fullname="G. Fairhurst"/>
-    <author fullname="B. Trammell"/>
-    <author fullname="M. Kuehlewind"/>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="M. Kuehlewind" initials="M." surname="Kuehlewind">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>taps</workgroup>
-    <keyword>Transmission Control Protocol (TCP)</keyword>
-    <keyword>Multipath TCP (MPTCP)</keyword>
-    <keyword>Stream Control Transmission Protocol (SCTP)</keyword>
-    <keyword>User Datagram Protocol (UDP)</keyword>
-    <keyword>UDP-Lite</keyword>
-    <keyword>Datagram Congestion Control Protocol (DCCP)</keyword>
-    <keyword>Internet Control Message Protocol (ICMP)</keyword>
-    <keyword>Real-Time Transport Protocol (RTP)</keyword>
-    <keyword>File Delivery over Unidirectional Transport/Asynchronous Layered Coding (FLUTE/ALC) for Reliable Multicast</keyword>
-    <keyword>NACK-Oriented Reliable Multicast (NORM)</keyword>
-    <keyword>Transport Layer Security (TLS)</keyword>
-    <keyword>Datagram TLS (DTLS)</keyword>
-    <keyword>Hypertext Transport Protocol (HTTP)</keyword>
-    <keyword>TAPS</keyword>
-    <abstract>This document describes, surveys, and classifies the protocol mechanisms provided by existing IETF protocols, as background for determining a common set of transport services.  It examines the Transmission Control Protocol (TCP), Multipath TCP, the Stream Control Transmission Protocol (SCTP), the User Datagram Protocol (UDP), UDP-Lite, the Datagram Congestion Control Protocol (DCCP), the Internet Control Message Protocol (ICMP), the Real-Time Transport Protocol (RTP), File Delivery over Unidirectional Transport / Asynchronous Layered Coding (FLUTE/ALC) for Reliable Multicast, NACK- Oriented Reliable Multicast (NORM), Transport Layer Security (TLS), Datagram TLS (DTLS), and the Hypertext Transport Protocol (HTTP), when HTTP is used as a pseudotransport.  This survey provides background for the definition of transport services within the TAPS working group.</abstract>
+    <abstract>
+      <t>This document describes, surveys, and classifies the protocol mechanisms provided by existing IETF protocols, as background for determining a common set of transport services.  It examines the Transmission Control Protocol (TCP), Multipath TCP, the Stream Control Transmission Protocol (SCTP), the User Datagram Protocol (UDP), UDP-Lite, the Datagram Congestion Control Protocol (DCCP), the Internet Control Message Protocol (ICMP), the Real-Time Transport Protocol (RTP), File Delivery over Unidirectional Transport / Asynchronous Layered Coding (FLUTE/ALC) for Reliable Multicast, NACK- Oriented Reliable Multicast (NORM), Transport Layer Security (TLS), Datagram TLS (DTLS), and the Hypertext Transport Protocol (HTTP), when HTTP is used as a pseudotransport.  This survey provides background for the definition of transport services within the TAPS working group.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8095"/>
+  <seriesInfo name="RFC" value="8095"/>
 </reference>

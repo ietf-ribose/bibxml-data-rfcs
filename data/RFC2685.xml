@@ -1,16 +1,18 @@
 <reference anchor="RFC2685" target="https://www.rfc-editor.org/info/rfc2685">
   <front>
     <title>Virtual Private Networks Identifier</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2685"/>
-    <author fullname="B. Fox"/>
-    <author fullname="B. Gleeson"/>
+    <author fullname="B. Fox" initials="B." surname="Fox">
+      <organization/>
+    </author>
+    <author fullname="B. Gleeson" initials="B." surname="Gleeson">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>ion</workgroup>
-    <keyword>VPNI</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>VPN</keyword>
-    <abstract>This document proposes a format for a globally unique VPN identifier. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes a format for a globally unique VPN identifier. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2685"/>
+  <seriesInfo name="RFC" value="2685"/>
 </reference>

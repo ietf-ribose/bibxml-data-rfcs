@@ -1,17 +1,20 @@
 <reference anchor="RFC2095" target="https://www.rfc-editor.org/info/rfc2095">
   <front>
     <title>IMAP/POP AUTHorize Extension for Simple Challenge/Response</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2095"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="R. Catoe"/>
-    <author fullname="P. Krumviede"/>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="R. Catoe" initials="R." surname="Catoe">
+      <organization/>
+    </author>
+    <author fullname="P. Krumviede" initials="P." surname="Krumviede">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
-    <keyword>Post</keyword>
-    <keyword>Office</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Message</keyword>
-    <keyword>Access</keyword>
-    <abstract>This specification provides a simple challenge-response authentication protocol that is suitable for use with IMAP4. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification provides a simple challenge-response authentication protocol that is suitable for use with IMAP4. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2095"/>
+  <seriesInfo name="RFC" value="2095"/>
 </reference>

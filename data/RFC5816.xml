@@ -1,14 +1,18 @@
 <reference anchor="RFC5816" target="https://www.rfc-editor.org/info/rfc5816">
   <front>
     <title>ESSCertIDv2 Update for RFC 3161</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5816"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="N. Pope"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="N. Pope" initials="N." surname="Pope">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>pkix</workgroup>
-    <keyword>signer certificate</keyword>
-    <keyword>secure hash algorithm</keyword>
-    <keyword>sha-1</keyword>
-    <abstract>This document updates RFC 3161.  It allows the use of ESSCertIDv2, as defined in RFC 5035, to specify the hash of a signer certificate when the hash is calculated with a function other than the Secure Hash Algorithm (SHA-1). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document updates RFC 3161.  It allows the use of ESSCertIDv2, as defined in RFC 5035, to specify the hash of a signer certificate when the hash is calculated with a function other than the Secure Hash Algorithm (SHA-1). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5816"/>
+  <seriesInfo name="RFC" value="5816"/>
 </reference>

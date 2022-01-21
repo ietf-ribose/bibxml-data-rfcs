@@ -1,15 +1,18 @@
 <reference anchor="RFC7396" target="https://www.rfc-editor.org/info/rfc7396">
   <front>
     <title>JSON Merge Patch</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7396"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="J. Snell"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="J. Snell" initials="J." surname="Snell">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>appsawg</workgroup>
-    <keyword>http</keyword>
-    <keyword>json</keyword>
-    <keyword>patch</keyword>
-    <keyword>merge</keyword>
-    <abstract>This specification defines the JSON merge patch format and processing rules.  The merge patch format is primarily intended for use with the HTTP PATCH method as a means of describing a set of modifications to a target resource's content.</abstract>
+    <abstract>
+      <t>This specification defines the JSON merge patch format and processing rules.  The merge patch format is primarily intended for use with the HTTP PATCH method as a means of describing a set of modifications to a target resource's content.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7396"/>
+  <seriesInfo name="RFC" value="7396"/>
 </reference>

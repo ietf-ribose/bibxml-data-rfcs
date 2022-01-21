@@ -1,14 +1,24 @@
 <reference anchor="RFC7571" target="https://www.rfc-editor.org/info/rfc7571">
   <front>
     <title>GMPLS RSVP-TE Extensions for Lock Instruct and Loopback</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7571"/>
-    <author fullname="J. Dong"/>
-    <author fullname="M. Chen"/>
-    <author fullname="Z. Li"/>
-    <author fullname="D. Ceccarelli"/>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="Z. Li" initials="Z." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="D. Ceccarelli" initials="D." surname="Ceccarelli">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>teas</workgroup>
-    <keyword>OAM</keyword>
-    <abstract>This document specifies extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) to support Lock Instruct (LI) and Loopback (LB) mechanisms for Label Switched Paths (LSPs).  These mechanisms are applicable to technologies that use Generalized MPLS (GMPLS) for the control plane.</abstract>
+    <abstract>
+      <t>This document specifies extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) to support Lock Instruct (LI) and Loopback (LB) mechanisms for Label Switched Paths (LSPs).  These mechanisms are applicable to technologies that use Generalized MPLS (GMPLS) for the control plane.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7571"/>
+  <seriesInfo name="RFC" value="7571"/>
 </reference>

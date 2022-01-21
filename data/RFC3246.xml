@@ -1,23 +1,39 @@
 <reference anchor="RFC3246" target="https://www.rfc-editor.org/info/rfc3246">
   <front>
     <title>An Expedited Forwarding PHB (Per-Hop Behavior)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3246"/>
-    <author fullname="B. Davie"/>
-    <author fullname="A. Charny"/>
-    <author fullname="J.C.R. Bennet"/>
-    <author fullname="K. Benson"/>
-    <author fullname="J.Y. Le Boudec"/>
-    <author fullname="W. Courtney"/>
-    <author fullname="S. Davari"/>
-    <author fullname="V. Firoiu"/>
-    <author fullname="D. Stiliadis"/>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
+    <author fullname="A. Charny" initials="A." surname="Charny">
+      <organization/>
+    </author>
+    <author fullname="J.C.R. Bennet" initials="J.C.R." surname="Bennet">
+      <organization/>
+    </author>
+    <author fullname="K. Benson" initials="K." surname="Benson">
+      <organization/>
+    </author>
+    <author fullname="J.Y. Le Boudec" initials="J.Y." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="W. Courtney" initials="W." surname="Courtney">
+      <organization/>
+    </author>
+    <author fullname="S. Davari" initials="S." surname="Davari">
+      <organization/>
+    </author>
+    <author fullname="V. Firoiu" initials="V." surname="Firoiu">
+      <organization/>
+    </author>
+    <author fullname="D. Stiliadis" initials="D." surname="Stiliadis">
+      <organization/>
+    </author>
     <date year="2002" month="March"/>
     <workgroup>diffserv</workgroup>
-    <keyword>per-hop behavior</keyword>
-    <keyword>expedited forwarding</keyword>
-    <keyword>differentiated services</keyword>
-    <keyword>delay</keyword>
-    <keyword>jitter</keyword>
-    <abstract>This document defines a PHB (per-hop behavior) called Expedited Forwarding (EF).  The PHB is a basic building block in the Differentiated Services architecture.  EF is intended to provide a building block for low delay, low jitter and low loss services by ensuring that the EF aggregate is served at a certain configured rate.  This document obsoletes RFC 2598. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a PHB (per-hop behavior) called Expedited Forwarding (EF).  The PHB is a basic building block in the Differentiated Services architecture.  EF is intended to provide a building block for low delay, low jitter and low loss services by ensuring that the EF aggregate is served at a certain configured rate.  This document obsoletes RFC 2598. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3246"/>
+  <seriesInfo name="RFC" value="3246"/>
 </reference>

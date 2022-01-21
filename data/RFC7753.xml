@@ -1,26 +1,30 @@
 <reference anchor="RFC7753" target="https://www.rfc-editor.org/info/rfc7753">
   <front>
     <title>Port Control Protocol (PCP) Extension for Port-Set Allocation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7753"/>
-    <author fullname="Q. Sun"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="S. Sivakumar"/>
-    <author fullname="C. Zhou"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="S. Perreault"/>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+      <organization/>
+    </author>
+    <author fullname="C. Zhou" initials="C." surname="Zhou">
+      <organization/>
+    </author>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>pcp</workgroup>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>IPv4 address shortage</keyword>
-    <keyword>A+P</keyword>
-    <keyword>AplusP</keyword>
-    <keyword>address plus port</keyword>
-    <keyword>MAP</keyword>
-    <keyword>Port range</keyword>
-    <keyword>Port Range Router</keyword>
-    <keyword>MAP-E</keyword>
-    <keyword>port set mapping</keyword>
-    <keyword>port bulk</keyword>
-    <abstract>In some use cases, e.g., Lightweight 4over6, the client may require not just one port, but a port set.  This document defines an extension to the Port Control Protocol (PCP) that allows clients to manipulate a set of ports as a whole.  This is accomplished using a new MAP option: PORT_SET.</abstract>
+    <abstract>
+      <t>In some use cases, e.g., Lightweight 4over6, the client may require not just one port, but a port set.  This document defines an extension to the Port Control Protocol (PCP) that allows clients to manipulate a set of ports as a whole.  This is accomplished using a new MAP option: PORT_SET.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7753"/>
+  <seriesInfo name="RFC" value="7753"/>
 </reference>

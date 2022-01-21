@@ -1,16 +1,23 @@
 <reference anchor="RFC2873" target="https://www.rfc-editor.org/info/rfc2873">
   <front>
     <title>TCP Processing of the IPv4 Precedence Field</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2873"/>
-    <author fullname="X. Xiao"/>
-    <author fullname="A. Hannan"/>
-    <author fullname="V. Paxson"/>
-    <author fullname="E. Crabbe"/>
+    <author fullname="X. Xiao" initials="X." surname="Xiao">
+      <organization/>
+    </author>
+    <author fullname="A. Hannan" initials="A." surname="Hannan">
+      <organization/>
+    </author>
+    <author fullname="V. Paxson" initials="V." surname="Paxson">
+      <organization/>
+    </author>
+    <author fullname="E. Crabbe" initials="E." surname="Crabbe">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <keyword>internet</keyword>
-    <abstract>This memo describes a conflict between TCP and DiffServ on the use of the three leftmost bits in the TOS octet of an IPv4 header. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a conflict between TCP and DiffServ on the use of the three leftmost bits in the TOS octet of an IPv4 header. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2873"/>
+  <seriesInfo name="RFC" value="2873"/>
 </reference>

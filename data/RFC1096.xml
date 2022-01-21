@@ -1,10 +1,14 @@
 <reference anchor="RFC1096" target="https://www.rfc-editor.org/info/rfc1096">
   <front>
     <title>Telnet X display location option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1096"/>
-    <author fullname="G.A. Marcy"/>
+    <author fullname="G.A. Marcy" initials="G.A." surname="Marcy">
+      <organization/>
+    </author>
     <date year="1989" month="March"/>
-    <keyword>TOPT-XDL</keyword>
-    <abstract>This RFC specifies a standard for the Internet community.  Hosts on the Internet that transmit the X display location within the Telnet protocol are expected to adopt and implement this standard.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that transmit the X display location within the Telnet protocol are expected to adopt and implement this standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1096"/>
+  <seriesInfo name="RFC" value="1096"/>
 </reference>

@@ -1,11 +1,19 @@
 <reference anchor="RFC7722" target="https://www.rfc-editor.org/info/rfc7722">
   <front>
     <title>Multi-Topology Extension for the Optimized Link State Routing Protocol Version 2 (OLSRv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7722"/>
-    <author fullname="C. Dearlove"/>
-    <author fullname="T. Clausen"/>
+    <author fullname="C. Dearlove" initials="C." surname="Dearlove">
+      <organization/>
+    </author>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
     <date year="2015" month="December"/>
     <workgroup>manet</workgroup>
-    <abstract>This specification describes an extension to the Optimized Link State Routing Protocol version 2 (OLSRv2) to support multiple routing topologies, while retaining interoperability with OLSRv2 routers that do not implement this extension. This specification updates RFCs 7188 and 7631 by modifying and extending TLV registries and descriptions.</abstract>
+    <abstract>
+      <t>This specification describes an extension to the Optimized Link State Routing Protocol version 2 (OLSRv2) to support multiple routing topologies, while retaining interoperability with OLSRv2 routers that do not implement this extension.</t>
+      <t>This specification updates RFCs 7188 and 7631 by modifying and extending TLV registries and descriptions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7722"/>
+  <seriesInfo name="RFC" value="7722"/>
 </reference>

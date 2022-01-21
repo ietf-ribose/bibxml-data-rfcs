@@ -1,15 +1,15 @@
 <reference anchor="RFC2467" target="https://www.rfc-editor.org/info/rfc2467">
   <front>
     <title>Transmission of IPv6 Packets over FDDI Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2467"/>
-    <author fullname="M. Crawford"/>
+    <author fullname="M. Crawford" initials="M." surname="Crawford">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>link-local</keyword>
-    <keyword>addresses</keyword>
-    <keyword>autoconfiguration</keyword>
-    <abstract>This document specifies the frame format for transmission of IPv6 packets and the method of forming IPv6 link-local addresses and statelessly autoconfigured addresses on FDDI networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the frame format for transmission of IPv6 packets and the method of forming IPv6 link-local addresses and statelessly autoconfigured addresses on FDDI networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2467"/>
+  <seriesInfo name="RFC" value="2467"/>
 </reference>

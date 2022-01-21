@@ -1,16 +1,30 @@
 <reference anchor="RFC7381" target="https://www.rfc-editor.org/info/rfc7381">
   <front>
     <title>Enterprise IPv6 Deployment Guidelines</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7381"/>
-    <author fullname="K. Chittimaneni"/>
-    <author fullname="T. Chown"/>
-    <author fullname="L. Howard"/>
-    <author fullname="V. Kuarsingh"/>
-    <author fullname="Y. Pouffary"/>
-    <author fullname="E. Vyncke"/>
+    <author fullname="K. Chittimaneni" initials="K." surname="Chittimaneni">
+      <organization/>
+    </author>
+    <author fullname="T. Chown" initials="T." surname="Chown">
+      <organization/>
+    </author>
+    <author fullname="L. Howard" initials="L." surname="Howard">
+      <organization/>
+    </author>
+    <author fullname="V. Kuarsingh" initials="V." surname="Kuarsingh">
+      <organization/>
+    </author>
+    <author fullname="Y. Pouffary" initials="Y." surname="Pouffary">
+      <organization/>
+    </author>
+    <author fullname="E. Vyncke" initials="E." surname="Vyncke">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>v6ops</workgroup>
-    <keyword>IPV6 migration transition enterprise</keyword>
-    <abstract>Enterprise network administrators worldwide are in various stages of preparing for or deploying IPv6 into their networks.  The administrators face different challenges than operators of Internet access providers and have reasons for different priorities.  The overall problem for many administrators will be to offer Internet- facing services over IPv6 while continuing to support IPv4, and while introducing IPv6 access within the enterprise IT network.  The overall transition will take most networks from an IPv4-only environment to a dual-stack network environment and eventually an IPv6-only operating mode.  This document helps provide a framework for enterprise network architects or administrators who may be faced with many of these challenges as they consider their IPv6 support strategies.</abstract>
+    <abstract>
+      <t>Enterprise network administrators worldwide are in various stages of preparing for or deploying IPv6 into their networks.  The administrators face different challenges than operators of Internet access providers and have reasons for different priorities.  The overall problem for many administrators will be to offer Internet- facing services over IPv6 while continuing to support IPv4, and while introducing IPv6 access within the enterprise IT network.  The overall transition will take most networks from an IPv4-only environment to a dual-stack network environment and eventually an IPv6-only operating mode.  This document helps provide a framework for enterprise network architects or administrators who may be faced with many of these challenges as they consider their IPv6 support strategies.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7381"/>
+  <seriesInfo name="RFC" value="7381"/>
 </reference>

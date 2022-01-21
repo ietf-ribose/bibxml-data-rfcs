@@ -1,13 +1,19 @@
 <reference anchor="RFC8789" target="https://www.rfc-editor.org/info/rfc8789">
   <front>
     <title>IETF Stream Documents Require IETF Rough Consensus</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8789"/>
-    <author fullname="J. Halpern"/>
-    <author fullname="E. Rescorla"/>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
     <date year="2020" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>process</keyword>
-    <keyword>publication</keyword>
-    <abstract>This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus.  This updates RFC 2026.</abstract>
+    <abstract>
+      <t>This document requires that the IETF never publish any IETF Stream RFCs without IETF rough consensus.  This updates RFC 2026.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8789"/>
+  <seriesInfo name="BCP" value="9"/>
+  <seriesInfo name="RFC" value="8789"/>
 </reference>

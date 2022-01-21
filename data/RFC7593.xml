@@ -1,18 +1,20 @@
 <reference anchor="RFC7593" target="https://www.rfc-editor.org/info/rfc7593">
   <front>
     <title>The eduroam Architecture for Network Roaming</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7593"/>
-    <author fullname="K. Wierenga"/>
-    <author fullname="S. Winter"/>
-    <author fullname="T. Wolniewicz"/>
+    <author fullname="K. Wierenga" initials="K." surname="Wierenga">
+      <organization/>
+    </author>
+    <author fullname="S. Winter" initials="S." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="T. Wolniewicz" initials="T." surname="Wolniewicz">
+      <organization/>
+    </author>
     <date year="2015" month="September"/>
-    <keyword>Federated Authentication</keyword>
-    <keyword>AAA</keyword>
-    <keyword>RADIUS</keyword>
-    <keyword>IEEE 802.1X</keyword>
-    <keyword>roaming</keyword>
-    <keyword>EAP</keyword>
-    <keyword>eduroam</keyword>
-    <abstract>This document describes the architecture of the eduroam service for federated (wireless) network access in academia.  The combination of IEEE 802.1X, the Extensible Authentication Protocol (EAP), and RADIUS that is used in eduroam provides a secure, scalable, and deployable service for roaming network access.  The successful deployment of eduroam over the last decade in the educational sector may serve as an example for other sectors, hence this document.  In particular, the initial architectural choices and selection of standards are described, along with the changes that were prompted by operational experience.</abstract>
+    <abstract>
+      <t>This document describes the architecture of the eduroam service for federated (wireless) network access in academia.  The combination of IEEE 802.1X, the Extensible Authentication Protocol (EAP), and RADIUS that is used in eduroam provides a secure, scalable, and deployable service for roaming network access.  The successful deployment of eduroam over the last decade in the educational sector may serve as an example for other sectors, hence this document.  In particular, the initial architectural choices and selection of standards are described, along with the changes that were prompted by operational experience.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7593"/>
+  <seriesInfo name="RFC" value="7593"/>
 </reference>

@@ -1,16 +1,18 @@
 <reference anchor="RFC2259" target="https://www.rfc-editor.org/info/rfc2259">
   <front>
     <title>Simple Nomenclator Query Protocol (SNQP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2259"/>
-    <author fullname="J. Elliott"/>
-    <author fullname="J. Ordille"/>
+    <author fullname="J. Elliott" initials="J." surname="Elliott">
+      <organization/>
+    </author>
+    <author fullname="J. Ordille" initials="J." surname="Ordille">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>ids</workgroup>
-    <keyword>SNQP</keyword>
-    <keyword>Data</keyword>
-    <keyword>Repositories</keyword>
-    <keyword>Client</keyword>
-    <keyword>Server</keyword>
-    <abstract>The Simple Nomenclator Query Protocol (SNQP) allows a client to communicate with a descriptive name service or other relational-style query service.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind</abstract>
+    <abstract>
+      <t>The Simple Nomenclator Query Protocol (SNQP) allows a client to communicate with a descriptive name service or other relational-style query service.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2259"/>
+  <seriesInfo name="RFC" value="2259"/>
 </reference>

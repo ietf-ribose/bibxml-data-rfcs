@@ -1,18 +1,27 @@
 <reference anchor="RFC7460" target="https://www.rfc-editor.org/info/rfc7460">
   <front>
     <title>Monitoring and Control MIB for Power and Energy</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7460"/>
-    <author fullname="M. Chandramouli"/>
-    <author fullname="B. Claise"/>
-    <author fullname="B. Schoening"/>
-    <author fullname="J. Quittek"/>
-    <author fullname="T. Dietz"/>
+    <author fullname="M. Chandramouli" initials="M." surname="Chandramouli">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="B. Schoening" initials="B." surname="Schoening">
+      <organization/>
+    </author>
+    <author fullname="J. Quittek" initials="J." surname="Quittek">
+      <organization/>
+    </author>
+    <author fullname="T. Dietz" initials="T." surname="Dietz">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>eman</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>IANAPowerStateSet-MIB</keyword>
-    <keyword>ENERGY-OBJECT-MIB</keyword>
-    <keyword>POWER-ATTRIBUTES-MIB</keyword>
-    <abstract>This document defines a subset of the Management Information Base (MIB) for power and energy monitoring of devices.</abstract>
+    <abstract>
+      <t>This document defines a subset of the Management Information Base (MIB) for power and energy monitoring of devices.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7460"/>
+  <seriesInfo name="RFC" value="7460"/>
 </reference>

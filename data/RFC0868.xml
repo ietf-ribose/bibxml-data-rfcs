@@ -1,11 +1,18 @@
 <reference anchor="RFC0868" target="https://www.rfc-editor.org/info/rfc868">
   <front>
     <title>Time Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0868"/>
-    <author fullname="J. Postel"/>
-    <author fullname="K. Harrenstien"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="K. Harrenstien" initials="K." surname="Harrenstien">
+      <organization/>
+    </author>
     <date year="1983" month="May"/>
-    <keyword>TIME</keyword>
-    <abstract>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that choose to implement a Time Protocol are expected to adopt and implement this standard.  This protocol provides a site-independent, machine readable date and time.  The Time service sends back to the originating source the time in seconds since midnight on January first 1900.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that choose to implement a Time Protocol are expected to adopt and implement this standard.  This protocol provides a site-independent, machine readable date and time.  The Time service sends back to the originating source the time in seconds since midnight on January first 1900.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0868"/>
+  <seriesInfo name="STD" value="26"/>
+  <seriesInfo name="RFC" value="868"/>
 </reference>

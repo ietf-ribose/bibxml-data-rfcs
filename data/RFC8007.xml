@@ -1,15 +1,18 @@
 <reference anchor="RFC8007" target="https://www.rfc-editor.org/info/rfc8007">
   <front>
     <title>Content Delivery Network Interconnection (CDNI) Control Interface / Triggers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8007"/>
-    <author fullname="R. Murray"/>
-    <author fullname="B. Niven-Jenkins"/>
+    <author fullname="R. Murray" initials="R." surname="Murray">
+      <organization/>
+    </author>
+    <author fullname="B. Niven-Jenkins" initials="B." surname="Niven-Jenkins">
+      <organization/>
+    </author>
     <date year="2016" month="December"/>
     <workgroup>cdni</workgroup>
-    <keyword>CDN</keyword>
-    <keyword>pre-position</keyword>
-    <keyword>invalidate</keyword>
-    <keyword>purge</keyword>
-    <abstract>This document describes the part of the Content Delivery Network Interconnection (CDNI) Control interface that allows a CDN to trigger activity in an interconnected CDN that is configured to deliver content on its behalf.  The upstream CDN can use this mechanism to request that the downstream CDN pre-position metadata or content or to request that it invalidate or purge metadata or content.  The upstream CDN can monitor the status of activity that it has triggered in the downstream CDN.</abstract>
+    <abstract>
+      <t>This document describes the part of the Content Delivery Network Interconnection (CDNI) Control interface that allows a CDN to trigger activity in an interconnected CDN that is configured to deliver content on its behalf.  The upstream CDN can use this mechanism to request that the downstream CDN pre-position metadata or content or to request that it invalidate or purge metadata or content.  The upstream CDN can monitor the status of activity that it has triggered in the downstream CDN.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8007"/>
+  <seriesInfo name="RFC" value="8007"/>
 </reference>

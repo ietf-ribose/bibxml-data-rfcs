@@ -1,18 +1,27 @@
 <reference anchor="RFC7917" target="https://www.rfc-editor.org/info/rfc7917">
   <front>
     <title>Advertising Node Administrative Tags in IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7917"/>
-    <author fullname="P. Sarkar"/>
-    <author fullname="H. Gredler"/>
-    <author fullname="S. Hegde"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="B. Decraene"/>
+    <author fullname="P. Sarkar" initials="P." surname="Sarkar">
+      <organization/>
+    </author>
+    <author fullname="H. Gredler" initials="H." surname="Gredler">
+      <organization/>
+    </author>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>isis</workgroup>
-    <keyword>IGP</keyword>
-    <keyword>IS-IS</keyword>
-    <keyword>Admin-Tag</keyword>
-    <keyword>Traffic Engineering</keyword>
-    <abstract>This document describes an extension to the IS-IS routing protocol to advertise node administrative tags.  This optional capability allows tagging and grouping of the nodes in an IS-IS domain.  The node administrative tags can be used to express and apply locally defined network policies, thereby providing a very useful operational capability.  Node administrative tags may be used by either IS-IS itself or other applications consuming information propagated via IS-IS.</abstract>
+    <abstract>
+      <t>This document describes an extension to the IS-IS routing protocol to advertise node administrative tags.  This optional capability allows tagging and grouping of the nodes in an IS-IS domain.  The node administrative tags can be used to express and apply locally defined network policies, thereby providing a very useful operational capability.  Node administrative tags may be used by either IS-IS itself or other applications consuming information propagated via IS-IS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7917"/>
+  <seriesInfo name="RFC" value="7917"/>
 </reference>

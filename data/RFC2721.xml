@@ -1,13 +1,15 @@
 <reference anchor="RFC2721" target="https://www.rfc-editor.org/info/rfc2721">
   <front>
     <title>RTFM: Applicability Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2721"/>
-    <author fullname="N. Brownlee"/>
+    <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>rtfm</workgroup>
-    <keyword>real-time</keyword>
-    <keyword>traffic flow</keyword>
-    <keyword>measurement</keyword>
-    <abstract>This document provides an overview covering all aspects of Realtime Traffic Flow Measurement, including its area of applicability and its limitations.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides an overview covering all aspects of Realtime Traffic Flow Measurement, including its area of applicability and its limitations.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2721"/>
+  <seriesInfo name="RFC" value="2721"/>
 </reference>

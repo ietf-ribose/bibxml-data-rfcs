@@ -1,18 +1,21 @@
 <reference anchor="RFC8794" target="https://www.rfc-editor.org/info/rfc8794">
   <front>
     <title>Extensible Binary Meta Language</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8794"/>
-    <author fullname="S. Lhomme"/>
-    <author fullname="D. Rice"/>
-    <author fullname="M. Bunkus"/>
+    <author fullname="S. Lhomme" initials="S." surname="Lhomme">
+      <organization/>
+    </author>
+    <author fullname="D. Rice" initials="D." surname="Rice">
+      <organization/>
+    </author>
+    <author fullname="M. Bunkus" initials="M." surname="Bunkus">
+      <organization/>
+    </author>
     <date year="2020" month="July"/>
     <workgroup>cellar</workgroup>
-    <keyword>cellar</keyword>
-    <keyword>binary</keyword>
-    <keyword>storage</keyword>
-    <keyword>xml</keyword>
-    <keyword>matroska</keyword>
-    <keyword>webm</keyword>
-    <abstract>This document defines the Extensible Binary Meta Language (EBML) format as a binary container format designed for audio/video storage.  EBML is designed as a binary equivalent to XML and uses a storage-efficient approach to build nested Elements with identifiers, lengths, and values.  Similar to how an XML Schema defines the structure and semantics of an XML Document, this document defines how EBML Schemas are created to convey the semantics of an EBML Document.</abstract>
+    <abstract>
+      <t>This document defines the Extensible Binary Meta Language (EBML) format as a binary container format designed for audio/video storage.  EBML is designed as a binary equivalent to XML and uses a storage-efficient approach to build nested Elements with identifiers, lengths, and values.  Similar to how an XML Schema defines the structure and semantics of an XML Document, this document defines how EBML Schemas are created to convey the semantics of an EBML Document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8794"/>
+  <seriesInfo name="RFC" value="8794"/>
 </reference>

@@ -1,17 +1,23 @@
 <reference anchor="RFC2272" target="https://www.rfc-editor.org/info/rfc2272">
   <front>
     <title>Message Processing and Dispatching for the Simple Network Management Protocol (SNMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2272"/>
-    <author fullname="J. Case"/>
-    <author fullname="D. Harrington"/>
-    <author fullname="R. Presuhn"/>
-    <author fullname="B. Wijnen"/>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
+    <author fullname="R. Presuhn" initials="R." surname="Presuhn">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
-    <keyword>SNMPv3</keyword>
-    <keyword>architecture</keyword>
-    <keyword>SNMPv3</keyword>
-    <keyword>multiple</keyword>
-    <keyword>versions</keyword>
-    <abstract>This document describes the Message Processing and Dispatching for SNMP messages within the SNMP architecture [RFC2271].  It defines the procedures for dispatching potentially multiple versions of SNMP messages to the proper SNMP Message Processing Models, and for dispatching PDUs to SNMP applications.  This document also describes one Message Processing Model - the SNMPv3 Message Processing Model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Message Processing and Dispatching for SNMP messages within the SNMP architecture [RFC2271].  It defines the procedures for dispatching potentially multiple versions of SNMP messages to the proper SNMP Message Processing Models, and for dispatching PDUs to SNMP applications.  This document also describes one Message Processing Model - the SNMPv3 Message Processing Model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2272"/>
+  <seriesInfo name="RFC" value="2272"/>
 </reference>

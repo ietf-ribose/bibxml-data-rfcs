@@ -1,15 +1,27 @@
 <reference anchor="RFC1164" target="https://www.rfc-editor.org/info/rfc1164">
   <front>
     <title>Application of the Border Gateway Protocol in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1164"/>
-    <author fullname="J.C. Honig"/>
-    <author fullname="D. Katz"/>
-    <author fullname="M. Mathis"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="J.Y. Yu"/>
+    <author fullname="J.C. Honig" initials="J.C." surname="Honig">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="M. Mathis" initials="M." surname="Mathis">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="J.Y. Yu" initials="J.Y." surname="Yu">
+      <organization/>
+    </author>
     <date year="1990" month="June"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP</keyword>
-    <abstract>This RFC, together with its companion RFC-1163, "A Border Gateway Protocol (BGP)", specify an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC, together with its companion RFC-1163, "A Border Gateway Protocol (BGP)", specify an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1164"/>
+  <seriesInfo name="RFC" value="1164"/>
 </reference>

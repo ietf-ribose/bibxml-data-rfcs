@@ -1,15 +1,15 @@
 <reference anchor="RFC5958" target="https://www.rfc-editor.org/info/rfc5958">
   <front>
     <title>Asymmetric Key Packages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5958"/>
-    <author fullname="S. Turner"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>private key</keyword>
-    <keyword>private-key information</keyword>
-    <keyword>rsa laboratories</keyword>
-    <keyword>private-key syntax</keyword>
-    <keyword>change control</keyword>
-    <abstract>This document defines the syntax for private-key information and a content type for it.  Private-key information includes a private key for a specified public-key algorithm and a set of attributes.  The Cryptographic Message Syntax (CMS), as defined in RFC 5652, can be used to digitally sign, digest, authenticate, or encrypt the asymmetric key format content type.  This document obsoletes RFC 5208. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the syntax for private-key information and a content type for it.  Private-key information includes a private key for a specified public-key algorithm and a set of attributes.  The Cryptographic Message Syntax (CMS), as defined in RFC 5652, can be used to digitally sign, digest, authenticate, or encrypt the asymmetric key format content type.  This document obsoletes RFC 5208. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5958"/>
+  <seriesInfo name="RFC" value="5958"/>
 </reference>

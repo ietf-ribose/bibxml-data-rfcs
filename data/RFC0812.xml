@@ -1,10 +1,17 @@
 <reference anchor="RFC0812" target="https://www.rfc-editor.org/info/rfc812">
   <front>
     <title>NICNAME/WHOIS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0812"/>
-    <author fullname="K. Harrenstien"/>
-    <author fullname="V. White"/>
+    <author fullname="K. Harrenstien" initials="K." surname="Harrenstien">
+      <organization/>
+    </author>
+    <author fullname="V. White" initials="V." surname="White">
+      <organization/>
+    </author>
     <date year="1982" month="March"/>
-    <abstract>This RFC gives a description of what the NICNAME/WHOIS Server is and how to access it.  This server together with the corresponding Identification Data Base provides online directory look-up equivalent to the ARPANET Directory.</abstract>
+    <abstract>
+      <t>This RFC gives a description of what the NICNAME/WHOIS Server is and how to access it.  This server together with the corresponding Identification Data Base provides online directory look-up equivalent to the ARPANET Directory.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0812"/>
+  <seriesInfo name="RFC" value="812"/>
 </reference>

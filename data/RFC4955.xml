@@ -1,11 +1,15 @@
 <reference anchor="RFC4955" target="https://www.rfc-editor.org/info/rfc4955">
   <front>
     <title>DNS Security (DNSSEC) Experiments</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4955"/>
-    <author fullname="D. Blacka"/>
+    <author fullname="D. Blacka" initials="D." surname="Blacka">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>dnsext</workgroup>
-    <keyword>domain namespace</keyword>
-    <abstract>This document describes a methodology for deploying alternate, non-backwards-compatible, DNS Security (DNSSEC) methodologies in an experimental fashion without disrupting the deployment of standard DNSSEC. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a methodology for deploying alternate, non-backwards-compatible, DNS Security (DNSSEC) methodologies in an experimental fashion without disrupting the deployment of standard DNSSEC. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4955"/>
+  <seriesInfo name="RFC" value="4955"/>
 </reference>

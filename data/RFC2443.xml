@@ -1,20 +1,18 @@
 <reference anchor="RFC2443" target="https://www.rfc-editor.org/info/rfc2443">
   <front>
     <title>A Distributed MARS Service Using SCSP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2443"/>
-    <author fullname="J. Luciani"/>
-    <author fullname="A. Gallo"/>
+    <author fullname="J. Luciani" initials="J." surname="Luciani">
+      <organization/>
+    </author>
+    <author fullname="A. Gallo" initials="A." surname="Gallo">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ion</workgroup>
-    <keyword>MARS-SCSP</keyword>
-    <keyword>server</keyword>
-    <keyword>cache</keyword>
-    <keyword>syncronization</keyword>
-    <keyword>protocol</keyword>
-    <keyword>atm</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <abstract>This document describes a method for distributing a MARS service within a LIS.  This method uses the Server Cache Synchronization Protocol (SCSP) to synchronize the MARS Server databases within a LIS.  When SCSP is used to synchronize the caches of MARS Servers in a LIS, the LIS defines the boundary of an SCSP Server Group (SG). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a method for distributing a MARS service within a LIS.  This method uses the Server Cache Synchronization Protocol (SCSP) to synchronize the MARS Server databases within a LIS.  When SCSP is used to synchronize the caches of MARS Servers in a LIS, the LIS defines the boundary of an SCSP Server Group (SG). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2443"/>
+  <seriesInfo name="RFC" value="2443"/>
 </reference>

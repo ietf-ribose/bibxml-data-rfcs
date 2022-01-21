@@ -1,17 +1,21 @@
 <reference anchor="RFC6820" target="https://www.rfc-editor.org/info/rfc6820">
   <front>
     <title>Address Resolution Problems in Large Data Center Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6820"/>
-    <author fullname="T. Narten"/>
-    <author fullname="M. Karir"/>
-    <author fullname="I. Foo"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="M. Karir" initials="M." surname="Karir">
+      <organization/>
+    </author>
+    <author fullname="I. Foo" initials="I." surname="Foo">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>armd</workgroup>
-    <keyword>ARMD</keyword>
-    <keyword>data center</keyword>
-    <keyword>ARP</keyword>
-    <keyword>ND</keyword>
-    <keyword>Neighbor Discovery</keyword>
-    <abstract>This document examines address resolution issues related to the scaling of data centers with a very large number of hosts.  The scope of this document is relatively narrow, focusing on address resolution (the Address Resolution Protocol (ARP) in IPv4 and Neighbor Discovery (ND) in IPv6) within a data center.  This document is a product of the Internet Engineering Task Force (IETF).</abstract>
+    <abstract>
+      <t>This document examines address resolution issues related to the scaling of data centers with a very large number of hosts.  The scope of this document is relatively narrow, focusing on address resolution (the Address Resolution Protocol (ARP) in IPv4 and Neighbor Discovery (ND) in IPv6) within a data center.  This document is a product of the Internet Engineering Task Force (IETF).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6820"/>
+  <seriesInfo name="RFC" value="6820"/>
 </reference>

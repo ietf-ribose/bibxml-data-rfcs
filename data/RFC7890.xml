@@ -1,19 +1,27 @@
 <reference anchor="RFC7890" target="https://www.rfc-editor.org/info/rfc7890">
   <front>
     <title>Concepts and Terminology for Peer-to-Peer SIP (P2PSIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7890"/>
-    <author fullname="D. Bryan"/>
-    <author fullname="P. Matthews"/>
-    <author fullname="E. Shim"/>
-    <author fullname="D. Willis"/>
-    <author fullname="S. Dawkins"/>
+    <author fullname="D. Bryan" initials="D." surname="Bryan">
+      <organization/>
+    </author>
+    <author fullname="P. Matthews" initials="P." surname="Matthews">
+      <organization/>
+    </author>
+    <author fullname="E. Shim" initials="E." surname="Shim">
+      <organization/>
+    </author>
+    <author fullname="D. Willis" initials="D." surname="Willis">
+      <organization/>
+    </author>
+    <author fullname="S. Dawkins" initials="S." surname="Dawkins">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>p2psip</workgroup>
-    <keyword>Distributed Database</keyword>
-    <keyword>P2PSIP</keyword>
-    <keyword>SIP</keyword>
-    <keyword>Server-less</keyword>
-    <keyword>DHT</keyword>
-    <abstract>This document defines concepts and terminology for using the Session Initiation Protocol in a peer-to-peer environment where the traditional proxy-registrar and message-routing functions are replaced by a distributed mechanism.  These mechanisms may be implemented using a Distributed Hash Table or other distributed data mechanism with similar external properties.  This document includes a high-level view of the functional relationships between the network elements defined herein, a conceptual model of operations, and an outline of the related problems addressed by the P2PSIP working group, the REsource LOcation And Discovery (RELOAD) protocol, and the SIP usage document defined by the working group.</abstract>
+    <abstract>
+      <t>This document defines concepts and terminology for using the Session Initiation Protocol in a peer-to-peer environment where the traditional proxy-registrar and message-routing functions are replaced by a distributed mechanism.  These mechanisms may be implemented using a Distributed Hash Table or other distributed data mechanism with similar external properties.  This document includes a high-level view of the functional relationships between the network elements defined herein, a conceptual model of operations, and an outline of the related problems addressed by the P2PSIP working group, the REsource LOcation And Discovery (RELOAD) protocol, and the SIP usage document defined by the working group.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7890"/>
+  <seriesInfo name="RFC" value="7890"/>
 </reference>

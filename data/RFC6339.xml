@@ -1,11 +1,18 @@
 <reference anchor="RFC6339" target="https://www.rfc-editor.org/info/rfc6339">
   <front>
     <title>Context Token Encapsulate/Decapsulate and OID Comparison Functions for the Generic Security Service Application Program Interface (GSS-API)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6339"/>
-    <author fullname="S. Josefsson"/>
-    <author fullname="L. Hornquist Astrand"/>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
+    <author fullname="L. Hornquist Astrand" initials="L." surname="Hornquist">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document describes three abstract Generic Security Service Application Program Interface (GSS-API) interfaces used to encapsulate/decapsulate context tokens and compare OIDs.  This document also specifies C bindings for the abstract interfaces. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes three abstract Generic Security Service Application Program Interface (GSS-API) interfaces used to encapsulate/decapsulate context tokens and compare OIDs.  This document also specifies C bindings for the abstract interfaces. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6339"/>
+  <seriesInfo name="RFC" value="6339"/>
 </reference>

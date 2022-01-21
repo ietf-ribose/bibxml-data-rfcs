@@ -1,14 +1,15 @@
 <reference anchor="RFC8645" target="https://www.rfc-editor.org/info/rfc8645">
   <front>
     <title>Re-keying Mechanisms for Symmetric Keys</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8645"/>
-    <author fullname="S. Smyshlyaev"/>
+    <author fullname="S. Smyshlyaev" initials="S." surname="Smyshlyaev">
+      <organization/>
+    </author>
     <date year="2019" month="August"/>
-    <keyword>re-keying</keyword>
-    <keyword>key</keyword>
-    <keyword>key lifetime</keyword>
-    <keyword>encryption mode</keyword>
-    <keyword>mode of operation</keyword>
-    <abstract>A certain maximum amount of data can be safely encrypted when encryption is performed under a single key. This amount is called the "key lifetime". This specification describes a variety of methods for increasing the lifetime of symmetric keys. It provides two types of re-keying mechanisms based on hash functions and block ciphers that can be used with modes of operations such as CTR, GCM, CBC, CFB, and OMAC. This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</abstract>
+    <abstract>
+      <t>A certain maximum amount of data can be safely encrypted when encryption is performed under a single key. This amount is called the "key lifetime". This specification describes a variety of methods for increasing the lifetime of symmetric keys. It provides two types of re-keying mechanisms based on hash functions and block ciphers that can be used with modes of operations such as CTR, GCM, CBC, CFB, and OMAC.</t>
+      <t>This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8645"/>
+  <seriesInfo name="RFC" value="8645"/>
 </reference>

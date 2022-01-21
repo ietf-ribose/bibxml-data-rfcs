@@ -1,14 +1,18 @@
 <reference anchor="RFC6062" target="https://www.rfc-editor.org/info/rfc6062">
   <front>
     <title>Traversal Using Relays around NAT (TURN) Extensions for TCP Allocations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6062"/>
-    <author fullname="S. Perreault"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2010" month="November"/>
     <workgroup>behave</workgroup>
-    <keyword>NAT</keyword>
-    <keyword>TURN</keyword>
-    <keyword>STUN</keyword>
-    <abstract>This specification defines an extension of Traversal Using Relays around NAT (TURN), a relay protocol for Network Address Translator (NAT) traversal.  This extension allows a TURN client to request TCP allocations, and defines new requests and indications for the TURN server to open and accept TCP connections with the client\'s peers.  TURN and this extension both purposefully restrict the ways in which the relayed address can be used.  In particular, it prevents users from running general-purpose servers from ports obtained from the TURN server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an extension of Traversal Using Relays around NAT (TURN), a relay protocol for Network Address Translator (NAT) traversal.  This extension allows a TURN client to request TCP allocations, and defines new requests and indications for the TURN server to open and accept TCP connections with the client\'s peers.  TURN and this extension both purposefully restrict the ways in which the relayed address can be used.  In particular, it prevents users from running general-purpose servers from ports obtained from the TURN server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6062"/>
+  <seriesInfo name="RFC" value="6062"/>
 </reference>

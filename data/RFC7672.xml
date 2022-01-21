@@ -1,14 +1,18 @@
 <reference anchor="RFC7672" target="https://www.rfc-editor.org/info/rfc7672">
   <front>
     <title>SMTP Security via Opportunistic DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7672"/>
-    <author fullname="V. Dukhovni"/>
-    <author fullname="W. Hardaker"/>
+    <author fullname="V. Dukhovni" initials="V." surname="Dukhovni">
+      <organization/>
+    </author>
+    <author fullname="W. Hardaker" initials="W." surname="Hardaker">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>dane</workgroup>
-    <keyword>DANE</keyword>
-    <keyword>TLSA</keyword>
-    <keyword>SMTP</keyword>
-    <abstract>This memo describes a downgrade-resistant protocol for SMTP transport security between Message Transfer Agents (MTAs), based on the DNS-Based Authentication of Named Entities (DANE) TLSA DNS record.  Adoption of this protocol enables an incremental transition of the Internet email backbone to one using encrypted and authenticated Transport Layer Security (TLS).</abstract>
+    <abstract>
+      <t>This memo describes a downgrade-resistant protocol for SMTP transport security between Message Transfer Agents (MTAs), based on the DNS-Based Authentication of Named Entities (DANE) TLSA DNS record.  Adoption of this protocol enables an incremental transition of the Internet email backbone to one using encrypted and authenticated Transport Layer Security (TLS).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7672"/>
+  <seriesInfo name="RFC" value="7672"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC2877" target="https://www.rfc-editor.org/info/rfc2877">
   <front>
     <title>5250 Telnet Enhancements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2877"/>
-    <author fullname="T. Murphy Jr."/>
-    <author fullname="P. Rieth"/>
-    <author fullname="J. Stevens"/>
+    <author fullname="T. Murphy Jr." initials="T." surname="Murphy">
+      <organization/>
+    </author>
+    <author fullname="P. Rieth" initials="P." surname="Rieth">
+      <organization/>
+    </author>
+    <author fullname="J. Stevens" initials="J." surname="Stevens">
+      <organization/>
+    </author>
     <date year="2000" month="July"/>
     <workgroup>tn3270e</workgroup>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <keyword>printer</keyword>
-    <abstract>This memo describes the interface to the IBM 5250 Telnet server that allows client Telnet to request a Telnet terminal or printer session using a specific device name.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes the interface to the IBM 5250 Telnet server that allows client Telnet to request a Telnet terminal or printer session using a specific device name.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2877"/>
+  <seriesInfo name="RFC" value="2877"/>
 </reference>

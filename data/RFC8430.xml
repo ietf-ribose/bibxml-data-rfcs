@@ -1,14 +1,21 @@
 <reference anchor="RFC8430" target="https://www.rfc-editor.org/info/rfc8430">
   <front>
     <title>RIB Information Model</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8430"/>
-    <author fullname="N. Bahadur"/>
-    <author fullname="S. Kini"/>
-    <author fullname="J. Medved"/>
+    <author fullname="N. Bahadur" initials="N." surname="Bahadur">
+      <organization/>
+    </author>
+    <author fullname="S. Kini" initials="S." surname="Kini">
+      <organization/>
+    </author>
+    <author fullname="J. Medved" initials="J." surname="Medved">
+      <organization/>
+    </author>
     <date year="2018" month="September"/>
     <workgroup>i2rs</workgroup>
-    <keyword>RIB</keyword>
-    <keyword>info model</keyword>
-    <abstract>Routing and routing functions in enterprise and carrier networks are typically performed by network devices (routers and switches) using a Routing Information Base (RIB).  Protocols and configurations push data into the RIB, and the RIB manager installs state into the hardware for packet forwarding.  This document specifies an information model for the RIB to enable defining a standardized data model.  The IETF's I2RS WG used this document to design the I2RS RIB data model.  This document is being published to record the higher- level information model decisions for RIBs so that other developers of RIBs may benefit from the design concepts.</abstract>
+    <abstract>
+      <t>Routing and routing functions in enterprise and carrier networks are typically performed by network devices (routers and switches) using a Routing Information Base (RIB).  Protocols and configurations push data into the RIB, and the RIB manager installs state into the hardware for packet forwarding.  This document specifies an information model for the RIB to enable defining a standardized data model.  The IETF's I2RS WG used this document to design the I2RS RIB data model.  This document is being published to record the higher- level information model decisions for RIBs so that other developers of RIBs may benefit from the design concepts.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8430"/>
+  <seriesInfo name="RFC" value="8430"/>
 </reference>

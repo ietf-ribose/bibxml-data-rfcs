@@ -1,21 +1,27 @@
 <reference anchor="RFC4394" target="https://www.rfc-editor.org/info/rfc4394">
   <front>
     <title>A Transport Network View of the Link Management Protocol (LMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4394"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="O. Aboul-Magd"/>
-    <author fullname="D. Brungard"/>
-    <author fullname="J. Lang"/>
-    <author fullname="D. Papadimitriou"/>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="O. Aboul-Magd" initials="O." surname="Aboul-Magd">
+      <organization/>
+    </author>
+    <author fullname="D. Brungard" initials="D." surname="Brungard">
+      <organization/>
+    </author>
+    <author fullname="J. Lang" initials="J." surname="Lang">
+      <organization/>
+    </author>
+    <author fullname="D. Papadimitriou" initials="D." surname="Papadimitriou">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>ccamp</workgroup>
-    <keyword>gmpls</keyword>
-    <keyword>ason</keyword>
-    <keyword>discovery</keyword>
-    <keyword>sdh</keyword>
-    <keyword>otn</keyword>
-    <keyword>sonet</keyword>
-    <keyword>pdh</keyword>
-    <abstract>The Link Management Protocol (LMP) has been developed as part of the Generalized MPLS (GMPLS) protocol suite to manage Traffic Engineering (TE) resources and links.  The GMPLS control plane (routing and signaling) uses TE links for establishing Label Switched Paths (LSPs).  This memo describes the relationship of the LMP procedures to 'discovery' as defined in the International Telecommunication Union (ITU-T), and ongoing ITU-T work.  This document provides an overview of LMP in the context of the ITU-T Automatically Switched Optical Networks (ASON) and transport network terminology and relates it to the ITU-T discovery work to promote a common understanding for progressing the work of IETF and ITU-T.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Link Management Protocol (LMP) has been developed as part of the Generalized MPLS (GMPLS) protocol suite to manage Traffic Engineering (TE) resources and links.  The GMPLS control plane (routing and signaling) uses TE links for establishing Label Switched Paths (LSPs).  This memo describes the relationship of the LMP procedures to 'discovery' as defined in the International Telecommunication Union (ITU-T), and ongoing ITU-T work.  This document provides an overview of LMP in the context of the ITU-T Automatically Switched Optical Networks (ASON) and transport network terminology and relates it to the ITU-T discovery work to promote a common understanding for progressing the work of IETF and ITU-T.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4394"/>
+  <seriesInfo name="RFC" value="4394"/>
 </reference>

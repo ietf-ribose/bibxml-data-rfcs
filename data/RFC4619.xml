@@ -1,16 +1,21 @@
 <reference anchor="RFC4619" target="https://www.rfc-editor.org/info/rfc4619">
   <front>
     <title>Encapsulation Methods for Transport of Frame Relay over Multiprotocol Label Switching (MPLS) Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4619"/>
-    <author fullname="L. Martini"/>
-    <author fullname="C. Kawa"/>
-    <author fullname="A. Malis"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="C. Kawa" initials="C." surname="Kawa">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>pwe3</workgroup>
-    <keyword>pseudowire</keyword>
-    <keyword>psn</keyword>
-    <keyword>packet switched network</keyword>
-    <keyword>pw</keyword>
-    <abstract>A frame relay pseudowire is a mechanism that exists between a provider's edge network nodes and that supports as faithfully as possible frame relay services over an MPLS packet switched network (PSN).  This document describes the detailed encapsulation necessary to transport frame relay packets over an MPLS network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A frame relay pseudowire is a mechanism that exists between a provider's edge network nodes and that supports as faithfully as possible frame relay services over an MPLS packet switched network (PSN).  This document describes the detailed encapsulation necessary to transport frame relay packets over an MPLS network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4619"/>
+  <seriesInfo name="RFC" value="4619"/>
 </reference>

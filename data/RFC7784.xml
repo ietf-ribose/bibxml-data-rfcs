@@ -1,16 +1,21 @@
 <reference anchor="RFC7784" target="https://www.rfc-editor.org/info/rfc7784">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL) Operations, Administration, and Maintenance (OAM) MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7784"/>
-    <author fullname="D. Kumar"/>
-    <author fullname="S. Salam"/>
-    <author fullname="T. Senevirathne"/>
+    <author fullname="D. Kumar" initials="D." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="T. Senevirathne" initials="T." surname="Senevirathne">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>trill</workgroup>
-    <keyword>CFM</keyword>
-    <keyword>MEP</keyword>
-    <keyword>MIP</keyword>
-    <keyword>Fault Management</keyword>
-    <abstract>This document specifies the MIB for the OAM (Operations, Administration, and Maintenance) objects for IETF TRILL (Transparent Interconnection of Lots of Links).</abstract>
+    <abstract>
+      <t>This document specifies the MIB for the OAM (Operations, Administration, and Maintenance) objects for IETF TRILL (Transparent Interconnection of Lots of Links).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7784"/>
+  <seriesInfo name="RFC" value="7784"/>
 </reference>

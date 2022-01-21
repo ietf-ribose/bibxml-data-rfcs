@@ -1,12 +1,18 @@
 <reference anchor="RFC6735" target="https://www.rfc-editor.org/info/rfc6735">
   <front>
     <title>Diameter Priority Attribute-Value Pairs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6735"/>
-    <author fullname="K. Carlberg"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="K. Carlberg" initials="K." surname="Carlberg">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2012" month="October"/>
     <workgroup>dime</workgroup>
-    <keyword>AVP</keyword>
-    <abstract>This document defines Attribute-Value Pair (AVP) containers for various priority parameters for use with Diameter and the Authentication, Authorization, and Accounting (AAA) framework.  The parameters themselves are defined in several different protocols that operate at either the network or application layer. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines Attribute-Value Pair (AVP) containers for various priority parameters for use with Diameter and the Authentication, Authorization, and Accounting (AAA) framework.  The parameters themselves are defined in several different protocols that operate at either the network or application layer. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6735"/>
+  <seriesInfo name="RFC" value="6735"/>
 </reference>

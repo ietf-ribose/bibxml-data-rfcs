@@ -1,10 +1,16 @@
 <reference anchor="RFC7372" target="https://www.rfc-editor.org/info/rfc7372">
   <front>
     <title>Email Authentication Status Codes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7372"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2014" month="September"/>
     <workgroup>appsawg</workgroup>
-    <abstract>This document registers code points to allow status codes to be returned to an email client to indicate that a message is being rejected or deferred specifically because of email authentication failures. This document updates RFC 7208, since some of the code points registered replace the ones recommended for use in that document.</abstract>
+    <abstract>
+      <t>This document registers code points to allow status codes to be returned to an email client to indicate that a message is being rejected or deferred specifically because of email authentication failures.</t>
+      <t>This document updates RFC 7208, since some of the code points registered replace the ones recommended for use in that document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7372"/>
+  <seriesInfo name="RFC" value="7372"/>
 </reference>

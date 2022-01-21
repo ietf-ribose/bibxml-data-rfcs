@@ -1,15 +1,21 @@
 <reference anchor="RFC3821" target="https://www.rfc-editor.org/info/rfc3821">
   <front>
     <title>Fibre Channel Over TCP/IP (FCIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3821"/>
-    <author fullname="M. Rajagopal"/>
-    <author fullname="E. Rodriguez"/>
-    <author fullname="R. Weber"/>
+    <author fullname="M. Rajagopal" initials="M." surname="Rajagopal">
+      <organization/>
+    </author>
+    <author fullname="E. Rodriguez" initials="E." surname="Rodriguez">
+      <organization/>
+    </author>
+    <author fullname="R. Weber" initials="R." surname="Weber">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>ips</workgroup>
-    <keyword>storage area networks</keyword>
-    <keyword>IP-based networks</keyword>
-    <keyword>unified storage area network</keyword>
-    <abstract>Fibre Channel Over TCP/IP (FCIP) describes mechanisms that allow the interconnection of islands of Fibre Channel storage area networks over IP-based networks to form a unified storage area network in a single Fibre Channel fabric.  FCIP relies on IP-based network services to provide the connectivity between the storage area network islands over local area networks, metropolitan area networks, or wide area networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Fibre Channel Over TCP/IP (FCIP) describes mechanisms that allow the interconnection of islands of Fibre Channel storage area networks over IP-based networks to form a unified storage area network in a single Fibre Channel fabric.  FCIP relies on IP-based network services to provide the connectivity between the storage area network islands over local area networks, metropolitan area networks, or wide area networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3821"/>
+  <seriesInfo name="RFC" value="3821"/>
 </reference>

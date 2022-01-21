@@ -1,16 +1,20 @@
 <reference anchor="RFC1741" target="https://www.rfc-editor.org/info/rfc1741">
   <front>
     <title>MIME Content Type for BinHex Encoded Files</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1741"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="D. Crocker"/>
-    <author fullname="E. Fair"/>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
+    <author fullname="E. Fair" initials="E." surname="Fair">
+      <organization/>
+    </author>
     <date year="1994" month="December"/>
-    <keyword>BINHEX</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Extensions</keyword>
-    <abstract>This memo describes the format to use when sending BinHex4.0 files via MIME [BORE93].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo describes the format to use when sending BinHex4.0 files via MIME [BORE93].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1741"/>
+  <seriesInfo name="RFC" value="1741"/>
 </reference>

@@ -1,18 +1,20 @@
 <reference anchor="RFC4363" target="https://www.rfc-editor.org/info/rfc4363">
   <front>
     <title>Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering, and Virtual LAN Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4363"/>
-    <author fullname="D. Levi"/>
-    <author fullname="D. Harrington"/>
+    <author fullname="D. Levi" initials="D." surname="Levi">
+      <organization/>
+    </author>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>bridge</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>mac bridges</keyword>
-    <keyword>traffic classes</keyword>
-    <keyword>enhanced multicast filtering</keyword>
-    <keyword>p-bridge-mib</keyword>
-    <keyword>q-bridge-mib</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines two MIB modules for managing the capabilities of MAC bridges defined by the IEEE 802.1D-1998 (TM) MAC Bridges and the IEEE 802.1Q-2003 (TM) Virtual LAN (VLAN) standards for bridging between Local Area Network (LAN) segments. One MIB module defines objects for managing the 'Traffic Classes' and 'Enhanced Multicast Filtering' components of IEEE 802.1D-1998 and P802.1t-2001 (TM). The other MIB module defines objects for managing VLANs, as specified in IEEE 802.1Q-2003, P802.1u (TM), and P802.1v (TM). Provisions are made for support of transparent bridging. Provisions are also made so that these objects apply to bridges connected by subnetworks other than LAN segments. This memo supplements RFC 4188 and obsoletes RFC 2674. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines two MIB modules for managing the capabilities of MAC bridges defined by the IEEE 802.1D-1998 (TM) MAC Bridges and the IEEE 802.1Q-2003 (TM) Virtual LAN (VLAN) standards for bridging between Local Area Network (LAN) segments. One MIB module defines objects for managing the 'Traffic Classes' and 'Enhanced Multicast Filtering' components of IEEE 802.1D-1998 and P802.1t-2001 (TM). The other MIB module defines objects for managing VLANs, as specified in IEEE 802.1Q-2003, P802.1u (TM), and P802.1v (TM).</t>
+      <t>Provisions are made for support of transparent bridging. Provisions are also made so that these objects apply to bridges connected by subnetworks other than LAN segments.</t>
+      <t>This memo supplements RFC 4188 and obsoletes RFC 2674. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4363"/>
+  <seriesInfo name="RFC" value="4363"/>
 </reference>

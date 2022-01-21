@@ -1,11 +1,15 @@
 <reference anchor="RFC4114" target="https://www.rfc-editor.org/info/rfc4114">
   <front>
     <title>E.164 Number Mapping for the Extensible Provisioning Protocol (EPP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4114"/>
-    <author fullname="S. Hollenbeck"/>
+    <author fullname="S. Hollenbeck" initials="S." surname="Hollenbeck">
+      <organization/>
+    </author>
     <date year="2005" month="June"/>
     <workgroup>enum</workgroup>
-    <keyword>shared central repository</keyword>
-    <abstract>This document describes an Extensible Provisioning Protocol (EPP) extension mapping for the provisioning and management of E.164 numbers that represent domain names stored in a shared central repository.  Specified in XML, this mapping extends the EPP domain name mapping to provide additional features required for the provisioning of E.164 numbers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an Extensible Provisioning Protocol (EPP) extension mapping for the provisioning and management of E.164 numbers that represent domain names stored in a shared central repository.  Specified in XML, this mapping extends the EPP domain name mapping to provide additional features required for the provisioning of E.164 numbers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4114"/>
+  <seriesInfo name="RFC" value="4114"/>
 </reference>

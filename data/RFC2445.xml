@@ -1,18 +1,18 @@
 <reference anchor="RFC2445" target="https://www.rfc-editor.org/info/rfc2445">
   <front>
     <title>Internet Calendaring and Scheduling Core Object Specification (iCalendar)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2445"/>
-    <author fullname="F. Dawson"/>
-    <author fullname="D. Stenerson"/>
+    <author fullname="F. Dawson" initials="F." surname="Dawson">
+      <organization/>
+    </author>
+    <author fullname="D. Stenerson" initials="D." surname="Stenerson">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>calsch</workgroup>
-    <keyword>ICALENDAR</keyword>
-    <keyword>internet</keyword>
-    <keyword>interoperable</keyword>
-    <keyword>mime</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This memo has been defined to provide the definition of a common format for openly exchanging calendaring and scheduling information across the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo has been defined to provide the definition of a common format for openly exchanging calendaring and scheduling information across the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2445"/>
+  <seriesInfo name="RFC" value="2445"/>
 </reference>

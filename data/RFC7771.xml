@@ -1,17 +1,30 @@
 <reference anchor="RFC7771" target="https://www.rfc-editor.org/info/rfc7771">
   <front>
     <title>Switching Provider Edge (S-PE) Protection for MPLS and MPLS Transport Profile (MPLS-TP) Static Multi-Segment Pseudowires</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7771"/>
-    <author fullname="A. Malis"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="H. van Helvoort"/>
-    <author fullname="J. Shin"/>
-    <author fullname="L. Wang"/>
-    <author fullname="A. D'Alessandro"/>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="H. van Helvoort" initials="H." surname="van">
+      <organization/>
+    </author>
+    <author fullname="J. Shin" initials="J." surname="Shin">
+      <organization/>
+    </author>
+    <author fullname="L. Wang" initials="L." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="A. D'Alessandro" initials="A." surname="D'Alessandro">
+      <organization/>
+    </author>
     <date year="2016" month="January"/>
     <workgroup>pals</workgroup>
-    <keyword>end-to-end protection</keyword>
-    <keyword>linear protection</keyword>
-    <abstract>In MPLS and MPLS Transport Profile (MPLS-TP) environments, statically provisioned Single-Segment Pseudowires (SS-PWs) are protected against tunnel failure via MPLS-level and MPLS-TP-level tunnel protection.  With statically provisioned Multi-Segment Pseudowires (MS-PWs), each segment of the MS-PW is likewise protected from tunnel failures via MPLS-level and MPLS-TP-level tunnel protection.  However, static MS-PWs are not protected end-to-end against failure of one of the Switching Provider Edge Routers (S-PEs) along the path of the MS-PW.  This document describes how to achieve this protection via redundant MS-PWs by updating the existing procedures in RFC 6870.  It also contains an optional approach based on MPLS-TP Linear Protection.</abstract>
+    <abstract>
+      <t>In MPLS and MPLS Transport Profile (MPLS-TP) environments, statically provisioned Single-Segment Pseudowires (SS-PWs) are protected against tunnel failure via MPLS-level and MPLS-TP-level tunnel protection.  With statically provisioned Multi-Segment Pseudowires (MS-PWs), each segment of the MS-PW is likewise protected from tunnel failures via MPLS-level and MPLS-TP-level tunnel protection.  However, static MS-PWs are not protected end-to-end against failure of one of the Switching Provider Edge Routers (S-PEs) along the path of the MS-PW.  This document describes how to achieve this protection via redundant MS-PWs by updating the existing procedures in RFC 6870.  It also contains an optional approach based on MPLS-TP Linear Protection.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7771"/>
+  <seriesInfo name="RFC" value="7771"/>
 </reference>

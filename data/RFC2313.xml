@@ -1,14 +1,14 @@
 <reference anchor="RFC2313" target="https://www.rfc-editor.org/info/rfc2313">
   <front>
     <title>PKCS #1: RSA Encryption Version 1.5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2313"/>
-    <author fullname="B. Kaliski"/>
+    <author fullname="B. Kaliski" initials="B." surname="Kaliski">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
-    <keyword>PKCS-1</keyword>
-    <keyword>data</keyword>
-    <keyword>public</keyword>
-    <keyword>key</keyword>
-    <keyword>cryptosystem</keyword>
-    <abstract>This document describes a method for encrypting data using the RSA public-key cryptosystem.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes a method for encrypting data using the RSA public-key cryptosystem.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2313"/>
+  <seriesInfo name="RFC" value="2313"/>
 </reference>

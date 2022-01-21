@@ -1,11 +1,14 @@
 <reference anchor="RFC3663" target="https://www.rfc-editor.org/info/rfc3663">
   <front>
     <title>Domain Administrative Data in Lightweight Directory Access Protocol (LDAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3663"/>
-    <author fullname="A. Newton"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
     <date year="2003" month="December"/>
-    <keyword>referral types</keyword>
-    <keyword>well-known</keyword>
-    <abstract>Domain registration data has typically been exposed to the general public via Nicname/Whois for administrative purposes.  This document describes the Referral Lightweight Directory Access Protocol (LDAP) Service, an experimental service using LDAP and well-known LDAP types to make domain administrative data available.</abstract>
+    <abstract>
+      <t>Domain registration data has typically been exposed to the general public via Nicname/Whois for administrative purposes.  This document describes the Referral Lightweight Directory Access Protocol (LDAP) Service, an experimental service using LDAP and well-known LDAP types to make domain administrative data available.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3663"/>
+  <seriesInfo name="RFC" value="3663"/>
 </reference>

@@ -1,17 +1,27 @@
 <reference anchor="RFC7039" target="https://www.rfc-editor.org/info/rfc7039">
   <front>
     <title>Source Address Validation Improvement (SAVI) Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7039"/>
-    <author fullname="J. Wu"/>
-    <author fullname="J. Bi"/>
-    <author fullname="M. Bagnulo"/>
-    <author fullname="F. Baker"/>
-    <author fullname="C. Vogt"/>
+    <author fullname="J. Wu" initials="J." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="J. Bi" initials="J." surname="Bi">
+      <organization/>
+    </author>
+    <author fullname="M. Bagnulo" initials="M." surname="Bagnulo">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="C. Vogt" initials="C." surname="Vogt">
+      <organization/>
+    </author>
     <date year="2013" month="October"/>
     <workgroup>savi</workgroup>
-    <keyword>anti-spoofing</keyword>
-    <keyword>BCP38</keyword>
-    <keyword>ingress filtering</keyword>
-    <abstract>Source Address Validation Improvement (SAVI) methods were developed to prevent nodes attached to the same IP link from spoofing each other's IP addresses, so as to complement ingress filtering with finer-grained, standardized IP source address validation.  This document is a framework document that describes and motivates the design of the SAVI methods.  Particular SAVI methods are described in other documents.</abstract>
+    <abstract>
+      <t>Source Address Validation Improvement (SAVI) methods were developed to prevent nodes attached to the same IP link from spoofing each other's IP addresses, so as to complement ingress filtering with finer-grained, standardized IP source address validation.  This document is a framework document that describes and motivates the design of the SAVI methods.  Particular SAVI methods are described in other documents.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7039"/>
+  <seriesInfo name="RFC" value="7039"/>
 </reference>

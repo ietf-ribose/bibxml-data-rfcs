@@ -1,18 +1,24 @@
 <reference anchor="RFC2440" target="https://www.rfc-editor.org/info/rfc2440">
   <front>
     <title>OpenPGP Message Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2440"/>
-    <author fullname="J. Callas"/>
-    <author fullname="L. Donnerhacke"/>
-    <author fullname="H. Finney"/>
-    <author fullname="R. Thayer"/>
+    <author fullname="J. Callas" initials="J." surname="Callas">
+      <organization/>
+    </author>
+    <author fullname="L. Donnerhacke" initials="L." surname="Donnerhacke">
+      <organization/>
+    </author>
+    <author fullname="H. Finney" initials="H." surname="Finney">
+      <organization/>
+    </author>
+    <author fullname="R. Thayer" initials="R." surname="Thayer">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>openpgp</workgroup>
-    <keyword>pretty</keyword>
-    <keyword>good</keyword>
-    <keyword>privacy</keyword>
-    <keyword>encryption</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document is maintained in order to publish all necessary information needed to develop interoperable applications based on the OpenPGP format. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is maintained in order to publish all necessary information needed to develop interoperable applications based on the OpenPGP format. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2440"/>
+  <seriesInfo name="RFC" value="2440"/>
 </reference>

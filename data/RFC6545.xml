@@ -1,14 +1,15 @@
 <reference anchor="RFC6545" target="https://www.rfc-editor.org/info/rfc6545">
   <front>
     <title>Real-time Inter-network Defense (RID)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6545"/>
-    <author fullname="K. Moriarty"/>
+    <author fullname="K. Moriarty" initials="K." surname="Moriarty">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>mile</workgroup>
-    <keyword>incident response</keyword>
-    <keyword>incident coordination</keyword>
-    <keyword>incident handling</keyword>
-    <keyword>incident communication</keyword>
-    <abstract>Security incidents, such as system compromises, worms, viruses, phishing incidents, and denial of service, typically result in the loss of service, data, and resources both human and system.  Service providers and Computer Security Incident Response Teams need to be equipped and ready to assist in communicating and tracing security incidents with tools and procedures in place before the occurrence of an attack.  Real-time Inter-network Defense (RID) outlines a proactive inter-network communication method to facilitate sharing incident-handling data while integrating existing detection, tracing, source identification, and mitigation mechanisms for a complete incident-handling solution.  Combining these capabilities in a communication system provides a way to achieve higher security levels on networks.  Policy guidelines for handling incidents are recommended and can be agreed upon by a consortium using the security recommendations and considerations.  This document obsoletes RFC 6045. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Security incidents, such as system compromises, worms, viruses, phishing incidents, and denial of service, typically result in the loss of service, data, and resources both human and system.  Service providers and Computer Security Incident Response Teams need to be equipped and ready to assist in communicating and tracing security incidents with tools and procedures in place before the occurrence of an attack.  Real-time Inter-network Defense (RID) outlines a proactive inter-network communication method to facilitate sharing incident-handling data while integrating existing detection, tracing, source identification, and mitigation mechanisms for a complete incident-handling solution.  Combining these capabilities in a communication system provides a way to achieve higher security levels on networks.  Policy guidelines for handling incidents are recommended and can be agreed upon by a consortium using the security recommendations and considerations.  This document obsoletes RFC 6045. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6545"/>
+  <seriesInfo name="RFC" value="6545"/>
 </reference>

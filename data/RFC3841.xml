@@ -1,17 +1,21 @@
 <reference anchor="RFC3841" target="https://www.rfc-editor.org/info/rfc3841">
   <front>
     <title>Caller Preferences for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3841"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="P. Kyzivat"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>sip</workgroup>
-    <keyword>Uniform Resource Identifiers</keyword>
-    <keyword>URI</keyword>
-    <keyword>Accept-Contact</keyword>
-    <keyword>Reject-Contact</keyword>
-    <keyword>Request-Disposition</keyword>
-    <abstract>This document describes a set of extensions to the Session Initiation Protocol (SIP) which allow a caller to express preferences about request handling in servers.  These preferences include the ability to select which Uniform Resource Identifiers (URI) a request gets routed to, and to specify certain request handling directives in proxies and redirect servers.  It does so by defining three new request header fields, Accept-Contact, Reject-Contact, and Request-Disposition, which specify the caller's preferences. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a set of extensions to the Session Initiation Protocol (SIP) which allow a caller to express preferences about request handling in servers.  These preferences include the ability to select which Uniform Resource Identifiers (URI) a request gets routed to, and to specify certain request handling directives in proxies and redirect servers.  It does so by defining three new request header fields, Accept-Contact, Reject-Contact, and Request-Disposition, which specify the caller's preferences. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3841"/>
+  <seriesInfo name="RFC" value="3841"/>
 </reference>

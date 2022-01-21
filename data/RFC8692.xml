@@ -1,14 +1,18 @@
 <reference anchor="RFC8692" target="https://www.rfc-editor.org/info/rfc8692">
   <front>
     <title>Internet X.509 Public Key Infrastructure: Additional Algorithm Identifiers for RSASSA-PSS and ECDSA Using SHAKEs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8692"/>
-    <author fullname="P. Kampanakis"/>
-    <author fullname="Q. Dang"/>
+    <author fullname="P. Kampanakis" initials="P." surname="Kampanakis">
+      <organization/>
+    </author>
+    <author fullname="Q. Dang" initials="Q." surname="Dang">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>lamps</workgroup>
-    <keyword>SHAKE in X.509</keyword>
-    <keyword>SHAKEs in PKIX</keyword>
-    <keyword>certificates with SHAKE hashes</keyword>
-    <abstract>Digital signatures are used to sign messages, X.509 certificates, and Certificate Revocation Lists (CRLs).  This document updates the "Algorithms and Identifiers for the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile" (RFC 3279) and describes the conventions for using the SHAKE function family in Internet X.509 certificates and revocation lists as one-way hash functions with the RSA Probabilistic signature and Elliptic Curve Digital Signature Algorithm (ECDSA) signature algorithms.  The conventions for the associated subject public keys are also described.</abstract>
+    <abstract>
+      <t>Digital signatures are used to sign messages, X.509 certificates, and Certificate Revocation Lists (CRLs).  This document updates the "Algorithms and Identifiers for the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile" (RFC 3279) and describes the conventions for using the SHAKE function family in Internet X.509 certificates and revocation lists as one-way hash functions with the RSA Probabilistic signature and Elliptic Curve Digital Signature Algorithm (ECDSA) signature algorithms.  The conventions for the associated subject public keys are also described.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8692"/>
+  <seriesInfo name="RFC" value="8692"/>
 </reference>

@@ -1,17 +1,21 @@
 <reference anchor="RFC2776" target="https://www.rfc-editor.org/info/rfc2776">
   <front>
     <title>Multicast-Scope Zone Announcement Protocol (MZAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2776"/>
-    <author fullname="M. Handley"/>
-    <author fullname="D. Thaler"/>
-    <author fullname="R. Kermode"/>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
+    <author fullname="R. Kermode" initials="R." surname="Kermode">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>mboned</workgroup>
-    <keyword>MZAP</keyword>
-    <keyword>packets</keyword>
-    <keyword>addresses</keyword>
-    <keyword>service</keyword>
-    <keyword>location</keyword>
-    <abstract>This document defines a protocol, the Multicast-Scope Zone Announcement Protocol (MZAP), for discovering the multicast administrative scope zones that are relevant at a particular location. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a protocol, the Multicast-Scope Zone Announcement Protocol (MZAP), for discovering the multicast administrative scope zones that are relevant at a particular location. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2776"/>
+  <seriesInfo name="RFC" value="2776"/>
 </reference>

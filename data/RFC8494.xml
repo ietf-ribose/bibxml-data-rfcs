@@ -1,11 +1,19 @@
 <reference anchor="RFC8494" target="https://www.rfc-editor.org/info/rfc8494">
   <front>
     <title>Multicast Email (MULE) over Allied Communications Publication (ACP) 142</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8494"/>
-    <author fullname="D. Wilson"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="D. Wilson" initials="D." surname="Wilson">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2018" month="November"/>
-    <keyword>P_MUL</keyword>
-    <abstract>Allied Communications Publication (ACP) 142 defines P_MUL, which is a protocol for reliable multicast suitable for bandwidth-constrained and delayed acknowledgement (Emissions Control or "EMCON") environments running over UDP. This document defines MULE (Multicast Email), an application protocol for transferring Internet Mail messages (as described in RFC 5322) over P_MUL (as defined in ACP 142). MULE enables transfer between Message Transfer Agents (MTAs). It doesn't provide a service similar to SMTP Submission (as described in RFC 6409). This document explains how MULE can be used in conjunction with SMTP (RFC 5321), including some common SMTP extensions, to provide an alternate MTA-to-MTA transfer mechanism. This is not an IETF specification; it describes an existing implementation. It is provided in order to facilitate interoperable implementations and third-party diagnostics.</abstract>
+    <abstract>
+      <t>Allied Communications Publication (ACP) 142 defines P_MUL, which is a protocol for reliable multicast suitable for bandwidth-constrained and delayed acknowledgement (Emissions Control or "EMCON") environments running over UDP. This document defines MULE (Multicast Email), an application protocol for transferring Internet Mail messages (as described in RFC 5322) over P_MUL (as defined in ACP 142). MULE enables transfer between Message Transfer Agents (MTAs). It doesn't provide a service similar to SMTP Submission (as described in RFC 6409).</t>
+      <t>This document explains how MULE can be used in conjunction with SMTP (RFC 5321), including some common SMTP extensions, to provide an alternate MTA-to-MTA transfer mechanism.</t>
+      <t>This is not an IETF specification; it describes an existing implementation. It is provided in order to facilitate interoperable implementations and third-party diagnostics.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8494"/>
+  <seriesInfo name="RFC" value="8494"/>
 </reference>

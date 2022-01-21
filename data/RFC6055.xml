@@ -1,13 +1,20 @@
 <reference anchor="RFC6055" target="https://www.rfc-editor.org/info/rfc6055">
   <front>
     <title>IAB Thoughts on Encodings for Internationalized Domain Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6055"/>
-    <author fullname="D. Thaler"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="S. Cheshire"/>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
-    <keyword>Unicode</keyword>
-    <keyword>UTF-8,</keyword>
-    <abstract>This document explores issues with Internationalized Domain Names (IDNs) that result from the use of various encoding schemes such as UTF-8 and the ASCII-Compatible Encoding produced by the Punycode algorithm.  It focuses on the importance of agreeing on a single encoding and how complicated the state of affairs ends up being as a result of using different encodings today.</abstract>
+    <abstract>
+      <t>This document explores issues with Internationalized Domain Names (IDNs) that result from the use of various encoding schemes such as UTF-8 and the ASCII-Compatible Encoding produced by the Punycode algorithm.  It focuses on the importance of agreeing on a single encoding and how complicated the state of affairs ends up being as a result of using different encodings today.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6055"/>
+  <seriesInfo name="RFC" value="6055"/>
 </reference>

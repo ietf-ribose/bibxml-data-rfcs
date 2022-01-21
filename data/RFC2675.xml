@@ -1,17 +1,21 @@
 <reference anchor="RFC2675" target="https://www.rfc-editor.org/info/rfc2675">
   <front>
     <title>IPv6 Jumbograms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2675"/>
-    <author fullname="D. Borman"/>
-    <author fullname="S. Deering"/>
-    <author fullname="R. Hinden"/>
+    <author fullname="D. Borman" initials="D." surname="Borman">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>packet</keyword>
-    <keyword>payload</keyword>
-    <keyword>link</keyword>
-    <abstract>This document describes the IPv6 Jumbo Payload option, which provides the means of specifying such large payload lengths.  It also describes the changes needed to TCP and UDP to make use of jumbograms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the IPv6 Jumbo Payload option, which provides the means of specifying such large payload lengths.  It also describes the changes needed to TCP and UDP to make use of jumbograms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2675"/>
+  <seriesInfo name="RFC" value="2675"/>
 </reference>

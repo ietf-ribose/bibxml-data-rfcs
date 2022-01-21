@@ -1,18 +1,28 @@
 <reference anchor="RFC8915" target="https://www.rfc-editor.org/info/rfc8915">
   <front>
     <title>Network Time Security for the Network Time Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8915"/>
-    <author fullname="D. Franke"/>
-    <author fullname="D. Sibold"/>
-    <author fullname="K. Teichel"/>
-    <author fullname="M. Dansarie"/>
-    <author fullname="R. Sundblad"/>
+    <author fullname="D. Franke" initials="D." surname="Franke">
+      <organization/>
+    </author>
+    <author fullname="D. Sibold" initials="D." surname="Sibold">
+      <organization/>
+    </author>
+    <author fullname="K. Teichel" initials="K." surname="Teichel">
+      <organization/>
+    </author>
+    <author fullname="M. Dansarie" initials="M." surname="Dansarie">
+      <organization/>
+    </author>
+    <author fullname="R. Sundblad" initials="R." surname="Sundblad">
+      <organization/>
+    </author>
     <date year="2020" month="September"/>
     <workgroup>ntp</workgroup>
-    <keyword>Integrity</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>NTP</keyword>
-    <keyword>Security</keyword>
-    <abstract>This memo specifies Network Time Security (NTS), a mechanism for using Transport Layer Security (TLS) and Authenticated Encryption with Associated Data (AEAD) to provide cryptographic security for the client-server mode of the Network Time Protocol (NTP). NTS is structured as a suite of two loosely coupled sub-protocols. The first (NTS Key Establishment (NTS-KE)) handles initial authentication and key establishment over TLS. The second (NTS Extension Fields for NTPv4) handles encryption and authentication during NTP time synchronization via extension fields in the NTP packets, and holds all required state only on the client via opaque cookies.</abstract>
+    <abstract>
+      <t>This memo specifies Network Time Security (NTS), a mechanism for using Transport Layer Security (TLS) and Authenticated Encryption with Associated Data (AEAD) to provide cryptographic security for the client-server mode of the Network Time Protocol (NTP).</t>
+      <t>NTS is structured as a suite of two loosely coupled sub-protocols. The first (NTS Key Establishment (NTS-KE)) handles initial authentication and key establishment over TLS. The second (NTS Extension Fields for NTPv4) handles encryption and authentication during NTP time synchronization via extension fields in the NTP packets, and holds all required state only on the client via opaque cookies.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8915"/>
+  <seriesInfo name="RFC" value="8915"/>
 </reference>

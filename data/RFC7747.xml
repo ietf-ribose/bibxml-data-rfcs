@@ -1,15 +1,27 @@
 <reference anchor="RFC7747" target="https://www.rfc-editor.org/info/rfc7747">
   <front>
     <title>Basic BGP Convergence Benchmarking Methodology for Data-Plane Convergence</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7747"/>
-    <author fullname="R. Papneja"/>
-    <author fullname="B. Parise"/>
-    <author fullname="S. Hares"/>
-    <author fullname="D. Lee"/>
-    <author fullname="I. Varlashkin"/>
+    <author fullname="R. Papneja" initials="R." surname="Papneja">
+      <organization/>
+    </author>
+    <author fullname="B. Parise" initials="B." surname="Parise">
+      <organization/>
+    </author>
+    <author fullname="S. Hares" initials="S." surname="Hares">
+      <organization/>
+    </author>
+    <author fullname="D. Lee" initials="D." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="I. Varlashkin" initials="I." surname="Varlashkin">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>bmwg</workgroup>
-    <keyword>BMWG</keyword>
-    <abstract>BGP is widely deployed and used by several service providers as the default inter-AS (Autonomous System) routing protocol.  It is of utmost importance to ensure that when a BGP peer or a downstream link of a BGP peer fails, the alternate paths are rapidly used and routes via these alternate paths are installed.  This document provides the basic BGP benchmarking methodology using existing BGP convergence terminology as defined in RFC 4098.</abstract>
+    <abstract>
+      <t>BGP is widely deployed and used by several service providers as the default inter-AS (Autonomous System) routing protocol.  It is of utmost importance to ensure that when a BGP peer or a downstream link of a BGP peer fails, the alternate paths are rapidly used and routes via these alternate paths are installed.  This document provides the basic BGP benchmarking methodology using existing BGP convergence terminology as defined in RFC 4098.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7747"/>
+  <seriesInfo name="RFC" value="7747"/>
 </reference>

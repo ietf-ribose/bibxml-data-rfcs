@@ -1,15 +1,27 @@
 <reference anchor="RFC3571" target="https://www.rfc-editor.org/info/rfc3571">
   <front>
     <title>Framework Policy Information Base for Usage Feedback</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3571"/>
-    <author fullname="D. Rawlins"/>
-    <author fullname="A. Kulkarni"/>
-    <author fullname="K. Ho Chan"/>
-    <author fullname="M. Bokaemper"/>
-    <author fullname="D. Dutt"/>
+    <author fullname="D. Rawlins" initials="D." surname="Rawlins">
+      <organization/>
+    </author>
+    <author fullname="A. Kulkarni" initials="A." surname="Kulkarni">
+      <organization/>
+    </author>
+    <author fullname="K. Ho Chan" initials="K." surname="Ho">
+      <organization/>
+    </author>
+    <author fullname="M. Bokaemper" initials="M." surname="Bokaemper">
+      <organization/>
+    </author>
+    <author fullname="D. Dutt" initials="D." surname="Dutt">
+      <organization/>
+    </author>
     <date year="2003" month="August"/>
     <workgroup>rap</workgroup>
-    <keyword>pib</keyword>
-    <abstract>This document describes a portion of the Policy Information Base (PIB) to control policy usage collection and reporting in a device.  The provisioning classes specified here allow a Policy Decision Point (PDP) to select which policy objects should collect usage information, what information should be collected and when it should be reported.  This PIB requires the presence of other PIBs (defined elsewhere) that provide the policy objects from which usage information is collected.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a portion of the Policy Information Base (PIB) to control policy usage collection and reporting in a device.  The provisioning classes specified here allow a Policy Decision Point (PDP) to select which policy objects should collect usage information, what information should be collected and when it should be reported.  This PIB requires the presence of other PIBs (defined elsewhere) that provide the policy objects from which usage information is collected.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3571"/>
+  <seriesInfo name="RFC" value="3571"/>
 </reference>

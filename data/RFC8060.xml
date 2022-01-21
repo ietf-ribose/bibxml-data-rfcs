@@ -1,13 +1,21 @@
 <reference anchor="RFC8060" target="https://www.rfc-editor.org/info/rfc8060">
   <front>
     <title>LISP Canonical Address Format (LCAF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8060"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="J. Snijders"/>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>lisp</workgroup>
-    <keyword>Locator/ID Separation Protocol</keyword>
-    <abstract>This document defines a canonical address format encoding used in Locator/ID Separation Protocol (LISP) control messages and in the encoding of lookup keys for the LISP Mapping Database System.</abstract>
+    <abstract>
+      <t>This document defines a canonical address format encoding used in Locator/ID Separation Protocol (LISP) control messages and in the encoding of lookup keys for the LISP Mapping Database System.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8060"/>
+  <seriesInfo name="RFC" value="8060"/>
 </reference>

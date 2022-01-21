@@ -1,10 +1,14 @@
 <reference anchor="RFC1079" target="https://www.rfc-editor.org/info/rfc1079">
   <front>
     <title>Telnet terminal speed option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1079"/>
-    <author fullname="C.L. Hedrick"/>
+    <author fullname="C.L. Hedrick" initials="C.L." surname="Hedrick">
+      <organization/>
+    </author>
     <date year="1988" month="December"/>
-    <keyword>TOPT-TS</keyword>
-    <abstract>This RFC specifies a standard for the Internet community.  Hosts on the Internet that exchange terminal speed information within the Telnet protocol are expected to adopt and implement this standard.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that exchange terminal speed information within the Telnet protocol are expected to adopt and implement this standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1079"/>
+  <seriesInfo name="RFC" value="1079"/>
 </reference>

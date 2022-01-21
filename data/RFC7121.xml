@@ -1,15 +1,24 @@
 <reference anchor="RFC7121" target="https://www.rfc-editor.org/info/rfc7121">
   <front>
     <title>High Availability within a Forwarding and Control Element Separation (ForCES) Network Element</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7121"/>
-    <author fullname="K. Ogawa"/>
-    <author fullname="W. Wang"/>
-    <author fullname="E. Haleplidis"/>
-    <author fullname="J. Hadi Salim"/>
+    <author fullname="K. Ogawa" initials="K." surname="Ogawa">
+      <organization/>
+    </author>
+    <author fullname="W. Wang" initials="W." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="E. Haleplidis" initials="E." surname="Haleplidis">
+      <organization/>
+    </author>
+    <author fullname="J. Hadi Salim" initials="J." surname="Hadi">
+      <organization/>
+    </author>
     <date year="2014" month="February"/>
     <workgroup>forces</workgroup>
-    <keyword>ForCES</keyword>
-    <keyword>HA</keyword>
-    <abstract>This document discusses Control Element (CE) High Availability (HA) within a Forwarding and Control Element Separation (ForCES) Network Element (NE).  Additionally, this document updates RFC 5810 by providing new normative text for the Cold Standby High Availability mechanism.</abstract>
+    <abstract>
+      <t>This document discusses Control Element (CE) High Availability (HA) within a Forwarding and Control Element Separation (ForCES) Network Element (NE).  Additionally, this document updates RFC 5810 by providing new normative text for the Cold Standby High Availability mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7121"/>
+  <seriesInfo name="RFC" value="7121"/>
 </reference>

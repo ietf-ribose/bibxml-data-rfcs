@@ -1,15 +1,27 @@
 <reference anchor="RFC9013" target="https://www.rfc-editor.org/info/rfc9013">
   <front>
     <title>OSPF Advertisement of Tunnel Encapsulations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9013"/>
-    <author fullname="X. Xu"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="L. Contreras"/>
-    <author fullname="L. Jalil"/>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="L. Contreras" initials="L." surname="Contreras">
+      <organization/>
+    </author>
+    <author fullname="L. Jalil" initials="L." surname="Jalil">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>ospf</workgroup>
-    <keyword>BGP</keyword>
-    <abstract>Networks use tunnels for a variety of reasons.  A large variety of tunnel types are defined, and the tunnel encapsulator router needs to select a type of tunnel that is supported by the tunnel decapsulator router.  This document defines how to advertise, in OSPF Router Information Link State Advertisements (LSAs), the list of tunnel encapsulations supported by the tunnel decapsulator.</abstract>
+    <abstract>
+      <t>Networks use tunnels for a variety of reasons.  A large variety of tunnel types are defined, and the tunnel encapsulator router needs to select a type of tunnel that is supported by the tunnel decapsulator router.  This document defines how to advertise, in OSPF Router Information Link State Advertisements (LSAs), the list of tunnel encapsulations supported by the tunnel decapsulator.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9013"/>
+  <seriesInfo name="RFC" value="9013"/>
 </reference>

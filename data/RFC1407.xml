@@ -1,16 +1,18 @@
 <reference anchor="RFC1407" target="https://www.rfc-editor.org/info/rfc1407">
   <front>
     <title>Definitions of Managed Objects for the DS3/E3 Interface Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1407"/>
-    <author fullname="T. Cox"/>
-    <author fullname="K. Tesink"/>
+    <author fullname="T. Cox" initials="T." surname="Cox">
+      <organization/>
+    </author>
+    <author fullname="K. Tesink" initials="K." surname="Tesink">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
     <workgroup>trunkmib</workgroup>
-    <keyword>DS3/E3-MIB</keyword>
-    <keyword>T3</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing DS3 and E3 Interfaces. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing DS3 and E3 Interfaces. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1407"/>
+  <seriesInfo name="RFC" value="1407"/>
 </reference>

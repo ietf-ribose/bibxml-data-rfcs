@@ -1,12 +1,18 @@
 <reference anchor="RFC4250" target="https://www.rfc-editor.org/info/rfc4250">
   <front>
     <title>The Secure Shell (SSH) Protocol Assigned Numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4250"/>
-    <author fullname="S. Lehtinen"/>
-    <author fullname="C. Lonvick"/>
+    <author fullname="S. Lehtinen" initials="S." surname="Lehtinen">
+      <organization/>
+    </author>
+    <author fullname="C. Lonvick" initials="C." surname="Lonvick">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>secsh</workgroup>
-    <keyword>remote login</keyword>
-    <abstract>This document defines the instructions to the IANA and the initial state of the IANA assigned numbers for the Secure Shell (SSH) protocol.  It is intended only for the initialization of the IANA registries referenced in the set of SSH documents. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the instructions to the IANA and the initial state of the IANA assigned numbers for the Secure Shell (SSH) protocol.  It is intended only for the initialization of the IANA registries referenced in the set of SSH documents. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4250"/>
+  <seriesInfo name="RFC" value="4250"/>
 </reference>

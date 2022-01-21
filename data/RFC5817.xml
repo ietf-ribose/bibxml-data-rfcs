@@ -1,15 +1,25 @@
 <reference anchor="RFC5817" target="https://www.rfc-editor.org/info/rfc5817">
   <front>
     <title>Graceful Shutdown in MPLS and Generalized MPLS Traffic Engineering Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5817"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="JP. Vasseur"/>
-    <author fullname="A. Zamfir"/>
-    <author fullname="J. Newton"/>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="JP. Vasseur" initials="JP." surname="Vasseur">
+      <organization/>
+    </author>
+    <author fullname="A. Zamfir" initials="A." surname="Zamfir">
+      <organization/>
+    </author>
+    <author fullname="J. Newton" initials="J." surname="Newton">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>ccamp</workgroup>
-    <keyword>mpls-te</keyword>
-    <keyword>te</keyword>
-    <abstract>MPLS-TE Graceful Shutdown is a method for explicitly notifying the nodes in a Traffic Engineering (TE) enabled network that the TE capability on a link or on an entire Label Switching Router (LSR) is going to be disabled. MPLS-TE graceful shutdown mechanisms are tailored toward addressing planned outage in the network. This document provides requirements and protocol mechanisms to reduce or eliminate traffic disruption in the event of a planned shutdown of a network resource. These operations are equally applicable to both MPLS-TE and its Generalized MPLS (GMPLS) extensions. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>MPLS-TE Graceful Shutdown is a method for explicitly notifying the nodes in a Traffic Engineering (TE) enabled network that the TE capability on a link or on an entire Label Switching Router (LSR) is going to be disabled. MPLS-TE graceful shutdown mechanisms are tailored toward addressing planned outage in the network.</t>
+      <t>This document provides requirements and protocol mechanisms to reduce or eliminate traffic disruption in the event of a planned shutdown of a network resource. These operations are equally applicable to both MPLS-TE and its Generalized MPLS (GMPLS) extensions. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5817"/>
+  <seriesInfo name="RFC" value="5817"/>
 </reference>

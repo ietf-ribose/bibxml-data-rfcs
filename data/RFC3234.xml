@@ -1,16 +1,17 @@
 <reference anchor="RFC3234" target="https://www.rfc-editor.org/info/rfc3234">
   <front>
     <title>Middleboxes: Taxonomy and Issues</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3234"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="S. Brim"/>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="S. Brim" initials="S." surname="Brim">
+      <organization/>
+    </author>
     <date year="2002" month="February"/>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>router</keyword>
-    <keyword>data</keyword>
-    <keyword>path</keyword>
-    <keyword>host</keyword>
-    <abstract>This document is intended as part of an IETF discussion about "middleboxes" - defined as any intermediary box performing functions apart from normal, standard functions of an IP router on the data path between a source host and destination host.  This document establishes a catalogue or taxonomy of middleboxes, cites previous and current IETF work concerning middleboxes, and attempts to identify some preliminary conclusions.  It does not, however, claim to be definitive.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is intended as part of an IETF discussion about "middleboxes" - defined as any intermediary box performing functions apart from normal, standard functions of an IP router on the data path between a source host and destination host.  This document establishes a catalogue or taxonomy of middleboxes, cites previous and current IETF work concerning middleboxes, and attempts to identify some preliminary conclusions.  It does not, however, claim to be definitive.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3234"/>
+  <seriesInfo name="RFC" value="3234"/>
 </reference>

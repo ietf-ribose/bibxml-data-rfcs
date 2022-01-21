@@ -1,14 +1,22 @@
 <reference anchor="RFC7075" target="https://www.rfc-editor.org/info/rfc7075">
   <front>
     <title>Realm-Based Redirection In Diameter</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7075"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="R. Hao"/>
-    <author fullname="T. Taylor"/>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="R. Hao" initials="R." surname="Hao">
+      <organization/>
+    </author>
+    <author fullname="T. Taylor" initials="T." surname="Taylor">
+      <organization/>
+    </author>
     <date year="2013" month="November"/>
     <workgroup>dime</workgroup>
-    <keyword>Diameter</keyword>
-    <keyword>routing</keyword>
-    <abstract>The Diameter protocol includes a capability for message redirection, controlled by an application-independent "redirect agent". In some circumstances, an operator may wish to redirect messages to an alternate domain without specifying individual hosts. This document specifies an application-specific mechanism by which a Diameter server or proxy (node) can perform such a redirection when the Straightforward-Naming Authority Pointer (S-NAPTR) is not used for dynamic peer discovery. A node performing this new function is referred to as a "Realm-based Redirect Server". This memo updates Sections 6.13 and 6.14 of RFC 6733 with respect to the usage of the Redirect-Host-Usage and Redirect-Max-Cache-Time Attribute-Value Pairs (AVPs).</abstract>
+    <abstract>
+      <t>The Diameter protocol includes a capability for message redirection, controlled by an application-independent "redirect agent". In some circumstances, an operator may wish to redirect messages to an alternate domain without specifying individual hosts. This document specifies an application-specific mechanism by which a Diameter server or proxy (node) can perform such a redirection when the Straightforward-Naming Authority Pointer (S-NAPTR) is not used for dynamic peer discovery. A node performing this new function is referred to as a "Realm-based Redirect Server".</t>
+      <t>This memo updates Sections 6.13 and 6.14 of RFC 6733 with respect to the usage of the Redirect-Host-Usage and Redirect-Max-Cache-Time Attribute-Value Pairs (AVPs).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7075"/>
+  <seriesInfo name="RFC" value="7075"/>
 </reference>

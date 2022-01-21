@@ -1,17 +1,18 @@
 <reference anchor="RFC3056" target="https://www.rfc-editor.org/info/rfc3056">
   <front>
     <title>Connection of IPv6 Domains via IPv4 Clouds</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3056"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="K. Moore"/>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="K. Moore" initials="K." surname="Moore">
+      <organization/>
+    </author>
     <date year="2001" month="February"/>
     <workgroup>ngtrans</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>wide area</keyword>
-    <keyword>network</keyword>
-    <keyword>unicast</keyword>
-    <keyword>point-to-point</keyword>
-    <abstract>This memo specifies an optional interim mechanism for IPv6 sites to communicate with each other over the IPv4 network without explicit tunnel setup, and for them to communicate with native IPv6 domains via relay routers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies an optional interim mechanism for IPv6 sites to communicate with each other over the IPv4 network without explicit tunnel setup, and for them to communicate with native IPv6 domains via relay routers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3056"/>
+  <seriesInfo name="RFC" value="3056"/>
 </reference>

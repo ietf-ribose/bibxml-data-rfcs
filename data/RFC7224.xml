@@ -1,13 +1,15 @@
 <reference anchor="RFC7224" target="https://www.rfc-editor.org/info/rfc7224">
   <front>
     <title>IANA Interface Type YANG Module</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7224"/>
-    <author fullname="M. Bjorklund"/>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>netmod</workgroup>
-    <keyword>yang</keyword>
-    <keyword>netconf</keyword>
-    <keyword>iana-if-type</keyword>
-    <abstract>This document defines the initial version of the iana-if-type YANG module.</abstract>
+    <abstract>
+      <t>This document defines the initial version of the iana-if-type YANG module.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7224"/>
+  <seriesInfo name="RFC" value="7224"/>
 </reference>

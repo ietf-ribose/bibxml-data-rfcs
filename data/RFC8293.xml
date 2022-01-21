@@ -1,18 +1,27 @@
 <reference anchor="RFC8293" target="https://www.rfc-editor.org/info/rfc8293">
   <front>
     <title>A Framework for Multicast in Network Virtualization over Layer 3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8293"/>
-    <author fullname="A. Ghanwani"/>
-    <author fullname="L. Dunbar"/>
-    <author fullname="M. McBride"/>
-    <author fullname="V. Bannai"/>
-    <author fullname="R. Krishnan"/>
+    <author fullname="A. Ghanwani" initials="A." surname="Ghanwani">
+      <organization/>
+    </author>
+    <author fullname="L. Dunbar" initials="L." surname="Dunbar">
+      <organization/>
+    </author>
+    <author fullname="M. McBride" initials="M." surname="McBride">
+      <organization/>
+    </author>
+    <author fullname="V. Bannai" initials="V." surname="Bannai">
+      <organization/>
+    </author>
+    <author fullname="R. Krishnan" initials="R." surname="Krishnan">
+      <organization/>
+    </author>
     <date year="2018" month="January"/>
     <workgroup>nvo3</workgroup>
-    <keyword>NVO3</keyword>
-    <keyword>VXLAN</keyword>
-    <keyword>Geneve</keyword>
-    <keyword>NVGRE</keyword>
-    <abstract>This document provides a framework for supporting multicast traffic in a network that uses Network Virtualization over Layer 3 (NVO3).  Both infrastructure multicast and application-specific multicast are discussed.  It describes the various mechanisms that can be used for delivering such traffic as well as the data plane and control plane considerations for each of the mechanisms.</abstract>
+    <abstract>
+      <t>This document provides a framework for supporting multicast traffic in a network that uses Network Virtualization over Layer 3 (NVO3).  Both infrastructure multicast and application-specific multicast are discussed.  It describes the various mechanisms that can be used for delivering such traffic as well as the data plane and control plane considerations for each of the mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8293"/>
+  <seriesInfo name="RFC" value="8293"/>
 </reference>

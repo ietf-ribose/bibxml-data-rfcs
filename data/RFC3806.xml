@@ -1,13 +1,20 @@
 <reference anchor="RFC3806" target="https://www.rfc-editor.org/info/rfc3806">
   <front>
     <title>Printer Finishing MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3806"/>
-    <author fullname="R. Bergman"/>
-    <author fullname="H. Lewis"/>
-    <author fullname="I. McDonald"/>
+    <author fullname="R. Bergman" initials="R." surname="Bergman">
+      <organization/>
+    </author>
+    <author fullname="H. Lewis" initials="H." surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="I. McDonald" initials="I." surname="McDonald">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
-    <keyword>finisher</keyword>
-    <keyword>snmp</keyword>
-    <abstract>This document defines a MIB module for the management of printer finishing device subunits.  The finishing device subunits applicable to this MIB are an integral part of the Printer System.  This MIB applies only to a Finisher Device that is connected to a Printer System.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines a MIB module for the management of printer finishing device subunits.  The finishing device subunits applicable to this MIB are an integral part of the Printer System.  This MIB applies only to a Finisher Device that is connected to a Printer System.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3806"/>
+  <seriesInfo name="RFC" value="3806"/>
 </reference>

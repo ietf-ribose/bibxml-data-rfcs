@@ -1,15 +1,21 @@
 <reference anchor="RFC4681" target="https://www.rfc-editor.org/info/rfc4681">
   <front>
     <title>TLS User Mapping Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4681"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="A. Medvinsky"/>
-    <author fullname="J. Ball"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="A. Medvinsky" initials="A." surname="Medvinsky">
+      <organization/>
+    </author>
+    <author fullname="J. Ball" initials="J." surname="Ball">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>transport layer security</keyword>
-    <keyword>handshake message</keyword>
-    <keyword>upndomainhint</keyword>
-    <abstract>This document specifies a TLS extension that enables clients to send generic user mapping hints in a supplemental data handshake message defined in RFC 4680.  One such mapping hint is defined in an informative section, the UpnDomainHint, which may be used by a server to locate a user in a directory database.  Other mapping hints may be defined in other documents in the future. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a TLS extension that enables clients to send generic user mapping hints in a supplemental data handshake message defined in RFC 4680.  One such mapping hint is defined in an informative section, the UpnDomainHint, which may be used by a server to locate a user in a directory database.  Other mapping hints may be defined in other documents in the future. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4681"/>
+  <seriesInfo name="RFC" value="4681"/>
 </reference>

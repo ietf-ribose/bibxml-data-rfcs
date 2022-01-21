@@ -1,10 +1,17 @@
 <reference anchor="RFC0943" target="https://www.rfc-editor.org/info/rfc943">
   <front>
     <title>Assigned numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0943"/>
-    <author fullname="J.K. Reynolds"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J.K. Reynolds" initials="J.K." surname="Reynolds">
+      <organization/>
+    </author>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1985" month="April"/>
-    <abstract>This Network Working Group Request for Comments documents the currently assigned values from several series of numbers used in network protocol implementations.  This RFC will be updated periodically, and in any case current information can be obtained from Joyce Reynolds.  The assignment of numbers is also handled by Joyce.  If you are developing a protocol or application that will require the use of a link, socket, port, protocol, network number, etc., please contact Joyce to receive a number assignment.  This memo is an official status report on the numbers used in protocols in the ARPA-Internet community.  See RFC-990 and 997.</abstract>
+    <abstract>
+      <t>This Network Working Group Request for Comments documents the currently assigned values from several series of numbers used in network protocol implementations.  This RFC will be updated periodically, and in any case current information can be obtained from Joyce Reynolds.  The assignment of numbers is also handled by Joyce.  If you are developing a protocol or application that will require the use of a link, socket, port, protocol, network number, etc., please contact Joyce to receive a number assignment.  This memo is an official status report on the numbers used in protocols in the ARPA-Internet community.  See RFC-990 and 997.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0943"/>
+  <seriesInfo name="RFC" value="943"/>
 </reference>

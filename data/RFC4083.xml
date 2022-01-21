@@ -1,13 +1,15 @@
 <reference anchor="RFC4083" target="https://www.rfc-editor.org/info/rfc4083">
   <front>
     <title>Input 3rd-Generation Partnership Project (3GPP) Release 5 Requirements on the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4083"/>
-    <author fullname="M. Garcia-Martin"/>
+    <author fullname="M. Garcia-Martin" initials="M." surname="Garcia-Martin">
+      <organization/>
+    </author>
     <date year="2005" month="May"/>
     <workgroup>sipping</workgroup>
-    <keyword>3GPP IP multimedia core network subsystem</keyword>
-    <keyword>ims</keyword>
-    <keyword>cellular networks</keyword>
-    <abstract>The 3rd-Generation Partnership Project (3GPP) has selected Session Initiation Protocol (SIP) as the session establishment protocol for the 3GPP IP Multimedia Core Network Subsystem (IMS).  IMS is part of Release 5 of the 3GPP specifications.  Although SIP is a protocol that fulfills most of the requirements for establishing a session in an IP network, SIP has never been evaluated against the specific 3GPP requirements for operation in a cellular network.  In this document, we express the requirements identified by 3GPP to support SIP for Release 5 of the 3GPP IMS in cellular networks.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The 3rd-Generation Partnership Project (3GPP) has selected Session Initiation Protocol (SIP) as the session establishment protocol for the 3GPP IP Multimedia Core Network Subsystem (IMS).  IMS is part of Release 5 of the 3GPP specifications.  Although SIP is a protocol that fulfills most of the requirements for establishing a session in an IP network, SIP has never been evaluated against the specific 3GPP requirements for operation in a cellular network.  In this document, we express the requirements identified by 3GPP to support SIP for Release 5 of the 3GPP IMS in cellular networks.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4083"/>
+  <seriesInfo name="RFC" value="4083"/>
 </reference>

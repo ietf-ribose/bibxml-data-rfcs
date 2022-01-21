@@ -1,15 +1,24 @@
 <reference anchor="RFC3458" target="https://www.rfc-editor.org/info/rfc3458">
   <front>
     <title>Message Context for Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3458"/>
-    <author fullname="E. Burger"/>
-    <author fullname="E. Candell"/>
-    <author fullname="C. Eliot"/>
-    <author fullname="G. Klyne"/>
+    <author fullname="E. Burger" initials="E." surname="Burger">
+      <organization/>
+    </author>
+    <author fullname="E. Candell" initials="E." surname="Candell">
+      <organization/>
+    </author>
+    <author fullname="C. Eliot" initials="C." surname="Eliot">
+      <organization/>
+    </author>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
     <date year="2003" month="January"/>
     <workgroup>vpim</workgroup>
-    <keyword>user agent</keyword>
-    <keyword>ua</keyword>
-    <abstract>This memo describes a new RFC 2822 message header, "Message-Context".  This header provides information about the context and presentation characteristics of a message.  A receiving user agent (UA) may use this information as a hint to optimally present the message. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a new RFC 2822 message header, "Message-Context".  This header provides information about the context and presentation characteristics of a message.  A receiving user agent (UA) may use this information as a hint to optimally present the message. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3458"/>
+  <seriesInfo name="RFC" value="3458"/>
 </reference>

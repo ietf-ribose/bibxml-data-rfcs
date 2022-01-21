@@ -1,11 +1,18 @@
 <reference anchor="RFC8162" target="https://www.rfc-editor.org/info/rfc8162">
   <front>
     <title>Using Secure DNS to Associate Certificates with Domain Names for S/MIME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8162"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="J. Schlyter"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="J. Schlyter" initials="J." surname="Schlyter">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
     <workgroup>dane</workgroup>
-    <abstract>This document describes how to use secure DNS to associate an S/MIME user's certificate with the intended domain name, similar to the way that DNS-Based Authentication of Named Entities (DANE), RFC 6698, does for TLS.</abstract>
+    <abstract>
+      <t>This document describes how to use secure DNS to associate an S/MIME user's certificate with the intended domain name, similar to the way that DNS-Based Authentication of Named Entities (DANE), RFC 6698, does for TLS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8162"/>
+  <seriesInfo name="RFC" value="8162"/>
 </reference>

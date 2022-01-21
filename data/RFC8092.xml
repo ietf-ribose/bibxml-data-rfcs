@@ -1,18 +1,27 @@
 <reference anchor="RFC8092" target="https://www.rfc-editor.org/info/rfc8092">
   <front>
     <title>BGP Large Communities Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8092"/>
-    <author fullname="J. Heitz"/>
-    <author fullname="J. Snijders"/>
-    <author fullname="K. Patel"/>
-    <author fullname="I. Bagdonas"/>
-    <author fullname="N. Hilliard"/>
+    <author fullname="J. Heitz" initials="J." surname="Heitz">
+      <organization/>
+    </author>
+    <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="I. Bagdonas" initials="I." surname="Bagdonas">
+      <organization/>
+    </author>
+    <author fullname="N. Hilliard" initials="N." surname="Hilliard">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP</keyword>
-    <keyword>large</keyword>
-    <keyword>communities</keyword>
-    <keyword>four-octet</keyword>
-    <abstract>This document describes the BGP Large Communities attribute, an extension to BGP-4.  This attribute provides a mechanism to signal opaque information within separate namespaces to aid in routing management.  The attribute is suitable for use with all Autonomous System Numbers (ASNs) including four-octet ASNs.</abstract>
+    <abstract>
+      <t>This document describes the BGP Large Communities attribute, an extension to BGP-4.  This attribute provides a mechanism to signal opaque information within separate namespaces to aid in routing management.  The attribute is suitable for use with all Autonomous System Numbers (ASNs) including four-octet ASNs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8092"/>
+  <seriesInfo name="RFC" value="8092"/>
 </reference>

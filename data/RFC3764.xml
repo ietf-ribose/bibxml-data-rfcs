@@ -1,12 +1,15 @@
 <reference anchor="RFC3764" target="https://www.rfc-editor.org/info/rfc3764">
   <front>
     <title>enumservice registration for Session Initiation Protocol (SIP) Addresses-of-Record</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3764"/>
-    <author fullname="J. Peterson"/>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
     <date year="2004" month="April"/>
     <workgroup>enum</workgroup>
-    <keyword>aor</keyword>
-    <keyword>electronic number</keyword>
-    <abstract>This document registers an Electronic Number (ENUM) service for the Session Initiation Protocol (SIP), pursuant to the guidelines in RFC 3761.  Specifically, this document focuses on provisioning SIP addresses-of-record in ENUM. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document registers an Electronic Number (ENUM) service for the Session Initiation Protocol (SIP), pursuant to the guidelines in RFC 3761.  Specifically, this document focuses on provisioning SIP addresses-of-record in ENUM. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3764"/>
+  <seriesInfo name="RFC" value="3764"/>
 </reference>

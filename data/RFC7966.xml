@@ -1,15 +1,24 @@
 <reference anchor="RFC7966" target="https://www.rfc-editor.org/info/rfc7966">
   <front>
     <title>Security at the Attribute-Value Pair (AVP) Level for Non-neighboring Diameter Nodes: Scenarios and Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7966"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="K. Pillay"/>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="K. Pillay" initials="K." surname="Pillay">
+      <organization/>
+    </author>
     <date year="2016" month="September"/>
     <workgroup>dime</workgroup>
-    <keyword>Diameter</keyword>
-    <keyword>End-to-End Security</keyword>
-    <abstract>This specification specifies requirements for providing Diameter security at the level of individual Attribute-Value Pairs (AVPs).</abstract>
+    <abstract>
+      <t>This specification specifies requirements for providing Diameter security at the level of individual Attribute-Value Pairs (AVPs).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7966"/>
+  <seriesInfo name="RFC" value="7966"/>
 </reference>

@@ -1,17 +1,22 @@
 <reference anchor="RFC5302" target="https://www.rfc-editor.org/info/rfc5302">
   <front>
     <title>Domain-Wide Prefix Distribution with Two-Level IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5302"/>
-    <author fullname="T. Li"/>
-    <author fullname="H. Smit"/>
-    <author fullname="T. Przygienda"/>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="H. Smit" initials="H." surname="Smit">
+      <organization/>
+    </author>
+    <author fullname="T. Przygienda" initials="T." surname="Przygienda">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <keyword>routers</keyword>
-    <keyword>loops</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet protocol</keyword>
-    <abstract>This document describes extensions to the Intermediate System to Intermediate System (IS-IS) protocol to support optimal routing within a two-level domain. The IS-IS protocol is specified in ISO 10589, with extensions for supporting IPv4 (Internet Protocol) specified in RFC 1195. This document replaces RFC 2966. This document extends the semantics presented in RFC 1195 so that a routing domain running with both level 1 and level 2 Intermediate Systems (IS) (routers) can distribute IP prefixes between level 1 and level 2, and vice versa. This distribution requires certain restrictions to ensure that persistent forwarding loops do not form. The goal of this domain-wide prefix distribution is to increase the granularity of the routing information within the domain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes extensions to the Intermediate System to Intermediate System (IS-IS) protocol to support optimal routing within a two-level domain. The IS-IS protocol is specified in ISO 10589, with extensions for supporting IPv4 (Internet Protocol) specified in RFC 1195. This document replaces RFC 2966.</t>
+      <t>This document extends the semantics presented in RFC 1195 so that a routing domain running with both level 1 and level 2 Intermediate Systems (IS) (routers) can distribute IP prefixes between level 1 and level 2, and vice versa. This distribution requires certain restrictions to ensure that persistent forwarding loops do not form. The goal of this domain-wide prefix distribution is to increase the granularity of the routing information within the domain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5302"/>
+  <seriesInfo name="RFC" value="5302"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC8809" target="https://www.rfc-editor.org/info/rfc8809">
   <front>
     <title>Registries for Web Authentication (WebAuthn)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8809"/>
-    <author fullname="J. Hodges"/>
-    <author fullname="G. Mandyam"/>
-    <author fullname="M. Jones"/>
+    <author fullname="J. Hodges" initials="J." surname="Hodges">
+      <organization/>
+    </author>
+    <author fullname="G. Mandyam" initials="G." surname="Mandyam">
+      <organization/>
+    </author>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
     <date year="2020" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>webauthn</keyword>
-    <keyword>attestation</keyword>
-    <keyword>extensions</keyword>
-    <keyword>registry</keyword>
-    <abstract>This specification defines IANA registries for W3C Web Authentication (WebAuthn) attestation statement format identifiers and extension identifiers.</abstract>
+    <abstract>
+      <t>This specification defines IANA registries for W3C Web Authentication (WebAuthn) attestation statement format identifiers and extension identifiers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8809"/>
+  <seriesInfo name="RFC" value="8809"/>
 </reference>

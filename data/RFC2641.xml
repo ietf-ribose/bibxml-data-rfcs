@@ -1,15 +1,17 @@
 <reference anchor="RFC2641" target="https://www.rfc-editor.org/info/rfc2641">
   <front>
     <title>Cabletron's VlanHello Protocol Specification Version 4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2641"/>
-    <author fullname="D. Hamilton"/>
-    <author fullname="D. Ruffen"/>
+    <author fullname="D. Hamilton" initials="D." surname="Hamilton">
+      <organization/>
+    </author>
+    <author fullname="D. Ruffen" initials="D." surname="Ruffen">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
-    <keyword>ISMP</keyword>
-    <keyword>inter switch</keyword>
-    <keyword>message</keyword>
-    <keyword>protocol</keyword>
-    <keyword>switches</keyword>
-    <abstract>The VlanHello protocol is part of the InterSwitch Message Protocol (ISMP) which provides interswitch communication between switches running Cabletron's SecureFast VLAN (SFVLAN) product.  Switches use the VlanHello protocol to discover their neighboring switches and establish the topology of the switch fabric.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The VlanHello protocol is part of the InterSwitch Message Protocol (ISMP) which provides interswitch communication between switches running Cabletron's SecureFast VLAN (SFVLAN) product.  Switches use the VlanHello protocol to discover their neighboring switches and establish the topology of the switch fabric.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2641"/>
+  <seriesInfo name="RFC" value="2641"/>
 </reference>

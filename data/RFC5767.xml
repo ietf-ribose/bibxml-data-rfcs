@@ -1,16 +1,21 @@
 <reference anchor="RFC5767" target="https://www.rfc-editor.org/info/rfc5767">
   <front>
     <title>User-Agent-Driven Privacy Mechanism for SIP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5767"/>
-    <author fullname="M. Munakata"/>
-    <author fullname="S. Schubert"/>
-    <author fullname="T. Ohba"/>
+    <author fullname="M. Munakata" initials="M." surname="Munakata">
+      <organization/>
+    </author>
+    <author fullname="S. Schubert" initials="S." surname="Schubert">
+      <organization/>
+    </author>
+    <author fullname="T. Ohba" initials="T." surname="Ohba">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>sip</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>IMS</keyword>
-    <keyword>privacy</keyword>
-    <keyword>guidelines</keyword>
-    <abstract>This document defines a guideline for a User Agent (UA) to generate an anonymous Session Initiation Protocol (SIP) message by utilizing mechanisms such as Globally Routable User Agent URIs (GRUUs) and Traversal Using Relays around NAT (TURN) without the need for a privacy service defined in RFC 3323.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document defines a guideline for a User Agent (UA) to generate an anonymous Session Initiation Protocol (SIP) message by utilizing mechanisms such as Globally Routable User Agent URIs (GRUUs) and Traversal Using Relays around NAT (TURN) without the need for a privacy service defined in RFC 3323.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5767"/>
+  <seriesInfo name="RFC" value="5767"/>
 </reference>

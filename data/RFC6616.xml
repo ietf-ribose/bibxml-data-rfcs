@@ -1,14 +1,24 @@
 <reference anchor="RFC6616" target="https://www.rfc-editor.org/info/rfc6616">
   <front>
     <title>A Simple Authentication and Security Layer (SASL) and Generic Security Service Application Program Interface (GSS-API) Mechanism for OpenID</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6616"/>
-    <author fullname="E. Lear"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="H. Mauldin"/>
-    <author fullname="S. Josefsson"/>
+    <author fullname="E. Lear" initials="E." surname="Lear">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="H. Mauldin" initials="H." surname="Mauldin">
+      <organization/>
+    </author>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
     <date year="2012" month="May"/>
     <workgroup>kitten</workgroup>
-    <keyword>web single sign-on</keyword>
-    <abstract>OpenID has found its usage on the Internet for Web Single Sign-On.  Simple Authentication and Security Layer (SASL) and the Generic Security Service Application Program Interface (GSS-API) are application frameworks to generalize authentication.  This memo specifies a SASL and GSS-API mechanism for OpenID that allows the integration of existing OpenID Identity Providers with applications using SASL and GSS-API. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>OpenID has found its usage on the Internet for Web Single Sign-On.  Simple Authentication and Security Layer (SASL) and the Generic Security Service Application Program Interface (GSS-API) are application frameworks to generalize authentication.  This memo specifies a SASL and GSS-API mechanism for OpenID that allows the integration of existing OpenID Identity Providers with applications using SASL and GSS-API. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6616"/>
+  <seriesInfo name="RFC" value="6616"/>
 </reference>

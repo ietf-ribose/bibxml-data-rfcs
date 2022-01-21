@@ -1,13 +1,15 @@
 <reference anchor="RFC6713" target="https://www.rfc-editor.org/info/rfc6713">
   <front>
     <title>The 'application/zlib' and 'application/gzip' Media Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6713"/>
-    <author fullname="J. Levine"/>
+    <author fullname="J. Levine" initials="J." surname="Levine">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>compress</keyword>
-    <keyword>deflate</keyword>
-    <keyword>stream compression</keyword>
-    <abstract>This document defines the 'application/gzip' and 'application/zlib' media types for compressed data using the gzip and zlib compression formats.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document defines the 'application/gzip' and 'application/zlib' media types for compressed data using the gzip and zlib compression formats.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6713"/>
+  <seriesInfo name="RFC" value="6713"/>
 </reference>

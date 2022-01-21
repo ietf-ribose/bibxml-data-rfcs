@@ -1,15 +1,15 @@
 <reference anchor="RFC2984" target="https://www.rfc-editor.org/info/rfc2984">
   <front>
     <title>Use of the CAST-128 Encryption Algorithm in CMS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2984"/>
-    <author fullname="C. Adams"/>
+    <author fullname="C. Adams" initials="C." surname="Adams">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>smime</workgroup>
-    <keyword>cryptographic</keyword>
-    <keyword>message</keyword>
-    <keyword>syntax</keyword>
-    <keyword>security</keyword>
-    <keyword>cipher</keyword>
-    <abstract>This document specifies how to incorporate CAST-128 into the S/MIME Cryptographic Message Syntax (CMS) as an additional algorithm for symmetric encryption. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how to incorporate CAST-128 into the S/MIME Cryptographic Message Syntax (CMS) as an additional algorithm for symmetric encryption. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2984"/>
+  <seriesInfo name="RFC" value="2984"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC3075" target="https://www.rfc-editor.org/info/rfc3075">
   <front>
     <title>XML-Signature Syntax and Processing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3075"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="J. Reagle"/>
-    <author fullname="D. Solo"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="J. Reagle" initials="J." surname="Reagle">
+      <organization/>
+    </author>
+    <author fullname="D. Solo" initials="D." surname="Solo">
+      <organization/>
+    </author>
     <date year="2001" month="March"/>
     <workgroup>xmldsig</workgroup>
-    <keyword>extensible</keyword>
-    <keyword>markup</keyword>
-    <keyword>language</keyword>
-    <abstract>This document specifies XML (Extensible Markup Language) digital signature processing rules and syntax. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies XML (Extensible Markup Language) digital signature processing rules and syntax. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3075"/>
+  <seriesInfo name="RFC" value="3075"/>
 </reference>

@@ -1,18 +1,26 @@
 <reference anchor="RFC2105" target="https://www.rfc-editor.org/info/rfc2105">
   <front>
     <title>Cisco Systems' Tag Switching Architecture Overview</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2105"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="B. Davie"/>
-    <author fullname="D. Katz"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="G. Swallow"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
     <date year="1997" month="February"/>
-    <keyword>network</keyword>
-    <keyword>layer</keyword>
-    <keyword>packet</keyword>
-    <keyword>ATM</keyword>
-    <keyword>switches</keyword>
-    <abstract>This document provides an overview of a novel approach to network layer packet forwarding, called tag switching.  The two main components of the tag switching architecture - forwarding and control - are described.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document provides an overview of a novel approach to network layer packet forwarding, called tag switching.  The two main components of the tag switching architecture - forwarding and control - are described.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2105"/>
+  <seriesInfo name="RFC" value="2105"/>
 </reference>

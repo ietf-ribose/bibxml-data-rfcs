@@ -1,16 +1,21 @@
 <reference anchor="RFC2908" target="https://www.rfc-editor.org/info/rfc2908">
   <front>
     <title>The Internet Multicast Address Allocation Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2908"/>
-    <author fullname="D. Thaler"/>
-    <author fullname="M. Handley"/>
-    <author fullname="D. Estrin"/>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="D. Estrin" initials="D." surname="Estrin">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>malloc</workgroup>
-    <keyword>MALLOC</keyword>
-    <keyword>host server</keyword>
-    <keyword>intra-domain</keyword>
-    <keyword>inter-domain</keyword>
-    <abstract>This document proposes a multicast address allocation architecture (MALLOC) for the Internet.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document proposes a multicast address allocation architecture (MALLOC) for the Internet.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2908"/>
+  <seriesInfo name="RFC" value="2908"/>
 </reference>

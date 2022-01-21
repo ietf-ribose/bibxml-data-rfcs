@@ -1,16 +1,27 @@
 <reference anchor="RFC6345" target="https://www.rfc-editor.org/info/rfc6345">
   <front>
     <title>Protocol for Carrying Authentication for Network Access (PANA) Relay Element</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6345"/>
-    <author fullname="P. Duffy"/>
-    <author fullname="S. Chakrabarti"/>
-    <author fullname="R. Cragie"/>
-    <author fullname="Y. Ohba"/>
-    <author fullname="A. Yegin"/>
+    <author fullname="P. Duffy" initials="P." surname="Duffy">
+      <organization/>
+    </author>
+    <author fullname="S. Chakrabarti" initials="S." surname="Chakrabarti">
+      <organization/>
+    </author>
+    <author fullname="R. Cragie" initials="R." surname="Cragie">
+      <organization/>
+    </author>
+    <author fullname="Y. Ohba" initials="Y." surname="Ohba">
+      <organization/>
+    </author>
+    <author fullname="A. Yegin" initials="A." surname="Yegin">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>EAP</keyword>
-    <keyword>ZigBee</keyword>
-    <abstract>This document specifies Protocol for carrying Authentication for Network Access (PANA) Relay Element functionality, which enables PANA messaging between a PANA Client (PaC) and a PANA Authentication Agent (PAA) where the two nodes cannot reach each other by means of regular IP routing. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies Protocol for carrying Authentication for Network Access (PANA) Relay Element functionality, which enables PANA messaging between a PANA Client (PaC) and a PANA Authentication Agent (PAA) where the two nodes cannot reach each other by means of regular IP routing. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6345"/>
+  <seriesInfo name="RFC" value="6345"/>
 </reference>

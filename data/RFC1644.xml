@@ -1,13 +1,14 @@
 <reference anchor="RFC1644" target="https://www.rfc-editor.org/info/rfc1644">
   <front>
     <title>T/TCP -- TCP Extensions for Transactions Functional Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1644"/>
-    <author fullname="R. Braden"/>
+    <author fullname="R. Braden" initials="R." surname="Braden">
+      <organization/>
+    </author>
     <date year="1994" month="July"/>
-    <keyword>T/TCP</keyword>
-    <keyword>Transmission</keyword>
-    <keyword>Control</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo specifies T/TCP, an experimental TCP extension for efficient transaction-oriented (request/response) service.  This memo describes an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo specifies T/TCP, an experimental TCP extension for efficient transaction-oriented (request/response) service.  This memo describes an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1644"/>
+  <seriesInfo name="RFC" value="1644"/>
 </reference>

@@ -1,12 +1,14 @@
 <reference anchor="RFC3018" target="https://www.rfc-editor.org/info/rfc3018">
   <front>
     <title>Unified Memory Space Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3018"/>
-    <author fullname="A. Bogdanov"/>
+    <author fullname="A. Bogdanov" initials="A." surname="Bogdanov">
+      <organization/>
+    </author>
     <date year="2000" month="December"/>
-    <keyword>UMSP</keyword>
-    <keyword>network</keyword>
-    <keyword>connection-oriented</keyword>
-    <abstract>This document specifies Unified Memory Space Protocol (UMSP), which gives a capability of immediate access to memory of the remote nodes.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies Unified Memory Space Protocol (UMSP), which gives a capability of immediate access to memory of the remote nodes.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3018"/>
+  <seriesInfo name="RFC" value="3018"/>
 </reference>

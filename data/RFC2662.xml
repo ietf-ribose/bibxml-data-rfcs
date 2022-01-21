@@ -1,14 +1,18 @@
 <reference anchor="RFC2662" target="https://www.rfc-editor.org/info/rfc2662">
   <front>
     <title>Definitions of Managed Objects for the ADSL Lines</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2662"/>
-    <author fullname="G. Bathrick"/>
-    <author fullname="F. Ly"/>
+    <author fullname="G. Bathrick" initials="G." surname="Bathrick">
+      <organization/>
+    </author>
+    <author fullname="F. Ly" initials="F." surname="Ly">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>adslmib</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>management information</keyword>
-    <keyword>base</keyword>
-    <abstract>This document defines a standard SNMP MIB for ADSL lines based on the ADSL Forum standard data model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a standard SNMP MIB for ADSL lines based on the ADSL Forum standard data model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2662"/>
+  <seriesInfo name="RFC" value="2662"/>
 </reference>

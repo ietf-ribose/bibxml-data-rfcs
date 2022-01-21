@@ -1,12 +1,18 @@
 <reference anchor="RFC7482" target="https://www.rfc-editor.org/info/rfc7482">
   <front>
     <title>Registration Data Access Protocol (RDAP) Query Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7482"/>
-    <author fullname="A. Newton"/>
-    <author fullname="S. Hollenbeck"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
+    <author fullname="S. Hollenbeck" initials="S." surname="Hollenbeck">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>weirds</workgroup>
-    <keyword>WHOIS</keyword>
-    <abstract>This document describes uniform patterns to construct HTTP URLs that may be used to retrieve registration information from registries (including both Regional Internet Registries (RIRs) and Domain Name Registries (DNRs)) using "RESTful" web access patterns.  These uniform patterns define the query syntax for the Registration Data Access Protocol (RDAP).</abstract>
+    <abstract>
+      <t>This document describes uniform patterns to construct HTTP URLs that may be used to retrieve registration information from registries (including both Regional Internet Registries (RIRs) and Domain Name Registries (DNRs)) using "RESTful" web access patterns.  These uniform patterns define the query syntax for the Registration Data Access Protocol (RDAP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7482"/>
+  <seriesInfo name="RFC" value="7482"/>
 </reference>

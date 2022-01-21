@@ -1,10 +1,14 @@
 <reference anchor="RFC2942" target="https://www.rfc-editor.org/info/rfc2942">
   <front>
     <title>Telnet Authentication: Kerberos Version 5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2942"/>
-    <author fullname="T. Ts'o"/>
+    <author fullname="T. Ts'o" initials="T." surname="Ts'o">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>encryption</keyword>
-    <abstract>This document describes how Kerberos Version 5 is used with the telnet protocol.  It describes an telnet authentication suboption to be used with the telnet authentication option. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how Kerberos Version 5 is used with the telnet protocol.  It describes an telnet authentication suboption to be used with the telnet authentication option. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2942"/>
+  <seriesInfo name="RFC" value="2942"/>
 </reference>

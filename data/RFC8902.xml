@@ -1,17 +1,26 @@
 <reference anchor="RFC8902" target="https://www.rfc-editor.org/info/rfc8902">
   <front>
     <title>TLS Authentication Using Intelligent Transport System (ITS) Certificates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8902"/>
-    <author fullname="M. Msahli"/>
-    <author fullname="N. Cam-Winget"/>
-    <author fullname="W. Whyte"/>
-    <author fullname="A. Serhrouchni"/>
-    <author fullname="H. Labiod"/>
+    <author fullname="M. Msahli" initials="M." surname="Msahli">
+      <organization/>
+    </author>
+    <author fullname="N. Cam-Winget" initials="N." surname="Cam-Winget">
+      <organization/>
+    </author>
+    <author fullname="W. Whyte" initials="W." surname="Whyte">
+      <organization/>
+    </author>
+    <author fullname="A. Serhrouchni" initials="A." surname="Serhrouchni">
+      <organization/>
+    </author>
+    <author fullname="H. Labiod" initials="H." surname="Labiod">
+      <organization/>
+    </author>
     <date year="2020" month="September"/>
-    <keyword>TLS</keyword>
-    <keyword>Intelligent Transport System (ITS) Certificates</keyword>
-    <keyword>IEEE</keyword>
-    <keyword>ETSI</keyword>
-    <abstract>The IEEE and ETSI have specified a type of end-entity certificate.  This document defines an experimental change to TLS to support IEEE/ETSI certificate types to authenticate TLS entities.</abstract>
+    <abstract>
+      <t>The IEEE and ETSI have specified a type of end-entity certificate.  This document defines an experimental change to TLS to support IEEE/ETSI certificate types to authenticate TLS entities.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8902"/>
+  <seriesInfo name="RFC" value="8902"/>
 </reference>

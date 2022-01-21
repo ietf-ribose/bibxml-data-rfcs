@@ -1,15 +1,21 @@
 <reference anchor="RFC6424" target="https://www.rfc-editor.org/info/rfc6424">
   <front>
     <title>Mechanism for Performing Label Switched Path Ping (LSP Ping) over MPLS Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6424"/>
-    <author fullname="N. Bahadur"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="G. Swallow"/>
+    <author fullname="N. Bahadur" initials="N." surname="Bahadur">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
     <date year="2011" month="November"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS OAM</keyword>
-    <keyword>lsp ping</keyword>
-    <keyword>LSP-Ping</keyword>
-    <abstract>This document describes methods for performing LSP ping (specified in RFC 4379) traceroute over MPLS tunnels and for traceroute of stitched MPLS Label Switched Paths (LSPs).  The techniques outlined in RFC 4379 are insufficient to perform traceroute Forwarding Equivalency Class (FEC) validation and path discovery for an LSP that goes over other MPLS tunnels or for a stitched LSP.  This document deprecates the Downstream Mapping TLV (defined in RFC 4379) in favor of a new TLV that, along with other procedures outlined in this document, can be used to trace such LSPs. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes methods for performing LSP ping (specified in RFC 4379) traceroute over MPLS tunnels and for traceroute of stitched MPLS Label Switched Paths (LSPs).  The techniques outlined in RFC 4379 are insufficient to perform traceroute Forwarding Equivalency Class (FEC) validation and path discovery for an LSP that goes over other MPLS tunnels or for a stitched LSP.  This document deprecates the Downstream Mapping TLV (defined in RFC 4379) in favor of a new TLV that, along with other procedures outlined in this document, can be used to trace such LSPs. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6424"/>
+  <seriesInfo name="RFC" value="6424"/>
 </reference>

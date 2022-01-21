@@ -1,20 +1,18 @@
 <reference anchor="RFC4546" target="https://www.rfc-editor.org/info/rfc4546">
   <front>
     <title>Radio Frequency (RF) Interface Management Information Base for Data over Cable Service Interface Specifications (DOCSIS) 2.0 Compliant RF Interfaces</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4546"/>
-    <author fullname="D. Raftus"/>
-    <author fullname="E. Cardona"/>
+    <author fullname="D. Raftus" initials="D." surname="Raftus">
+      <organization/>
+    </author>
+    <author fullname="E. Cardona" initials="E." surname="Cardona">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>ipcdn</workgroup>
-    <keyword>cmts</keyword>
-    <keyword>cm</keyword>
-    <keyword>upstream</keyword>
-    <keyword>downstream</keyword>
-    <keyword>tdma</keyword>
-    <keyword>atdma</keyword>
-    <keyword>scdma</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>channel utilizazation</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines a set of managed objects for Simple Network Management Protocol (SNMP) based management of the Radio Frequency (RF) interfaces for systems compliant with the Data Over Cable Service Interface Specifications (DOCSIS). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines a set of managed objects for Simple Network Management Protocol (SNMP) based management of the Radio Frequency (RF) interfaces for systems compliant with the Data Over Cable Service Interface Specifications (DOCSIS). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4546"/>
+  <seriesInfo name="RFC" value="4546"/>
 </reference>

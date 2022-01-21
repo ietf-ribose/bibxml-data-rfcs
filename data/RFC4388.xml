@@ -1,13 +1,18 @@
 <reference anchor="RFC4388" target="https://www.rfc-editor.org/info/rfc4388">
   <front>
     <title>Dynamic Host Configuration Protocol (DHCP) Leasequery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4388"/>
-    <author fullname="R. Woundy"/>
-    <author fullname="K. Kinnear"/>
+    <author fullname="R. Woundy" initials="R." surname="Woundy">
+      <organization/>
+    </author>
+    <author fullname="K. Kinnear" initials="K." surname="Kinnear">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>dhc</workgroup>
-    <keyword>dhcpv4</keyword>
-    <keyword>ip address</keyword>
-    <abstract>A Dynamic Host Configuration Protocol version 4 (DHCPv4) server is the authoritative source of IP addresses that it has provided to DHCPv4 clients.  Other processes and devices that already make use of DHCPv4 may need to access this information.  The leasequery protocol provides these processes and devices a lightweight way to access IP address information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A Dynamic Host Configuration Protocol version 4 (DHCPv4) server is the authoritative source of IP addresses that it has provided to DHCPv4 clients.  Other processes and devices that already make use of DHCPv4 may need to access this information.  The leasequery protocol provides these processes and devices a lightweight way to access IP address information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4388"/>
+  <seriesInfo name="RFC" value="4388"/>
 </reference>

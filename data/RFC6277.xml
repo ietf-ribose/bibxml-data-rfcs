@@ -1,12 +1,18 @@
 <reference anchor="RFC6277" target="https://www.rfc-editor.org/info/rfc6277">
   <front>
     <title>Online Certificate Status Protocol Algorithm Agility</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6277"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="P. Hallam-Baker"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="P. Hallam-Baker" initials="P." surname="Hallam-Baker">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>ocsp</keyword>
-    <abstract>The Online Certificate Status Protocol (OCSP) requires server responses to be signed but does not specify a mechanism for selecting the signature algorithm to be used.  This may lead to avoidable interoperability failures in contexts where multiple signature algorithms are in use.  This document specifies rules for server signature algorithm selection and an extension that allows a client to advise a server that specific signature algorithms are supported. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Online Certificate Status Protocol (OCSP) requires server responses to be signed but does not specify a mechanism for selecting the signature algorithm to be used.  This may lead to avoidable interoperability failures in contexts where multiple signature algorithms are in use.  This document specifies rules for server signature algorithm selection and an extension that allows a client to advise a server that specific signature algorithms are supported. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6277"/>
+  <seriesInfo name="RFC" value="6277"/>
 </reference>

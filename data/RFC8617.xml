@@ -1,19 +1,26 @@
 <reference anchor="RFC8617" target="https://www.rfc-editor.org/info/rfc8617">
   <front>
     <title>The Authenticated Received Chain (ARC) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8617"/>
-    <author fullname="K. Andersen"/>
-    <author fullname="B. Long"/>
-    <author fullname="S. Blank"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="K. Andersen" initials="K." surname="Andersen">
+      <organization/>
+    </author>
+    <author fullname="B. Long" initials="B." surname="Long">
+      <organization/>
+    </author>
+    <author fullname="S. Blank" initials="S." surname="Blank">
+      <organization/>
+    </author>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2019" month="July"/>
     <workgroup>dmarc</workgroup>
-    <keyword>DKIM</keyword>
-    <keyword>DMARC</keyword>
-    <keyword>signature</keyword>
-    <keyword>email</keyword>
-    <keyword>domian authentication</keyword>
-    <keyword>email authentication</keyword>
-    <abstract>The Authenticated Received Chain (ARC) protocol provides an authenticated "chain of custody" for a message, allowing each entity that handles the message to see what entities handled it before and what the message's authentication assessment was at each step in the handling. ARC allows Internet Mail Handlers to attach assertions of message authentication assessment to individual messages. As messages traverse ARC-enabled Internet Mail Handlers, additional ARC assertions can be attached to messages to form ordered sets of ARC assertions that represent the authentication assessment at each step of the message-handling paths. ARC-enabled Internet Mail Handlers can process sets of ARC assertions to inform message disposition decisions, identify Internet Mail Handlers that might break existing authentication mechanisms, and convey original authentication assessments across trust boundaries.</abstract>
+    <abstract>
+      <t>The Authenticated Received Chain (ARC) protocol provides an authenticated "chain of custody" for a message, allowing each entity that handles the message to see what entities handled it before and what the message's authentication assessment was at each step in the handling.</t>
+      <t>ARC allows Internet Mail Handlers to attach assertions of message authentication assessment to individual messages. As messages traverse ARC-enabled Internet Mail Handlers, additional ARC assertions can be attached to messages to form ordered sets of ARC assertions that represent the authentication assessment at each step of the message-handling paths.</t>
+      <t>ARC-enabled Internet Mail Handlers can process sets of ARC assertions to inform message disposition decisions, identify Internet Mail Handlers that might break existing authentication mechanisms, and convey original authentication assessments across trust boundaries.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8617"/>
+  <seriesInfo name="RFC" value="8617"/>
 </reference>

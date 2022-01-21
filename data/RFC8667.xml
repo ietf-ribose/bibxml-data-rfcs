@@ -1,21 +1,31 @@
 <reference anchor="RFC8667" target="https://www.rfc-editor.org/info/rfc8667">
   <front>
     <title>IS-IS Extensions for Segment Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8667"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="A. Bashandy"/>
-    <author fullname="H. Gredler"/>
-    <author fullname="B. Decraene"/>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="A. Bashandy" initials="A." surname="Bashandy">
+      <organization/>
+    </author>
+    <author fullname="H. Gredler" initials="H." surname="Gredler">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>lsr</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>SID</keyword>
-    <keyword>IGP</keyword>
-    <keyword>IS-IS</keyword>
-    <keyword>Label advertisement</keyword>
-    <keyword>Segment Routing</keyword>
-    <abstract>Segment Routing (SR) allows for a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological sub-paths, called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF). This document describes the IS-IS extensions that need to be introduced for Segment Routing operating on an MPLS data plane.</abstract>
+    <abstract>
+      <t>Segment Routing (SR) allows for a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological sub-paths, called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF).</t>
+      <t>This document describes the IS-IS extensions that need to be introduced for Segment Routing operating on an MPLS data plane.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8667"/>
+  <seriesInfo name="RFC" value="8667"/>
 </reference>

@@ -1,17 +1,25 @@
 <reference anchor="RFC7401" target="https://www.rfc-editor.org/info/rfc7401">
   <front>
     <title>Host Identity Protocol Version 2 (HIPv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7401"/>
-    <author fullname="R. Moskowitz"/>
-    <author fullname="T. Heer"/>
-    <author fullname="P. Jokela"/>
-    <author fullname="T. Henderson"/>
+    <author fullname="R. Moskowitz" initials="R." surname="Moskowitz">
+      <organization/>
+    </author>
+    <author fullname="T. Heer" initials="T." surname="Heer">
+      <organization/>
+    </author>
+    <author fullname="P. Jokela" initials="P." surname="Jokela">
+      <organization/>
+    </author>
+    <author fullname="T. Henderson" initials="T." surname="Henderson">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
     <workgroup>hip</workgroup>
-    <keyword>HIP</keyword>
-    <keyword>IP-layer state</keyword>
-    <keyword>integrity protection</keyword>
-    <keyword>optional encryption</keyword>
-    <abstract>This document specifies the details of the Host Identity Protocol (HIP). HIP allows consenting hosts to securely establish and maintain shared IP-layer state, allowing separation of the identifier and locator roles of IP addresses, thereby enabling continuity of communications across IP address changes. HIP is based on a Diffie-Hellman key exchange, using public key identifiers from a new Host Identity namespace for mutual peer authentication. The protocol is designed to be resistant to denial-of-service (DoS) and man-in-the-middle (MitM) attacks. When used together with another suitable security protocol, such as the Encapsulating Security Payload (ESP), it provides integrity protection and optional encryption for upper-layer protocols, such as TCP and UDP. This document obsoletes RFC 5201 and addresses the concerns raised by the IESG, particularly that of crypto agility. It also incorporates lessons learned from the implementations of RFC 5201.</abstract>
+    <abstract>
+      <t>This document specifies the details of the Host Identity Protocol (HIP). HIP allows consenting hosts to securely establish and maintain shared IP-layer state, allowing separation of the identifier and locator roles of IP addresses, thereby enabling continuity of communications across IP address changes. HIP is based on a Diffie-Hellman key exchange, using public key identifiers from a new Host Identity namespace for mutual peer authentication. The protocol is designed to be resistant to denial-of-service (DoS) and man-in-the-middle (MitM) attacks. When used together with another suitable security protocol, such as the Encapsulating Security Payload (ESP), it provides integrity protection and optional encryption for upper-layer protocols, such as TCP and UDP.</t>
+      <t>This document obsoletes RFC 5201 and addresses the concerns raised by the IESG, particularly that of crypto agility. It also incorporates lessons learned from the implementations of RFC 5201.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7401"/>
+  <seriesInfo name="RFC" value="7401"/>
 </reference>

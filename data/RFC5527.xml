@@ -1,13 +1,21 @@
 <reference anchor="RFC5527" target="https://www.rfc-editor.org/info/rfc5527">
   <front>
     <title>Combined User and Infrastructure ENUM in the e164.arpa Tree</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5527"/>
-    <author fullname="M. Haberler"/>
-    <author fullname="O. Lendl"/>
-    <author fullname="R. Stastny"/>
+    <author fullname="M. Haberler" initials="M." surname="Haberler">
+      <organization/>
+    </author>
+    <author fullname="O. Lendl" initials="O." surname="Lendl">
+      <organization/>
+    </author>
+    <author fullname="R. Stastny" initials="R." surname="Stastny">
+      <organization/>
+    </author>
     <date year="2009" month="May"/>
     <workgroup>enum</workgroup>
-    <keyword>e164.arpa</keyword>
-    <abstract>This memo defines an interim solution for Infrastructure ENUM in order to allow a combined User and Infrastructure ENUM implementation in e164.arpa as a national choice.  This interim solution will be deprecated after implementation of the long-term solution.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an interim solution for Infrastructure ENUM in order to allow a combined User and Infrastructure ENUM implementation in e164.arpa as a national choice.  This interim solution will be deprecated after implementation of the long-term solution.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5527"/>
+  <seriesInfo name="RFC" value="5527"/>
 </reference>

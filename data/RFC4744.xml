@@ -1,15 +1,18 @@
 <reference anchor="RFC4744" target="https://www.rfc-editor.org/info/rfc4744">
   <front>
     <title>Using the NETCONF Protocol over the Blocks Extensible Exchange Protocol (BEEP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4744"/>
-    <author fullname="E. Lear"/>
-    <author fullname="K. Crozier"/>
+    <author fullname="E. Lear" initials="E." surname="Lear">
+      <organization/>
+    </author>
+    <author fullname="K. Crozier" initials="K." surname="Crozier">
+      <organization/>
+    </author>
     <date year="2006" month="December"/>
     <workgroup>netconf</workgroup>
-    <keyword>XML</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Network Management</keyword>
-    <keyword>Extensible Markup Language</keyword>
-    <abstract>This document specifies an application protocol mapping for the Network Configuration Protocol (NETCONF) over the Blocks Extensible Exchange Protocol (BEEP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an application protocol mapping for the Network Configuration Protocol (NETCONF) over the Blocks Extensible Exchange Protocol (BEEP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4744"/>
+  <seriesInfo name="RFC" value="4744"/>
 </reference>

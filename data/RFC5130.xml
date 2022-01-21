@@ -1,16 +1,21 @@
 <reference anchor="RFC5130" target="https://www.rfc-editor.org/info/rfc5130">
   <front>
     <title>A Policy Control Mechanism in IS-IS Using Administrative Tags</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5130"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="M. Shand"/>
-    <author fullname="C. Martin"/>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="M. Shand" initials="M." surname="Shand">
+      <organization/>
+    </author>
+    <author fullname="C. Martin" initials="C." surname="Martin">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate systetm to intermediate system</keyword>
-    <keyword>ip prefix distribution</keyword>
-    <keyword>lsp</keyword>
-    <keyword>link state protocol</keyword>
-    <abstract>This document describes an extension to the IS-IS protocol to add operational capabilities that allow for ease of management and control over IP prefix distribution within an IS-IS domain.  This document enhances the IS-IS protocol by extending the information that an Intermediate System (IS) router can place in Link State Protocol (LSP) Data Units for policy use.  This extension will provide operators with a mechanism to control IP prefix distribution throughout multi-level IS-IS domains. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extension to the IS-IS protocol to add operational capabilities that allow for ease of management and control over IP prefix distribution within an IS-IS domain.  This document enhances the IS-IS protocol by extending the information that an Intermediate System (IS) router can place in Link State Protocol (LSP) Data Units for policy use.  This extension will provide operators with a mechanism to control IP prefix distribution throughout multi-level IS-IS domains. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5130"/>
+  <seriesInfo name="RFC" value="5130"/>
 </reference>

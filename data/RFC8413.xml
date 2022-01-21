@@ -1,22 +1,24 @@
 <reference anchor="RFC8413" target="https://www.rfc-editor.org/info/rfc8413">
   <front>
     <title>Framework for Scheduled Use of Resources</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8413"/>
-    <author fullname="Y. Zhuang"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="H. Chen"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="Y. Zhuang" initials="Y." surname="Zhuang">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2018" month="July"/>
     <workgroup>teas</workgroup>
-    <keyword>Traffic Engineering</keyword>
-    <keyword>TE</keyword>
-    <keyword>Label Switched Path</keyword>
-    <keyword>LSP</keyword>
-    <keyword>MPLS</keyword>
-    <keyword>Path Computation Element</keyword>
-    <keyword>PCE</keyword>
-    <keyword>Software Defined Networking</keyword>
-    <keyword>SDN</keyword>
-    <abstract>Time-Scheduled (TS) reservation of Traffic Engineering (TE) resources can be used to provide resource booking for TE Label Switched Paths so as to better guarantee services for customers and to improve the efficiency of network resource usage at any moment in time, including network usage that is planned for the future.  This document provides a framework that describes and discusses the architecture for supporting scheduled reservation of TE resources.  This document does not describe specific protocols or protocol extensions needed to realize this service.</abstract>
+    <abstract>
+      <t>Time-Scheduled (TS) reservation of Traffic Engineering (TE) resources can be used to provide resource booking for TE Label Switched Paths so as to better guarantee services for customers and to improve the efficiency of network resource usage at any moment in time, including network usage that is planned for the future.  This document provides a framework that describes and discusses the architecture for supporting scheduled reservation of TE resources.  This document does not describe specific protocols or protocol extensions needed to realize this service.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8413"/>
+  <seriesInfo name="RFC" value="8413"/>
 </reference>

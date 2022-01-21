@@ -1,16 +1,21 @@
 <reference anchor="RFC2038" target="https://www.rfc-editor.org/info/rfc2038">
   <front>
     <title>RTP Payload Format for MPEG1/MPEG2 Video</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2038"/>
-    <author fullname="D. Hoffman"/>
-    <author fullname="G. Fernando"/>
-    <author fullname="V. Goyal"/>
+    <author fullname="D. Hoffman" initials="D." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="G. Fernando" initials="G." surname="Fernando">
+      <organization/>
+    </author>
+    <author fullname="V. Goyal" initials="V." surname="Goyal">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>Real</keyword>
-    <keyword>Time</keyword>
-    <keyword>Transport</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo describes a packetization scheme for MPEG video and audio streams.  The scheme proposed can be used to transport such a video or audio flow over the transport protocols supported by RTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a packetization scheme for MPEG video and audio streams.  The scheme proposed can be used to transport such a video or audio flow over the transport protocols supported by RTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2038"/>
+  <seriesInfo name="RFC" value="2038"/>
 </reference>

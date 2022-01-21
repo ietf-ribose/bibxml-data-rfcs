@@ -1,15 +1,18 @@
 <reference anchor="RFC5483" target="https://www.rfc-editor.org/info/rfc5483">
   <front>
     <title>ENUM Implementation Issues and Experiences</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5483"/>
-    <author fullname="L. Conroy"/>
-    <author fullname="K. Fujiwara"/>
+    <author fullname="L. Conroy" initials="L." surname="Conroy">
+      <organization/>
+    </author>
+    <author fullname="K. Fujiwara" initials="K." surname="Fujiwara">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>enum</workgroup>
-    <keyword>DNS</keyword>
-    <keyword>E.164</keyword>
-    <keyword>NAPTR</keyword>
-    <keyword>dynamic delegation discovery system</keyword>
-    <abstract>This document captures experiences in implementing systems based on the ENUM protocol and experiences of ENUM data that have been created by others.  As such, it clarifies the ENUM and Dynamic Delegation Discovery System standards.  Its aim is to help others by reporting both what is "out there" and potential pitfalls in interpreting the set of documents that specify the ENUM protocol.  It does not revise the standards but is intended to provide technical input to future revisions of those documents.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document captures experiences in implementing systems based on the ENUM protocol and experiences of ENUM data that have been created by others.  As such, it clarifies the ENUM and Dynamic Delegation Discovery System standards.  Its aim is to help others by reporting both what is "out there" and potential pitfalls in interpreting the set of documents that specify the ENUM protocol.  It does not revise the standards but is intended to provide technical input to future revisions of those documents.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5483"/>
+  <seriesInfo name="RFC" value="5483"/>
 </reference>

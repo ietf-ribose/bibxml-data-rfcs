@@ -1,31 +1,15 @@
 <reference anchor="RFC4302" target="https://www.rfc-editor.org/info/rfc4302">
   <front>
     <title>IP Authentication Header</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4302"/>
-    <author fullname="S. Kent"/>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>ipsec</workgroup>
-    <keyword>IP-AUTH</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>AH</keyword>
-    <keyword>security</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>ip security</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>authentication</keyword>
-    <keyword>integrity</keyword>
-    <keyword>anti-replay</keyword>
-    <keyword>ah</keyword>
-    <keyword>esp</keyword>
-    <keyword>encapsulating security payload</keyword>
-    <keyword>ike</keyword>
-    <keyword>internet key exchange</keyword>
-    <keyword>ikev2</keyword>
-    <keyword>esn</keyword>
-    <keyword>extended sequence number</keyword>
-    <abstract>This document describes an updated version of the IP Authentication Header (AH), which is designed to provide authentication services in IPv4 and IPv6.  This document obsoletes RFC 2402 (November 1998). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an updated version of the IP Authentication Header (AH), which is designed to provide authentication services in IPv4 and IPv6.  This document obsoletes RFC 2402 (November 1998). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4302"/>
+  <seriesInfo name="RFC" value="4302"/>
 </reference>

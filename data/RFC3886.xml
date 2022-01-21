@@ -1,14 +1,16 @@
 <reference anchor="RFC3886" target="https://www.rfc-editor.org/info/rfc3886">
   <front>
     <title>An Extensible Message Format for Message Tracking Responses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3886"/>
-    <author fullname="E. Allman"/>
+    <author fullname="E. Allman" initials="E." surname="Allman">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>msgtrk</workgroup>
-    <keyword>Delivery Status Notifications</keyword>
-    <keyword>DSN</keyword>
-    <keyword>Message Disposition Notifications</keyword>
-    <keyword>MDN</keyword>
-    <abstract>Message Tracking is expected to be used to determine the status of undelivered e-mail upon request. Tracking is used in conjunction with Delivery Status Notifications (DSN) and Message Disposition Notifications (MDN); generally, a message tracking request will be issued only when a DSN or MDN has not been received within a reasonable timeout period. This memo defines a MIME content-type for message tracking status in the same spirit as RFC 3464, "An Extensible Message Format for Delivery Status Notifications". It is to be issued upon a request as described in "Message Tracking Query Protocol". This memo defines only the format of the status information. An extension to SMTP to label messages for further tracking and request tracking status is defined in a separate memo. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Message Tracking is expected to be used to determine the status of undelivered e-mail upon request. Tracking is used in conjunction with Delivery Status Notifications (DSN) and Message Disposition Notifications (MDN); generally, a message tracking request will be issued only when a DSN or MDN has not been received within a reasonable timeout period.</t>
+      <t>This memo defines a MIME content-type for message tracking status in the same spirit as RFC 3464, "An Extensible Message Format for Delivery Status Notifications". It is to be issued upon a request as described in "Message Tracking Query Protocol". This memo defines only the format of the status information. An extension to SMTP to label messages for further tracking and request tracking status is defined in a separate memo. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3886"/>
+  <seriesInfo name="RFC" value="3886"/>
 </reference>

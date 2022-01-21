@@ -1,15 +1,17 @@
 <reference anchor="RFC1950" target="https://www.rfc-editor.org/info/rfc1950">
   <front>
     <title>ZLIB Compressed Data Format Specification version 3.3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1950"/>
-    <author fullname="P. Deutsch"/>
-    <author fullname="J-L. Gailly"/>
+    <author fullname="P. Deutsch" initials="P." surname="Deutsch">
+      <organization/>
+    </author>
+    <author fullname="J-L. Gailly" initials="J-L." surname="Gailly">
+      <organization/>
+    </author>
     <date year="1996" month="May"/>
-    <keyword>ZLIB</keyword>
-    <keyword>compressed</keyword>
-    <keyword>data</keyword>
-    <keyword>format</keyword>
-    <keyword>checksum</keyword>
-    <abstract>This specification defines a lossless compressed data format.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This specification defines a lossless compressed data format.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1950"/>
+  <seriesInfo name="RFC" value="1950"/>
 </reference>

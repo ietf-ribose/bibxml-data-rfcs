@@ -1,16 +1,18 @@
 <reference anchor="RFC9032" target="https://www.rfc-editor.org/info/rfc9032">
   <front>
     <title>Encapsulation of 6TiSCH Join and Enrollment Information Elements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9032"/>
-    <author fullname="D. Dujovne"/>
-    <author fullname="M. Richardson"/>
+    <author fullname="D. Dujovne" initials="D." surname="Dujovne">
+      <organization/>
+    </author>
+    <author fullname="M. Richardson" initials="M." surname="Richardson">
+      <organization/>
+    </author>
     <date year="2021" month="May"/>
     <workgroup>6tisch</workgroup>
-    <keyword>BRSKI</keyword>
-    <keyword>enroll</keyword>
-    <keyword>zero-touch</keyword>
-    <keyword>DODAG balancing</keyword>
-    <keyword>LLN balancing</keyword>
-    <abstract>In the Time-Slotted Channel Hopping (TSCH) mode of IEEE Std 802.15.4, opportunities for broadcasts are limited to specific times and specific channels.  Routers in a TSCH network transmit Enhanced Beacon (EB) frames to announce the presence of the network.  This document provides a mechanism by which additional information critical for new nodes (pledges) and long-sleeping nodes may be carried within the EB in order to conserve use of broadcast opportunities.</abstract>
+    <abstract>
+      <t>In the Time-Slotted Channel Hopping (TSCH) mode of IEEE Std 802.15.4, opportunities for broadcasts are limited to specific times and specific channels.  Routers in a TSCH network transmit Enhanced Beacon (EB) frames to announce the presence of the network.  This document provides a mechanism by which additional information critical for new nodes (pledges) and long-sleeping nodes may be carried within the EB in order to conserve use of broadcast opportunities.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9032"/>
+  <seriesInfo name="RFC" value="9032"/>
 </reference>

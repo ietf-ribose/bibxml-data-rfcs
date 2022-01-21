@@ -1,17 +1,28 @@
 <reference anchor="RFC7579" target="https://www.rfc-editor.org/info/rfc7579">
   <front>
     <title>General Network Element Constraint Encoding for GMPLS-Controlled Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7579"/>
-    <author fullname="G. Bernstein"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="D. Li"/>
-    <author fullname="W. Imajuku"/>
-    <author fullname="J. Han"/>
+    <author fullname="G. Bernstein" initials="G." surname="Bernstein">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="D. Li" initials="D." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="W. Imajuku" initials="W." surname="Imajuku">
+      <organization/>
+    </author>
+    <author fullname="J. Han" initials="J." surname="Han">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
     <workgroup>ccamp</workgroup>
-    <keyword>WSON</keyword>
-    <keyword>Optical Network Control</keyword>
-    <keyword>Protocol-agnostic encoding</keyword>
-    <abstract>Generalized Multiprotocol Label Switching (GMPLS) can be used to control a wide variety of technologies. In some of these technologies, network elements and links may impose additional routing constraints such as asymmetric switch connectivity, non-local label assignment, and label range limitations on links. This document provides efficient, protocol-agnostic encodings for general information elements representing connectivity and label constraints as well as label availability. It is intended that protocol-specific documents will reference this memo to describe how information is carried for specific uses.</abstract>
+    <abstract>
+      <t>Generalized Multiprotocol Label Switching (GMPLS) can be used to control a wide variety of technologies. In some of these technologies, network elements and links may impose additional routing constraints such as asymmetric switch connectivity, non-local label assignment, and label range limitations on links.</t>
+      <t>This document provides efficient, protocol-agnostic encodings for general information elements representing connectivity and label constraints as well as label availability. It is intended that protocol-specific documents will reference this memo to describe how information is carried for specific uses.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7579"/>
+  <seriesInfo name="RFC" value="7579"/>
 </reference>

@@ -1,17 +1,31 @@
 <reference anchor="RFC8663" target="https://www.rfc-editor.org/info/rfc8663">
   <front>
     <title>MPLS Segment Routing over IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8663"/>
-    <author fullname="X. Xu"/>
-    <author fullname="S. Bryant"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="S. Hassan"/>
-    <author fullname="W. Henderickx"/>
-    <author fullname="Z. Li"/>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="S. Hassan" initials="S." surname="Hassan">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
+    <author fullname="Z. Li" initials="Z." surname="Li">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>mpls</workgroup>
-    <keyword>SR-MPLS</keyword>
-    <keyword>MPLS-in-UDP</keyword>
-    <abstract>MPLS Segment Routing (SR-MPLS) is a method of source routing a packet through an MPLS data plane by imposing a stack of MPLS labels on the packet to specify the path together with any packet-specific instructions to be executed on it. SR-MPLS can be leveraged to realize a source-routing mechanism across MPLS, IPv4, and IPv6 data planes by using an MPLS label stack as a source-routing instruction set while making no changes to SR-MPLS specifications and interworking with SR-MPLS implementations. This document describes how SR-MPLS-capable routers and IP-only routers can seamlessly coexist and interoperate through the use of SR-MPLS label stacks and IP encapsulation/tunneling such as MPLS-over-UDP as defined in RFC 7510.</abstract>
+    <abstract>
+      <t>MPLS Segment Routing (SR-MPLS) is a method of source routing a packet through an MPLS data plane by imposing a stack of MPLS labels on the packet to specify the path together with any packet-specific instructions to be executed on it. SR-MPLS can be leveraged to realize a source-routing mechanism across MPLS, IPv4, and IPv6 data planes by using an MPLS label stack as a source-routing instruction set while making no changes to SR-MPLS specifications and interworking with SR-MPLS implementations.</t>
+      <t>This document describes how SR-MPLS-capable routers and IP-only routers can seamlessly coexist and interoperate through the use of SR-MPLS label stacks and IP encapsulation/tunneling such as MPLS-over-UDP as defined in RFC 7510.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8663"/>
+  <seriesInfo name="RFC" value="8663"/>
 </reference>

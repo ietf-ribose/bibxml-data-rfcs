@@ -1,12 +1,21 @@
 <reference anchor="RFC6396" target="https://www.rfc-editor.org/info/rfc6396">
   <front>
     <title>Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6396"/>
-    <author fullname="L. Blunk"/>
-    <author fullname="M. Karir"/>
-    <author fullname="C. Labovitz"/>
+    <author fullname="L. Blunk" initials="L." surname="Blunk">
+      <organization/>
+    </author>
+    <author fullname="M. Karir" initials="M." surname="Karir">
+      <organization/>
+    </author>
+    <author fullname="C. Labovitz" initials="C." surname="Labovitz">
+      <organization/>
+    </author>
     <date year="2011" month="October"/>
     <workgroup>grow</workgroup>
-    <abstract>This document describes the MRT format for routing information export.  This format was developed in concert with the Multi-threaded Routing Toolkit (MRT) from whence the format takes it name.  The format can be used to export routing protocol messages, state changes, and routing information base contents. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the MRT format for routing information export.  This format was developed in concert with the Multi-threaded Routing Toolkit (MRT) from whence the format takes it name.  The format can be used to export routing protocol messages, state changes, and routing information base contents. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6396"/>
+  <seriesInfo name="RFC" value="6396"/>
 </reference>

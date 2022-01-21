@@ -1,21 +1,24 @@
 <reference anchor="RFC8517" target="https://www.rfc-editor.org/info/rfc8517">
   <front>
     <title>An Inventory of Transport-Centric Functions Provided by Middleboxes: An Operator Perspective</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8517"/>
-    <author fullname="D. Dolson"/>
-    <author fullname="J. Snellman"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="C. Jacquenet"/>
+    <author fullname="D. Dolson" initials="D." surname="Dolson">
+      <organization/>
+    </author>
+    <author fullname="J. Snellman" initials="J." surname="Snellman">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="C. Jacquenet" initials="C." surname="Jacquenet">
+      <organization/>
+    </author>
     <date year="2019" month="February"/>
-    <keyword>address sharing</keyword>
-    <keyword>NAT</keyword>
-    <keyword>firewall</keyword>
-    <keyword>Service Function</keyword>
-    <keyword>transport</keyword>
-    <keyword>service delivery</keyword>
-    <keyword>Internet architecture</keyword>
-    <keyword>TCP QUIC</keyword>
-    <keyword>Path Layer UDP Substrate</keyword>
-    <abstract>This document summarizes an operator's perception of the benefits that may be provided by intermediary devices that execute functions beyond normal IP forwarding. Such intermediary devices are often called "middleboxes". RFC 3234 defines a taxonomy of middleboxes and issues in the Internet. Most of those middleboxes utilize or modify application- layer data. This document primarily focuses on devices that observe and act on information carried in the transport layer, and especially information carried in TCP packets.</abstract>
+    <abstract>
+      <t>This document summarizes an operator's perception of the benefits that may be provided by intermediary devices that execute functions beyond normal IP forwarding. Such intermediary devices are often called "middleboxes".</t>
+      <t>RFC 3234 defines a taxonomy of middleboxes and issues in the Internet. Most of those middleboxes utilize or modify application- layer data. This document primarily focuses on devices that observe and act on information carried in the transport layer, and especially information carried in TCP packets.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8517"/>
+  <seriesInfo name="RFC" value="8517"/>
 </reference>

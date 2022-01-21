@@ -1,12 +1,18 @@
 <reference anchor="RFC1230" target="https://www.rfc-editor.org/info/rfc1230">
   <front>
     <title>IEEE 802.4 Token Bus MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1230"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="R. Fox"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="R. Fox" initials="R." surname="Fox">
+      <organization/>
+    </author>
     <date year="1991" month="May"/>
     <workgroup>snmp</workgroup>
-    <keyword>802.4-MIP</keyword>
-    <abstract>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for managing subnetworks which use the IEEE 802.4 Token Bus technology described in 802.4 Token-Passing Bus Access Method and Physical Layer Specifications, IEEE Standard 802.4. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for managing subnetworks which use the IEEE 802.4 Token Bus technology described in 802.4 Token-Passing Bus Access Method and Physical Layer Specifications, IEEE Standard 802.4. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1230"/>
+  <seriesInfo name="RFC" value="1230"/>
 </reference>

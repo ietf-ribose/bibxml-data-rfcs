@@ -1,17 +1,27 @@
 <reference anchor="RFC5756" target="https://www.rfc-editor.org/info/rfc5756">
   <front>
     <title>Updates for RSAES-OAEP and RSASSA-PSS Algorithm Parameters</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5756"/>
-    <author fullname="S. Turner"/>
-    <author fullname="D. Brown"/>
-    <author fullname="K. Yiu"/>
-    <author fullname="R. Housley"/>
-    <author fullname="T. Polk"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="D. Brown" initials="D." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="K. Yiu" initials="K." surname="Yiu">
+      <organization/>
+    </author>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="T. Polk" initials="T." surname="Polk">
+      <organization/>
+    </author>
     <date year="2010" month="January"/>
     <workgroup>pkix</workgroup>
-    <keyword>rsa encryption scheme</keyword>
-    <keyword>optical asymmetric encryption padding</keyword>
-    <keyword>subjectpublickeyinfo</keyword>
-    <abstract>This document updates RFC 4055.  It updates the conventions for using the RSA Encryption Scheme - Optimal Asymmetric Encryption Padding (RSAES-OAEP) key transport algorithm in the Internet X.509 Public Key Infrastructure (PKI).  Specifically, it updates the conventions for algorithm parameters in an X.509 certificate's subjectPublicKeyInfo field. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document updates RFC 4055.  It updates the conventions for using the RSA Encryption Scheme - Optimal Asymmetric Encryption Padding (RSAES-OAEP) key transport algorithm in the Internet X.509 Public Key Infrastructure (PKI).  Specifically, it updates the conventions for algorithm parameters in an X.509 certificate's subjectPublicKeyInfo field. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5756"/>
+  <seriesInfo name="RFC" value="5756"/>
 </reference>

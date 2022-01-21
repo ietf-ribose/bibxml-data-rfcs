@@ -1,18 +1,27 @@
 <reference anchor="RFC3213" target="https://www.rfc-editor.org/info/rfc3213">
   <front>
     <title>Applicability Statement for CR-LDP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3213"/>
-    <author fullname="J. Ash"/>
-    <author fullname="M. Girish"/>
-    <author fullname="E. Gray"/>
-    <author fullname="B. Jamoussi"/>
-    <author fullname="G. Wright"/>
+    <author fullname="J. Ash" initials="J." surname="Ash">
+      <organization/>
+    </author>
+    <author fullname="M. Girish" initials="M." surname="Girish">
+      <organization/>
+    </author>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="B. Jamoussi" initials="B." surname="Jamoussi">
+      <organization/>
+    </author>
+    <author fullname="G. Wright" initials="G." surname="Wright">
+      <organization/>
+    </author>
     <date year="2002" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>constraint-based</keyword>
-    <keyword>label</keyword>
-    <keyword>distribution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document discusses the applicability of Constraint-Based LSP Setup using LDP.  It discusses possible network applications, extensions to Label Distribution Protocol (LDP) required to implement constraint-based routing, guidelines for deployment and known limitations of the protocol.  This document is a prerequisite to advancing CR-LDP on the standards track.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses the applicability of Constraint-Based LSP Setup using LDP.  It discusses possible network applications, extensions to Label Distribution Protocol (LDP) required to implement constraint-based routing, guidelines for deployment and known limitations of the protocol.  This document is a prerequisite to advancing CR-LDP on the standards track.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3213"/>
+  <seriesInfo name="RFC" value="3213"/>
 </reference>

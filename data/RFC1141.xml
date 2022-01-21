@@ -1,10 +1,17 @@
 <reference anchor="RFC1141" target="https://www.rfc-editor.org/info/rfc1141">
   <front>
     <title>Incremental updating of the Internet checksum</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1141"/>
-    <author fullname="T. Mallory"/>
-    <author fullname="A. Kullberg"/>
+    <author fullname="T. Mallory" initials="T." surname="Mallory">
+      <organization/>
+    </author>
+    <author fullname="A. Kullberg" initials="A." surname="Kullberg">
+      <organization/>
+    </author>
     <date year="1990" month="January"/>
-    <abstract>This memo correctly describes the incremental update procedure for use with the standard Internet checksum.  It is intended to replace the description of Incremental Update in RFC 1071.  This is not a standard but rather, an implementation technique.</abstract>
+    <abstract>
+      <t>This memo correctly describes the incremental update procedure for use with the standard Internet checksum.  It is intended to replace the description of Incremental Update in RFC 1071.  This is not a standard but rather, an implementation technique.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1141"/>
+  <seriesInfo name="RFC" value="1141"/>
 </reference>

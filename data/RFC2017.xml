@@ -1,20 +1,21 @@
 <reference anchor="RFC2017" target="https://www.rfc-editor.org/info/rfc2017">
   <front>
     <title>Definition of the URL MIME External-Body Access-Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2017"/>
-    <author fullname="N. Freed"/>
-    <author fullname="K. Moore"/>
-    <author fullname="A. Cargille"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="K. Moore" initials="K." surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="A. Cargille" initials="A." surname="Cargille">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>mailext</workgroup>
-    <keyword>URL-ACC</keyword>
-    <keyword>Uniform</keyword>
-    <keyword>Resource</keyword>
-    <keyword>Locators</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Message</keyword>
-    <keyword>Extensions</keyword>
-    <abstract>This memo defines a new access-type for message/external-body MIME parts for Uniform Resource Locators (URLs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a new access-type for message/external-body MIME parts for Uniform Resource Locators (URLs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2017"/>
+  <seriesInfo name="RFC" value="2017"/>
 </reference>

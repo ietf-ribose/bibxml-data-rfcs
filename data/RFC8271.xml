@@ -1,17 +1,27 @@
 <reference anchor="RFC8271" target="https://www.rfc-editor.org/info/rfc8271">
   <front>
     <title>Updates to the Resource Reservation Protocol for Fast Reroute of Traffic Engineering GMPLS Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8271"/>
-    <author fullname="M. Taillon"/>
-    <author fullname="T. Saad"/>
-    <author fullname="R. Gandhi"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="M. Bhatia"/>
+    <author fullname="M. Taillon" initials="M." surname="Taillon">
+      <organization/>
+    </author>
+    <author fullname="T. Saad" initials="T." surname="Saad">
+      <organization/>
+    </author>
+    <author fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="M. Bhatia" initials="M." surname="Bhatia">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>teas</workgroup>
-    <keyword>Co-routed LSPs</keyword>
-    <keyword>Bypass assignment coordinate</keyword>
-    <keyword>Restore co-routing</keyword>
-    <abstract>This document updates the Resource Reservation Protocol - Traffic Engineering (RSVP-TE) Fast Reroute (FRR) procedures defined in RFC 4090 to support Packet Switch Capable (PSC) Generalized Multiprotocol Label Switching (GMPLS) Label Switched Paths (LSPs).  These updates allow the coordination of a bidirectional bypass tunnel assignment protecting a common facility in both forward and reverse directions of a co-routed bidirectional LSP.  In addition, these updates enable the redirection of bidirectional traffic onto bypass tunnels that ensure the co-routing of data paths in the forward and reverse directions after FRR and avoid RSVP soft-state timeout in the control plane.</abstract>
+    <abstract>
+      <t>This document updates the Resource Reservation Protocol - Traffic Engineering (RSVP-TE) Fast Reroute (FRR) procedures defined in RFC 4090 to support Packet Switch Capable (PSC) Generalized Multiprotocol Label Switching (GMPLS) Label Switched Paths (LSPs).  These updates allow the coordination of a bidirectional bypass tunnel assignment protecting a common facility in both forward and reverse directions of a co-routed bidirectional LSP.  In addition, these updates enable the redirection of bidirectional traffic onto bypass tunnels that ensure the co-routing of data paths in the forward and reverse directions after FRR and avoid RSVP soft-state timeout in the control plane.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8271"/>
+  <seriesInfo name="RFC" value="8271"/>
 </reference>

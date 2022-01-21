@@ -1,15 +1,24 @@
 <reference anchor="RFC8538" target="https://www.rfc-editor.org/info/rfc8538">
   <front>
     <title>Notification Message Support for BGP Graceful Restart</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8538"/>
-    <author fullname="K. Patel"/>
-    <author fullname="R. Fernando"/>
-    <author fullname="J. Scudder"/>
-    <author fullname="J. Haas"/>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="R. Fernando" initials="R." surname="Fernando">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
     <date year="2019" month="March"/>
     <workgroup>idr</workgroup>
-    <keyword>IDR</keyword>
-    <keyword>BGP</keyword>
-    <abstract>The BGP Graceful Restart mechanism defined in RFC 4724 limits the usage of BGP Graceful Restart to BGP messages other than BGP NOTIFICATION messages.  This document updates RFC 4724 by defining an extension that permits the Graceful Restart procedures to be performed when the BGP speaker receives a BGP NOTIFICATION message or the Hold Time expires.  This document also defines a new subcode for BGP Cease NOTIFICATION messages; this new subcode requests a full session restart instead of a Graceful Restart.</abstract>
+    <abstract>
+      <t>The BGP Graceful Restart mechanism defined in RFC 4724 limits the usage of BGP Graceful Restart to BGP messages other than BGP NOTIFICATION messages.  This document updates RFC 4724 by defining an extension that permits the Graceful Restart procedures to be performed when the BGP speaker receives a BGP NOTIFICATION message or the Hold Time expires.  This document also defines a new subcode for BGP Cease NOTIFICATION messages; this new subcode requests a full session restart instead of a Graceful Restart.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8538"/>
+  <seriesInfo name="RFC" value="8538"/>
 </reference>

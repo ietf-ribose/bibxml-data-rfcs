@@ -1,17 +1,18 @@
 <reference anchor="RFC7630" target="https://www.rfc-editor.org/info/rfc7630">
   <front>
     <title>HMAC-SHA-2 Authentication Protocols in the User-based Security Model (USM) for SNMPv3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7630"/>
-    <author fullname="J. Merkle"/>
-    <author fullname="M. Lochter"/>
+    <author fullname="J. Merkle" initials="J." surname="Merkle">
+      <organization/>
+    </author>
+    <author fullname="M. Lochter" initials="M." surname="Lochter">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>opsawg</workgroup>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>USM</keyword>
-    <keyword>HMAC</keyword>
-    <keyword>SHA-2</keyword>
-    <abstract>This memo specifies new HMAC-SHA-2 authentication protocols for the User-based Security Model (USM) for SNMPv3 defined in RFC 3414.</abstract>
+    <abstract>
+      <t>This memo specifies new HMAC-SHA-2 authentication protocols for the User-based Security Model (USM) for SNMPv3 defined in RFC 3414.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7630"/>
+  <seriesInfo name="RFC" value="7630"/>
 </reference>

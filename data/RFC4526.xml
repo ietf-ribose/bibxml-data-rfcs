@@ -1,12 +1,15 @@
 <reference anchor="RFC4526" target="https://www.rfc-editor.org/info/rfc4526">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Absolute True and False Filters</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4526"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>x.500</keyword>
-    <keyword>string representation</keyword>
-    <abstract>This document extends the Lightweight Directory Access Protocol (LDAP) to support absolute True and False filters based upon similar capabilities found in X.500 directory systems.  The document also extends the String Representation of LDAP Search Filters to support these filters. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document extends the Lightweight Directory Access Protocol (LDAP) to support absolute True and False filters based upon similar capabilities found in X.500 directory systems.  The document also extends the String Representation of LDAP Search Filters to support these filters. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4526"/>
+  <seriesInfo name="RFC" value="4526"/>
 </reference>

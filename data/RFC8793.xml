@@ -1,18 +1,29 @@
 <reference anchor="RFC8793" target="https://www.rfc-editor.org/info/rfc8793">
   <front>
     <title>Information-Centric Networking (ICN): Content-Centric Networking (CCNx) and Named Data Networking (NDN) Terminology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8793"/>
-    <author fullname="B. Wissingh"/>
-    <author fullname="C. Wood"/>
-    <author fullname="A. Afanasyev"/>
-    <author fullname="L. Zhang"/>
-    <author fullname="D. Oran"/>
-    <author fullname="C. Tschudin"/>
+    <author fullname="B. Wissingh" initials="B." surname="Wissingh">
+      <organization/>
+    </author>
+    <author fullname="C. Wood" initials="C." surname="Wood">
+      <organization/>
+    </author>
+    <author fullname="A. Afanasyev" initials="A." surname="Afanasyev">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="D. Oran" initials="D." surname="Oran">
+      <organization/>
+    </author>
+    <author fullname="C. Tschudin" initials="C." surname="Tschudin">
+      <organization/>
+    </author>
     <date year="2020" month="June"/>
-    <keyword>content routing</keyword>
-    <keyword>content caching</keyword>
-    <keyword>content distribution networks</keyword>
-    <keyword>data-centric security</keyword>
-    <abstract>Information-Centric Networking (ICN) is a novel paradigm where network communications are accomplished by requesting named content instead of sending packets to destination addresses.  Named Data Networking (NDN) and Content-Centric Networking (CCNx) are two prominent ICN architectures.  This document provides an overview of the terminology and definitions that have been used in describing concepts in these two implementations of ICN.  While there are other ICN architectures, they are not part of the NDN and CCNx concepts and as such are out of scope for this document.  This document is a product of the Information-Centric Networking Research Group (ICNRG).</abstract>
+    <abstract>
+      <t>Information-Centric Networking (ICN) is a novel paradigm where network communications are accomplished by requesting named content instead of sending packets to destination addresses.  Named Data Networking (NDN) and Content-Centric Networking (CCNx) are two prominent ICN architectures.  This document provides an overview of the terminology and definitions that have been used in describing concepts in these two implementations of ICN.  While there are other ICN architectures, they are not part of the NDN and CCNx concepts and as such are out of scope for this document.  This document is a product of the Information-Centric Networking Research Group (ICNRG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8793"/>
+  <seriesInfo name="RFC" value="8793"/>
 </reference>

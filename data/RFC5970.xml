@@ -1,16 +1,24 @@
 <reference anchor="RFC5970" target="https://www.rfc-editor.org/info/rfc5970">
   <front>
     <title>DHCPv6 Options for Network Boot</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5970"/>
-    <author fullname="T. Huth"/>
-    <author fullname="J. Freimann"/>
-    <author fullname="V. Zimmer"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="T. Huth" initials="T." surname="Huth">
+      <organization/>
+    </author>
+    <author fullname="J. Freimann" initials="J." surname="Freimann">
+      <organization/>
+    </author>
+    <author fullname="V. Zimmer" initials="V." surname="Zimmer">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
     <workgroup>dhc</workgroup>
-    <keyword>boot</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>DHCPv6</keyword>
-    <abstract>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) provides a framework for passing configuration information to nodes on a network.  This document describes new options for DHCPv6 that SHOULD be used for booting a node from the network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) provides a framework for passing configuration information to nodes on a network.  This document describes new options for DHCPv6 that SHOULD be used for booting a node from the network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5970"/>
+  <seriesInfo name="RFC" value="5970"/>
 </reference>

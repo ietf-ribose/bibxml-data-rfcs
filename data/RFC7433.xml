@@ -1,16 +1,18 @@
 <reference anchor="RFC7433" target="https://www.rfc-editor.org/info/rfc7433">
   <front>
     <title>A Mechanism for Transporting User-to-User Call Control Information in SIP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7433"/>
-    <author fullname="A. Johnston"/>
-    <author fullname="J. Rafferty"/>
+    <author fullname="A. Johnston" initials="A." surname="Johnston">
+      <organization/>
+    </author>
+    <author fullname="J. Rafferty" initials="J." surname="Rafferty">
+      <organization/>
+    </author>
     <date year="2015" month="January"/>
     <workgroup>cuss</workgroup>
-    <keyword>UUI</keyword>
-    <keyword>Package</keyword>
-    <keyword>Content</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>Media</keyword>
-    <abstract>There is a class of applications that benefit from using SIP to exchange User-to-User Information (UUI) data during session establishment.  This information, known as call control UUI data, is a small piece of data inserted by an application initiating the session and utilized by an application accepting the session.  The syntax and semantics for the UUI data used by a specific application are defined by a UUI package.  This UUI data is opaque to SIP and its function is unrelated to any basic SIP function.  This document defines a new SIP header field, User-to-User, to transport UUI data, along with an extension mechanism.</abstract>
+    <abstract>
+      <t>There is a class of applications that benefit from using SIP to exchange User-to-User Information (UUI) data during session establishment.  This information, known as call control UUI data, is a small piece of data inserted by an application initiating the session and utilized by an application accepting the session.  The syntax and semantics for the UUI data used by a specific application are defined by a UUI package.  This UUI data is opaque to SIP and its function is unrelated to any basic SIP function.  This document defines a new SIP header field, User-to-User, to transport UUI data, along with an extension mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7433"/>
+  <seriesInfo name="RFC" value="7433"/>
 </reference>

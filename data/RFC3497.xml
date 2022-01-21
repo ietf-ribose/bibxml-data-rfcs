@@ -1,16 +1,24 @@
 <reference anchor="RFC3497" target="https://www.rfc-editor.org/info/rfc3497">
   <front>
     <title>RTP Payload Format for Society of Motion Picture and Television Engineers (SMPTE) 292M Video</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3497"/>
-    <author fullname="L. Gharai"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="G. Goncher"/>
-    <author fullname="A. Mankin"/>
+    <author fullname="L. Gharai" initials="L." surname="Gharai">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="G. Goncher" initials="G." surname="Goncher">
+      <organization/>
+    </author>
+    <author fullname="A. Mankin" initials="A." surname="Mankin">
+      <organization/>
+    </author>
     <date year="2003" month="March"/>
     <workgroup>avt</workgroup>
-    <keyword>real-time transport protocol</keyword>
-    <keyword>hdtv</keyword>
-    <keyword>high definition television</keyword>
-    <abstract>This memo specifies an RTP payload format for encapsulating uncompressed High Definition Television (HDTV) as defined by the Society of Motion Picture and Television Engineers (SMPTE) standard, SMPTE 292M.  SMPTE is the main standardizing body in the motion imaging industry and the SMPTE 292M standard defines a bit-serial digital interface for local area HDTV transport. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies an RTP payload format for encapsulating uncompressed High Definition Television (HDTV) as defined by the Society of Motion Picture and Television Engineers (SMPTE) standard, SMPTE 292M.  SMPTE is the main standardizing body in the motion imaging industry and the SMPTE 292M standard defines a bit-serial digital interface for local area HDTV transport. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3497"/>
+  <seriesInfo name="RFC" value="3497"/>
 </reference>

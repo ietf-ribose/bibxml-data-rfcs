@@ -1,11 +1,17 @@
 <reference anchor="RFC1043" target="https://www.rfc-editor.org/info/rfc1043">
   <front>
     <title>Telnet Data Entry Terminal option: DODIIS implementation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1043"/>
-    <author fullname="A. Yasuda"/>
-    <author fullname="T. Thompson"/>
+    <author fullname="A. Yasuda" initials="A." surname="Yasuda">
+      <organization/>
+    </author>
+    <author fullname="T. Thompson" initials="T." surname="Thompson">
+      <organization/>
+    </author>
     <date year="1988" month="February"/>
-    <keyword>TOPT-DATA</keyword>
-    <abstract>This RFC suggests a proposed protocol on the TELNET Data Entry Terminal (DET) Option - DODIIS Implementation for the Internet community.  It is intended that this specification be capatible with the specification of DET Option in RFC-732.  Discussion and suggests for improvements are encouraged.</abstract>
+    <abstract>
+      <t>This RFC suggests a proposed protocol on the TELNET Data Entry Terminal (DET) Option - DODIIS Implementation for the Internet community.  It is intended that this specification be capatible with the specification of DET Option in RFC-732.  Discussion and suggests for improvements are encouraged.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1043"/>
+  <seriesInfo name="RFC" value="1043"/>
 </reference>

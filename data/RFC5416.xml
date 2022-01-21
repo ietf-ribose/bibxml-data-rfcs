@@ -1,22 +1,22 @@
 <reference anchor="RFC5416" target="https://www.rfc-editor.org/info/rfc5416">
   <front>
     <title>Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Binding for IEEE 802.11</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5416"/>
-    <author fullname="P. Calhoun"/>
-    <author fullname="M. Montemurro"/>
-    <author fullname="D. Stanley"/>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
+    <author fullname="M. Montemurro" initials="M." surname="Montemurro">
+      <organization/>
+    </author>
+    <author fullname="D. Stanley" initials="D." surname="Stanley">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>capwap</workgroup>
-    <keyword>Operations and Management</keyword>
-    <keyword>LWAPP</keyword>
-    <keyword>CAPWAP</keyword>
-    <keyword>802.11</keyword>
-    <keyword>IEEE</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>WiFi</keyword>
-    <keyword>Access Point</keyword>
-    <keyword>Access Controller</keyword>
-    <keyword>Wireless Termination Point</keyword>
-    <abstract>Wireless LAN product architectures have evolved from single autonomous access points to systems consisting of a centralized Access Controller (AC) and Wireless Termination Points (WTPs). The general goal of centralized control architectures is to move access control, including user authentication and authorization, mobility management, and radio management from the single access point to a centralized controller. This specification defines the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Binding Specification for use with the IEEE 802.11 Wireless Local Area Network protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Wireless LAN product architectures have evolved from single autonomous access points to systems consisting of a centralized Access Controller (AC) and Wireless Termination Points (WTPs). The general goal of centralized control architectures is to move access control, including user authentication and authorization, mobility management, and radio management from the single access point to a centralized controller.</t>
+      <t>This specification defines the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Binding Specification for use with the IEEE 802.11 Wireless Local Area Network protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5416"/>
+  <seriesInfo name="RFC" value="5416"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC2872" target="https://www.rfc-editor.org/info/rfc2872">
   <front>
     <title>Application and Sub Application Identity Policy Element for Use with RSVP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2872"/>
-    <author fullname="Y. Bernet"/>
-    <author fullname="R. Pabbati"/>
+    <author fullname="Y. Bernet" initials="Y." surname="Bernet">
+      <organization/>
+    </author>
+    <author fullname="R. Pabbati" initials="R." surname="Pabbati">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>rap</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <abstract>RSVP signaling messages typically include policy data objects, which in turn contain policy elements.  Policy elements may describe user and/or application information, which may be used by RSVP aware network elements to apply appropriate policy decisions to a traffic flow.  This memo details the usage of policy elements that provide application information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>RSVP signaling messages typically include policy data objects, which in turn contain policy elements.  Policy elements may describe user and/or application information, which may be used by RSVP aware network elements to apply appropriate policy decisions to a traffic flow.  This memo details the usage of policy elements that provide application information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2872"/>
+  <seriesInfo name="RFC" value="2872"/>
 </reference>

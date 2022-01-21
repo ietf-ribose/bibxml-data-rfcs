@@ -1,11 +1,18 @@
 <reference anchor="RFC3982" target="https://www.rfc-editor.org/info/rfc3982">
   <front>
     <title>IRIS:  A Domain Registry (dreg) Type for the Internet Registry Information Service (IRIS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3982"/>
-    <author fullname="A. Newton"/>
-    <author fullname="M. Sanz"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
+    <author fullname="M. Sanz" initials="M." surname="Sanz">
+      <organization/>
+    </author>
     <date year="2005" month="January"/>
     <workgroup>crisp</workgroup>
-    <abstract>This document describes an Internet Registry Information Service (IRIS) registry schema for registered DNS information.  The schema extends the necessary query and result operations of IRIS to provide the functional information service needs for syntaxes and results used by domain registries and registrars. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an Internet Registry Information Service (IRIS) registry schema for registered DNS information.  The schema extends the necessary query and result operations of IRIS to provide the functional information service needs for syntaxes and results used by domain registries and registrars. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3982"/>
+  <seriesInfo name="RFC" value="3982"/>
 </reference>

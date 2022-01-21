@@ -1,13 +1,24 @@
 <reference anchor="RFC6930" target="https://www.rfc-editor.org/info/rfc6930">
   <front>
     <title>RADIUS Attribute for IPv6 Rapid Deployment on IPv4 Infrastructures (6rd)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6930"/>
-    <author fullname="D. Guo"/>
-    <author fullname="S. Jiang"/>
-    <author fullname="R. Despres"/>
-    <author fullname="R. Maglione"/>
+    <author fullname="D. Guo" initials="D." surname="Guo">
+      <organization/>
+    </author>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="R. Despres" initials="R." surname="Despres">
+      <organization/>
+    </author>
+    <author fullname="R. Maglione" initials="R." surname="Maglione">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>softwire</workgroup>
-    <abstract>The IPv6 Rapid Deployment on IPv4 Infrastructures (6rd) provides both IPv4 and IPv6 connectivity services simultaneously during the IPv4/IPv6 coexistence period.  The Dynamic Host Configuration Protocol (DHCP) 6rd option has been defined to configure the 6rd Customer Edge (CE).  However, in many networks, the configuration information may be stored in the Authentication Authorization and Accounting (AAA) servers, while user configuration is mainly acquired from a Broadband Network Gateway (BNG) through the DHCP protocol.  This document defines a Remote Authentication Dial-In User Service (RADIUS) attribute that carries 6rd configuration information from the AAA server to BNGs.</abstract>
+    <abstract>
+      <t>The IPv6 Rapid Deployment on IPv4 Infrastructures (6rd) provides both IPv4 and IPv6 connectivity services simultaneously during the IPv4/IPv6 coexistence period.  The Dynamic Host Configuration Protocol (DHCP) 6rd option has been defined to configure the 6rd Customer Edge (CE).  However, in many networks, the configuration information may be stored in the Authentication Authorization and Accounting (AAA) servers, while user configuration is mainly acquired from a Broadband Network Gateway (BNG) through the DHCP protocol.  This document defines a Remote Authentication Dial-In User Service (RADIUS) attribute that carries 6rd configuration information from the AAA server to BNGs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6930"/>
+  <seriesInfo name="RFC" value="6930"/>
 </reference>

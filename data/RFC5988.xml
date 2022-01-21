@@ -1,15 +1,15 @@
 <reference anchor="RFC5988" target="https://www.rfc-editor.org/info/rfc5988">
   <front>
     <title>Web Linking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5988"/>
-    <author fullname="M. Nottingham"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Link</keyword>
-    <keyword>linking</keyword>
-    <keyword>http header</keyword>
-    <keyword>link relation</keyword>
-    <keyword>web</keyword>
-    <abstract>This document specifies relation types for Web links, and defines a registry for them.  It also defines the use of such links in HTTP headers with the Link header field. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies relation types for Web links, and defines a registry for them.  It also defines the use of such links in HTTP headers with the Link header field. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5988"/>
+  <seriesInfo name="RFC" value="5988"/>
 </reference>

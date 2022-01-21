@@ -1,12 +1,15 @@
 <reference anchor="RFC4421" target="https://www.rfc-editor.org/info/rfc4421">
   <front>
     <title>RTP Payload Format for Uncompressed Video: Additional Colour Sampling Modes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4421"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>avt</workgroup>
-    <keyword>realtime transport protocol</keyword>
-    <keyword>video stream</keyword>
-    <abstract>The RFC Payload Format for Uncompressed Video, RFC 4175, defines a scheme to packetise uncompressed, studio-quality, video streams for transport using RTP.  This memo extends the format to support additional colour sampling modes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The RFC Payload Format for Uncompressed Video, RFC 4175, defines a scheme to packetise uncompressed, studio-quality, video streams for transport using RTP.  This memo extends the format to support additional colour sampling modes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4421"/>
+  <seriesInfo name="RFC" value="4421"/>
 </reference>

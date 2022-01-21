@@ -1,15 +1,22 @@
 <reference anchor="RFC8779" target="https://www.rfc-editor.org/info/rfc8779">
   <front>
     <title>Path Computation Element Communication Protocol (PCEP) Extensions for GMPLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8779"/>
-    <author fullname="C. Margaria"/>
-    <author fullname="O. Gonzalez de Dios"/>
-    <author fullname="F. Zhang"/>
+    <author fullname="C. Margaria" initials="C." surname="Margaria">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez">
+      <organization/>
+    </author>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2020" month="July"/>
     <workgroup>pce</workgroup>
-    <keyword>RSVP-TE</keyword>
-    <keyword>GMPLS</keyword>
-    <keyword>PCE</keyword>
-    <abstract>A Path Computation Element (PCE) provides path computation functions for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. Additional requirements for GMPLS are identified in RFC 7025. This memo provides extensions to the Path Computation Element Communication Protocol (PCEP) for the support of the GMPLS control plane to address those requirements.</abstract>
+    <abstract>
+      <t>A Path Computation Element (PCE) provides path computation functions for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. Additional requirements for GMPLS are identified in RFC 7025.</t>
+      <t>This memo provides extensions to the Path Computation Element Communication Protocol (PCEP) for the support of the GMPLS control plane to address those requirements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8779"/>
+  <seriesInfo name="RFC" value="8779"/>
 </reference>

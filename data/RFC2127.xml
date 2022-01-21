@@ -1,17 +1,15 @@
 <reference anchor="RFC2127" target="https://www.rfc-editor.org/info/rfc2127">
   <front>
     <title>ISDN Management Information Base using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2127"/>
-    <author fullname="G. Roeck"/>
+    <author fullname="G. Roeck" initials="G." surname="Roeck">
+      <organization/>
+    </author>
     <date year="1997" month="March"/>
     <workgroup>isdnmib</workgroup>
-    <keyword>ISDN-MIB</keyword>
-    <keyword>MIB</keyword>
-    <keyword>ISDN</keyword>
-    <keyword>Integrated</keyword>
-    <keyword>Services</keyword>
-    <keyword>Digital</keyword>
-    <keyword>Network</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines a minimal set of managed objects for SNMP-based management of ISDN terminal interfaces. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines a minimal set of managed objects for SNMP-based management of ISDN terminal interfaces. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2127"/>
+  <seriesInfo name="RFC" value="2127"/>
 </reference>

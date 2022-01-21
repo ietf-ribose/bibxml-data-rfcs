@@ -1,12 +1,22 @@
 <reference anchor="RFC6401" target="https://www.rfc-editor.org/info/rfc6401">
   <front>
     <title>RSVP Extensions for Admission Priority</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6401"/>
-    <author fullname="F. Le Faucheur"/>
-    <author fullname="J. Polk"/>
-    <author fullname="K. Carlberg"/>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="K. Carlberg" initials="K." surname="Carlberg">
+      <organization/>
+    </author>
     <date year="2011" month="October"/>
     <workgroup>tsvwg</workgroup>
-    <abstract>Some applications require the ability to provide an elevated probability of session establishment to specific sessions in times of network congestion. When supported over the Internet Protocol suite, this may be facilitated through a network-layer admission control solution that supports prioritized access to resources (e.g., bandwidth). These resources may be explicitly set aside for prioritized sessions, or may be shared with other sessions. This document specifies extensions to the Resource reSerVation Protocol (RSVP) that can be used to support such an admission priority capability at the network layer. Based on current security concerns, these extensions are intended for use in a single administrative domain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Some applications require the ability to provide an elevated probability of session establishment to specific sessions in times of network congestion. When supported over the Internet Protocol suite, this may be facilitated through a network-layer admission control solution that supports prioritized access to resources (e.g., bandwidth). These resources may be explicitly set aside for prioritized sessions, or may be shared with other sessions. This document specifies extensions to the Resource reSerVation Protocol (RSVP) that can be used to support such an admission priority capability at the network layer.</t>
+      <t>Based on current security concerns, these extensions are intended for use in a single administrative domain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6401"/>
+  <seriesInfo name="RFC" value="6401"/>
 </reference>

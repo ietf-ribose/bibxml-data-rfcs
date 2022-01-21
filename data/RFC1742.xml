@@ -1,12 +1,18 @@
 <reference anchor="RFC1742" target="https://www.rfc-editor.org/info/rfc1742">
   <front>
     <title>AppleTalk Management Information Base II</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1742"/>
-    <author fullname="S. Waldbusser"/>
-    <author fullname="K. Frisa"/>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
+    <author fullname="K. Frisa" initials="K." surname="Frisa">
+      <organization/>
+    </author>
     <date year="1995" month="January"/>
     <workgroup>appleip</workgroup>
-    <keyword>AT-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing AppleTalk networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing AppleTalk networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1742"/>
+  <seriesInfo name="RFC" value="1742"/>
 </reference>

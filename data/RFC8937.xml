@@ -1,16 +1,27 @@
 <reference anchor="RFC8937" target="https://www.rfc-editor.org/info/rfc8937">
   <front>
     <title>Randomness Improvements for Security Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8937"/>
-    <author fullname="C. Cremers"/>
-    <author fullname="L. Garratt"/>
-    <author fullname="S. Smyshlyaev"/>
-    <author fullname="N. Sullivan"/>
-    <author fullname="C. Wood"/>
+    <author fullname="C. Cremers" initials="C." surname="Cremers">
+      <organization/>
+    </author>
+    <author fullname="L. Garratt" initials="L." surname="Garratt">
+      <organization/>
+    </author>
+    <author fullname="S. Smyshlyaev" initials="S." surname="Smyshlyaev">
+      <organization/>
+    </author>
+    <author fullname="N. Sullivan" initials="N." surname="Sullivan">
+      <organization/>
+    </author>
+    <author fullname="C. Wood" initials="C." surname="Wood">
+      <organization/>
+    </author>
     <date year="2020" month="October"/>
-    <keyword>Security</keyword>
-    <keyword>Cryptography</keyword>
-    <keyword>TLS</keyword>
-    <abstract>Randomness is a crucial ingredient for Transport Layer Security (TLS) and related security protocols. Weak or predictable "cryptographically secure" pseudorandom number generators (CSPRNGs) can be abused or exploited for malicious purposes. An initial entropy source that seeds a CSPRNG might be weak or broken as well, which can also lead to critical and systemic security problems. This document describes a way for security protocol implementations to augment their CSPRNGs using long-term private keys. This improves randomness from broken or otherwise subverted CSPRNGs. This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</abstract>
+    <abstract>
+      <t>Randomness is a crucial ingredient for Transport Layer Security (TLS) and related security protocols. Weak or predictable "cryptographically secure" pseudorandom number generators (CSPRNGs) can be abused or exploited for malicious purposes. An initial entropy source that seeds a CSPRNG might be weak or broken as well, which can also lead to critical and systemic security problems. This document describes a way for security protocol implementations to augment their CSPRNGs using long-term private keys. This improves randomness from broken or otherwise subverted CSPRNGs.</t>
+      <t>This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8937"/>
+  <seriesInfo name="RFC" value="8937"/>
 </reference>

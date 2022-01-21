@@ -1,15 +1,18 @@
 <reference anchor="RFC5504" target="https://www.rfc-editor.org/info/rfc5504">
   <front>
     <title>Downgrading Mechanism for Email Address Internationalization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5504"/>
-    <author fullname="K. Fujiwara"/>
-    <author fullname="Y. Yoneya"/>
+    <author fullname="K. Fujiwara" initials="K." surname="Fujiwara">
+      <organization/>
+    </author>
+    <author fullname="Y. Yoneya" initials="Y." surname="Yoneya">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>eai</workgroup>
-    <keyword>EAI</keyword>
-    <keyword>Email Address Internationalization</keyword>
-    <keyword>Downgrade</keyword>
-    <keyword>MAIL</keyword>
-    <abstract>Traditional mail systems handle only ASCII characters in SMTP envelope and mail header fields.  The Email Address Internationalization (UTF8SMTP) extension allows UTF-8 characters in SMTP envelope and mail header fields.  To avoid rejecting internationalized email messages when a server in the delivery path does not support the UTF8SMTP extension, some sort of converting mechanism is required.  This document describes a downgrading mechanism for Email Address Internationalization.  Note that this is a way to downgrade, not tunnel.  There is no associated up-conversion mechanism, although internationalized email clients might use original internationalized addresses or other data when displaying or replying to downgraded messages.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Traditional mail systems handle only ASCII characters in SMTP envelope and mail header fields.  The Email Address Internationalization (UTF8SMTP) extension allows UTF-8 characters in SMTP envelope and mail header fields.  To avoid rejecting internationalized email messages when a server in the delivery path does not support the UTF8SMTP extension, some sort of converting mechanism is required.  This document describes a downgrading mechanism for Email Address Internationalization.  Note that this is a way to downgrade, not tunnel.  There is no associated up-conversion mechanism, although internationalized email clients might use original internationalized addresses or other data when displaying or replying to downgraded messages.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5504"/>
+  <seriesInfo name="RFC" value="5504"/>
 </reference>

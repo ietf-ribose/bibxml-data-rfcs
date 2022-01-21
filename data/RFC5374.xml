@@ -1,15 +1,21 @@
 <reference anchor="RFC5374" target="https://www.rfc-editor.org/info/rfc5374">
   <front>
     <title>Multicast Extensions to the Security Architecture for the Internet Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5374"/>
-    <author fullname="B. Weis"/>
-    <author fullname="G. Gross"/>
-    <author fullname="D. Ignjatic"/>
+    <author fullname="B. Weis" initials="B." surname="Weis">
+      <organization/>
+    </author>
+    <author fullname="G. Gross" initials="G." surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="D. Ignjatic" initials="D." surname="Ignjatic">
+      <organization/>
+    </author>
     <date year="2008" month="November"/>
     <workgroup>msec</workgroup>
-    <keyword>ip</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>ip multicast packets</keyword>
-    <abstract>The Security Architecture for the Internet Protocol describes security services for traffic at the IP layer.  That architecture primarily defines services for Internet Protocol (IP) unicast packets.  This document describes how the IPsec security services are applied to IP multicast packets.  These extensions are relevant only for an IPsec implementation that supports multicast. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Security Architecture for the Internet Protocol describes security services for traffic at the IP layer.  That architecture primarily defines services for Internet Protocol (IP) unicast packets.  This document describes how the IPsec security services are applied to IP multicast packets.  These extensions are relevant only for an IPsec implementation that supports multicast. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5374"/>
+  <seriesInfo name="RFC" value="5374"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC3495" target="https://www.rfc-editor.org/info/rfc3495">
   <front>
     <title>Dynamic Host Configuration Protocol (DHCP) Option for CableLabs Client Configuration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3495"/>
-    <author fullname="B. Beser"/>
-    <author fullname="P. Duffy"/>
+    <author fullname="B. Beser" initials="B." surname="Beser">
+      <organization/>
+    </author>
+    <author fullname="P. Duffy" initials="P." surname="Duffy">
+      <organization/>
+    </author>
     <date year="2003" month="March"/>
     <workgroup>dhc</workgroup>
-    <keyword>packetcable media terminal adapter</keyword>
-    <keyword>mta</keyword>
-    <abstract>This document defines a Dynamic Host Configuration Protocol (DHCP) option that will be used to configure various devices deployed within CableLabs architectures.  Specifically, the document describes DHCP option content that will be used to configure one class of CableLabs client device: a PacketCable Media Terminal Adapter (MTA).  The option content defined within this document will be extended as future CableLabs client devices are developed. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Dynamic Host Configuration Protocol (DHCP) option that will be used to configure various devices deployed within CableLabs architectures.  Specifically, the document describes DHCP option content that will be used to configure one class of CableLabs client device: a PacketCable Media Terminal Adapter (MTA).  The option content defined within this document will be extended as future CableLabs client devices are developed. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3495"/>
+  <seriesInfo name="RFC" value="3495"/>
 </reference>

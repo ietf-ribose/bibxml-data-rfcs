@@ -1,14 +1,23 @@
 <reference anchor="RFC3867" target="https://www.rfc-editor.org/info/rfc3867">
   <front>
     <title>Payment Application Programmers Interface (API) for v1.0 Internet Open Trading Protocol (IOTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3867"/>
-    <author fullname="Y. Kawatsura"/>
-    <author fullname="M. Hiroya"/>
-    <author fullname="H. Beykirch"/>
+    <author fullname="Y. Kawatsura" initials="Y." surname="Kawatsura">
+      <organization/>
+    </author>
+    <author fullname="M. Hiroya" initials="M." surname="Hiroya">
+      <organization/>
+    </author>
+    <author fullname="H. Beykirch" initials="H." surname="Beykirch">
+      <organization/>
+    </author>
     <date year="2004" month="November"/>
     <workgroup>trade</workgroup>
-    <keyword>modules</keyword>
-    <keyword>data format exchange</keyword>
-    <abstract>The Internet Open Trading Protocol (IOTP) provides a data exchange format for trading purposes while integrating existing pure payment protocols seamlessly. This motivates the multiple layered system architecture which consists of at least some generic IOTP application core and multiple specific payment modules. This document addresses a common interface between the IOTP application core and the payment modules, enabling the interoperability between these kinds of modules. Furthermore, such an interface provides the foundations for a plug-in-mechanism in actual implementations of IOTP application cores. Such interfaces exist at the Consumers', the Merchants' and the Payment Handlers' installations connecting the IOTP application core and the payment software components/legacy systems. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Internet Open Trading Protocol (IOTP) provides a data exchange format for trading purposes while integrating existing pure payment protocols seamlessly. This motivates the multiple layered system architecture which consists of at least some generic IOTP application core and multiple specific payment modules.</t>
+      <t>This document addresses a common interface between the IOTP application core and the payment modules, enabling the interoperability between these kinds of modules. Furthermore, such an interface provides the foundations for a plug-in-mechanism in actual implementations of IOTP application cores.</t>
+      <t>Such interfaces exist at the Consumers', the Merchants' and the Payment Handlers' installations connecting the IOTP application core and the payment software components/legacy systems. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3867"/>
+  <seriesInfo name="RFC" value="3867"/>
 </reference>

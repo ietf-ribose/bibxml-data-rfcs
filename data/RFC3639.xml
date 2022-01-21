@@ -1,13 +1,20 @@
 <reference anchor="RFC3639" target="https://www.rfc-editor.org/info/rfc3639">
   <front>
     <title>Considerations on the use of a Service Identifier in Packet Headers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3639"/>
-    <author fullname="M. St. Johns"/>
-    <author fullname="G. Huston"/>
-    <author fullname="IAB"/>
+    <author fullname="M. St. Johns" initials="M." surname="St.">
+      <organization/>
+    </author>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="IAB" initials="IAB" surname="">
+      <organization/>
+    </author>
     <date year="2003" month="October"/>
-    <keyword>port fields</keyword>
-    <keyword>protocol number</keyword>
-    <abstract>This memo describes some considerations relating to the use of IP protocol number fields and payload protocol (e.g., TCP) port fields to identify particular services that may be associated with that port number or protocol number.</abstract>
+    <abstract>
+      <t>This memo describes some considerations relating to the use of IP protocol number fields and payload protocol (e.g., TCP) port fields to identify particular services that may be associated with that port number or protocol number.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3639"/>
+  <seriesInfo name="RFC" value="3639"/>
 </reference>

@@ -1,19 +1,22 @@
 <reference anchor="RFC9066" target="https://www.rfc-editor.org/info/rfc9066">
   <front>
     <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel Call Home</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9066"/>
-    <author fullname="T. Reddy.K"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="J. Shallow"/>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="J. Shallow" initials="J." surname="Shallow">
+      <organization/>
+    </author>
     <date year="2021" month="December"/>
     <workgroup>dots</workgroup>
-    <keyword>Automation</keyword>
-    <keyword>Anti-DDoS Automation</keyword>
-    <keyword>DDoS Mitigation</keyword>
-    <keyword>Collaborative Networking</keyword>
-    <keyword>Protective Networking</keyword>
-    <keyword>Security</keyword>
-    <keyword>Scrubbing</keyword>
-    <abstract>This document specifies the Denial-of-Service Open Threat Signaling (DOTS) signal channel Call Home, which enables a Call Home DOTS server to initiate a secure connection to a Call Home DOTS client and to receive attack traffic information from the Call Home DOTS client. The Call Home DOTS server in turn uses the attack traffic information to identify compromised devices launching outgoing DDoS attacks and take appropriate mitigation action(s). The DOTS signal channel Call Home is not specific to home networks; the solution targets any deployment in which it is required to block DDoS attack traffic closer to the source(s) of a DDoS attack.</abstract>
+    <abstract>
+      <t>This document specifies the Denial-of-Service Open Threat Signaling (DOTS) signal channel Call Home, which enables a Call Home DOTS server to initiate a secure connection to a Call Home DOTS client and to receive attack traffic information from the Call Home DOTS client. The Call Home DOTS server in turn uses the attack traffic information to identify compromised devices launching outgoing DDoS attacks and take appropriate mitigation action(s).</t>
+      <t>The DOTS signal channel Call Home is not specific to home networks; the solution targets any deployment in which it is required to block DDoS attack traffic closer to the source(s) of a DDoS attack.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9066"/>
+  <seriesInfo name="RFC" value="9066"/>
 </reference>

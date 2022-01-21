@@ -1,13 +1,26 @@
 <reference anchor="RFC8306" target="https://www.rfc-editor.org/info/rfc8306">
   <front>
     <title>Extensions to the Path Computation Element Communication Protocol (PCEP) for Point-to-Multipoint Traffic Engineering Label Switched Paths</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8306"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="D. Dhody"/>
-    <author fullname="R. Palleti"/>
-    <author fullname="D. King"/>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
+    <author fullname="R. Palleti" initials="R." surname="Palleti">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
     <date year="2017" month="November"/>
     <workgroup>pce</workgroup>
-    <abstract>Point-to-point Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering Label Switched Paths (TE LSPs) may be established using signaling techniques, but their paths may first need to be determined. The Path Computation Element (PCE) has been identified as an appropriate technology for the determination of the paths of point-to-multipoint (P2MP) TE LSPs. This document describes extensions to the PCE Communication Protocol (PCEP) to handle requests and responses for the computation of paths for P2MP TE LSPs. This document obsoletes RFC 6006.</abstract>
+    <abstract>
+      <t>Point-to-point Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering Label Switched Paths (TE LSPs) may be established using signaling techniques, but their paths may first need to be determined. The Path Computation Element (PCE) has been identified as an appropriate technology for the determination of the paths of point-to-multipoint (P2MP) TE LSPs.</t>
+      <t>This document describes extensions to the PCE Communication Protocol (PCEP) to handle requests and responses for the computation of paths for P2MP TE LSPs.</t>
+      <t>This document obsoletes RFC 6006.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8306"/>
+  <seriesInfo name="RFC" value="8306"/>
 </reference>

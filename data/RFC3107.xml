@@ -1,19 +1,18 @@
 <reference anchor="RFC3107" target="https://www.rfc-editor.org/info/rfc3107">
   <front>
     <title>Carrying Label Information in BGP-4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3107"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="E. Rosen"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
     <date year="2001" month="May"/>
     <workgroup>mpls</workgroup>
-    <keyword>SDP</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>AAL</keyword>
-    <keyword>syntax</keyword>
-    <keyword>adaption</keyword>
-    <keyword>layer</keyword>
-    <abstract>This document specifies the way in which the label mapping information for a particular route is piggybacked in the same Border Gateway Protocol (BGP) Update message that is used to distribute the route itself. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the way in which the label mapping information for a particular route is piggybacked in the same Border Gateway Protocol (BGP) Update message that is used to distribute the route itself. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3107"/>
+  <seriesInfo name="RFC" value="3107"/>
 </reference>

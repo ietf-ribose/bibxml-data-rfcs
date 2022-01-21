@@ -1,14 +1,19 @@
 <reference anchor="RFC5284" target="https://www.rfc-editor.org/info/rfc5284">
   <front>
     <title>User-Defined Errors for RSVP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5284"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>resource reservation protocol</keyword>
-    <keyword>user_error_spec</keyword>
-    <keyword>error_spec</keyword>
-    <abstract>The Resource ReserVation Protocol (RSVP) defines an ERROR_SPEC object for communicating errors. That object has a defined format that permits the definition of 256 error codes. As RSVP has been developed and extended, the convention has been to be conservative in defining new error codes. Further, no provision for user-defined errors exists in RSVP. This document defines a USER_ERROR_SPEC to be used in addition to the ERROR_SPEC to carry additional user information related to errors. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Resource ReserVation Protocol (RSVP) defines an ERROR_SPEC object for communicating errors. That object has a defined format that permits the definition of 256 error codes. As RSVP has been developed and extended, the convention has been to be conservative in defining new error codes. Further, no provision for user-defined errors exists in RSVP.</t>
+      <t>This document defines a USER_ERROR_SPEC to be used in addition to the ERROR_SPEC to carry additional user information related to errors. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5284"/>
+  <seriesInfo name="RFC" value="5284"/>
 </reference>

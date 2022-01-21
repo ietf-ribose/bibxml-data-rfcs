@@ -1,23 +1,18 @@
 <reference anchor="RFC6813" target="https://www.rfc-editor.org/info/rfc6813">
   <front>
     <title>The Network Endpoint Assessment (NEA) Asokan Attack Analysis</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6813"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="S. Hanna"/>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="S. Hanna" initials="S." surname="Hanna">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>nea</workgroup>
-    <keyword>Man-in-the-Middle</keyword>
-    <keyword>MITM</keyword>
-    <keyword>Security</keyword>
-    <keyword>Endpoint</keyword>
-    <keyword>Posture</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Forwarding</keyword>
-    <keyword>TNC</keyword>
-    <keyword>Channel</keyword>
-    <keyword>Binding</keyword>
-    <keyword>Cryptographic</keyword>
-    <keyword>Countermeasure</keyword>
-    <abstract>The Network Endpoint Assessment (NEA) protocols are subject to a subtle forwarding attack that has become known as the NEA Asokan Attack.  This document describes the attack and countermeasures that may be mounted.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Network Endpoint Assessment (NEA) protocols are subject to a subtle forwarding attack that has become known as the NEA Asokan Attack.  This document describes the attack and countermeasures that may be mounted.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6813"/>
+  <seriesInfo name="RFC" value="6813"/>
 </reference>

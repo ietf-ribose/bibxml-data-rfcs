@@ -1,10 +1,15 @@
 <reference anchor="RFC9080" target="https://www.rfc-editor.org/info/rfc9080">
   <front>
     <title>Homenet Profile of the Babel Routing Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9080"/>
-    <author fullname="J. Chroboczek"/>
+    <author fullname="J. Chroboczek" initials="J." surname="Chroboczek">
+      <organization/>
+    </author>
     <date year="2021" month="August"/>
     <workgroup>homenet</workgroup>
-    <abstract>This document defines the exact subset of the Babel routing protocol and its extensions that is required by an implementation of the Homenet protocol suite, as well as the interactions between the Home Networking Control Protocol (HNCP) and Babel.</abstract>
+    <abstract>
+      <t>This document defines the exact subset of the Babel routing protocol and its extensions that is required by an implementation of the Homenet protocol suite, as well as the interactions between the Home Networking Control Protocol (HNCP) and Babel.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9080"/>
+  <seriesInfo name="RFC" value="9080"/>
 </reference>

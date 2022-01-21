@@ -1,12 +1,21 @@
 <reference anchor="RFC6677" target="https://www.rfc-editor.org/info/rfc6677">
   <front>
     <title>Channel-Binding Support for Extensible Authentication Protocol (EAP) Methods</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6677"/>
-    <author fullname="S. Hartman"/>
-    <author fullname="T. Clancy"/>
-    <author fullname="K. Hoeper"/>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
+    <author fullname="T. Clancy" initials="T." surname="Clancy">
+      <organization/>
+    </author>
+    <author fullname="K. Hoeper" initials="K." surname="Hoeper">
+      <organization/>
+    </author>
     <date year="2012" month="July"/>
     <workgroup>emu</workgroup>
-    <abstract>This document defines how to implement channel bindings for Extensible Authentication Protocol (EAP) methods to address the "lying Network Access Service (NAS)" problem as well as the "lying provider" problem. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines how to implement channel bindings for Extensible Authentication Protocol (EAP) methods to address the "lying Network Access Service (NAS)" problem as well as the "lying provider" problem. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6677"/>
+  <seriesInfo name="RFC" value="6677"/>
 </reference>

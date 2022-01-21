@@ -1,22 +1,27 @@
 <reference anchor="RFC4712" target="https://www.rfc-editor.org/info/rfc4712">
   <front>
     <title>Transport Mappings for Real-time Application Quality-of-Service Monitoring (RAQMON) Protocol Data Unit (PDU)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4712"/>
-    <author fullname="A. Siddiqui"/>
-    <author fullname="D. Romascanu"/>
-    <author fullname="E. Golovinsky"/>
-    <author fullname="M. Rahman"/>
-    <author fullname="Y. Kim"/>
+    <author fullname="A. Siddiqui" initials="A." surname="Siddiqui">
+      <organization/>
+    </author>
+    <author fullname="D. Romascanu" initials="D." surname="Romascanu">
+      <organization/>
+    </author>
+    <author fullname="E. Golovinsky" initials="E." surname="Golovinsky">
+      <organization/>
+    </author>
+    <author fullname="M. Rahman" initials="M." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="Y. Kim" initials="Y." surname="Kim">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>rmonmib</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>snmp</keyword>
-    <keyword>simple network management protocol</keyword>
-    <keyword>rds</keyword>
-    <keyword>raqmon data source</keyword>
-    <keyword>qos</keyword>
-    <keyword>RAQMON-RDS-MIB</keyword>
-    <abstract>This memo specifies two transport mappings of the \%Real-Time Application Quality-of-Service Monitoring (RAQMON) information model defined in RFC 4710 using TCP as a native transport and the Simple Network Management Protocol (SNMP) to carry the RAQMON information from a RAQMON Data Source (RDS) to a RAQMON Report Collector (RRC). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies two transport mappings of the \%Real-Time Application Quality-of-Service Monitoring (RAQMON) information model defined in RFC 4710 using TCP as a native transport and the Simple Network Management Protocol (SNMP) to carry the RAQMON information from a RAQMON Data Source (RDS) to a RAQMON Report Collector (RRC). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4712"/>
+  <seriesInfo name="RFC" value="4712"/>
 </reference>

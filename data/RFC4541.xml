@@ -1,14 +1,21 @@
 <reference anchor="RFC4541" target="https://www.rfc-editor.org/info/rfc4541">
   <front>
     <title>Considerations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) Snooping Switches</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4541"/>
-    <author fullname="M. Christensen"/>
-    <author fullname="K. Kimball"/>
-    <author fullname="F. Solensky"/>
+    <author fullname="M. Christensen" initials="M." surname="Christensen">
+      <organization/>
+    </author>
+    <author fullname="K. Kimball" initials="K." surname="Kimball">
+      <organization/>
+    </author>
+    <author fullname="F. Solensky" initials="F." surname="Solensky">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>magma</workgroup>
-    <keyword>igmpv3</keyword>
-    <keyword>mldv2</keyword>
-    <abstract>This memo describes the recommendations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) snooping switches.  These are based on best current practices for IGMPv2, with further considerations for IGMPv3- and MLDv2-snooping.  Additional areas of relevance, such as link layer topology changes and Ethernet-specific encapsulation issues, are also considered.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes the recommendations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) snooping switches.  These are based on best current practices for IGMPv2, with further considerations for IGMPv3- and MLDv2-snooping.  Additional areas of relevance, such as link layer topology changes and Ethernet-specific encapsulation issues, are also considered.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4541"/>
+  <seriesInfo name="RFC" value="4541"/>
 </reference>

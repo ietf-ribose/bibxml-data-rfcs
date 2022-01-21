@@ -1,11 +1,15 @@
 <reference anchor="RFC1184" target="https://www.rfc-editor.org/info/rfc1184">
   <front>
     <title>Telnet Linemode Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1184"/>
-    <author fullname="D.A. Borman"/>
+    <author fullname="D.A. Borman" initials="D.A." surname="Borman">
+      <organization/>
+    </author>
     <date year="1990" month="October"/>
     <workgroup>telnet</workgroup>
-    <keyword>TOPT-LINE</keyword>
-    <abstract>This RFC specifies a procedure for line at a time terminal interaction based on the Telnet Protocol.  It obsoletes RFC 1116. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC specifies a procedure for line at a time terminal interaction based on the Telnet Protocol.  It obsoletes RFC 1116. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1184"/>
+  <seriesInfo name="RFC" value="1184"/>
 </reference>

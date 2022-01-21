@@ -1,11 +1,16 @@
 <reference anchor="RFC4709" target="https://www.rfc-editor.org/info/rfc4709">
   <front>
     <title>Mounting Web Distributed Authoring and Versioning (WebDAV) Servers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4709"/>
-    <author fullname="J. Reschke"/>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>drag-and-drop</keyword>
-    <abstract>In current Web browsers, there is no uniform way to specify that a user clicking on a link will be presented with an editable view of a Web Distinguished Authoring and Versioning (WebDAV) server. For example, it is frequently desirable to be able to click on a link and have this link open a window that can handle drag-and-drop interaction with the resources of a WebDAV server. This document specifies a mechanism and a document format that enables WebDAV servers to send "mounting" information to a WebDAV client. The mechanism is designed to work on any platform and with any combination of browser and WebDAV client, relying solely on the well-understood dispatch of documents through their MIME type. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>In current Web browsers, there is no uniform way to specify that a user clicking on a link will be presented with an editable view of a Web Distinguished Authoring and Versioning (WebDAV) server. For example, it is frequently desirable to be able to click on a link and have this link open a window that can handle drag-and-drop interaction with the resources of a WebDAV server.</t>
+      <t>This document specifies a mechanism and a document format that enables WebDAV servers to send "mounting" information to a WebDAV client. The mechanism is designed to work on any platform and with any combination of browser and WebDAV client, relying solely on the well-understood dispatch of documents through their MIME type. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4709"/>
+  <seriesInfo name="RFC" value="4709"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="RFC5436" target="https://www.rfc-editor.org/info/rfc5436">
   <front>
     <title>Sieve Notification Mechanism: mailto</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5436"/>
-    <author fullname="B. Leiba"/>
-    <author fullname="M. Haardt"/>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
+    <author fullname="M. Haardt" initials="M." surname="Haardt">
+      <organization/>
+    </author>
     <date year="2009" month="January"/>
     <workgroup>sieve</workgroup>
-    <keyword>eletctronic mail notification</keyword>
-    <abstract>This document describes a profile of the Sieve extension for notifications, to allow notifications to be sent by electronic mail. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a profile of the Sieve extension for notifications, to allow notifications to be sent by electronic mail. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5436"/>
+  <seriesInfo name="RFC" value="5436"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC5947" target="https://www.rfc-editor.org/info/rfc5947">
   <front>
     <title>Requirements for Multiple Address of Record (AOR) Reachability Information in the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5947"/>
-    <author fullname="J. Elwell"/>
-    <author fullname="H. Kaplan"/>
+    <author fullname="J. Elwell" initials="J." surname="Elwell">
+      <organization/>
+    </author>
+    <author fullname="H. Kaplan" initials="H." surname="Kaplan">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
     <workgroup>martini</workgroup>
-    <keyword>Trunking</keyword>
-    <keyword>pbx</keyword>
-    <keyword>private branch exchange</keyword>
-    <abstract>This document states requirements for a standardized SIP registration mechanism for multiple addresses of record (AORs), the mechanism being suitable for deployment by SIP service providers on a large scale in support of small to medium sized Private Branch Exchanges (PBXs).  The requirements are for a solution that can, as a minimum, support AORs based on E.164 numbers.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document states requirements for a standardized SIP registration mechanism for multiple addresses of record (AORs), the mechanism being suitable for deployment by SIP service providers on a large scale in support of small to medium sized Private Branch Exchanges (PBXs).  The requirements are for a solution that can, as a minimum, support AORs based on E.164 numbers.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5947"/>
+  <seriesInfo name="RFC" value="5947"/>
 </reference>

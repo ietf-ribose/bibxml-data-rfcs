@@ -1,17 +1,24 @@
 <reference anchor="RFC2820" target="https://www.rfc-editor.org/info/rfc2820">
   <front>
     <title>Access Control Requirements for LDAP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2820"/>
-    <author fullname="E. Stokes"/>
-    <author fullname="D. Byrne"/>
-    <author fullname="B. Blakley"/>
-    <author fullname="P. Behera"/>
+    <author fullname="E. Stokes" initials="E." surname="Stokes">
+      <organization/>
+    </author>
+    <author fullname="D. Byrne" initials="D." surname="Byrne">
+      <organization/>
+    </author>
+    <author fullname="B. Blakley" initials="B." surname="Blakley">
+      <organization/>
+    </author>
+    <author fullname="P. Behera" initials="P." surname="Behera">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
     <workgroup>ldapext</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes the fundamental requirements of an access control list (ACL) model for the Lightweight Directory Application Protocol (LDAP) directory service.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the fundamental requirements of an access control list (ACL) model for the Lightweight Directory Application Protocol (LDAP) directory service.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2820"/>
+  <seriesInfo name="RFC" value="2820"/>
 </reference>

@@ -1,19 +1,21 @@
 <reference anchor="RFC7367" target="https://www.rfc-editor.org/info/rfc7367">
   <front>
     <title>Definition of Managed Objects for the Mobile Ad Hoc Network (MANET) Simplified Multicast Framework Relay Set Process</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7367"/>
-    <author fullname="R. Cole"/>
-    <author fullname="J. Macker"/>
-    <author fullname="B. Adamson"/>
+    <author fullname="R. Cole" initials="R." surname="Cole">
+      <organization/>
+    </author>
+    <author fullname="J. Macker" initials="J." surname="Macker">
+      <organization/>
+    </author>
+    <author fullname="B. Adamson" initials="B." surname="Adamson">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>manet</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Management Information Base</keyword>
-    <keyword>MIB</keyword>
-    <keyword>SMIv2</keyword>
-    <keyword>Routing</keyword>
-    <keyword>MANET</keyword>
-    <keyword>Multicast</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects for configuring aspects of the Simplified Multicast Forwarding (SMF) process for Mobile Ad Hoc Networks (MANETs).  The SMF-MIB module also reports state information, performance information, and notifications.  In addition to configuration, the additional state and performance information is useful to operators troubleshooting multicast forwarding problems.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects for configuring aspects of the Simplified Multicast Forwarding (SMF) process for Mobile Ad Hoc Networks (MANETs).  The SMF-MIB module also reports state information, performance information, and notifications.  In addition to configuration, the additional state and performance information is useful to operators troubleshooting multicast forwarding problems.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7367"/>
+  <seriesInfo name="RFC" value="7367"/>
 </reference>

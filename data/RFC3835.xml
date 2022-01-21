@@ -1,18 +1,27 @@
 <reference anchor="RFC3835" target="https://www.rfc-editor.org/info/rfc3835">
   <front>
     <title>An Architecture for Open Pluggable Edge Services (OPES)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3835"/>
-    <author fullname="A. Barbir"/>
-    <author fullname="R. Penno"/>
-    <author fullname="R. Chen"/>
-    <author fullname="M. Hofmann"/>
-    <author fullname="H. Orman"/>
+    <author fullname="A. Barbir" initials="A." surname="Barbir">
+      <organization/>
+    </author>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="R. Chen" initials="R." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="M. Hofmann" initials="M." surname="Hofmann">
+      <organization/>
+    </author>
+    <author fullname="H. Orman" initials="H." surname="Orman">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>opes</workgroup>
-    <keyword>application service</keyword>
-    <keyword>data stream service</keyword>
-    <keyword>data consumer</keyword>
-    <keyword>data dispatcher architecture</keyword>
-    <abstract>This memo defines an architecture that enables the creation of an application service in which a data provider, a data consumer, and zero or more application entities cooperatively implement a data stream service.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an architecture that enables the creation of an application service in which a data provider, a data consumer, and zero or more application entities cooperatively implement a data stream service.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3835"/>
+  <seriesInfo name="RFC" value="3835"/>
 </reference>

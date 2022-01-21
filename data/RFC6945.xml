@@ -1,13 +1,24 @@
 <reference anchor="RFC6945" target="https://www.rfc-editor.org/info/rfc6945">
   <front>
     <title>Definitions of Managed Objects for the Resource Public Key Infrastructure (RPKI) to Router Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6945"/>
-    <author fullname="R. Bush"/>
-    <author fullname="B. Wijnen"/>
-    <author fullname="K. Patel"/>
-    <author fullname="M. Baer"/>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="M. Baer" initials="M." surname="Baer">
+      <organization/>
+    </author>
     <date year="2013" month="May"/>
     <workgroup>sidr</workgroup>
-    <abstract>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for monitoring the Resource Public Key Infrastructure (RPKI) to Router Protocol.</abstract>
+    <abstract>
+      <t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for monitoring the Resource Public Key Infrastructure (RPKI) to Router Protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6945"/>
+  <seriesInfo name="RFC" value="6945"/>
 </reference>

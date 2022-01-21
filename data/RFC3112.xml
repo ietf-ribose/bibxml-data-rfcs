@@ -1,13 +1,14 @@
 <reference anchor="RFC3112" target="https://www.rfc-editor.org/info/rfc3112">
   <front>
     <title>LDAP Authentication Password Schema</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3112"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2001" month="May"/>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes schema in support of user/password authentication in a LDAP (Lightweight Directory Access Protocol) directory including the authPassword attribute type.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes schema in support of user/password authentication in a LDAP (Lightweight Directory Access Protocol) directory including the authPassword attribute type.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3112"/>
+  <seriesInfo name="RFC" value="3112"/>
 </reference>

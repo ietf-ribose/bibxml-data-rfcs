@@ -1,13 +1,15 @@
 <reference anchor="RFC5596" target="https://www.rfc-editor.org/info/rfc5596">
   <front>
     <title>Datagram Congestion Control Protocol (DCCP) Simultaneous-Open Technique to Facilitate NAT/Middlebox Traversal</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5596"/>
-    <author fullname="G. Fairhurst"/>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
     <date year="2009" month="September"/>
     <workgroup>dccp</workgroup>
-    <keyword>DCCP</keyword>
-    <keyword>NAT traversal</keyword>
-    <keyword>Middlebox Issues</keyword>
-    <abstract>This document specifies an update to the Datagram Congestion Control Protocol (DCCP), a connection-oriented and datagram-based transport protocol.  The update adds support for the DCCP-Listen packet.  This assists DCCP applications to communicate through middleboxes (e.g., a Network Address Port Translator or a DCCP server behind a firewall), where peering endpoints need to initiate communication in a near- simultaneous manner to establish necessary middlebox state. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an update to the Datagram Congestion Control Protocol (DCCP), a connection-oriented and datagram-based transport protocol.  The update adds support for the DCCP-Listen packet.  This assists DCCP applications to communicate through middleboxes (e.g., a Network Address Port Translator or a DCCP server behind a firewall), where peering endpoints need to initiate communication in a near- simultaneous manner to establish necessary middlebox state. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5596"/>
+  <seriesInfo name="RFC" value="5596"/>
 </reference>

@@ -1,19 +1,24 @@
 <reference anchor="RFC2576" target="https://www.rfc-editor.org/info/rfc2576">
   <front>
     <title>Coexistence between Version 1, Version 2, and Version 3 of the Internet-standard Network Management Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2576"/>
-    <author fullname="R. Frye"/>
-    <author fullname="D. Levi"/>
-    <author fullname="S. Routhier"/>
-    <author fullname="B. Wijnen"/>
+    <author fullname="R. Frye" initials="R." surname="Frye">
+      <organization/>
+    </author>
+    <author fullname="D. Levi" initials="D." surname="Levi">
+      <organization/>
+    </author>
+    <author fullname="S. Routhier" initials="S." surname="Routhier">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
     <date year="2000" month="March"/>
     <workgroup>snmpv3</workgroup>
-    <keyword>SNMP</keyword>
-    <keyword>simple network</keyword>
-    <keyword>management protocol</keyword>
-    <keyword>mib</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>The purpose of this document is to describe coexistence between version 3 of the Internet-standard Network Management Framework, (SNMPv3), version 2 of the Internet-standard Network Management Framework (SNMPv2), and the original Internet-standard Network Management Framework (SNMPv1). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The purpose of this document is to describe coexistence between version 3 of the Internet-standard Network Management Framework, (SNMPv3), version 2 of the Internet-standard Network Management Framework (SNMPv2), and the original Internet-standard Network Management Framework (SNMPv1). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2576"/>
+  <seriesInfo name="RFC" value="2576"/>
 </reference>

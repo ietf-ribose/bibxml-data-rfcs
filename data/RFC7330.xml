@@ -1,17 +1,21 @@
 <reference anchor="RFC7330" target="https://www.rfc-editor.org/info/rfc7330">
   <front>
     <title>Definitions of Textual Conventions (TCs) for Bidirectional Forwarding Detection (BFD) Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7330"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="N. Akiya"/>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="N. Akiya" initials="N." surname="Akiya">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>bfd</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>management Information Base</keyword>
-    <keyword>MIB</keyword>
-    <keyword>SMIv2</keyword>
-    <keyword>BFD</keyword>
-    <abstract>This document defines two Management Information Base (MIB) modules that contain Textual Conventions to represent commonly used Bidirectional Forwarding Detection (BFD) management information.  The intent is that these TEXTUAL CONVENTIONS (TCs) will be imported and used in BFD-related MIB modules that would otherwise define their own representations.</abstract>
+    <abstract>
+      <t>This document defines two Management Information Base (MIB) modules that contain Textual Conventions to represent commonly used Bidirectional Forwarding Detection (BFD) management information.  The intent is that these TEXTUAL CONVENTIONS (TCs) will be imported and used in BFD-related MIB modules that would otherwise define their own representations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7330"/>
+  <seriesInfo name="RFC" value="7330"/>
 </reference>

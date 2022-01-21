@@ -1,14 +1,18 @@
 <reference anchor="RFC2639" target="https://www.rfc-editor.org/info/rfc2639">
   <front>
     <title>Internet Printing Protocol/1.0: Implementer's Guide</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2639"/>
-    <author fullname="T. Hastings"/>
-    <author fullname="C. Manros"/>
+    <author fullname="T. Hastings" initials="T." surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="C. Manros" initials="C." surname="Manros">
+      <organization/>
+    </author>
     <date year="1999" month="July"/>
     <workgroup>ipp</workgroup>
-    <keyword>IPP</keyword>
-    <keyword>client</keyword>
-    <keyword>object</keyword>
-    <abstract>This document contains information that supplements the IPP Model and Semantics and the IPP Transport and Encoding documents.  It is intended to help implementers understand IPP/1.0 and some of the considerations that may assist them in the design of their client and/or IPP object implementations.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document contains information that supplements the IPP Model and Semantics and the IPP Transport and Encoding documents.  It is intended to help implementers understand IPP/1.0 and some of the considerations that may assist them in the design of their client and/or IPP object implementations.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2639"/>
+  <seriesInfo name="RFC" value="2639"/>
 </reference>

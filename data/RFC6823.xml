@@ -1,13 +1,21 @@
 <reference anchor="RFC6823" target="https://www.rfc-editor.org/info/rfc6823">
   <front>
     <title>Advertising Generic Information in IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6823"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="M. Shand"/>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="M. Shand" initials="M." surname="Shand">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <abstract>This document describes the manner in which generic application information (i.e., information not directly related to the operation of the Intermediate System to Intermediate System (IS-IS) protocol) should be advertised in IS-IS Link State Protocol Data Units (LSPs) and defines guidelines that should be used when flooding such information.</abstract>
+    <abstract>
+      <t>This document describes the manner in which generic application information (i.e., information not directly related to the operation of the Intermediate System to Intermediate System (IS-IS) protocol) should be advertised in IS-IS Link State Protocol Data Units (LSPs) and defines guidelines that should be used when flooding such information.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6823"/>
+  <seriesInfo name="RFC" value="6823"/>
 </reference>

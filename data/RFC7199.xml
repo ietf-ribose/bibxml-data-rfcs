@@ -1,17 +1,24 @@
 <reference anchor="RFC7199" target="https://www.rfc-editor.org/info/rfc7199">
   <front>
     <title>Location Configuration Extensions for Policy Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7199"/>
-    <author fullname="R. Barnes"/>
-    <author fullname="M. Thomson"/>
-    <author fullname="J. Winterbottom"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="J. Winterbottom" initials="J." surname="Winterbottom">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2014" month="April"/>
     <workgroup>geopriv</workgroup>
-    <keyword>geopriv</keyword>
-    <keyword>geolocation</keyword>
-    <keyword>privacy</keyword>
-    <keyword>policy</keyword>
-    <abstract>Current location configuration protocols are capable of provisioning an Internet host with a location URI that refers to the host's location.  These protocols lack a mechanism for the target host to inspect or set the privacy rules that are applied to the URIs they distribute.  This document extends the current location configuration protocols to provide hosts with a reference to the rules that are applied to a URI so that the host can view or set these rules.</abstract>
+    <abstract>
+      <t>Current location configuration protocols are capable of provisioning an Internet host with a location URI that refers to the host's location.  These protocols lack a mechanism for the target host to inspect or set the privacy rules that are applied to the URIs they distribute.  This document extends the current location configuration protocols to provide hosts with a reference to the rules that are applied to a URI so that the host can view or set these rules.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7199"/>
+  <seriesInfo name="RFC" value="7199"/>
 </reference>

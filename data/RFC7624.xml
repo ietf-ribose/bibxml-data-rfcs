@@ -1,16 +1,32 @@
 <reference anchor="RFC7624" target="https://www.rfc-editor.org/info/rfc7624">
   <front>
     <title>Confidentiality in the Face of Pervasive Surveillance: A Threat Model and Problem Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7624"/>
-    <author fullname="R. Barnes"/>
-    <author fullname="B. Schneier"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="T. Hardie"/>
-    <author fullname="B. Trammell"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="D. Borkmann"/>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="B. Schneier" initials="B." surname="Schneier">
+      <organization/>
+    </author>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="T. Hardie" initials="T." surname="Hardie">
+      <organization/>
+    </author>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="D. Borkmann" initials="D." surname="Borkmann">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
-    <keyword>eavesdropping</keyword>
-    <abstract>Since the initial revelations of pervasive surveillance in 2013, several classes of attacks on Internet communications have been discovered.  In this document, we develop a threat model that describes these attacks on Internet confidentiality.  We assume an attacker that is interested in undetected, indiscriminate eavesdropping.  The threat model is based on published, verified attacks.</abstract>
+    <abstract>
+      <t>Since the initial revelations of pervasive surveillance in 2013, several classes of attacks on Internet communications have been discovered.  In this document, we develop a threat model that describes these attacks on Internet confidentiality.  We assume an attacker that is interested in undetected, indiscriminate eavesdropping.  The threat model is based on published, verified attacks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7624"/>
+  <seriesInfo name="RFC" value="7624"/>
 </reference>

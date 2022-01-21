@@ -1,14 +1,24 @@
 <reference anchor="RFC7513" target="https://www.rfc-editor.org/info/rfc7513">
   <front>
     <title>Source Address Validation Improvement (SAVI) Solution for DHCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7513"/>
-    <author fullname="J. Bi"/>
-    <author fullname="J. Wu"/>
-    <author fullname="G. Yao"/>
-    <author fullname="F. Baker"/>
+    <author fullname="J. Bi" initials="J." surname="Bi">
+      <organization/>
+    </author>
+    <author fullname="J. Wu" initials="J." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="G. Yao" initials="G." surname="Yao">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>savi</workgroup>
-    <keyword>SAVI-DHCP</keyword>
-    <abstract>This document specifies the procedure for creating a binding between a DHCPv4/DHCPv6-assigned IP address and a binding anchor on a Source Address Validation Improvement (SAVI) device.  The bindings set up by this procedure are used to filter packets with forged source IP addresses.  This mechanism complements BCP 38 (RFC 2827) ingress filtering, providing finer-grained source IP address validation.</abstract>
+    <abstract>
+      <t>This document specifies the procedure for creating a binding between a DHCPv4/DHCPv6-assigned IP address and a binding anchor on a Source Address Validation Improvement (SAVI) device.  The bindings set up by this procedure are used to filter packets with forged source IP addresses.  This mechanism complements BCP 38 (RFC 2827) ingress filtering, providing finer-grained source IP address validation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7513"/>
+  <seriesInfo name="RFC" value="7513"/>
 </reference>

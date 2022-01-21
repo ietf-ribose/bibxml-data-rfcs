@@ -1,26 +1,21 @@
 <reference anchor="RFC7228" target="https://www.rfc-editor.org/info/rfc7228">
   <front>
     <title>Terminology for Constrained-Node Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7228"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="M. Ersue"/>
-    <author fullname="A. Keranen"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="M. Ersue" initials="M." surname="Ersue">
+      <organization/>
+    </author>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>lwig</workgroup>
-    <keyword>IoT</keyword>
-    <keyword>Internet of Things</keyword>
-    <keyword>Embedded Internet</keyword>
-    <keyword>Smart Object</keyword>
-    <keyword>Sensor Network</keyword>
-    <keyword>WSN</keyword>
-    <keyword>Constrained node</keyword>
-    <keyword>Constrained network</keyword>
-    <keyword>LLN</keyword>
-    <keyword>LoWPAN</keyword>
-    <keyword>6LoWPAN</keyword>
-    <keyword>Always-on</keyword>
-    <keyword>Low-power</keyword>
-    <keyword>Energy efficient</keyword>
-    <abstract>The Internet Protocol Suite is increasingly used on small devices with severe constraints on power, memory, and processing resources, creating constrained-node networks.  This document provides a number of basic terms that have been useful in the standardization work for constrained-node networks.</abstract>
+    <abstract>
+      <t>The Internet Protocol Suite is increasingly used on small devices with severe constraints on power, memory, and processing resources, creating constrained-node networks.  This document provides a number of basic terms that have been useful in the standardization work for constrained-node networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7228"/>
+  <seriesInfo name="RFC" value="7228"/>
 </reference>

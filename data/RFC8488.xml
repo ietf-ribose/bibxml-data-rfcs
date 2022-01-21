@@ -1,14 +1,18 @@
 <reference anchor="RFC8488" target="https://www.rfc-editor.org/info/rfc8488">
   <front>
     <title>RIPE NCC's Implementation of Resource Public Key Infrastructure (RPKI) Certificate Tree Validation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8488"/>
-    <author fullname="O. Muravskiy"/>
-    <author fullname="T. Bruijnzeels"/>
+    <author fullname="O. Muravskiy" initials="O." surname="Muravskiy">
+      <organization/>
+    </author>
+    <author fullname="T. Bruijnzeels" initials="T." surname="Bruijnzeels">
+      <organization/>
+    </author>
     <date year="2018" month="December"/>
     <workgroup>sidrops</workgroup>
-    <keyword>RPKI</keyword>
-    <keyword>validation</keyword>
-    <keyword>RRDP</keyword>
-    <abstract>This document describes an approach to validating the content of the Resource Public Key Infrastructure (RPKI) certificate tree, as it is implemented in the RIPE NCC RPKI Validator.  This approach is independent of a particular object retrieval mechanism, which allows it to be used with repositories available over the rsync protocol, the RPKI Repository Delta Protocol (RRDP), and repositories that use a mix of both.</abstract>
+    <abstract>
+      <t>This document describes an approach to validating the content of the Resource Public Key Infrastructure (RPKI) certificate tree, as it is implemented in the RIPE NCC RPKI Validator.  This approach is independent of a particular object retrieval mechanism, which allows it to be used with repositories available over the rsync protocol, the RPKI Repository Delta Protocol (RRDP), and repositories that use a mix of both.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8488"/>
+  <seriesInfo name="RFC" value="8488"/>
 </reference>

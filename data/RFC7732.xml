@@ -1,15 +1,18 @@
 <reference anchor="RFC7732" target="https://www.rfc-editor.org/info/rfc7732">
   <front>
     <title>Forwarder Policy for Multicast with Admin-Local Scope in the Multicast Protocol for Low-Power and Lossy Networks (MPL)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7732"/>
-    <author fullname="P. van der Stok"/>
-    <author fullname="R. Cragie"/>
+    <author fullname="P. van der Stok" initials="P." surname="van">
+      <organization/>
+    </author>
+    <author fullname="R. Cragie" initials="R." surname="Cragie">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>roll</workgroup>
-    <keyword>routing</keyword>
-    <keyword>MPL</keyword>
-    <keyword>multicast policy</keyword>
-    <keyword>IP networks</keyword>
-    <abstract>The purpose of this document is to specify an automated policy for the routing of Multicast Protocol for Low-Power and Lossy Networks (MPL) multicast messages with Admin-Local scope in a border router.</abstract>
+    <abstract>
+      <t>The purpose of this document is to specify an automated policy for the routing of Multicast Protocol for Low-Power and Lossy Networks (MPL) multicast messages with Admin-Local scope in a border router.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7732"/>
+  <seriesInfo name="RFC" value="7732"/>
 </reference>

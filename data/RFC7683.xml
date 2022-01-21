@@ -1,14 +1,24 @@
 <reference anchor="RFC7683" target="https://www.rfc-editor.org/info/rfc7683">
   <front>
     <title>Diameter Overload Indication Conveyance</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7683"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="S. Donovan"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="L. Morand"/>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="S. Donovan" initials="S." surname="Donovan">
+      <organization/>
+    </author>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="L. Morand" initials="L." surname="Morand">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>dime</workgroup>
-    <keyword>DOIC</keyword>
-    <abstract>This specification defines a base solution for Diameter overload control, referred to as Diameter Overload Indication Conveyance (DOIC).</abstract>
+    <abstract>
+      <t>This specification defines a base solution for Diameter overload control, referred to as Diameter Overload Indication Conveyance (DOIC).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7683"/>
+  <seriesInfo name="RFC" value="7683"/>
 </reference>

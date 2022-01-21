@@ -1,17 +1,27 @@
 <reference anchor="RFC5515" target="https://www.rfc-editor.org/info/rfc5515">
   <front>
     <title>Layer 2 Tunneling Protocol (L2TP) Access Line Information Attribute Value Pair (AVP) Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5515"/>
-    <author fullname="V. Mammoliti"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="P. Arberg"/>
-    <author fullname="J. Gibbons"/>
-    <author fullname="P. Howard"/>
+    <author fullname="V. Mammoliti" initials="V." surname="Mammoliti">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="P. Arberg" initials="P." surname="Arberg">
+      <organization/>
+    </author>
+    <author fullname="J. Gibbons" initials="J." surname="Gibbons">
+      <organization/>
+    </author>
+    <author fullname="P. Howard" initials="P." surname="Howard">
+      <organization/>
+    </author>
     <date year="2009" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>L2TP</keyword>
-    <keyword>Acces Line Information</keyword>
-    <keyword>DSLAM</keyword>
-    <abstract>This document describes a set of Layer 2 Tunneling Protocol (L2TP) Attribute Value Pair (AVP) extensions designed to carry the subscriber Access Line identification and characterization information that arrives at the Broadband Remote Access Server (BRAS) with L2TP Access Concentrator (LAC) functionality.  It also describes a mechanism to report connection speed changes, after the initial connection speeds are sent during session establishment.  The primary purpose of this document is to provide a reference for DSL equipment vendors wishing to interoperate with other vendors' products.  The L2TP AVPs defined in this document are applicable to both L2TPv2 and L2TPv3.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a set of Layer 2 Tunneling Protocol (L2TP) Attribute Value Pair (AVP) extensions designed to carry the subscriber Access Line identification and characterization information that arrives at the Broadband Remote Access Server (BRAS) with L2TP Access Concentrator (LAC) functionality.  It also describes a mechanism to report connection speed changes, after the initial connection speeds are sent during session establishment.  The primary purpose of this document is to provide a reference for DSL equipment vendors wishing to interoperate with other vendors' products.  The L2TP AVPs defined in this document are applicable to both L2TPv2 and L2TPv3.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5515"/>
+  <seriesInfo name="RFC" value="5515"/>
 </reference>

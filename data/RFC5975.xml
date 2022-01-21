@@ -1,13 +1,24 @@
 <reference anchor="RFC5975" target="https://www.rfc-editor.org/info/rfc5975">
   <front>
     <title>QSPEC Template for the Quality-of-Service NSIS Signaling Layer Protocol (NSLP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5975"/>
-    <author fullname="G. Ash"/>
-    <author fullname="A. Bader"/>
-    <author fullname="C. Kappler"/>
-    <author fullname="D. Oran"/>
+    <author fullname="G. Ash" initials="G." surname="Ash">
+      <organization/>
+    </author>
+    <author fullname="A. Bader" initials="A." surname="Bader">
+      <organization/>
+    </author>
+    <author fullname="C. Kappler" initials="C." surname="Kappler">
+      <organization/>
+    </author>
+    <author fullname="D. Oran" initials="D." surname="Oran">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>nsis</workgroup>
-    <abstract>The Quality-of-Service (QoS) NSIS signaling layer protocol (NSLP) is used to signal QoS reservations and is independent of a specific QoS model (QOSM) such as IntServ or Diffserv.  Rather, all information specific to a QOSM is encapsulated in a separate object, the QSPEC.  This document defines a template for the QSPEC including a number of QSPEC parameters.  The QSPEC parameters provide a common language to be reused in several QOSMs and thereby aim to ensure the extensibility and interoperability of QoS NSLP.  While the base protocol is QOSM-agnostic, the parameters that can be carried in the QSPEC object are possibly closely coupled to specific models.  The node initiating the NSIS signaling adds an Initiator QSPEC, which indicates the QSPEC parameters that must be interpreted by the downstream nodes less the reservation fails, thereby ensuring the intention of the NSIS initiator is preserved along the signaling path.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Quality-of-Service (QoS) NSIS signaling layer protocol (NSLP) is used to signal QoS reservations and is independent of a specific QoS model (QOSM) such as IntServ or Diffserv.  Rather, all information specific to a QOSM is encapsulated in a separate object, the QSPEC.  This document defines a template for the QSPEC including a number of QSPEC parameters.  The QSPEC parameters provide a common language to be reused in several QOSMs and thereby aim to ensure the extensibility and interoperability of QoS NSLP.  While the base protocol is QOSM-agnostic, the parameters that can be carried in the QSPEC object are possibly closely coupled to specific models.  The node initiating the NSIS signaling adds an Initiator QSPEC, which indicates the QSPEC parameters that must be interpreted by the downstream nodes less the reservation fails, thereby ensuring the intention of the NSIS initiator is preserved along the signaling path.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5975"/>
+  <seriesInfo name="RFC" value="5975"/>
 </reference>

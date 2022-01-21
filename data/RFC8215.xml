@@ -1,17 +1,15 @@
 <reference anchor="RFC8215" target="https://www.rfc-editor.org/info/rfc8215">
   <front>
     <title>Local-Use IPv4/IPv6 Translation Prefix</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8215"/>
-    <author fullname="T. Anderson"/>
+    <author fullname="T. Anderson" initials="T." surname="Anderson">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>v6ops</workgroup>
-    <keyword>IPv6 transition</keyword>
-    <keyword>IVI</keyword>
-    <keyword>MAP</keyword>
-    <keyword>NAT64</keyword>
-    <keyword>SIIT</keyword>
-    <keyword>SIIT-DC</keyword>
-    <keyword>Transition</keyword>
-    <abstract>This document reserves the IPv6 prefix 64:ff9b:1::/48 for local use within domains that enable IPv4/IPv6 translation mechanisms.</abstract>
+    <abstract>
+      <t>This document reserves the IPv6 prefix 64:ff9b:1::/48 for local use within domains that enable IPv4/IPv6 translation mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8215"/>
+  <seriesInfo name="RFC" value="8215"/>
 </reference>

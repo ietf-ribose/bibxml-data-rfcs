@@ -1,17 +1,26 @@
 <reference anchor="RFC2705" target="https://www.rfc-editor.org/info/rfc2705">
   <front>
     <title>Media Gateway Control Protocol (MGCP) Version 1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2705"/>
-    <author fullname="M. Arango"/>
-    <author fullname="A. Dugan"/>
-    <author fullname="I. Elliott"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="S. Pickett"/>
+    <author fullname="M. Arango" initials="M." surname="Arango">
+      <organization/>
+    </author>
+    <author fullname="A. Dugan" initials="A." surname="Dugan">
+      <organization/>
+    </author>
+    <author fullname="I. Elliott" initials="I." surname="Elliott">
+      <organization/>
+    </author>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="S. Pickett" initials="S." surname="Pickett">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
-    <keyword>voice</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet</keyword>
-    <keyword>VoIP</keyword>
-    <abstract>This document describes an application programming interface and a corresponding protocol (MGCP) for controlling Voice over IP (VoIP) Gateways from external call control elements.  MGCP assumes a call control architecture where the call control "intelligence" is outside the gateways and handled by external call control elements.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an application programming interface and a corresponding protocol (MGCP) for controlling Voice over IP (VoIP) Gateways from external call control elements.  MGCP assumes a call control architecture where the call control "intelligence" is outside the gateways and handled by external call control elements.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2705"/>
+  <seriesInfo name="RFC" value="2705"/>
 </reference>

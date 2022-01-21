@@ -1,13 +1,25 @@
 <reference anchor="RFC8613" target="https://www.rfc-editor.org/info/rfc8613">
   <front>
     <title>Object Security for Constrained RESTful Environments (OSCORE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8613"/>
-    <author fullname="G. Selander"/>
-    <author fullname="J. Mattsson"/>
-    <author fullname="F. Palombini"/>
-    <author fullname="L. Seitz"/>
+    <author fullname="G. Selander" initials="G." surname="Selander">
+      <organization/>
+    </author>
+    <author fullname="J. Mattsson" initials="J." surname="Mattsson">
+      <organization/>
+    </author>
+    <author fullname="F. Palombini" initials="F." surname="Palombini">
+      <organization/>
+    </author>
+    <author fullname="L. Seitz" initials="L." surname="Seitz">
+      <organization/>
+    </author>
     <date year="2019" month="July"/>
     <workgroup>core</workgroup>
-    <abstract>This document defines Object Security for Constrained RESTful Environments (OSCORE), a method for application-layer protection of the Constrained Application Protocol (CoAP), using CBOR Object Signing and Encryption (COSE). OSCORE provides end-to-end protection between endpoints communicating using CoAP or CoAP-mappable HTTP. OSCORE is designed for constrained nodes and networks supporting a range of proxy operations, including translation between different transport protocols. Although an optional functionality of CoAP, OSCORE alters CoAP options processing and IANA registration. Therefore, this document updates RFC 7252.</abstract>
+    <abstract>
+      <t>This document defines Object Security for Constrained RESTful Environments (OSCORE), a method for application-layer protection of the Constrained Application Protocol (CoAP), using CBOR Object Signing and Encryption (COSE). OSCORE provides end-to-end protection between endpoints communicating using CoAP or CoAP-mappable HTTP. OSCORE is designed for constrained nodes and networks supporting a range of proxy operations, including translation between different transport protocols.</t>
+      <t>Although an optional functionality of CoAP, OSCORE alters CoAP options processing and IANA registration. Therefore, this document updates RFC 7252.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8613"/>
+  <seriesInfo name="RFC" value="8613"/>
 </reference>

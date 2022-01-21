@@ -1,26 +1,29 @@
 <reference anchor="RFC7857" target="https://www.rfc-editor.org/info/rfc7857">
   <front>
     <title>Updates to Network Address Translation (NAT) Behavioral Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7857"/>
-    <author fullname="R. Penno"/>
-    <author fullname="S. Perreault"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="S. Sivakumar"/>
-    <author fullname="K. Naito"/>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="S. Sivakumar" initials="S." surname="Sivakumar">
+      <organization/>
+    </author>
+    <author fullname="K. Naito" initials="K." surname="Naito">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>address sharing</keyword>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>Carrier Grade NAT</keyword>
-    <keyword>CGN</keyword>
-    <keyword>LSN</keyword>
-    <keyword>NAT traversal</keyword>
-    <keyword>RFC4787</keyword>
-    <keyword>RFC5382</keyword>
-    <keyword>RFC5508</keyword>
-    <keyword>DS-Lite</keyword>
-    <keyword>NAT64</keyword>
-    <keyword>Address depletion</keyword>
-    <abstract>This document clarifies and updates several requirements of RFCs 4787, 5382, and 5508 based on operational and development experience. The focus of this document is Network Address Translation from IPv4 to IPv4 (NAT44). This document updates RFCs 4787, 5382, and 5508.</abstract>
+    <abstract>
+      <t>This document clarifies and updates several requirements of RFCs 4787, 5382, and 5508 based on operational and development experience. The focus of this document is Network Address Translation from IPv4 to IPv4 (NAT44).</t>
+      <t>This document updates RFCs 4787, 5382, and 5508.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7857"/>
+  <seriesInfo name="BCP" value="127"/>
+  <seriesInfo name="RFC" value="7857"/>
 </reference>

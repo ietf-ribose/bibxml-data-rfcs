@@ -1,16 +1,15 @@
 <reference anchor="RFC2210" target="https://www.rfc-editor.org/info/rfc2210">
   <front>
     <title>The Use of RSVP with IETF Integrated Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2210"/>
-    <author fullname="J. Wroclawski"/>
+    <author fullname="J. Wroclawski" initials="J." surname="Wroclawski">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>intserv</workgroup>
-    <keyword>RSVP-IS</keyword>
-    <keyword>Resource</keyword>
-    <keyword>Reservation</keyword>
-    <keyword>Controlled</keyword>
-    <keyword>Load</keyword>
-    <keyword>QOS: Quality of Service</keyword>
-    <abstract>This note describes the use of the RSVP resource reservation protocol with the Controlled-Load and Guaranteed QoS control services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This note describes the use of the RSVP resource reservation protocol with the Controlled-Load and Guaranteed QoS control services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2210"/>
+  <seriesInfo name="RFC" value="2210"/>
 </reference>

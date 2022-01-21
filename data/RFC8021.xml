@@ -1,15 +1,21 @@
 <reference anchor="RFC8021" target="https://www.rfc-editor.org/info/rfc8021">
   <front>
     <title>Generation of IPv6 Atomic Fragments Considered Harmful</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8021"/>
-    <author fullname="F. Gont"/>
-    <author fullname="W. Liu"/>
-    <author fullname="T. Anderson"/>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="W. Liu" initials="W." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="T. Anderson" initials="T." surname="Anderson">
+      <organization/>
+    </author>
     <date year="2017" month="January"/>
     <workgroup>6man</workgroup>
-    <keyword>attack</keyword>
-    <keyword>DoS</keyword>
-    <keyword>Extension Headers</keyword>
-    <abstract>This document discusses the security implications of the generation of IPv6 atomic fragments and a number of interoperability issues associated with IPv6 atomic fragments.  It concludes that the aforementioned functionality is undesirable and thus documents the motivation for removing this functionality from an upcoming revision of the core IPv6 protocol specification (RFC 2460).</abstract>
+    <abstract>
+      <t>This document discusses the security implications of the generation of IPv6 atomic fragments and a number of interoperability issues associated with IPv6 atomic fragments.  It concludes that the aforementioned functionality is undesirable and thus documents the motivation for removing this functionality from an upcoming revision of the core IPv6 protocol specification (RFC 2460).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8021"/>
+  <seriesInfo name="RFC" value="8021"/>
 </reference>

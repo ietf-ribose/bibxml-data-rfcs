@@ -1,17 +1,24 @@
 <reference anchor="RFC2474" target="https://www.rfc-editor.org/info/rfc2474">
   <front>
     <title>Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2474"/>
-    <author fullname="K. Nichols"/>
-    <author fullname="S. Blake"/>
-    <author fullname="F. Baker"/>
-    <author fullname="D. Black"/>
+    <author fullname="K. Nichols" initials="K." surname="Nichols">
+      <organization/>
+    </author>
+    <author fullname="S. Blake" initials="S." surname="Blake">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>diffserv</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>network</keyword>
-    <keyword>nodes</keyword>
-    <abstract>This document defines the IP header field, called the DS (for differentiated services) field. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the IP header field, called the DS (for differentiated services) field. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2474"/>
+  <seriesInfo name="RFC" value="2474"/>
 </reference>

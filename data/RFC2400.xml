@@ -1,14 +1,17 @@
 <reference anchor="RFC2400" target="https://www.rfc-editor.org/info/rfc2400">
   <front>
     <title>Internet Official Protocol Standards</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2400"/>
-    <author fullname="J. Postel"/>
-    <author fullname="J. Reynolds"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
-    <keyword>IAB</keyword>
-    <keyword>official</keyword>
-    <keyword>protocol</keyword>
-    <keyword>standards</keyword>
-    <abstract>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Architecture Board (IAB).  This memo is an Internet Standard. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Architecture Board (IAB).  This memo is an Internet Standard. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2400"/>
+  <seriesInfo name="RFC" value="2400"/>
 </reference>

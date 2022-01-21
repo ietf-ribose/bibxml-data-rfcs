@@ -1,14 +1,24 @@
 <reference anchor="RFC7963" target="https://www.rfc-editor.org/info/rfc7963">
   <front>
     <title>RSVP-TE Extension for Additional Signal Types in G.709 Optical Transport Networks (OTNs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7963"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="A. Bonfanti"/>
-    <author fullname="M. Hartley"/>
-    <author fullname="F. Zhang"/>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="A. Bonfanti" initials="A." surname="Bonfanti">
+      <organization/>
+    </author>
+    <author fullname="M. Hartley" initials="M." surname="Hartley">
+      <organization/>
+    </author>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>ccamp</workgroup>
-    <keyword>GMPLS</keyword>
-    <abstract>RFCs 4328 and 7139 provide signaling extensions in Resource ReserVation Protocol - Traffic Engineering (RSVP-TE) to control the full set of Optical Transport Network (OTN) features.  However, these specifications do not cover the additional Optical channel Data Unit (ODU) containers defined in G.Sup43 (ODU1e, ODU3e1, and ODU3e2).  This document defines new Signal Types for these additional containers.</abstract>
+    <abstract>
+      <t>RFCs 4328 and 7139 provide signaling extensions in Resource ReserVation Protocol - Traffic Engineering (RSVP-TE) to control the full set of Optical Transport Network (OTN) features.  However, these specifications do not cover the additional Optical channel Data Unit (ODU) containers defined in G.Sup43 (ODU1e, ODU3e1, and ODU3e2).  This document defines new Signal Types for these additional containers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7963"/>
+  <seriesInfo name="RFC" value="7963"/>
 </reference>

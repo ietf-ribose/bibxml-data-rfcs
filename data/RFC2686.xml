@@ -1,12 +1,15 @@
 <reference anchor="RFC2686" target="https://www.rfc-editor.org/info/rfc2686">
   <front>
     <title>The Multi-Class Extension to Multi-Link PPP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2686"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>issll</workgroup>
-    <keyword>point-to-point protocol</keyword>
-    <keyword>encapsulation</keyword>
-    <abstract>This document proposes the fragment-oriented solution for the real-time encapsulation format part of the architecture. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes the fragment-oriented solution for the real-time encapsulation format part of the architecture. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2686"/>
+  <seriesInfo name="RFC" value="2686"/>
 </reference>

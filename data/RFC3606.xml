@@ -1,17 +1,27 @@
 <reference anchor="RFC3606" target="https://www.rfc-editor.org/info/rfc3606">
   <front>
     <title>Definitions of Supplemental Managed Objects for ATM Interface</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3606"/>
-    <author fullname="F. Ly"/>
-    <author fullname="M. Noto"/>
-    <author fullname="A. Smith"/>
-    <author fullname="E. Spiegel"/>
-    <author fullname="K. Tesink"/>
+    <author fullname="F. Ly" initials="F." surname="Ly">
+      <organization/>
+    </author>
+    <author fullname="M. Noto" initials="M." surname="Noto">
+      <organization/>
+    </author>
+    <author fullname="A. Smith" initials="A." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="E. Spiegel" initials="E." surname="Spiegel">
+      <organization/>
+    </author>
+    <author fullname="K. Tesink" initials="K." surname="Tesink">
+      <organization/>
+    </author>
     <date year="2003" month="November"/>
     <workgroup>atommib</workgroup>
-    <keyword>asynchronous transfer mode</keyword>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <abstract>This memo defines objects used for managing ATM-based interfaces, devices, and services, in addition to those defined in RFC 2515, the ATM-MIB, to provide additional support for the management of ATM Switched Virtual Connections (SVCs) and ATM Permanent Virtual Connections (PVCs).</abstract>
+    <abstract>
+      <t>This memo defines objects used for managing ATM-based interfaces, devices, and services, in addition to those defined in RFC 2515, the ATM-MIB, to provide additional support for the management of ATM Switched Virtual Connections (SVCs) and ATM Permanent Virtual Connections (PVCs).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3606"/>
+  <seriesInfo name="RFC" value="3606"/>
 </reference>

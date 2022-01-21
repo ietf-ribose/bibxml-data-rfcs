@@ -1,16 +1,21 @@
 <reference anchor="RFC6952" target="https://www.rfc-editor.org/info/rfc6952">
   <front>
     <title>Analysis of BGP, LDP, PCEP, and MSDP Issues According to the Keying and Authentication for Routing Protocols (KARP) Design Guide</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6952"/>
-    <author fullname="M. Jethanandani"/>
-    <author fullname="K. Patel"/>
-    <author fullname="L. Zheng"/>
+    <author fullname="M. Jethanandani" initials="M." surname="Jethanandani">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="L. Zheng" initials="L." surname="Zheng">
+      <organization/>
+    </author>
     <date year="2013" month="May"/>
     <workgroup>karp</workgroup>
-    <keyword>key</keyword>
-    <keyword>authentication</keyword>
-    <keyword>routing</keyword>
-    <keyword>DoS</keyword>
-    <abstract>This document analyzes TCP-based routing protocols, the Border Gateway Protocol (BGP), the Label Distribution Protocol (LDP), the Path Computation Element Communication Protocol (PCEP), and the Multicast Source Distribution Protocol (MSDP), according to guidelines set forth in Section 4.2 of "Keying and Authentication for Routing Protocols Design Guidelines", RFC 6518.</abstract>
+    <abstract>
+      <t>This document analyzes TCP-based routing protocols, the Border Gateway Protocol (BGP), the Label Distribution Protocol (LDP), the Path Computation Element Communication Protocol (PCEP), and the Multicast Source Distribution Protocol (MSDP), according to guidelines set forth in Section 4.2 of "Keying and Authentication for Routing Protocols Design Guidelines", RFC 6518.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6952"/>
+  <seriesInfo name="RFC" value="6952"/>
 </reference>

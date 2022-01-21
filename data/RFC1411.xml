@@ -1,13 +1,15 @@
 <reference anchor="RFC1411" target="https://www.rfc-editor.org/info/rfc1411">
   <front>
     <title>Telnet Authentication: Kerberos Version 4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1411"/>
-    <author fullname="D. Borman"/>
+    <author fullname="D. Borman" initials="D." surname="Borman">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
     <workgroup>telnet</workgroup>
-    <keyword>TEL-KER</keyword>
-    <keyword>Security</keyword>
-    <keyword>option</keyword>
-    <abstract>This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1411"/>
+  <seriesInfo name="RFC" value="1411"/>
 </reference>

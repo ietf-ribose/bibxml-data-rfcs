@@ -1,10 +1,15 @@
 <reference anchor="RFC1220" target="https://www.rfc-editor.org/info/rfc1220">
   <front>
     <title>Point-to-Point Protocol extensions for bridging</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1220"/>
-    <author fullname="F. Baker"/>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
     <date year="1991" month="April"/>
     <workgroup>pppext</workgroup>
-    <abstract>This document defines an extension of the Internet Point-to-Point Protocol (PPP) described in RFC 1171, targeting the use of Point-to- Point lines for Remote Bridging. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an extension of the Internet Point-to-Point Protocol (PPP) described in RFC 1171, targeting the use of Point-to- Point lines for Remote Bridging. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1220"/>
+  <seriesInfo name="RFC" value="1220"/>
 </reference>

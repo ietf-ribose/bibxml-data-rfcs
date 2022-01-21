@@ -1,11 +1,18 @@
 <reference anchor="RFC6835" target="https://www.rfc-editor.org/info/rfc6835">
   <front>
     <title>The Locator/ID Separation Protocol Internet Groper (LIG)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6835"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Meyer"/>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>lisp</workgroup>
-    <abstract>A simple tool called the Locator/ID Separation Protocol (LISP) Internet Groper or 'lig' can be used to query the LISP mapping database.  This document describes how it works.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>A simple tool called the Locator/ID Separation Protocol (LISP) Internet Groper or 'lig' can be used to query the LISP mapping database.  This document describes how it works.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6835"/>
+  <seriesInfo name="RFC" value="6835"/>
 </reference>

@@ -1,43 +1,15 @@
 <reference anchor="RFC5598" target="https://www.rfc-editor.org/info/rfc5598">
   <front>
     <title>Internet Mail Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5598"/>
-    <author fullname="D. Crocker"/>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>email</keyword>
-    <keyword>e-mail</keyword>
-    <keyword>service</keyword>
-    <keyword>mime</keyword>
-    <keyword>architecture</keyword>
-    <keyword>mta</keyword>
-    <keyword>mua</keyword>
-    <keyword>msa</keyword>
-    <keyword>mda</keyword>
-    <keyword>admd</keyword>
-    <keyword>user</keyword>
-    <keyword>originator</keyword>
-    <keyword>recipient</keyword>
-    <keyword>transfer</keyword>
-    <keyword>message transfer</keyword>
-    <keyword>deliver</keyword>
-    <keyword>delivery</keyword>
-    <keyword>relay</keyword>
-    <keyword>header</keyword>
-    <keyword>gateway agent</keyword>
-    <keyword>gateway actor</keyword>
-    <keyword>gateway</keyword>
-    <keyword>sieve</keyword>
-    <keyword>dsn</keyword>
-    <keyword>mdn</keyword>
-    <keyword>tussle</keyword>
-    <keyword>mhs</keyword>
-    <keyword>Message handling service</keyword>
-    <keyword>message transfer agent</keyword>
-    <keyword>message user agent</keyword>
-    <keyword>mail submission agent</keyword>
-    <keyword>mail delivery agent</keyword>
-    <keyword>administrative management domain</keyword>
-    <abstract>Over its thirty-five-year history, Internet Mail has changed significantly in scale and complexity, as it has become a global infrastructure service.  These changes have been evolutionary, rather than revolutionary, reflecting a strong desire to preserve both its installed base and its usefulness.  To collaborate productively on this large and complex system, all participants need to work from a common view of it and use a common language to describe its components and the interactions among them.  But the many differences in perspective currently make it difficult to know exactly what another participant means.  To serve as the necessary common frame of reference, this document describes the enhanced Internet Mail architecture, reflecting the current service.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Over its thirty-five-year history, Internet Mail has changed significantly in scale and complexity, as it has become a global infrastructure service.  These changes have been evolutionary, rather than revolutionary, reflecting a strong desire to preserve both its installed base and its usefulness.  To collaborate productively on this large and complex system, all participants need to work from a common view of it and use a common language to describe its components and the interactions among them.  But the many differences in perspective currently make it difficult to know exactly what another participant means.  To serve as the necessary common frame of reference, this document describes the enhanced Internet Mail architecture, reflecting the current service.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5598"/>
+  <seriesInfo name="RFC" value="5598"/>
 </reference>

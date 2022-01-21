@@ -1,15 +1,17 @@
 <reference anchor="RFC2523" target="https://www.rfc-editor.org/info/rfc2523">
   <front>
     <title>Photuris: Extended Schemes and Attributes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2523"/>
-    <author fullname="P. Karn"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="P. Karn" initials="P." surname="Karn">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
-    <keyword>PHOTURIS-E</keyword>
-    <keyword>ip</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <abstract>Photuris is a session-key management protocol.  Extensible Exchange- Schemes are provided to enable future implementation changes without affecting the basic protocol.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Photuris is a session-key management protocol.  Extensible Exchange- Schemes are provided to enable future implementation changes without affecting the basic protocol.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2523"/>
+  <seriesInfo name="RFC" value="2523"/>
 </reference>

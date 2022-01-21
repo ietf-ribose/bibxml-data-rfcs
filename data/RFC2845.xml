@@ -1,18 +1,24 @@
 <reference anchor="RFC2845" target="https://www.rfc-editor.org/info/rfc2845">
   <front>
     <title>Secret Key Transaction Authentication for DNS (TSIG)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2845"/>
-    <author fullname="P. Vixie"/>
-    <author fullname="O. Gudmundsson"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="B. Wellington"/>
+    <author fullname="P. Vixie" initials="P." surname="Vixie">
+      <organization/>
+    </author>
+    <author fullname="O. Gudmundsson" initials="O." surname="Gudmundsson">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="B. Wellington" initials="B." surname="Wellington">
+      <organization/>
+    </author>
     <date year="2000" month="May"/>
     <workgroup>dnsext</workgroup>
-    <keyword>domain</keyword>
-    <keyword>name</keyword>
-    <keyword>system</keyword>
-    <keyword>transaction</keyword>
-    <keyword>signature</keyword>
-    <abstract>This protocol allows for transaction level authentication using shared secrets and one way hashing.  It can be used to authenticate dynamic updates as coming from an approved client, or to authenticate responses as coming from an approved recursive name server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This protocol allows for transaction level authentication using shared secrets and one way hashing.  It can be used to authenticate dynamic updates as coming from an approved client, or to authenticate responses as coming from an approved recursive name server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2845"/>
+  <seriesInfo name="RFC" value="2845"/>
 </reference>

@@ -1,15 +1,25 @@
 <reference anchor="RFC4487" target="https://www.rfc-editor.org/info/rfc4487">
   <front>
     <title>Mobile IPv6 and Firewalls: Problem Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4487"/>
-    <author fullname="F. Le"/>
-    <author fullname="S. Faccin"/>
-    <author fullname="B. Patil"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="F. Le" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="S. Faccin" initials="S." surname="Faccin">
+      <organization/>
+    </author>
+    <author fullname="B. Patil" initials="B." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>mip6</workgroup>
-    <keyword>3g</keyword>
-    <keyword>mobile networks</keyword>
-    <abstract>This document captures the issues that may arise in the deployment of IPv6 networks when they support Mobile IPv6 and firewalls. The issues are not only applicable to firewalls protecting enterprise networks, but are also applicable in 3G mobile networks such as General Packet Radio Service / Universal Mobile Telecommunications System (GPRS/UMTS) and CDMA2000 networks. The goal of this document is to highlight the issues with firewalls and Mobile IPv6 and act as an enabler for further discussion. Issues identified here can be solved by developing appropriate solutions. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document captures the issues that may arise in the deployment of IPv6 networks when they support Mobile IPv6 and firewalls. The issues are not only applicable to firewalls protecting enterprise networks, but are also applicable in 3G mobile networks such as General Packet Radio Service / Universal Mobile Telecommunications System (GPRS/UMTS) and CDMA2000 networks.</t>
+      <t>The goal of this document is to highlight the issues with firewalls and Mobile IPv6 and act as an enabler for further discussion. Issues identified here can be solved by developing appropriate solutions. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4487"/>
+  <seriesInfo name="RFC" value="4487"/>
 </reference>

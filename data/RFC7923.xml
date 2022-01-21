@@ -1,14 +1,21 @@
 <reference anchor="RFC7923" target="https://www.rfc-editor.org/info/rfc7923">
   <front>
     <title>Requirements for Subscription to YANG Datastores</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7923"/>
-    <author fullname="E. Voit"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="A. Gonzalez Prieto"/>
+    <author fullname="E. Voit" initials="E." surname="Voit">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="A. Gonzalez Prieto" initials="A." surname="Gonzalez">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>i2rs</workgroup>
-    <keyword>pub/sub</keyword>
-    <keyword>push updates</keyword>
-    <abstract>This document provides requirements for a service that allows client applications to subscribe to updates of a YANG datastore.  Based on criteria negotiated as part of a subscription, updates will be pushed to targeted recipients.  Such a capability eliminates the need for periodic polling of YANG datastores by applications and fills a functional gap in existing YANG transports (i.e., Network Configuration Protocol (NETCONF) and RESTCONF).  Such a service can be summarized as a "pub/sub" service for YANG datastore updates.  Beyond a set of basic requirements for the service, various refinements are addressed.  These refinements include: periodicity of object updates, filtering out of objects underneath a requested a subtree, and delivery QoS guarantees.</abstract>
+    <abstract>
+      <t>This document provides requirements for a service that allows client applications to subscribe to updates of a YANG datastore.  Based on criteria negotiated as part of a subscription, updates will be pushed to targeted recipients.  Such a capability eliminates the need for periodic polling of YANG datastores by applications and fills a functional gap in existing YANG transports (i.e., Network Configuration Protocol (NETCONF) and RESTCONF).  Such a service can be summarized as a "pub/sub" service for YANG datastore updates.  Beyond a set of basic requirements for the service, various refinements are addressed.  These refinements include: periodicity of object updates, filtering out of objects underneath a requested a subtree, and delivery QoS guarantees.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7923"/>
+  <seriesInfo name="RFC" value="7923"/>
 </reference>

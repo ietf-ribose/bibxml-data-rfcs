@@ -1,14 +1,15 @@
 <reference anchor="RFC3852" target="https://www.rfc-editor.org/info/rfc3852">
   <front>
     <title>Cryptographic Message Syntax (CMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3852"/>
-    <author fullname="R. Housley"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>smime</workgroup>
-    <keyword>digitally sign</keyword>
-    <keyword>authenticate</keyword>
-    <keyword>encrypt</keyword>
-    <keyword>arbitrary message content</keyword>
-    <abstract>This document describes the Cryptographic Message Syntax (CMS).  This syntax is used to digitally sign, digest, authenticate, or encrypt arbitrary message content. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Cryptographic Message Syntax (CMS).  This syntax is used to digitally sign, digest, authenticate, or encrypt arbitrary message content. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3852"/>
+  <seriesInfo name="RFC" value="3852"/>
 </reference>

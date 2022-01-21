@@ -1,24 +1,21 @@
 <reference anchor="RFC2261" target="https://www.rfc-editor.org/info/rfc2261">
   <front>
     <title>An Architecture for Describing SNMP Management Frameworks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2261"/>
-    <author fullname="D. Harrington"/>
-    <author fullname="R. Presuhn"/>
-    <author fullname="B. Wijnen"/>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
+    <author fullname="R. Presuhn" initials="R." surname="Presuhn">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>snmpv3</workgroup>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Message</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>security</keyword>
-    <keyword>access</keyword>
-    <keyword>control</keyword>
-    <keyword>snmpv3</keyword>
-    <abstract>This document describes an architecture for describing SNMP Management Frameworks.  The architecture is designed to be modular to allow the evolution of the SNMP protocol standards over time. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an architecture for describing SNMP Management Frameworks.  The architecture is designed to be modular to allow the evolution of the SNMP protocol standards over time. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2261"/>
+  <seriesInfo name="RFC" value="2261"/>
 </reference>

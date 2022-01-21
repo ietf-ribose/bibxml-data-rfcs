@@ -1,13 +1,15 @@
 <reference anchor="RFC5460" target="https://www.rfc-editor.org/info/rfc5460">
   <front>
     <title>DHCPv6 Bulk Leasequery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5460"/>
-    <author fullname="M. Stapp"/>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
     <date year="2009" month="February"/>
     <workgroup>dhc</workgroup>
-    <keyword>dynamic hos configuration protocol</keyword>
-    <keyword>ipv6</keyword>
-    <keyword>dhcpv6 bindings</keyword>
-    <abstract>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) has been extended with a Leasequery capability that allows a client to request information about DHCPv6 bindings.  That mechanism is limited to queries for individual bindings.  In some situations individual binding queries may not be efficient, or even possible.  This document expands on the Leasequery protocol, adding new query types and allowing for bulk transfer of DHCPv6 binding data via TCP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) has been extended with a Leasequery capability that allows a client to request information about DHCPv6 bindings.  That mechanism is limited to queries for individual bindings.  In some situations individual binding queries may not be efficient, or even possible.  This document expands on the Leasequery protocol, adding new query types and allowing for bulk transfer of DHCPv6 binding data via TCP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5460"/>
+  <seriesInfo name="RFC" value="5460"/>
 </reference>

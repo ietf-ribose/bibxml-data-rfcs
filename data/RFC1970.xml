@@ -1,14 +1,21 @@
 <reference anchor="RFC1970" target="https://www.rfc-editor.org/info/rfc1970">
   <front>
     <title>Neighbor Discovery for IP Version 6 (IPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1970"/>
-    <author fullname="T. Narten"/>
-    <author fullname="E. Nordmark"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document specifies the Neighbor Discovery protocol for IP Version 6. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the Neighbor Discovery protocol for IP Version 6. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1970"/>
+  <seriesInfo name="RFC" value="1970"/>
 </reference>

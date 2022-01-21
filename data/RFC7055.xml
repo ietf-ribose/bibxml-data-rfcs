@@ -1,11 +1,18 @@
 <reference anchor="RFC7055" target="https://www.rfc-editor.org/info/rfc7055">
   <front>
     <title>A GSS-API Mechanism for the Extensible Authentication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7055"/>
-    <author fullname="S. Hartman"/>
-    <author fullname="J. Howlett"/>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
+    <author fullname="J. Howlett" initials="J." surname="Howlett">
+      <organization/>
+    </author>
     <date year="2013" month="December"/>
     <workgroup>abfab</workgroup>
-    <abstract>This document defines protocols, procedures, and conventions to be employed by peers implementing the Generic Security Service Application Program Interface (GSS-API) when using the Extensible Authentication Protocol mechanism.  Through the GS2 family of mechanisms defined in RFC 5801, these protocols also define how Simple Authentication and Security Layer (SASL) applications use the Extensible Authentication Protocol.</abstract>
+    <abstract>
+      <t>This document defines protocols, procedures, and conventions to be employed by peers implementing the Generic Security Service Application Program Interface (GSS-API) when using the Extensible Authentication Protocol mechanism.  Through the GS2 family of mechanisms defined in RFC 5801, these protocols also define how Simple Authentication and Security Layer (SASL) applications use the Extensible Authentication Protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7055"/>
+  <seriesInfo name="RFC" value="7055"/>
 </reference>

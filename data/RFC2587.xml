@@ -1,17 +1,21 @@
 <reference anchor="RFC2587" target="https://www.rfc-editor.org/info/rfc2587">
   <front>
     <title>Internet X.509 Public Key Infrastructure LDAPv2 Schema</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2587"/>
-    <author fullname="S. Boeyen"/>
-    <author fullname="T. Howes"/>
-    <author fullname="P. Richard"/>
+    <author fullname="S. Boeyen" initials="S." surname="Boeyen">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
+    <author fullname="P. Richard" initials="P." surname="Richard">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>pkix</keyword>
-    <abstract>The schema defined in this document is a minimal schema to support PKIX in an LDAPv2 environment, as defined in RFC 2559.  Only PKIX-specific components are specified here. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The schema defined in this document is a minimal schema to support PKIX in an LDAPv2 environment, as defined in RFC 2559.  Only PKIX-specific components are specified here. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2587"/>
+  <seriesInfo name="RFC" value="2587"/>
 </reference>

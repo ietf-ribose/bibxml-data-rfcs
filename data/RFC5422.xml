@@ -1,13 +1,24 @@
 <reference anchor="RFC5422" target="https://www.rfc-editor.org/info/rfc5422">
   <front>
     <title>Dynamic Provisioning Using Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5422"/>
-    <author fullname="N. Cam-Winget"/>
-    <author fullname="D. McGrew"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="H. Zhou"/>
+    <author fullname="N. Cam-Winget" initials="N." surname="Cam-Winget">
+      <organization/>
+    </author>
+    <author fullname="D. McGrew" initials="D." surname="McGrew">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="H. Zhou" initials="H." surname="Zhou">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>The Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST) method enables secure communication between a peer and a server by using Transport Layer Security (TLS) to establish a mutually authenticated tunnel.  EAP- FAST also enables the provisioning credentials or other information through this protected tunnel.  This document describes the use of EAP-FAST for dynamic provisioning.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST) method enables secure communication between a peer and a server by using Transport Layer Security (TLS) to establish a mutually authenticated tunnel.  EAP- FAST also enables the provisioning credentials or other information through this protected tunnel.  This document describes the use of EAP-FAST for dynamic provisioning.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5422"/>
+  <seriesInfo name="RFC" value="5422"/>
 </reference>

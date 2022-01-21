@@ -1,10 +1,14 @@
 <reference anchor="RFC1924" target="https://www.rfc-editor.org/info/rfc1924">
   <front>
     <title>A Compact Representation of IPv6 Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1924"/>
-    <author fullname="R. Elz"/>
+    <author fullname="R. Elz" initials="R." surname="Elz">
+      <organization/>
+    </author>
     <date year="1996" month="April"/>
-    <keyword>encoding</keyword>
-    <abstract>This document specifies a more compact representation of IPv6 addresses, which permits encoding in a mere 20 bytes.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document specifies a more compact representation of IPv6 addresses, which permits encoding in a mere 20 bytes.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1924"/>
+  <seriesInfo name="RFC" value="1924"/>
 </reference>

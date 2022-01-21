@@ -1,13 +1,18 @@
 <reference anchor="RFC8194" target="https://www.rfc-editor.org/info/rfc8194">
   <front>
     <title>A YANG Data Model for LMAP Measurement Agents</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8194"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="V. Bajpai"/>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="V. Bajpai" initials="V." surname="Bajpai">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>lmap</workgroup>
-    <keyword>LMAP</keyword>
-    <keyword>YANG</keyword>
-    <abstract>This document defines a data model for Large-Scale Measurement Platforms (LMAPs).  The data model is defined using the YANG data modeling language.</abstract>
+    <abstract>
+      <t>This document defines a data model for Large-Scale Measurement Platforms (LMAPs).  The data model is defined using the YANG data modeling language.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8194"/>
+  <seriesInfo name="RFC" value="8194"/>
 </reference>

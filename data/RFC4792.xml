@@ -1,11 +1,15 @@
 <reference anchor="RFC4792" target="https://www.rfc-editor.org/info/rfc4792">
   <front>
     <title>Encoding Instructions for the Generic String Encoding Rules (GSER)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4792"/>
-    <author fullname="S. Legg"/>
+    <author fullname="S. Legg" initials="S." surname="Legg">
+      <organization/>
+    </author>
     <date year="2007" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ASN.1</keyword>
-    <abstract>Abstract Syntax Notation One (ASN.1) defines a general framework for annotating types in an ASN.1 specification with encoding instructions that alter how values of those types are encoded according to ASN.1 encoding rules.  This document defines the supporting notation for encoding instructions that apply to the Generic String Encoding Rules (GSER) and, in particular, defines an encoding instruction to provide a machine-processable representation for the declaration of a GSER ChoiceOfStrings type. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Abstract Syntax Notation One (ASN.1) defines a general framework for annotating types in an ASN.1 specification with encoding instructions that alter how values of those types are encoded according to ASN.1 encoding rules.  This document defines the supporting notation for encoding instructions that apply to the Generic String Encoding Rules (GSER) and, in particular, defines an encoding instruction to provide a machine-processable representation for the declaration of a GSER ChoiceOfStrings type. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4792"/>
+  <seriesInfo name="RFC" value="4792"/>
 </reference>

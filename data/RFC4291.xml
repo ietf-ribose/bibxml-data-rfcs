@@ -1,16 +1,19 @@
 <reference anchor="RFC4291" target="https://www.rfc-editor.org/info/rfc4291">
   <front>
     <title>IP Version 6 Addressing Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4291"/>
-    <author fullname="R. Hinden"/>
-    <author fullname="S. Deering"/>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>ipv6</workgroup>
-    <keyword>internet protocol version 6</keyword>
-    <keyword>unicast</keyword>
-    <keyword>anycast</keyword>
-    <keyword>multicast</keyword>
-    <keyword>node</keyword>
-    <abstract>This specification defines the addressing architecture of the IP Version 6 (IPv6) protocol. The document includes the IPv6 addressing model, text representations of IPv6 addresses, definition of IPv6 unicast addresses, anycast addresses, and multicast addresses, and an IPv6 node's required addresses. This document obsoletes RFC 3513, "IP Version 6 Addressing Architecture". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines the addressing architecture of the IP Version 6 (IPv6) protocol. The document includes the IPv6 addressing model, text representations of IPv6 addresses, definition of IPv6 unicast addresses, anycast addresses, and multicast addresses, and an IPv6 node's required addresses.</t>
+      <t>This document obsoletes RFC 3513, "IP Version 6 Addressing Architecture". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4291"/>
+  <seriesInfo name="RFC" value="4291"/>
 </reference>

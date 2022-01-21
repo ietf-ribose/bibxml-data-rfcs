@@ -1,15 +1,21 @@
 <reference anchor="RFC3782" target="https://www.rfc-editor.org/info/rfc3782">
   <front>
     <title>The NewReno Modification to TCP's Fast Recovery Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3782"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="T. Henderson"/>
-    <author fullname="A. Gurtov"/>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="T. Henderson" initials="T." surname="Henderson">
+      <organization/>
+    </author>
+    <author fullname="A. Gurtov" initials="A." surname="Gurtov">
+      <organization/>
+    </author>
     <date year="2004" month="April"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>Transmission</keyword>
-    <keyword>Control</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>The purpose of this document is to advance NewReno TCP's Fast Retransmit and Fast Recovery algorithms in RFC 2582 from Experimental to Standards Track status.  The main change in this document relative to RFC 2582 is to specify the Careful variant of NewReno's Fast Retransmit and Fast Recovery algorithms.  The base algorithm described in RFC 2582 did not attempt to avoid unnecessary multiple Fast Retransmits that can occur after a timeout.  However, RFC 2582 also defined "Careful" and "Less Careful" variants that avoid these unnecessary Fast Retransmits, and recommended the Careful variant.  This document specifies the previously-named "Careful" variant as the basic version of NewReno TCP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The purpose of this document is to advance NewReno TCP's Fast Retransmit and Fast Recovery algorithms in RFC 2582 from Experimental to Standards Track status.  The main change in this document relative to RFC 2582 is to specify the Careful variant of NewReno's Fast Retransmit and Fast Recovery algorithms.  The base algorithm described in RFC 2582 did not attempt to avoid unnecessary multiple Fast Retransmits that can occur after a timeout.  However, RFC 2582 also defined "Careful" and "Less Careful" variants that avoid these unnecessary Fast Retransmits, and recommended the Careful variant.  This document specifies the previously-named "Careful" variant as the basic version of NewReno TCP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3782"/>
+  <seriesInfo name="RFC" value="3782"/>
 </reference>

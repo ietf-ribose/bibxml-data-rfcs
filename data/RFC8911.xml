@@ -1,19 +1,29 @@
 <reference anchor="RFC8911" target="https://www.rfc-editor.org/info/rfc8911">
   <front>
     <title>Registry for Performance Metrics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8911"/>
-    <author fullname="M. Bagnulo"/>
-    <author fullname="B. Claise"/>
-    <author fullname="P. Eardley"/>
-    <author fullname="A. Morton"/>
-    <author fullname="A. Akhter"/>
+    <author fullname="M. Bagnulo" initials="M." surname="Bagnulo">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="P. Eardley" initials="P." surname="Eardley">
+      <organization/>
+    </author>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="A. Akhter" initials="A." surname="Akhter">
+      <organization/>
+    </author>
     <date year="2021" month="November"/>
     <workgroup>ippm</workgroup>
-    <keyword>IPPM</keyword>
-    <keyword>Loss</keyword>
-    <keyword>Delay</keyword>
-    <abstract>This document defines the format for the IANA Registry of Performance
+    <abstract>
+      <t>This document defines the format for the IANA Registry of Performance
 Metrics.  This document also gives a set of guidelines for Registered
-Performance Metric requesters and reviewers.</abstract>
+Performance Metric requesters and reviewers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8911"/>
+  <seriesInfo name="RFC" value="8911"/>
 </reference>

@@ -1,16 +1,27 @@
 <reference anchor="RFC8922" target="https://www.rfc-editor.org/info/rfc8922">
   <front>
     <title>A Survey of the Interaction between Security Protocols and Transport Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8922"/>
-    <author fullname="T. Enghardt"/>
-    <author fullname="T. Pauly"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="K. Rose"/>
-    <author fullname="C. Wood"/>
+    <author fullname="T. Enghardt" initials="T." surname="Enghardt">
+      <organization/>
+    </author>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="K. Rose" initials="K." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="C. Wood" initials="C." surname="Wood">
+      <organization/>
+    </author>
     <date year="2020" month="October"/>
     <workgroup>taps</workgroup>
-    <keyword>Transport Protocols</keyword>
-    <keyword>Transport Security</keyword>
-    <abstract>This document provides a survey of commonly used or notable network security protocols, with a focus on how they interact and integrate with applications and transport protocols.  Its goal is to supplement efforts to define and catalog Transport Services by describing the interfaces required to add security protocols.  This survey is not limited to protocols developed within the scope or context of the IETF, and those included represent a superset of features a Transport Services system may need to support.</abstract>
+    <abstract>
+      <t>This document provides a survey of commonly used or notable network security protocols, with a focus on how they interact and integrate with applications and transport protocols.  Its goal is to supplement efforts to define and catalog Transport Services by describing the interfaces required to add security protocols.  This survey is not limited to protocols developed within the scope or context of the IETF, and those included represent a superset of features a Transport Services system may need to support.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8922"/>
+  <seriesInfo name="RFC" value="8922"/>
 </reference>

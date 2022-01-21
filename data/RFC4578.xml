@@ -1,13 +1,18 @@
 <reference anchor="RFC4578" target="https://www.rfc-editor.org/info/rfc4578">
   <front>
     <title>Dynamic Host Configuration Protocol (DHCP) Options for the Intel Preboot eXecution Environment (PXE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4578"/>
-    <author fullname="M. Johnston"/>
-    <author fullname="S. Venaas"/>
+    <author fullname="M. Johnston" initials="M." surname="Johnston">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
     <workgroup>dhc</workgroup>
-    <keyword>efi</keyword>
-    <keyword>extensible firmware interface</keyword>
-    <abstract>We define Dynamic Host Configuration Protocol (DHCP) options being used by Preboot eXecution Environment (PXE) and Extensible Firmware Interface (EFI) clients to uniquely identify booting client machines and their pre-OS runtime environment so that the DHCP and/or PXE boot server can return the correct OS bootstrap image (or pre-boot application) name and server to the client.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>We define Dynamic Host Configuration Protocol (DHCP) options being used by Preboot eXecution Environment (PXE) and Extensible Firmware Interface (EFI) clients to uniquely identify booting client machines and their pre-OS runtime environment so that the DHCP and/or PXE boot server can return the correct OS bootstrap image (or pre-boot application) name and server to the client.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4578"/>
+  <seriesInfo name="RFC" value="4578"/>
 </reference>

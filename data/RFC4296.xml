@@ -1,13 +1,18 @@
 <reference anchor="RFC4296" target="https://www.rfc-editor.org/info/rfc4296">
   <front>
     <title>The Architecture of Direct Data Placement (DDP) and Remote Direct Memory Access (RDMA) on Internet Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4296"/>
-    <author fullname="S. Bailey"/>
-    <author fullname="T. Talpey"/>
+    <author fullname="S. Bailey" initials="S." surname="Bailey">
+      <organization/>
+    </author>
+    <author fullname="T. Talpey" initials="T." surname="Talpey">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>rddp</workgroup>
-    <keyword>rddp</keyword>
-    <keyword>warp</keyword>
-    <abstract>This document defines an abstract architecture for Direct Data Placement (DDP) and Remote Direct Memory Access (RDMA) protocols to run on Internet Protocol-suite transports.  This architecture does not necessarily reflect the proper way to implement such protocols, but is, rather, a descriptive tool for defining and understanding the protocols.  DDP allows the efficient placement of data into buffers designated by Upper Layer Protocols (e.g., RDMA).  RDMA provides the semantics to enable Remote Direct Memory Access between peers in a way consistent with application requirements.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines an abstract architecture for Direct Data Placement (DDP) and Remote Direct Memory Access (RDMA) protocols to run on Internet Protocol-suite transports.  This architecture does not necessarily reflect the proper way to implement such protocols, but is, rather, a descriptive tool for defining and understanding the protocols.  DDP allows the efficient placement of data into buffers designated by Upper Layer Protocols (e.g., RDMA).  RDMA provides the semantics to enable Remote Direct Memory Access between peers in a way consistent with application requirements.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4296"/>
+  <seriesInfo name="RFC" value="4296"/>
 </reference>

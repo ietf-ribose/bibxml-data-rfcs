@@ -1,14 +1,15 @@
 <reference anchor="RFC5813" target="https://www.rfc-editor.org/info/rfc5813">
   <front>
     <title>Forwarding and Control Element Separation (ForCES) MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5813"/>
-    <author fullname="R. Haas"/>
+    <author fullname="R. Haas" initials="R." surname="Haas">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>forces</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>network element</keyword>
-    <keyword>ne</keyword>
-    <keyword>forces-mib</keyword>
-    <abstract>This memo defines a Management Information Base (MIB) module for use with network management protocols in the Internet community.  In particular, it defines managed objects for the Forwarding and Control Element Separation (ForCES) Network Element (NE). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a Management Information Base (MIB) module for use with network management protocols in the Internet community.  In particular, it defines managed objects for the Forwarding and Control Element Separation (ForCES) Network Element (NE). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5813"/>
+  <seriesInfo name="RFC" value="5813"/>
 </reference>

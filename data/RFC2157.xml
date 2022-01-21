@@ -1,15 +1,15 @@
 <reference anchor="RFC2157" target="https://www.rfc-editor.org/info/rfc2157">
   <front>
     <title>Mapping between X.400 and RFC-822/MIME Message Bodies</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2157"/>
-    <author fullname="H. Alvestrand"/>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>mixer</workgroup>
-    <keyword>mixer</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document defines how to map body parts of X.400 messages into MIME entities and vice versa, including the handling of multipart messages and forwarded messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines how to map body parts of X.400 messages into MIME entities and vice versa, including the handling of multipart messages and forwarded messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2157"/>
+  <seriesInfo name="RFC" value="2157"/>
 </reference>

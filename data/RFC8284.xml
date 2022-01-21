@@ -1,10 +1,15 @@
 <reference anchor="RFC8284" target="https://www.rfc-editor.org/info/rfc8284">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Schema for Supporting the Extensible Messaging and Presence Protocol (XMPP) in White Pages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8284"/>
-    <author fullname="S. Kille"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="2017" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>The Extensible Messaging and Presence Protocol (XMPP) identifies users by use of Jabber IDs (JIDs).  The Lightweight Directory Access Protocol (LDAP) enables provision of a white pages service with a schema relating to users and support for Internet protocols.  This specification defines a schema to enable XMPP JIDs to be associated with objects in an LDAP directory so that this information can be used with white pages applications.</abstract>
+    <abstract>
+      <t>The Extensible Messaging and Presence Protocol (XMPP) identifies users by use of Jabber IDs (JIDs).  The Lightweight Directory Access Protocol (LDAP) enables provision of a white pages service with a schema relating to users and support for Internet protocols.  This specification defines a schema to enable XMPP JIDs to be associated with objects in an LDAP directory so that this information can be used with white pages applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8284"/>
+  <seriesInfo name="RFC" value="8284"/>
 </reference>

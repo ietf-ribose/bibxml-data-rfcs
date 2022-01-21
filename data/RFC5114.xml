@@ -1,17 +1,20 @@
 <reference anchor="RFC5114" target="https://www.rfc-editor.org/info/rfc5114">
   <front>
     <title>Additional Diffie-Hellman Groups for Use with IETF Standards</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5114"/>
-    <author fullname="M. Lepinski"/>
-    <author fullname="S. Kent"/>
+    <author fullname="M. Lepinski" initials="M." surname="Lepinski">
+      <organization/>
+    </author>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
     <date year="2008" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>elliptic curve</keyword>
-    <keyword>ike</keyword>
-    <keyword>tls</keyword>
-    <keyword>ssh</keyword>
-    <keyword>smime</keyword>
-    <keyword>x.509</keyword>
-    <abstract>This document describes eight Diffie-Hellman groups that can be used in conjunction with IETF protocols to provide security for Internet communications. The groups allow implementers to use the same groups with a variety of security protocols, e.g., SMIME, Secure SHell (SSH), Transport Layer Security (TLS), and Internet Key Exchange (IKE). All of these groups comply in form and structure with relevant standards from ISO, ANSI, NIST, and the IEEE. These groups are compatible with all IETF standards that make use of Diffie-Hellman or Elliptic Curve Diffie-Hellman cryptography. These groups and the associated test data are defined by NIST on their web site [EX80056A], but have not yet (as of this writing) been published in a formal NIST document. Publication of these groups and associated test data, as well as describing how to use Diffie-Hellman and Elliptic Curve Diffie-Hellman for key agreement in all of the protocols cited below, in one RFC, will facilitate development of interoperable implementations and support the Federal Information Processing Standard (FIPS) validation of implementations that make use of these groups. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes eight Diffie-Hellman groups that can be used in conjunction with IETF protocols to provide security for Internet communications. The groups allow implementers to use the same groups with a variety of security protocols, e.g., SMIME, Secure SHell (SSH), Transport Layer Security (TLS), and Internet Key Exchange (IKE).</t>
+      <t>All of these groups comply in form and structure with relevant standards from ISO, ANSI, NIST, and the IEEE. These groups are compatible with all IETF standards that make use of Diffie-Hellman or Elliptic Curve Diffie-Hellman cryptography.</t>
+      <t>These groups and the associated test data are defined by NIST on their web site [EX80056A], but have not yet (as of this writing) been published in a formal NIST document. Publication of these groups and associated test data, as well as describing how to use Diffie-Hellman and Elliptic Curve Diffie-Hellman for key agreement in all of the protocols cited below, in one RFC, will facilitate development of interoperable implementations and support the Federal Information Processing Standard (FIPS) validation of implementations that make use of these groups. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5114"/>
+  <seriesInfo name="RFC" value="5114"/>
 </reference>

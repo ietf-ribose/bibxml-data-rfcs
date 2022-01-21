@@ -1,17 +1,21 @@
 <reference anchor="RFC8610" target="https://www.rfc-editor.org/info/rfc8610">
   <front>
     <title>Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8610"/>
-    <author fullname="H. Birkholz"/>
-    <author fullname="C. Vigano"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="H. Birkholz" initials="H." surname="Birkholz">
+      <organization/>
+    </author>
+    <author fullname="C. Vigano" initials="C." surname="Vigano">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="2019" month="June"/>
     <workgroup>cbor</workgroup>
-    <keyword>binary format</keyword>
-    <keyword>data interchange format</keyword>
-    <keyword>description language</keyword>
-    <keyword>schema language</keyword>
-    <keyword>tree grammar</keyword>
-    <abstract>This document proposes a notational convention to express Concise Binary Object Representation (CBOR) data structures (RFC 7049).  Its main goal is to provide an easy and unambiguous way to express structures for protocol messages and data formats that use CBOR or JSON.</abstract>
+    <abstract>
+      <t>This document proposes a notational convention to express Concise Binary Object Representation (CBOR) data structures (RFC 7049).  Its main goal is to provide an easy and unambiguous way to express structures for protocol messages and data formats that use CBOR or JSON.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8610"/>
+  <seriesInfo name="RFC" value="8610"/>
 </reference>

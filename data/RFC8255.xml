@@ -1,19 +1,18 @@
 <reference anchor="RFC8255" target="https://www.rfc-editor.org/info/rfc8255">
   <front>
     <title>Multiple Language Content Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8255"/>
-    <author fullname="N. Tomkinson"/>
-    <author fullname="N. Borenstein"/>
+    <author fullname="N. Tomkinson" initials="N." surname="Tomkinson">
+      <organization/>
+    </author>
+    <author fullname="N. Borenstein" initials="N." surname="Borenstein">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>slim</workgroup>
-    <keyword>multiple</keyword>
-    <keyword>language</keyword>
-    <keyword>multi</keyword>
-    <keyword>lingual</keyword>
-    <keyword>content</keyword>
-    <keyword>type</keyword>
-    <keyword>email</keyword>
-    <keyword>mime</keyword>
-    <abstract>This document defines the 'multipart/multilingual' content type, which is an addition to the Multipurpose Internet Mail Extensions (MIME) standard.  This content type makes it possible to send one message that contains multiple language versions of the same information.  The translations would be identified by a language tag and selected by the email client based on a user's language settings.</abstract>
+    <abstract>
+      <t>This document defines the 'multipart/multilingual' content type, which is an addition to the Multipurpose Internet Mail Extensions (MIME) standard.  This content type makes it possible to send one message that contains multiple language versions of the same information.  The translations would be identified by a language tag and selected by the email client based on a user's language settings.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8255"/>
+  <seriesInfo name="RFC" value="8255"/>
 </reference>

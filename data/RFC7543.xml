@@ -1,16 +1,27 @@
 <reference anchor="RFC7543" target="https://www.rfc-editor.org/info/rfc7543">
   <front>
     <title>Covering Prefixes Outbound Route Filter for BGP-4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7543"/>
-    <author fullname="H. Jeng"/>
-    <author fullname="L. Jalil"/>
-    <author fullname="R. Bonica"/>
-    <author fullname="K. Patel"/>
-    <author fullname="L. Yong"/>
+    <author fullname="H. Jeng" initials="H." surname="Jeng">
+      <organization/>
+    </author>
+    <author fullname="L. Jalil" initials="L." surname="Jalil">
+      <organization/>
+    </author>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="L. Yong" initials="L." surname="Yong">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>bess</workgroup>
-    <keyword>ORF</keyword>
-    <keyword>VPN</keyword>
-    <abstract>This document defines a new Outbound Route Filter (ORF) type, called the Covering Prefixes ORF (CP-ORF).  CP-ORF is applicable in Virtual Hub-and-Spoke VPNs.  It also is applicable in BGP/MPLS Ethernet VPN (EVPN) networks.</abstract>
+    <abstract>
+      <t>This document defines a new Outbound Route Filter (ORF) type, called the Covering Prefixes ORF (CP-ORF).  CP-ORF is applicable in Virtual Hub-and-Spoke VPNs.  It also is applicable in BGP/MPLS Ethernet VPN (EVPN) networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7543"/>
+  <seriesInfo name="RFC" value="7543"/>
 </reference>

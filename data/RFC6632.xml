@@ -1,17 +1,18 @@
 <reference anchor="RFC6632" target="https://www.rfc-editor.org/info/rfc6632">
   <front>
     <title>An Overview of the IETF Network Management Standards</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6632"/>
-    <author fullname="M. Ersue"/>
-    <author fullname="B. Claise"/>
+    <author fullname="M. Ersue" initials="M." surname="Ersue">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2012" month="June"/>
     <workgroup>opsawg</workgroup>
-    <keyword>network management</keyword>
-    <keyword>data model</keyword>
-    <keyword>monitoring</keyword>
-    <keyword>configuration</keyword>
-    <keyword>alarm</keyword>
-    <keyword>notification</keyword>
-    <abstract>This document gives an overview of the IETF network management standards and summarizes existing and ongoing development of IETF Standards Track network management protocols and data models.  The document refers to other overview documents, where they exist and classifies the standards for easy orientation.  The purpose of this document is, on the one hand, to help system developers and users to select appropriate standard management protocols and data models to address relevant management needs.  On the other hand, the document can be used as an overview and guideline by other Standard Development Organizations or bodies planning to use IETF management technologies and data models.  This document does not cover Operations, Administration, and Maintenance (OAM) technologies on the data-path, e.g., OAM of tunnels, MPLS Transport Profile (MPLS-TP) OAM, and pseudowire as well as the corresponding management models.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document gives an overview of the IETF network management standards and summarizes existing and ongoing development of IETF Standards Track network management protocols and data models.  The document refers to other overview documents, where they exist and classifies the standards for easy orientation.  The purpose of this document is, on the one hand, to help system developers and users to select appropriate standard management protocols and data models to address relevant management needs.  On the other hand, the document can be used as an overview and guideline by other Standard Development Organizations or bodies planning to use IETF management technologies and data models.  This document does not cover Operations, Administration, and Maintenance (OAM) technologies on the data-path, e.g., OAM of tunnels, MPLS Transport Profile (MPLS-TP) OAM, and pseudowire as well as the corresponding management models.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6632"/>
+  <seriesInfo name="RFC" value="6632"/>
 </reference>

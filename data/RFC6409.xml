@@ -1,16 +1,22 @@
 <reference anchor="RFC6409" target="https://www.rfc-editor.org/info/rfc6409">
   <front>
     <title>Message Submission for Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6409"/>
-    <author fullname="R. Gellens"/>
-    <author fullname="J. Klensin"/>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
     <date year="2011" month="November"/>
     <workgroup>yam</workgroup>
-    <keyword>Text</keyword>
-    <keyword>Internationalization</keyword>
-    <keyword>ASCII</keyword>
-    <keyword>Unicode</keyword>
-    <keyword>UTF-8</keyword>
-    <abstract>This memo splits message submission from message relay, allowing each service to operate according to its own rules (for security, policy, etc.), and specifies what actions are to be taken by a submission server. Message relay is unaffected, and continues to use SMTP over port 25. When conforming to this document, message submission uses the protocol specified here, normally over port 587. This separation of function offers a number of benefits, including the ability to apply specific security or policy requirements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo splits message submission from message relay, allowing each service to operate according to its own rules (for security, policy, etc.), and specifies what actions are to be taken by a submission server.</t>
+      <t>Message relay is unaffected, and continues to use SMTP over port 25.</t>
+      <t>When conforming to this document, message submission uses the protocol specified here, normally over port 587.</t>
+      <t>This separation of function offers a number of benefits, including the ability to apply specific security or policy requirements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6409"/>
+  <seriesInfo name="STD" value="72"/>
+  <seriesInfo name="RFC" value="6409"/>
 </reference>

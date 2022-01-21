@@ -1,14 +1,17 @@
 <reference anchor="RFC1704" target="https://www.rfc-editor.org/info/rfc1704">
   <front>
     <title>On Internet Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1704"/>
-    <author fullname="N. Haller"/>
-    <author fullname="R. Atkinson"/>
+    <author fullname="N. Haller" initials="N." surname="Haller">
+      <organization/>
+    </author>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
     <date year="1994" month="October"/>
-    <keyword>Security</keyword>
-    <keyword>Energyption</keyword>
-    <keyword>Policy</keyword>
-    <keyword>Guidelines</keyword>
-    <abstract>This document describes a spectrum of authentication technologies and provides suggestions to protocol developers on what kinds of authentication might be suitable for some kinds of protocols and applications used in the Internet.  This document provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes a spectrum of authentication technologies and provides suggestions to protocol developers on what kinds of authentication might be suitable for some kinds of protocols and applications used in the Internet.  This document provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1704"/>
+  <seriesInfo name="RFC" value="1704"/>
 </reference>

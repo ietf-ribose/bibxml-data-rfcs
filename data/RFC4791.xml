@@ -1,24 +1,21 @@
 <reference anchor="RFC4791" target="https://www.rfc-editor.org/info/rfc4791">
   <front>
     <title>Calendaring Extensions to WebDAV (CalDAV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4791"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="B. Desruisseaux"/>
-    <author fullname="L. Dusseault"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="B. Desruisseaux" initials="B." surname="Desruisseaux">
+      <organization/>
+    </author>
+    <author fullname="L. Dusseault" initials="L." surname="Dusseault">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>calsched</keyword>
-    <keyword>calsch</keyword>
-    <keyword>calcav</keyword>
-    <keyword>calendar</keyword>
-    <keyword>calendaring</keyword>
-    <keyword>scheduling</keyword>
-    <keyword>webdav</keyword>
-    <keyword>ical</keyword>
-    <keyword>icalendar</keyword>
-    <keyword>itip</keyword>
-    <keyword>text/calendar</keyword>
-    <keyword>http</keyword>
-    <abstract>This document defines extensions to the Web Distributed Authoring and Versioning (WebDAV) protocol to specify a standard way of accessing, managing, and sharing calendaring and scheduling information based on the iCalendar format.  This document defines the "calendar-access" feature of CalDAV. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extensions to the Web Distributed Authoring and Versioning (WebDAV) protocol to specify a standard way of accessing, managing, and sharing calendaring and scheduling information based on the iCalendar format.  This document defines the "calendar-access" feature of CalDAV. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4791"/>
+  <seriesInfo name="RFC" value="4791"/>
 </reference>

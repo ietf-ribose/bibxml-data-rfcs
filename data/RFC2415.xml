@@ -1,16 +1,18 @@
 <reference anchor="RFC2415" target="https://www.rfc-editor.org/info/rfc2415">
   <front>
     <title>Simulation Studies of Increased Initial TCP Window Size</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2415"/>
-    <author fullname="K. Poduri"/>
-    <author fullname="K. Nichols"/>
+    <author fullname="K. Poduri" initials="K." surname="Poduri">
+      <organization/>
+    </author>
+    <author fullname="K. Nichols" initials="K." surname="Nichols">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
     <workgroup>tcpimpl</workgroup>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <abstract>This document covers some simulation studies of the effects of increasing the initial window size of TCP.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document covers some simulation studies of the effects of increasing the initial window size of TCP.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2415"/>
+  <seriesInfo name="RFC" value="2415"/>
 </reference>

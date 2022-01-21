@@ -1,12 +1,18 @@
 <reference anchor="RFC3769" target="https://www.rfc-editor.org/info/rfc3769">
   <front>
     <title>Requirements for IPv6 Prefix Delegation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3769"/>
-    <author fullname="S. Miyakawa"/>
-    <author fullname="R. Droms"/>
+    <author fullname="S. Miyakawa" initials="S." surname="Miyakawa">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>ipv6</workgroup>
-    <keyword>internet protocol version 6</keyword>
-    <abstract>This document describes requirements for how IPv6 address prefixes should be delegated to an IPv6 subscriber's network (or "site").  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes requirements for how IPv6 address prefixes should be delegated to an IPv6 subscriber's network (or "site").  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3769"/>
+  <seriesInfo name="RFC" value="3769"/>
 </reference>

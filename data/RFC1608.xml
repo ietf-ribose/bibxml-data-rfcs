@@ -1,17 +1,24 @@
 <reference anchor="RFC1608" target="https://www.rfc-editor.org/info/rfc1608">
   <front>
     <title>Representing IP Information in the X.500 Directory</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1608"/>
-    <author fullname="T. Johannsen"/>
-    <author fullname="G. Mansfield"/>
-    <author fullname="M. Kosters"/>
-    <author fullname="S. Sataluri"/>
+    <author fullname="T. Johannsen" initials="T." surname="Johannsen">
+      <organization/>
+    </author>
+    <author fullname="G. Mansfield" initials="G." surname="Mansfield">
+      <organization/>
+    </author>
+    <author fullname="M. Kosters" initials="M." surname="Kosters">
+      <organization/>
+    </author>
+    <author fullname="S. Sataluri" initials="S." surname="Sataluri">
+      <organization/>
+    </author>
     <date year="1994" month="March"/>
     <workgroup>osids</workgroup>
-    <keyword>X500-DIR</keyword>
-    <keyword>Data</keyword>
-    <keyword>Structure</keyword>
-    <keyword>Schemo</keyword>
-    <abstract>This document describes the objects necessary to include information about IP networks and IP numbers in the X.500 Directory.  It extends the work "Charting networks in the X.500 Directory" [1] where a general framework is presented for representing networks in the Directory by applying it to IP networks.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the objects necessary to include information about IP networks and IP numbers in the X.500 Directory.  It extends the work "Charting networks in the X.500 Directory" [1] where a general framework is presented for representing networks in the Directory by applying it to IP networks.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1608"/>
+  <seriesInfo name="RFC" value="1608"/>
 </reference>

@@ -1,15 +1,15 @@
 <reference anchor="RFC2530" target="https://www.rfc-editor.org/info/rfc2530">
   <front>
     <title>Indicating Supported Media Features Using Extensions to DSN and MDN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2530"/>
-    <author fullname="D. Wing"/>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>fax</workgroup>
-    <keyword>message</keyword>
-    <keyword>disposition</keyword>
-    <keyword>notification</keyword>
-    <keyword>delivery</keyword>
-    <keyword>status</keyword>
-    <abstract>This memo describes a format for generating Message Disposition Notifications and Delivery Status Notifications which contain such information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a format for generating Message Disposition Notifications and Delivery Status Notifications which contain such information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2530"/>
+  <seriesInfo name="RFC" value="2530"/>
 </reference>

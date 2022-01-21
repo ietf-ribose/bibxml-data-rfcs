@@ -1,13 +1,18 @@
 <reference anchor="RFC2893" target="https://www.rfc-editor.org/info/rfc2893">
   <front>
     <title>Transition Mechanisms for IPv6 Hosts and Routers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2893"/>
-    <author fullname="R. Gilligan"/>
-    <author fullname="E. Nordmark"/>
+    <author fullname="R. Gilligan" initials="R." surname="Gilligan">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
     <workgroup>ngtrans</workgroup>
-    <keyword>TRANS-IPV6</keyword>
-    <keyword>IPv4</keyword>
-    <abstract>This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2893"/>
+  <seriesInfo name="RFC" value="2893"/>
 </reference>

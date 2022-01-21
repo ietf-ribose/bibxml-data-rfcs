@@ -1,11 +1,19 @@
 <reference anchor="RFC8881" target="https://www.rfc-editor.org/info/rfc8881">
   <front>
     <title>Network File System (NFS) Version 4 Minor Version 1 Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8881"/>
-    <author fullname="D. Noveck"/>
-    <author fullname="C. Lever"/>
+    <author fullname="D. Noveck" initials="D." surname="Noveck">
+      <organization/>
+    </author>
+    <author fullname="C. Lever" initials="C." surname="Lever">
+      <organization/>
+    </author>
     <date year="2020" month="August"/>
     <workgroup>nfsv4</workgroup>
-    <abstract>This document describes the Network File System (NFS) version 4 minor version 1, including features retained from the base protocol (NFS version 4 minor version 0, which is specified in RFC 7530) and protocol extensions made subsequently. The later minor version has no dependencies on NFS version 4 minor version 0, and is considered a separate protocol. This document obsoletes RFC 5661. It substantially revises the treatment of features relating to multi-server namespace, superseding the description of those features appearing in RFC 5661.</abstract>
+    <abstract>
+      <t>This document describes the Network File System (NFS) version 4 minor version 1, including features retained from the base protocol (NFS version 4 minor version 0, which is specified in RFC 7530) and protocol extensions made subsequently. The later minor version has no dependencies on NFS version 4 minor version 0, and is considered a separate protocol.</t>
+      <t>This document obsoletes RFC 5661. It substantially revises the treatment of features relating to multi-server namespace, superseding the description of those features appearing in RFC 5661.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8881"/>
+  <seriesInfo name="RFC" value="8881"/>
 </reference>

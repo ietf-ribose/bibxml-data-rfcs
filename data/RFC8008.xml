@@ -1,17 +1,27 @@
 <reference anchor="RFC8008" target="https://www.rfc-editor.org/info/rfc8008">
   <front>
     <title>Content Delivery Network Interconnection (CDNI) Request Routing: Footprint and Capabilities Semantics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8008"/>
-    <author fullname="J. Seedorf"/>
-    <author fullname="J. Peterson"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="R. van Brandenburg"/>
-    <author fullname="K. Ma"/>
+    <author fullname="J. Seedorf" initials="J." surname="Seedorf">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="R. van Brandenburg" initials="R." surname="van">
+      <organization/>
+    </author>
+    <author fullname="K. Ma" initials="K." surname="Ma">
+      <organization/>
+    </author>
     <date year="2016" month="December"/>
     <workgroup>cdni</workgroup>
-    <keyword>CDNI</keyword>
-    <keyword>CDN Interconnect</keyword>
-    <keyword>Request Routing</keyword>
-    <abstract>This document captures the semantics of the "Footprint and Capabilities Advertisement" part of the Content Delivery Network Interconnection (CDNI) Request Routing interface, i.e., the desired meaning of "Footprint" and "Capabilities" in the CDNI context and what the "Footprint &amp; Capabilities Advertisement interface (FCI)" offers within CDNI.  The document also provides guidelines for the CDNI FCI protocol.  It further defines a Base Advertisement Object, the necessary registries for capabilities and footprints, and guidelines on how these registries can be extended in the future.</abstract>
+    <abstract>
+      <t>This document captures the semantics of the "Footprint and Capabilities Advertisement" part of the Content Delivery Network Interconnection (CDNI) Request Routing interface, i.e., the desired meaning of "Footprint" and "Capabilities" in the CDNI context and what the "Footprint &amp; Capabilities Advertisement interface (FCI)" offers within CDNI.  The document also provides guidelines for the CDNI FCI protocol.  It further defines a Base Advertisement Object, the necessary registries for capabilities and footprints, and guidelines on how these registries can be extended in the future.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8008"/>
+  <seriesInfo name="RFC" value="8008"/>
 </reference>

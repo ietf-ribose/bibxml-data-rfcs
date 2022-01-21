@@ -1,20 +1,33 @@
 <reference anchor="RFC3204" target="https://www.rfc-editor.org/info/rfc3204">
   <front>
     <title>MIME media types for ISUP and QSIG Objects</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3204"/>
-    <author fullname="E. Zimmerer"/>
-    <author fullname="J. Peterson"/>
-    <author fullname="A. Vemuri"/>
-    <author fullname="L. Ong"/>
-    <author fullname="F. Audet"/>
-    <author fullname="M. Watson"/>
-    <author fullname="M. Zonoun"/>
+    <author fullname="E. Zimmerer" initials="E." surname="Zimmerer">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="A. Vemuri" initials="A." surname="Vemuri">
+      <organization/>
+    </author>
+    <author fullname="L. Ong" initials="L." surname="Ong">
+      <organization/>
+    </author>
+    <author fullname="F. Audet" initials="F." surname="Audet">
+      <organization/>
+    </author>
+    <author fullname="M. Watson" initials="M." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="M. Zonoun" initials="M." surname="Zonoun">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
     <workgroup>sip</workgroup>
-    <keyword>multipart</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes MIME types for application/ISUP and application/QSIG objects for use in SIP applications, according to the rules defined in RFC 2048.  These types can be used to identify ISUP and QSIG objects within a SIP message such as INVITE or INFO, as might be implemented when using SIP in an environment where part of the call involves interworking to the PSTN. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes MIME types for application/ISUP and application/QSIG objects for use in SIP applications, according to the rules defined in RFC 2048.  These types can be used to identify ISUP and QSIG objects within a SIP message such as INVITE or INFO, as might be implemented when using SIP in an environment where part of the call involves interworking to the PSTN. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3204"/>
+  <seriesInfo name="RFC" value="3204"/>
 </reference>

@@ -1,17 +1,27 @@
 <reference anchor="RFC5477" target="https://www.rfc-editor.org/info/rfc5477">
   <front>
     <title>Information Model for Packet Sampling Exports</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5477"/>
-    <author fullname="T. Dietz"/>
-    <author fullname="B. Claise"/>
-    <author fullname="P. Aitken"/>
-    <author fullname="F. Dressler"/>
-    <author fullname="G. Carle"/>
+    <author fullname="T. Dietz" initials="T." surname="Dietz">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="P. Aitken" initials="P." surname="Aitken">
+      <organization/>
+    </author>
+    <author fullname="F. Dressler" initials="F." surname="Dressler">
+      <organization/>
+    </author>
+    <author fullname="G. Carle" initials="G." surname="Carle">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>psamp</workgroup>
-    <keyword>psamp</keyword>
-    <keyword>ipfix</keyword>
-    <keyword>ip flow information export</keyword>
-    <abstract>This memo defines an information model for the Packet SAMPling (PSAMP) protocol.  It is used by the PSAMP protocol for encoding sampled packet data and information related to the Sampling process.  As the PSAMP protocol is based on the IP Flow Information eXport (IPFIX) protocol, this information model is an extension to the IPFIX information model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an information model for the Packet SAMPling (PSAMP) protocol.  It is used by the PSAMP protocol for encoding sampled packet data and information related to the Sampling process.  As the PSAMP protocol is based on the IP Flow Information eXport (IPFIX) protocol, this information model is an extension to the IPFIX information model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5477"/>
+  <seriesInfo name="RFC" value="5477"/>
 </reference>

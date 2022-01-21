@@ -1,13 +1,15 @@
 <reference anchor="RFC6266" target="https://www.rfc-editor.org/info/rfc6266">
   <front>
     <title>Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6266"/>
-    <author fullname="J. Reschke"/>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>httpbis</workgroup>
-    <keyword>filename</keyword>
-    <keyword>attachment</keyword>
-    <keyword>inline</keyword>
-    <abstract>RFC 2616 defines the Content-Disposition response header field, but points out that it is not part of the HTTP/1.1 Standard.  This specification takes over the definition and registration of Content-Disposition, as used in HTTP, and clarifies internationalization aspects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>RFC 2616 defines the Content-Disposition response header field, but points out that it is not part of the HTTP/1.1 Standard.  This specification takes over the definition and registration of Content-Disposition, as used in HTTP, and clarifies internationalization aspects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6266"/>
+  <seriesInfo name="RFC" value="6266"/>
 </reference>

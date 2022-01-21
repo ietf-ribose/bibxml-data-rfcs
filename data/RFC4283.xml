@@ -1,18 +1,27 @@
 <reference anchor="RFC4283" target="https://www.rfc-editor.org/info/rfc4283">
   <front>
     <title>Mobile Node Identifier Option for Mobile IPv6 (MIPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4283"/>
-    <author fullname="A. Patel"/>
-    <author fullname="K. Leung"/>
-    <author fullname="M. Khalil"/>
-    <author fullname="H. Akhtar"/>
-    <author fullname="K. Chowdhury"/>
+    <author fullname="A. Patel" initials="A." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="K. Leung" initials="K." surname="Leung">
+      <organization/>
+    </author>
+    <author fullname="M. Khalil" initials="M." surname="Khalil">
+      <organization/>
+    </author>
+    <author fullname="H. Akhtar" initials="H." surname="Akhtar">
+      <organization/>
+    </author>
+    <author fullname="K. Chowdhury" initials="K." surname="Chowdhury">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>mip6</workgroup>
-    <keyword>mobility header</keyword>
-    <keyword>mobile nodes</keyword>
-    <keyword>correspondent nodes</keyword>
-    <keyword>home agents</keyword>
-    <abstract>Mobile IPv6 (MIPv6) defines a new Mobility header that is used by mobile nodes, correspondent nodes, and home agents in all messaging related to the creation and management of bindings.  Mobile IPv6 nodes need the capability to identify themselves using an identity other than the default home IP address.  Some examples of identifiers include Network Access Identifier (NAI), Fully Qualified Domain Name (FQDN), International Mobile Station Identifier (IMSI), and Mobile Subscriber Number (MSISDN).  This document defines a new mobility option that can be used by Mobile IPv6 entities to identify themselves in messages containing a mobility header. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Mobile IPv6 (MIPv6) defines a new Mobility header that is used by mobile nodes, correspondent nodes, and home agents in all messaging related to the creation and management of bindings.  Mobile IPv6 nodes need the capability to identify themselves using an identity other than the default home IP address.  Some examples of identifiers include Network Access Identifier (NAI), Fully Qualified Domain Name (FQDN), International Mobile Station Identifier (IMSI), and Mobile Subscriber Number (MSISDN).  This document defines a new mobility option that can be used by Mobile IPv6 entities to identify themselves in messages containing a mobility header. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4283"/>
+  <seriesInfo name="RFC" value="4283"/>
 </reference>

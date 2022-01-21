@@ -1,10 +1,15 @@
 <reference anchor="RFC1088" target="https://www.rfc-editor.org/info/rfc1088">
   <front>
     <title>Standard for the transmission of IP datagrams over NetBIOS networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1088"/>
-    <author fullname="L.J. McLaughlin"/>
+    <author fullname="L.J. McLaughlin" initials="L.J." surname="McLaughlin">
+      <organization/>
+    </author>
     <date year="1989" month="February"/>
-    <keyword>IP-NETBIOS</keyword>
-    <abstract>This document specifies a standard method of encapsulating the Internet Protocol (IP) datagrams on NetBIOS networks.</abstract>
+    <abstract>
+      <t>This document specifies a standard method of encapsulating the Internet Protocol (IP) datagrams on NetBIOS networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1088"/>
+  <seriesInfo name="STD" value="48"/>
+  <seriesInfo name="RFC" value="1088"/>
 </reference>

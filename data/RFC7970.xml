@@ -1,23 +1,15 @@
 <reference anchor="RFC7970" target="https://www.rfc-editor.org/info/rfc7970">
   <front>
     <title>The Incident Object Description Exchange Format Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7970"/>
-    <author fullname="R. Danyliw"/>
+    <author fullname="R. Danyliw" initials="R." surname="Danyliw">
+      <organization/>
+    </author>
     <date year="2016" month="November"/>
     <workgroup>mile</workgroup>
-    <keyword>incident data format</keyword>
-    <keyword>incident report</keyword>
-    <keyword>cyber threat indicators</keyword>
-    <keyword>computer security incident</keyword>
-    <keyword>computer security incident response team</keyword>
-    <keyword>CSIRT</keyword>
-    <keyword>CERT</keyword>
-    <keyword>security data sharing</keyword>
-    <keyword>Computer Network Defense Service Provider</keyword>
-    <keyword>CNDSP</keyword>
-    <keyword>information sharing</keyword>
-    <keyword>automated information sharing</keyword>
-    <keyword>cyber indicators</keyword>
-    <abstract>The Incident Object Description Exchange Format (IODEF) defines a data representation for security incident reports and indicators commonly exchanged by operational security teams for mitigation and watch and warning.  This document describes an updated information model for the IODEF and provides an associated data model specified with the XML schema.  This new information and data model obsoletes RFCs 5070 and 6685.</abstract>
+    <abstract>
+      <t>The Incident Object Description Exchange Format (IODEF) defines a data representation for security incident reports and indicators commonly exchanged by operational security teams for mitigation and watch and warning.  This document describes an updated information model for the IODEF and provides an associated data model specified with the XML schema.  This new information and data model obsoletes RFCs 5070 and 6685.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7970"/>
+  <seriesInfo name="RFC" value="7970"/>
 </reference>

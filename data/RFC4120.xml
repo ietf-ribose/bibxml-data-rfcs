@@ -1,16 +1,24 @@
 <reference anchor="RFC4120" target="https://www.rfc-editor.org/info/rfc4120">
   <front>
     <title>The Kerberos Network Authentication Service (V5)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4120"/>
-    <author fullname="C. Neuman"/>
-    <author fullname="T. Yu"/>
-    <author fullname="S. Hartman"/>
-    <author fullname="K. Raeburn"/>
+    <author fullname="C. Neuman" initials="C." surname="Neuman">
+      <organization/>
+    </author>
+    <author fullname="T. Yu" initials="T." surname="Yu">
+      <organization/>
+    </author>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
+    <author fullname="K. Raeburn" initials="K." surname="Raeburn">
+      <organization/>
+    </author>
     <date year="2005" month="July"/>
     <workgroup>krb-wg</workgroup>
-    <keyword>KERBEROS</keyword>
-    <keyword>CAT</keyword>
-    <keyword>Security</keyword>
-    <abstract>This document provides an overview and specification of Version 5 of the Kerberos protocol, and it obsoletes RFC 1510 to clarify aspects of the protocol and its intended use that require more detailed or clearer explanation than was provided in RFC 1510.  This document is intended to provide a detailed description of the protocol, suitable for implementation, together with descriptions of the appropriate use of protocol messages and fields within those messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document provides an overview and specification of Version 5 of the Kerberos protocol, and it obsoletes RFC 1510 to clarify aspects of the protocol and its intended use that require more detailed or clearer explanation than was provided in RFC 1510.  This document is intended to provide a detailed description of the protocol, suitable for implementation, together with descriptions of the appropriate use of protocol messages and fields within those messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4120"/>
+  <seriesInfo name="RFC" value="4120"/>
 </reference>

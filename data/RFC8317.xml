@@ -1,15 +1,30 @@
 <reference anchor="RFC8317" target="https://www.rfc-editor.org/info/rfc8317">
   <front>
     <title>Ethernet-Tree (E-Tree) Support in Ethernet VPN (EVPN) and Provider Backbone Bridging EVPN (PBB-EVPN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8317"/>
-    <author fullname="A. Sajassi"/>
-    <author fullname="S. Salam"/>
-    <author fullname="J. Drake"/>
-    <author fullname="J. Uttaro"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="J. Rabadan"/>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="J. Uttaro" initials="J." surname="Uttaro">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
     <date year="2018" month="January"/>
     <workgroup>bess</workgroup>
-    <abstract>The MEF Forum (MEF) has defined a rooted-multipoint Ethernet service known as Ethernet-Tree (E-Tree).  A solution framework for supporting this service in MPLS networks is described in RFC 7387, "A Framework for Ethernet-Tree (E-Tree) Service over a Multiprotocol Label Switching (MPLS) Network".  This document discusses how those functional requirements can be met with a solution based on RFC 7432, "BGP MPLS Based Ethernet VPN (EVPN)", with some extensions and a description of how such a solution can offer a more efficient implementation of these functions than that of RFC 7796, "Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)".  This document makes use of the most significant bit of the Tunnel Type field (in the P-Multicast Service Interface (PMSI) Tunnel attribute) governed by the IANA registry created by RFC 7385; hence, it updates RFC 7385 accordingly.</abstract>
+    <abstract>
+      <t>The MEF Forum (MEF) has defined a rooted-multipoint Ethernet service known as Ethernet-Tree (E-Tree).  A solution framework for supporting this service in MPLS networks is described in RFC 7387, "A Framework for Ethernet-Tree (E-Tree) Service over a Multiprotocol Label Switching (MPLS) Network".  This document discusses how those functional requirements can be met with a solution based on RFC 7432, "BGP MPLS Based Ethernet VPN (EVPN)", with some extensions and a description of how such a solution can offer a more efficient implementation of these functions than that of RFC 7796, "Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)".  This document makes use of the most significant bit of the Tunnel Type field (in the P-Multicast Service Interface (PMSI) Tunnel attribute) governed by the IANA registry created by RFC 7385; hence, it updates RFC 7385 accordingly.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8317"/>
+  <seriesInfo name="RFC" value="8317"/>
 </reference>

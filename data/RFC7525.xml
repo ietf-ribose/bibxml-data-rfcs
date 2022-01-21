@@ -1,17 +1,22 @@
 <reference anchor="RFC7525" target="https://www.rfc-editor.org/info/rfc7525">
   <front>
     <title>Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7525"/>
-    <author fullname="Y. Sheffer"/>
-    <author fullname="R. Holz"/>
-    <author fullname="P. Saint-Andre"/>
+    <author fullname="Y. Sheffer" initials="Y." surname="Sheffer">
+      <organization/>
+    </author>
+    <author fullname="R. Holz" initials="R." surname="Holz">
+      <organization/>
+    </author>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>uta</workgroup>
-    <keyword>Transport Layer Security</keyword>
-    <keyword>TLS</keyword>
-    <keyword>DTLS</keyword>
-    <keyword>Secure Sockets Layer</keyword>
-    <keyword>SSL</keyword>
-    <abstract>Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) are widely used to protect data exchanged over application protocols such as HTTP, SMTP, IMAP, POP, SIP, and XMPP.  Over the last few years, several serious attacks on TLS have emerged, including attacks on its most commonly used cipher suites and their modes of operation.  This document provides recommendations for improving the security of deployed services that use TLS and DTLS.  The recommendations are applicable to the majority of use cases.</abstract>
+    <abstract>
+      <t>Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) are widely used to protect data exchanged over application protocols such as HTTP, SMTP, IMAP, POP, SIP, and XMPP.  Over the last few years, several serious attacks on TLS have emerged, including attacks on its most commonly used cipher suites and their modes of operation.  This document provides recommendations for improving the security of deployed services that use TLS and DTLS.  The recommendations are applicable to the majority of use cases.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7525"/>
+  <seriesInfo name="BCP" value="195"/>
+  <seriesInfo name="RFC" value="7525"/>
 </reference>

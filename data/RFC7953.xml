@@ -1,16 +1,19 @@
 <reference anchor="RFC7953" target="https://www.rfc-editor.org/info/rfc7953">
   <front>
     <title>Calendar Availability</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7953"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="M. Douglass"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="M. Douglass" initials="M." surname="Douglass">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>calext</workgroup>
-    <keyword>availability</keyword>
-    <keyword>calendaring</keyword>
-    <keyword>free-busy</keyword>
-    <keyword>iCalendar</keyword>
-    <keyword>CalDAV</keyword>
-    <abstract>This document specifies a new iCalendar (RFC 5545) component that allows the publication of available and unavailable time periods associated with a calendar user. This component can be used in standard iCalendar free-busy lookups, including the iCalendar Transport-independent Interoperability Protocol (iTIP; RFC 5546) free-busy requests, to generate repeating blocks of available or busy time with exceptions as needed. This document also defines extensions to the Calendaring Extensions to WebDAV (CalDAV) calendar access protocol (RFC 4791) and the associated scheduling protocol (RFC 6638) to specify how this new calendar component can be used when evaluating free-busy time.</abstract>
+    <abstract>
+      <t>This document specifies a new iCalendar (RFC 5545) component that allows the publication of available and unavailable time periods associated with a calendar user. This component can be used in standard iCalendar free-busy lookups, including the iCalendar Transport-independent Interoperability Protocol (iTIP; RFC 5546) free-busy requests, to generate repeating blocks of available or busy time with exceptions as needed.</t>
+      <t>This document also defines extensions to the Calendaring Extensions to WebDAV (CalDAV) calendar access protocol (RFC 4791) and the associated scheduling protocol (RFC 6638) to specify how this new calendar component can be used when evaluating free-busy time.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7953"/>
+  <seriesInfo name="RFC" value="7953"/>
 </reference>

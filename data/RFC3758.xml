@@ -1,17 +1,27 @@
 <reference anchor="RFC3758" target="https://www.rfc-editor.org/info/rfc3758">
   <front>
     <title>Stream Control Transmission Protocol (SCTP) Partial Reliability Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3758"/>
-    <author fullname="R. Stewart"/>
-    <author fullname="M. Ramalho"/>
-    <author fullname="Q. Xie"/>
-    <author fullname="M. Tuexen"/>
-    <author fullname="P. Conrad"/>
+    <author fullname="R. Stewart" initials="R." surname="Stewart">
+      <organization/>
+    </author>
+    <author fullname="M. Ramalho" initials="M." surname="Ramalho">
+      <organization/>
+    </author>
+    <author fullname="Q. Xie" initials="Q." surname="Xie">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
+    <author fullname="P. Conrad" initials="P." surname="Conrad">
+      <organization/>
+    </author>
     <date year="2004" month="May"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>init</keyword>
-    <keyword>init ack</keyword>
-    <keyword>forward tsn</keyword>
-    <abstract>This memo describes an extension to the Stream Control Transmission Protocol (SCTP) that allows an SCTP endpoint to signal to its peer that it should move the cumulative ack point forward.  When both sides of an SCTP association support this extension, it can be used by an SCTP implementation to provide partially reliable data transmission service to an upper layer protocol.  This memo describes the protocol extensions, which consist of a new parameter for INIT and INIT ACK, and a new FORWARD TSN chunk type, and provides one example of a partially reliable service that can be provided to the upper layer via this mechanism. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes an extension to the Stream Control Transmission Protocol (SCTP) that allows an SCTP endpoint to signal to its peer that it should move the cumulative ack point forward.  When both sides of an SCTP association support this extension, it can be used by an SCTP implementation to provide partially reliable data transmission service to an upper layer protocol.  This memo describes the protocol extensions, which consist of a new parameter for INIT and INIT ACK, and a new FORWARD TSN chunk type, and provides one example of a partially reliable service that can be provided to the upper layer via this mechanism. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3758"/>
+  <seriesInfo name="RFC" value="3758"/>
 </reference>

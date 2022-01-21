@@ -1,18 +1,21 @@
 <reference anchor="RFC2343" target="https://www.rfc-editor.org/info/rfc2343">
   <front>
     <title>RTP Payload Format for Bundled MPEG</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2343"/>
-    <author fullname="M. Civanlar"/>
-    <author fullname="G. Cash"/>
-    <author fullname="B. Haskell"/>
+    <author fullname="M. Civanlar" initials="M." surname="Civanlar">
+      <organization/>
+    </author>
+    <author fullname="G. Cash" initials="G." surname="Cash">
+      <organization/>
+    </author>
+    <author fullname="B. Haskell" initials="B." surname="Haskell">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP-MPEG</keyword>
-    <keyword>real-time</keyword>
-    <keyword>transport</keyword>
-    <keyword>protocol</keyword>
-    <keyword>audio</keyword>
-    <keyword>video</keyword>
-    <abstract>This document describes a payload type for bundled, MPEG-2 encoded video and audio data that may be used with RTP, version 2.  This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</abstract>
+    <abstract>
+      <t>This document describes a payload type for bundled, MPEG-2 encoded video and audio data that may be used with RTP, version 2.  This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2343"/>
+  <seriesInfo name="RFC" value="2343"/>
 </reference>

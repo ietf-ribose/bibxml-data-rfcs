@@ -1,22 +1,18 @@
 <reference anchor="RFC9079" target="https://www.rfc-editor.org/info/rfc9079">
   <front>
     <title>Source-Specific Routing in the Babel Routing Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9079"/>
-    <author fullname="M. Boutier"/>
-    <author fullname="J. Chroboczek"/>
+    <author fullname="M. Boutier" initials="M." surname="Boutier">
+      <organization/>
+    </author>
+    <author fullname="J. Chroboczek" initials="J." surname="Chroboczek">
+      <organization/>
+    </author>
     <date year="2021" month="August"/>
     <workgroup>babel</workgroup>
-    <keyword>SADR</keyword>
-    <keyword>source address-dependent routing</keyword>
-    <keyword>source address</keyword>
-    <keyword>multihoming</keyword>
-    <keyword>multihoming with multiple addresses</keyword>
-    <keyword>multiple addresses</keyword>
-    <keyword>source address selection</keyword>
-    <keyword>multiple routes</keyword>
-    <keyword>multipath</keyword>
-    <keyword>disjoint routes</keyword>
-    <keyword>route diversity</keyword>
-    <abstract>Source-specific routing, also known as Source Address Dependent Routing (SADR), is an extension to traditional next-hop routing where packets are forwarded according to both their destination address and their source address.  This document describes an extension for source-specific routing to the Babel routing protocol.</abstract>
+    <abstract>
+      <t>Source-specific routing, also known as Source Address Dependent Routing (SADR), is an extension to traditional next-hop routing where packets are forwarded according to both their destination address and their source address.  This document describes an extension for source-specific routing to the Babel routing protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9079"/>
+  <seriesInfo name="RFC" value="9079"/>
 </reference>

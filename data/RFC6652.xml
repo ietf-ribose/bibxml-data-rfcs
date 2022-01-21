@@ -1,13 +1,16 @@
 <reference anchor="RFC6652" target="https://www.rfc-editor.org/info/rfc6652">
   <front>
     <title>Sender Policy Framework (SPF) Authentication Failure Reporting Using the Abuse Reporting Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6652"/>
-    <author fullname="S. Kitterman"/>
+    <author fullname="S. Kitterman" initials="S." surname="Kitterman">
+      <organization/>
+    </author>
     <date year="2012" month="June"/>
     <workgroup>marf</workgroup>
-    <keyword>fraud</keyword>
-    <keyword>phishing</keyword>
-    <keyword>spoofing</keyword>
-    <abstract>This memo presents extensions to the Abuse Reporting Format (ARF) and Sender Policy Framework (SPF) specifications to allow for detailed reporting of message authentication failures in an on-demand fashion. This memo updates RFC 4408 by providing an IANA registry for SPF modifiers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo presents extensions to the Abuse Reporting Format (ARF) and Sender Policy Framework (SPF) specifications to allow for detailed reporting of message authentication failures in an on-demand fashion.</t>
+      <t>This memo updates RFC 4408 by providing an IANA registry for SPF modifiers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6652"/>
+  <seriesInfo name="RFC" value="6652"/>
 </reference>

@@ -1,20 +1,24 @@
 <reference anchor="RFC8921" target="https://www.rfc-editor.org/info/rfc8921">
   <front>
     <title>Dynamic Service Negotiation: The Connectivity Provisioning Negotiation Protocol (CPNP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8921"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="C. Jacquenet"/>
-    <author fullname="D. Zhang"/>
-    <author fullname="P. Georgatsos"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="C. Jacquenet" initials="C." surname="Jacquenet">
+      <organization/>
+    </author>
+    <author fullname="D. Zhang" initials="D." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="P. Georgatsos" initials="P." surname="Georgatsos">
+      <organization/>
+    </author>
     <date year="2020" month="October"/>
-    <keyword>SDN</keyword>
-    <keyword>Order Request Handling</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Dynamic Provisioning</keyword>
-    <keyword>CDN</keyword>
-    <keyword>Interconnection</keyword>
-    <keyword>Service Delivery</keyword>
-    <keyword>Service Activation</keyword>
-    <abstract>This document defines the Connectivity Provisioning Negotiation Protocol (CPNP), which is designed to facilitate the dynamic negotiation of service parameters. CPNP is a generic protocol that can be used for various negotiation purposes that include (but are not necessarily limited to) connectivity provisioning services, storage facilities, Content Delivery Networks, etc.</abstract>
+    <abstract>
+      <t>This document defines the Connectivity Provisioning Negotiation Protocol (CPNP), which is designed to facilitate the dynamic negotiation of service parameters.</t>
+      <t>CPNP is a generic protocol that can be used for various negotiation purposes that include (but are not necessarily limited to) connectivity provisioning services, storage facilities, Content Delivery Networks, etc.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8921"/>
+  <seriesInfo name="RFC" value="8921"/>
 </reference>

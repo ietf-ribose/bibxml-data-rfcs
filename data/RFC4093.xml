@@ -1,11 +1,18 @@
 <reference anchor="RFC4093" target="https://www.rfc-editor.org/info/rfc4093">
   <front>
     <title>Problem Statement: Mobile IPv4 Traversal of Virtual Private Network (VPN) Gateways</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4093"/>
-    <author fullname="F. Adrangi"/>
-    <author fullname="H. Levkowetz"/>
+    <author fullname="F. Adrangi" initials="F." surname="Adrangi">
+      <organization/>
+    </author>
+    <author fullname="H. Levkowetz" initials="H." surname="Levkowetz">
+      <organization/>
+    </author>
     <date year="2005" month="August"/>
     <workgroup>mip4</workgroup>
-    <abstract>Deploying Mobile-IP v4 in networks that are connected to the Internet through a Virtual Private Network (VPN) gateway presents some problems that do not currently have well-described solutions.  This document aims to describe and illustrate these problems, and to propose some guidelines for possible solutions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Deploying Mobile-IP v4 in networks that are connected to the Internet through a Virtual Private Network (VPN) gateway presents some problems that do not currently have well-described solutions.  This document aims to describe and illustrate these problems, and to propose some guidelines for possible solutions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4093"/>
+  <seriesInfo name="RFC" value="4093"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="RFC1502" target="https://www.rfc-editor.org/info/rfc1502">
   <front>
     <title>X.400 Use of Extended Character Sets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1502"/>
-    <author fullname="H. Alvestrand"/>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
     <date year="1993" month="August"/>
     <workgroup>x400ops</workgroup>
-    <keyword>Mail</keyword>
-    <abstract>This RFC defines a suggested method of using "GeneralText" in order to harmonize as much as possible the usage of this body part. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC defines a suggested method of using "GeneralText" in order to harmonize as much as possible the usage of this body part. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1502"/>
+  <seriesInfo name="RFC" value="1502"/>
 </reference>

@@ -1,10 +1,15 @@
 <reference anchor="RFC6070" target="https://www.rfc-editor.org/info/rfc6070">
   <front>
     <title>PKCS #5: Password-Based Key Derivation Function 2 (PBKDF2) Test Vectors</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6070"/>
-    <author fullname="S. Josefsson"/>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
     <date year="2011" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document contains test vectors for the Public-Key Cryptography Standards (PKCS) #5 Password-Based Key Derivation Function 2 (PBKDF2) with the Hash-based Message Authentication Code (HMAC) Secure Hash Algorithm (SHA-1) pseudorandom function.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document contains test vectors for the Public-Key Cryptography Standards (PKCS) #5 Password-Based Key Derivation Function 2 (PBKDF2) with the Hash-based Message Authentication Code (HMAC) Secure Hash Algorithm (SHA-1) pseudorandom function.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6070"/>
+  <seriesInfo name="RFC" value="6070"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC5148" target="https://www.rfc-editor.org/info/rfc5148">
   <front>
     <title>Jitter Considerations in Mobile Ad Hoc Networks (MANETs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5148"/>
-    <author fullname="T. Clausen"/>
-    <author fullname="C. Dearlove"/>
-    <author fullname="B. Adamson"/>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
+    <author fullname="C. Dearlove" initials="C." surname="Dearlove">
+      <organization/>
+    </author>
+    <author fullname="B. Adamson" initials="B." surname="Adamson">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>manet</workgroup>
-    <keyword>randomly modifying timing</keyword>
-    <keyword>control traffic transmission</keyword>
-    <keyword>tranmission collision</keyword>
-    <abstract>This document provides recommendations for jittering (randomly modifying timing) of control traffic transmissions in Mobile Ad hoc NETwork (MANET) routing protocols to reduce the probability of transmission collisions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides recommendations for jittering (randomly modifying timing) of control traffic transmissions in Mobile Ad hoc NETwork (MANET) routing protocols to reduce the probability of transmission collisions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5148"/>
+  <seriesInfo name="RFC" value="5148"/>
 </reference>

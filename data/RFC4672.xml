@@ -1,17 +1,21 @@
 <reference anchor="RFC4672" target="https://www.rfc-editor.org/info/rfc4672">
   <front>
     <title>RADIUS Dynamic Authorization Client MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4672"/>
-    <author fullname="S. De Cnodder"/>
-    <author fullname="N. Jonnala"/>
-    <author fullname="M. Chiba"/>
+    <author fullname="S. De Cnodder" initials="S." surname="De">
+      <organization/>
+    </author>
+    <author fullname="N. Jonnala" initials="N." surname="Jonnala">
+      <organization/>
+    </author>
+    <author fullname="M. Chiba" initials="M." surname="Chiba">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>radext</workgroup>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>dac</keyword>
-    <keyword>dynamic authorization client</keyword>
-    <keyword>RADIUS-DYNAUTH-CLIENT-MIB DEFINITIONS</keyword>
-    <keyword>management information base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes the Remote Authentication Dial-In User Service (RADIUS) (RFC2865) Dynamic Authorization Client (DAC) functions that support the dynamic authorization extensions as defined in RFC 3576.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes the Remote Authentication Dial-In User Service (RADIUS) (RFC2865) Dynamic Authorization Client (DAC) functions that support the dynamic authorization extensions as defined in RFC 3576.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4672"/>
+  <seriesInfo name="RFC" value="4672"/>
 </reference>

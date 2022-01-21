@@ -1,18 +1,27 @@
 <reference anchor="RFC3647" target="https://www.rfc-editor.org/info/rfc3647">
   <front>
     <title>Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3647"/>
-    <author fullname="S. Chokhani"/>
-    <author fullname="W. Ford"/>
-    <author fullname="R. Sabett"/>
-    <author fullname="C. Merrill"/>
-    <author fullname="S. Wu"/>
+    <author fullname="S. Chokhani" initials="S." surname="Chokhani">
+      <organization/>
+    </author>
+    <author fullname="W. Ford" initials="W." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="R. Sabett" initials="R." surname="Sabett">
+      <organization/>
+    </author>
+    <author fullname="C. Merrill" initials="C." surname="Merrill">
+      <organization/>
+    </author>
+    <author fullname="S. Wu" initials="S." surname="Wu">
+      <organization/>
+    </author>
     <date year="2003" month="November"/>
     <workgroup>pkix</workgroup>
-    <keyword>pkix</keyword>
-    <keyword>encryption</keyword>
-    <keyword>security</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document presents a framework to assist the writers of certificate policies or certification practice statements for participants within public key infrastructures, such as certification authorities, policy authorities, and communities of interest that wish to rely on certificates.  In particular, the framework provides a comprehensive list of topics that potentially (at the writer's discretion) need to be covered in a certificate policy or a certification practice statement.  This document supersedes RFC 2527.</abstract>
+    <abstract>
+      <t>This document presents a framework to assist the writers of certificate policies or certification practice statements for participants within public key infrastructures, such as certification authorities, policy authorities, and communities of interest that wish to rely on certificates.  In particular, the framework provides a comprehensive list of topics that potentially (at the writer's discretion) need to be covered in a certificate policy or a certification practice statement.  This document supersedes RFC 2527.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3647"/>
+  <seriesInfo name="RFC" value="3647"/>
 </reference>

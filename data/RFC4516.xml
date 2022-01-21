@@ -1,17 +1,18 @@
 <reference anchor="RFC4516" target="https://www.rfc-editor.org/info/rfc4516">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP): Uniform Resource Locator</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4516"/>
-    <author fullname="M. Smith"/>
-    <author fullname="T. Howes"/>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>ldapbis</workgroup>
-    <keyword>LDAP-URL</keyword>
-    <keyword>LDAPURL</keyword>
-    <keyword>LDAP search</keyword>
-    <keyword>URL</keyword>
-    <keyword>URI</keyword>
-    <keyword>LDAPv3</keyword>
-    <abstract>This document describes a format for a Lightweight Directory Access Protocol (LDAP) Uniform Resource Locator (URL).  An LDAP URL describes an LDAP search operation that is used to retrieve information from an LDAP directory, or, in the context of an LDAP referral or reference, an LDAP URL describes a service where an LDAP operation may be progressed. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a format for a Lightweight Directory Access Protocol (LDAP) Uniform Resource Locator (URL).  An LDAP URL describes an LDAP search operation that is used to retrieve information from an LDAP directory, or, in the context of an LDAP referral or reference, an LDAP URL describes a service where an LDAP operation may be progressed. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4516"/>
+  <seriesInfo name="RFC" value="4516"/>
 </reference>

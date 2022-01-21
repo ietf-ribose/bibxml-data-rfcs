@@ -1,14 +1,18 @@
 <reference anchor="RFC6521" target="https://www.rfc-editor.org/info/rfc6521">
   <front>
     <title>Home Agent-Assisted Route Optimization between Mobile IPv4 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6521"/>
-    <author fullname="A. Makela"/>
-    <author fullname="J. Korhonen"/>
+    <author fullname="A. Makela" initials="A." surname="Makela">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>mip4</workgroup>
-    <keyword>mobile router</keyword>
-    <keyword>mobile network prefix</keyword>
-    <keyword>correspondent router</keyword>
-    <abstract>This document describes a home agent-assisted route optimization functionality for the IPv4 Network Mobility Protocol.  The function is designed to facilitate optimal routing in cases where all nodes are connected to a single home agent; thus, the use case is route optimization within a single organization or similar entity.  The functionality enables the discovery of eligible peer nodes (based on information received from the home agent) and their network prefixes, and the establishment of a direct tunnel between such nodes.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a home agent-assisted route optimization functionality for the IPv4 Network Mobility Protocol.  The function is designed to facilitate optimal routing in cases where all nodes are connected to a single home agent; thus, the use case is route optimization within a single organization or similar entity.  The functionality enables the discovery of eligible peer nodes (based on information received from the home agent) and their network prefixes, and the establishment of a direct tunnel between such nodes.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6521"/>
+  <seriesInfo name="RFC" value="6521"/>
 </reference>

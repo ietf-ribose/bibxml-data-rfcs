@@ -1,15 +1,18 @@
 <reference anchor="RFC8206" target="https://www.rfc-editor.org/info/rfc8206">
   <front>
     <title>BGPsec Considerations for Autonomous System (AS) Migration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8206"/>
-    <author fullname="W. George"/>
-    <author fullname="S. Murphy"/>
+    <author fullname="W. George" initials="W." surname="George">
+      <organization/>
+    </author>
+    <author fullname="S. Murphy" initials="S." surname="Murphy">
+      <organization/>
+    </author>
     <date year="2017" month="September"/>
     <workgroup>sidr</workgroup>
-    <keyword>as-migration</keyword>
-    <keyword>SIDR</keyword>
-    <keyword>BGPsec</keyword>
-    <keyword>AS_PATH</keyword>
-    <abstract>This document discusses considerations and methods for supporting and securing a common method for Autonomous System (AS) migration within the BGPsec protocol.</abstract>
+    <abstract>
+      <t>This document discusses considerations and methods for supporting and securing a common method for Autonomous System (AS) migration within the BGPsec protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8206"/>
+  <seriesInfo name="RFC" value="8206"/>
 </reference>

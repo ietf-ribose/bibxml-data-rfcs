@@ -1,18 +1,21 @@
 <reference anchor="RFC5324" target="https://www.rfc-editor.org/info/rfc5324">
   <front>
     <title>MIB for Fibre-Channel Security Protocols (FC-SP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5324"/>
-    <author fullname="C. DeSanti"/>
-    <author fullname="F. Maino"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="C. DeSanti" initials="C." surname="DeSanti">
+      <organization/>
+    </author>
+    <author fullname="F. Maino" initials="F." surname="Maino">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="2008" month="September"/>
     <workgroup>imss</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>T11-FC-SP-TC-MIB</keyword>
-    <keyword>T11-FC-SP-AUTHENTICATION-MIB</keyword>
-    <keyword>T11-FC-SP-ZONING-MIB</keyword>
-    <keyword>T11-FC-SP-POLICY-MIB</keyword>
-    <keyword>T11-FC-SP-SA-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to FC-SP, the Security Protocols defined for Fibre Channel. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to FC-SP, the Security Protocols defined for Fibre Channel. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5324"/>
+  <seriesInfo name="RFC" value="5324"/>
 </reference>

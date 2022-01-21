@@ -1,16 +1,20 @@
 <reference anchor="RFC3162" target="https://www.rfc-editor.org/info/rfc3162">
   <front>
     <title>RADIUS and IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3162"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="D. Mitton"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="D. Mitton" initials="D." surname="Mitton">
+      <organization/>
+    </author>
     <date year="2001" month="August"/>
-    <keyword>remote</keyword>
-    <keyword>authentication</keyword>
-    <keyword>dial in user</keyword>
-    <keyword>service</keyword>
-    <keyword>attributes</keyword>
-    <abstract>This document specifies the operation of RADIUS (Remote Authentication Dial In User Service) when run over IPv6 as well as the RADIUS attributes used to support IPv6 network access. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the operation of RADIUS (Remote Authentication Dial In User Service) when run over IPv6 as well as the RADIUS attributes used to support IPv6 network access. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3162"/>
+  <seriesInfo name="RFC" value="3162"/>
 </reference>

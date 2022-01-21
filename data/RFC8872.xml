@@ -1,15 +1,27 @@
 <reference anchor="RFC8872" target="https://www.rfc-editor.org/info/rfc8872">
   <front>
     <title>Guidelines for Using the Multiplexing Features of RTP to Support Multiple Media Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8872"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="B. Burman"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="H. Alvestrand"/>
-    <author fullname="R. Even"/>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="B. Burman" initials="B." surname="Burman">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
     <date year="2021" month="January"/>
     <workgroup>avtcore</workgroup>
-    <keyword>Simulcast</keyword>
-    <abstract>The Real-time Transport Protocol (RTP) is a flexible protocol that can be used in a wide range of applications, networks, and system topologies.  That flexibility makes for wide applicability but can complicate the application design process.  One particular design question that has received much attention is how to support multiple media streams in RTP.  This memo discusses the available options and design trade-offs, and provides guidelines on how to use the multiplexing features of RTP to support multiple media streams.</abstract>
+    <abstract>
+      <t>The Real-time Transport Protocol (RTP) is a flexible protocol that can be used in a wide range of applications, networks, and system topologies.  That flexibility makes for wide applicability but can complicate the application design process.  One particular design question that has received much attention is how to support multiple media streams in RTP.  This memo discusses the available options and design trade-offs, and provides guidelines on how to use the multiplexing features of RTP to support multiple media streams.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8872"/>
+  <seriesInfo name="RFC" value="8872"/>
 </reference>

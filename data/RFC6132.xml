@@ -1,15 +1,18 @@
 <reference anchor="RFC6132" target="https://www.rfc-editor.org/info/rfc6132">
   <front>
     <title>Sieve Notification Using Presence Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6132"/>
-    <author fullname="R. George"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="R. George" initials="R." surname="George">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>sieve</workgroup>
-    <keyword>email</keyword>
-    <keyword>filters</keyword>
-    <keyword>context</keyword>
-    <keyword>status</keyword>
-    <abstract>This is a further extension to the Sieve mail filtering language Notification extension, defining presence information that may be checked through the notify_method_capability feature. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This is a further extension to the Sieve mail filtering language Notification extension, defining presence information that may be checked through the notify_method_capability feature. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6132"/>
+  <seriesInfo name="RFC" value="6132"/>
 </reference>

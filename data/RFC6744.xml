@@ -1,10 +1,17 @@
 <reference anchor="RFC6744" target="https://www.rfc-editor.org/info/rfc6744">
   <front>
     <title>IPv6 Nonce Destination Option for the Identifier-Locator Network Protocol for IPv6 (ILNPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6744"/>
-    <author fullname="RJ Atkinson"/>
-    <author fullname="SN Bhatti"/>
+    <author fullname="RJ Atkinson" initials="RJ" surname="Atkinson">
+      <organization/>
+    </author>
+    <author fullname="SN Bhatti" initials="SN" surname="Bhatti">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
-    <abstract>The Identifier-Locator Network Protocol (ILNP) is an experimental, evolutionary enhancement to IP.  ILNP has multiple instantiations.  This document describes an experimental Nonce Destination Option used only with ILNP for IPv6 (ILNPv6).  This document is a product of the IRTF Routing Research Group.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Identifier-Locator Network Protocol (ILNP) is an experimental, evolutionary enhancement to IP.  ILNP has multiple instantiations.  This document describes an experimental Nonce Destination Option used only with ILNP for IPv6 (ILNPv6).  This document is a product of the IRTF Routing Research Group.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6744"/>
+  <seriesInfo name="RFC" value="6744"/>
 </reference>

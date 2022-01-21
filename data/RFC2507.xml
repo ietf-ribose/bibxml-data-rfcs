@@ -1,18 +1,21 @@
 <reference anchor="RFC2507" target="https://www.rfc-editor.org/info/rfc2507">
   <front>
     <title>IP Header Compression</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2507"/>
-    <author fullname="M. Degermark"/>
-    <author fullname="B. Nordgren"/>
-    <author fullname="S. Pink"/>
+    <author fullname="M. Degermark" initials="M." surname="Degermark">
+      <organization/>
+    </author>
+    <author fullname="B. Nordgren" initials="B." surname="Nordgren">
+      <organization/>
+    </author>
+    <author fullname="S. Pink" initials="S." surname="Pink">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>tcp</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>bandwidth</keyword>
-    <abstract>This document describes how to compress multiple IP headers and TCP and UDP headers per hop over point to point links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to compress multiple IP headers and TCP and UDP headers per hop over point to point links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2507"/>
+  <seriesInfo name="RFC" value="2507"/>
 </reference>

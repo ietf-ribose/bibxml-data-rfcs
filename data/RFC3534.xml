@@ -1,12 +1,15 @@
 <reference anchor="RFC3534" target="https://www.rfc-editor.org/info/rfc3534">
   <front>
     <title>The application/ogg Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3534"/>
-    <author fullname="L. Walleij"/>
+    <author fullname="L. Walleij" initials="L." surname="Walleij">
+      <organization/>
+    </author>
     <date year="2003" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>mime</keyword>
-    <keyword>multipurpose internet mail extenstions</keyword>
-    <abstract>The Ogg Bitstream Format aims at becoming a general, freely-available standard for transporting multimedia content across computing platforms and networks.  The intention of this document is to define the MIME media type application/ogg to refer to this kind of content when transported across the Internet.  It is the intention of the Ogg Bitstream Format developers that it be usable without intellectual property concerns. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Ogg Bitstream Format aims at becoming a general, freely-available standard for transporting multimedia content across computing platforms and networks.  The intention of this document is to define the MIME media type application/ogg to refer to this kind of content when transported across the Internet.  It is the intention of the Ogg Bitstream Format developers that it be usable without intellectual property concerns. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3534"/>
+  <seriesInfo name="RFC" value="3534"/>
 </reference>

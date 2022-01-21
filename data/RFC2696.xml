@@ -1,19 +1,24 @@
 <reference anchor="RFC2696" target="https://www.rfc-editor.org/info/rfc2696">
   <front>
     <title>LDAP Control Extension for Simple Paged Results Manipulation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2696"/>
-    <author fullname="C. Weider"/>
-    <author fullname="A. Herron"/>
-    <author fullname="A. Anantha"/>
-    <author fullname="T. Howes"/>
+    <author fullname="C. Weider" initials="C." surname="Weider">
+      <organization/>
+    </author>
+    <author fullname="A. Herron" initials="A." surname="Herron">
+      <organization/>
+    </author>
+    <author fullname="A. Anantha" initials="A." surname="Anantha">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>ldapext</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <abstract>This document describes an LDAPv3 control extension for simple paging of search results.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an LDAPv3 control extension for simple paging of search results.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2696"/>
+  <seriesInfo name="RFC" value="2696"/>
 </reference>

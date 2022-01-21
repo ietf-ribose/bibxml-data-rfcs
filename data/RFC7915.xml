@@ -1,23 +1,27 @@
 <reference anchor="RFC7915" target="https://www.rfc-editor.org/info/rfc7915">
   <front>
     <title>IP/ICMP Translation Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7915"/>
-    <author fullname="C. Bao"/>
-    <author fullname="X. Li"/>
-    <author fullname="F. Baker"/>
-    <author fullname="T. Anderson"/>
-    <author fullname="F. Gont"/>
+    <author fullname="C. Bao" initials="C." surname="Bao">
+      <organization/>
+    </author>
+    <author fullname="X. Li" initials="X." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="T. Anderson" initials="T." surname="Anderson">
+      <organization/>
+    </author>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>SIIT</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>control</keyword>
-    <keyword>message</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Stateless IP/ICMP Translation Algorithm</keyword>
-    <keyword>RFC6145bis</keyword>
-    <abstract>This document describes the Stateless IP/ICMP Translation Algorithm (SIIT), which translates between IPv4 and IPv6 packet headers (including ICMP headers).  This document obsoletes RFC 6145.</abstract>
+    <abstract>
+      <t>This document describes the Stateless IP/ICMP Translation Algorithm (SIIT), which translates between IPv4 and IPv6 packet headers (including ICMP headers).  This document obsoletes RFC 6145.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7915"/>
+  <seriesInfo name="RFC" value="7915"/>
 </reference>

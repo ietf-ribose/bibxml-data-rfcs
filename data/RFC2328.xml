@@ -1,19 +1,16 @@
 <reference anchor="RFC2328" target="https://www.rfc-editor.org/info/rfc2328">
   <front>
     <title>OSPF Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2328"/>
-    <author fullname="J. Moy"/>
+    <author fullname="J. Moy" initials="J." surname="Moy">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ospf</workgroup>
-    <keyword>OSPF2</keyword>
-    <keyword>Open</keyword>
-    <keyword>Shortest</keyword>
-    <keyword>Path</keyword>
-    <keyword>First</keyword>
-    <keyword>routing</keyword>
-    <keyword>Autonomous</keyword>
-    <keyword>system</keyword>
-    <keyword>AS</keyword>
-    <abstract>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2328"/>
+  <seriesInfo name="STD" value="54"/>
+  <seriesInfo name="RFC" value="2328"/>
 </reference>

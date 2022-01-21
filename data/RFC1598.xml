@@ -1,12 +1,15 @@
 <reference anchor="RFC1598" target="https://www.rfc-editor.org/info/rfc1598">
   <front>
     <title>PPP in X.25</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1598"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1994" month="March"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-X25</keyword>
-    <keyword>point</keyword>
-    <abstract>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  This document describes the use of X.25 for framing PPP encapsulated packets. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  This document describes the use of X.25 for framing PPP encapsulated packets. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1598"/>
+  <seriesInfo name="RFC" value="1598"/>
 </reference>

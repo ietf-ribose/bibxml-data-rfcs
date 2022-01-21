@@ -1,16 +1,24 @@
 <reference anchor="RFC4615" target="https://www.rfc-editor.org/info/rfc4615">
   <front>
     <title>The Advanced Encryption Standard-Cipher-based Message Authentication Code-Pseudo-Random Function-128 (AES-CMAC-PRF-128) Algorithm for the Internet Key Exchange Protocol (IKE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4615"/>
-    <author fullname="J. Song"/>
-    <author fullname="R. Poovendran"/>
-    <author fullname="J. Lee"/>
-    <author fullname="T. Iwata"/>
+    <author fullname="J. Song" initials="J." surname="Song">
+      <organization/>
+    </author>
+    <author fullname="R. Poovendran" initials="R." surname="Poovendran">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="T. Iwata" initials="T." surname="Iwata">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>ip security</keyword>
-    <keyword>pseudo-random function</keyword>
-    <abstract>Some implementations of IP Security (IPsec) may want to use a pseudo-random function (PRF) based on the Advanced Encryption Standard (AES).  This memo describes such an algorithm, called AES-CMAC-PRF-128.  It supports fixed and variable key sizes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Some implementations of IP Security (IPsec) may want to use a pseudo-random function (PRF) based on the Advanced Encryption Standard (AES).  This memo describes such an algorithm, called AES-CMAC-PRF-128.  It supports fixed and variable key sizes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4615"/>
+  <seriesInfo name="RFC" value="4615"/>
 </reference>

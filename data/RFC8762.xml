@@ -1,13 +1,24 @@
 <reference anchor="RFC8762" target="https://www.rfc-editor.org/info/rfc8762">
   <front>
     <title>Simple Two-Way Active Measurement Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8762"/>
-    <author fullname="G. Mirsky"/>
-    <author fullname="G. Jun"/>
-    <author fullname="H. Nydell"/>
-    <author fullname="R. Foote"/>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="G. Jun" initials="G." surname="Jun">
+      <organization/>
+    </author>
+    <author fullname="H. Nydell" initials="H." surname="Nydell">
+      <organization/>
+    </author>
+    <author fullname="R. Foote" initials="R." surname="Foote">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
     <workgroup>ippm</workgroup>
-    <abstract>This document describes the Simple Two-way Active Measurement Protocol (STAMP), which enables the measurement of both one-way and round-trip performance metrics, like delay, delay variation, and packet loss.</abstract>
+    <abstract>
+      <t>This document describes the Simple Two-way Active Measurement Protocol (STAMP), which enables the measurement of both one-way and round-trip performance metrics, like delay, delay variation, and packet loss.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8762"/>
+  <seriesInfo name="RFC" value="8762"/>
 </reference>

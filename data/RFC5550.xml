@@ -1,18 +1,22 @@
 <reference anchor="RFC5550" target="https://www.rfc-editor.org/info/rfc5550">
   <front>
     <title>The Internet Email to Support Diverse Service Environments (Lemonade) Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5550"/>
-    <author fullname="D. Cridland"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="S. Maes"/>
+    <author fullname="D. Cridland" initials="D." surname="Cridland">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="S. Maes" initials="S." surname="Maes">
+      <organization/>
+    </author>
     <date year="2009" month="August"/>
     <workgroup>lemonade</workgroup>
-    <keyword>IMAP</keyword>
-    <keyword>Sieve</keyword>
-    <keyword>SMTP</keyword>
-    <keyword>Lemonade</keyword>
-    <keyword>mobile email</keyword>
-    <keyword>low-bandwidth efficient</keyword>
-    <abstract>This document describes a profile (a set of required extensions, restrictions, and usage modes), dubbed Lemonade, of the IMAP, mail submission, and Sieve protocols. This profile allows clients (especially those that are constrained in memory, bandwidth, processing power, or other areas) to efficiently use IMAP and Submission to access and submit mail. This includes the ability to forward received mail without needing to download and upload the mail, to optimize submission, and to efficiently resynchronize in case of loss of connectivity with the server. The Lemonade Profile relies upon several extensions to IMAP, Sieve, and Mail Submission protocols. The document also defines a new IMAP extension and registers several new IMAP keywords. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a profile (a set of required extensions, restrictions, and usage modes), dubbed Lemonade, of the IMAP, mail submission, and Sieve protocols. This profile allows clients (especially those that are constrained in memory, bandwidth, processing power, or other areas) to efficiently use IMAP and Submission to access and submit mail. This includes the ability to forward received mail without needing to download and upload the mail, to optimize submission, and to efficiently resynchronize in case of loss of connectivity with the server.</t>
+      <t>The Lemonade Profile relies upon several extensions to IMAP, Sieve, and Mail Submission protocols. The document also defines a new IMAP extension and registers several new IMAP keywords. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5550"/>
+  <seriesInfo name="RFC" value="5550"/>
 </reference>

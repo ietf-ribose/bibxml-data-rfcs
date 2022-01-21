@@ -1,10 +1,14 @@
 <reference anchor="RFC6017" target="https://www.rfc-editor.org/info/rfc6017">
   <front>
     <title>Electronic Data Interchange - Internet Integration (EDIINT) Features Header Field</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6017"/>
-    <author fullname="K. Meadors"/>
+    <author fullname="K. Meadors" initials="K." surname="Meadors">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
-    <keyword>EDIINT-Features</keyword>
-    <abstract>With the maturity of the Electronic Data Interchange - Internet Integration (EDIINT) standards of AS1, AS2, and AS3, applications and additional features are being built upon the basic secure transport functionality.  These features are not necessarily supported by all EDIINT applications and could cause potential problems with implementations.  The EDIINT-Features header field provides a means to resolve these problems and support new functionality.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>With the maturity of the Electronic Data Interchange - Internet Integration (EDIINT) standards of AS1, AS2, and AS3, applications and additional features are being built upon the basic secure transport functionality.  These features are not necessarily supported by all EDIINT applications and could cause potential problems with implementations.  The EDIINT-Features header field provides a means to resolve these problems and support new functionality.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6017"/>
+  <seriesInfo name="RFC" value="6017"/>
 </reference>

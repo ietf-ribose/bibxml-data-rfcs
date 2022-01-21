@@ -1,13 +1,26 @@
 <reference anchor="RFC8493" target="https://www.rfc-editor.org/info/rfc8493">
   <front>
     <title>The BagIt File Packaging Format (V1.0)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8493"/>
-    <author fullname="J. Kunze"/>
-    <author fullname="J. Littman"/>
-    <author fullname="E. Madden"/>
-    <author fullname="J. Scancella"/>
-    <author fullname="C. Adams"/>
+    <author fullname="J. Kunze" initials="J." surname="Kunze">
+      <organization/>
+    </author>
+    <author fullname="J. Littman" initials="J." surname="Littman">
+      <organization/>
+    </author>
+    <author fullname="E. Madden" initials="E." surname="Madden">
+      <organization/>
+    </author>
+    <author fullname="J. Scancella" initials="J." surname="Scancella">
+      <organization/>
+    </author>
+    <author fullname="C. Adams" initials="C." surname="Adams">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
-    <abstract>This document describes BagIt, a set of hierarchical file layout conventions for storage and transfer of arbitrary digital content.  A "bag" has just enough structure to enclose descriptive metadata "tags" and a file "payload" but does not require knowledge of the payload's internal semantics.  This BagIt format is suitable for reliable storage and transfer.</abstract>
+    <abstract>
+      <t>This document describes BagIt, a set of hierarchical file layout conventions for storage and transfer of arbitrary digital content.  A "bag" has just enough structure to enclose descriptive metadata "tags" and a file "payload" but does not require knowledge of the payload's internal semantics.  This BagIt format is suitable for reliable storage and transfer.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8493"/>
+  <seriesInfo name="RFC" value="8493"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC6773" target="https://www.rfc-editor.org/info/rfc6773">
   <front>
     <title>DCCP-UDP: A Datagram Congestion Control Protocol UDP Encapsulation for NAT Traversal</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6773"/>
-    <author fullname="T. Phelan"/>
-    <author fullname="G. Fairhurst"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="T. Phelan" initials="T." surname="Phelan">
+      <organization/>
+    </author>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>dccp</workgroup>
-    <keyword>DCCP</keyword>
-    <keyword>NAPT</keyword>
-    <keyword>NAT</keyword>
-    <keyword>UDP</keyword>
-    <abstract>This document specifies an alternative encapsulation of the Datagram Congestion Control Protocol (DCCP), referred to as DCCP-UDP.  This encapsulation allows DCCP to be carried through the current generation of Network Address Translation (NAT) middleboxes without modification of those middleboxes.  This document also updates the Session Description Protocol (SDP) information for DCCP defined in RFC 5762. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an alternative encapsulation of the Datagram Congestion Control Protocol (DCCP), referred to as DCCP-UDP.  This encapsulation allows DCCP to be carried through the current generation of Network Address Translation (NAT) middleboxes without modification of those middleboxes.  This document also updates the Session Description Protocol (SDP) information for DCCP defined in RFC 5762. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6773"/>
+  <seriesInfo name="RFC" value="6773"/>
 </reference>

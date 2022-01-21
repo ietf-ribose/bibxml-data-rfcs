@@ -1,17 +1,21 @@
 <reference anchor="RFC5644" target="https://www.rfc-editor.org/info/rfc5644">
   <front>
     <title>IP Performance Metrics (IPPM): Spatial and Multicast</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5644"/>
-    <author fullname="E. Stephan"/>
-    <author fullname="L. Liang"/>
-    <author fullname="A. Morton"/>
+    <author fullname="E. Stephan" initials="E." surname="Stephan">
+      <organization/>
+    </author>
+    <author fullname="L. Liang" initials="L." surname="Liang">
+      <organization/>
+    </author>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>ippm</workgroup>
-    <keyword>Multiple point measurement</keyword>
-    <keyword>relative performance</keyword>
-    <keyword>group performance statistic</keyword>
-    <keyword>per hop measurement</keyword>
-    <keyword>segment performance</keyword>
-    <abstract>The IETF has standardized IP Performance Metrics (IPPM) for measuring end-to-end performance between two points.  This memo defines two new categories of metrics that extend the coverage to multiple measurement points.  It defines spatial metrics for measuring the performance of segments of a source to destination path, and metrics for measuring the performance between a source and many destinations in multiparty communications (e.g., a multicast tree). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The IETF has standardized IP Performance Metrics (IPPM) for measuring end-to-end performance between two points.  This memo defines two new categories of metrics that extend the coverage to multiple measurement points.  It defines spatial metrics for measuring the performance of segments of a source to destination path, and metrics for measuring the performance between a source and many destinations in multiparty communications (e.g., a multicast tree). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5644"/>
+  <seriesInfo name="RFC" value="5644"/>
 </reference>

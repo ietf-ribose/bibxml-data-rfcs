@@ -1,14 +1,15 @@
 <reference anchor="RFC2777" target="https://www.rfc-editor.org/info/rfc2777">
   <front>
     <title>Publicly Verifiable Nomcom Random Selection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2777"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>Poisson</workgroup>
-    <keyword>Internet</keyword>
-    <keyword>Engineering</keyword>
-    <keyword>Task Force</keyword>
-    <keyword>IETF</keyword>
-    <abstract>This document describes a method for making random selections in such a way that the unbiased nature of the choice is publicly verifiable.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a method for making random selections in such a way that the unbiased nature of the choice is publicly verifiable.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2777"/>
+  <seriesInfo name="RFC" value="2777"/>
 </reference>

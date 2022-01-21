@@ -1,21 +1,30 @@
 <reference anchor="RFC5866" target="https://www.rfc-editor.org/info/rfc5866">
   <front>
     <title>Diameter Quality-of-Service Application</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5866"/>
-    <author fullname="D. Sun"/>
-    <author fullname="P. McCann"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="A. Doria"/>
-    <author fullname="G. Zorn"/>
+    <author fullname="D. Sun" initials="D." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="P. McCann" initials="P." surname="McCann">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="A. Doria" initials="A." surname="Doria">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>dime</workgroup>
-    <keyword>Diameter</keyword>
-    <keyword>AAA</keyword>
-    <keyword>QoS</keyword>
-    <keyword>Policy</keyword>
-    <keyword>VoIP</keyword>
-    <keyword>SIP</keyword>
-    <abstract>This document describes the framework, messages, and procedures for the Diameter Quality-of-Service (QoS) application.  The Diameter QoS application allows network elements to interact with Diameter servers when allocating QoS resources in the network.  In particular, two modes of operation, namely "Pull" and "Push", are defined. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>This document describes the framework, messages, and procedures for the Diameter Quality-of-Service (QoS) application.  The Diameter QoS application allows network elements to interact with Diameter servers when allocating QoS resources in the network.  In particular, two modes of operation, namely "Pull" and "Push", are defined. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5866"/>
+  <seriesInfo name="RFC" value="5866"/>
 </reference>

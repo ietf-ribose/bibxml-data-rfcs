@@ -1,10 +1,17 @@
 <reference anchor="RFC0992" target="https://www.rfc-editor.org/info/rfc992">
   <front>
     <title>On communication support for fault tolerant process groups</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0992"/>
-    <author fullname="K.P. Birman"/>
-    <author fullname="T.A. Joseph"/>
+    <author fullname="K.P. Birman" initials="K.P." surname="Birman">
+      <organization/>
+    </author>
+    <author fullname="T.A. Joseph" initials="T.A." surname="Joseph">
+      <organization/>
+    </author>
     <date year="1986" month="November"/>
-    <abstract>This memo describes a collection of multicast communication primitives integrated with a mechanism for handling process failure and recovery.  These primitives facilitate the implementation of fault-tolerant process groups, which can be used to provide distributed services in an environment subject to non-malicious crash failures.</abstract>
+    <abstract>
+      <t>This memo describes a collection of multicast communication primitives integrated with a mechanism for handling process failure and recovery.  These primitives facilitate the implementation of fault-tolerant process groups, which can be used to provide distributed services in an environment subject to non-malicious crash failures.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0992"/>
+  <seriesInfo name="RFC" value="992"/>
 </reference>

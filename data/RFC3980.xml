@@ -1,14 +1,21 @@
 <reference anchor="RFC3980" target="https://www.rfc-editor.org/info/rfc3980">
   <front>
     <title>T11 Network Address Authority (NAA) Naming Format for iSCSI Node Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3980"/>
-    <author fullname="M. Krueger"/>
-    <author fullname="M. Chadalapaka"/>
-    <author fullname="R. Elliott"/>
+    <author fullname="M. Krueger" initials="M." surname="Krueger">
+      <organization/>
+    </author>
+    <author fullname="M. Chadalapaka" initials="M." surname="Chadalapaka">
+      <organization/>
+    </author>
+    <author fullname="R. Elliott" initials="R." surname="Elliott">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>ips</workgroup>
-    <keyword>internet small computer systems interface</keyword>
-    <keyword>scsi transport protocol</keyword>
-    <abstract>Internet Small Computer Systems Interface (iSCSI) is a SCSI transport protocol that maps the SCSI family of protocols onto TCP/IP.  This document defines an additional iSCSI node name type format to enable use of the "Network Address Authority" (NAA) worldwide naming format defined by the InterNational Committee for Information Technology Standards (INCITS) T11 - Fibre Channel (FC) protocols and used by Serial Attached SCSI (SAS).  This document updates RFC 3720. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Internet Small Computer Systems Interface (iSCSI) is a SCSI transport protocol that maps the SCSI family of protocols onto TCP/IP.  This document defines an additional iSCSI node name type format to enable use of the "Network Address Authority" (NAA) worldwide naming format defined by the InterNational Committee for Information Technology Standards (INCITS) T11 - Fibre Channel (FC) protocols and used by Serial Attached SCSI (SAS).  This document updates RFC 3720. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3980"/>
+  <seriesInfo name="RFC" value="3980"/>
 </reference>

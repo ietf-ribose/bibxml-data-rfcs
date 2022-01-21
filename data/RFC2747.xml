@@ -1,16 +1,21 @@
 <reference anchor="RFC2747" target="https://www.rfc-editor.org/info/rfc2747">
   <front>
     <title>RSVP Cryptographic Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2747"/>
-    <author fullname="F. Baker"/>
-    <author fullname="B. Lindell"/>
-    <author fullname="M. Talwar"/>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="B. Lindell" initials="B." surname="Lindell">
+      <organization/>
+    </author>
+    <author fullname="M. Talwar" initials="M." surname="Talwar">
+      <organization/>
+    </author>
     <date year="2000" month="January"/>
     <workgroup>rsvp</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <abstract>This document describes the format and use of RSVP's INTEGRITY object to provide hop-by-hop integrity and authentication of RSVP messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the format and use of RSVP's INTEGRITY object to provide hop-by-hop integrity and authentication of RSVP messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2747"/>
+  <seriesInfo name="RFC" value="2747"/>
 </reference>

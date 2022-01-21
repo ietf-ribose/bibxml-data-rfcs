@@ -1,15 +1,18 @@
 <reference anchor="RFC5287" target="https://www.rfc-editor.org/info/rfc5287">
   <front>
     <title>Control Protocol Extensions for the Setup of Time-Division Multiplexing (TDM) Pseudowires in MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5287"/>
-    <author fullname="A. Vainshtein"/>
-    <author fullname="Y(J). Stein"/>
+    <author fullname="A. Vainshtein" initials="A." surname="Vainshtein">
+      <organization/>
+    </author>
+    <author fullname="Y(J). Stein" initials="Y(J)." surname="Stein">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>pwe3</workgroup>
-    <keyword>pwe3</keyword>
-    <keyword>pseudowire emulation edge-to-edge</keyword>
-    <keyword>tdmoip</keyword>
-    <keyword>tdm options</keyword>
-    <abstract>This document defines extension to the Pseudowire Emulation Edge-to-Edge (PWE3) control protocol RFC 4447 and PWE3 IANA allocations RFC 4446 required for the setup of Time-Division Multiplexing (TDM) pseudowires in MPLS networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extension to the Pseudowire Emulation Edge-to-Edge (PWE3) control protocol RFC 4447 and PWE3 IANA allocations RFC 4446 required for the setup of Time-Division Multiplexing (TDM) pseudowires in MPLS networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5287"/>
+  <seriesInfo name="RFC" value="5287"/>
 </reference>

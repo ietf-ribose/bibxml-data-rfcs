@@ -1,15 +1,15 @@
 <reference anchor="RFC4308" target="https://www.rfc-editor.org/info/rfc4308">
   <front>
     <title>Cryptographic Suites for IPsec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4308"/>
-    <author fullname="P. Hoffman"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ike</keyword>
-    <keyword>internet key exchange</keyword>
-    <keyword>ikev2</keyword>
-    <keyword>security algorithms</keyword>
-    <keyword>ikev1</keyword>
-    <abstract>The IPsec, Internet Key Exchange (IKE), and IKEv2 protocols rely on security algorithms to provide privacy and authentication between the initiator and responder.  There are many such algorithms available, and two IPsec systems cannot interoperate unless they are using the same algorithms.  This document specifies optional suites of algorithms and attributes that can be used to simplify the administration of IPsec when used in manual keying mode, with IKEv1 or with IKEv2. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The IPsec, Internet Key Exchange (IKE), and IKEv2 protocols rely on security algorithms to provide privacy and authentication between the initiator and responder.  There are many such algorithms available, and two IPsec systems cannot interoperate unless they are using the same algorithms.  This document specifies optional suites of algorithms and attributes that can be used to simplify the administration of IPsec when used in manual keying mode, with IKEv1 or with IKEv2. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4308"/>
+  <seriesInfo name="RFC" value="4308"/>
 </reference>

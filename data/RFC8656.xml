@@ -1,17 +1,26 @@
 <reference anchor="RFC8656" target="https://www.rfc-editor.org/info/rfc8656">
   <front>
     <title>Traversal Using Relays around NAT (TURN): Relay Extensions to Session Traversal Utilities for NAT (STUN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8656"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="A. Johnston"/>
-    <author fullname="P. Matthews"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="A. Johnston" initials="A." surname="Johnston">
+      <organization/>
+    </author>
+    <author fullname="P. Matthews" initials="P." surname="Matthews">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2020" month="February"/>
     <workgroup>tram</workgroup>
-    <keyword>NAT</keyword>
-    <keyword>TURN</keyword>
-    <keyword>STUN</keyword>
-    <keyword>ICE</keyword>
-    <abstract>If a host is located behind a NAT, it can be impossible for that host to communicate directly with other hosts (peers) in certain situations. In these situations, it is necessary for the host to use the services of an intermediate node that acts as a communication relay. This specification defines a protocol, called "Traversal Using Relays around NAT" (TURN), that allows the host to control the operation of the relay and to exchange packets with its peers using the relay. TURN differs from other relay control protocols in that it allows a client to communicate with multiple peers using a single relay address. The TURN protocol was designed to be used as part of the Interactive Connectivity Establishment (ICE) approach to NAT traversal, though it can also be used without ICE. This document obsoletes RFCs 5766 and 6156.</abstract>
+    <abstract>
+      <t>If a host is located behind a NAT, it can be impossible for that host to communicate directly with other hosts (peers) in certain situations. In these situations, it is necessary for the host to use the services of an intermediate node that acts as a communication relay. This specification defines a protocol, called "Traversal Using Relays around NAT" (TURN), that allows the host to control the operation of the relay and to exchange packets with its peers using the relay. TURN differs from other relay control protocols in that it allows a client to communicate with multiple peers using a single relay address.</t>
+      <t>The TURN protocol was designed to be used as part of the Interactive Connectivity Establishment (ICE) approach to NAT traversal, though it can also be used without ICE.</t>
+      <t>This document obsoletes RFCs 5766 and 6156.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8656"/>
+  <seriesInfo name="RFC" value="8656"/>
 </reference>

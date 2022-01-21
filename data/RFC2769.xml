@@ -1,16 +1,24 @@
 <reference anchor="RFC2769" target="https://www.rfc-editor.org/info/rfc2769">
   <front>
     <title>Routing Policy System Replication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2769"/>
-    <author fullname="C. Villamizar"/>
-    <author fullname="C. Alaettinoglu"/>
-    <author fullname="R. Govindan"/>
-    <author fullname="D. Meyer"/>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
+    <author fullname="C. Alaettinoglu" initials="C." surname="Alaettinoglu">
+      <organization/>
+    </author>
+    <author fullname="R. Govindan" initials="R." surname="Govindan">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>rps</workgroup>
-    <keyword>RPSL</keyword>
-    <keyword>database</keyword>
-    <keyword>language</keyword>
-    <abstract>This document addresses the need to distribute data over multiple repositories and delegate authority for data subsets to other repositories without compromising the authorization model established in Routing Policy System Security RFC. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document addresses the need to distribute data over multiple repositories and delegate authority for data subsets to other repositories without compromising the authorization model established in Routing Policy System Security RFC. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2769"/>
+  <seriesInfo name="RFC" value="2769"/>
 </reference>

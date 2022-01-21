@@ -1,14 +1,15 @@
 <reference anchor="RFC3258" target="https://www.rfc-editor.org/info/rfc3258">
   <front>
     <title>Distributing Authoritative Name Servers via Shared Unicast Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3258"/>
-    <author fullname="T. Hardie"/>
+    <author fullname="T. Hardie" initials="T." surname="Hardie">
+      <organization/>
+    </author>
     <date year="2002" month="April"/>
     <workgroup>dnsop</workgroup>
-    <keyword>dns</keyword>
-    <keyword>network</keyword>
-    <keyword>topology</keyword>
-    <keyword>latency</keyword>
-    <abstract>This memo describes a set of practices intended to enable an authoritative name server operator to provide access to a single named server in multiple locations.  The primary motivation for the development and deployment of these practices is to increase the distribution of Domain Name System (DNS) servers to previously under- served areas of the network topology and to reduce the latency for DNS query responses in those areas.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes a set of practices intended to enable an authoritative name server operator to provide access to a single named server in multiple locations.  The primary motivation for the development and deployment of these practices is to increase the distribution of Domain Name System (DNS) servers to previously under- served areas of the network topology and to reduce the latency for DNS query responses in those areas.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3258"/>
+  <seriesInfo name="RFC" value="3258"/>
 </reference>

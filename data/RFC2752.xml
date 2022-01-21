@@ -1,20 +1,30 @@
 <reference anchor="RFC2752" target="https://www.rfc-editor.org/info/rfc2752">
   <front>
     <title>Identity Representation for RSVP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2752"/>
-    <author fullname="S. Yadav"/>
-    <author fullname="R. Yavatkar"/>
-    <author fullname="R. Pabbati"/>
-    <author fullname="P. Ford"/>
-    <author fullname="T. Moore"/>
-    <author fullname="S. Herzog"/>
+    <author fullname="S. Yadav" initials="S." surname="Yadav">
+      <organization/>
+    </author>
+    <author fullname="R. Yavatkar" initials="R." surname="Yavatkar">
+      <organization/>
+    </author>
+    <author fullname="R. Pabbati" initials="R." surname="Pabbati">
+      <organization/>
+    </author>
+    <author fullname="P. Ford" initials="P." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="T. Moore" initials="T." surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="S. Herzog" initials="S." surname="Herzog">
+      <organization/>
+    </author>
     <date year="2000" month="January"/>
     <workgroup>rap</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>admission</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document describes the representation of identity information in POLICY_DATA object for supporting policy based admission control in RSVP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the representation of identity information in POLICY_DATA object for supporting policy based admission control in RSVP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2752"/>
+  <seriesInfo name="RFC" value="2752"/>
 </reference>

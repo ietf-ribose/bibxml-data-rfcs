@@ -1,15 +1,15 @@
 <reference anchor="RFC1973" target="https://www.rfc-editor.org/info/rfc1973">
   <front>
     <title>PPP in Frame Relay</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1973"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1996" month="June"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-FRAME</keyword>
-    <keyword>Point-to-Point</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>encapsulated</keyword>
-    <keyword>packets</keyword>
-    <abstract>This document describes the use of Frame Relay for framing PPP encapsulated packets. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of Frame Relay for framing PPP encapsulated packets. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1973"/>
+  <seriesInfo name="RFC" value="1973"/>
 </reference>

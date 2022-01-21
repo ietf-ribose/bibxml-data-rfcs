@@ -1,14 +1,17 @@
 <reference anchor="RFC1900" target="https://www.rfc-editor.org/info/rfc1900">
   <front>
     <title>Renumbering Needs Work</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1900"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1996" month="February"/>
-    <keyword>IP</keyword>
-    <keyword>network</keyword>
-    <keyword>number</keyword>
-    <keyword>addressing</keyword>
-    <abstract>Hosts in an IP network are identified by IP addresses, and the IP address prefixes of subnets are advertised by routing protocols.  A change in such IP addressing information associated with a host or subnet is known as "renumbering".  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>Hosts in an IP network are identified by IP addresses, and the IP address prefixes of subnets are advertised by routing protocols.  A change in such IP addressing information associated with a host or subnet is known as "renumbering".  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1900"/>
+  <seriesInfo name="RFC" value="1900"/>
 </reference>

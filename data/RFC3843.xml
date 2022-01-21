@@ -1,12 +1,18 @@
 <reference anchor="RFC3843" target="https://www.rfc-editor.org/info/rfc3843">
   <front>
     <title>RObust Header Compression (ROHC): A Compression Profile for IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3843"/>
-    <author fullname="L-E. Jonsson"/>
-    <author fullname="G. Pelletier"/>
+    <author fullname="L-E. Jonsson" initials="L-E." surname="Jonsson">
+      <organization/>
+    </author>
+    <author fullname="G. Pelletier" initials="G." surname="Pelletier">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>rohc</workgroup>
-    <keyword>compression protocols</keyword>
-    <abstract>The original RObust Header Compression (ROHC) RFC (RFC 3095) defines a framework for header compression, along with compression protocols (profiles) for IP/UDP/RTP, IP/ESP (Encapsulating Security Payload), IP/UDP, and also a profile for uncompressed packet streams.  However, no profile was defined for compression of IP only, which has been identified as a missing piece in RFC 3095.  This document defines a ROHC compression profile for IP, similar to the IP/UDP profile defined by RFC 3095, but simplified to exclude UDP, and enhanced to compress IP header chains of arbitrary length. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The original RObust Header Compression (ROHC) RFC (RFC 3095) defines a framework for header compression, along with compression protocols (profiles) for IP/UDP/RTP, IP/ESP (Encapsulating Security Payload), IP/UDP, and also a profile for uncompressed packet streams.  However, no profile was defined for compression of IP only, which has been identified as a missing piece in RFC 3095.  This document defines a ROHC compression profile for IP, similar to the IP/UDP profile defined by RFC 3095, but simplified to exclude UDP, and enhanced to compress IP header chains of arbitrary length. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3843"/>
+  <seriesInfo name="RFC" value="3843"/>
 </reference>

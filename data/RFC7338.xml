@@ -1,13 +1,24 @@
 <reference anchor="RFC7338" target="https://www.rfc-editor.org/info/rfc7338">
   <front>
     <title>Requirements and Framework for Point-to-Multipoint Pseudowires over MPLS Packet Switched Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7338"/>
-    <author fullname="F. Jounay"/>
-    <author fullname="Y. Kamite"/>
-    <author fullname="G. Heron"/>
-    <author fullname="M. Bocci"/>
+    <author fullname="F. Jounay" initials="F." surname="Jounay">
+      <organization/>
+    </author>
+    <author fullname="Y. Kamite" initials="Y." surname="Kamite">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
     <date year="2014" month="September"/>
     <workgroup>pwe3</workgroup>
-    <abstract>This document presents a set of requirements and a framework for providing a point-to-multipoint pseudowire (PW) over MPLS Packet Switched Networks.  The requirements identified in this document are related to architecture, signaling, and maintenance aspects of point-to-multipoint PW operation.  They are proposed as guidelines for the standardization of such mechanisms.  Among other potential applications, point-to-multipoint PWs can be used to optimize the support of multicast Layer 2 services (Virtual Private LAN Service and Virtual Private Multicast Service).</abstract>
+    <abstract>
+      <t>This document presents a set of requirements and a framework for providing a point-to-multipoint pseudowire (PW) over MPLS Packet Switched Networks.  The requirements identified in this document are related to architecture, signaling, and maintenance aspects of point-to-multipoint PW operation.  They are proposed as guidelines for the standardization of such mechanisms.  Among other potential applications, point-to-multipoint PWs can be used to optimize the support of multicast Layer 2 services (Virtual Private LAN Service and Virtual Private Multicast Service).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7338"/>
+  <seriesInfo name="RFC" value="7338"/>
 </reference>

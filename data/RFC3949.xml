@@ -1,24 +1,28 @@
 <reference anchor="RFC3949" target="https://www.rfc-editor.org/info/rfc3949">
   <front>
     <title>File Format for Internet Fax</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3949"/>
-    <author fullname="R. Buckley"/>
-    <author fullname="D. Venable"/>
-    <author fullname="L. McIntyre"/>
-    <author fullname="G. Parsons"/>
-    <author fullname="J. Rafferty"/>
+    <author fullname="R. Buckley" initials="R." surname="Buckley">
+      <organization/>
+    </author>
+    <author fullname="D. Venable" initials="D." surname="Venable">
+      <organization/>
+    </author>
+    <author fullname="L. McIntyre" initials="L." surname="McIntyre">
+      <organization/>
+    </author>
+    <author fullname="G. Parsons" initials="G." surname="Parsons">
+      <organization/>
+    </author>
+    <author fullname="J. Rafferty" initials="J." surname="Rafferty">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>fax</workgroup>
-    <keyword>FFIF</keyword>
-    <keyword>TIFF</keyword>
-    <keyword>Tag</keyword>
-    <keyword>Image</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>MIME</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document is a revised version of RFC 2301. The revisions, summarized in the list attached as Annex B, are based on discussions and suggestions for improvements that have been made since RFC 2301 was issued in March 1998, and on the results of independent implementations and interoperability testing. This RFC 2301 revision describes the Tag Image File Format (TIFF) representation of image data specified by the International Telecommunication Union (ITU-T) Recommendations for black-and-white and color facsimile. This file format specification is commonly known as TIFF for Fax eXtended (TIFF-FX). It formally defines minimal, extended, and lossless Joint Bi-level Image experts Group (JBIG) profiles (Profiles S, F, J) for black-and-white fax and base JPEG, lossless JBIG, and Mixed Raster Content profiles (Profiles C, L, M) for color and grayscale fax. These profiles correspond to the content of the applicable ITU-T Recommendations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is a revised version of RFC 2301. The revisions, summarized in the list attached as Annex B, are based on discussions and suggestions for improvements that have been made since RFC 2301 was issued in March 1998, and on the results of independent implementations and interoperability testing.</t>
+      <t>This RFC 2301 revision describes the Tag Image File Format (TIFF) representation of image data specified by the International Telecommunication Union (ITU-T) Recommendations for black-and-white and color facsimile. This file format specification is commonly known as TIFF for Fax eXtended (TIFF-FX). It formally defines minimal, extended, and lossless Joint Bi-level Image experts Group (JBIG) profiles (Profiles S, F, J) for black-and-white fax and base JPEG, lossless JBIG, and Mixed Raster Content profiles (Profiles C, L, M) for color and grayscale fax. These profiles correspond to the content of the applicable ITU-T Recommendations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3949"/>
+  <seriesInfo name="RFC" value="3949"/>
 </reference>

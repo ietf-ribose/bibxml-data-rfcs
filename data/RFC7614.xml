@@ -1,15 +1,15 @@
 <reference anchor="RFC7614" target="https://www.rfc-editor.org/info/rfc7614">
   <front>
     <title>Explicit Subscriptions for the REFER Method</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7614"/>
-    <author fullname="R. Sparks"/>
+    <author fullname="R. Sparks" initials="R." surname="Sparks">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>SIP Events</keyword>
-    <keyword>nosub</keyword>
-    <keyword>explicitsub</keyword>
-    <keyword>Refer-Events-At</keyword>
-    <abstract>The Session Initiation Protocol (SIP) REFER request, as defined by RFC 3515, triggers an implicit SIP-Specific Event Notification framework subscription.  Conflating the start of the subscription with handling the REFER request makes negotiating SUBSCRIBE extensions impossible and complicates avoiding SIP dialog sharing.  This document defines extensions to REFER that remove the implicit subscription and, if desired, replace it with an explicit one.</abstract>
+    <abstract>
+      <t>The Session Initiation Protocol (SIP) REFER request, as defined by RFC 3515, triggers an implicit SIP-Specific Event Notification framework subscription.  Conflating the start of the subscription with handling the REFER request makes negotiating SUBSCRIBE extensions impossible and complicates avoiding SIP dialog sharing.  This document defines extensions to REFER that remove the implicit subscription and, if desired, replace it with an explicit one.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7614"/>
+  <seriesInfo name="RFC" value="7614"/>
 </reference>

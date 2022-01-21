@@ -1,15 +1,18 @@
 <reference anchor="RFC3877" target="https://www.rfc-editor.org/info/rfc3877">
   <front>
     <title>Alarm Management Information Base (MIB)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3877"/>
-    <author fullname="S. Chisholm"/>
-    <author fullname="D. Romascanu"/>
+    <author fullname="S. Chisholm" initials="S." surname="Chisholm">
+      <organization/>
+    </author>
+    <author fullname="D. Romascanu" initials="D." surname="Romascanu">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>disman</workgroup>
-    <keyword>alarm mib</keyword>
-    <keyword>iana-itu-alarm-tc-mib</keyword>
-    <keyword>itu-alarm-tc-mib</keyword>
-    <keyword>itu-alarm-mib</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes management objects used for modelling and storing alarms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes management objects used for modelling and storing alarms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3877"/>
+  <seriesInfo name="RFC" value="3877"/>
 </reference>

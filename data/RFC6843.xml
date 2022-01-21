@@ -1,14 +1,21 @@
 <reference anchor="RFC6843" target="https://www.rfc-editor.org/info/rfc6843">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Block for Delay Metric Reporting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6843"/>
-    <author fullname="A. Clark"/>
-    <author fullname="K. Gross"/>
-    <author fullname="Q. Wu"/>
+    <author fullname="A. Clark" initials="A." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="K. Gross" initials="K." surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>xrblock</workgroup>
-    <keyword>Round Trip Delay</keyword>
-    <keyword>End System Delay</keyword>
-    <abstract>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of delay metrics for use in a range of Real-time Transport Protocol (RTP) applications. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of delay metrics for use in a range of Real-time Transport Protocol (RTP) applications. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6843"/>
+  <seriesInfo name="RFC" value="6843"/>
 </reference>

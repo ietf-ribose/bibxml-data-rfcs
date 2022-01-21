@@ -1,26 +1,18 @@
 <reference anchor="RFC5584" target="https://www.rfc-editor.org/info/rfc5584">
   <front>
     <title>RTP Payload Format for the Adaptive TRansform Acoustic Coding (ATRAC) Family</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5584"/>
-    <author fullname="M. Hatanaka"/>
-    <author fullname="J. Matsumoto"/>
+    <author fullname="M. Hatanaka" initials="M." surname="Hatanaka">
+      <organization/>
+    </author>
+    <author fullname="J. Matsumoto" initials="J." surname="Matsumoto">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP</keyword>
-    <keyword>audio</keyword>
-    <keyword>fragmentation</keyword>
-    <keyword>layered coding</keyword>
-    <keyword>multiplexed</keyword>
-    <keyword>multi-session</keyword>
-    <keyword>multi-channel</keyword>
-    <keyword>redundancy</keyword>
-    <keyword>scalable</keyword>
-    <keyword>ATRAC</keyword>
-    <keyword>ATRAC3</keyword>
-    <keyword>ATRAC-X</keyword>
-    <keyword>ATRAC Advanced Lossless</keyword>
-    <keyword>AAL</keyword>
-    <keyword>Sony Corporation</keyword>
-    <abstract>This document describes an RTP payload format for efficient and flexible transporting of audio data encoded with the Adaptive TRansform Audio Coding (ATRAC) family of codecs.  Recent enhancements to the ATRAC family of codecs support high-quality audio coding with multiple channels.  The RTP payload format as presented in this document also includes support for data fragmentation, elementary redundancy measures, and a variation on scalable streaming. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an RTP payload format for efficient and flexible transporting of audio data encoded with the Adaptive TRansform Audio Coding (ATRAC) family of codecs.  Recent enhancements to the ATRAC family of codecs support high-quality audio coding with multiple channels.  The RTP payload format as presented in this document also includes support for data fragmentation, elementary redundancy measures, and a variation on scalable streaming. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5584"/>
+  <seriesInfo name="RFC" value="5584"/>
 </reference>

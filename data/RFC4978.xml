@@ -1,11 +1,15 @@
 <reference anchor="RFC4978" target="https://www.rfc-editor.org/info/rfc4978">
   <front>
     <title>The IMAP COMPRESS Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4978"/>
-    <author fullname="A. Gulbrandsen"/>
+    <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
     <date year="2007" month="August"/>
     <workgroup>lemonade</workgroup>
-    <keyword>Internet Message Access Protocol</keyword>
-    <abstract>The COMPRESS extension allows an IMAP connection to be effectively and efficiently compressed. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The COMPRESS extension allows an IMAP connection to be effectively and efficiently compressed. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4978"/>
+  <seriesInfo name="RFC" value="4978"/>
 </reference>

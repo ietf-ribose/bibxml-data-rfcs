@@ -1,13 +1,24 @@
 <reference anchor="RFC3280" target="https://www.rfc-editor.org/info/rfc3280">
   <front>
     <title>Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3280"/>
-    <author fullname="R. Housley"/>
-    <author fullname="W. Polk"/>
-    <author fullname="W. Ford"/>
-    <author fullname="D. Solo"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="W. Polk" initials="W." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="W. Ford" initials="W." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="D. Solo" initials="D." surname="Solo">
+      <organization/>
+    </author>
     <date year="2002" month="April"/>
     <workgroup>pkix</workgroup>
-    <abstract>This memo profiles the X.509 v3 certificate and X.509 v2 Certificate Revocation List (CRL) for use in the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo profiles the X.509 v3 certificate and X.509 v2 Certificate Revocation List (CRL) for use in the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3280"/>
+  <seriesInfo name="RFC" value="3280"/>
 </reference>

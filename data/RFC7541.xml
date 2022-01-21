@@ -1,13 +1,18 @@
 <reference anchor="RFC7541" target="https://www.rfc-editor.org/info/rfc7541">
   <front>
     <title>HPACK: Header Compression for HTTP/2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7541"/>
-    <author fullname="R. Peon"/>
-    <author fullname="H. Ruellan"/>
+    <author fullname="R. Peon" initials="R." surname="Peon">
+      <organization/>
+    </author>
+    <author fullname="H. Ruellan" initials="H." surname="Ruellan">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>httpbis</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>Header</keyword>
-    <abstract>This specification defines HPACK, a compression format for efficiently representing HTTP header fields, to be used in HTTP/2.</abstract>
+    <abstract>
+      <t>This specification defines HPACK, a compression format for efficiently representing HTTP header fields, to be used in HTTP/2.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7541"/>
+  <seriesInfo name="RFC" value="7541"/>
 </reference>

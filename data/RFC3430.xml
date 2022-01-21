@@ -1,12 +1,15 @@
 <reference anchor="RFC3430" target="https://www.rfc-editor.org/info/rfc3430">
   <front>
     <title>Simple Network Management Protocol Over Transmission Control Protocol Transport Mapping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3430"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>snmp</keyword>
-    <keyword>tcp</keyword>
-    <abstract>This memo defines a transport mapping for using the Simple Network Management Protocol (SNMP) over TCP.  The transport mapping can be used with any version of SNMP.  This document extends the transport mappings defined in STD 62, RFC 3417.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines a transport mapping for using the Simple Network Management Protocol (SNMP) over TCP.  The transport mapping can be used with any version of SNMP.  This document extends the transport mappings defined in STD 62, RFC 3417.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3430"/>
+  <seriesInfo name="RFC" value="3430"/>
 </reference>

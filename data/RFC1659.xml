@@ -1,14 +1,15 @@
 <reference anchor="RFC1659" target="https://www.rfc-editor.org/info/rfc1659">
   <front>
     <title>Definitions of Managed Objects for RS-232-like Hardware Devices using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1659"/>
-    <author fullname="B. Stewart"/>
+    <author fullname="B. Stewart" initials="B." surname="Stewart">
+      <organization/>
+    </author>
     <date year="1994" month="July"/>
     <workgroup>charmib</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Base</keyword>
-    <abstract>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for the management of RS-232-like devices. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for the management of RS-232-like devices. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1659"/>
+  <seriesInfo name="RFC" value="1659"/>
 </reference>

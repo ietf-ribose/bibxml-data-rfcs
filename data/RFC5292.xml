@@ -1,14 +1,18 @@
 <reference anchor="RFC5292" target="https://www.rfc-editor.org/info/rfc5292">
   <front>
     <title>Address-Prefix-Based Outbound Route Filter for BGP-4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5292"/>
-    <author fullname="E. Chen"/>
-    <author fullname="S. Sangli"/>
+    <author fullname="E. Chen" initials="E." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="S. Sangli" initials="S." surname="Sangli">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>idr</workgroup>
-    <keyword>orf</keyword>
-    <keyword>border gateway protocol</keyword>
-    <keyword>Address Prefix Outbound Route Filter</keyword>
-    <abstract>This document defines a new Outbound Router Filter (ORF) type for BGP, termed "Address Prefix Outbound Route Filter", that can be used to perform address-prefix-based route filtering.  This ORF-type supports prefix-length- or range-based matching, wild-card-based address prefix matching, as well as the exact address prefix matching for address families. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new Outbound Router Filter (ORF) type for BGP, termed "Address Prefix Outbound Route Filter", that can be used to perform address-prefix-based route filtering.  This ORF-type supports prefix-length- or range-based matching, wild-card-based address prefix matching, as well as the exact address prefix matching for address families. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5292"/>
+  <seriesInfo name="RFC" value="5292"/>
 </reference>

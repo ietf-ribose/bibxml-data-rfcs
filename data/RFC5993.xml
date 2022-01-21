@@ -1,16 +1,27 @@
 <reference anchor="RFC5993" target="https://www.rfc-editor.org/info/rfc5993">
   <front>
     <title>RTP Payload Format for Global System for Mobile Communications Half Rate (GSM-HR)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5993"/>
-    <author fullname="X. Duan"/>
-    <author fullname="S. Wang"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="K. Hellwig"/>
-    <author fullname="I. Johansson"/>
+    <author fullname="X. Duan" initials="X." surname="Duan">
+      <organization/>
+    </author>
+    <author fullname="S. Wang" initials="S." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="K. Hellwig" initials="K." surname="Hellwig">
+      <organization/>
+    </author>
+    <author fullname="I. Johansson" initials="I." surname="Johansson">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>speech codec</keyword>
-    <keyword>real-time transport protocol</keyword>
-    <abstract>This document specifies the payload format for packetization of Global System for Mobile Communications Half Rate (GSM-HR) speech codec data into the Real-time Transport Protocol (RTP).  The payload format supports transmission of multiple frames per payload and packet loss robustness methods using redundancy. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the payload format for packetization of Global System for Mobile Communications Half Rate (GSM-HR) speech codec data into the Real-time Transport Protocol (RTP).  The payload format supports transmission of multiple frames per payload and packet loss robustness methods using redundancy. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5993"/>
+  <seriesInfo name="RFC" value="5993"/>
 </reference>

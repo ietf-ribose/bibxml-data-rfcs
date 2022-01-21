@@ -1,16 +1,19 @@
 <reference anchor="RFC4547" target="https://www.rfc-editor.org/info/rfc4547">
   <front>
     <title>Event Notification Management Information Base for Data over Cable Service Interface Specifications (DOCSIS)-Compliant Cable Modems and Cable Modem Termination Systems</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4547"/>
-    <author fullname="A. Ahmad"/>
-    <author fullname="G. Nakanishi"/>
+    <author fullname="A. Ahmad" initials="A." surname="Ahmad">
+      <organization/>
+    </author>
+    <author fullname="G. Nakanishi" initials="G." surname="Nakanishi">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>ipcdn</workgroup>
-    <keyword>snmp</keyword>
-    <keyword>simple network management protocol</keyword>
-    <keyword>mib</keyword>
-    <keyword>smiv2</keyword>
-    <keyword>DOCS-IETF-CABLE-DEVICE-NOTIFICATION-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it defines a basic set of managed objects for Simple Network Management Protocol (SNMP) based event notification management of Data Over Cable Service Interface Specification (DOCSIS) compliant Cable Modems and Cable Modem Termination Systems. This MIB is defined as an extension to the DOCSIS Cable Device MIB. This memo specifies a MIB module in a manner that is compliant to the Structure of Management Information Version 2 (SMIv2). The set of objects is consistent with the SNMP framework and existing SNMP standards. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it defines a basic set of managed objects for Simple Network Management Protocol (SNMP) based event notification management of Data Over Cable Service Interface Specification (DOCSIS) compliant Cable Modems and Cable Modem Termination Systems. This MIB is defined as an extension to the DOCSIS Cable Device MIB.</t>
+      <t>This memo specifies a MIB module in a manner that is compliant to the Structure of Management Information Version 2 (SMIv2). The set of objects is consistent with the SNMP framework and existing SNMP standards. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4547"/>
+  <seriesInfo name="RFC" value="4547"/>
 </reference>

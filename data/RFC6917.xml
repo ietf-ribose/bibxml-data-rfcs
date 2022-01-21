@@ -1,12 +1,21 @@
 <reference anchor="RFC6917" target="https://www.rfc-editor.org/info/rfc6917">
   <front>
     <title>Media Resource Brokering</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6917"/>
-    <author fullname="C. Boulton"/>
-    <author fullname="L. Miniero"/>
-    <author fullname="G. Munson"/>
+    <author fullname="C. Boulton" initials="C." surname="Boulton">
+      <organization/>
+    </author>
+    <author fullname="L. Miniero" initials="L." surname="Miniero">
+      <organization/>
+    </author>
+    <author fullname="G. Munson" initials="G." surname="Munson">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>mediactrl</workgroup>
-    <abstract>The MediaCtrl working group in the IETF has proposed an architecture for controlling media services.  The Session Initiation Protocol (SIP) is used as the signaling protocol that provides many inherent capabilities for message routing.  In addition to such signaling properties, a need exists for intelligent, application-level media service selection based on non-static signaling properties.  This is especially true when considered in conjunction with deployment architectures that include 1:M and M:N combinations of Application Servers and Media Servers.  This document introduces a Media Resource Broker (MRB) entity, which manages the availability of Media Servers and the media resource demands of Application Servers.  The document includes potential deployment options for an MRB and appropriate interfaces to Application Servers and Media Servers.</abstract>
+    <abstract>
+      <t>The MediaCtrl working group in the IETF has proposed an architecture for controlling media services.  The Session Initiation Protocol (SIP) is used as the signaling protocol that provides many inherent capabilities for message routing.  In addition to such signaling properties, a need exists for intelligent, application-level media service selection based on non-static signaling properties.  This is especially true when considered in conjunction with deployment architectures that include 1:M and M:N combinations of Application Servers and Media Servers.  This document introduces a Media Resource Broker (MRB) entity, which manages the availability of Media Servers and the media resource demands of Application Servers.  The document includes potential deployment options for an MRB and appropriate interfaces to Application Servers and Media Servers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6917"/>
+  <seriesInfo name="RFC" value="6917"/>
 </reference>

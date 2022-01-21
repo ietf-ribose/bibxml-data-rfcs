@@ -1,16 +1,21 @@
 <reference anchor="RFC2962" target="https://www.rfc-editor.org/info/rfc2962">
   <front>
     <title>An SNMP Application Level Gateway for Payload Address Translation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2962"/>
-    <author fullname="D. Raz"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="B. Sugla"/>
+    <author fullname="D. Raz" initials="D." surname="Raz">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="B. Sugla" initials="B." surname="Sugla">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>nat</workgroup>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes the ALG (Application Level Gateway) for the SNMP (Simple Network Management Protocol) by which IP (Internet Protocol) addresses in the payload of SNMP packets are statically mapped from one group to another.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the ALG (Application Level Gateway) for the SNMP (Simple Network Management Protocol) by which IP (Internet Protocol) addresses in the payload of SNMP packets are statically mapped from one group to another.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2962"/>
+  <seriesInfo name="RFC" value="2962"/>
 </reference>

@@ -1,16 +1,27 @@
 <reference anchor="RFC8118" target="https://www.rfc-editor.org/info/rfc8118">
   <front>
     <title>The application/pdf Media Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8118"/>
-    <author fullname="M. Hardy"/>
-    <author fullname="L. Masinter"/>
-    <author fullname="D. Markovic"/>
-    <author fullname="D. Johnson"/>
-    <author fullname="M. Bailey"/>
+    <author fullname="M. Hardy" initials="M." surname="Hardy">
+      <organization/>
+    </author>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
+    <author fullname="D. Markovic" initials="D." surname="Markovic">
+      <organization/>
+    </author>
+    <author fullname="D. Johnson" initials="D." surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="M. Bailey" initials="M." surname="Bailey">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Portable Document Format</keyword>
-    <keyword>MIME type</keyword>
-    <abstract>The Portable Document Format (PDF) is an ISO standard (ISO 32000-1:2008) defining a final-form document representation language in use for document exchange, including on the Internet, since 1993.  This document provides an overview of the PDF format and updates the media type registration of "application/pdf".  It obsoletes RFC 3778.</abstract>
+    <abstract>
+      <t>The Portable Document Format (PDF) is an ISO standard (ISO 32000-1:2008) defining a final-form document representation language in use for document exchange, including on the Internet, since 1993.  This document provides an overview of the PDF format and updates the media type registration of "application/pdf".  It obsoletes RFC 3778.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8118"/>
+  <seriesInfo name="RFC" value="8118"/>
 </reference>

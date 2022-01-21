@@ -1,15 +1,18 @@
 <reference anchor="RFC5258" target="https://www.rfc-editor.org/info/rfc5258">
   <front>
     <title>Internet Message Access Protocol version 4 - LIST Command Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5258"/>
-    <author fullname="B. Leiba"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>imapext</workgroup>
-    <keyword>imap4 ,list</keyword>
-    <keyword>lsub</keyword>
-    <keyword>extended list</keyword>
-    <keyword>email</keyword>
-    <abstract>IMAP4 has two commands for listing mailboxes: LIST and LSUB.  As we have added extensions, such as Mailbox Referrals, that have required specialized lists we have had to expand the number of list commands, since each extension must add its function to both LIST and LSUB, and these commands are not, as they are defined, extensible.  If we've needed the extensions to work together, we've had to add a set of commands to mix the different options, the set increasing in size with each new extension.  This document describes an extension to the base LIST command that will allow these additions to be done with mutually compatible options to the LIST command, avoiding the exponential increase in specialized list commands. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>IMAP4 has two commands for listing mailboxes: LIST and LSUB.  As we have added extensions, such as Mailbox Referrals, that have required specialized lists we have had to expand the number of list commands, since each extension must add its function to both LIST and LSUB, and these commands are not, as they are defined, extensible.  If we've needed the extensions to work together, we've had to add a set of commands to mix the different options, the set increasing in size with each new extension.  This document describes an extension to the base LIST command that will allow these additions to be done with mutually compatible options to the LIST command, avoiding the exponential increase in specialized list commands. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5258"/>
+  <seriesInfo name="RFC" value="5258"/>
 </reference>

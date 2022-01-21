@@ -1,18 +1,24 @@
 <reference anchor="RFC4140" target="https://www.rfc-editor.org/info/rfc4140">
   <front>
     <title>Hierarchical Mobile IPv6 Mobility Management (HMIPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4140"/>
-    <author fullname="H. Soliman"/>
-    <author fullname="C. Castelluccia"/>
-    <author fullname="K. El Malki"/>
-    <author fullname="L. Bellier"/>
+    <author fullname="H. Soliman" initials="H." surname="Soliman">
+      <organization/>
+    </author>
+    <author fullname="C. Castelluccia" initials="C." surname="Castelluccia">
+      <organization/>
+    </author>
+    <author fullname="K. El Malki" initials="K." surname="El">
+      <organization/>
+    </author>
+    <author fullname="L. Bellier" initials="L." surname="Bellier">
+      <organization/>
+    </author>
     <date year="2005" month="August"/>
     <workgroup>mipshop</workgroup>
-    <keyword>internet protocol version 6</keyword>
-    <keyword>neighbour discovery</keyword>
-    <keyword>neighbor discovery</keyword>
-    <keyword>mobility anchor point</keyword>
-    <keyword>map</keyword>
-    <abstract>This document introduces extensions to Mobile IPv6 and IPv6 Neighbour Discovery to allow for local mobility handling.  Hierarchical mobility management for Mobile IPv6 is designed to reduce the amount of signalling between the Mobile Node, its Correspondent Nodes, and its Home Agent.  The Mobility Anchor Point (MAP) described in this document can also be used to improve the performance of Mobile IPv6 in terms of handover speed.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document introduces extensions to Mobile IPv6 and IPv6 Neighbour Discovery to allow for local mobility handling.  Hierarchical mobility management for Mobile IPv6 is designed to reduce the amount of signalling between the Mobile Node, its Correspondent Nodes, and its Home Agent.  The Mobility Anchor Point (MAP) described in this document can also be used to improve the performance of Mobile IPv6 in terms of handover speed.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4140"/>
+  <seriesInfo name="RFC" value="4140"/>
 </reference>

@@ -1,20 +1,18 @@
 <reference anchor="RFC4767" target="https://www.rfc-editor.org/info/rfc4767">
   <front>
     <title>The Intrusion Detection Exchange Protocol (IDXP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4767"/>
-    <author fullname="B. Feinstein"/>
-    <author fullname="G. Matthews"/>
+    <author fullname="B. Feinstein" initials="B." surname="Feinstein">
+      <organization/>
+    </author>
+    <author fullname="G. Matthews" initials="G." surname="Matthews">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>idwg</workgroup>
-    <keyword>intrusion</keyword>
-    <keyword>intrusion detection</keyword>
-    <keyword>beep</keyword>
-    <keyword>security</keyword>
-    <keyword>ids</keyword>
-    <keyword>security protocol</keyword>
-    <keyword>secure protocol</keyword>
-    <keyword>secure exchange</keyword>
-    <keyword>idmef</keyword>
-    <abstract>This memo describes the Intrusion Detection Exchange Protocol (IDXP), an application-level protocol for exchanging data between intrusion detection entities.  IDXP supports mutual-authentication, integrity, and confidentiality over a connection-oriented protocol.  The protocol provides for the exchange of IDMEF messages, unstructured text, and binary data.  The IDMEF message elements are described in RFC 4765, "The Intrusion Detection Message Exchange Format (IDMEF)", a companion document of the Intrusion Detection Exchange Format Working Group (IDWG) of the IETF.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes the Intrusion Detection Exchange Protocol (IDXP), an application-level protocol for exchanging data between intrusion detection entities.  IDXP supports mutual-authentication, integrity, and confidentiality over a connection-oriented protocol.  The protocol provides for the exchange of IDMEF messages, unstructured text, and binary data.  The IDMEF message elements are described in RFC 4765, "The Intrusion Detection Message Exchange Format (IDMEF)", a companion document of the Intrusion Detection Exchange Format Working Group (IDWG) of the IETF.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4767"/>
+  <seriesInfo name="RFC" value="4767"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC3883" target="https://www.rfc-editor.org/info/rfc3883">
   <front>
     <title>Detecting Inactive Neighbors over OSPF Demand Circuits (DC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3883"/>
-    <author fullname="S. Rao"/>
-    <author fullname="A. Zinin"/>
-    <author fullname="A. Roy"/>
+    <author fullname="S. Rao" initials="S." surname="Rao">
+      <organization/>
+    </author>
+    <author fullname="A. Zinin" initials="A." surname="Zinin">
+      <organization/>
+    </author>
+    <author fullname="A. Roy" initials="A." surname="Roy">
+      <organization/>
+    </author>
     <date year="2004" month="October"/>
     <workgroup>ospf</workgroup>
-    <keyword>OSPF-DC</keyword>
-    <keyword>Open Shortest Path First</keyword>
-    <abstract>OSPF is a link-state intra-domain routing protocol used in IP networks.  OSPF behavior over demand circuits (DC) is optimized in RFC 1793 to minimize the amount of overhead traffic.  A part of the OSPF demand circuit extensions is the Hello suppression mechanism.  This technique allows a demand circuit to go down when no interesting traffic is going through the link.  However, it also introduces a problem, where it becomes impossible to detect an OSPF-inactive neighbor over such a link.  This memo introduces a new mechanism called "neighbor probing" to address the above problem. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>OSPF is a link-state intra-domain routing protocol used in IP networks.  OSPF behavior over demand circuits (DC) is optimized in RFC 1793 to minimize the amount of overhead traffic.  A part of the OSPF demand circuit extensions is the Hello suppression mechanism.  This technique allows a demand circuit to go down when no interesting traffic is going through the link.  However, it also introduces a problem, where it becomes impossible to detect an OSPF-inactive neighbor over such a link.  This memo introduces a new mechanism called "neighbor probing" to address the above problem. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3883"/>
+  <seriesInfo name="RFC" value="3883"/>
 </reference>

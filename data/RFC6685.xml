@@ -1,12 +1,15 @@
 <reference anchor="RFC6685" target="https://www.rfc-editor.org/info/rfc6685">
   <front>
     <title>Expert Review for Incident Object Description Exchange Format (IODEF) Extensions in IANA XML Registry</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6685"/>
-    <author fullname="B. Trammell"/>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
     <date year="2012" month="July"/>
     <workgroup>mile</workgroup>
-    <keyword>mile</keyword>
-    <keyword>xml schema</keyword>
-    <abstract>This document specifies restrictions on additions to the subset of the IANA XML Namespace and Schema registries, to require Expert Review for extensions to Incident Object Description Exchange Format (IODEF). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies restrictions on additions to the subset of the IANA XML Namespace and Schema registries, to require Expert Review for extensions to Incident Object Description Exchange Format (IODEF). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6685"/>
+  <seriesInfo name="RFC" value="6685"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="RFC6873" target="https://www.rfc-editor.org/info/rfc6873">
   <front>
     <title>Format for the Session Initiation Protocol (SIP) Common Log Format (CLF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6873"/>
-    <author fullname="G. Salgueiro"/>
-    <author fullname="V. Gurbani"/>
-    <author fullname="A. B. Roach"/>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author fullname="V. Gurbani" initials="V." surname="Gurbani">
+      <organization/>
+    </author>
+    <author fullname="A. B. Roach" initials="A." surname="B.">
+      <organization/>
+    </author>
     <date year="2013" month="February"/>
     <workgroup>sipclf</workgroup>
-    <keyword>SIPCLF</keyword>
-    <abstract>The SIPCLF working group has defined a Common Log Format (CLF) framework for Session Initiation Protocol (SIP) servers.  This CLF mimics the successful event logging format found in well-known web servers like Apache and web proxies like Squid.  This document proposes an indexed text encoding format for the SIP CLF that retains the key advantages of a text-based format while significantly increasing processing performance over a purely text-based implementation.  This file format adheres to the SIP CLF information model and provides an effective encoding scheme for all mandatory and optional fields that appear in a SIP CLF record.</abstract>
+    <abstract>
+      <t>The SIPCLF working group has defined a Common Log Format (CLF) framework for Session Initiation Protocol (SIP) servers.  This CLF mimics the successful event logging format found in well-known web servers like Apache and web proxies like Squid.  This document proposes an indexed text encoding format for the SIP CLF that retains the key advantages of a text-based format while significantly increasing processing performance over a purely text-based implementation.  This file format adheres to the SIP CLF information model and provides an effective encoding scheme for all mandatory and optional fields that appear in a SIP CLF record.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6873"/>
+  <seriesInfo name="RFC" value="6873"/>
 </reference>

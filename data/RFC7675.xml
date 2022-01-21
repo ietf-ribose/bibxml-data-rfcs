@@ -1,15 +1,28 @@
 <reference anchor="RFC7675" target="https://www.rfc-editor.org/info/rfc7675">
   <front>
     <title>Session Traversal Utilities for NAT (STUN) Usage for Consent Freshness</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7675"/>
-    <author fullname="M. Perumal"/>
-    <author fullname="D. Wing"/>
-    <author fullname="R. Ravindranath"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="M. Thomson"/>
+    <author fullname="M. Perumal" initials="M." surname="Perumal">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
     <date year="2015" month="October"/>
     <workgroup>rtcweb</workgroup>
-    <keyword>WebRTC</keyword>
-    <abstract>To prevent WebRTC applications, such as browsers, from launching attacks by sending traffic to unwilling victims, periodic consent to send needs to be obtained from remote endpoints. This document describes a consent mechanism using a new Session Traversal Utilities for NAT (STUN) usage.</abstract>
+    <abstract>
+      <t>To prevent WebRTC applications, such as browsers, from launching attacks by sending traffic to unwilling victims, periodic consent to send needs to be obtained from remote endpoints.</t>
+      <t>This document describes a consent mechanism using a new Session Traversal Utilities for NAT (STUN) usage.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7675"/>
+  <seriesInfo name="RFC" value="7675"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="RFC8537" target="https://www.rfc-editor.org/info/rfc8537">
   <front>
     <title>Updates to the Fast Reroute Procedures for Co-routed Associated Bidirectional Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8537"/>
-    <author fullname="R. Gandhi"/>
-    <author fullname="H. Shah"/>
-    <author fullname="J. Whittaker"/>
+    <author fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author fullname="H. Shah" initials="H." surname="Shah">
+      <organization/>
+    </author>
+    <author fullname="J. Whittaker" initials="J." surname="Whittaker">
+      <organization/>
+    </author>
     <date year="2019" month="February"/>
     <workgroup>teas</workgroup>
-    <keyword>RSVP-TE LSP</keyword>
-    <abstract>Resource Reservation Protocol (RSVP) association signaling can be used to bind two unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  When an associated bidirectional LSP is co-routed, the reverse LSP follows the same path as its forward LSP.  This document updates the fast reroute procedures defined in RFC 4090 to support both single-sided and double-sided provisioned associated bidirectional LSPs.  This document also updates the procedure for associating two reverse LSPs defined in RFC 7551 to support co-routed bidirectional LSPs.  The fast reroute procedures can ensure that, for the co-routed LSPs, traffic flows on co-routed paths in the forward and reverse directions after a failure event.</abstract>
+    <abstract>
+      <t>Resource Reservation Protocol (RSVP) association signaling can be used to bind two unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  When an associated bidirectional LSP is co-routed, the reverse LSP follows the same path as its forward LSP.  This document updates the fast reroute procedures defined in RFC 4090 to support both single-sided and double-sided provisioned associated bidirectional LSPs.  This document also updates the procedure for associating two reverse LSPs defined in RFC 7551 to support co-routed bidirectional LSPs.  The fast reroute procedures can ensure that, for the co-routed LSPs, traffic flows on co-routed paths in the forward and reverse directions after a failure event.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8537"/>
+  <seriesInfo name="RFC" value="8537"/>
 </reference>

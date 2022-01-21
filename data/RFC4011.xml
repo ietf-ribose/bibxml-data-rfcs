@@ -1,18 +1,21 @@
 <reference anchor="RFC4011" target="https://www.rfc-editor.org/info/rfc4011">
   <front>
     <title>Policy Based Management MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4011"/>
-    <author fullname="S. Waldbusser"/>
-    <author fullname="J. Saperia"/>
-    <author fullname="T. Hongal"/>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
+    <author fullname="J. Saperia" initials="J." surname="Saperia">
+      <organization/>
+    </author>
+    <author fullname="T. Hongal" initials="T." surname="Hongal">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>snmpconf</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>snmp</keyword>
-    <keyword>infrastructures</keyword>
-    <keyword>scripting language</keyword>
-    <keyword>script execution environment</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this MIB defines objects that enable policy-based monitoring and management of Simple Network Management Protocol (SNMP) infrastructures, a scripting language, and a script execution environment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this MIB defines objects that enable policy-based monitoring and management of Simple Network Management Protocol (SNMP) infrastructures, a scripting language, and a script execution environment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4011"/>
+  <seriesInfo name="RFC" value="4011"/>
 </reference>

@@ -1,15 +1,18 @@
 <reference anchor="RFC5879" target="https://www.rfc-editor.org/info/rfc5879">
   <front>
     <title>Heuristics for Detecting ESP-NULL Packets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5879"/>
-    <author fullname="T. Kivinen"/>
-    <author fullname="D. McDonald"/>
+    <author fullname="T. Kivinen" initials="T." surname="Kivinen">
+      <organization/>
+    </author>
+    <author fullname="D. McDonald" initials="D." surname="McDonald">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IPsec</keyword>
-    <keyword>Wrapped ESP (WESP)</keyword>
-    <keyword>deep-inspection</keyword>
-    <keyword>packet inspection</keyword>
-    <abstract>This document describes a set of heuristics for distinguishing IPsec ESP-NULL (Encapsulating Security Payload without encryption) packets from encrypted ESP packets.  These heuristics can be used on intermediate devices, like traffic analyzers, and deep-inspection engines, to quickly decide whether or not a given packet flow is encrypted, i.e., whether or not it can be inspected.  Use of these heuristics does not require any changes made on existing IPsec hosts that are compliant with RFC 4303.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes a set of heuristics for distinguishing IPsec ESP-NULL (Encapsulating Security Payload without encryption) packets from encrypted ESP packets.  These heuristics can be used on intermediate devices, like traffic analyzers, and deep-inspection engines, to quickly decide whether or not a given packet flow is encrypted, i.e., whether or not it can be inspected.  Use of these heuristics does not require any changes made on existing IPsec hosts that are compliant with RFC 4303.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5879"/>
+  <seriesInfo name="RFC" value="5879"/>
 </reference>

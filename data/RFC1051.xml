@@ -1,9 +1,14 @@
 <reference anchor="RFC1051" target="https://www.rfc-editor.org/info/rfc1051">
   <front>
     <title>Standard for the transmission of IP datagrams and ARP packets over ARCNET networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1051"/>
-    <author fullname="P.A. Prindeville"/>
+    <author fullname="P.A. Prindeville" initials="P.A." surname="Prindeville">
+      <organization/>
+    </author>
     <date year="1988" month="March"/>
-    <abstract>This memo specifies a standard method of encapsulating Internet Protocol (IP) and Address Resolution Protocol (ARP) datagrams on an ARCNET.  This RFC is a standard protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo specifies a standard method of encapsulating Internet Protocol (IP) and Address Resolution Protocol (ARP) datagrams on an ARCNET.  This RFC is a standard protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1051"/>
+  <seriesInfo name="RFC" value="1051"/>
 </reference>

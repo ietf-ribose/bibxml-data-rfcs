@@ -1,17 +1,27 @@
 <reference anchor="RFC7445" target="https://www.rfc-editor.org/info/rfc7445">
   <front>
     <title>Analysis of Failure Cases in IPv6 Roaming Scenarios</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7445"/>
-    <author fullname="G. Chen"/>
-    <author fullname="H. Deng"/>
-    <author fullname="D. Michaud"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="G. Chen" initials="G." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="H. Deng" initials="H." surname="Deng">
+      <organization/>
+    </author>
+    <author fullname="D. Michaud" initials="D." surname="Michaud">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>v6ops</workgroup>
-    <keyword>Mobile Network</keyword>
-    <keyword>Dual Stack</keyword>
-    <keyword>IPv6-only</keyword>
-    <abstract>This document identifies a set of failure cases that may be encountered by IPv6-enabled mobile customers in roaming scenarios.  The analysis reveals that the failure causes include improper configurations, incomplete functionality support in equipment, and inconsistent IPv6 deployment strategies between the home and the visited networks.</abstract>
+    <abstract>
+      <t>This document identifies a set of failure cases that may be encountered by IPv6-enabled mobile customers in roaming scenarios.  The analysis reveals that the failure causes include improper configurations, incomplete functionality support in equipment, and inconsistent IPv6 deployment strategies between the home and the visited networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7445"/>
+  <seriesInfo name="RFC" value="7445"/>
 </reference>

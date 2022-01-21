@@ -1,21 +1,18 @@
 <reference anchor="RFC1828" target="https://www.rfc-editor.org/info/rfc1828">
   <front>
     <title>IP Authentication using Keyed MD5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1828"/>
-    <author fullname="P. Metzger"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="P. Metzger" initials="P." surname="Metzger">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Header</keyword>
-    <keyword>AH</keyword>
-    <keyword>Message</keyword>
-    <keyword>Digest</keyword>
-    <keyword>5</keyword>
-    <keyword>Security</keyword>
-    <abstract>This document describes the use of keyed MD5 with the IP Authentication Header. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of keyed MD5 with the IP Authentication Header. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1828"/>
+  <seriesInfo name="RFC" value="1828"/>
 </reference>

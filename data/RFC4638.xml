@@ -1,14 +1,27 @@
 <reference anchor="RFC4638" target="https://www.rfc-editor.org/info/rfc4638">
   <front>
     <title>Accommodating a Maximum Transit Unit/Maximum Receive Unit (MTU/MRU) Greater Than 1492 in the Point-to-Point Protocol over Ethernet (PPPoE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4638"/>
-    <author fullname="P. Arberg"/>
-    <author fullname="D. Kourkouzelis"/>
-    <author fullname="M. Duckett"/>
-    <author fullname="T. Anschutz"/>
-    <author fullname="J. Moisand"/>
+    <author fullname="P. Arberg" initials="P." surname="Arberg">
+      <organization/>
+    </author>
+    <author fullname="D. Kourkouzelis" initials="D." surname="Kourkouzelis">
+      <organization/>
+    </author>
+    <author fullname="M. Duckett" initials="M." surname="Duckett">
+      <organization/>
+    </author>
+    <author fullname="T. Anschutz" initials="T." surname="Anschutz">
+      <organization/>
+    </author>
+    <author fullname="J. Moisand" initials="J." surname="Moisand">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>pppext</workgroup>
-    <abstract>The Point-to-Point Protocol over Ethernet (PPPoE), as described in RFC 2516, mandates a maximum negotiated Maximum Receive Unit (MRU) of 1492.  This document outlines a solution that relaxes this restriction and allows a maximum negotiated MRU greater than 1492 to minimize fragmentation in next-generation broadband networks.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Point-to-Point Protocol over Ethernet (PPPoE), as described in RFC 2516, mandates a maximum negotiated Maximum Receive Unit (MRU) of 1492.  This document outlines a solution that relaxes this restriction and allows a maximum negotiated MRU greater than 1492 to minimize fragmentation in next-generation broadband networks.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4638"/>
+  <seriesInfo name="RFC" value="4638"/>
 </reference>

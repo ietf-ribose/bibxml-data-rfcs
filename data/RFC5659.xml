@@ -1,13 +1,18 @@
 <reference anchor="RFC5659" target="https://www.rfc-editor.org/info/rfc5659">
   <front>
     <title>An Architecture for Multi-Segment Pseudowire Emulation Edge-to-Edge</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5659"/>
-    <author fullname="M. Bocci"/>
-    <author fullname="S. Bryant"/>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>pwe3</workgroup>
-    <keyword>psn</keyword>
-    <keyword>packet switched network</keyword>
-    <abstract>This document describes an architecture for extending pseudowire emulation across multiple packet switched network (PSN) segments.  Scenarios are discussed where each segment of a given edge-to-edge emulated service spans a different provider's PSN, as are other scenarios where the emulated service originates and terminates on the same provider's PSN, but may pass through several PSN tunnel segments in that PSN.  It presents an architectural framework for such multi-segment pseudowires, defines terminology, and specifies the various protocol elements and their functions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an architecture for extending pseudowire emulation across multiple packet switched network (PSN) segments.  Scenarios are discussed where each segment of a given edge-to-edge emulated service spans a different provider's PSN, as are other scenarios where the emulated service originates and terminates on the same provider's PSN, but may pass through several PSN tunnel segments in that PSN.  It presents an architectural framework for such multi-segment pseudowires, defines terminology, and specifies the various protocol elements and their functions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5659"/>
+  <seriesInfo name="RFC" value="5659"/>
 </reference>

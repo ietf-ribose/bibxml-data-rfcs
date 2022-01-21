@@ -1,16 +1,24 @@
 <reference anchor="RFC5941" target="https://www.rfc-editor.org/info/rfc5941">
   <front>
     <title>Sharing Transaction Fraud Data</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5941"/>
-    <author fullname="D. M'Raihi"/>
-    <author fullname="S. Boeyen"/>
-    <author fullname="M. Grandcolas"/>
-    <author fullname="S. Bajaj"/>
+    <author fullname="D. M'Raihi" initials="D." surname="M'Raihi">
+      <organization/>
+    </author>
+    <author fullname="S. Boeyen" initials="S." surname="Boeyen">
+      <organization/>
+    </author>
+    <author fullname="M. Grandcolas" initials="M." surname="Grandcolas">
+      <organization/>
+    </author>
+    <author fullname="S. Bajaj" initials="S." surname="Bajaj">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>thraud</keyword>
-    <keyword>incident object description exchange format</keyword>
-    <keyword>iodef</keyword>
-    <abstract>This document describes a document format for exchanging transaction fraud (Thraud) information.  It extends the Incident Handling Working Group (INCH WG) Incident Object Description Exchange Format (IODEF) incident reporting document format.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes a document format for exchanging transaction fraud (Thraud) information.  It extends the Incident Handling Working Group (INCH WG) Incident Object Description Exchange Format (IODEF) incident reporting document format.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5941"/>
+  <seriesInfo name="RFC" value="5941"/>
 </reference>

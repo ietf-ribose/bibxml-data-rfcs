@@ -1,15 +1,15 @@
 <reference anchor="RFC2160" target="https://www.rfc-editor.org/info/rfc2160">
   <front>
     <title>Carrying PostScript in X.400 and MIME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2160"/>
-    <author fullname="H. Alvestrand"/>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>mixer</workgroup>
-    <keyword>mixer</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes methods for carrying PostScript information in the two standard mail systems MIME and X.400, and the conversion between them. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes methods for carrying PostScript information in the two standard mail systems MIME and X.400, and the conversion between them. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2160"/>
+  <seriesInfo name="RFC" value="2160"/>
 </reference>

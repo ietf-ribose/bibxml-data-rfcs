@@ -1,17 +1,18 @@
 <reference anchor="RFC1974" target="https://www.rfc-editor.org/info/rfc1974">
   <front>
     <title>PPP Stac LZS Compression Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1974"/>
-    <author fullname="R. Friend"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="R. Friend" initials="R." surname="Friend">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-STAC</keyword>
-    <keyword>Point-to-Point</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Compression</keyword>
-    <keyword>Control</keyword>
-    <keyword>CCP</keyword>
-    <abstract>This document describes the use of the Stac LZS data compression algorithm, with single or multiple compression histories, for compressing PPP encapsulated packets.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes the use of the Stac LZS data compression algorithm, with single or multiple compression histories, for compressing PPP encapsulated packets.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1974"/>
+  <seriesInfo name="RFC" value="1974"/>
 </reference>

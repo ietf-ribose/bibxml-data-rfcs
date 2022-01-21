@@ -1,17 +1,18 @@
 <reference anchor="RFC6046" target="https://www.rfc-editor.org/info/rfc6046">
   <front>
     <title>Transport of Real-time Inter-network Defense (RID) Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6046"/>
-    <author fullname="K. Moriarty"/>
-    <author fullname="B. Trammell"/>
+    <author fullname="K. Moriarty" initials="K." surname="Moriarty">
+      <organization/>
+    </author>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
     <date year="2010" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Coordinate Incident Response</keyword>
-    <keyword>CSIRT</keyword>
-    <keyword>CIRT</keyword>
-    <keyword>IODEF</keyword>
-    <keyword>Incident Object Exchange</keyword>
-    <keyword>Description Format</keyword>
-    <abstract>The Incident Object Description Exchange Format (IODEF) defines a common XML format for document exchange, and Real-time Inter-network Defense (RID) defines extensions to IODEF intended for the cooperative handling of security incidents within consortia of network operators and enterprises.  This document specifies a transport protocol for RID based upon the passing of RID messages over HTTP/TLS (Transport Layer Security).  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Incident Object Description Exchange Format (IODEF) defines a common XML format for document exchange, and Real-time Inter-network Defense (RID) defines extensions to IODEF intended for the cooperative handling of security incidents within consortia of network operators and enterprises.  This document specifies a transport protocol for RID based upon the passing of RID messages over HTTP/TLS (Transport Layer Security).  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6046"/>
+  <seriesInfo name="RFC" value="6046"/>
 </reference>

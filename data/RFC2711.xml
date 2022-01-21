@@ -1,15 +1,18 @@
 <reference anchor="RFC2711" target="https://www.rfc-editor.org/info/rfc2711">
   <front>
     <title>IPv6 Router Alert Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2711"/>
-    <author fullname="C. Partridge"/>
-    <author fullname="A. Jackson"/>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
+    <author fullname="A. Jackson" initials="A." surname="Jackson">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet protocol</keyword>
-    <keyword>datagram</keyword>
-    <keyword>routher</keyword>
-    <keyword>hop-by-hop</keyword>
-    <abstract>This memo describes a new IPv6 Hop-by-Hop Option type that alerts transit routers to more closely examine the contents of an IP datagram. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a new IPv6 Hop-by-Hop Option type that alerts transit routers to more closely examine the contents of an IP datagram. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2711"/>
+  <seriesInfo name="RFC" value="2711"/>
 </reference>

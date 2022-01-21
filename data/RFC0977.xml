@@ -1,11 +1,17 @@
 <reference anchor="RFC0977" target="https://www.rfc-editor.org/info/rfc977">
   <front>
     <title>Network News Transfer Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0977"/>
-    <author fullname="B. Kantor"/>
-    <author fullname="P. Lapsley"/>
+    <author fullname="B. Kantor" initials="B." surname="Kantor">
+      <organization/>
+    </author>
+    <author fullname="P. Lapsley" initials="P." surname="Lapsley">
+      <organization/>
+    </author>
     <date year="1986" month="February"/>
-    <keyword>NNTP]</keyword>
-    <abstract>NNTP specifies a protocol for the distribution, inquiry, retrieval, and posting of news articles using a reliable stream-based transmission of news among the ARPA-Internet community.  NNTP is designed so that news articles are stored in a central database allowing a subscriber to select only those items he wishes to read.  Indexing, cross-referencing, and expiration of aged messages are also provided.  This RFC suggests a proposed protocol for the ARPA-Internet community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>NNTP specifies a protocol for the distribution, inquiry, retrieval, and posting of news articles using a reliable stream-based transmission of news among the ARPA-Internet community.  NNTP is designed so that news articles are stored in a central database allowing a subscriber to select only those items he wishes to read.  Indexing, cross-referencing, and expiration of aged messages are also provided.  This RFC suggests a proposed protocol for the ARPA-Internet community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0977"/>
+  <seriesInfo name="RFC" value="977"/>
 </reference>

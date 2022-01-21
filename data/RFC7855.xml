@@ -1,15 +1,31 @@
 <reference anchor="RFC7855" target="https://www.rfc-editor.org/info/rfc7855">
   <front>
     <title>Source Packet Routing in Networking (SPRING) Problem Statement and Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7855"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="M. Horneffer"/>
-    <author fullname="R. Shakir"/>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="M. Horneffer" initials="M." surname="Horneffer">
+      <organization/>
+    </author>
+    <author fullname="R. Shakir" initials="R." surname="Shakir">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
     <workgroup>spring</workgroup>
-    <abstract>The ability for a node to specify a forwarding path, other than the normal shortest path, that a particular packet will traverse, benefits a number of network functions. Source-based routing mechanisms have previously been specified for network protocols but have not seen widespread adoption. In this context, the term "source" means "the point at which the explicit route is imposed"; therefore, it is not limited to the originator of the packet (i.e., the node imposing the explicit route may be the ingress node of an operator's network). This document outlines various use cases, with their requirements, that need to be taken into account by the Source Packet Routing in Networking (SPRING) architecture for unicast traffic. Multicast use cases and requirements are out of scope for this document.</abstract>
+    <abstract>
+      <t>The ability for a node to specify a forwarding path, other than the normal shortest path, that a particular packet will traverse, benefits a number of network functions. Source-based routing mechanisms have previously been specified for network protocols but have not seen widespread adoption. In this context, the term "source" means "the point at which the explicit route is imposed"; therefore, it is not limited to the originator of the packet (i.e., the node imposing the explicit route may be the ingress node of an operator's network).</t>
+      <t>This document outlines various use cases, with their requirements, that need to be taken into account by the Source Packet Routing in Networking (SPRING) architecture for unicast traffic. Multicast use cases and requirements are out of scope for this document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7855"/>
+  <seriesInfo name="RFC" value="7855"/>
 </reference>

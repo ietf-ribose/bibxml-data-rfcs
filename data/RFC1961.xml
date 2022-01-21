@@ -1,17 +1,15 @@
 <reference anchor="RFC1961" target="https://www.rfc-editor.org/info/rfc1961">
   <front>
     <title>GSS-API Authentication Method for SOCKS Version 5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1961"/>
-    <author fullname="P. McMahon"/>
+    <author fullname="P. McMahon" initials="P." surname="McMahon">
+      <organization/>
+    </author>
     <date year="1996" month="June"/>
     <workgroup>aft</workgroup>
-    <keyword>GSSAPI-SOC</keyword>
-    <keyword>Generic</keyword>
-    <keyword>Security</keyword>
-    <keyword>Service</keyword>
-    <keyword>Application</keyword>
-    <keyword>Program</keyword>
-    <keyword>Interface</keyword>
-    <abstract>This document provides the specification for the SOCKS V5 GSS-API authentication protocol, and defines a GSS-API-based encapsulation for provision of integrity, authentication and optional confidentiality. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document provides the specification for the SOCKS V5 GSS-API authentication protocol, and defines a GSS-API-based encapsulation for provision of integrity, authentication and optional confidentiality. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1961"/>
+  <seriesInfo name="RFC" value="1961"/>
 </reference>

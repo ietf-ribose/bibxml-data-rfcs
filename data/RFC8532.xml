@@ -1,14 +1,28 @@
 <reference anchor="RFC8532" target="https://www.rfc-editor.org/info/rfc8532">
   <front>
     <title>Generic YANG Data Model for the Management of Operations, Administration, and Maintenance (OAM) Protocols That Use Connectionless Communications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8532"/>
-    <author fullname="D. Kumar"/>
-    <author fullname="Z. Wang"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="R. Rahman"/>
-    <author fullname="S. Raghavan"/>
+    <author fullname="D. Kumar" initials="D." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="Z. Wang" initials="Z." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="R. Rahman" initials="R." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="S. Raghavan" initials="S." surname="Raghavan">
+      <organization/>
+    </author>
     <date year="2019" month="April"/>
     <workgroup>lime</workgroup>
-    <abstract>This document presents a base YANG Data model for the management of Operations, Administration, and Maintenance (OAM) protocols that use connectionless communications. The data model is defined using the YANG data modeling language, as specified in RFC 7950. It provides a technology-independent abstraction of key OAM constructs for OAM protocols that use connectionless communication. The base model presented here can be extended to include technology-specific details. There are two key benefits of this approach: First, it leads to uniformity between OAM protocols. Second, it supports both nested OAM workflows (i.e., performing OAM functions at the same level or different levels through a unified interface) as well as interactive OAM workflows (i.e., performing OAM functions at the same level through a unified interface).</abstract>
+    <abstract>
+      <t>This document presents a base YANG Data model for the management of Operations, Administration, and Maintenance (OAM) protocols that use connectionless communications. The data model is defined using the YANG data modeling language, as specified in RFC 7950. It provides a technology-independent abstraction of key OAM constructs for OAM protocols that use connectionless communication. The base model presented here can be extended to include technology-specific details.</t>
+      <t>There are two key benefits of this approach: First, it leads to uniformity between OAM protocols. Second, it supports both nested OAM workflows (i.e., performing OAM functions at the same level or different levels through a unified interface) as well as interactive OAM workflows (i.e., performing OAM functions at the same level through a unified interface).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8532"/>
+  <seriesInfo name="RFC" value="8532"/>
 </reference>

@@ -1,20 +1,27 @@
 <reference anchor="RFC3038" target="https://www.rfc-editor.org/info/rfc3038">
   <front>
     <title>VCID Notification over ATM link for LDP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3038"/>
-    <author fullname="K. Nagami"/>
-    <author fullname="Y. Katsube"/>
-    <author fullname="N. Demizu"/>
-    <author fullname="H. Esaki"/>
-    <author fullname="P. Doolan"/>
+    <author fullname="K. Nagami" initials="K." surname="Nagami">
+      <organization/>
+    </author>
+    <author fullname="Y. Katsube" initials="Y." surname="Katsube">
+      <organization/>
+    </author>
+    <author fullname="N. Demizu" initials="N." surname="Demizu">
+      <organization/>
+    </author>
+    <author fullname="H. Esaki" initials="H." surname="Esaki">
+      <organization/>
+    </author>
+    <author fullname="P. Doolan" initials="P." surname="Doolan">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>label</keyword>
-    <keyword>distribution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document specifies the procedures for the communication of VCID values between neighboring ATM-LSRs that must occur in order to ensure this property. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the procedures for the communication of VCID values between neighboring ATM-LSRs that must occur in order to ensure this property. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3038"/>
+  <seriesInfo name="RFC" value="3038"/>
 </reference>

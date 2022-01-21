@@ -1,11 +1,20 @@
 <reference anchor="RFC0811" target="https://www.rfc-editor.org/info/rfc811">
   <front>
     <title>Hostnames Server</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0811"/>
-    <author fullname="K. Harrenstien"/>
-    <author fullname="V. White"/>
-    <author fullname="E.J. Feinler"/>
+    <author fullname="K. Harrenstien" initials="K." surname="Harrenstien">
+      <organization/>
+    </author>
+    <author fullname="V. White" initials="V." surname="White">
+      <organization/>
+    </author>
+    <author fullname="E.J. Feinler" initials="E.J." surname="Feinler">
+      <organization/>
+    </author>
     <date year="1982" month="March"/>
-    <abstract>This RFC gives a description of what the Hostnames Server is and how to access it.  The function of this particular server is to deliver machine-readable name/address information describing networks, gateways, hosts, and eventually domains, within the internet environment.</abstract>
+    <abstract>
+      <t>This RFC gives a description of what the Hostnames Server is and how to access it.  The function of this particular server is to deliver machine-readable name/address information describing networks, gateways, hosts, and eventually domains, within the internet environment.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0811"/>
+  <seriesInfo name="RFC" value="811"/>
 </reference>

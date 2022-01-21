@@ -1,11 +1,17 @@
 <reference anchor="RFC1165" target="https://www.rfc-editor.org/info/rfc1165">
   <front>
     <title>Network Time Protocol (NTP) over the OSI Remote Operations Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1165"/>
-    <author fullname="J. Crowcroft"/>
-    <author fullname="J.P. Onions"/>
+    <author fullname="J. Crowcroft" initials="J." surname="Crowcroft">
+      <organization/>
+    </author>
+    <author fullname="J.P. Onions" initials="J.P." surname="Onions">
+      <organization/>
+    </author>
     <date year="1990" month="June"/>
-    <keyword>NTP-OSI</keyword>
-    <abstract>This memo suggests an Experimental Protocol for the OSI and Internet communities.  Hosts in either community, and in particular those on both are encouraged to experiment with this mechanism.</abstract>
+    <abstract>
+      <t>This memo suggests an Experimental Protocol for the OSI and Internet communities.  Hosts in either community, and in particular those on both are encouraged to experiment with this mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1165"/>
+  <seriesInfo name="RFC" value="1165"/>
 </reference>

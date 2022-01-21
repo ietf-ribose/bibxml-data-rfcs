@@ -1,14 +1,21 @@
 <reference anchor="RFC4790" target="https://www.rfc-editor.org/info/rfc4790">
   <front>
     <title>Internet Application Protocol Collation Registry</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4790"/>
-    <author fullname="C. Newman"/>
-    <author fullname="M. Duerst"/>
-    <author fullname=" A. Gulbrandsen"/>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="M. Duerst" initials="M." surname="Duerst">
+      <organization/>
+    </author>
+    <author fullname=" A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>collation</keyword>
-    <keyword>sorting</keyword>
-    <abstract>Many Internet application protocols include string-based lookup, searching, or sorting operations.  However, the problem space for searching and sorting international strings is large, not fully explored, and is outside the area of expertise for the Internet Engineering Task Force (IETF).  Rather than attempt to solve such a large problem, this specification creates an abstraction framework so that application protocols can precisely identify a comparison function, and the repertoire of comparison functions can be extended in the future. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Many Internet application protocols include string-based lookup, searching, or sorting operations.  However, the problem space for searching and sorting international strings is large, not fully explored, and is outside the area of expertise for the Internet Engineering Task Force (IETF).  Rather than attempt to solve such a large problem, this specification creates an abstraction framework so that application protocols can precisely identify a comparison function, and the repertoire of comparison functions can be extended in the future. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4790"/>
+  <seriesInfo name="RFC" value="4790"/>
 </reference>

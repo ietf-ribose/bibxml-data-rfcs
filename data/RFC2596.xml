@@ -1,16 +1,18 @@
 <reference anchor="RFC2596" target="https://www.rfc-editor.org/info/rfc2596">
   <front>
     <title>Use of Language Codes in LDAP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2596"/>
-    <author fullname="M. Wahl"/>
-    <author fullname="T. Howes"/>
+    <author fullname="M. Wahl" initials="M." surname="Wahl">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="1999" month="May"/>
     <workgroup>ldapext</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>servers</keyword>
-    <abstract>This document describes how language codes are carried in LDAP and are to be interpreted by LDAP servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how language codes are carried in LDAP and are to be interpreted by LDAP servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2596"/>
+  <seriesInfo name="RFC" value="2596"/>
 </reference>

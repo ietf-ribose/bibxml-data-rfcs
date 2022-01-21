@@ -1,12 +1,21 @@
 <reference anchor="RFC7865" target="https://www.rfc-editor.org/info/rfc7865">
   <front>
     <title>Session Initiation Protocol (SIP) Recording Metadata</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7865"/>
-    <author fullname="R. Ravindranath"/>
-    <author fullname="P. Ravindran"/>
-    <author fullname="P. Kyzivat"/>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
+    <author fullname="P. Ravindran" initials="P." surname="Ravindran">
+      <organization/>
+    </author>
+    <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
     <workgroup>siprec</workgroup>
-    <abstract>Session recording is a critical requirement in many communications environments, such as call centers and financial trading organizations.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer protection reasons.  The recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document describes the metadata model as viewed by the Session Recording Server (SRS) and the recording metadata format.</abstract>
+    <abstract>
+      <t>Session recording is a critical requirement in many communications environments, such as call centers and financial trading organizations.  In some of these environments, all calls must be recorded for regulatory, compliance, and consumer protection reasons.  The recording of a session is typically performed by sending a copy of a media stream to a recording device.  This document describes the metadata model as viewed by the Session Recording Server (SRS) and the recording metadata format.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7865"/>
+  <seriesInfo name="RFC" value="7865"/>
 </reference>

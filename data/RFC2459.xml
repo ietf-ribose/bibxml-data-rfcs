@@ -1,17 +1,24 @@
 <reference anchor="RFC2459" target="https://www.rfc-editor.org/info/rfc2459">
   <front>
     <title>Internet X.509 Public Key Infrastructure Certificate and CRL Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2459"/>
-    <author fullname="R. Housley"/>
-    <author fullname="W. Ford"/>
-    <author fullname="W. Polk"/>
-    <author fullname="D. Solo"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="W. Ford" initials="W." surname="Ford">
+      <organization/>
+    </author>
+    <author fullname="W. Polk" initials="W." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="D. Solo" initials="D." surname="Solo">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
     <workgroup>pkix</workgroup>
-    <keyword>digital</keyword>
-    <keyword>signatures</keyword>
-    <keyword>encryption</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo profiles the X.509 v3 certificate and X.509 v2 CRL for use in the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo profiles the X.509 v3 certificate and X.509 v2 CRL for use in the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2459"/>
+  <seriesInfo name="RFC" value="2459"/>
 </reference>

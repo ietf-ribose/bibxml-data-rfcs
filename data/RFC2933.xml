@@ -1,16 +1,21 @@
 <reference anchor="RFC2933" target="https://www.rfc-editor.org/info/rfc2933">
   <front>
     <title>Internet Group Management Protocol MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2933"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>idmr</workgroup>
-    <keyword>igmp</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for managing the Internet Group Management Protocol (IGMP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for managing the Internet Group Management Protocol (IGMP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2933"/>
+  <seriesInfo name="RFC" value="2933"/>
 </reference>

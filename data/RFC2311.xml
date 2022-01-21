@@ -1,19 +1,26 @@
 <reference anchor="RFC2311" target="https://www.rfc-editor.org/info/rfc2311">
   <front>
     <title>S/MIME Version 2 Message Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2311"/>
-    <author fullname="S. Dusse"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="B. Ramsdell"/>
-    <author fullname="L. Lundblade"/>
-    <author fullname="L. Repka"/>
+    <author fullname="S. Dusse" initials="S." surname="Dusse">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="B. Ramsdell" initials="B." surname="Ramsdell">
+      <organization/>
+    </author>
+    <author fullname="L. Lundblade" initials="L." surname="Lundblade">
+      <organization/>
+    </author>
+    <author fullname="L. Repka" initials="L." surname="Repka">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
-    <keyword>SMIME-MSG</keyword>
-    <keyword>secure</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes a protocol for adding cryptographic signature and encryption services to MIME data.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes a protocol for adding cryptographic signature and encryption services to MIME data.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2311"/>
+  <seriesInfo name="RFC" value="2311"/>
 </reference>

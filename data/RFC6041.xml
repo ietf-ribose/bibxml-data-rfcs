@@ -1,18 +1,27 @@
 <reference anchor="RFC6041" target="https://www.rfc-editor.org/info/rfc6041">
   <front>
     <title>Forwarding and Control Element Separation (ForCES) Applicability Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6041"/>
-    <author fullname="A. Crouch"/>
-    <author fullname="H. Khosravi"/>
-    <author fullname="A. Doria"/>
-    <author fullname="X. Wang"/>
-    <author fullname="K. Ogawa"/>
+    <author fullname="A. Crouch" initials="A." surname="Crouch">
+      <organization/>
+    </author>
+    <author fullname="H. Khosravi" initials="H." surname="Khosravi">
+      <organization/>
+    </author>
+    <author fullname="A. Doria" initials="A." surname="Doria">
+      <organization/>
+    </author>
+    <author fullname="X. Wang" initials="X." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="K. Ogawa" initials="K." surname="Ogawa">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>forces</workgroup>
-    <keyword>Routing</keyword>
-    <keyword>Control Plane</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>The Forwarding and Control Element Separation (ForCES) protocol defines a standard framework and mechanism for the interconnection between control elements and forwarding elements in IP routers and similar devices.  In this document we describe the applicability of the ForCES model and protocol.  We provide example deployment scenarios and functionality, as well as document applications that would be inappropriate for ForCES.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Forwarding and Control Element Separation (ForCES) protocol defines a standard framework and mechanism for the interconnection between control elements and forwarding elements in IP routers and similar devices.  In this document we describe the applicability of the ForCES model and protocol.  We provide example deployment scenarios and functionality, as well as document applications that would be inappropriate for ForCES.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6041"/>
+  <seriesInfo name="RFC" value="6041"/>
 </reference>

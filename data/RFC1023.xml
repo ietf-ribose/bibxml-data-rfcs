@@ -1,10 +1,17 @@
 <reference anchor="RFC1023" target="https://www.rfc-editor.org/info/rfc1023">
   <front>
     <title>HEMS monitoring and control language</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1023"/>
-    <author fullname="G. Trewitt"/>
-    <author fullname="C. Partridge"/>
+    <author fullname="G. Trewitt" initials="G." surname="Trewitt">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
     <date year="1987" month="October"/>
-    <abstract>This RFC specifies the High-Level Entity Management System (HEMS) Monitoring and Control Language.  This language defines the requests and replies used in HEMS.  This memo assumes knowledge of the HEMS system described in RFC-1021, and of the ISO data encoding standard, ASN.1.</abstract>
+    <abstract>
+      <t>This RFC specifies the High-Level Entity Management System (HEMS) Monitoring and Control Language.  This language defines the requests and replies used in HEMS.  This memo assumes knowledge of the HEMS system described in RFC-1021, and of the ISO data encoding standard, ASN.1.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1023"/>
+  <seriesInfo name="RFC" value="1023"/>
 </reference>

@@ -1,24 +1,27 @@
 <reference anchor="RFC7792" target="https://www.rfc-editor.org/info/rfc7792">
   <front>
     <title>RSVP-TE Signaling Extensions in Support of Flexi-Grid Dense Wavelength Division Multiplexing (DWDM) Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7792"/>
-    <author fullname="F. Zhang"/>
-    <author fullname="X. Zhang"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="O. Gonzalez de Dios"/>
-    <author fullname="D. Ceccarelli"/>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="X. Zhang" initials="X." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez">
+      <organization/>
+    </author>
+    <author fullname="D. Ceccarelli" initials="D." surname="Ceccarelli">
+      <organization/>
+    </author>
     <date year="2016" month="March"/>
     <workgroup>ccamp</workgroup>
-    <keyword>Flexible-grid</keyword>
-    <keyword>Flexible optical grid</keyword>
-    <keyword>Optical network</keyword>
-    <keyword>Optical trail</keyword>
-    <keyword>Optical LSP</keyword>
-    <keyword>GMPLS</keyword>
-    <keyword>WDM</keyword>
-    <keyword>PCE</keyword>
-    <keyword>spectrum reservation</keyword>
-    <keyword>flexible spectrum</keyword>
-    <abstract>This memo describes the extensions to the Resource Reservation Protocol - Traffic Engineering (RSVP-TE) signaling protocol to support Label Switched Paths (LSPs) in a GMPLS-controlled network that includes devices using the flexible optical grid.</abstract>
+    <abstract>
+      <t>This memo describes the extensions to the Resource Reservation Protocol - Traffic Engineering (RSVP-TE) signaling protocol to support Label Switched Paths (LSPs) in a GMPLS-controlled network that includes devices using the flexible optical grid.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7792"/>
+  <seriesInfo name="RFC" value="7792"/>
 </reference>

@@ -1,18 +1,17 @@
 <reference anchor="RFC2348" target="https://www.rfc-editor.org/info/rfc2348">
   <front>
     <title>TFTP Blocksize Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2348"/>
-    <author fullname="G. Malkin"/>
-    <author fullname="A. Harkin"/>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
+    <author fullname="A. Harkin" initials="A." surname="Harkin">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
-    <keyword>TFTP-Blk</keyword>
-    <keyword>trivial</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <keyword>booting</keyword>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <keyword>extension</keyword>
-    <abstract>The Trivial File Transfer Protocol is a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.  This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Trivial File Transfer Protocol is a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.  This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2348"/>
+  <seriesInfo name="RFC" value="2348"/>
 </reference>

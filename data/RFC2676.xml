@@ -1,19 +1,30 @@
 <reference anchor="RFC2676" target="https://www.rfc-editor.org/info/rfc2676">
   <front>
     <title>QoS Routing Mechanisms and OSPF Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2676"/>
-    <author fullname="G. Apostolopoulos"/>
-    <author fullname="S. Kama"/>
-    <author fullname="D. Williams"/>
-    <author fullname="R. Guerin"/>
-    <author fullname="A. Orda"/>
-    <author fullname="T. Przygienda"/>
+    <author fullname="G. Apostolopoulos" initials="G." surname="Apostolopoulos">
+      <organization/>
+    </author>
+    <author fullname="S. Kama" initials="S." surname="Kama">
+      <organization/>
+    </author>
+    <author fullname="D. Williams" initials="D." surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="R. Guerin" initials="R." surname="Guerin">
+      <organization/>
+    </author>
+    <author fullname="A. Orda" initials="A." surname="Orda">
+      <organization/>
+    </author>
+    <author fullname="T. Przygienda" initials="T." surname="Przygienda">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>ospf</workgroup>
-    <keyword>quality of service</keyword>
-    <keyword>open shortest</keyword>
-    <keyword>path first</keyword>
-    <keyword>routing</keyword>
-    <abstract>This memo describes extensions to the OSPF protocol to support QoS routes.  The focus of this document is on the algorithms used to compute QoS routes and on the necessary modifications to OSPF to support this function, e.g., the information needed, its format, how it is distributed, and how it is used by the QoS path selection process.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes extensions to the OSPF protocol to support QoS routes.  The focus of this document is on the algorithms used to compute QoS routes and on the necessary modifications to OSPF to support this function, e.g., the information needed, its format, how it is distributed, and how it is used by the QoS path selection process.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2676"/>
+  <seriesInfo name="RFC" value="2676"/>
 </reference>

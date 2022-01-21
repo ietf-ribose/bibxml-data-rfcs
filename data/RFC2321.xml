@@ -1,11 +1,14 @@
 <reference anchor="RFC2321" target="https://www.rfc-editor.org/info/rfc2321">
   <front>
     <title>RITA -- The Reliable Internetwork Troubleshooting Agent</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2321"/>
-    <author fullname="A. Bressen"/>
+    <author fullname="A. Bressen" initials="A." surname="Bressen">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
-    <keyword>networking</keyword>
-    <keyword>environments</keyword>
-    <abstract>A Description of the usage of Nondeterministic Troubleshooting and Diagnostic Methodologies as applied to today's complex nondeterministic networks and environments.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>A Description of the usage of Nondeterministic Troubleshooting and Diagnostic Methodologies as applied to today's complex nondeterministic networks and environments.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2321"/>
+  <seriesInfo name="RFC" value="2321"/>
 </reference>

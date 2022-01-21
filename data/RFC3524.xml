@@ -1,15 +1,18 @@
 <reference anchor="RFC3524" target="https://www.rfc-editor.org/info/rfc3524">
   <front>
     <title>Mapping of Media Streams to Resource Reservation Flows</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3524"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="A. Monrad"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="A. Monrad" initials="A." surname="Monrad">
+      <organization/>
+    </author>
     <date year="2003" month="April"/>
     <workgroup>mmusic</workgroup>
-    <keyword>sdp</keyword>
-    <keyword>session description protocol</keyword>
-    <keyword>srf</keyword>
-    <keyword>single</keyword>
-    <abstract>This document defines an extension to the Session Description Protocol (SDP) grouping framework.  It allows requesting a group of media streams to be mapped into a single resource reservation flow.  The SDP syntax needed is defined, as well as a new "semantics" attribute called Single Reservation Flow (SRF). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an extension to the Session Description Protocol (SDP) grouping framework.  It allows requesting a group of media streams to be mapped into a single resource reservation flow.  The SDP syntax needed is defined, as well as a new "semantics" attribute called Single Reservation Flow (SRF). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3524"/>
+  <seriesInfo name="RFC" value="3524"/>
 </reference>

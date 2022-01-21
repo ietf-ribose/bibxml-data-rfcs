@@ -1,10 +1,17 @@
 <reference anchor="RFC1022" target="https://www.rfc-editor.org/info/rfc1022">
   <front>
     <title>High-level Entity Management Protocol (HEMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1022"/>
-    <author fullname="C. Partridge"/>
-    <author fullname="G. Trewitt"/>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
+    <author fullname="G. Trewitt" initials="G." surname="Trewitt">
+      <organization/>
+    </author>
     <date year="1987" month="October"/>
-    <abstract>This memo presents an application protocol for managing network entities such as hosts, gateways, and front end machines.  This protocol is a component of the High-level Entity Management System HEMS), described is RFC-1021.  This memo also assumes a knowledge of the ISO data encoding standard, ASN.1.</abstract>
+    <abstract>
+      <t>This memo presents an application protocol for managing network entities such as hosts, gateways, and front end machines.  This protocol is a component of the High-level Entity Management System HEMS), described is RFC-1021.  This memo also assumes a knowledge of the ISO data encoding standard, ASN.1.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1022"/>
+  <seriesInfo name="RFC" value="1022"/>
 </reference>

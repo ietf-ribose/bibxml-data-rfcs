@@ -1,14 +1,15 @@
 <reference anchor="RFC3487" target="https://www.rfc-editor.org/info/rfc3487">
   <front>
     <title>Requirements for Resource Priority Mechanisms for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3487"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2003" month="February"/>
     <workgroup>ieprep</workgroup>
-    <keyword>circuit switched network resources</keyword>
-    <keyword>end system resources</keyword>
-    <keyword>proxy resources</keyword>
-    <keyword>emergency preparedness communications</keyword>
-    <abstract>This document summarizes requirements for prioritizing access to circuit-switched network, end system and proxy resources for emergency preparedness communications using the Session Initiation Protocol (SIP).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document summarizes requirements for prioritizing access to circuit-switched network, end system and proxy resources for emergency preparedness communications using the Session Initiation Protocol (SIP).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3487"/>
+  <seriesInfo name="RFC" value="3487"/>
 </reference>

@@ -1,17 +1,21 @@
 <reference anchor="RFC3442" target="https://www.rfc-editor.org/info/rfc3442">
   <front>
     <title>The Classless Static Route Option for Dynamic Host Configuration Protocol (DHCP) version 4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3442"/>
-    <author fullname="T. Lemon"/>
-    <author fullname="S. Cheshire"/>
-    <author fullname="B. Volz"/>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>dhc</workgroup>
-    <keyword>Dynamic</keyword>
-    <keyword>Host</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Bootstrap</keyword>
-    <abstract>This document defines a new Dynamic Host Configuration Protocol (DHCP) option which is passed from the DHCP Server to the DHCP Client to configure a list of static routes in the client.  The network destinations in these routes are classless - each routing table entry includes a subnet mask. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new Dynamic Host Configuration Protocol (DHCP) option which is passed from the DHCP Server to the DHCP Client to configure a list of static routes in the client.  The network destinations in these routes are classless - each routing table entry includes a subnet mask. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3442"/>
+  <seriesInfo name="RFC" value="3442"/>
 </reference>

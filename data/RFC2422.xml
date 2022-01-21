@@ -1,16 +1,17 @@
 <reference anchor="RFC2422" target="https://www.rfc-editor.org/info/rfc2422">
   <front>
     <title>Toll Quality Voice - 32 kbit/s ADPCM MIME Sub-type Registration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2422"/>
-    <author fullname="G. Vaudreuil"/>
-    <author fullname="G. Parsons"/>
+    <author fullname="G. Vaudreuil" initials="G." surname="Vaudreuil">
+      <organization/>
+    </author>
+    <author fullname="G. Parsons" initials="G." surname="Parsons">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
-    <keyword>MIME-ADPCM</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <keyword>audio</keyword>
-    <abstract>This document describes the registration of the MIME sub-type audio/32KADPCM for toll quality audio. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the registration of the MIME sub-type audio/32KADPCM for toll quality audio. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2422"/>
+  <seriesInfo name="RFC" value="2422"/>
 </reference>

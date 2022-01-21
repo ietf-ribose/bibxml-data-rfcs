@@ -1,10 +1,17 @@
 <reference anchor="RFC0888" target="https://www.rfc-editor.org/info/rfc888">
   <front>
     <title>"STUB" Exterior Gateway Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0888"/>
-    <author fullname="L. Seamonson"/>
-    <author fullname="E.C. Rosen"/>
+    <author fullname="L. Seamonson" initials="L." surname="Seamonson">
+      <organization/>
+    </author>
+    <author fullname="E.C. Rosen" initials="E.C." surname="Rosen">
+      <organization/>
+    </author>
     <date year="1984" month="January"/>
-    <abstract>This RFC describes the Exterior Gateway Protocol used to connect Stub Gateways to an Autonomous System of core Gateways.  This document specifies the working protocol, and defines an ARPA official protocol.  All implementers of Gateways should carefully review this document.</abstract>
+    <abstract>
+      <t>This RFC describes the Exterior Gateway Protocol used to connect Stub Gateways to an Autonomous System of core Gateways.  This document specifies the working protocol, and defines an ARPA official protocol.  All implementers of Gateways should carefully review this document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0888"/>
+  <seriesInfo name="RFC" value="888"/>
 </reference>

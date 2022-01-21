@@ -1,15 +1,17 @@
 <reference anchor="RFC1748" target="https://www.rfc-editor.org/info/rfc1748">
   <front>
     <title>IEEE 802.5 MIB using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1748"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="E. Decker"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="E. Decker" initials="E." surname="Decker">
+      <organization/>
+    </author>
     <date year="1994" month="December"/>
-    <keyword>802.5-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing subnetworks which use the IEEE 802.5 Token Ring technology described in 802.5 Token Ring Access Method and Physical Layer Specifications, IEEE Standard 802.5-1989. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing subnetworks which use the IEEE 802.5 Token Ring technology described in 802.5 Token Ring Access Method and Physical Layer Specifications, IEEE Standard 802.5-1989. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1748"/>
+  <seriesInfo name="RFC" value="1748"/>
 </reference>

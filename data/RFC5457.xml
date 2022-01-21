@@ -1,13 +1,14 @@
 <reference anchor="RFC5457" target="https://www.rfc-editor.org/info/rfc5457">
   <front>
     <title>IANA Considerations for IAX: Inter-Asterisk eXchange Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5457"/>
-    <author fullname="E. Guy"/>
+    <author fullname="E. Guy" initials="E." surname="Guy">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
-    <keyword>asterisk private branch exchange</keyword>
-    <keyword>pbx</keyword>
-    <keyword>voip</keyword>
-    <keyword>voice over internet protocol</keyword>
-    <abstract>This document establishes the IANA registries for IAX, the Inter- Asterisk eXchange protocol, an application-layer control and media protocol for creating, modifying, and terminating multimedia sessions over Internet Protocol (IP) networks.  IAX was developed by the open source community for the Asterisk PBX and is targeted primarily at Voice over Internet Protocol (VoIP) call control, but it can be used with streaming video or any other type of multimedia.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document establishes the IANA registries for IAX, the Inter- Asterisk eXchange protocol, an application-layer control and media protocol for creating, modifying, and terminating multimedia sessions over Internet Protocol (IP) networks.  IAX was developed by the open source community for the Asterisk PBX and is targeted primarily at Voice over Internet Protocol (VoIP) call control, but it can be used with streaming video or any other type of multimedia.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5457"/>
+  <seriesInfo name="RFC" value="5457"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC5570" target="https://www.rfc-editor.org/info/rfc5570">
   <front>
     <title>Common Architecture Label IPv6 Security Option (CALIPSO)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5570"/>
-    <author fullname="M. StJohns"/>
-    <author fullname="R. Atkinson"/>
-    <author fullname="G. Thomas"/>
+    <author fullname="M. StJohns" initials="M." surname="StJohns">
+      <organization/>
+    </author>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
+    <author fullname="G. Thomas" initials="G." surname="Thomas">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>sensitivity labels</keyword>
-    <keyword>mls</keyword>
-    <keyword>multi-level secure</keyword>
-    <abstract>This document describes an optional method for encoding explicit packet Sensitivity Labels on IPv6 packets.  It is intended for use only within Multi-Level Secure (MLS) networking environments that are both trusted and trustworthy.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an optional method for encoding explicit packet Sensitivity Labels on IPv6 packets.  It is intended for use only within Multi-Level Secure (MLS) networking environments that are both trusted and trustworthy.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5570"/>
+  <seriesInfo name="RFC" value="5570"/>
 </reference>

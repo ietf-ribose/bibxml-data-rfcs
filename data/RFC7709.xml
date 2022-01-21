@@ -1,23 +1,25 @@
 <reference anchor="RFC7709" target="https://www.rfc-editor.org/info/rfc7709">
   <front>
     <title>Requirements for Very Fast Setup of GMPLS Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7709"/>
-    <author fullname="A. Malis"/>
-    <author fullname="B. Wilson"/>
-    <author fullname="G. Clapp"/>
-    <author fullname="V. Shukla"/>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="B. Wilson" initials="B." surname="Wilson">
+      <organization/>
+    </author>
+    <author fullname="G. Clapp" initials="G." surname="Clapp">
+      <organization/>
+    </author>
+    <author fullname="V. Shukla" initials="V." surname="Shukla">
+      <organization/>
+    </author>
     <date year="2015" month="November"/>
     <workgroup>teas</workgroup>
-    <keyword>generalized multiprotocol label switching</keyword>
-    <keyword>OTN</keyword>
-    <keyword>optical transport networks</keyword>
-    <keyword>WSON</keyword>
-    <keyword> TDM</keyword>
-    <keyword>WDM</keyword>
-    <keyword>churn</keyword>
-    <keyword>on-demand</keyword>
-    <keyword>wavelength</keyword>
-    <keyword>rapid setup</keyword>
-    <abstract>Establishment and control of Label Switch Paths (LSPs) have become mainstream tools of commercial and government network providers. One of the elements of further evolving such networks is scaling their performance in terms of LSP bandwidth and traffic loads, LSP intensity (e.g., rate of LSP creation, deletion, and modification), LSP set up delay, quality-of-service differentiation, and different levels of resilience. The goal of this document is to present target scaling objectives and the related protocol requirements for Generalized Multi-Protocol Label Switching (GMPLS).</abstract>
+    <abstract>
+      <t>Establishment and control of Label Switch Paths (LSPs) have become mainstream tools of commercial and government network providers. One of the elements of further evolving such networks is scaling their performance in terms of LSP bandwidth and traffic loads, LSP intensity (e.g., rate of LSP creation, deletion, and modification), LSP set up delay, quality-of-service differentiation, and different levels of resilience.</t>
+      <t>The goal of this document is to present target scaling objectives and the related protocol requirements for Generalized Multi-Protocol Label Switching (GMPLS).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7709"/>
+  <seriesInfo name="RFC" value="7709"/>
 </reference>

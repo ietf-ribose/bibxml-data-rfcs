@@ -1,11 +1,17 @@
 <reference anchor="RFC0823" target="https://www.rfc-editor.org/info/rfc823">
   <front>
     <title>DARPA Internet gateway</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0823"/>
-    <author fullname="R.M. Hinden"/>
-    <author fullname="A. Sheltzer"/>
+    <author fullname="R.M. Hinden" initials="R.M." surname="Hinden">
+      <organization/>
+    </author>
+    <author fullname="A. Sheltzer" initials="A." surname="Sheltzer">
+      <organization/>
+    </author>
     <date year="1982" month="September"/>
-    <keyword>GGP</keyword>
-    <abstract>This RFC is a status report on the Internet Gateway developed by BBN.  It describes the Internet Gateway as of September 1982.  This memo presents detailed descriptions of message formats and gateway procedures, however, this is not an implementation specification, and such details are subject to change.</abstract>
+    <abstract>
+      <t>This RFC is a status report on the Internet Gateway developed by BBN.  It describes the Internet Gateway as of September 1982.  This memo presents detailed descriptions of message formats and gateway procedures, however, this is not an implementation specification, and such details are subject to change.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0823"/>
+  <seriesInfo name="RFC" value="823"/>
 </reference>

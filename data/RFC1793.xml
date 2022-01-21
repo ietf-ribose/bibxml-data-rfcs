@@ -1,15 +1,15 @@
 <reference anchor="RFC1793" target="https://www.rfc-editor.org/info/rfc1793">
   <front>
     <title>Extending OSPF to Support Demand Circuits</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1793"/>
-    <author fullname="J. Moy"/>
+    <author fullname="J. Moy" initials="J." surname="Moy">
+      <organization/>
+    </author>
     <date year="1995" month="April"/>
     <workgroup>ospf</workgroup>
-    <keyword>OSPF-DC</keyword>
-    <keyword>Open</keyword>
-    <keyword>Shortest</keyword>
-    <keyword>Path</keyword>
-    <keyword>First</keyword>
-    <abstract>This memo defines enhancements to the OSPF protocol that allow efficient operation over "demand circuits". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines enhancements to the OSPF protocol that allow efficient operation over "demand circuits". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1793"/>
+  <seriesInfo name="RFC" value="1793"/>
 </reference>

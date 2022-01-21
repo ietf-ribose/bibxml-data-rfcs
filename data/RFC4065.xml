@@ -1,15 +1,15 @@
 <reference anchor="RFC4065" target="https://www.rfc-editor.org/info/rfc4065">
   <front>
     <title>Instructions for Seamoby and Experimental Mobility Protocol IANA Allocations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4065"/>
-    <author fullname="J. Kempf"/>
+    <author fullname="J. Kempf" initials="J." surname="Kempf">
+      <organization/>
+    </author>
     <date year="2005" month="July"/>
     <workgroup>seamoby</workgroup>
-    <keyword>candidate access router discovery</keyword>
-    <keyword>card</keyword>
-    <keyword>context transfer protocol</keyword>
-    <keyword>CXTP</keyword>
-    <keyword>ICMP</keyword>
-    <abstract>The Seamoby Candidate Access Router Discovery (CARD) protocol and the Context Transfer Protocol (CXTP) are experimental protocols designed to accelerate IP handover between wireless access routers.  These protocols require IANA allocations for ICMP type and options, Stream Control Transmission Protocol (SCTP) Payload Protocol Identifiers, port numbers, and registries for certain formatted message options.  This document contains instructions to IANA about which allocations are required for the Seamoby protocols.  The ICMP subtype extension format for Seamoby has been additionally designed so that it can be utilized by other experimental mobility protocols, and the SCTP port number is also available for other experimental mobility protocols.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Seamoby Candidate Access Router Discovery (CARD) protocol and the Context Transfer Protocol (CXTP) are experimental protocols designed to accelerate IP handover between wireless access routers.  These protocols require IANA allocations for ICMP type and options, Stream Control Transmission Protocol (SCTP) Payload Protocol Identifiers, port numbers, and registries for certain formatted message options.  This document contains instructions to IANA about which allocations are required for the Seamoby protocols.  The ICMP subtype extension format for Seamoby has been additionally designed so that it can be utilized by other experimental mobility protocols, and the SCTP port number is also available for other experimental mobility protocols.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4065"/>
+  <seriesInfo name="RFC" value="4065"/>
 </reference>

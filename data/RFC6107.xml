@@ -1,15 +1,19 @@
 <reference anchor="RFC6107" target="https://www.rfc-editor.org/info/rfc6107">
   <front>
     <title>Procedures for Dynamically Signaled Hierarchical Label Switched Paths</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6107"/>
-    <author fullname="K. Shiomoto"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="K. Shiomoto" initials="K." surname="Shiomoto">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2011" month="February"/>
     <workgroup>ccamp</workgroup>
-    <keyword>TE links</keyword>
-    <keyword>Bundled links</keyword>
-    <keyword>GMPLS</keyword>
-    <keyword>dynamically provisioned networks</keyword>
-    <abstract>Label Switched Paths (LSPs) set up in Multiprotocol Label Switching (MPLS) or Generalized MPLS (GMPLS) networks can be used to form links to carry traffic in those networks or in other (client) networks. Protocol mechanisms already exist to facilitate the establishment of such LSPs and to bundle traffic engineering (TE) links to reduce the load on routing protocols. This document defines extensions to those mechanisms to support identifying the use to which such LSPs are to be put and to enable the TE link endpoints to be assigned addresses or unnumbered identifiers during the signaling process. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Label Switched Paths (LSPs) set up in Multiprotocol Label Switching (MPLS) or Generalized MPLS (GMPLS) networks can be used to form links to carry traffic in those networks or in other (client) networks.</t>
+      <t>Protocol mechanisms already exist to facilitate the establishment of such LSPs and to bundle traffic engineering (TE) links to reduce the load on routing protocols. This document defines extensions to those mechanisms to support identifying the use to which such LSPs are to be put and to enable the TE link endpoints to be assigned addresses or unnumbered identifiers during the signaling process. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6107"/>
+  <seriesInfo name="RFC" value="6107"/>
 </reference>

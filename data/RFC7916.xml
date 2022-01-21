@@ -1,21 +1,31 @@
 <reference anchor="RFC7916" target="https://www.rfc-editor.org/info/rfc7916">
   <front>
     <title>Operational Management of Loop-Free Alternates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7916"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="K. Raza"/>
-    <author fullname="M. Horneffer"/>
-    <author fullname="P. Sarkar"/>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="K. Raza" initials="K." surname="Raza">
+      <organization/>
+    </author>
+    <author fullname="M. Horneffer" initials="M." surname="Horneffer">
+      <organization/>
+    </author>
+    <author fullname="P. Sarkar" initials="P." surname="Sarkar">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>IGP</keyword>
-    <keyword>LFA</keyword>
-    <keyword>policy</keyword>
-    <keyword>FRR</keyword>
-    <keyword>fast reroute</keyword>
-    <keyword>network planning</keyword>
-    <abstract>Loop-Free Alternates (LFAs), as defined in RFC 5286, constitute an IP Fast Reroute (IP FRR) mechanism enabling traffic protection for IP traffic (and, by extension, MPLS LDP traffic). Following early deployment experiences, this document provides operational feedback on LFAs, highlights some limitations, and proposes a set of refinements to address those limitations. It also proposes required management specifications. This proposal is also applicable to remote-LFA solutions.</abstract>
+    <abstract>
+      <t>Loop-Free Alternates (LFAs), as defined in RFC 5286, constitute an IP Fast Reroute (IP FRR) mechanism enabling traffic protection for IP traffic (and, by extension, MPLS LDP traffic). Following early deployment experiences, this document provides operational feedback on LFAs, highlights some limitations, and proposes a set of refinements to address those limitations. It also proposes required management specifications.</t>
+      <t>This proposal is also applicable to remote-LFA solutions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7916"/>
+  <seriesInfo name="RFC" value="7916"/>
 </reference>

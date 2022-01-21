@@ -1,13 +1,18 @@
 <reference anchor="RFC8882" target="https://www.rfc-editor.org/info/rfc8882">
   <front>
     <title>DNS-Based Service Discovery (DNS-SD) Privacy and Security Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8882"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="D. Kaiser"/>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="D. Kaiser" initials="D." surname="Kaiser">
+      <organization/>
+    </author>
     <date year="2020" month="September"/>
     <workgroup>dnssd</workgroup>
-    <keyword>Multicast DNS</keyword>
-    <keyword>mDNS</keyword>
-    <abstract>DNS-SD (DNS-based Service Discovery) normally discloses information about devices offering and requesting services.  This information includes hostnames, network parameters, and possibly a further description of the corresponding service instance.  Especially when mobile devices engage in DNS-based Service Discovery at a public hotspot, serious privacy problems arise.  We analyze the requirements of a privacy-respecting discovery service.</abstract>
+    <abstract>
+      <t>DNS-SD (DNS-based Service Discovery) normally discloses information about devices offering and requesting services.  This information includes hostnames, network parameters, and possibly a further description of the corresponding service instance.  Especially when mobile devices engage in DNS-based Service Discovery at a public hotspot, serious privacy problems arise.  We analyze the requirements of a privacy-respecting discovery service.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8882"/>
+  <seriesInfo name="RFC" value="8882"/>
 </reference>

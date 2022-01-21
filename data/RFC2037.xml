@@ -1,16 +1,18 @@
 <reference anchor="RFC2037" target="https://www.rfc-editor.org/info/rfc2037">
   <front>
     <title>Entity MIB using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2037"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="A. Bierman"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>entmib</workgroup>
-    <keyword>ENTITY-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2037"/>
+  <seriesInfo name="RFC" value="2037"/>
 </reference>

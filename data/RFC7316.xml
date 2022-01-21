@@ -1,14 +1,27 @@
 <reference anchor="RFC7316" target="https://www.rfc-editor.org/info/rfc7316">
   <front>
     <title>The Session Initiation Protocol (SIP) P-Private-Network-Indication Private Header (P-Header)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7316"/>
-    <author fullname="J. van Elburg"/>
-    <author fullname="K. Drage"/>
-    <author fullname="M. Ohsugi"/>
-    <author fullname="S. Schubert"/>
-    <author fullname="K. Arai"/>
+    <author fullname="J. van Elburg" initials="J." surname="van">
+      <organization/>
+    </author>
+    <author fullname="K. Drage" initials="K." surname="Drage">
+      <organization/>
+    </author>
+    <author fullname="M. Ohsugi" initials="M." surname="Ohsugi">
+      <organization/>
+    </author>
+    <author fullname="S. Schubert" initials="S." surname="Schubert">
+      <organization/>
+    </author>
+    <author fullname="K. Arai" initials="K." surname="Arai">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document specifies the SIP P-Private-Network-Indication P-header used by the 3GPP.  The P-Private-Network-Indication indicates that the message is part of the message traffic of a private network and identifies that private network.  A private network indication allows nodes to treat private network traffic according to a different set of rules than the set applicable to public network traffic.</abstract>
+    <abstract>
+      <t>This document specifies the SIP P-Private-Network-Indication P-header used by the 3GPP.  The P-Private-Network-Indication indicates that the message is part of the message traffic of a private network and identifies that private network.  A private network indication allows nodes to treat private network traffic according to a different set of rules than the set applicable to public network traffic.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7316"/>
+  <seriesInfo name="RFC" value="7316"/>
 </reference>

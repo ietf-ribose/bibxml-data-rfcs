@@ -1,21 +1,21 @@
 <reference anchor="RFC2257" target="https://www.rfc-editor.org/info/rfc2257">
   <front>
     <title>Agent Extensibility (AgentX) Protocol Version 1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2257"/>
-    <author fullname="M. Daniele"/>
-    <author fullname="B. Wijnen"/>
-    <author fullname="D. Francisco"/>
+    <author fullname="M. Daniele" initials="M." surname="Daniele">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
+    <author fullname="D. Francisco" initials="D." surname="Francisco">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>agentx</workgroup>
-    <keyword>AGENTX</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This memo defines a standardized framework for extensible SNMP agents.  It defines processing entities called master agents and subagents, a protocol (AgentX) used to communicate between them, and the elements of procedure by which the extensible agent processes SNMP protocol messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a standardized framework for extensible SNMP agents.  It defines processing entities called master agents and subagents, a protocol (AgentX) used to communicate between them, and the elements of procedure by which the extensible agent processes SNMP protocol messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2257"/>
+  <seriesInfo name="RFC" value="2257"/>
 </reference>

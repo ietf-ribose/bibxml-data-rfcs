@@ -1,19 +1,21 @@
 <reference anchor="RFC6464" target="https://www.rfc-editor.org/info/rfc6464">
   <front>
     <title>A Real-time Transport Protocol (RTP) Header Extension for Client-to-Mixer Audio Level Indication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6464"/>
-    <author fullname="J. Lennox"/>
-    <author fullname="E. Ivov"/>
-    <author fullname="E. Marocco"/>
+    <author fullname="J. Lennox" initials="J." surname="Lennox">
+      <organization/>
+    </author>
+    <author fullname="E. Ivov" initials="E." surname="Ivov">
+      <organization/>
+    </author>
+    <author fullname="E. Marocco" initials="E." surname="Marocco">
+      <organization/>
+    </author>
     <date year="2011" month="December"/>
     <workgroup>avtext</workgroup>
-    <keyword>ssrc-audio-level</keyword>
-    <keyword>ssrc</keyword>
-    <keyword>speech</keyword>
-    <keyword>sound</keyword>
-    <keyword>energy</keyword>
-    <keyword>conference</keyword>
-    <keyword>bridge</keyword>
-    <abstract>This document defines a mechanism by which packets of Real-time Transport Protocol (RTP) audio streams can indicate, in an RTP header extension, the audio level of the audio sample carried in the RTP packet.  In large conferences, this can reduce the load on an audio mixer or other middlebox that wants to forward only a few of the loudest audio streams, without requiring it to decode and measure every stream that is received. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a mechanism by which packets of Real-time Transport Protocol (RTP) audio streams can indicate, in an RTP header extension, the audio level of the audio sample carried in the RTP packet.  In large conferences, this can reduce the load on an audio mixer or other middlebox that wants to forward only a few of the loudest audio streams, without requiring it to decode and measure every stream that is received. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6464"/>
+  <seriesInfo name="RFC" value="6464"/>
 </reference>

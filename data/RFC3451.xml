@@ -1,20 +1,30 @@
 <reference anchor="RFC3451" target="https://www.rfc-editor.org/info/rfc3451">
   <front>
     <title>Layered Coding Transport (LCT) Building Block</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3451"/>
-    <author fullname="M. Luby"/>
-    <author fullname="J. Gemmell"/>
-    <author fullname="L. Vicisano"/>
-    <author fullname="L. Rizzo"/>
-    <author fullname="M. Handley"/>
-    <author fullname="J. Crowcroft"/>
+    <author fullname="M. Luby" initials="M." surname="Luby">
+      <organization/>
+    </author>
+    <author fullname="J. Gemmell" initials="J." surname="Gemmell">
+      <organization/>
+    </author>
+    <author fullname="L. Vicisano" initials="L." surname="Vicisano">
+      <organization/>
+    </author>
+    <author fullname="L. Rizzo" initials="L." surname="Rizzo">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="J. Crowcroft" initials="J." surname="Crowcroft">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>rmt</workgroup>
-    <keyword>content</keyword>
-    <keyword>stream</keyword>
-    <keyword>delivery</keyword>
-    <keyword>multicast</keyword>
-    <keyword>internet protocol</keyword>
-    <abstract>Layered Coding Transport (LCT) provides transport level support for reliable content delivery and stream delivery protocols.  LCT is specifically designed to support protocols using IP multicast, but also provides support to protocols that use unicast.  LCT is compatible with congestion control that provides multiple rate delivery to receivers and is also compatible with coding techniques that provide reliable delivery of content.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Layered Coding Transport (LCT) provides transport level support for reliable content delivery and stream delivery protocols.  LCT is specifically designed to support protocols using IP multicast, but also provides support to protocols that use unicast.  LCT is compatible with congestion control that provides multiple rate delivery to receivers and is also compatible with coding techniques that provide reliable delivery of content.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3451"/>
+  <seriesInfo name="RFC" value="3451"/>
 </reference>

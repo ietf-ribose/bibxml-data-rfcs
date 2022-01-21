@@ -1,15 +1,18 @@
 <reference anchor="RFC3041" target="https://www.rfc-editor.org/info/rfc3041">
   <front>
     <title>Privacy Extensions for Stateless Address Autoconfiguration in IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3041"/>
-    <author fullname="T. Narten"/>
-    <author fullname="R. Draves"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="R. Draves" initials="R." surname="Draves">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>interface</keyword>
-    <keyword>identifier</keyword>
-    <abstract>This document describes an extension to IPv6 stateless address autoconfiguration for interfaces whose interface identifier is derived from an IEEE identifier. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extension to IPv6 stateless address autoconfiguration for interfaces whose interface identifier is derived from an IEEE identifier. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3041"/>
+  <seriesInfo name="RFC" value="3041"/>
 </reference>

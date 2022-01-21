@@ -1,17 +1,28 @@
 <reference anchor="RFC4567" target="https://www.rfc-editor.org/info/rfc4567">
   <front>
     <title>Key Management Extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4567"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="F. Lindholm"/>
-    <author fullname="M. Naslund"/>
-    <author fullname="K. Norrman"/>
-    <author fullname="E. Carrara"/>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="F. Lindholm" initials="F." surname="Lindholm">
+      <organization/>
+    </author>
+    <author fullname="M. Naslund" initials="M." surname="Naslund">
+      <organization/>
+    </author>
+    <author fullname="K. Norrman" initials="K." surname="Norrman">
+      <organization/>
+    </author>
+    <author fullname="E. Carrara" initials="E." surname="Carrara">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>mmusic</workgroup>
-    <keyword>key management protocol</keyword>
-    <keyword>multimedia internet keying</keyword>
-    <keyword>mikey</keyword>
-    <abstract>This document defines general extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP) to carry messages, as specified by a key management protocol, in order to secure the media. These extensions are presented as a framework, to be used by one or more key management protocols. As such, their use is meaningful only when complemented by an appropriate key management protocol. General guidelines are also given on how the framework should be used together with SIP and RTSP. The usage with the Multimedia Internet KEYing (MIKEY) key management protocol is also defined. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines general extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP) to carry messages, as specified by a key management protocol, in order to secure the media. These extensions are presented as a framework, to be used by one or more key management protocols. As such, their use is meaningful only when complemented by an appropriate key management protocol.</t>
+      <t>General guidelines are also given on how the framework should be used together with SIP and RTSP. The usage with the Multimedia Internet KEYing (MIKEY) key management protocol is also defined. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4567"/>
+  <seriesInfo name="RFC" value="4567"/>
 </reference>

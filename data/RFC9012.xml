@@ -1,14 +1,25 @@
 <reference anchor="RFC9012" target="https://www.rfc-editor.org/info/rfc9012">
   <front>
     <title>The BGP Tunnel Encapsulation Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9012"/>
-    <author fullname="K. Patel"/>
-    <author fullname="G. Van de Velde"/>
-    <author fullname="S. Sangli"/>
-    <author fullname="J. Scudder"/>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="G. Van de Velde" initials="G." surname="Van">
+      <organization/>
+    </author>
+    <author fullname="S. Sangli" initials="S." surname="Sangli">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP</keyword>
-    <abstract>This document defines a BGP path attribute known as the "Tunnel Encapsulation attribute", which can be used with BGP UPDATEs of various Subsequent Address Family Identifiers (SAFIs) to provide information needed to create tunnels and their corresponding encapsulation headers. It provides encodings for a number of tunnel types, along with procedures for choosing between alternate tunnels and routing packets into tunnels. This document obsoletes RFC 5512, which provided an earlier definition of the Tunnel Encapsulation attribute. RFC 5512 was never deployed in production. Since RFC 5566 relies on RFC 5512, it is likewise obsoleted. This document updates RFC 5640 by indicating that the Load-Balancing Block sub-TLV may be included in any Tunnel Encapsulation attribute where load balancing is desired.</abstract>
+    <abstract>
+      <t>This document defines a BGP path attribute known as the "Tunnel Encapsulation attribute", which can be used with BGP UPDATEs of various Subsequent Address Family Identifiers (SAFIs) to provide information needed to create tunnels and their corresponding encapsulation headers. It provides encodings for a number of tunnel types, along with procedures for choosing between alternate tunnels and routing packets into tunnels.</t>
+      <t>This document obsoletes RFC 5512, which provided an earlier definition of the Tunnel Encapsulation attribute. RFC 5512 was never deployed in production. Since RFC 5566 relies on RFC 5512, it is likewise obsoleted. This document updates RFC 5640 by indicating that the Load-Balancing Block sub-TLV may be included in any Tunnel Encapsulation attribute where load balancing is desired.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9012"/>
+  <seriesInfo name="RFC" value="9012"/>
 </reference>

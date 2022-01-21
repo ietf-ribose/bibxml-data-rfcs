@@ -1,13 +1,18 @@
 <reference anchor="RFC8632" target="https://www.rfc-editor.org/info/rfc8632">
   <front>
     <title>A YANG Data Model for Alarm Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8632"/>
-    <author fullname="S. Vallin"/>
-    <author fullname="M. Bjorklund"/>
+    <author fullname="S. Vallin" initials="S." surname="Vallin">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
     <date year="2019" month="September"/>
     <workgroup>ccamp</workgroup>
-    <keyword>Monitoring</keyword>
-    <keyword>Fault Management</keyword>
-    <abstract>This document defines a YANG module for alarm management.  It includes functions for alarm-list management, alarm shelving, and notifications to inform management systems.  There are also operations to manage the operator state of an alarm and administrative alarm procedures.  The module carefully maps to relevant alarm standards.</abstract>
+    <abstract>
+      <t>This document defines a YANG module for alarm management.  It includes functions for alarm-list management, alarm shelving, and notifications to inform management systems.  There are also operations to manage the operator state of an alarm and administrative alarm procedures.  The module carefully maps to relevant alarm standards.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8632"/>
+  <seriesInfo name="RFC" value="8632"/>
 </reference>

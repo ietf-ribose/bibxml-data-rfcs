@@ -1,18 +1,21 @@
 <reference anchor="RFC7572" target="https://www.rfc-editor.org/info/rfc7572">
   <front>
     <title>Interworking between the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP): Instant Messaging</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7572"/>
-    <author fullname="P. Saint-Andre"/>
-    <author fullname="A. Houri"/>
-    <author fullname="J. Hildebrand"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
+    <author fullname="A. Houri" initials="A." surname="Houri">
+      <organization/>
+    </author>
+    <author fullname="J. Hildebrand" initials="J." surname="Hildebrand">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
     <workgroup>stox</workgroup>
-    <keyword>XMPP</keyword>
-    <keyword>Jabber</keyword>
-    <keyword>SIP</keyword>
-    <keyword>SIMPLE</keyword>
-    <keyword>IM</keyword>
-    <keyword>Instant Message</keyword>
-    <abstract>This document defines a bidirectional protocol mapping for the exchange of single instant messages between the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP).</abstract>
+    <abstract>
+      <t>This document defines a bidirectional protocol mapping for the exchange of single instant messages between the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7572"/>
+  <seriesInfo name="RFC" value="7572"/>
 </reference>

@@ -1,17 +1,15 @@
 <reference anchor="RFC6766" target="https://www.rfc-editor.org/info/rfc6766">
   <front>
     <title>xDSL Multi-Pair Bonding Using Time-Division Inverse Multiplexing (G.Bond/TDIM) MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6766"/>
-    <author fullname="E. Beili"/>
+    <author fullname="E. Beili" initials="E." surname="Beili">
+      <organization/>
+    </author>
     <date year="2013" month="February"/>
     <workgroup>adslmib</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Management Information Base</keyword>
-    <keyword>xDSL bonding</keyword>
-    <keyword>aggregation</keyword>
-    <keyword>G.998.3</keyword>
-    <abstract>This document defines a Management Information Base (MIB) module for use with network management protocols in TCP/IP-based internets.  This document proposes an extension to the GBOND-MIB module with a set of objects for managing multi-pair bonded xDSL interfaces using Time-Division Inverse Multiplexing (TDIM), as defined in ITU-T Recommendation G.998.3.</abstract>
+    <abstract>
+      <t>This document defines a Management Information Base (MIB) module for use with network management protocols in TCP/IP-based internets.  This document proposes an extension to the GBOND-MIB module with a set of objects for managing multi-pair bonded xDSL interfaces using Time-Division Inverse Multiplexing (TDIM), as defined in ITU-T Recommendation G.998.3.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6766"/>
+  <seriesInfo name="RFC" value="6766"/>
 </reference>

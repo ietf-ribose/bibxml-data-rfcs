@@ -1,15 +1,19 @@
 <reference anchor="RFC7924" target="https://www.rfc-editor.org/info/rfc7924">
   <front>
     <title>Transport Layer Security (TLS) Cached Information Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7924"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>tls</workgroup>
-    <keyword>TLS Cached Information</keyword>
-    <keyword>TLS Cached Info</keyword>
-    <keyword>TLS Extension</keyword>
-    <keyword>TLS Optimization</keyword>
-    <abstract>Transport Layer Security (TLS) handshakes often include fairly static information, such as the server certificate and a list of trusted certification authorities (CAs). This information can be of considerable size, particularly if the server certificate is bundled with a complete certificate chain (i.e., the certificates of intermediate CAs up to the root CA). This document defines an extension that allows a TLS client to inform a server of cached information, thereby enabling the server to omit already available information.</abstract>
+    <abstract>
+      <t>Transport Layer Security (TLS) handshakes often include fairly static information, such as the server certificate and a list of trusted certification authorities (CAs). This information can be of considerable size, particularly if the server certificate is bundled with a complete certificate chain (i.e., the certificates of intermediate CAs up to the root CA).</t>
+      <t>This document defines an extension that allows a TLS client to inform a server of cached information, thereby enabling the server to omit already available information.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7924"/>
+  <seriesInfo name="RFC" value="7924"/>
 </reference>

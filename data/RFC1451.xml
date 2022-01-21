@@ -1,16 +1,24 @@
 <reference anchor="RFC1451" target="https://www.rfc-editor.org/info/rfc1451">
   <front>
     <title>Manager-to-Manager Management Information Base</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1451"/>
-    <author fullname="J. Case"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="M. Rose"/>
-    <author fullname="S. Waldbusser"/>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
     <date year="1993" month="April"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>SNMP</keyword>
-    <keyword>Management</keyword>
-    <keyword>Framework</keyword>
-    <abstract>It is the purpose of this document to define managed objects which describe the behavior of a SNMPv2 entity acting in both a manager role and an agent role. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>It is the purpose of this document to define managed objects which describe the behavior of a SNMPv2 entity acting in both a manager role and an agent role. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1451"/>
+  <seriesInfo name="RFC" value="1451"/>
 </reference>

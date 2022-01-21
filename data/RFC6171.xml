@@ -1,12 +1,15 @@
 <reference anchor="RFC6171" target="https://www.rfc-editor.org/info/rfc6171">
   <front>
     <title>The Lightweight Directory Access Protocol (LDAP) Don't Use Copy Control</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6171"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>x.511</keyword>
-    <keyword>dontusecopy</keyword>
-    <abstract>This document defines the Lightweight Directory Access Protocol (LDAP) Don't Use Copy control extension, which allows a client to specify that copied information should not be used in providing service.  This control is based upon the X.511 dontUseCopy service control option. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Lightweight Directory Access Protocol (LDAP) Don't Use Copy control extension, which allows a client to specify that copied information should not be used in providing service.  This control is based upon the X.511 dontUseCopy service control option. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6171"/>
+  <seriesInfo name="RFC" value="6171"/>
 </reference>

@@ -1,19 +1,30 @@
 <reference anchor="RFC7494" target="https://www.rfc-editor.org/info/rfc7494">
   <front>
     <title>IEEE 802.11 Medium Access Control (MAC) Profile for Control and Provisioning of Wireless Access Points (CAPWAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7494"/>
-    <author fullname="C. Shao"/>
-    <author fullname="H. Deng"/>
-    <author fullname="R. Pazhyannur"/>
-    <author fullname="F. Bari"/>
-    <author fullname="R. Zhang"/>
-    <author fullname="S. Matsushima"/>
+    <author fullname="C. Shao" initials="C." surname="Shao">
+      <organization/>
+    </author>
+    <author fullname="H. Deng" initials="H." surname="Deng">
+      <organization/>
+    </author>
+    <author fullname="R. Pazhyannur" initials="R." surname="Pazhyannur">
+      <organization/>
+    </author>
+    <author fullname="F. Bari" initials="F." surname="Bari">
+      <organization/>
+    </author>
+    <author fullname="R. Zhang" initials="R." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="S. Matsushima" initials="S." surname="Matsushima">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
     <workgroup>opsawg</workgroup>
-    <keyword>CAPWAP</keyword>
-    <keyword>MAC Profile</keyword>
-    <keyword>Encryption</keyword>
-    <keyword>IEEE 802.11</keyword>
-    <abstract>The Control and Provisioning of Wireless Access Points (CAPWAP) protocol binding for IEEE 802.11 defines two Medium Access Control (MAC) modes for IEEE 802.11 Wireless Transmission Points (WTPs): Split and Local MAC.  In the Split MAC mode, the partitioning of encryption/decryption functions is not clearly defined.  In the Split MAC mode description, IEEE 802.11 encryption is specified as located in either the Access Controller (AC) or the WTP, with no clear way for the AC to inform the WTP of where the encryption functionality should be located.  This leads to interoperability issues, especially when the AC and WTP come from different vendors.  To prevent interoperability issues, this specification defines an IEEE 802.11 MAC Profile message element in which each profile specifies an unambiguous division of encryption functionality between the WTP and AC.</abstract>
+    <abstract>
+      <t>The Control and Provisioning of Wireless Access Points (CAPWAP) protocol binding for IEEE 802.11 defines two Medium Access Control (MAC) modes for IEEE 802.11 Wireless Transmission Points (WTPs): Split and Local MAC.  In the Split MAC mode, the partitioning of encryption/decryption functions is not clearly defined.  In the Split MAC mode description, IEEE 802.11 encryption is specified as located in either the Access Controller (AC) or the WTP, with no clear way for the AC to inform the WTP of where the encryption functionality should be located.  This leads to interoperability issues, especially when the AC and WTP come from different vendors.  To prevent interoperability issues, this specification defines an IEEE 802.11 MAC Profile message element in which each profile specifies an unambiguous division of encryption functionality between the WTP and AC.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7494"/>
+  <seriesInfo name="RFC" value="7494"/>
 </reference>

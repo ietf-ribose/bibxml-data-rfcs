@@ -1,11 +1,19 @@
 <reference anchor="RFC4789" target="https://www.rfc-editor.org/info/rfc4789">
   <front>
     <title>Simple Network Management Protocol (SNMP) over IEEE 802 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4789"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="T. Jeffree"/>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="T. Jeffree" initials="T." surname="Jeffree">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document specifies how Simple Network Management Protocol (SNMP) messages can be transmitted directly over IEEE 802 networks. This document obsoletes RFC 1089. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how Simple Network Management Protocol (SNMP) messages can be transmitted directly over IEEE 802 networks.</t>
+      <t>This document obsoletes RFC 1089. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4789"/>
+  <seriesInfo name="RFC" value="4789"/>
 </reference>

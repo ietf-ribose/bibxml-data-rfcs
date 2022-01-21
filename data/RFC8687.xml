@@ -1,17 +1,22 @@
 <reference anchor="RFC8687" target="https://www.rfc-editor.org/info/rfc8687">
   <front>
     <title>OSPF Routing with Cross-Address Family Traffic Engineering Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8687"/>
-    <author fullname="A. Smirnov"/>
-    <author fullname="A. Retana"/>
-    <author fullname="M. Barnes"/>
+    <author fullname="A. Smirnov" initials="A." surname="Smirnov">
+      <organization/>
+    </author>
+    <author fullname="A. Retana" initials="A." surname="Retana">
+      <organization/>
+    </author>
+    <author fullname="M. Barnes" initials="M." surname="Barnes">
+      <organization/>
+    </author>
     <date year="2019" month="November"/>
     <workgroup>lsr</workgroup>
-    <keyword>OSPF</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>TE</keyword>
-    <keyword>MPLS</keyword>
-    <abstract>When using Traffic Engineering (TE) in a dual-stack IPv4/IPv6 network, the Multiprotocol Label Switching (MPLS) TE Label Switched Path (LSP) infrastructure may be duplicated, even if the destination IPv4 and IPv6 addresses belong to the same remote router. In order to achieve an integrated MPLS TE LSP infrastructure, OSPF routes must be computed over MPLS TE tunnels created using information propagated in another OSPF instance. This issue is solved by advertising cross-address family (X-AF) OSPF TE information. This document describes an update to RFC 5786 that allows for the easy identification of a router's local X-AF IP addresses.</abstract>
+    <abstract>
+      <t>When using Traffic Engineering (TE) in a dual-stack IPv4/IPv6 network, the Multiprotocol Label Switching (MPLS) TE Label Switched Path (LSP) infrastructure may be duplicated, even if the destination IPv4 and IPv6 addresses belong to the same remote router. In order to achieve an integrated MPLS TE LSP infrastructure, OSPF routes must be computed over MPLS TE tunnels created using information propagated in another OSPF instance. This issue is solved by advertising cross-address family (X-AF) OSPF TE information.</t>
+      <t>This document describes an update to RFC 5786 that allows for the easy identification of a router's local X-AF IP addresses.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8687"/>
+  <seriesInfo name="RFC" value="8687"/>
 </reference>

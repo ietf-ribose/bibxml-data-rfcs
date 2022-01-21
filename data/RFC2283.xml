@@ -1,20 +1,24 @@
 <reference anchor="RFC2283" target="https://www.rfc-editor.org/info/rfc2283">
   <front>
     <title>Multiprotocol Extensions for BGP-4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2283"/>
-    <author fullname="T. Bates"/>
-    <author fullname="R. Chandra"/>
-    <author fullname="D. Katz"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="T. Bates" initials="T." surname="Bates">
+      <organization/>
+    </author>
+    <author fullname="R. Chandra" initials="R." surname="Chandra">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1998" month="February"/>
     <workgroup>idr</workgroup>
-    <keyword>MEXT-BGP4</keyword>
-    <keyword>Border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <keyword>router</keyword>
-    <keyword>network</keyword>
-    <keyword>layer</keyword>
-    <abstract>This document defines extensions to BGP-4 to enable it to carry routing information for multiple Network Layer protocols (e.g., IPv6, IPX, etc...).  The extensions are backward compatible - a router that supports the extensions can interoperate with a router that doesn't support the extensions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extensions to BGP-4 to enable it to carry routing information for multiple Network Layer protocols (e.g., IPv6, IPX, etc...).  The extensions are backward compatible - a router that supports the extensions can interoperate with a router that doesn't support the extensions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2283"/>
+  <seriesInfo name="RFC" value="2283"/>
 </reference>

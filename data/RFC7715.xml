@@ -1,14 +1,27 @@
 <reference anchor="RFC7715" target="https://www.rfc-editor.org/info/rfc7715">
   <front>
     <title>Multipoint LDP (mLDP) Node Protection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7715"/>
-    <author fullname="IJ. Wijnands"/>
-    <author fullname="K. Raza"/>
-    <author fullname="A. Atlas"/>
-    <author fullname="J. Tantsura"/>
-    <author fullname="Q. Zhao"/>
+    <author fullname="IJ. Wijnands" initials="IJ." surname="Wijnands">
+      <organization/>
+    </author>
+    <author fullname="K. Raza" initials="K." surname="Raza">
+      <organization/>
+    </author>
+    <author fullname="A. Atlas" initials="A." surname="Atlas">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
     <date year="2016" month="January"/>
     <workgroup>mpls</workgroup>
-    <abstract>This document describes procedures to support node protection for Point-to-Multipoint and Multipoint-to-Multipoint Label Switched Paths (P2MP and MP2MP LSPs) that have been built by the Multipoint Label Distribution Protocol (mLDP).  In order to protect a node N, the Point of Local Repair (PLR) Label Switching Router (LSR) of N must learn the Merge Point (MPT) LSR(s) of node N such that traffic can be redirected to them in case node N fails.  Redirecting the traffic around the failed node N depends on existing Point-to-Point (P2P) Label Switched Paths (LSPs).  The pre-established LSPs originate from the PLR LSR and terminate on the MPT LSRs while bypassing LSR N.</abstract>
+    <abstract>
+      <t>This document describes procedures to support node protection for Point-to-Multipoint and Multipoint-to-Multipoint Label Switched Paths (P2MP and MP2MP LSPs) that have been built by the Multipoint Label Distribution Protocol (mLDP).  In order to protect a node N, the Point of Local Repair (PLR) Label Switching Router (LSR) of N must learn the Merge Point (MPT) LSR(s) of node N such that traffic can be redirected to them in case node N fails.  Redirecting the traffic around the failed node N depends on existing Point-to-Point (P2P) Label Switched Paths (LSPs).  The pre-established LSPs originate from the PLR LSR and terminate on the MPT LSRs while bypassing LSR N.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7715"/>
+  <seriesInfo name="RFC" value="7715"/>
 </reference>

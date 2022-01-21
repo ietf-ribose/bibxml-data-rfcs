@@ -1,15 +1,21 @@
 <reference anchor="RFC7392" target="https://www.rfc-editor.org/info/rfc7392">
   <front>
     <title>Explicit Path Routing for Dynamic Multi-Segment Pseudowires</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7392"/>
-    <author fullname="P. Dutta"/>
-    <author fullname="M. Bocci"/>
-    <author fullname="L. Martini"/>
+    <author fullname="P. Dutta" initials="P." surname="Dutta">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>pwe3</workgroup>
-    <keyword>Pseudowire</keyword>
-    <keyword>MS-PW</keyword>
-    <keyword>explicit route</keyword>
-    <abstract>When set up through an explicit path, dynamic Multi-Segment Pseudowires (MS-PWs) may be required to provide a simple solution for 1:1 protection with diverse primary and backup MS-PWs for a service, or to enable controlled signaling (strict or loose) for special MS-PWs.  This document specifies the extensions and procedures required to enable dynamic MS-PWs to be established along explicit paths.</abstract>
+    <abstract>
+      <t>When set up through an explicit path, dynamic Multi-Segment Pseudowires (MS-PWs) may be required to provide a simple solution for 1:1 protection with diverse primary and backup MS-PWs for a service, or to enable controlled signaling (strict or loose) for special MS-PWs.  This document specifies the extensions and procedures required to enable dynamic MS-PWs to be established along explicit paths.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7392"/>
+  <seriesInfo name="RFC" value="7392"/>
 </reference>

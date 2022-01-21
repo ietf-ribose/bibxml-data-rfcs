@@ -1,18 +1,32 @@
 <reference anchor="RFC1987" target="https://www.rfc-editor.org/info/rfc1987">
   <front>
     <title>Ipsilon's General Switch Management Protocol Specification Version 1.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1987"/>
-    <author fullname="P. Newman"/>
-    <author fullname="W. Edwards"/>
-    <author fullname="R. Hinden"/>
-    <author fullname="E. Hoffman"/>
-    <author fullname="F. Ching Liaw"/>
-    <author fullname="T. Lyon"/>
-    <author fullname="G. Minshall"/>
+    <author fullname="P. Newman" initials="P." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="W. Edwards" initials="W." surname="Edwards">
+      <organization/>
+    </author>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
+    <author fullname="E. Hoffman" initials="E." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="F. Ching Liaw" initials="F." surname="Ching">
+      <organization/>
+    </author>
+    <author fullname="T. Lyon" initials="T." surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="G. Minshall" initials="G." surname="Minshall">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
-    <keyword>GSMP</keyword>
-    <keyword>ATM</keyword>
-    <keyword>switch</keyword>
-    <abstract>The General Switch Management Protocol (GSMP), is a general purpose protocol to control an ATM switch.  GSMP allows a controller to establish and release connections across the switch; add and delete leaves on a point-to-multipoint connection; manage switch ports; request configuration information; and request statistics.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The General Switch Management Protocol (GSMP), is a general purpose protocol to control an ATM switch.  GSMP allows a controller to establish and release connections across the switch; add and delete leaves on a point-to-multipoint connection; manage switch ports; request configuration information; and request statistics.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1987"/>
+  <seriesInfo name="RFC" value="1987"/>
 </reference>

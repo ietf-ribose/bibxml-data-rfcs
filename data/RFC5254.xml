@@ -1,19 +1,21 @@
 <reference anchor="RFC5254" target="https://www.rfc-editor.org/info/rfc5254">
   <front>
     <title>Requirements for Multi-Segment Pseudowire Emulation Edge-to-Edge (PWE3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5254"/>
-    <author fullname="N. Bitar"/>
-    <author fullname="M. Bocci"/>
-    <author fullname="L. Martini"/>
+    <author fullname="N. Bitar" initials="N." surname="Bitar">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>pwe3</workgroup>
-    <keyword>Pseudowire</keyword>
-    <keyword>PWE3</keyword>
-    <keyword>multi-segment</keyword>
-    <keyword>MS-PW</keyword>
-    <keyword>SS-PW</keyword>
-    <keyword>S-PE</keyword>
-    <keyword>T-PE</keyword>
-    <abstract>This document describes the necessary requirements to allow a service provider to extend the reach of pseudowires across multiple domains.  These domains can be autonomous systems under one provider administrative control, IGP areas in one autonomous system, different autonomous systems under the administrative control of two or more service providers, or administratively established pseudowire domains.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the necessary requirements to allow a service provider to extend the reach of pseudowires across multiple domains.  These domains can be autonomous systems under one provider administrative control, IGP areas in one autonomous system, different autonomous systems under the administrative control of two or more service providers, or administratively established pseudowire domains.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5254"/>
+  <seriesInfo name="RFC" value="5254"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC1483" target="https://www.rfc-editor.org/info/rfc1483">
   <front>
     <title>Multiprotocol Encapsulation over ATM Adaptation Layer 5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1483"/>
-    <author fullname="J. Heinanen"/>
+    <author fullname="J. Heinanen" initials="J." surname="Heinanen">
+      <organization/>
+    </author>
     <date year="1993" month="July"/>
     <workgroup>ipatm</workgroup>
-    <keyword>ATM-ENCAP</keyword>
-    <keyword>IP</keyword>
-    <keyword>AAL5</keyword>
-    <keyword>over</keyword>
-    <abstract>This memo describes two encapsulations methods for carrying network interconnect traffic over ATM AAL5. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes two encapsulations methods for carrying network interconnect traffic over ATM AAL5. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1483"/>
+  <seriesInfo name="RFC" value="1483"/>
 </reference>

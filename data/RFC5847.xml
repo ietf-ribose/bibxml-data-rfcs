@@ -1,18 +1,30 @@
 <reference anchor="RFC5847" target="https://www.rfc-editor.org/info/rfc5847">
   <front>
     <title>Heartbeat Mechanism for Proxy Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5847"/>
-    <author fullname="V. Devarapalli"/>
-    <author fullname="R. Koodli"/>
-    <author fullname="H. Lim"/>
-    <author fullname="N. Kant"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="J. Laganier"/>
+    <author fullname="V. Devarapalli" initials="V." surname="Devarapalli">
+      <organization/>
+    </author>
+    <author fullname="R. Koodli" initials="R." surname="Koodli">
+      <organization/>
+    </author>
+    <author fullname="H. Lim" initials="H." surname="Lim">
+      <organization/>
+    </author>
+    <author fullname="N. Kant" initials="N." surname="Kant">
+      <organization/>
+    </author>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="J. Laganier" initials="J." surname="Laganier">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>netlmm</workgroup>
-    <keyword>Node Reachability</keyword>
-    <keyword>Restarts</keyword>
-    <keyword>Failure Detection</keyword>
-    <abstract>Proxy Mobile IPv6 (PMIPv6) is a network-based mobility management protocol.  The mobility entities involved in the Proxy Mobile IPv6 protocol, the mobile access gateway (MAG) and the local mobility anchor (LMA), set up tunnels dynamically to manage mobility for a mobile node within the Proxy Mobile IPv6 domain.  This document describes a heartbeat mechanism between the MAG and the LMA to detect failures, quickly inform peers in the event of a recovery from node failures, and allow a peer to take appropriate action. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>Proxy Mobile IPv6 (PMIPv6) is a network-based mobility management protocol.  The mobility entities involved in the Proxy Mobile IPv6 protocol, the mobile access gateway (MAG) and the local mobility anchor (LMA), set up tunnels dynamically to manage mobility for a mobile node within the Proxy Mobile IPv6 domain.  This document describes a heartbeat mechanism between the MAG and the LMA to detect failures, quickly inform peers in the event of a recovery from node failures, and allow a peer to take appropriate action. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5847"/>
+  <seriesInfo name="RFC" value="5847"/>
 </reference>

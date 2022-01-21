@@ -1,15 +1,21 @@
 <reference anchor="RFC6442" target="https://www.rfc-editor.org/info/rfc6442">
   <front>
     <title>Location Conveyance for the Session Initiation Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6442"/>
-    <author fullname="J. Polk"/>
-    <author fullname="B. Rosen"/>
-    <author fullname="J. Peterson"/>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="B. Rosen" initials="B." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
     <date year="2011" month="December"/>
     <workgroup>sipcore</workgroup>
-    <keyword>sip</keyword>
-    <keyword>geographic location</keyword>
-    <keyword>location target</keyword>
-    <abstract>This document defines an extension to the Session Initiation Protocol (SIP) to convey geographic location information from one SIP entity to another SIP entity.  The SIP extension covers end-to-end conveyance as well as location-based routing, where SIP intermediaries make routing decisions based upon the location of the Location Target. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an extension to the Session Initiation Protocol (SIP) to convey geographic location information from one SIP entity to another SIP entity.  The SIP extension covers end-to-end conveyance as well as location-based routing, where SIP intermediaries make routing decisions based upon the location of the Location Target. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6442"/>
+  <seriesInfo name="RFC" value="6442"/>
 </reference>

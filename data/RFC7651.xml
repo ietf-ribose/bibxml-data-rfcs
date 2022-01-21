@@ -1,17 +1,26 @@
 <reference anchor="RFC7651" target="https://www.rfc-editor.org/info/rfc7651">
   <front>
     <title>3GPP IP Multimedia Subsystems (IMS) Option for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7651"/>
-    <author fullname="A. Dodd-Noble"/>
-    <author fullname="S. Gundavelli"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="F. Baboescu"/>
-    <author fullname="B. Weis"/>
+    <author fullname="A. Dodd-Noble" initials="A." surname="Dodd-Noble">
+      <organization/>
+    </author>
+    <author fullname="S. Gundavelli" initials="S." surname="Gundavelli">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="F. Baboescu" initials="F." surname="Baboescu">
+      <organization/>
+    </author>
+    <author fullname="B. Weis" initials="B." surname="Weis">
+      <organization/>
+    </author>
     <date year="2015" month="September"/>
-    <keyword>P-CSCF</keyword>
-    <keyword>P-CSCF Option for IKEv2</keyword>
-    <keyword>Proxy-Call Session Control Function</keyword>
-    <keyword>IMS Option for IKEv2</keyword>
-    <abstract>This document defines two new configuration attributes for the Internet Key Exchange Protocol version 2 (IKEv2).  These attributes can be used for carrying the IPv4 address and IPv6 address of the Proxy-Call Session Control Function (P-CSCF).  When an IPsec gateway delivers these attributes to an IPsec client, the IPsec client can obtain the IPv4 and/or IPv6 address of the P-CSCF server located in the 3GPP network.</abstract>
+    <abstract>
+      <t>This document defines two new configuration attributes for the Internet Key Exchange Protocol version 2 (IKEv2).  These attributes can be used for carrying the IPv4 address and IPv6 address of the Proxy-Call Session Control Function (P-CSCF).  When an IPsec gateway delivers these attributes to an IPsec client, the IPsec client can obtain the IPv4 and/or IPv6 address of the P-CSCF server located in the 3GPP network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7651"/>
+  <seriesInfo name="RFC" value="7651"/>
 </reference>

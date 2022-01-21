@@ -1,13 +1,18 @@
 <reference anchor="RFC5274" target="https://www.rfc-editor.org/info/rfc5274">
   <front>
     <title>Certificate Management Messages over CMS (CMC): Compliance Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5274"/>
-    <author fullname="J. Schaad"/>
-    <author fullname="M. Myers"/>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
+    <author fullname="M. Myers" initials="M." surname="Myers">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>cryptographic message syntax</keyword>
-    <keyword>cmc enrollment protocol</keyword>
-    <abstract>This document provides a set of compliance statements about the CMC (Certificate Management over CMS) enrollment protocol.  The ASN.1 structures and the transport mechanisms for the CMC enrollment protocol are covered in other documents.  This document provides the information needed to make a compliant version of CMC. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document provides a set of compliance statements about the CMC (Certificate Management over CMS) enrollment protocol.  The ASN.1 structures and the transport mechanisms for the CMC enrollment protocol are covered in other documents.  This document provides the information needed to make a compliant version of CMC. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5274"/>
+  <seriesInfo name="RFC" value="5274"/>
 </reference>

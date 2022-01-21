@@ -1,19 +1,25 @@
 <reference anchor="RFC4178" target="https://www.rfc-editor.org/info/rfc4178">
   <front>
     <title>The Simple and Protected Generic Security Service Application Program Interface (GSS-API) Negotiation Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4178"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="P. Leach"/>
-    <author fullname="K. Jaganathan"/>
-    <author fullname="W. Ingersoll"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="K. Jaganathan" initials="K." surname="Jaganathan">
+      <organization/>
+    </author>
+    <author fullname="W. Ingersoll" initials="W." surname="Ingersoll">
+      <organization/>
+    </author>
     <date year="2005" month="October"/>
     <workgroup>kitten</workgroup>
-    <keyword>generic</keyword>
-    <keyword>service</keyword>
-    <keyword>application</keyword>
-    <keyword>security</keyword>
-    <keyword>program</keyword>
-    <keyword>interface</keyword>
-    <abstract>This document specifies a negotiation mechanism for the Generic Security Service Application Program Interface (GSS-API), which is described in RFC 2743. GSS-API peers can use this negotiation mechanism to choose from a common set of security mechanisms. If per-message integrity services are available on the established mechanism context, then the negotiation is protected against an attacker that forces the selection of a mechanism not desired by the peers. This mechanism replaces RFC 2478 in order to fix defects in that specification and to describe how to inter-operate with implementations of that specification that are commonly deployed on the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a negotiation mechanism for the Generic Security Service Application Program Interface (GSS-API), which is described in RFC 2743. GSS-API peers can use this negotiation mechanism to choose from a common set of security mechanisms. If per-message integrity services are available on the established mechanism context, then the negotiation is protected against an attacker that forces the selection of a mechanism not desired by the peers.</t>
+      <t>This mechanism replaces RFC 2478 in order to fix defects in that specification and to describe how to inter-operate with implementations of that specification that are commonly deployed on the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4178"/>
+  <seriesInfo name="RFC" value="4178"/>
 </reference>

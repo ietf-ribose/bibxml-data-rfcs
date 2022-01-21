@@ -1,19 +1,18 @@
 <reference anchor="RFC6076" target="https://www.rfc-editor.org/info/rfc6076">
   <front>
     <title>Basic Telephony SIP End-to-End Performance Metrics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6076"/>
-    <author fullname="D. Malas"/>
-    <author fullname="A. Morton"/>
+    <author fullname="D. Malas" initials="D." surname="Malas">
+      <organization/>
+    </author>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
     <date year="2011" month="January"/>
     <workgroup>pmol</workgroup>
-    <keyword>Benchmarking</keyword>
-    <keyword>Lab</keyword>
-    <keyword>Test</keyword>
-    <keyword>Time</keyword>
-    <keyword>Measurement</keyword>
-    <keyword>Service</keyword>
-    <keyword>Session</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document defines a set of metrics and their usage to evaluate the performance of end-to-end Session Initiation Protocol (SIP) for telephony services in both production and testing environments.  The purpose of this document is to combine a standard set of common metrics, allowing interoperable performance measurements, easing the comparison of industry implementations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a set of metrics and their usage to evaluate the performance of end-to-end Session Initiation Protocol (SIP) for telephony services in both production and testing environments.  The purpose of this document is to combine a standard set of common metrics, allowing interoperable performance measurements, easing the comparison of industry implementations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6076"/>
+  <seriesInfo name="RFC" value="6076"/>
 </reference>

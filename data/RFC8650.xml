@@ -1,15 +1,27 @@
 <reference anchor="RFC8650" target="https://www.rfc-editor.org/info/rfc8650">
   <front>
     <title>Dynamic Subscription to YANG Events and Datastores over RESTCONF</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8650"/>
-    <author fullname="E. Voit"/>
-    <author fullname="R. Rahman"/>
-    <author fullname="E. Nilsen-Nygaard"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="A. Bierman"/>
+    <author fullname="E. Voit" initials="E." surname="Voit">
+      <organization/>
+    </author>
+    <author fullname="R. Rahman" initials="R." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="E. Nilsen-Nygaard" initials="E." surname="Nilsen-Nygaard">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
     <date year="2019" month="November"/>
     <workgroup>netconf</workgroup>
-    <keyword>YANG-Push</keyword>
-    <abstract>This document provides a RESTCONF binding to the dynamic subscription capability of both subscribed notifications and YANG-Push.</abstract>
+    <abstract>
+      <t>This document provides a RESTCONF binding to the dynamic subscription capability of both subscribed notifications and YANG-Push.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8650"/>
+  <seriesInfo name="RFC" value="8650"/>
 </reference>

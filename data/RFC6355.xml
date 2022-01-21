@@ -1,12 +1,18 @@
 <reference anchor="RFC6355" target="https://www.rfc-editor.org/info/rfc6355">
   <front>
     <title>Definition of the UUID-Based DHCPv6 Unique Identifier (DUID-UUID)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6355"/>
-    <author fullname="T. Narten"/>
-    <author fullname="J. Johnson"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="J. Johnson" initials="J." surname="Johnson">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>dhc</workgroup>
-    <keyword>universally unique identifier</keyword>
-    <abstract>This document defines a new DHCPv6 Unique Identifier (DUID) type called DUID-UUID.  DUID-UUIDs are derived from the already-standardized Universally Unique IDentifier (UUID) format.  DUID-UUID makes it possible for devices to use UUIDs to identify themselves to DHC servers and vice versa.  UUIDs are globally unique and readily available on many systems, making them convenient identifiers to leverage within DHCP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new DHCPv6 Unique Identifier (DUID) type called DUID-UUID.  DUID-UUIDs are derived from the already-standardized Universally Unique IDentifier (UUID) format.  DUID-UUID makes it possible for devices to use UUIDs to identify themselves to DHC servers and vice versa.  UUIDs are globally unique and readily available on many systems, making them convenient identifiers to leverage within DHCP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6355"/>
+  <seriesInfo name="RFC" value="6355"/>
 </reference>

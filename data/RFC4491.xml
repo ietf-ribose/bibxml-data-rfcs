@@ -1,28 +1,18 @@
 <reference anchor="RFC4491" target="https://www.rfc-editor.org/info/rfc4491">
   <front>
     <title>Using the GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94 Algorithms with the Internet X.509 Public Key Infrastructure Certificate and CRL Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4491"/>
-    <author fullname="S. Leontiev"/>
-    <author fullname="D. Shefanovski"/>
+    <author fullname="S. Leontiev" initials="S." surname="Leontiev">
+      <organization/>
+    </author>
+    <author fullname="D. Shefanovski" initials="D." surname="Shefanovski">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>pkix</workgroup>
-    <keyword>PKIX</keyword>
-    <keyword>X.509</keyword>
-    <keyword>CPPK</keyword>
-    <keyword>public-key</keyword>
-    <keyword>one-way hash function</keyword>
-    <keyword>block cipher</keyword>
-    <keyword>encryption</keyword>
-    <keyword>decryption</keyword>
-    <keyword>key derivation</keyword>
-    <keyword>parameter</keyword>
-    <keyword>message digest</keyword>
-    <keyword>digital signature</keyword>
-    <keyword>34.310</keyword>
-    <keyword>34.311</keyword>
-    <keyword>34.310-95</keyword>
-    <keyword>34.310-2004</keyword>
-    <keyword>34.311-95</keyword>
-    <abstract>This document supplements RFC 3279.  It describes encoding formats, identifiers, and parameter formats for the algorithms GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94 for use in Internet X.509 Public Key Infrastructure (PKI). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document supplements RFC 3279.  It describes encoding formats, identifiers, and parameter formats for the algorithms GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94 for use in Internet X.509 Public Key Infrastructure (PKI). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4491"/>
+  <seriesInfo name="RFC" value="4491"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC4818" target="https://www.rfc-editor.org/info/rfc4818">
   <front>
     <title>RADIUS Delegated-IPv6-Prefix Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4818"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="R. Droms"/>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
     <date year="2007" month="April"/>
     <workgroup>radext</workgroup>
-    <keyword>remote authentication dial in user service</keyword>
-    <keyword>diameter</keyword>
-    <abstract>This document defines a RADIUS (Remote Authentication Dial In User Service) attribute that carries an IPv6 prefix that is to be delegated to the user.  This attribute is usable within either RADIUS or Diameter. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a RADIUS (Remote Authentication Dial In User Service) attribute that carries an IPv6 prefix that is to be delegated to the user.  This attribute is usable within either RADIUS or Diameter. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4818"/>
+  <seriesInfo name="RFC" value="4818"/>
 </reference>

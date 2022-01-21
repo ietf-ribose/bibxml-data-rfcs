@@ -1,14 +1,17 @@
 <reference anchor="RFC3121" target="https://www.rfc-editor.org/info/rfc3121">
   <front>
     <title>A URN Namespace for OASIS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3121"/>
-    <author fullname="K. Best"/>
-    <author fullname="N. Walsh"/>
+    <author fullname="K. Best" initials="K." surname="Best">
+      <organization/>
+    </author>
+    <author fullname="N. Walsh" initials="N." surname="Walsh">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
-    <keyword>uniform</keyword>
-    <keyword>resource</keyword>
-    <keyword>name</keyword>
-    <keyword>organization for the advancement of structured information standards</keyword>
-    <abstract>This document describes a URN (Uniform Resource Name) namespace that is engineered by the Organization for the Advancement of Structured Information Standards (OASIS) for naming persistent resources published by OASIS (such as OASIS Standards, XML (Extensible Markup Language) Document Type Definitions, XML Schemas, Namespaces, Stylesheets, and other documents).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a URN (Uniform Resource Name) namespace that is engineered by the Organization for the Advancement of Structured Information Standards (OASIS) for naming persistent resources published by OASIS (such as OASIS Standards, XML (Extensible Markup Language) Document Type Definitions, XML Schemas, Namespaces, Stylesheets, and other documents).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3121"/>
+  <seriesInfo name="RFC" value="3121"/>
 </reference>

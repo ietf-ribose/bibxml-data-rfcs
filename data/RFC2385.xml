@@ -1,18 +1,15 @@
 <reference anchor="RFC2385" target="https://www.rfc-editor.org/info/rfc2385">
   <front>
     <title>Protection of BGP Sessions via the TCP MD5 Signature Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2385"/>
-    <author fullname="A. Heffernan"/>
+    <author fullname="A. Heffernan" initials="A." surname="Heffernan">
+      <organization/>
+    </author>
     <date year="1998" month="August"/>
     <workgroup>idr</workgroup>
-    <keyword>border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>message</keyword>
-    <keyword>digest</keyword>
-    <keyword>algorithm</keyword>
-    <abstract>This memo describes a TCP extension to enhance security for BGP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a TCP extension to enhance security for BGP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2385"/>
+  <seriesInfo name="RFC" value="2385"/>
 </reference>

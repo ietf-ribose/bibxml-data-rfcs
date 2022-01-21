@@ -1,20 +1,21 @@
 <reference anchor="RFC5576" target="https://www.rfc-editor.org/info/rfc5576">
   <front>
     <title>Source-Specific Media Attributes in the Session Description Protocol (SDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5576"/>
-    <author fullname="J. Lennox"/>
-    <author fullname="J. Ott"/>
-    <author fullname="T. Schierl"/>
+    <author fullname="J. Lennox" initials="J." surname="Lennox">
+      <organization/>
+    </author>
+    <author fullname="J. Ott" initials="J." surname="Ott">
+      <organization/>
+    </author>
+    <author fullname="T. Schierl" initials="T." surname="Schierl">
+      <organization/>
+    </author>
     <date year="2009" month="June"/>
     <workgroup>mmusic</workgroup>
-    <keyword>real-time transport protocol</keyword>
-    <keyword>rtp</keyword>
-    <keyword>synchronization source</keyword>
-    <keyword>ssrc</keyword>
-    <keyword>fid</keyword>
-    <keyword>flow identification</keyword>
-    <keyword>fec</keyword>
-    <keyword>forward error correction</keyword>
-    <abstract>The Session Description Protocol (SDP) provides mechanisms to describe attributes of multimedia sessions and of individual media streams (e.g., Real-time Transport Protocol (RTP) sessions) within a multimedia session, but does not provide any mechanism to describe individual media sources within a media stream.  This document defines a mechanism to describe RTP media sources, which are identified by their synchronization source (SSRC) identifiers, in SDP, to associate attributes with these sources, and to express relationships among sources.  It also defines several source-level attributes that can be used to describe properties of media sources. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Session Description Protocol (SDP) provides mechanisms to describe attributes of multimedia sessions and of individual media streams (e.g., Real-time Transport Protocol (RTP) sessions) within a multimedia session, but does not provide any mechanism to describe individual media sources within a media stream.  This document defines a mechanism to describe RTP media sources, which are identified by their synchronization source (SSRC) identifiers, in SDP, to associate attributes with these sources, and to express relationships among sources.  It also defines several source-level attributes that can be used to describe properties of media sources. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5576"/>
+  <seriesInfo name="RFC" value="5576"/>
 </reference>

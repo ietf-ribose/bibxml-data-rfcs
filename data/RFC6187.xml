@@ -1,11 +1,18 @@
 <reference anchor="RFC6187" target="https://www.rfc-editor.org/info/rfc6187">
   <front>
     <title>X.509v3 Certificates for Secure Shell Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6187"/>
-    <author fullname="K. Igoe"/>
-    <author fullname="D. Stebila"/>
+    <author fullname="K. Igoe" initials="K." surname="Igoe">
+      <organization/>
+    </author>
+    <author fullname="D. Stebila" initials="D." surname="Stebila">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>X.509 public key certificates use a signature by a trusted certification authority to bind a given public key to a given digital identity.  This document specifies how to use X.509 version 3 public key certificates in public key algorithms in the Secure Shell protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>X.509 public key certificates use a signature by a trusted certification authority to bind a given public key to a given digital identity.  This document specifies how to use X.509 version 3 public key certificates in public key algorithms in the Secure Shell protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6187"/>
+  <seriesInfo name="RFC" value="6187"/>
 </reference>

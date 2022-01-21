@@ -1,17 +1,28 @@
 <reference anchor="RFC7292" target="https://www.rfc-editor.org/info/rfc7292">
   <front>
     <title>PKCS #12: Personal Information Exchange Syntax v1.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7292"/>
-    <author fullname="K. Moriarty"/>
-    <author fullname="M. Nystrom"/>
-    <author fullname="S. Parkinson"/>
-    <author fullname="A. Rusch"/>
-    <author fullname="M. Scott"/>
+    <author fullname="K. Moriarty" initials="K." surname="Moriarty">
+      <organization/>
+    </author>
+    <author fullname="M. Nystrom" initials="M." surname="Nystrom">
+      <organization/>
+    </author>
+    <author fullname="S. Parkinson" initials="S." surname="Parkinson">
+      <organization/>
+    </author>
+    <author fullname="A. Rusch" initials="A." surname="Rusch">
+      <organization/>
+    </author>
+    <author fullname="M. Scott" initials="M." surname="Scott">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>PKCS#12</keyword>
-    <keyword>PKCS12v1.1</keyword>
-    <keyword>PKCS#12v1.1</keyword>
-    <abstract>PKCS #12 v1.1 describes a transfer syntax for personal identity information, including private keys, certificates, miscellaneous secrets, and extensions. Machines, applications, browsers, Internet kiosks, and so on, that support this standard will allow a user to import, export, and exercise a single set of personal identity information. This standard supports direct transfer of personal information under several privacy and integrity modes. This document represents a republication of PKCS #12 v1.1 from RSA Laboratories' Public Key Cryptography Standard (PKCS) series. By publishing this RFC, change control is transferred to the IETF.</abstract>
+    <abstract>
+      <t>PKCS #12 v1.1 describes a transfer syntax for personal identity information, including private keys, certificates, miscellaneous secrets, and extensions. Machines, applications, browsers, Internet kiosks, and so on, that support this standard will allow a user to import, export, and exercise a single set of personal identity information. This standard supports direct transfer of personal information under several privacy and integrity modes.</t>
+      <t>This document represents a republication of PKCS #12 v1.1 from RSA Laboratories' Public Key Cryptography Standard (PKCS) series. By publishing this RFC, change control is transferred to the IETF.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7292"/>
+  <seriesInfo name="RFC" value="7292"/>
 </reference>

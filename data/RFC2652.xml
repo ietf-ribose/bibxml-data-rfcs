@@ -1,16 +1,18 @@
 <reference anchor="RFC2652" target="https://www.rfc-editor.org/info/rfc2652">
   <front>
     <title>MIME Object Definitions for the Common Indexing Protocol (CIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2652"/>
-    <author fullname="J. Allen"/>
-    <author fullname="M. Mealling"/>
+    <author fullname="J. Allen" initials="J." surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="M. Mealling" initials="M." surname="Mealling">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>find</workgroup>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <keyword>database</keyword>
-    <abstract>This document describes the definitions of those objects as well as the methods and requirements needed to define a new index type. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the definitions of those objects as well as the methods and requirements needed to define a new index type. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2652"/>
+  <seriesInfo name="RFC" value="2652"/>
 </reference>

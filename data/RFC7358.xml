@@ -1,13 +1,24 @@
 <reference anchor="RFC7358" target="https://www.rfc-editor.org/info/rfc7358">
   <front>
     <title>Label Advertisement Discipline for LDP Forwarding Equivalence Classes (FECs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7358"/>
-    <author fullname="K. Raza"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="L. Martini"/>
-    <author fullname="N. Leymann"/>
+    <author fullname="K. Raza" initials="K." surname="Raza">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="N. Leymann" initials="N." surname="Leymann">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>mpls</workgroup>
-    <abstract>The label advertising behavior of an LDP speaker for a given Forwarding Equivalence Class (FEC) is governed by the FEC type and not necessarily by the LDP session's negotiated label advertisement mode.  This document updates RFC 5036 to make that fact clear.  It also updates RFCs 3212, 4447, 5918, 6388, and 7140 by specifying the label advertisement mode for all currently defined LDP FEC types.</abstract>
+    <abstract>
+      <t>The label advertising behavior of an LDP speaker for a given Forwarding Equivalence Class (FEC) is governed by the FEC type and not necessarily by the LDP session's negotiated label advertisement mode.  This document updates RFC 5036 to make that fact clear.  It also updates RFCs 3212, 4447, 5918, 6388, and 7140 by specifying the label advertisement mode for all currently defined LDP FEC types.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7358"/>
+  <seriesInfo name="RFC" value="7358"/>
 </reference>

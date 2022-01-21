@@ -1,14 +1,18 @@
 <reference anchor="RFC6324" target="https://www.rfc-editor.org/info/rfc6324">
   <front>
     <title>Routing Loop Attack Using IPv6 Automatic Tunnels: Problem Statement and Proposed Mitigations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6324"/>
-    <author fullname="G. Nakibly"/>
-    <author fullname="F. Templin"/>
+    <author fullname="G. Nakibly" initials="G." surname="Nakibly">
+      <organization/>
+    </author>
+    <author fullname="F. Templin" initials="F." surname="Templin">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>v6ops</workgroup>
-    <keyword>Encapsulation</keyword>
-    <keyword>ISATAP</keyword>
-    <keyword>6rd</keyword>
-    <abstract>This document is concerned with security vulnerabilities in IPv6-in- IPv4 automatic tunnels.  These vulnerabilities allow an attacker to take advantage of inconsistencies between the IPv4 routing state and the IPv6 routing state.  The attack forms a routing loop that can be abused as a vehicle for traffic amplification to facilitate denial- of-service (DoS) attacks.  The first aim of this document is to inform on this attack and its root causes.  The second aim is to present some possible mitigation measures.  It should be noted that at the time of this writing there are no known reports of malicious attacks exploiting these vulnerabilities.  Nonetheless, these vulnerabilities can be activated by accidental misconfiguration.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document is concerned with security vulnerabilities in IPv6-in- IPv4 automatic tunnels.  These vulnerabilities allow an attacker to take advantage of inconsistencies between the IPv4 routing state and the IPv6 routing state.  The attack forms a routing loop that can be abused as a vehicle for traffic amplification to facilitate denial- of-service (DoS) attacks.  The first aim of this document is to inform on this attack and its root causes.  The second aim is to present some possible mitigation measures.  It should be noted that at the time of this writing there are no known reports of malicious attacks exploiting these vulnerabilities.  Nonetheless, these vulnerabilities can be activated by accidental misconfiguration.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6324"/>
+  <seriesInfo name="RFC" value="6324"/>
 </reference>

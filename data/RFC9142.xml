@@ -1,43 +1,15 @@
 <reference anchor="RFC9142" target="https://www.rfc-editor.org/info/rfc9142">
   <front>
     <title>Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9142"/>
-    <author fullname="M. Baushke"/>
+    <author fullname="M. Baushke" initials="M." surname="Baushke">
+      <organization/>
+    </author>
     <date year="2022" month="January"/>
     <workgroup>curdle</workgroup>
-    <keyword>3DES</keyword>
-    <keyword>AES</keyword>
-    <keyword>Advanced Encryption Standard</keyword>
-    <keyword>Curve25519</keyword>
-    <keyword>Curve448</keyword>
-    <keyword>DH</keyword>
-    <keyword>Diffie-Hellman</keyword>
-    <keyword>Digital Encryption Standard</keyword>
-    <keyword>ECC</keyword>
-    <keyword>ECDH</keyword>
-    <keyword>Elliptic Curve Cryptography</keyword>
-    <keyword>Elliptic Curve Diffie-Hellman</keyword>
-    <keyword>FFC</keyword>
-    <keyword>Finite Field Cryptography</keyword>
-    <keyword>IFC</keyword>
-    <keyword>Integer Factorization Cryptography</keyword>
-    <keyword>MODP</keyword>
-    <keyword>MTI</keyword>
-    <keyword>Mandatory to Implement</keyword>
-    <keyword>Modular Exponential</keyword>
-    <keyword>Public Key Exchange</keyword>
-    <keyword>RSA</keyword>
-    <keyword>SHA-2</keyword>
-    <keyword>Secure Shell Key Exchange</keyword>
-    <keyword>Secure Shell</keyword>
-    <keyword>Security Strength</keyword>
-    <keyword>Triple-DES</keyword>
-    <keyword>sha1</keyword>
-    <keyword>sha256</keyword>
-    <keyword>sha384</keyword>
-    <keyword>sha512</keyword>
-    <keyword>SHA-1</keyword>
-    <keyword>Modular Exponentiation</keyword>
-    <abstract>This document updates the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security.  It updates RFCs 4250, 4253, 4432, and 4462.</abstract>
+    <abstract>
+      <t>This document updates the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security.  It updates RFCs 4250, 4253, 4432, and 4462.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9142"/>
+  <seriesInfo name="RFC" value="9142"/>
 </reference>

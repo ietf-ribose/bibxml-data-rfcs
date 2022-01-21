@@ -1,14 +1,15 @@
 <reference anchor="RFC5679" target="https://www.rfc-editor.org/info/rfc5679">
   <front>
     <title>Locating IEEE 802.21 Mobility Services Using DNS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5679"/>
-    <author fullname="G. Bajko"/>
+    <author fullname="G. Bajko" initials="G." surname="Bajko">
+      <organization/>
+    </author>
     <date year="2009" month="December"/>
     <workgroup>mipshop</workgroup>
-    <keyword>domain name server</keyword>
-    <keyword>handover preparation</keyword>
-    <keyword>handover decision</keyword>
-    <keyword>media independent handover services</keyword>
-    <abstract>This document defines application service tags that allow service location without relying on rigid domain naming conventions, and DNS procedures for discovering servers that provide IEEE 802.21-defined Mobility Services.  Such Mobility Services are used to assist a Mobile Node (MN) supporting IEEE 802.21, in handover preparation (network discovery) and handover decision (network selection).  The services addressed by this document are the Media Independent Handover Services defined in IEEE 802.21. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines application service tags that allow service location without relying on rigid domain naming conventions, and DNS procedures for discovering servers that provide IEEE 802.21-defined Mobility Services.  Such Mobility Services are used to assist a Mobile Node (MN) supporting IEEE 802.21, in handover preparation (network discovery) and handover decision (network selection).  The services addressed by this document are the Media Independent Handover Services defined in IEEE 802.21. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5679"/>
+  <seriesInfo name="RFC" value="5679"/>
 </reference>

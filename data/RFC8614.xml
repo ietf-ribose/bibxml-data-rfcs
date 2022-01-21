@@ -1,12 +1,21 @@
 <reference anchor="RFC8614" target="https://www.rfc-editor.org/info/rfc8614">
   <front>
     <title>Updated Processing of Control Flags for BGP Virtual Private LAN Service (VPLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8614"/>
-    <author fullname="R. Singh"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="S. Palislamovic"/>
+    <author fullname="R. Singh" initials="R." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="S. Palislamovic" initials="S." surname="Palislamovic">
+      <organization/>
+    </author>
     <date year="2019" month="June"/>
     <workgroup>bess</workgroup>
-    <abstract>This document updates the meaning of the Control Flags field in the "Layer2 Info Extended Community" used for BGP Virtual Private LAN Service (VPLS) Network Layer Reachability Information (NLRI) as defined in RFC 4761.  This document updates RFC 4761.</abstract>
+    <abstract>
+      <t>This document updates the meaning of the Control Flags field in the "Layer2 Info Extended Community" used for BGP Virtual Private LAN Service (VPLS) Network Layer Reachability Information (NLRI) as defined in RFC 4761.  This document updates RFC 4761.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8614"/>
+  <seriesInfo name="RFC" value="8614"/>
 </reference>

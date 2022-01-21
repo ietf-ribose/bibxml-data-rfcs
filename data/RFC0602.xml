@@ -1,13 +1,14 @@
 <reference anchor="RFC0602" target="https://www.rfc-editor.org/info/rfc602">
   <front>
     <title>"The stockings were hung by the chimney with care"</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0602"/>
-    <author fullname="R.M. Metcalfe"/>
+    <author fullname="R.M. Metcalfe" initials="R.M." surname="Metcalfe">
+      <organization/>
+    </author>
     <date year="1973" month="December"/>
-    <keyword>security</keyword>
-    <keyword>violations</keyword>
-    <keyword>TIP</keyword>
-    <keyword>arpanet</keyword>
-    <abstract>Susceptibility of ARPANET to security violations.</abstract>
+    <abstract>
+      <t>Susceptibility of ARPANET to security violations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0602"/>
+  <seriesInfo name="RFC" value="602"/>
 </reference>

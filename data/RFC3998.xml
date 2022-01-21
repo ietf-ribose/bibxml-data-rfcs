@@ -1,25 +1,21 @@
 <reference anchor="RFC3998" target="https://www.rfc-editor.org/info/rfc3998">
   <front>
     <title>Internet Printing Protocol (IPP): Job and Printer Administrative Operations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3998"/>
-    <author fullname="C. Kugler"/>
-    <author fullname="H. Lewis"/>
-    <author fullname="T. Hastings"/>
+    <author fullname="C. Kugler" initials="C." surname="Kugler">
+      <organization/>
+    </author>
+    <author fullname="H. Lewis" initials="H." surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="T. Hastings" initials="T." surname="Hastings">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>ipp</workgroup>
-    <keyword>system administration operations</keyword>
-    <keyword>Enable-Printer and Disable-Printer</keyword>
-    <keyword>Pause-Printer-After-Current-Job</keyword>
-    <keyword>Hold-New-Jobs and Release-Held-New-Jobs</keyword>
-    <keyword>Deactivate-Printer and Activate-Printer</keyword>
-    <keyword>Restart-Printer</keyword>
-    <keyword>Shutdown-Printer and Startup-Printer</keyword>
-    <keyword>Reprocess-Job</keyword>
-    <keyword>Cancel-Current-Job</keyword>
-    <keyword>Suspend-Current-Job</keyword>
-    <keyword>Resume-Job</keyword>
-    <keyword>Promote-Job</keyword>
-    <keyword>Schedule-Job-After</keyword>
-    <abstract>This document specifies the following 16 additional OPTIONAL system administration operations for use with the Internet Printing Protocol/1.1 (IPP), plus a few associated attributes, values, and status codes, and using the IPP Printer object to manage printer fan-out and fan-in. (Printer operations: Enable-Printer and Disable-Printer, Pause-Printer-After-Current-Job, Hold-New-Jobs and Release-Held-New-Jobs, Deactivate-Printer and Activate-Printer, Restart-Printer, Shutdown-Printer and Startup-Printer.  Job operations: Reprocess-Job, Cancel-Current-Job, Suspend-Current-Job, Resume-Job, Promote-Job, Schedule-Job-After.) [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the following 16 additional OPTIONAL system administration operations for use with the Internet Printing Protocol/1.1 (IPP), plus a few associated attributes, values, and status codes, and using the IPP Printer object to manage printer fan-out and fan-in. (Printer operations: Enable-Printer and Disable-Printer, Pause-Printer-After-Current-Job, Hold-New-Jobs and Release-Held-New-Jobs, Deactivate-Printer and Activate-Printer, Restart-Printer, Shutdown-Printer and Startup-Printer.  Job operations: Reprocess-Job, Cancel-Current-Job, Suspend-Current-Job, Resume-Job, Promote-Job, Schedule-Job-After.) [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3998"/>
+  <seriesInfo name="RFC" value="3998"/>
 </reference>

@@ -1,15 +1,18 @@
 <reference anchor="RFC2871" target="https://www.rfc-editor.org/info/rfc2871">
   <front>
     <title>A Framework for Telephony Routing over IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2871"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>iptel</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>TRIP</keyword>
-    <keyword>gateway</keyword>
-    <abstract>This document serves as a framework for Telephony Routing over IP (TRIP), which supports the discovery and exchange of IP telephony gateway routing tables between providers.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document serves as a framework for Telephony Routing over IP (TRIP), which supports the discovery and exchange of IP telephony gateway routing tables between providers.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2871"/>
+  <seriesInfo name="RFC" value="2871"/>
 </reference>

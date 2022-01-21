@@ -1,12 +1,17 @@
 <reference anchor="RFC1554" target="https://www.rfc-editor.org/info/rfc1554">
   <front>
     <title>ISO-2022-JP-2: Multilingual Extension of ISO-2022-JP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1554"/>
-    <author fullname="M. Ohta"/>
-    <author fullname="K. Handa"/>
+    <author fullname="M. Ohta" initials="M." surname="Ohta">
+      <organization/>
+    </author>
+    <author fullname="K. Handa" initials="K." surname="Handa">
+      <organization/>
+    </author>
     <date year="1993" month="December"/>
-    <keyword>Character Set</keyword>
-    <keyword>Japanese</keyword>
-    <abstract>This memo describes a text encoding scheme: "ISO-2022-JP-2", which is used experimentally for electronic mail [RFC822] and network news [RFC1036] messages in several Japanese networks.  The encoding is a multilingual extension of "ISO-2022-JP", the existing encoding for Japanese [2022JP].  The encoding is supported by an Emacs based multilingual text editor: MULE [MULE].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo describes a text encoding scheme: "ISO-2022-JP-2", which is used experimentally for electronic mail [RFC822] and network news [RFC1036] messages in several Japanese networks.  The encoding is a multilingual extension of "ISO-2022-JP", the existing encoding for Japanese [2022JP].  The encoding is supported by an Emacs based multilingual text editor: MULE [MULE].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1554"/>
+  <seriesInfo name="RFC" value="1554"/>
 </reference>

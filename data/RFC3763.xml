@@ -1,14 +1,18 @@
 <reference anchor="RFC3763" target="https://www.rfc-editor.org/info/rfc3763">
   <front>
     <title>One-way Active Measurement Protocol (OWAMP) Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3763"/>
-    <author fullname="S. Shalunov"/>
-    <author fullname="B. Teitelbaum"/>
+    <author fullname="S. Shalunov" initials="S." surname="Shalunov">
+      <organization/>
+    </author>
+    <author fullname="B. Teitelbaum" initials="B." surname="Teitelbaum">
+      <organization/>
+    </author>
     <date year="2004" month="April"/>
     <workgroup>ippm</workgroup>
-    <keyword>performance metrics</keyword>
-    <keyword>delay</keyword>
-    <keyword>unidirectional</keyword>
-    <abstract>With growing availability of good time sources to network nodes, it becomes increasingly possible to measure one-way IP performance metrics with high precision.  To do so in an interoperable manner, a common protocol for such measurements is required.  This document specifies requirements for a one-way active measurement protocol (OWAMP) standard.  The protocol can measure one-way delay, as well as other unidirectional characteristics, such as one-way loss.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>With growing availability of good time sources to network nodes, it becomes increasingly possible to measure one-way IP performance metrics with high precision.  To do so in an interoperable manner, a common protocol for such measurements is required.  This document specifies requirements for a one-way active measurement protocol (OWAMP) standard.  The protocol can measure one-way delay, as well as other unidirectional characteristics, such as one-way loss.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3763"/>
+  <seriesInfo name="RFC" value="3763"/>
 </reference>

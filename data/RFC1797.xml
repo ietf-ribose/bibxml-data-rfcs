@@ -1,13 +1,14 @@
 <reference anchor="RFC1797" target="https://www.rfc-editor.org/info/rfc1797">
   <front>
     <title>Class A Subnet Experiment</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1797"/>
-    <author fullname="Internet Assigned Numbers Authority (IANA)"/>
+    <author fullname="Internet Assigned Numbers Authority (IANA)" initials="Internet" surname="Assigned">
+      <organization/>
+    </author>
     <date year="1995" month="April"/>
-    <keyword>Network</keyword>
-    <keyword>Address</keyword>
-    <keyword>39</keyword>
-    <keyword>Number</keyword>
-    <abstract>There appears to be some interest in experimenting with subnetting the class A addresses.  It is suggested that conducting an experiment now to identify and fix any software that does not properly handle subnetted class A addresses would be useful and important.  This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>There appears to be some interest in experimenting with subnetting the class A addresses.  It is suggested that conducting an experiment now to identify and fix any software that does not properly handle subnetted class A addresses would be useful and important.  This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1797"/>
+  <seriesInfo name="RFC" value="1797"/>
 </reference>

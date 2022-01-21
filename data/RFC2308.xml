@@ -1,15 +1,15 @@
 <reference anchor="RFC2308" target="https://www.rfc-editor.org/info/rfc2308">
   <front>
     <title>Negative Caching of DNS Queries (DNS NCACHE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2308"/>
-    <author fullname="M. Andrews"/>
+    <author fullname="M. Andrews" initials="M." surname="Andrews">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>dnsind</workgroup>
-    <keyword>DNS-NCACHE</keyword>
-    <keyword>Domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>negative</keyword>
-    <abstract>RFC1034 provided a description of how to cache negative responses.  It however had a fundamental flaw in that it did not allow a name server to hand out those cached responses to other resolvers, thereby greatly reducing the effect of the caching.  This document addresses issues raise in the light of experience and replaces RFC1034 Section 4.3.4. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>RFC1034 provided a description of how to cache negative responses.  It however had a fundamental flaw in that it did not allow a name server to hand out those cached responses to other resolvers, thereby greatly reducing the effect of the caching.  This document addresses issues raise in the light of experience and replaces RFC1034 Section 4.3.4. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2308"/>
+  <seriesInfo name="RFC" value="2308"/>
 </reference>

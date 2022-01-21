@@ -1,20 +1,24 @@
 <reference anchor="RFC9159" target="https://www.rfc-editor.org/info/rfc9159">
   <front>
     <title>IPv6 Mesh over BLUETOOTH(R) Low Energy Using the Internet Protocol Support Profile (IPSP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9159"/>
-    <author fullname="C. Gomez"/>
-    <author fullname="S.M. Darroudi"/>
-    <author fullname="T. Savolainen"/>
-    <author fullname="M. Spoerk"/>
+    <author fullname="C. Gomez" initials="C." surname="Gomez">
+      <organization/>
+    </author>
+    <author fullname="S.M. Darroudi" initials="S.M." surname="Darroudi">
+      <organization/>
+    </author>
+    <author fullname="T. Savolainen" initials="T." surname="Savolainen">
+      <organization/>
+    </author>
+    <author fullname="M. Spoerk" initials="M." surname="Spoerk">
+      <organization/>
+    </author>
     <date year="2021" month="December"/>
     <workgroup>6lo</workgroup>
-    <keyword>Bluetooth Low Energy</keyword>
-    <keyword>mesh networks</keyword>
-    <keyword>6lowpan</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>Low power</keyword>
-    <keyword>IoT</keyword>
-    <keyword>Internet of Things</keyword>
-    <abstract>RFC 7668 describes the adaptation of IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) techniques to enable IPv6 over Bluetooth Low Energy (Bluetooth LE) networks that follow the star topology.  However, recent Bluetooth specifications allow the formation of extended topologies as well.  This document specifies mechanisms that are needed to enable IPv6 mesh over Bluetooth LE links established by using the Bluetooth Internet Protocol Support Profile (IPSP).  This document does not specify the routing protocol to be used in an IPv6 mesh over Bluetooth LE links.</abstract>
+    <abstract>
+      <t>RFC 7668 describes the adaptation of IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) techniques to enable IPv6 over Bluetooth Low Energy (Bluetooth LE) networks that follow the star topology.  However, recent Bluetooth specifications allow the formation of extended topologies as well.  This document specifies mechanisms that are needed to enable IPv6 mesh over Bluetooth LE links established by using the Bluetooth Internet Protocol Support Profile (IPSP).  This document does not specify the routing protocol to be used in an IPv6 mesh over Bluetooth LE links.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9159"/>
+  <seriesInfo name="RFC" value="9159"/>
 </reference>

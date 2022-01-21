@@ -1,12 +1,17 @@
 <reference anchor="RFC3619" target="https://www.rfc-editor.org/info/rfc3619">
   <front>
     <title>Extreme Networks' Ethernet Automatic Protection Switching (EAPS) Version 1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3619"/>
-    <author fullname="S. Shah"/>
-    <author fullname="M. Yip"/>
+    <author fullname="S. Shah" initials="S." surname="Shah">
+      <organization/>
+    </author>
+    <author fullname="M. Yip" initials="M." surname="Yip">
+      <organization/>
+    </author>
     <date year="2003" month="October"/>
-    <keyword>ethernet rings</keyword>
-    <keyword>robust</keyword>
-    <abstract>This document describes the Ethernet Automatic Protection Switching (EAPS) (tm) technology invented by Extreme Networks to increase the availability and robustness of Ethernet rings.  An Ethernet ring built using EAPS can have resilience comparable to that provided by SONET rings, at a lower cost and with fewer constraints (e.g., ring size).</abstract>
+    <abstract>
+      <t>This document describes the Ethernet Automatic Protection Switching (EAPS) (tm) technology invented by Extreme Networks to increase the availability and robustness of Ethernet rings.  An Ethernet ring built using EAPS can have resilience comparable to that provided by SONET rings, at a lower cost and with fewer constraints (e.g., ring size).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3619"/>
+  <seriesInfo name="RFC" value="3619"/>
 </reference>

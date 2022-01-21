@@ -1,16 +1,27 @@
 <reference anchor="RFC6887" target="https://www.rfc-editor.org/info/rfc6887">
   <front>
     <title>Port Control Protocol (PCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6887"/>
-    <author fullname="D. Wing"/>
-    <author fullname="S. Cheshire"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="R. Penno"/>
-    <author fullname="P. Selkirk"/>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="P. Selkirk" initials="P." surname="Selkirk">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>pcp</workgroup>
-    <keyword>NAT</keyword>
-    <keyword>Firewall</keyword>
-    <abstract>The Port Control Protocol allows an IPv6 or IPv4 host to control how incoming IPv6 or IPv4 packets are translated and forwarded by a Network Address Translator (NAT) or simple firewall, and also allows a host to optimize its outgoing NAT keepalive messages.</abstract>
+    <abstract>
+      <t>The Port Control Protocol allows an IPv6 or IPv4 host to control how incoming IPv6 or IPv4 packets are translated and forwarded by a Network Address Translator (NAT) or simple firewall, and also allows a host to optimize its outgoing NAT keepalive messages.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6887"/>
+  <seriesInfo name="RFC" value="6887"/>
 </reference>

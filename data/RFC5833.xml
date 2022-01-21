@@ -1,15 +1,24 @@
 <reference anchor="RFC5833" target="https://www.rfc-editor.org/info/rfc5833">
   <front>
     <title>Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Base MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5833"/>
-    <author fullname="Y. Shi"/>
-    <author fullname="D. Perkins"/>
-    <author fullname="C. Elliott"/>
-    <author fullname="Y. Zhang"/>
+    <author fullname="Y. Shi" initials="Y." surname="Shi">
+      <organization/>
+    </author>
+    <author fullname="D. Perkins" initials="D." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="C. Elliott" initials="C." surname="Elliott">
+      <organization/>
+    </author>
+    <author fullname="Y. Zhang" initials="Y." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>capwap</workgroup>
-    <keyword>mib</keyword>
-    <keyword>CAPWAP-BASE-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols.  In particular, it describes the managed objects for modeling the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol.  This MIB module is presented as a basis for future work on the SNMP management of the CAPWAP protocol.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols.  In particular, it describes the managed objects for modeling the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol.  This MIB module is presented as a basis for future work on the SNMP management of the CAPWAP protocol.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5833"/>
+  <seriesInfo name="RFC" value="5833"/>
 </reference>

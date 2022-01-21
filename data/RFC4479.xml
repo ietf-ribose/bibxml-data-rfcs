@@ -1,13 +1,15 @@
 <reference anchor="RFC4479" target="https://www.rfc-editor.org/info/rfc4479">
   <front>
     <title>A Data Model for Presence</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4479"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>simple</workgroup>
-    <keyword>simple</keyword>
-    <keyword>sip</keyword>
-    <keyword>session initiation protocol</keyword>
-    <abstract>This document defines the underlying presence data model used by Session Initiation Protocol (SIP) for Instant Messaging and Presence Leveraging Extensions (SIMPLE) presence agents.  The data model provides guidance on how to map various communications systems into presence documents in a consistent fashion. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the underlying presence data model used by Session Initiation Protocol (SIP) for Instant Messaging and Presence Leveraging Extensions (SIMPLE) presence agents.  The data model provides guidance on how to map various communications systems into presence documents in a consistent fashion. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4479"/>
+  <seriesInfo name="RFC" value="4479"/>
 </reference>

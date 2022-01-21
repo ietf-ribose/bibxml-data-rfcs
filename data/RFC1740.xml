@@ -1,16 +1,20 @@
 <reference anchor="RFC1740" target="https://www.rfc-editor.org/info/rfc1740">
   <front>
     <title>MIME Encapsulation of Macintosh Files - MacMIME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1740"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="D. Crocker"/>
-    <author fullname="E. Fair"/>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
+    <author fullname="E. Fair" initials="E." surname="Fair">
+      <organization/>
+    </author>
     <date year="1994" month="December"/>
-    <keyword>MacMIME</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Extensions</keyword>
-    <abstract>This memo describes the format to use when sending Apple Macintosh files via MIME [BORE93]. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the format to use when sending Apple Macintosh files via MIME [BORE93]. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1740"/>
+  <seriesInfo name="RFC" value="1740"/>
 </reference>

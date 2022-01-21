@@ -1,18 +1,29 @@
 <reference anchor="RFC8432" target="https://www.rfc-editor.org/info/rfc8432">
   <front>
     <title>A Framework for Management and Control of Microwave and Millimeter Wave Interface Parameters</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8432"/>
-    <author fullname="J. Ahlberg"/>
-    <author fullname="M. Ye"/>
-    <author fullname="X. Li"/>
-    <author fullname="LM. Contreras"/>
-    <author fullname="CJ. Bernardos"/>
+    <author fullname="J. Ahlberg" initials="J." surname="Ahlberg">
+      <organization/>
+    </author>
+    <author fullname="M. Ye" initials="M." surname="Ye">
+      <organization/>
+    </author>
+    <author fullname="X. Li" initials="X." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="LM. Contreras" initials="LM." surname="Contreras">
+      <organization/>
+    </author>
+    <author fullname="CJ. Bernardos" initials="CJ." surname="Bernardos">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
     <workgroup>ccamp</workgroup>
-    <keyword>Microwave</keyword>
-    <keyword>millimeter waves</keyword>
-    <keyword>YANG Model</keyword>
-    <keyword>interface management</keyword>
-    <abstract>The unification of control and management of microwave radio link interfaces is a precondition for seamless multi-layer networking and automated network provisioning and operation. This document describes the required characteristics and use cases for control and management of radio link interface parameters using a YANG data model. The purpose is to create a framework to identify the necessary information elements and define a YANG data model for control and management of the radio link interfaces in a microwave node. Some parts of the resulting model may be generic and could also be used by other technologies, e.g., Ethernet technology.</abstract>
+    <abstract>
+      <t>The unification of control and management of microwave radio link interfaces is a precondition for seamless multi-layer networking and automated network provisioning and operation.</t>
+      <t>This document describes the required characteristics and use cases for control and management of radio link interface parameters using a YANG data model.</t>
+      <t>The purpose is to create a framework to identify the necessary information elements and define a YANG data model for control and management of the radio link interfaces in a microwave node. Some parts of the resulting model may be generic and could also be used by other technologies, e.g., Ethernet technology.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8432"/>
+  <seriesInfo name="RFC" value="8432"/>
 </reference>

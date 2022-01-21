@@ -1,10 +1,17 @@
 <reference anchor="RFC8367" target="https://www.rfc-editor.org/info/rfc8367">
   <front>
     <title>Wrongful Termination of Internet Protocol (IP) Packets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8367"/>
-    <author fullname="T. Mizrahi"/>
-    <author fullname="J. Yallouz"/>
+    <author fullname="T. Mizrahi" initials="T." surname="Mizrahi">
+      <organization/>
+    </author>
+    <author fullname="J. Yallouz" initials="J." surname="Yallouz">
+      <organization/>
+    </author>
     <date year="2018" month="April"/>
-    <abstract>Routers and middleboxes terminate packets for various reasons.  In some cases, these packets are wrongfully terminated.  This memo describes some of the most common scenarios of wrongful termination of Internet Protocol (IP) packets and presents recommendations for mitigating them.</abstract>
+    <abstract>
+      <t>Routers and middleboxes terminate packets for various reasons.  In some cases, these packets are wrongfully terminated.  This memo describes some of the most common scenarios of wrongful termination of Internet Protocol (IP) packets and presents recommendations for mitigating them.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8367"/>
+  <seriesInfo name="RFC" value="8367"/>
 </reference>

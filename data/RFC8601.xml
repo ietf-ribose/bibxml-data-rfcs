@@ -1,16 +1,16 @@
 <reference anchor="RFC8601" target="https://www.rfc-editor.org/info/rfc8601">
   <front>
     <title>Message Header Field for Indicating Message Authentication Status</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8601"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
     <workgroup>dmarc</workgroup>
-    <keyword>DKIM</keyword>
-    <keyword>SPF</keyword>
-    <keyword>ATPS</keyword>
-    <keyword>VBR</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Reputation</keyword>
-    <abstract>This document specifies a message header field called "Authentication-Results" for use with electronic mail messages to indicate the results of message authentication efforts. Any receiver-side software, such as mail filters or Mail User Agents (MUAs), can use this header field to relay that information in a convenient and meaningful way to users or to make sorting and filtering decisions. This document obsoletes RFC 7601.</abstract>
+    <abstract>
+      <t>This document specifies a message header field called "Authentication-Results" for use with electronic mail messages to indicate the results of message authentication efforts. Any receiver-side software, such as mail filters or Mail User Agents (MUAs), can use this header field to relay that information in a convenient and meaningful way to users or to make sorting and filtering decisions.</t>
+      <t>This document obsoletes RFC 7601.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8601"/>
+  <seriesInfo name="RFC" value="8601"/>
 </reference>

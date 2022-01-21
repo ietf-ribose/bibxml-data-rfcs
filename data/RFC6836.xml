@@ -1,13 +1,24 @@
 <reference anchor="RFC6836" target="https://www.rfc-editor.org/info/rfc6836">
   <front>
     <title>Locator/ID Separation Protocol Alternative Logical Topology (LISP+ALT)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6836"/>
-    <author fullname="V. Fuller"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="D. Lewis"/>
+    <author fullname="V. Fuller" initials="V." surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="D. Lewis" initials="D." surname="Lewis">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
     <workgroup>lisp</workgroup>
-    <abstract>This document describes a simple distributed index system to be used by a Locator/ID Separation Protocol (LISP) Ingress Tunnel Router (ITR) or Map-Resolver (MR) to find the Egress Tunnel Router (ETR) that holds the mapping information for a particular Endpoint Identifier (EID).  The MR can then query that ETR to obtain the actual mapping information, which consists of a list of Routing Locators (RLOCs) for the EID.  Termed the Alternative Logical Topology (ALT), the index is built as an overlay network on the public Internet using the Border Gateway Protocol (BGP) and Generic Routing Encapsulation (GRE).  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a simple distributed index system to be used by a Locator/ID Separation Protocol (LISP) Ingress Tunnel Router (ITR) or Map-Resolver (MR) to find the Egress Tunnel Router (ETR) that holds the mapping information for a particular Endpoint Identifier (EID).  The MR can then query that ETR to obtain the actual mapping information, which consists of a list of Routing Locators (RLOCs) for the EID.  Termed the Alternative Logical Topology (ALT), the index is built as an overlay network on the public Internet using the Border Gateway Protocol (BGP) and Generic Routing Encapsulation (GRE).  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6836"/>
+  <seriesInfo name="RFC" value="6836"/>
 </reference>

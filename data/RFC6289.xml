@@ -1,14 +1,21 @@
 <reference anchor="RFC6289" target="https://www.rfc-editor.org/info/rfc6289">
   <front>
     <title>A Uniform Resource Name (URN) Namespace for CableLabs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6289"/>
-    <author fullname="E. Cardona"/>
-    <author fullname="S. Channabasappa"/>
-    <author fullname="J-F. Mule"/>
+    <author fullname="E. Cardona" initials="E." surname="Cardona">
+      <organization/>
+    </author>
+    <author fullname="S. Channabasappa" initials="S." surname="Channabasappa">
+      <organization/>
+    </author>
+    <author fullname="J-F. Mule" initials="J-F." surname="Mule">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>namespace identifier</keyword>
-    <keyword>nid</keyword>
-    <abstract>This document describes the Namespace Identifier (NID) 'cablelabs' for Uniform Resource Names (URNs) used to identify resources published by Cable Television Laboratories, Inc. (CableLabs).  CableLabs specifies and manages resources that utilize this URN identification model.  Management activities for these and other resource types are handled by the manager of the CableLabs' Assigned Names and Numbers registry.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes the Namespace Identifier (NID) 'cablelabs' for Uniform Resource Names (URNs) used to identify resources published by Cable Television Laboratories, Inc. (CableLabs).  CableLabs specifies and manages resources that utilize this URN identification model.  Management activities for these and other resource types are handled by the manager of the CableLabs' Assigned Names and Numbers registry.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6289"/>
+  <seriesInfo name="RFC" value="6289"/>
 </reference>

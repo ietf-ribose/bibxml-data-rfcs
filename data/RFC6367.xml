@@ -1,16 +1,18 @@
 <reference anchor="RFC6367" target="https://www.rfc-editor.org/info/rfc6367">
   <front>
     <title>Addition of the Camellia Cipher Suites to Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6367"/>
-    <author fullname="S. Kanno"/>
-    <author fullname="M. Kanda"/>
+    <author fullname="S. Kanno" initials="S." surname="Kanno">
+      <organization/>
+    </author>
+    <author fullname="M. Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
     <date year="2011" month="September"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>TLS</keyword>
-    <keyword>GCM</keyword>
-    <keyword>Eliptic Curve Encryption</keyword>
-    <keyword>Block Cipher</keyword>
-    <keyword>psk</keyword>
-    <abstract>This document specifies forty-two cipher suites for the Transport Security Layer (TLS) protocol to support the Camellia encryption algorithm as a block cipher.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document specifies forty-two cipher suites for the Transport Security Layer (TLS) protocol to support the Camellia encryption algorithm as a block cipher.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6367"/>
+  <seriesInfo name="RFC" value="6367"/>
 </reference>

@@ -1,13 +1,15 @@
 <reference anchor="RFC2004" target="https://www.rfc-editor.org/info/rfc2004">
   <front>
     <title>Minimal Encapsulation within IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2004"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>mobileip</workgroup>
-    <keyword>MINI-IP</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document specifies a method by which an IP datagram may be encapsulated (carried as payload) within an IP datagram, with less overhead than "conventional" IP encapsulation that adds a second IP header to each encapsulated datagram. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a method by which an IP datagram may be encapsulated (carried as payload) within an IP datagram, with less overhead than "conventional" IP encapsulation that adds a second IP header to each encapsulated datagram. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2004"/>
+  <seriesInfo name="RFC" value="2004"/>
 </reference>

@@ -1,16 +1,22 @@
 <reference anchor="RFC7423" target="https://www.rfc-editor.org/info/rfc7423">
   <front>
     <title>Diameter Applications Design Guidelines</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7423"/>
-    <author fullname="L. Morand"/>
-    <author fullname="V. Fajardo"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="L. Morand" initials="L." surname="Morand">
+      <organization/>
+    </author>
+    <author fullname="V. Fajardo" initials="V." surname="Fajardo">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2014" month="November"/>
     <workgroup>dime</workgroup>
-    <keyword>AAA</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Authorization</keyword>
-    <keyword>Accounting</keyword>
-    <abstract>The Diameter base protocol provides facilities for protocol extensibility enabling the definition of new Diameter applications or modification of existing applications.  This document is a companion document to the Diameter base protocol that further explains and clarifies the rules to extend Diameter.  Furthermore, this document provides guidelines to Diameter application designers reusing/ defining Diameter applications or creating generic Diameter extensions.</abstract>
+    <abstract>
+      <t>The Diameter base protocol provides facilities for protocol extensibility enabling the definition of new Diameter applications or modification of existing applications.  This document is a companion document to the Diameter base protocol that further explains and clarifies the rules to extend Diameter.  Furthermore, this document provides guidelines to Diameter application designers reusing/ defining Diameter applications or creating generic Diameter extensions.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7423"/>
+  <seriesInfo name="BCP" value="193"/>
+  <seriesInfo name="RFC" value="7423"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC3623" target="https://www.rfc-editor.org/info/rfc3623">
   <front>
     <title>Graceful OSPF Restart</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3623"/>
-    <author fullname="J. Moy"/>
-    <author fullname="P. Pillay-Esnault"/>
-    <author fullname="A. Lindem"/>
+    <author fullname="J. Moy" initials="J." surname="Moy">
+      <organization/>
+    </author>
+    <author fullname="P. Pillay-Esnault" initials="P." surname="Pillay-Esnault">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
     <date year="2003" month="November"/>
     <workgroup>ospf</workgroup>
-    <keyword>open shortest path first</keyword>
-    <keyword>non-stop forwarding</keyword>
-    <abstract>This memo documents an enhancement to the OSPF routing protocol, whereby an OSPF router can stay on the forwarding path even as its OSPF software is restarted.  This is called "graceful restart" or "non-stop forwarding".  A restarting router may not be capable of adjusting its forwarding in a timely manner when the network topology changes.  In order to avoid the possible resulting routing loops, the procedure in this memo automatically reverts to a normal OSPF restart when such a topology change is detected, or when one or more of the restarting router's neighbors do not support the enhancements in this memo.  Proper network operation during a graceful restart makes assumptions upon the operating environment of the restarting router; these assumptions are also documented.</abstract>
+    <abstract>
+      <t>This memo documents an enhancement to the OSPF routing protocol, whereby an OSPF router can stay on the forwarding path even as its OSPF software is restarted.  This is called "graceful restart" or "non-stop forwarding".  A restarting router may not be capable of adjusting its forwarding in a timely manner when the network topology changes.  In order to avoid the possible resulting routing loops, the procedure in this memo automatically reverts to a normal OSPF restart when such a topology change is detected, or when one or more of the restarting router's neighbors do not support the enhancements in this memo.  Proper network operation during a graceful restart makes assumptions upon the operating environment of the restarting router; these assumptions are also documented.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3623"/>
+  <seriesInfo name="RFC" value="3623"/>
 </reference>

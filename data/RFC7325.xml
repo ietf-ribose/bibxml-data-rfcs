@@ -1,20 +1,27 @@
 <reference anchor="RFC7325" target="https://www.rfc-editor.org/info/rfc7325">
   <front>
     <title>MPLS Forwarding Compliance and Performance Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7325"/>
-    <author fullname="C. Villamizar"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="S. Amante"/>
-    <author fullname="A. Malis"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="S. Amante" initials="S." surname="Amante">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>ECMP</keyword>
-    <keyword>link bundling</keyword>
-    <keyword>multipath</keyword>
-    <keyword>MPLS-TP</keyword>
-    <keyword>forwarding</keyword>
-    <abstract>This document provides guidelines for implementers regarding MPLS forwarding and a basis for evaluations of forwarding implementations.  Guidelines cover many aspects of MPLS forwarding.  Topics are highlighted where implementers might otherwise overlook practical requirements which are unstated or under emphasized or are optional for conformance to RFCs but are often considered mandatory by providers.</abstract>
+    <abstract>
+      <t>This document provides guidelines for implementers regarding MPLS forwarding and a basis for evaluations of forwarding implementations.  Guidelines cover many aspects of MPLS forwarding.  Topics are highlighted where implementers might otherwise overlook practical requirements which are unstated or under emphasized or are optional for conformance to RFCs but are often considered mandatory by providers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7325"/>
+  <seriesInfo name="RFC" value="7325"/>
 </reference>

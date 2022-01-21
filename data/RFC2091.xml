@@ -1,12 +1,18 @@
 <reference anchor="RFC2091" target="https://www.rfc-editor.org/info/rfc2091">
   <front>
     <title>Triggered Extensions to RIP to Support Demand Circuits</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2091"/>
-    <author fullname="G. Meyer"/>
-    <author fullname="S. Sherry"/>
+    <author fullname="G. Meyer" initials="G." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="S. Sherry" initials="S." surname="Sherry">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
     <workgroup>rip</workgroup>
-    <keyword>RIP-TRIG</keyword>
-    <abstract>This document defines a modification which can be applied to Bellman- Ford (distance vector) algorithm information broadcasting protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a modification which can be applied to Bellman- Ford (distance vector) algorithm information broadcasting protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2091"/>
+  <seriesInfo name="RFC" value="2091"/>
 </reference>

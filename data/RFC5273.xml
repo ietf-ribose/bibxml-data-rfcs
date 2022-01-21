@@ -1,16 +1,18 @@
 <reference anchor="RFC5273" target="https://www.rfc-editor.org/info/rfc5273">
   <front>
     <title>Certificate Management over CMS (CMC): Transport Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5273"/>
-    <author fullname="J. Schaad"/>
-    <author fullname="M. Myers"/>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
+    <author fullname="M. Myers" initials="M." surname="Myers">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>cryptographic message syntax</keyword>
-    <keyword>http</keyword>
-    <keyword>file</keyword>
-    <keyword>mail</keyword>
-    <keyword>tcp</keyword>
-    <abstract>This document defines a number of transport mechanisms that are used to move CMC (Certificate Management over CMS (Cryptographic Message Syntax)) messages.  The transport mechanisms described in this document are HTTP, file, mail, and TCP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a number of transport mechanisms that are used to move CMC (Certificate Management over CMS (Cryptographic Message Syntax)) messages.  The transport mechanisms described in this document are HTTP, file, mail, and TCP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5273"/>
+  <seriesInfo name="RFC" value="5273"/>
 </reference>

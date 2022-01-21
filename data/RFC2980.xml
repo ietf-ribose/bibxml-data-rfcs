@@ -1,14 +1,15 @@
 <reference anchor="RFC2980" target="https://www.rfc-editor.org/info/rfc2980">
   <front>
     <title>Common NNTP Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2980"/>
-    <author fullname="S. Barber"/>
+    <author fullname="S. Barber" initials="S." surname="Barber">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>nntpext</workgroup>
-    <keyword>network</keyword>
-    <keyword>news</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <abstract>In this document, a number of popular extensions to the Network News Transfer Protocol (NNTP) protocol defined in RFC 977 are documented and discussed.  While this document is not intended to serve as a standard of any kind, it will hopefully serve as a reference document for future implementers of the NNTP protocol.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>In this document, a number of popular extensions to the Network News Transfer Protocol (NNTP) protocol defined in RFC 977 are documented and discussed.  While this document is not intended to serve as a standard of any kind, it will hopefully serve as a reference document for future implementers of the NNTP protocol.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2980"/>
+  <seriesInfo name="RFC" value="2980"/>
 </reference>

@@ -1,19 +1,15 @@
 <reference anchor="RFC2164" target="https://www.rfc-editor.org/info/rfc2164">
   <front>
     <title>Use of an X.500/LDAP directory to support MIXER address mapping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2164"/>
-    <author fullname="S. Kille"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>mixer</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>mime</keyword>
-    <keyword>internet</keyword>
-    <keyword>x,.400</keyword>
-    <keyword>enhanced</keyword>
-    <keyword>relay</keyword>
-    <abstract>This specification defines how to represent and maintain these mappings (MIXER Conformant Global Address Mappings of MCGAMs) in an X.500 or LDAP directory. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines how to represent and maintain these mappings (MIXER Conformant Global Address Mappings of MCGAMs) in an X.500 or LDAP directory. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2164"/>
+  <seriesInfo name="RFC" value="2164"/>
 </reference>

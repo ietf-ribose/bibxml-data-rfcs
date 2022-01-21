@@ -1,14 +1,21 @@
 <reference anchor="RFC7283" target="https://www.rfc-editor.org/info/rfc7283">
   <front>
     <title>Handling Unknown DHCPv6 Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7283"/>
-    <author fullname="Y. Cui"/>
-    <author fullname="Q. Sun"/>
-    <author fullname="T. Lemon"/>
+    <author fullname="Y. Cui" initials="Y." surname="Cui">
+      <organization/>
+    </author>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>dhc</workgroup>
-    <keyword>DHCPv6</keyword>
-    <keyword>Unknown Messages</keyword>
-    <abstract>DHCPv6 is not specific about handling messages with unknown types.  This memo describes the problems associated with receiving DHCPv6 messages with unknown types, and defines how a DHCPv6 server, client, or relay agent should behave when receiving unknown DHCPv6 messages.  This document also provides advice for authors of future documents that define new messages to be sent from DHCP servers to DHCP relay agents.  This document updates RFC 3315.</abstract>
+    <abstract>
+      <t>DHCPv6 is not specific about handling messages with unknown types.  This memo describes the problems associated with receiving DHCPv6 messages with unknown types, and defines how a DHCPv6 server, client, or relay agent should behave when receiving unknown DHCPv6 messages.  This document also provides advice for authors of future documents that define new messages to be sent from DHCP servers to DHCP relay agents.  This document updates RFC 3315.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7283"/>
+  <seriesInfo name="RFC" value="7283"/>
 </reference>

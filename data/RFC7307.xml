@@ -1,17 +1,31 @@
 <reference anchor="RFC7307" target="https://www.rfc-editor.org/info/rfc7307">
   <front>
     <title>LDP Extensions for Multi-Topology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7307"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="K. Raza"/>
-    <author fullname="C. Zhou"/>
-    <author fullname="L. Fang"/>
-    <author fullname="L. Li"/>
-    <author fullname="D. King"/>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="K. Raza" initials="K." surname="Raza">
+      <organization/>
+    </author>
+    <author fullname="C. Zhou" initials="C." surname="Zhou">
+      <organization/>
+    </author>
+    <author fullname="L. Fang" initials="L." surname="Fang">
+      <organization/>
+    </author>
+    <author fullname="L. Li" initials="L." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>mpls</workgroup>
-    <keyword>MT</keyword>
-    <keyword>Label Distribution Protocol</keyword>
-    <abstract>Multi-Topology (MT) routing is supported in IP networks with the use of MT-aware IGPs. In order to provide MT routing within Multiprotocol Label Switching (MPLS) Label Distribution Protocol (LDP) networks, new extensions are required. This document describes the LDP protocol extensions required to support MT routing in an MPLS environment.</abstract>
+    <abstract>
+      <t>Multi-Topology (MT) routing is supported in IP networks with the use of MT-aware IGPs. In order to provide MT routing within Multiprotocol Label Switching (MPLS) Label Distribution Protocol (LDP) networks, new extensions are required.</t>
+      <t>This document describes the LDP protocol extensions required to support MT routing in an MPLS environment.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7307"/>
+  <seriesInfo name="RFC" value="7307"/>
 </reference>

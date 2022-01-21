@@ -1,13 +1,21 @@
 <reference anchor="RFC7670" target="https://www.rfc-editor.org/info/rfc7670">
   <front>
     <title>Generic Raw Public-Key Support for IKEv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7670"/>
-    <author fullname="T. Kivinen"/>
-    <author fullname="P. Wouters"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="T. Kivinen" initials="T." surname="Kivinen">
+      <organization/>
+    </author>
+    <author fullname="P. Wouters" initials="P." surname="Wouters">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2016" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Internet Key Exchange Version 2</keyword>
-    <abstract>The Internet Key Exchange Version 2 (IKEv2) protocol did have support for raw public keys, but it only supported RSA raw public keys.  In constrained environments, it is useful to make use of other types of public keys, such as those based on Elliptic Curve Cryptography.  This document updates RFC 7296, adding support for other types of raw public keys to IKEv2.</abstract>
+    <abstract>
+      <t>The Internet Key Exchange Version 2 (IKEv2) protocol did have support for raw public keys, but it only supported RSA raw public keys.  In constrained environments, it is useful to make use of other types of public keys, such as those based on Elliptic Curve Cryptography.  This document updates RFC 7296, adding support for other types of raw public keys to IKEv2.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7670"/>
+  <seriesInfo name="RFC" value="7670"/>
 </reference>

@@ -1,15 +1,18 @@
 <reference anchor="RFC6755" target="https://www.rfc-editor.org/info/rfc6755">
   <front>
     <title>An IETF URN Sub-Namespace for OAuth</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6755"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2012" month="October"/>
     <workgroup>oauth</workgroup>
-    <keyword>OAuth</keyword>
-    <keyword>URN</keyword>
-    <keyword>sub-namespace</keyword>
-    <keyword>urn:ietf:params:oauth</keyword>
-    <abstract>This document establishes an IETF URN Sub-namespace for use with OAuth-related specifications.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document establishes an IETF URN Sub-namespace for use with OAuth-related specifications.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6755"/>
+  <seriesInfo name="RFC" value="6755"/>
 </reference>

@@ -1,14 +1,19 @@
 <reference anchor="RFC6955" target="https://www.rfc-editor.org/info/rfc6955">
   <front>
     <title>Diffie-Hellman Proof-of-Possession Algorithms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6955"/>
-    <author fullname="J. Schaad"/>
-    <author fullname="H. Prafullchandra"/>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
+    <author fullname="H. Prafullchandra" initials="H." surname="Prafullchandra">
+      <organization/>
+    </author>
     <date year="2013" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>POP</keyword>
-    <keyword>ECDH</keyword>
-    <keyword>DH</keyword>
-    <abstract>This document describes two methods for producing an integrity check value from a Diffie-Hellman key pair and one method for producing an integrity check value from an Elliptic Curve key pair. This behavior is needed for such operations as creating the signature of a Public-Key Cryptography Standards (PKCS) #10 Certification Request. These algorithms are designed to provide a Proof-of-Possession of the private key and not to be a general purpose signing algorithm. This document obsoletes RFC 2875.</abstract>
+    <abstract>
+      <t>This document describes two methods for producing an integrity check value from a Diffie-Hellman key pair and one method for producing an integrity check value from an Elliptic Curve key pair. This behavior is needed for such operations as creating the signature of a Public-Key Cryptography Standards (PKCS) #10 Certification Request. These algorithms are designed to provide a Proof-of-Possession of the private key and not to be a general purpose signing algorithm.</t>
+      <t>This document obsoletes RFC 2875.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6955"/>
+  <seriesInfo name="RFC" value="6955"/>
 </reference>

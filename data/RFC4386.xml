@@ -1,14 +1,18 @@
 <reference anchor="RFC4386" target="https://www.rfc-editor.org/info/rfc4386">
   <front>
     <title>Internet X.509 Public Key Infrastructure Repository Locator Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4386"/>
-    <author fullname="S. Boeyen"/>
-    <author fullname="P. Hallam-Baker"/>
+    <author fullname="S. Boeyen" initials="S." surname="Boeyen">
+      <organization/>
+    </author>
+    <author fullname="P. Hallam-Baker" initials="P." surname="Hallam-Baker">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>pkix</workgroup>
-    <keyword>pki</keyword>
-    <keyword>public key infrastructure</keyword>
-    <keyword>dns srv</keyword>
-    <abstract>This document defines a Public Key Infrastructure (PKI) repository locator service.  The service makes use of DNS SRV records defined in accordance with RFC 2782.  The service enables certificate-using systems to locate PKI repositories.This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines a Public Key Infrastructure (PKI) repository locator service.  The service makes use of DNS SRV records defined in accordance with RFC 2782.  The service enables certificate-using systems to locate PKI repositories.This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4386"/>
+  <seriesInfo name="RFC" value="4386"/>
 </reference>

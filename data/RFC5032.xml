@@ -1,13 +1,15 @@
 <reference anchor="RFC5032" target="https://www.rfc-editor.org/info/rfc5032">
   <front>
     <title>WITHIN Search Extension to the IMAP Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5032"/>
-    <author fullname="E. Burger"/>
+    <author fullname="E. Burger" initials="E." surname="Burger">
+      <organization/>
+    </author>
     <date year="2007" month="September"/>
     <workgroup>lemonade</workgroup>
-    <keyword>imap search</keyword>
-    <keyword>older</keyword>
-    <keyword>younger</keyword>
-    <abstract>This document describes the WITHIN extension to IMAP SEARCH.  IMAP SEARCH returns messages whose internal date is within or outside a specified interval.  The mechanism described here, OLDER and YOUNGER, differs from BEFORE and SINCE in that the client specifies an interval, rather than a date.  WITHIN is useful for persistent searches where either the device does not have the capacity to perform the search at regular intervals or the network is of limited bandwidth and thus there is a desire to reduce network traffic from sending repeated requests and redundant responses. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the WITHIN extension to IMAP SEARCH.  IMAP SEARCH returns messages whose internal date is within or outside a specified interval.  The mechanism described here, OLDER and YOUNGER, differs from BEFORE and SINCE in that the client specifies an interval, rather than a date.  WITHIN is useful for persistent searches where either the device does not have the capacity to perform the search at regular intervals or the network is of limited bandwidth and thus there is a desire to reduce network traffic from sending repeated requests and redundant responses. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5032"/>
+  <seriesInfo name="RFC" value="5032"/>
 </reference>

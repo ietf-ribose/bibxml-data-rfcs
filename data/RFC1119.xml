@@ -1,14 +1,14 @@
 <reference anchor="RFC1119" target="https://www.rfc-editor.org/info/rfc1119">
   <front>
     <title>Network Time Protocol (version 2) specification and implementation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1119"/>
-    <author fullname="D.L. Mills"/>
+    <author fullname="D.L. Mills" initials="D.L." surname="Mills">
+      <organization/>
+    </author>
     <date year="1989" month="September"/>
-    <keyword>NTP</keyword>
-    <keyword>NTPv2</keyword>
-    <keyword>time</keyword>
-    <keyword>clock</keyword>
-    <keyword>synchronization</keyword>
-    <abstract>This document describes the Network Time Protocol (NTP), specifies its formal structure and summarizes information useful for its implementation.  NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave.  It uses a returnable-time design in which a distributed subnet of time servers operating in a self- organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio.  The servers can also redistribute reference time via local routing algorithms and time daemons. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Network Time Protocol (NTP), specifies its formal structure and summarizes information useful for its implementation.  NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave.  It uses a returnable-time design in which a distributed subnet of time servers operating in a self- organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio.  The servers can also redistribute reference time via local routing algorithms and time daemons. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1119"/>
+  <seriesInfo name="RFC" value="1119"/>
 </reference>

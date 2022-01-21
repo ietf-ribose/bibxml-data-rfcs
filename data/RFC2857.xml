@@ -1,16 +1,18 @@
 <reference anchor="RFC2857" target="https://www.rfc-editor.org/info/rfc2857">
   <front>
     <title>The Use of HMAC-RIPEMD-160-96 within ESP and AH</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2857"/>
-    <author fullname="A. Keromytis"/>
-    <author fullname="N. Provos"/>
+    <author fullname="A. Keromytis" initials="A." surname="Keromytis">
+      <organization/>
+    </author>
+    <author fullname="N. Provos" initials="N." surname="Provos">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>encapsulating</keyword>
-    <keyword>security</keyword>
-    <keyword>payload</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memo describes the use of the HMAC algorithm in conjunction with the RIPEMD-160 algorithm as an authentication mechanism within the revised IPSEC Encapsulating Security Payload (ESP) and the revised IPSEC Authentication Header (AH). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the use of the HMAC algorithm in conjunction with the RIPEMD-160 algorithm as an authentication mechanism within the revised IPSEC Encapsulating Security Payload (ESP) and the revised IPSEC Authentication Header (AH). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2857"/>
+  <seriesInfo name="RFC" value="2857"/>
 </reference>

@@ -1,16 +1,27 @@
 <reference anchor="RFC3640" target="https://www.rfc-editor.org/info/rfc3640">
   <front>
     <title>RTP Payload Format for Transport of MPEG-4 Elementary Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3640"/>
-    <author fullname="J. van der Meer"/>
-    <author fullname="D. Mackie"/>
-    <author fullname="V. Swaminathan"/>
-    <author fullname="D. Singer"/>
-    <author fullname="P. Gentric"/>
+    <author fullname="J. van der Meer" initials="J." surname="van">
+      <organization/>
+    </author>
+    <author fullname="D. Mackie" initials="D." surname="Mackie">
+      <organization/>
+    </author>
+    <author fullname="V. Swaminathan" initials="V." surname="Swaminathan">
+      <organization/>
+    </author>
+    <author fullname="D. Singer" initials="D." surname="Singer">
+      <organization/>
+    </author>
+    <author fullname="P. Gentric" initials="P." surname="Gentric">
+      <organization/>
+    </author>
     <date year="2003" month="November"/>
     <workgroup>avt</workgroup>
-    <keyword>real time transport protocol</keyword>
-    <keyword>audio video streams</keyword>
-    <abstract>The Motion Picture Experts Group (MPEG) Committee (ISO/IEC JTC1/SC29 WG11) is a working group in ISO that produced the MPEG-4 standard.  MPEG defines tools to compress content such as audio-visual information into elementary streams.  This specification defines a simple, but generic RTP payload format for transport of any non-multiplexed MPEG-4 elementary stream.</abstract>
+    <abstract>
+      <t>The Motion Picture Experts Group (MPEG) Committee (ISO/IEC JTC1/SC29 WG11) is a working group in ISO that produced the MPEG-4 standard.  MPEG defines tools to compress content such as audio-visual information into elementary streams.  This specification defines a simple, but generic RTP payload format for transport of any non-multiplexed MPEG-4 elementary stream.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3640"/>
+  <seriesInfo name="RFC" value="3640"/>
 </reference>

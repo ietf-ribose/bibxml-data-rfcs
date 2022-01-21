@@ -1,12 +1,14 @@
 <reference anchor="RFC2054" target="https://www.rfc-editor.org/info/rfc2054">
   <front>
     <title>WebNFS Client Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2054"/>
-    <author fullname="B. Callaghan"/>
+    <author fullname="B. Callaghan" initials="B." surname="Callaghan">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
-    <keyword>Network</keyword>
-    <keyword>Fil</keyword>
-    <keyword>System</keyword>
-    <abstract>This document describes a lightweight binding mechanism that allows NFS clients to obtain service from WebNFS-enabled servers with a minimum of protocol overhead.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes a lightweight binding mechanism that allows NFS clients to obtain service from WebNFS-enabled servers with a minimum of protocol overhead.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2054"/>
+  <seriesInfo name="RFC" value="2054"/>
 </reference>

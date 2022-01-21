@@ -1,14 +1,21 @@
 <reference anchor="RFC5408" target="https://www.rfc-editor.org/info/rfc5408">
   <front>
     <title>Identity-Based Encryption Architecture and Supporting Data Structures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5408"/>
-    <author fullname="G. Appenzeller"/>
-    <author fullname="L. Martin"/>
-    <author fullname="M. Schertler"/>
+    <author fullname="G. Appenzeller" initials="G." surname="Appenzeller">
+      <organization/>
+    </author>
+    <author fullname="L. Martin" initials="L." surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="M. Schertler" initials="M." surname="Schertler">
+      <organization/>
+    </author>
     <date year="2009" month="January"/>
     <workgroup>smime</workgroup>
-    <keyword>public key</keyword>
-    <keyword>public-key encryption technology</keyword>
-    <abstract>This document describes the security architecture required to implement identity-based encryption, a public-key encryption technology that uses a user's identity as a public key.  It also defines data structures that can be used to implement the technology.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the security architecture required to implement identity-based encryption, a public-key encryption technology that uses a user's identity as a public key.  It also defines data structures that can be used to implement the technology.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5408"/>
+  <seriesInfo name="RFC" value="5408"/>
 </reference>

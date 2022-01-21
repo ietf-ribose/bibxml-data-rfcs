@@ -1,13 +1,25 @@
 <reference anchor="RFC5868" target="https://www.rfc-editor.org/info/rfc5868">
   <front>
     <title>Problem Statement on the Cross-Realm Operation of Kerberos</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5868"/>
-    <author fullname="S. Sakane"/>
-    <author fullname="K. Kamada"/>
-    <author fullname="S. Zrelli"/>
-    <author fullname="M. Ishiyama"/>
+    <author fullname="S. Sakane" initials="S." surname="Sakane">
+      <organization/>
+    </author>
+    <author fullname="K. Kamada" initials="K." surname="Kamada">
+      <organization/>
+    </author>
+    <author fullname="S. Zrelli" initials="S." surname="Zrelli">
+      <organization/>
+    </author>
+    <author fullname="M. Ishiyama" initials="M." surname="Ishiyama">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>krb-wg</workgroup>
-    <abstract>This document provides background information regarding large-scale Kerberos deployments in the industrial sector, with the aim of identifying issues in the current Kerberos cross-realm authentication model as defined in RFC 4120. This document describes some examples of actual large-scale industrial systems, and lists requirements and restrictions regarding authentication operations in such environments. It also identifies a number of requirements derived from the industrial automation field. Although they are found in the field of industrial automation, these requirements are general enough and are applicable to the problem of Kerberos cross-realm operations. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document provides background information regarding large-scale Kerberos deployments in the industrial sector, with the aim of identifying issues in the current Kerberos cross-realm authentication model as defined in RFC 4120.</t>
+      <t>This document describes some examples of actual large-scale industrial systems, and lists requirements and restrictions regarding authentication operations in such environments. It also identifies a number of requirements derived from the industrial automation field. Although they are found in the field of industrial automation, these requirements are general enough and are applicable to the problem of Kerberos cross-realm operations. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5868"/>
+  <seriesInfo name="RFC" value="5868"/>
 </reference>

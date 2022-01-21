@@ -1,10 +1,14 @@
 <reference anchor="RFC0872" target="https://www.rfc-editor.org/info/rfc872">
   <front>
     <title>TCP-on-a-LAN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0872"/>
-    <author fullname="M.A. Padlipsky"/>
+    <author fullname="M.A. Padlipsky" initials="M.A." surname="Padlipsky">
+      <organization/>
+    </author>
     <date year="1982" month="September"/>
-    <keyword>TCP LAN</keyword>
-    <abstract>This memo attacks the notion that TCP cannot be appropriate for use on a Local Area Network.  Originally published as M82-48 by the MITRE Corporation, Bedford Massachusetts.</abstract>
+    <abstract>
+      <t>This memo attacks the notion that TCP cannot be appropriate for use on a Local Area Network.  Originally published as M82-48 by the MITRE Corporation, Bedford Massachusetts.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0872"/>
+  <seriesInfo name="RFC" value="872"/>
 </reference>

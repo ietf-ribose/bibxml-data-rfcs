@@ -1,17 +1,17 @@
 <reference anchor="RFC2481" target="https://www.rfc-editor.org/info/rfc2481">
   <front>
     <title>A Proposal to add Explicit Congestion Notification (ECN) to IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2481"/>
-    <author fullname="K. Ramakrishnan"/>
-    <author fullname="S. Floyd"/>
+    <author fullname="K. Ramakrishnan" initials="K." surname="Ramakrishnan">
+      <organization/>
+    </author>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
-    <keyword>ECN-IP</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>tcp</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>transport</keyword>
-    <abstract>This note describes a proposed addition of ECN (Explicit Congestion Notification) to IP.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This note describes a proposed addition of ECN (Explicit Congestion Notification) to IP.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2481"/>
+  <seriesInfo name="RFC" value="2481"/>
 </reference>

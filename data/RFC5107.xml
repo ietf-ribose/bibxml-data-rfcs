@@ -1,18 +1,24 @@
 <reference anchor="RFC5107" target="https://www.rfc-editor.org/info/rfc5107">
   <front>
     <title>DHCP Server Identifier Override Suboption</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5107"/>
-    <author fullname="R. Johnson"/>
-    <author fullname="J. Kumarasamy"/>
-    <author fullname="K. Kinnear"/>
-    <author fullname="M. Stapp"/>
+    <author fullname="R. Johnson" initials="R." surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="J. Kumarasamy" initials="J." surname="Kumarasamy">
+      <organization/>
+    </author>
+    <author fullname="K. Kinnear" initials="K." surname="Kinnear">
+      <organization/>
+    </author>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>dhc</workgroup>
-    <keyword>xml</keyword>
-    <keyword>extensible markup langauge</keyword>
-    <keyword>dynamic host configuration protocol</keyword>
-    <keyword>RENEW DHCPREQUEST</keyword>
-    <keyword>DHCP RENEW</keyword>
-    <abstract>This memo defines a new suboption of the DHCP relay information option that allows the DHCP relay to specify a new value for the Server Identifier option, which is inserted by the DHCP Server.  This allows the DHCP relay to act as the actual DHCP server such that RENEW DHCPREQUESTs will come to the relay instead of going to the server directly.  This gives the relay the opportunity to include the Relay Agent option with appropriate suboptions even on DHCP RENEW messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a new suboption of the DHCP relay information option that allows the DHCP relay to specify a new value for the Server Identifier option, which is inserted by the DHCP Server.  This allows the DHCP relay to act as the actual DHCP server such that RENEW DHCPREQUESTs will come to the relay instead of going to the server directly.  This gives the relay the opportunity to include the Relay Agent option with appropriate suboptions even on DHCP RENEW messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5107"/>
+  <seriesInfo name="RFC" value="5107"/>
 </reference>

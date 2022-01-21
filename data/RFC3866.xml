@@ -1,15 +1,15 @@
 <reference anchor="RFC3866" target="https://www.rfc-editor.org/info/rfc3866">
   <front>
     <title>Language Tags and Ranges in the Lightweight Directory Access Protocol (LDAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3866"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>servers</keyword>
-    <abstract>It is often desirable to be able to indicate the natural language associated with values held in a directory and to be able to query the directory for values which fulfill the user's language needs.  This document details the use of Language Tags and Ranges in the Lightweight Directory Access Protocol (LDAP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>It is often desirable to be able to indicate the natural language associated with values held in a directory and to be able to query the directory for values which fulfill the user's language needs.  This document details the use of Language Tags and Ranges in the Lightweight Directory Access Protocol (LDAP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3866"/>
+  <seriesInfo name="RFC" value="3866"/>
 </reference>

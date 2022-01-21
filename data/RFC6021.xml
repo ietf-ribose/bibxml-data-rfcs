@@ -1,12 +1,15 @@
 <reference anchor="RFC6021" target="https://www.rfc-editor.org/info/rfc6021">
   <front>
     <title>Common YANG Data Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6021"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>netmod</workgroup>
-    <keyword>YANG</keyword>
-    <keyword>NETCONF</keyword>
-    <abstract>This document introduces a collection of common data types to be used with the YANG data modeling language. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document introduces a collection of common data types to be used with the YANG data modeling language. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6021"/>
+  <seriesInfo name="RFC" value="6021"/>
 </reference>

@@ -1,18 +1,21 @@
 <reference anchor="RFC2024" target="https://www.rfc-editor.org/info/rfc2024">
   <front>
     <title>Definitions of Managed Objects for Data Link Switching using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2024"/>
-    <author fullname="D. Chen"/>
-    <author fullname="P. Gayek"/>
-    <author fullname="S. Nix"/>
+    <author fullname="D. Chen" initials="D." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="P. Gayek" initials="P." surname="Gayek">
+      <organization/>
+    </author>
+    <author fullname="S. Nix" initials="S." surname="Nix">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>dlswmib</workgroup>
-    <keyword>DLSW-MIB</keyword>
-    <keyword>MIB</keyword>
-    <keyword>DLSW</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling Data Link Switches (DLSw). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling Data Link Switches (DLSw). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2024"/>
+  <seriesInfo name="RFC" value="2024"/>
 </reference>

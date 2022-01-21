@@ -1,13 +1,24 @@
 <reference anchor="RFC7941" target="https://www.rfc-editor.org/info/rfc7941">
   <front>
     <title>RTP Header Extension for the RTP Control Protocol (RTCP) Source Description Items</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7941"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="B. Burman"/>
-    <author fullname="R. Even"/>
-    <author fullname="M. Zanaty"/>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="B. Burman" initials="B." surname="Burman">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="M. Zanaty" initials="M." surname="Zanaty">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>avtext</workgroup>
-    <abstract>Source Description (SDES) items are normally transported in the RTP Control Protocol (RTCP).  In some cases, it can be beneficial to speed up the delivery of these items.  The main case is when a new synchronization source (SSRC) joins an RTP session and the receivers need this source's identity, relation to other sources, or its synchronization context, all of which may be fully or partially identified using SDES items.  To enable this optimization, this document specifies a new RTP header extension that can carry SDES items.</abstract>
+    <abstract>
+      <t>Source Description (SDES) items are normally transported in the RTP Control Protocol (RTCP).  In some cases, it can be beneficial to speed up the delivery of these items.  The main case is when a new synchronization source (SSRC) joins an RTP session and the receivers need this source's identity, relation to other sources, or its synchronization context, all of which may be fully or partially identified using SDES items.  To enable this optimization, this document specifies a new RTP header extension that can carry SDES items.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7941"/>
+  <seriesInfo name="RFC" value="7941"/>
 </reference>

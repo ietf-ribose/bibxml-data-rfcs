@@ -1,16 +1,21 @@
 <reference anchor="RFC2414" target="https://www.rfc-editor.org/info/rfc2414">
   <front>
     <title>Increasing TCP's Initial Window</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2414"/>
-    <author fullname="M. Allman"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="C. Partridge"/>
+    <author fullname="M. Allman" initials="M." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
     <workgroup>tcpimpl</workgroup>
-    <keyword>TCP-WIN</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document specifies an increase in the permitted initial window for TCP from one segment to roughly 4K bytes.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies an increase in the permitted initial window for TCP from one segment to roughly 4K bytes.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2414"/>
+  <seriesInfo name="RFC" value="2414"/>
 </reference>

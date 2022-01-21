@@ -1,14 +1,27 @@
 <reference anchor="RFC5669" target="https://www.rfc-editor.org/info/rfc5669">
   <front>
     <title>The SEED Cipher Algorithm and Its Use with the Secure Real-Time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5669"/>
-    <author fullname="S. Yoon"/>
-    <author fullname="J. Kim"/>
-    <author fullname="H. Park"/>
-    <author fullname="H. Jeong"/>
-    <author fullname="Y. Won"/>
+    <author fullname="S. Yoon" initials="S." surname="Yoon">
+      <organization/>
+    </author>
+    <author fullname="J. Kim" initials="J." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="H. Park" initials="H." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="H. Jeong" initials="H." surname="Jeong">
+      <organization/>
+    </author>
+    <author fullname="Y. Won" initials="Y." surname="Won">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>avt</workgroup>
-    <abstract>This document describes the use of the SEED block cipher algorithm in the Secure Real-time Transport Protocol (SRTP) for providing confidentiality for Real-time Transport Protocol (RTP) traffic and for the control traffic for RTP, the Real-time Transport Control Protocol (RTCP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of the SEED block cipher algorithm in the Secure Real-time Transport Protocol (SRTP) for providing confidentiality for Real-time Transport Protocol (RTP) traffic and for the control traffic for RTP, the Real-time Transport Control Protocol (RTCP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5669"/>
+  <seriesInfo name="RFC" value="5669"/>
 </reference>

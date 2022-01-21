@@ -1,16 +1,27 @@
 <reference anchor="RFC4029" target="https://www.rfc-editor.org/info/rfc4029">
   <front>
     <title>Scenarios and Analysis for Introducing IPv6 into ISP Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4029"/>
-    <author fullname="M. Lind"/>
-    <author fullname="V. Ksinant"/>
-    <author fullname="S. Park"/>
-    <author fullname="A. Baudot"/>
-    <author fullname="P. Savola"/>
+    <author fullname="M. Lind" initials="M." surname="Lind">
+      <organization/>
+    </author>
+    <author fullname="V. Ksinant" initials="V." surname="Ksinant">
+      <organization/>
+    </author>
+    <author fullname="S. Park" initials="S." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="A. Baudot" initials="A." surname="Baudot">
+      <organization/>
+    </author>
+    <author fullname="P. Savola" initials="P." surname="Savola">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>v6ops</workgroup>
-    <keyword>internet service provider</keyword>
-    <keyword>internet protocol</keyword>
-    <abstract>This document describes different scenarios for the introduction of IPv6 into an ISP's existing IPv4 network without disrupting the IPv4 service.  The scenarios for introducing IPv6 are analyzed, and the relevance of already defined transition mechanisms are evaluated.  Known challenges are also identified.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes different scenarios for the introduction of IPv6 into an ISP's existing IPv4 network without disrupting the IPv4 service.  The scenarios for introducing IPv6 are analyzed, and the relevance of already defined transition mechanisms are evaluated.  Known challenges are also identified.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4029"/>
+  <seriesInfo name="RFC" value="4029"/>
 </reference>

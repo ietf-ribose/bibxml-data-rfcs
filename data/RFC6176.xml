@@ -1,11 +1,18 @@
 <reference anchor="RFC6176" target="https://www.rfc-editor.org/info/rfc6176">
   <front>
     <title>Prohibiting Secure Sockets Layer (SSL) Version 2.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6176"/>
-    <author fullname="S. Turner"/>
-    <author fullname="T. Polk"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="T. Polk" initials="T." surname="Polk">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>tls</workgroup>
-    <abstract>This document requires that when Transport Layer Security (TLS) clients and servers establish connections, they never negotiate the use of Secure Sockets Layer (SSL) version 2.0.  This document updates the backward compatibility sections found in the Transport Layer Security (TLS). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document requires that when Transport Layer Security (TLS) clients and servers establish connections, they never negotiate the use of Secure Sockets Layer (SSL) version 2.0.  This document updates the backward compatibility sections found in the Transport Layer Security (TLS). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6176"/>
+  <seriesInfo name="RFC" value="6176"/>
 </reference>

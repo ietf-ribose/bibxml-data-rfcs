@@ -1,16 +1,25 @@
 <reference anchor="RFC4659" target="https://www.rfc-editor.org/info/rfc4659">
   <front>
     <title>BGP-MPLS IP Virtual Private Network (VPN) Extension for IPv6 VPN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4659"/>
-    <author fullname="J. De Clercq"/>
-    <author fullname="D. Ooms"/>
-    <author fullname="M. Carugi"/>
-    <author fullname="F. Le Faucheur"/>
+    <author fullname="J. De Clercq" initials="J." surname="De">
+      <organization/>
+    </author>
+    <author fullname="D. Ooms" initials="D." surname="Ooms">
+      <organization/>
+    </author>
+    <author fullname="M. Carugi" initials="M." surname="Carugi">
+      <organization/>
+    </author>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>service provider</keyword>
-    <keyword>border gateway protocol</keyword>
-    <keyword>multiprotocol label switching</keyword>
-    <abstract>This document describes a method by which a Service Provider may use its packet-switched backbone to provide Virtual Private Network (VPN) services for its IPv6 customers. This method reuses, and extends where necessary, the "BGP/MPLS IP VPN" method for support of IPv6. In BGP/MPLS IP VPN, "Multiprotocol BGP" is used for distributing IPv4 VPN routes over the service provider backbone, and MPLS is used to forward IPv4 VPN packets over the backbone. This document defines an IPv6 VPN address family and describes the corresponding IPv6 VPN route distribution in "Multiprotocol BGP". This document defines support of the IPv6 VPN service over both an IPv4 and an IPv6 backbone, and for using various tunneling techniques over the core, including MPLS, IP-in-IP, Generic Routing Encapsulation (GRE) and IPsec protected tunnels. The inter-working between an IPv4 site and an IPv6 site is outside the scope of this document. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a method by which a Service Provider may use its packet-switched backbone to provide Virtual Private Network (VPN) services for its IPv6 customers. This method reuses, and extends where necessary, the "BGP/MPLS IP VPN" method for support of IPv6. In BGP/MPLS IP VPN, "Multiprotocol BGP" is used for distributing IPv4 VPN routes over the service provider backbone, and MPLS is used to forward IPv4 VPN packets over the backbone. This document defines an IPv6 VPN address family and describes the corresponding IPv6 VPN route distribution in "Multiprotocol BGP".</t>
+      <t>This document defines support of the IPv6 VPN service over both an IPv4 and an IPv6 backbone, and for using various tunneling techniques over the core, including MPLS, IP-in-IP, Generic Routing Encapsulation (GRE) and IPsec protected tunnels. The inter-working between an IPv4 site and an IPv6 site is outside the scope of this document. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4659"/>
+  <seriesInfo name="RFC" value="4659"/>
 </reference>

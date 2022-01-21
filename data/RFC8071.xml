@@ -1,11 +1,15 @@
 <reference anchor="RFC8071" target="https://www.rfc-editor.org/info/rfc8071">
   <front>
     <title>NETCONF Call Home and RESTCONF Call Home</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8071"/>
-    <author fullname="K. Watsen"/>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>netconf</workgroup>
-    <keyword>call-home</keyword>
-    <abstract>This RFC presents NETCONF Call Home and RESTCONF Call Home, which enable a NETCONF or RESTCONF server to initiate a secure connection to a NETCONF or RESTCONF client, respectively.</abstract>
+    <abstract>
+      <t>This RFC presents NETCONF Call Home and RESTCONF Call Home, which enable a NETCONF or RESTCONF server to initiate a secure connection to a NETCONF or RESTCONF client, respectively.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8071"/>
+  <seriesInfo name="RFC" value="8071"/>
 </reference>

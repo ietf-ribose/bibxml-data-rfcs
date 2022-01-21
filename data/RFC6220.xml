@@ -1,13 +1,26 @@
 <reference anchor="RFC6220" target="https://www.rfc-editor.org/info/rfc6220">
   <front>
     <title>Defining the Role and Function of IETF Protocol Parameter Registry Operators</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6220"/>
-    <author fullname="D. McPherson"/>
-    <author fullname="O. Kolkman"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="G. Huston"/>
-    <author fullname="Internet Architecture Board"/>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
+    <author fullname="O. Kolkman" initials="O." surname="Kolkman">
+      <organization/>
+    </author>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="Internet Architecture Board" initials="Internet" surname="Architecture">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
-    <abstract>Many Internet Engineering Task Force (IETF) protocols make use of commonly defined values that are passed in messages or packets.  To ensure consistent interpretation of these values between independent implementations, there is a need to ensure that the values and associated semantic intent are uniquely defined.  The IETF uses registry functions to record assigned protocol parameter values and their associated semantic intentions.  For each IETF protocol parameter, it is current practice for the IETF to delegate the role of Protocol Parameter Registry Operator to a nominated entity.  This document provides a description of, and the requirements for, these delegated functions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Many Internet Engineering Task Force (IETF) protocols make use of commonly defined values that are passed in messages or packets.  To ensure consistent interpretation of these values between independent implementations, there is a need to ensure that the values and associated semantic intent are uniquely defined.  The IETF uses registry functions to record assigned protocol parameter values and their associated semantic intentions.  For each IETF protocol parameter, it is current practice for the IETF to delegate the role of Protocol Parameter Registry Operator to a nominated entity.  This document provides a description of, and the requirements for, these delegated functions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6220"/>
+  <seriesInfo name="RFC" value="6220"/>
 </reference>

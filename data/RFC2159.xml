@@ -1,15 +1,15 @@
 <reference anchor="RFC2159" target="https://www.rfc-editor.org/info/rfc2159">
   <front>
     <title>A MIME Body Part for FAX</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2159"/>
-    <author fullname="H. Alvestrand"/>
+    <author fullname="H. Alvestrand" initials="H." surname="Alvestrand">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>mixer</workgroup>
-    <keyword>mixer</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document contains the definitions, originally contained in RFC 1494, on how to carry CCITT G3Fax in MIME, and how to translate it to its X.400 representation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document contains the definitions, originally contained in RFC 1494, on how to carry CCITT G3Fax in MIME, and how to translate it to its X.400 representation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2159"/>
+  <seriesInfo name="RFC" value="2159"/>
 </reference>

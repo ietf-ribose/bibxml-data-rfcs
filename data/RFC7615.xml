@@ -1,12 +1,15 @@
 <reference anchor="RFC7615" target="https://www.rfc-editor.org/info/rfc7615">
   <front>
     <title>HTTP Authentication-Info and Proxy-Authentication-Info Response Header Fields</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7615"/>
-    <author fullname="J. Reschke"/>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
     <date year="2015" month="September"/>
     <workgroup>httpbis</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This specification defines the "Authentication-Info" and "Proxy- Authentication-Info" response header fields for use in Hypertext Transfer Protocol (HTTP) authentication schemes that need to return information once the client's authentication credentials have been accepted.</abstract>
+    <abstract>
+      <t>This specification defines the "Authentication-Info" and "Proxy- Authentication-Info" response header fields for use in Hypertext Transfer Protocol (HTTP) authentication schemes that need to return information once the client's authentication credentials have been accepted.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7615"/>
+  <seriesInfo name="RFC" value="7615"/>
 </reference>

@@ -1,13 +1,15 @@
 <reference anchor="RFC4525" target="https://www.rfc-editor.org/info/rfc4525">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Modify-Increment Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4525"/>
-    <author fullname="K. Zeilenga"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>pre-read</keyword>
-    <keyword>post-read</keyword>
-    <keyword>control extension</keyword>
-    <abstract>This document describes an extension to the Lightweight Directory Access Protocol (LDAP) Modify operation to support an increment capability.  This extension is useful in provisioning applications, especially when combined with the assertion control and/or the pre-read or post-read control extension.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an extension to the Lightweight Directory Access Protocol (LDAP) Modify operation to support an increment capability.  This extension is useful in provisioning applications, especially when combined with the assertion control and/or the pre-read or post-read control extension.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4525"/>
+  <seriesInfo name="RFC" value="4525"/>
 </reference>

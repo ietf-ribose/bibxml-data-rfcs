@@ -1,9 +1,14 @@
 <reference anchor="RFC1116" target="https://www.rfc-editor.org/info/rfc1116">
   <front>
     <title>Telnet Linemode option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1116"/>
-    <author fullname="D.A. Borman"/>
+    <author fullname="D.A. Borman" initials="D.A." surname="Borman">
+      <organization/>
+    </author>
     <date year="1989" month="August"/>
-    <abstract>Hosts on the Internet that support Linemode within the Telnet protocol are expected to adopt and implement this protocol.  Obsoleted by RFC 1184. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Hosts on the Internet that support Linemode within the Telnet protocol are expected to adopt and implement this protocol.  Obsoleted by RFC 1184. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1116"/>
+  <seriesInfo name="RFC" value="1116"/>
 </reference>

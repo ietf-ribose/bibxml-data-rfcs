@@ -1,14 +1,16 @@
 <reference anchor="RFC2026" target="https://www.rfc-editor.org/info/rfc2026">
   <front>
     <title>The Internet Standards Process -- Revision 3</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2026"/>
-    <author fullname="S. Bradner"/>
+    <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>poised95</workgroup>
-    <keyword>Protocols</keyword>
-    <keyword>copyrights</keyword>
-    <keyword>intellectual</keyword>
-    <keyword>property</keyword>
-    <abstract>This memo documents the process used by the Internet community for the standardization of protocols and procedures.  It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>This memo documents the process used by the Internet community for the standardization of protocols and procedures.  It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2026"/>
+  <seriesInfo name="BCP" value="9"/>
+  <seriesInfo name="RFC" value="2026"/>
 </reference>

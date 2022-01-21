@@ -1,17 +1,30 @@
 <reference anchor="RFC8121" target="https://www.rfc-editor.org/info/rfc8121">
   <front>
     <title>Mutual Authentication Protocol for HTTP: Cryptographic Algorithms Based on the Key Agreement Mechanism 3 (KAM3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8121"/>
-    <author fullname="Y. Oiwa"/>
-    <author fullname="H. Watanabe"/>
-    <author fullname="H. Takagi"/>
-    <author fullname="K. Maeda"/>
-    <author fullname="T. Hayashi"/>
-    <author fullname="Y. Ioku"/>
+    <author fullname="Y. Oiwa" initials="Y." surname="Oiwa">
+      <organization/>
+    </author>
+    <author fullname="H. Watanabe" initials="H." surname="Watanabe">
+      <organization/>
+    </author>
+    <author fullname="H. Takagi" initials="H." surname="Takagi">
+      <organization/>
+    </author>
+    <author fullname="K. Maeda" initials="K." surname="Maeda">
+      <organization/>
+    </author>
+    <author fullname="T. Hayashi" initials="T." surname="Hayashi">
+      <organization/>
+    </author>
+    <author fullname="Y. Ioku" initials="Y." surname="Ioku">
+      <organization/>
+    </author>
     <date year="2017" month="April"/>
     <workgroup>httpauth</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document specifies cryptographic algorithms for use with the Mutual user authentication method for the Hypertext Transfer Protocol (HTTP).</abstract>
+    <abstract>
+      <t>This document specifies cryptographic algorithms for use with the Mutual user authentication method for the Hypertext Transfer Protocol (HTTP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8121"/>
+  <seriesInfo name="RFC" value="8121"/>
 </reference>

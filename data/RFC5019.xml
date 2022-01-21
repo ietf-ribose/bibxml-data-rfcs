@@ -1,20 +1,18 @@
 <reference anchor="RFC5019" target="https://www.rfc-editor.org/info/rfc5019">
   <front>
     <title>The Lightweight Online Certificate Status Protocol (OCSP) Profile for High-Volume Environments</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5019"/>
-    <author fullname="A. Deacon"/>
-    <author fullname="R. Hurst"/>
+    <author fullname="A. Deacon" initials="A." surname="Deacon">
+      <organization/>
+    </author>
+    <author fullname="R. Hurst" initials="R." surname="Hurst">
+      <organization/>
+    </author>
     <date year="2007" month="September"/>
     <workgroup>pkix</workgroup>
-    <keyword>OCSP</keyword>
-    <keyword>Online Certificate</keyword>
-    <keyword>Status Protocol</keyword>
-    <keyword>certificate status</keyword>
-    <keyword>http caching</keyword>
-    <keyword>http proxies</keyword>
-    <keyword>efficient</keyword>
-    <keyword>cacheable</keyword>
-    <keyword>pre-produced</keyword>
-    <abstract>This specification defines a profile of the Online Certificate Status Protocol (OCSP) that addresses the scalability issues inherent when using OCSP in large scale (high volume) Public Key Infrastructure (PKI) environments and/or in PKI environments that require a lightweight solution to minimize communication bandwidth and client-side processing. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines a profile of the Online Certificate Status Protocol (OCSP) that addresses the scalability issues inherent when using OCSP in large scale (high volume) Public Key Infrastructure (PKI) environments and/or in PKI environments that require a lightweight solution to minimize communication bandwidth and client-side processing. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5019"/>
+  <seriesInfo name="RFC" value="5019"/>
 </reference>

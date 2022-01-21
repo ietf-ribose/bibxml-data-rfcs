@@ -1,17 +1,27 @@
 <reference anchor="RFC8530" target="https://www.rfc-editor.org/info/rfc8530">
   <front>
     <title>YANG Model for Logical Network Elements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8530"/>
-    <author fullname="L. Berger"/>
-    <author fullname="C. Hopps"/>
-    <author fullname="A. Lindem"/>
-    <author fullname="D. Bogdanovic"/>
-    <author fullname="X. Liu"/>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="C. Hopps" initials="C." surname="Hopps">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="D. Bogdanovic" initials="D." surname="Bogdanovic">
+      <organization/>
+    </author>
+    <author fullname="X. Liu" initials="X." surname="Liu">
+      <organization/>
+    </author>
     <date year="2019" month="March"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>VRF</keyword>
-    <keyword>VSI</keyword>
-    <keyword>VPN</keyword>
-    <abstract>This document defines a logical network element (LNE) YANG module that is compliant with the Network Management Datastore Architecture (NMDA).  This module can be used to manage the logical resource partitioning that may be present on a network device.  Examples of common industry terms for logical resource partitioning are logical systems or logical routers.  The YANG model in this document conforms with NMDA as defined in RFC 8342.</abstract>
+    <abstract>
+      <t>This document defines a logical network element (LNE) YANG module that is compliant with the Network Management Datastore Architecture (NMDA).  This module can be used to manage the logical resource partitioning that may be present on a network device.  Examples of common industry terms for logical resource partitioning are logical systems or logical routers.  The YANG model in this document conforms with NMDA as defined in RFC 8342.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8530"/>
+  <seriesInfo name="RFC" value="8530"/>
 </reference>

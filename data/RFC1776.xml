@@ -1,10 +1,14 @@
 <reference anchor="RFC1776" target="https://www.rfc-editor.org/info/rfc1776">
   <front>
     <title>The Address is the Message</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1776"/>
-    <author fullname="S. Crocker"/>
+    <author fullname="S. Crocker" initials="S." surname="Crocker">
+      <organization/>
+    </author>
     <date year="1995" month="April"/>
-    <keyword>IPng</keyword>
-    <abstract>Declaring that the address is the message, the IPng WG has selected a packet format which includes 1696 bytes of address space.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>Declaring that the address is the message, the IPng WG has selected a packet format which includes 1696 bytes of address space.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1776"/>
+  <seriesInfo name="RFC" value="1776"/>
 </reference>

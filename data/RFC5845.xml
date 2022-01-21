@@ -1,20 +1,24 @@
 <reference anchor="RFC5845" target="https://www.rfc-editor.org/info/rfc5845">
   <front>
     <title>Generic Routing Encapsulation (GRE) Key Option for Proxy Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5845"/>
-    <author fullname="A. Muhanna"/>
-    <author fullname="M. Khalil"/>
-    <author fullname="S. Gundavelli"/>
-    <author fullname="K. Leung"/>
+    <author fullname="A. Muhanna" initials="A." surname="Muhanna">
+      <organization/>
+    </author>
+    <author fullname="M. Khalil" initials="M." surname="Khalil">
+      <organization/>
+    </author>
+    <author fullname="S. Gundavelli" initials="S." surname="Gundavelli">
+      <organization/>
+    </author>
+    <author fullname="K. Leung" initials="K." surname="Leung">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>netlmm</workgroup>
-    <keyword>PMIP6</keyword>
-    <keyword>PMIPv6</keyword>
-    <keyword>Downlink GRE Key</keyword>
-    <keyword>Uplink GRE Key</keyword>
-    <keyword>TLV-Header Tunneling</keyword>
-    <keyword>TLV-Header Tunneling</keyword>
-    <keyword>GRE Key Exchange</keyword>
-    <abstract>This specification defines a new mobility option for allowing the mobile access gateway and the local mobility anchor to negotiate Generic Routing Encapsulation (GRE) encapsulation mode and exchange the downlink and uplink GRE keys that are used for marking the downlink and uplink traffic that belong to a specific mobility session.  In addition, the same mobility option can be used to negotiate the GRE encapsulation mode without exchanging the GRE keys. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines a new mobility option for allowing the mobile access gateway and the local mobility anchor to negotiate Generic Routing Encapsulation (GRE) encapsulation mode and exchange the downlink and uplink GRE keys that are used for marking the downlink and uplink traffic that belong to a specific mobility session.  In addition, the same mobility option can be used to negotiate the GRE encapsulation mode without exchanging the GRE keys. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5845"/>
+  <seriesInfo name="RFC" value="5845"/>
 </reference>

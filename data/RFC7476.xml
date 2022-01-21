@@ -1,16 +1,36 @@
 <reference anchor="RFC7476" target="https://www.rfc-editor.org/info/rfc7476">
   <front>
     <title>Information-Centric Networking: Baseline Scenarios</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7476"/>
-    <author fullname="K. Pentikousis"/>
-    <author fullname="B. Ohlman"/>
-    <author fullname="D. Corujo"/>
-    <author fullname="G. Boggia"/>
-    <author fullname="G. Tyson"/>
-    <author fullname="E. Davies"/>
-    <author fullname="A. Molinaro"/>
-    <author fullname="S. Eum"/>
+    <author fullname="K. Pentikousis" initials="K." surname="Pentikousis">
+      <organization/>
+    </author>
+    <author fullname="B. Ohlman" initials="B." surname="Ohlman">
+      <organization/>
+    </author>
+    <author fullname="D. Corujo" initials="D." surname="Corujo">
+      <organization/>
+    </author>
+    <author fullname="G. Boggia" initials="G." surname="Boggia">
+      <organization/>
+    </author>
+    <author fullname="G. Tyson" initials="G." surname="Tyson">
+      <organization/>
+    </author>
+    <author fullname="E. Davies" initials="E." surname="Davies">
+      <organization/>
+    </author>
+    <author fullname="A. Molinaro" initials="A." surname="Molinaro">
+      <organization/>
+    </author>
+    <author fullname="S. Eum" initials="S." surname="Eum">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
-    <abstract>This document aims at establishing a common understanding about a set of scenarios that can be used as a base for the evaluation of different information-centric networking (ICN) approaches so that they can be tested and compared against each other while showcasing their own advantages. Towards this end, we review the ICN literature and document scenarios which have been considered in previous performance evaluation studies. We discuss a variety of aspects that an ICN solution can address. This includes general aspects, such as, network efficiency, reduced complexity, increased scalability and reliability, mobility support, multicast and caching performance, real-time communication efficiency, energy consumption frugality, and disruption and delay tolerance. We detail ICN-specific aspects as well, such as information security and trust, persistence, availability, provenance, and location independence. This document is a product of the IRTF Information-Centric Networking Research Group (ICNRG).</abstract>
+    <abstract>
+      <t>This document aims at establishing a common understanding about a set of scenarios that can be used as a base for the evaluation of different information-centric networking (ICN) approaches so that they can be tested and compared against each other while showcasing their own advantages. Towards this end, we review the ICN literature and document scenarios which have been considered in previous performance evaluation studies. We discuss a variety of aspects that an ICN solution can address. This includes general aspects, such as, network efficiency, reduced complexity, increased scalability and reliability, mobility support, multicast and caching performance, real-time communication efficiency, energy consumption frugality, and disruption and delay tolerance. We detail ICN-specific aspects as well, such as information security and trust, persistence, availability, provenance, and location independence.</t>
+      <t>This document is a product of the IRTF Information-Centric Networking Research Group (ICNRG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7476"/>
+  <seriesInfo name="RFC" value="7476"/>
 </reference>

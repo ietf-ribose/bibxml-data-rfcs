@@ -1,15 +1,24 @@
 <reference anchor="RFC4376" target="https://www.rfc-editor.org/info/rfc4376">
   <front>
     <title>Requirements for Floor Control Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4376"/>
-    <author fullname="P. Koskelainen"/>
-    <author fullname="J. Ott"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="X. Wu"/>
+    <author fullname="P. Koskelainen" initials="P." surname="Koskelainen">
+      <organization/>
+    </author>
+    <author fullname="J. Ott" initials="J." surname="Ott">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="X. Wu" initials="X." surname="Wu">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>xcon</workgroup>
-    <keyword>shared resources</keyword>
-    <keyword>multiparty conferences</keyword>
-    <abstract>Floor control is a means to manage joint or exclusive access to shared resources in a (multiparty) conferencing environment.  Thereby, floor control complements other functions -- such as conference and media session setup, conference policy manipulation, and media control -- that are realized by other protocols.  This document defines the requirements for a floor control protocol for multiparty conferences in the context of an existing framework.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Floor control is a means to manage joint or exclusive access to shared resources in a (multiparty) conferencing environment.  Thereby, floor control complements other functions -- such as conference and media session setup, conference policy manipulation, and media control -- that are realized by other protocols.  This document defines the requirements for a floor control protocol for multiparty conferences in the context of an existing framework.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4376"/>
+  <seriesInfo name="RFC" value="4376"/>
 </reference>

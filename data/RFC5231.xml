@@ -1,12 +1,19 @@
 <reference anchor="RFC5231" target="https://www.rfc-editor.org/info/rfc5231">
   <front>
     <title>Sieve Email Filtering: Relational Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5231"/>
-    <author fullname="W. Segmuller"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="W. Segmuller" initials="W." surname="Segmuller">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="2008" month="January"/>
     <workgroup>sieve</workgroup>
-    <keyword>relational operators</keyword>
-    <abstract>This document describes the RELATIONAL extension to the Sieve mail filtering language defined in RFC 3028. This extension extends existing conditional tests in Sieve to allow relational operators. In addition to testing their content, it also allows for testing of the number of entities in header and envelope fields. This document obsoletes RFC 3431. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the RELATIONAL extension to the Sieve mail filtering language defined in RFC 3028. This extension extends existing conditional tests in Sieve to allow relational operators. In addition to testing their content, it also allows for testing of the number of entities in header and envelope fields.</t>
+      <t>This document obsoletes RFC 3431. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5231"/>
+  <seriesInfo name="RFC" value="5231"/>
 </reference>

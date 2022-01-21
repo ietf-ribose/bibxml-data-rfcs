@@ -1,10 +1,14 @@
 <reference anchor="RFC5720" target="https://www.rfc-editor.org/info/rfc5720">
   <front>
     <title>Routing and Addressing in Networks with Global Enterprise Recursion (RANGER)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5720"/>
-    <author fullname="F. Templin"/>
+    <author fullname="F. Templin" initials="F." surname="Templin">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
-    <keyword>enterprise network</keyword>
-    <abstract>RANGER is an architectural framework for scalable routing and addressing in networks with global enterprise recursion.  The term "enterprise network" within this context extends to a wide variety of use cases and deployment scenarios, where an "enterprise" can be as small as a Small Office, Home Office (SOHO) network, as dynamic as a Mobile Ad Hoc Network, as complex as a multi-organizational corporation, or as large as the global Internet itself.  Such networks will require an architected solution for the coordination of routing and addressing plans with accommodations for scalability, provider-independence, mobility, multihoming, and security.  These considerations are particularly true for existing deployments, but the same principles apply even for clean-slate approaches.  The RANGER architecture addresses these requirements and provides a comprehensive framework for IPv6/IPv4 coexistence.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>RANGER is an architectural framework for scalable routing and addressing in networks with global enterprise recursion.  The term "enterprise network" within this context extends to a wide variety of use cases and deployment scenarios, where an "enterprise" can be as small as a Small Office, Home Office (SOHO) network, as dynamic as a Mobile Ad Hoc Network, as complex as a multi-organizational corporation, or as large as the global Internet itself.  Such networks will require an architected solution for the coordination of routing and addressing plans with accommodations for scalability, provider-independence, mobility, multihoming, and security.  These considerations are particularly true for existing deployments, but the same principles apply even for clean-slate approaches.  The RANGER architecture addresses these requirements and provides a comprehensive framework for IPv6/IPv4 coexistence.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5720"/>
+  <seriesInfo name="RFC" value="5720"/>
 </reference>

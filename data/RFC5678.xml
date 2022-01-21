@@ -1,13 +1,18 @@
 <reference anchor="RFC5678" target="https://www.rfc-editor.org/info/rfc5678">
   <front>
     <title>Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) Options for IEEE 802.21 Mobility Services (MoS) Discovery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5678"/>
-    <author fullname="G. Bajko"/>
-    <author fullname="S. Das"/>
+    <author fullname="G. Bajko" initials="G." surname="Bajko">
+      <organization/>
+    </author>
+    <author fullname="S. Das" initials="S." surname="Das">
+      <organization/>
+    </author>
     <date year="2009" month="December"/>
     <workgroup>mipshop</workgroup>
-    <keyword>handover preparation handover decision</keyword>
-    <keyword>media independent handover services</keyword>
-    <abstract>This document defines new Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) options that contain a list of IP addresses and a list of domain names that can be mapped to servers providing IEEE 802.21 type of Mobility Service (MoS) (see RFC 5677).  These Mobility Services are used to assist a mobile node (MN) in handover preparation (network discovery) and handover decision (network selection).  The services addressed in this document are the Media Independent Handover Services defined in IEEE 802.21. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines new Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) options that contain a list of IP addresses and a list of domain names that can be mapped to servers providing IEEE 802.21 type of Mobility Service (MoS) (see RFC 5677).  These Mobility Services are used to assist a mobile node (MN) in handover preparation (network discovery) and handover decision (network selection).  The services addressed in this document are the Media Independent Handover Services defined in IEEE 802.21. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5678"/>
+  <seriesInfo name="RFC" value="5678"/>
 </reference>

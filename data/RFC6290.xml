@@ -1,14 +1,25 @@
 <reference anchor="RFC6290" target="https://www.rfc-editor.org/info/rfc6290">
   <front>
     <title>A Quick Crash Detection Method for the Internet Key Exchange Protocol (IKE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6290"/>
-    <author fullname="Y. Nir"/>
-    <author fullname="D. Wierbowski"/>
-    <author fullname="F. Detienne"/>
-    <author fullname="P. Sethi"/>
+    <author fullname="Y. Nir" initials="Y." surname="Nir">
+      <organization/>
+    </author>
+    <author fullname="D. Wierbowski" initials="D." surname="Wierbowski">
+      <organization/>
+    </author>
+    <author fullname="F. Detienne" initials="F." surname="Detienne">
+      <organization/>
+    </author>
+    <author fullname="P. Sethi" initials="P." surname="Sethi">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>QCD</keyword>
-    <abstract>This document describes an extension to the Internet Key Exchange Protocol version 2 (IKEv2) that allows for faster detection of Security Association (SA) desynchronization using a saved token. When an IPsec tunnel between two IKEv2 peers is disconnected due to a restart of one peer, it can take as much as several minutes for the other peer to discover that the reboot has occurred, thus delaying recovery. In this text, we propose an extension to the protocol that allows for recovery immediately following the restart. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extension to the Internet Key Exchange Protocol version 2 (IKEv2) that allows for faster detection of Security Association (SA) desynchronization using a saved token.</t>
+      <t>When an IPsec tunnel between two IKEv2 peers is disconnected due to a restart of one peer, it can take as much as several minutes for the other peer to discover that the reboot has occurred, thus delaying recovery. In this text, we propose an extension to the protocol that allows for recovery immediately following the restart. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6290"/>
+  <seriesInfo name="RFC" value="6290"/>
 </reference>

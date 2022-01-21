@@ -1,14 +1,24 @@
 <reference anchor="RFC6492" target="https://www.rfc-editor.org/info/rfc6492">
   <front>
     <title>A Protocol for Provisioning Resource Certificates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6492"/>
-    <author fullname="G. Huston"/>
-    <author fullname="R. Loomans"/>
-    <author fullname="B. Ellacott"/>
-    <author fullname="R. Austein"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="R. Loomans" initials="R." surname="Loomans">
+      <organization/>
+    </author>
+    <author fullname="B. Ellacott" initials="B." surname="Ellacott">
+      <organization/>
+    </author>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>sidr</workgroup>
-    <keyword>RPKI</keyword>
-    <abstract>This document defines a framework for certificate management interactions between an Internet Number Resource issuer ("issuer") and an Internet Number Resource recipient ("subject") through the specification of a protocol for interaction between the two parties.  The protocol supports the transmission of requests from the subject, and corresponding responses from the issuer encompassing the actions of certificate issuance, certificate revocation, and certificate status information reports.  This protocol is intended to be limited to the application of Internet Number Resource Certificate management and is not intended to be used as part of a more general certificate management framework. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a framework for certificate management interactions between an Internet Number Resource issuer ("issuer") and an Internet Number Resource recipient ("subject") through the specification of a protocol for interaction between the two parties.  The protocol supports the transmission of requests from the subject, and corresponding responses from the issuer encompassing the actions of certificate issuance, certificate revocation, and certificate status information reports.  This protocol is intended to be limited to the application of Internet Number Resource Certificate management and is not intended to be used as part of a more general certificate management framework. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6492"/>
+  <seriesInfo name="RFC" value="6492"/>
 </reference>

@@ -1,20 +1,24 @@
 <reference anchor="RFC3070" target="https://www.rfc-editor.org/info/rfc3070">
   <front>
     <title>Layer Two Tunneling Protocol (L2TP) over Frame Relay</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3070"/>
-    <author fullname="V. Rawat"/>
-    <author fullname="R. Tio"/>
-    <author fullname="S. Nanji"/>
-    <author fullname="R. Verma"/>
+    <author fullname="V. Rawat" initials="V." surname="Rawat">
+      <organization/>
+    </author>
+    <author fullname="R. Tio" initials="R." surname="Tio">
+      <organization/>
+    </author>
+    <author fullname="S. Nanji" initials="S." surname="Nanji">
+      <organization/>
+    </author>
+    <author fullname="R. Verma" initials="R." surname="Verma">
+      <organization/>
+    </author>
     <date year="2001" month="February"/>
     <workgroup>l2tpext</workgroup>
-    <keyword>L2TP-FR</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>virtual</keyword>
-    <keyword>switched</keyword>
-    <keyword>circuits</keyword>
-    <keyword>PVCs</keyword>
-    <keyword>SVCs</keyword>
-    <abstract>This document describes how L2TP is implemented over Frame Relay Permanent Virtual Circuits (PVCs) and Switched Virtual Circuits (SVCs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how L2TP is implemented over Frame Relay Permanent Virtual Circuits (PVCs) and Switched Virtual Circuits (SVCs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3070"/>
+  <seriesInfo name="RFC" value="3070"/>
 </reference>

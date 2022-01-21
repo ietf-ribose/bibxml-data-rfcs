@@ -1,13 +1,15 @@
 <reference anchor="RFC7391" target="https://www.rfc-editor.org/info/rfc7391">
   <front>
     <title>Forwarding and Control Element Separation (ForCES) Protocol Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7391"/>
-    <author fullname="J. Hadi Salim"/>
+    <author fullname="J. Hadi Salim" initials="J." surname="Hadi">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>forces</workgroup>
-    <keyword>ForCES</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Extension</keyword>
-    <abstract>Experience in implementing and deploying the Forwarding and Control Element Separation (ForCES) architecture has demonstrated the need for a few small extensions both to ease programmability and to improve wire efficiency of some transactions.  The ForCES protocol is extended with a table range operation and a new extension for error handling.  This document updates the semantics in RFCs 5810 and 7121 to achieve that end goal.</abstract>
+    <abstract>
+      <t>Experience in implementing and deploying the Forwarding and Control Element Separation (ForCES) architecture has demonstrated the need for a few small extensions both to ease programmability and to improve wire efficiency of some transactions.  The ForCES protocol is extended with a table range operation and a new extension for error handling.  This document updates the semantics in RFCs 5810 and 7121 to achieve that end goal.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7391"/>
+  <seriesInfo name="RFC" value="7391"/>
 </reference>

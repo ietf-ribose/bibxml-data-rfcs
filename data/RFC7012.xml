@@ -1,11 +1,18 @@
 <reference anchor="RFC7012" target="https://www.rfc-editor.org/info/rfc7012">
   <front>
     <title>Information Model for IP Flow Information Export (IPFIX)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7012"/>
-    <author fullname="B. Claise"/>
-    <author fullname="B. Trammell"/>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>ipfix</workgroup>
-    <abstract>This document defines the data types and management policy for the information model for the IP Flow Information Export (IPFIX) protocol.  This information model is maintained as the IANA "IPFIX Information Elements" registry, the initial contents of which were defined by RFC 5102.  This information model is used by the IPFIX protocol for encoding measured traffic information and information related to the traffic Observation Point, the traffic Metering Process, and the Exporting Process.  Although this model was developed for the IPFIX protocol, it is defined in an open way that allows it to be easily used in other protocols, interfaces, and applications.  This document obsoletes RFC 5102.</abstract>
+    <abstract>
+      <t>This document defines the data types and management policy for the information model for the IP Flow Information Export (IPFIX) protocol.  This information model is maintained as the IANA "IPFIX Information Elements" registry, the initial contents of which were defined by RFC 5102.  This information model is used by the IPFIX protocol for encoding measured traffic information and information related to the traffic Observation Point, the traffic Metering Process, and the Exporting Process.  Although this model was developed for the IPFIX protocol, it is defined in an open way that allows it to be easily used in other protocols, interfaces, and applications.  This document obsoletes RFC 5102.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7012"/>
+  <seriesInfo name="RFC" value="7012"/>
 </reference>

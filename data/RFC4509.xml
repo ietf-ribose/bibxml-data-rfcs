@@ -1,13 +1,15 @@
 <reference anchor="RFC4509" target="https://www.rfc-editor.org/info/rfc4509">
   <front>
     <title>Use of SHA-256 in DNSSEC Delegation Signer (DS) Resource Records (RRs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4509"/>
-    <author fullname="W. Hardaker"/>
+    <author fullname="W. Hardaker" initials="W." surname="Hardaker">
+      <organization/>
+    </author>
     <date year="2006" month="May"/>
     <workgroup>dnsext</workgroup>
-    <keyword>domain name system</keyword>
-    <keyword>dns</keyword>
-    <keyword>dnskey</keyword>
-    <abstract>This document specifies how to use the SHA-256 digest type in DNS Delegation Signer (DS) Resource Records (RRs).  DS records, when stored in a parent zone, point to DNSKEYs in a child zone. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how to use the SHA-256 digest type in DNS Delegation Signer (DS) Resource Records (RRs).  DS records, when stored in a parent zone, point to DNSKEYs in a child zone. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4509"/>
+  <seriesInfo name="RFC" value="4509"/>
 </reference>

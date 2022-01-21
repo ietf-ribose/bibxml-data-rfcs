@@ -1,15 +1,21 @@
 <reference anchor="RFC3168" target="https://www.rfc-editor.org/info/rfc3168">
   <front>
     <title>The Addition of Explicit Congestion Notification (ECN) to IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3168"/>
-    <author fullname="K. Ramakrishnan"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="D. Black"/>
+    <author fullname="K. Ramakrishnan" initials="K." surname="Ramakrishnan">
+      <organization/>
+    </author>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
     <date year="2001" month="September"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>header</keyword>
-    <abstract>This memo specifies the incorporation of ECN (Explicit Congestion Notification) to TCP and IP, including ECN's use of two bits in the IP header. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies the incorporation of ECN (Explicit Congestion Notification) to TCP and IP, including ECN's use of two bits in the IP header. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3168"/>
+  <seriesInfo name="RFC" value="3168"/>
 </reference>

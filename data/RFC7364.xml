@@ -1,15 +1,30 @@
 <reference anchor="RFC7364" target="https://www.rfc-editor.org/info/rfc7364">
   <front>
     <title>Problem Statement: Overlays for Network Virtualization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7364"/>
-    <author fullname="T. Narten"/>
-    <author fullname="E. Gray"/>
-    <author fullname="D. Black"/>
-    <author fullname="L. Fang"/>
-    <author fullname="L. Kreeger"/>
-    <author fullname="M. Napierala"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="L. Fang" initials="L." surname="Fang">
+      <organization/>
+    </author>
+    <author fullname="L. Kreeger" initials="L." surname="Kreeger">
+      <organization/>
+    </author>
+    <author fullname="M. Napierala" initials="M." surname="Napierala">
+      <organization/>
+    </author>
     <date year="2014" month="October"/>
     <workgroup>nvo3</workgroup>
-    <abstract>This document describes issues associated with providing multi-tenancy in large data center networks and how these issues may be addressed using an overlay-based network virtualization approach.  A key multi-tenancy requirement is traffic isolation so that one tenant's traffic is not visible to any other tenant.  Another requirement is address space isolation so that different tenants can use the same address space within different virtual networks.  Traffic and address space isolation is achieved by assigning one or more virtual networks to each tenant, where traffic within a virtual network can only cross into another virtual network in a controlled fashion (e.g., via a configured router and/or a security gateway).  Additional functionality is required to provision virtual networks, associating a virtual machine's network interface(s) with the appropriate virtual network and maintaining that association as the virtual machine is activated, migrated, and/or deactivated.  Use of an overlay-based approach enables scalable deployment on large network infrastructures.</abstract>
+    <abstract>
+      <t>This document describes issues associated with providing multi-tenancy in large data center networks and how these issues may be addressed using an overlay-based network virtualization approach.  A key multi-tenancy requirement is traffic isolation so that one tenant's traffic is not visible to any other tenant.  Another requirement is address space isolation so that different tenants can use the same address space within different virtual networks.  Traffic and address space isolation is achieved by assigning one or more virtual networks to each tenant, where traffic within a virtual network can only cross into another virtual network in a controlled fashion (e.g., via a configured router and/or a security gateway).  Additional functionality is required to provision virtual networks, associating a virtual machine's network interface(s) with the appropriate virtual network and maintaining that association as the virtual machine is activated, migrated, and/or deactivated.  Use of an overlay-based approach enables scalable deployment on large network infrastructures.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7364"/>
+  <seriesInfo name="RFC" value="7364"/>
 </reference>

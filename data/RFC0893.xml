@@ -1,10 +1,17 @@
 <reference anchor="RFC0893" target="https://www.rfc-editor.org/info/rfc893">
   <front>
     <title>Trailer encapsulations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0893"/>
-    <author fullname="S. Leffler"/>
-    <author fullname="M.J. Karels"/>
+    <author fullname="S. Leffler" initials="S." surname="Leffler">
+      <organization/>
+    </author>
+    <author fullname="M.J. Karels" initials="M.J." surname="Karels">
+      <organization/>
+    </author>
     <date year="1984" month="April"/>
-    <abstract>This RFC discusses the motivation for use of "trailer encapsulations" on local-area networks and describes the implementation of such an encapsulation on various media.  This document is for information only.  This is NOT an official protocol for the ARPA Internet community.</abstract>
+    <abstract>
+      <t>This RFC discusses the motivation for use of "trailer encapsulations" on local-area networks and describes the implementation of such an encapsulation on various media.  This document is for information only.  This is NOT an official protocol for the ARPA Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0893"/>
+  <seriesInfo name="RFC" value="893"/>
 </reference>

@@ -1,17 +1,21 @@
 <reference anchor="RFC3203" target="https://www.rfc-editor.org/info/rfc3203">
   <front>
     <title>DHCP reconfigure extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3203"/>
-    <author fullname="Y. T'Joens"/>
-    <author fullname="C. Hublet"/>
-    <author fullname="P. De Schrijver"/>
+    <author fullname="Y. T'Joens" initials="Y." surname="T'Joens">
+      <organization/>
+    </author>
+    <author fullname="C. Hublet" initials="C." surname="Hublet">
+      <organization/>
+    </author>
+    <author fullname="P. De Schrijver" initials="P." surname="De">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
     <workgroup>dhc</workgroup>
-    <keyword>dynamic</keyword>
-    <keyword>host</keyword>
-    <keyword>configuration</keyword>
-    <keyword>protocol</keyword>
-    <keyword>forcerenew</keyword>
-    <abstract>This document defines extensions to DHCP (Dynamic Host Configuration Protocol) to allow dynamic reconfiguration of a single host triggered by the DHCP server (e.g., a new IP address and/or local configuration parameters). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extensions to DHCP (Dynamic Host Configuration Protocol) to allow dynamic reconfiguration of a single host triggered by the DHCP server (e.g., a new IP address and/or local configuration parameters). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3203"/>
+  <seriesInfo name="RFC" value="3203"/>
 </reference>

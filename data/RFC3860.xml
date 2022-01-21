@@ -1,13 +1,15 @@
 <reference anchor="RFC3860" target="https://www.rfc-editor.org/info/rfc3860">
   <front>
     <title>Common Profile for Instant Messaging (CPIM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3860"/>
-    <author fullname="J. Peterson"/>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>impp</workgroup>
-    <keyword>data formats</keyword>
-    <keyword>semantics</keyword>
-    <keyword>instant messaging</keyword>
-    <abstract>At the time this document was written, numerous instant messaging protocols were in use, and little interoperability between services based on these protocols has been achieved.  This specification defines common semantics and data formats for instant messaging to facilitate the creation of gateways between instant messaging services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>At the time this document was written, numerous instant messaging protocols were in use, and little interoperability between services based on these protocols has been achieved.  This specification defines common semantics and data formats for instant messaging to facilitate the creation of gateways between instant messaging services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3860"/>
+  <seriesInfo name="RFC" value="3860"/>
 </reference>

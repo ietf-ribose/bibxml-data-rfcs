@@ -1,13 +1,15 @@
 <reference anchor="RFC3722" target="https://www.rfc-editor.org/info/rfc3722">
   <front>
     <title>String Profile for Internet Small Computer Systems Interface (iSCSI) Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3722"/>
-    <author fullname="M. Bakke"/>
+    <author fullname="M. Bakke" initials="M." surname="Bakke">
+      <organization/>
+    </author>
     <date year="2004" month="April"/>
     <workgroup>ips</workgroup>
-    <keyword>transport</keyword>
-    <keyword>unique</keyword>
-    <keyword>global</keyword>
-    <abstract>This document describes how to prepare internationalized iSCSI names to increase the likelihood that name input and comparison work in ways that make sense for typical users throughout the world.  The Internet Small Computer Systems Interface (iSCSI) protocol provides a way for hosts to access SCSI devices over an IP network.  The iSCSI end-points, called initiators and targets, each have a globally-unique name that must be transcribable, as well as easily compared. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to prepare internationalized iSCSI names to increase the likelihood that name input and comparison work in ways that make sense for typical users throughout the world.  The Internet Small Computer Systems Interface (iSCSI) protocol provides a way for hosts to access SCSI devices over an IP network.  The iSCSI end-points, called initiators and targets, each have a globally-unique name that must be transcribable, as well as easily compared. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3722"/>
+  <seriesInfo name="RFC" value="3722"/>
 </reference>

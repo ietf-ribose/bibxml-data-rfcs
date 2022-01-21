@@ -1,16 +1,28 @@
 <reference anchor="RFC4225" target="https://www.rfc-editor.org/info/rfc4225">
   <front>
     <title>Mobile IP Version 6 Route Optimization Security Design Background</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4225"/>
-    <author fullname="P. Nikander"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="T. Aura"/>
-    <author fullname="G. Montenegro"/>
-    <author fullname="E. Nordmark"/>
+    <author fullname="P. Nikander" initials="P." surname="Nikander">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="T. Aura" initials="T." surname="Aura">
+      <organization/>
+    </author>
+    <author fullname="G. Montenegro" initials="G." surname="Montenegro">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>mip6</workgroup>
-    <keyword>mipv6</keyword>
-    <keyword>mip</keyword>
-    <abstract>This document is an account of the rationale behind the Mobile IPv6 (MIPv6) Route Optimization security design. The purpose of this document is to present the thinking and to preserve the reasoning behind the Mobile IPv6 security design in 2001 - 2002. The document has two target audiences: (1) helping MIPv6 implementors to better understand the design choices in MIPv6 security procedures, and (2) allowing people dealing with mobility or multi-homing to avoid a number of potential security pitfalls in their designs. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is an account of the rationale behind the Mobile IPv6 (MIPv6) Route Optimization security design. The purpose of this document is to present the thinking and to preserve the reasoning behind the Mobile IPv6 security design in 2001 - 2002.</t>
+      <t>The document has two target audiences: (1) helping MIPv6 implementors to better understand the design choices in MIPv6 security procedures, and (2) allowing people dealing with mobility or multi-homing to avoid a number of potential security pitfalls in their designs. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4225"/>
+  <seriesInfo name="RFC" value="4225"/>
 </reference>

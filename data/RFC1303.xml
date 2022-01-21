@@ -1,13 +1,17 @@
 <reference anchor="RFC1303" target="https://www.rfc-editor.org/info/rfc1303">
   <front>
     <title>A Convention for Describing SNMP-based Agents</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1303"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="M. Rose"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="1992" month="February"/>
-    <keyword>SNMP</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Network Management,</keyword>
-    <abstract>This memo suggests a straight-forward approach towards describing SNMP- based agents.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo suggests a straight-forward approach towards describing SNMP- based agents.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1303"/>
+  <seriesInfo name="RFC" value="1303"/>
 </reference>

@@ -1,17 +1,21 @@
 <reference anchor="RFC4563" target="https://www.rfc-editor.org/info/rfc4563">
   <front>
     <title>The Key ID Information Type for the General Extension Payload in Multimedia Internet KEYing (MIKEY)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4563"/>
-    <author fullname="E. Carrara"/>
-    <author fullname="V. Lehtovirta"/>
-    <author fullname="K. Norrman"/>
+    <author fullname="E. Carrara" initials="E." surname="Carrara">
+      <organization/>
+    </author>
+    <author fullname="V. Lehtovirta" initials="V." surname="Lehtovirta">
+      <organization/>
+    </author>
+    <author fullname="K. Norrman" initials="K." surname="Norrman">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>msec</workgroup>
-    <keyword>security</keyword>
-    <keyword>key management</keyword>
-    <keyword>multicast</keyword>
-    <keyword>broadcast</keyword>
-    <keyword>MBMS</keyword>
-    <abstract>This memo specifies a new Type (the Key ID Information Type) for the General Extension Payload in the Multimedia Internet KEYing (MIKEY) Protocol.  This is used in, for example, the Multimedia Broadcast/Multicast Service specified in the Third Generation Partnership Project. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies a new Type (the Key ID Information Type) for the General Extension Payload in the Multimedia Internet KEYing (MIKEY) Protocol.  This is used in, for example, the Multimedia Broadcast/Multicast Service specified in the Third Generation Partnership Project. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4563"/>
+  <seriesInfo name="RFC" value="4563"/>
 </reference>

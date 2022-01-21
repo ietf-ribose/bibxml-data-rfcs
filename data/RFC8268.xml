@@ -1,22 +1,15 @@
 <reference anchor="RFC8268" target="https://www.rfc-editor.org/info/rfc8268">
   <front>
     <title>More Modular Exponentiation (MODP) Diffie-Hellman (DH) Key Exchange (KEX) Groups for Secure Shell (SSH)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8268"/>
-    <author fullname="M. Baushke"/>
+    <author fullname="M. Baushke" initials="M." surname="Baushke">
+      <organization/>
+    </author>
     <date year="2017" month="December"/>
     <workgroup>curdle</workgroup>
-    <keyword>Public Key</keyword>
-    <keyword>Private Key</keyword>
-    <keyword>group14</keyword>
-    <keyword>group15</keyword>
-    <keyword>group16</keyword>
-    <keyword>group17</keyword>
-    <keyword>groupt18</keyword>
-    <keyword>2048-bit</keyword>
-    <keyword>3072-bit</keyword>
-    <keyword>4096-bit</keyword>
-    <keyword>6144-bit</keyword>
-    <keyword>8192-bit</keyword>
-    <abstract>This document defines added Modular Exponentiation (MODP) groups for the Secure Shell (SSH) protocol using SHA-2 hashes.  This document updates RFC 4250.  This document updates RFC 4253 by correcting an error regarding checking the Peer's DH Public Key.</abstract>
+    <abstract>
+      <t>This document defines added Modular Exponentiation (MODP) groups for the Secure Shell (SSH) protocol using SHA-2 hashes.  This document updates RFC 4250.  This document updates RFC 4253 by correcting an error regarding checking the Peer's DH Public Key.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8268"/>
+  <seriesInfo name="RFC" value="8268"/>
 </reference>

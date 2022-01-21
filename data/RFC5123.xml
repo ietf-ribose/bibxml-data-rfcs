@@ -1,12 +1,17 @@
 <reference anchor="RFC5123" target="https://www.rfc-editor.org/info/rfc5123">
   <front>
     <title>Considerations in Validating the Path in BGP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5123"/>
-    <author fullname="R. White"/>
-    <author fullname="B. Akyol"/>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="B. Akyol" initials="B." surname="Akyol">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
-    <keyword>bgp autonomous system path</keyword>
-    <keyword>bgp as path</keyword>
-    <abstract>This document examines the implications of hop-by-hop forwarding, route aggregation, and route filtering on the concept of validation within a BGP Autonomous System (AS) Path.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document examines the implications of hop-by-hop forwarding, route aggregation, and route filtering on the concept of validation within a BGP Autonomous System (AS) Path.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5123"/>
+  <seriesInfo name="RFC" value="5123"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="RFC0818" target="https://www.rfc-editor.org/info/rfc818">
   <front>
     <title>Remote User Telnet service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0818"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1982" month="November"/>
-    <keyword>RTELNET</keyword>
-    <abstract>This RFC is the specification of an application protocol.  Any host that implements this application level service must follow this protocol.</abstract>
+    <abstract>
+      <t>This RFC is the specification of an application protocol.  Any host that implements this application level service must follow this protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0818"/>
+  <seriesInfo name="RFC" value="818"/>
 </reference>

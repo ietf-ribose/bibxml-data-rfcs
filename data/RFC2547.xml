@@ -1,20 +1,17 @@
 <reference anchor="RFC2547" target="https://www.rfc-editor.org/info/rfc2547">
   <front>
     <title>BGP/MPLS VPNs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2547"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
-    <keyword>border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <keyword>multiprotocol</keyword>
-    <keyword>label</keyword>
-    <keyword>switching</keyword>
-    <keyword>architecture</keyword>
-    <keyword>virtual</keyword>
-    <keyword>private</keyword>
-    <keyword>networks</keyword>
-    <abstract>This document describes a method by which a Service Provider with an IP backbone may provide VPNs (Virtual Private Networks) for its customers.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a method by which a Service Provider with an IP backbone may provide VPNs (Virtual Private Networks) for its customers.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2547"/>
+  <seriesInfo name="RFC" value="2547"/>
 </reference>

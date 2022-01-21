@@ -1,14 +1,15 @@
 <reference anchor="RFC5025" target="https://www.rfc-editor.org/info/rfc5025">
   <front>
     <title>Presence Authorization Rules</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5025"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>simple</workgroup>
-    <keyword>presence systems</keyword>
-    <keyword>authorization policies</keyword>
-    <keyword>xml</keyword>
-    <keyword>extensible markup language</keyword>
-    <abstract>Authorization is a key function in presence systems.  Authorization policies, also known as authorization rules, specify what presence information can be given to which watchers, and when.  This specification defines an Extensible Markup Language (XML) document format for expressing presence authorization rules.  Such a document can be manipulated by clients using the XML Configuration Access Protocol (XCAP), although other techniques are permitted. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Authorization is a key function in presence systems.  Authorization policies, also known as authorization rules, specify what presence information can be given to which watchers, and when.  This specification defines an Extensible Markup Language (XML) document format for expressing presence authorization rules.  Such a document can be manipulated by clients using the XML Configuration Access Protocol (XCAP), although other techniques are permitted. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5025"/>
+  <seriesInfo name="RFC" value="5025"/>
 </reference>

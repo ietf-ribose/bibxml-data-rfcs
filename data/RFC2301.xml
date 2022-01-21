@@ -1,25 +1,30 @@
 <reference anchor="RFC2301" target="https://www.rfc-editor.org/info/rfc2301">
   <front>
     <title>File Format for Internet Fax</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2301"/>
-    <author fullname="L. McIntyre"/>
-    <author fullname="S. Zilles"/>
-    <author fullname="R. Buckley"/>
-    <author fullname="D. Venable"/>
-    <author fullname="G. Parsons"/>
-    <author fullname="J. Rafferty"/>
+    <author fullname="L. McIntyre" initials="L." surname="McIntyre">
+      <organization/>
+    </author>
+    <author fullname="S. Zilles" initials="S." surname="Zilles">
+      <organization/>
+    </author>
+    <author fullname="R. Buckley" initials="R." surname="Buckley">
+      <organization/>
+    </author>
+    <author fullname="D. Venable" initials="D." surname="Venable">
+      <organization/>
+    </author>
+    <author fullname="G. Parsons" initials="G." surname="Parsons">
+      <organization/>
+    </author>
+    <author fullname="J. Rafferty" initials="J." surname="Rafferty">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>fax</workgroup>
-    <keyword>FFIF</keyword>
-    <keyword>TIFF</keyword>
-    <keyword>Tag</keyword>
-    <keyword>Image</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>MIME</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes the TIFF (Tag Image File Format) representation of image data specified by the ITU-T Recommendations for black-and-white and color facsimile. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the TIFF (Tag Image File Format) representation of image data specified by the ITU-T Recommendations for black-and-white and color facsimile. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2301"/>
+  <seriesInfo name="RFC" value="2301"/>
 </reference>

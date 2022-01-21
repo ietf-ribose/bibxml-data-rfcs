@@ -1,15 +1,16 @@
 <reference anchor="RFC6303" target="https://www.rfc-editor.org/info/rfc6303">
   <front>
     <title>Locally Served DNS Zones</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6303"/>
-    <author fullname="M. Andrews"/>
+    <author fullname="M. Andrews" initials="M." surname="Andrews">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>dnsop</workgroup>
-    <keyword>AS112</keyword>
-    <keyword> Reverse</keyword>
-    <keyword> IN-ADDR.ARPA</keyword>
-    <keyword> IP6.ARPA</keyword>
-    <keyword> RFC1918</keyword>
-    <abstract>Experience with the Domain Name System (DNS) has shown that there are a number of DNS zones that all iterative resolvers and recursive nameservers should automatically serve, unless configured otherwise.  RFC 4193 specifies that this should occur for D.F.IP6.ARPA.  This document extends the practice to cover the IN-ADDR.ARPA zones for RFC 1918 address space and other well-known zones with similar characteristics.  This memo documents an Internet Best Current Practice.</abstract>
+    <abstract>
+      <t>Experience with the Domain Name System (DNS) has shown that there are a number of DNS zones that all iterative resolvers and recursive nameservers should automatically serve, unless configured otherwise.  RFC 4193 specifies that this should occur for D.F.IP6.ARPA.  This document extends the practice to cover the IN-ADDR.ARPA zones for RFC 1918 address space and other well-known zones with similar characteristics.  This memo documents an Internet Best Current Practice.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6303"/>
+  <seriesInfo name="BCP" value="163"/>
+  <seriesInfo name="RFC" value="6303"/>
 </reference>

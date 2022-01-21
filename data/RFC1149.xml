@@ -1,13 +1,14 @@
 <reference anchor="RFC1149" target="https://www.rfc-editor.org/info/rfc1149">
   <front>
     <title>Standard for the transmission of IP datagrams on avian carriers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1149"/>
-    <author fullname="D. Waitzman"/>
+    <author fullname="D. Waitzman" initials="D." surname="Waitzman">
+      <organization/>
+    </author>
     <date year="1990" month="April"/>
-    <keyword>avian</keyword>
-    <keyword>carrier</keyword>
-    <keyword>april</keyword>
-    <keyword>fools</keyword>
-    <abstract>This memo describes an experimental method for the encapsulation of IP datagrams in avian carriers.  This specification is primarily useful in Metropolitan Area Networks.  This is an experimental, not recommended standard.</abstract>
+    <abstract>
+      <t>This memo describes an experimental method for the encapsulation of IP datagrams in avian carriers.  This specification is primarily useful in Metropolitan Area Networks.  This is an experimental, not recommended standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1149"/>
+  <seriesInfo name="RFC" value="1149"/>
 </reference>

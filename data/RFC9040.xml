@@ -1,12 +1,21 @@
 <reference anchor="RFC9040" target="https://www.rfc-editor.org/info/rfc9040">
   <front>
     <title>TCP Control Block Interdependence</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9040"/>
-    <author fullname="J. Touch"/>
-    <author fullname="M. Welzl"/>
-    <author fullname="S. Islam"/>
+    <author fullname="J. Touch" initials="J." surname="Touch">
+      <organization/>
+    </author>
+    <author fullname="M. Welzl" initials="M." surname="Welzl">
+      <organization/>
+    </author>
+    <author fullname="S. Islam" initials="S." surname="Islam">
+      <organization/>
+    </author>
     <date year="2021" month="July"/>
     <workgroup>tcpm</workgroup>
-    <abstract>This memo provides guidance to TCP implementers that is intended to help improve connection convergence to steady-state operation without affecting interoperability.  It updates and replaces RFC 2140's description of sharing TCP state, as typically represented in TCP Control Blocks, among similar concurrent or consecutive connections.</abstract>
+    <abstract>
+      <t>This memo provides guidance to TCP implementers that is intended to help improve connection convergence to steady-state operation without affecting interoperability.  It updates and replaces RFC 2140's description of sharing TCP state, as typically represented in TCP Control Blocks, among similar concurrent or consecutive connections.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9040"/>
+  <seriesInfo name="RFC" value="9040"/>
 </reference>

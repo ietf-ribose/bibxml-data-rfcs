@@ -1,23 +1,22 @@
 <reference anchor="RFC8704" target="https://www.rfc-editor.org/info/rfc8704">
   <front>
     <title>Enhanced Feasible-Path Unicast Reverse Path Forwarding</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8704"/>
-    <author fullname="K. Sriram"/>
-    <author fullname="D. Montgomery"/>
-    <author fullname="J. Haas"/>
+    <author fullname="K. Sriram" initials="K." surname="Sriram">
+      <organization/>
+    </author>
+    <author fullname="D. Montgomery" initials="D." surname="Montgomery">
+      <organization/>
+    </author>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
     <date year="2020" month="February"/>
     <workgroup>opsec</workgroup>
-    <keyword>BGP</keyword>
-    <keyword>source address spoofing</keyword>
-    <keyword>source address validation</keyword>
-    <keyword>SAV</keyword>
-    <keyword>Reverse Path Forwarding</keyword>
-    <keyword>RPF</keyword>
-    <keyword>unicast RPF</keyword>
-    <keyword>uRPF</keyword>
-    <keyword>DDoS mitigation</keyword>
-    <keyword>BCP 38</keyword>
-    <keyword>BCP 84</keyword>
-    <abstract>This document identifies a need for and proposes improvement of the unicast Reverse Path Forwarding (uRPF) techniques (see RFC 3704) for detection and mitigation of source address spoofing (see BCP 38).  Strict uRPF is inflexible about directionality, the loose uRPF is oblivious to directionality, and the current feasible-path uRPF attempts to strike a balance between the two (see RFC 3704).  However, as shown in this document, the existing feasible-path uRPF still has shortcomings.  This document describes enhanced feasible-path uRPF (EFP-uRPF) techniques that are more flexible (in a meaningful way) about directionality than the feasible-path uRPF (RFC 3704).  The proposed EFP-uRPF methods aim to significantly reduce false positives regarding invalid detection in source address validation (SAV).  Hence, they can potentially alleviate ISPs' concerns about the possibility of disrupting service for their customers and encourage greater deployment of uRPF techniques.  This document updates RFC 3704.</abstract>
+    <abstract>
+      <t>This document identifies a need for and proposes improvement of the unicast Reverse Path Forwarding (uRPF) techniques (see RFC 3704) for detection and mitigation of source address spoofing (see BCP 38).  Strict uRPF is inflexible about directionality, the loose uRPF is oblivious to directionality, and the current feasible-path uRPF attempts to strike a balance between the two (see RFC 3704).  However, as shown in this document, the existing feasible-path uRPF still has shortcomings.  This document describes enhanced feasible-path uRPF (EFP-uRPF) techniques that are more flexible (in a meaningful way) about directionality than the feasible-path uRPF (RFC 3704).  The proposed EFP-uRPF methods aim to significantly reduce false positives regarding invalid detection in source address validation (SAV).  Hence, they can potentially alleviate ISPs' concerns about the possibility of disrupting service for their customers and encourage greater deployment of uRPF techniques.  This document updates RFC 3704.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8704"/>
+  <seriesInfo name="BCP" value="84"/>
+  <seriesInfo name="RFC" value="8704"/>
 </reference>

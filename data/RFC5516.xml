@@ -1,16 +1,18 @@
 <reference anchor="RFC5516" target="https://www.rfc-editor.org/info/rfc5516">
   <front>
     <title>Diameter Command Code Registration for the Third Generation Partnership Project (3GPP) Evolved Packet System (EPS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5516"/>
-    <author fullname="M. Jones"/>
-    <author fullname="L. Morand"/>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="L. Morand" initials="L." surname="Morand">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>3GPP</keyword>
-    <keyword>Release 8</keyword>
-    <keyword>Diameter</keyword>
-    <keyword>command codes</keyword>
-    <keyword>EPS</keyword>
-    <abstract>This document registers a set of IANA Diameter Command Codes to be used in new vendor-specific Diameter applications defined for the Third Generation Partnership Project (3GPP) Evolved Packet System (EPS).  These new Diameter applications are defined for Mobile Management Entity (MME)- and Serving GPRS (General Packet Radio Service) Support Node (SGSN)-related interfaces in the architecture for the Evolved 3GPP Packet Switched Domain, which is also known as the Evolved Packet System (EPS).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document registers a set of IANA Diameter Command Codes to be used in new vendor-specific Diameter applications defined for the Third Generation Partnership Project (3GPP) Evolved Packet System (EPS).  These new Diameter applications are defined for Mobile Management Entity (MME)- and Serving GPRS (General Packet Radio Service) Support Node (SGSN)-related interfaces in the architecture for the Evolved 3GPP Packet Switched Domain, which is also known as the Evolved Packet System (EPS).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5516"/>
+  <seriesInfo name="RFC" value="5516"/>
 </reference>

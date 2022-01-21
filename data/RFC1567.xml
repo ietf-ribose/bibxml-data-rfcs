@@ -1,15 +1,18 @@
 <reference anchor="RFC1567" target="https://www.rfc-editor.org/info/rfc1567">
   <front>
     <title>X.500 Directory Monitoring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1567"/>
-    <author fullname="G. Mansfield"/>
-    <author fullname="S. Kille"/>
+    <author fullname="G. Mansfield" initials="G." surname="Mansfield">
+      <organization/>
+    </author>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1994" month="January"/>
     <workgroup>madman</workgroup>
-    <keyword>X500-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This document defines a portion of the Management Information Base (MIB).  It defines the MIB for monitoring Directory System Agents (DSA), a component of the OSI Directory.  This MIB will be used in conjunction with the APPLICATION-MIB for monitoring DSAs. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a portion of the Management Information Base (MIB).  It defines the MIB for monitoring Directory System Agents (DSA), a component of the OSI Directory.  This MIB will be used in conjunction with the APPLICATION-MIB for monitoring DSAs. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1567"/>
+  <seriesInfo name="RFC" value="1567"/>
 </reference>

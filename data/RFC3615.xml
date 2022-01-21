@@ -1,12 +1,17 @@
 <reference anchor="RFC3615" target="https://www.rfc-editor.org/info/rfc3615">
   <front>
     <title>A Uniform Resource Name (URN) Namespace for SWIFT Financial Messaging</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3615"/>
-    <author fullname="J. Gustin"/>
-    <author fullname="A. Goyens"/>
+    <author fullname="J. Gustin" initials="J." surname="Gustin">
+      <organization/>
+    </author>
+    <author fullname="A. Goyens" initials="A." surname="Goyens">
+      <organization/>
+    </author>
     <date year="2003" month="September"/>
-    <keyword>messaging service</keyword>
-    <keyword>interface software</keyword>
-    <abstract>This document describes a Uniform Resource Name (URN) namespace that is managed by SWIFT for usage within messages standardized by SWIFT.</abstract>
+    <abstract>
+      <t>This document describes a Uniform Resource Name (URN) namespace that is managed by SWIFT for usage within messages standardized by SWIFT.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3615"/>
+  <seriesInfo name="RFC" value="3615"/>
 </reference>

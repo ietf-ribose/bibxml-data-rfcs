@@ -1,14 +1,18 @@
 <reference anchor="RFC8702" target="https://www.rfc-editor.org/info/rfc8702">
   <front>
     <title>Use of the SHAKE One-Way Hash Functions in the Cryptographic Message Syntax (CMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8702"/>
-    <author fullname="P. Kampanakis"/>
-    <author fullname="Q. Dang"/>
+    <author fullname="P. Kampanakis" initials="P." surname="Kampanakis">
+      <organization/>
+    </author>
+    <author fullname="Q. Dang" initials="Q." surname="Dang">
+      <organization/>
+    </author>
     <date year="2020" month="January"/>
     <workgroup>lamps</workgroup>
-    <keyword>SHAKEs in CMS</keyword>
-    <keyword>SHAKE</keyword>
-    <keyword>CMS with SHAKEs</keyword>
-    <abstract>This document updates the "Cryptographic Message Syntax (CMS) Algorithms" (RFC 3370) and describes the conventions for using the SHAKE family of hash functions in the Cryptographic Message Syntax as one-way hash functions with the RSA Probabilistic Signature Scheme (RSASSA-PSS) and Elliptic Curve Digital Signature Algorithm (ECDSA).  The conventions for the associated signer public keys in CMS are also described.</abstract>
+    <abstract>
+      <t>This document updates the "Cryptographic Message Syntax (CMS) Algorithms" (RFC 3370) and describes the conventions for using the SHAKE family of hash functions in the Cryptographic Message Syntax as one-way hash functions with the RSA Probabilistic Signature Scheme (RSASSA-PSS) and Elliptic Curve Digital Signature Algorithm (ECDSA).  The conventions for the associated signer public keys in CMS are also described.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8702"/>
+  <seriesInfo name="RFC" value="8702"/>
 </reference>

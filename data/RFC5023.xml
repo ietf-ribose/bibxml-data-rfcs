@@ -1,14 +1,18 @@
 <reference anchor="RFC5023" target="https://www.rfc-editor.org/info/rfc5023">
   <front>
     <title>The Atom Publishing Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5023"/>
-    <author fullname="J. Gregorio"/>
-    <author fullname="B. de hOra"/>
+    <author fullname="J. Gregorio" initials="J." surname="Gregorio">
+      <organization/>
+    </author>
+    <author fullname="B. de hOra" initials="B." surname="de">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>atompub</workgroup>
-    <keyword>atompub</keyword>
-    <keyword>http transfer</keyword>
-    <keyword>atom syndication format</keyword>
-    <abstract>The Atom Publishing Protocol (AtomPub) is an application-level protocol for publishing and editing Web resources.  The protocol is based on HTTP transfer of Atom-formatted representations.  The Atom format is documented in the Atom Syndication Format. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Atom Publishing Protocol (AtomPub) is an application-level protocol for publishing and editing Web resources.  The protocol is based on HTTP transfer of Atom-formatted representations.  The Atom format is documented in the Atom Syndication Format. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5023"/>
+  <seriesInfo name="RFC" value="5023"/>
 </reference>

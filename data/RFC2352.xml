@@ -1,10 +1,14 @@
 <reference anchor="RFC2352" target="https://www.rfc-editor.org/info/rfc2352">
   <front>
     <title>A Convention For Using Legal Names as Domain Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2352"/>
-    <author fullname="O. Vaughan"/>
+    <author fullname="O. Vaughan" initials="O." surname="Vaughan">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
-    <keyword>DNS</keyword>
-    <abstract>The purpose of this memo is to focus discussion on the particular problems with the exhaustion of the top level domain space in the Internet and the possible conflicts that can occur when multiple organisations are vying for the same name.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The purpose of this memo is to focus discussion on the particular problems with the exhaustion of the top level domain space in the Internet and the possible conflicts that can occur when multiple organisations are vying for the same name.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2352"/>
+  <seriesInfo name="RFC" value="2352"/>
 </reference>

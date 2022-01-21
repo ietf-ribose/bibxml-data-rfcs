@@ -1,13 +1,24 @@
 <reference anchor="RFC7269" target="https://www.rfc-editor.org/info/rfc7269">
   <front>
     <title>NAT64 Deployment Options and Experience</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7269"/>
-    <author fullname="G. Chen"/>
-    <author fullname="Z. Cao"/>
-    <author fullname="C. Xie"/>
-    <author fullname="D. Binet"/>
+    <author fullname="G. Chen" initials="G." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="Z. Cao" initials="Z." surname="Cao">
+      <organization/>
+    </author>
+    <author fullname="C. Xie" initials="C." surname="Xie">
+      <organization/>
+    </author>
+    <author fullname="D. Binet" initials="D." surname="Binet">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>v6ops</workgroup>
-    <abstract>This document summarizes NAT64 function deployment scenarios and operational experience.  Both NAT64 Carrier-Grade NAT (NAT64-CGN) and NAT64 server Front End (NAT64-FE) are considered in this document.</abstract>
+    <abstract>
+      <t>This document summarizes NAT64 function deployment scenarios and operational experience.  Both NAT64 Carrier-Grade NAT (NAT64-CGN) and NAT64 server Front End (NAT64-FE) are considered in this document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7269"/>
+  <seriesInfo name="RFC" value="7269"/>
 </reference>

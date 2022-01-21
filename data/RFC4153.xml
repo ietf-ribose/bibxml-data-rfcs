@@ -1,14 +1,21 @@
 <reference anchor="RFC4153" target="https://www.rfc-editor.org/info/rfc4153">
   <front>
     <title>XML Voucher: Generic Voucher Language</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4153"/>
-    <author fullname="K. Fujimura"/>
-    <author fullname="M. Terada"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="K. Fujimura" initials="K." surname="Fujimura">
+      <organization/>
+    </author>
+    <author fullname="M. Terada" initials="M." surname="Terada">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2005" month="September"/>
     <workgroup>trade</workgroup>
-    <keyword>extensible markup language</keyword>
-    <keyword>logical entity</keyword>
-    <abstract>This document specifies rules for defining voucher properties in XML syntax.  A voucher is a logical entity that represents a right to claim goods or services.  A voucher can be used to transfer a wide range of electronic values, including coupons, tickets, loyalty points, and gift certificates, which often have to be processed in the course of payment and/or delivery transactions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies rules for defining voucher properties in XML syntax.  A voucher is a logical entity that represents a right to claim goods or services.  A voucher can be used to transfer a wide range of electronic values, including coupons, tickets, loyalty points, and gift certificates, which often have to be processed in the course of payment and/or delivery transactions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4153"/>
+  <seriesInfo name="RFC" value="4153"/>
 </reference>

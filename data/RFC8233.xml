@@ -1,21 +1,28 @@
 <reference anchor="RFC8233" target="https://www.rfc-editor.org/info/rfc8233">
   <front>
     <title>Extensions to the Path Computation Element Communication Protocol (PCEP) to Compute Service-Aware Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8233"/>
-    <author fullname="D. Dhody"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="V. Manral"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="K. Kumaki"/>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="K. Kumaki" initials="K." surname="Kumaki">
+      <organization/>
+    </author>
     <date year="2017" month="September"/>
     <workgroup>pce</workgroup>
-    <keyword>PCE</keyword>
-    <keyword>PCEP</keyword>
-    <keyword>service-aware</keyword>
-    <keyword>metric</keyword>
-    <keyword>BU</keyword>
-    <keyword>LBU</keyword>
-    <keyword>LRBU</keyword>
-    <abstract>In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network performance criteria (e.g., latency) are becoming as critical to data path selection as other metrics and constraints. These metrics are associated with the Service Level Agreement (SLA) between customers and service providers. The link bandwidth utilization (the total bandwidth of a link in actual use for the forwarding) is another important factor to consider during path computation. IGP Traffic Engineering (TE) Metric Extensions describe mechanisms with which network performance information is distributed via OSPF and IS-IS, respectively. The Path Computation Element Communication Protocol (PCEP) provides mechanisms for Path Computation Elements (PCEs) to perform path computations in response to Path Computation Client (PCC) requests. This document describes the extension to PCEP to carry latency, delay variation, packet loss, and link bandwidth utilization as constraints for end-to-end path computation.</abstract>
+    <abstract>
+      <t>In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network performance criteria (e.g., latency) are becoming as critical to data path selection as other metrics and constraints. These metrics are associated with the Service Level Agreement (SLA) between customers and service providers. The link bandwidth utilization (the total bandwidth of a link in actual use for the forwarding) is another important factor to consider during path computation.</t>
+      <t>IGP Traffic Engineering (TE) Metric Extensions describe mechanisms with which network performance information is distributed via OSPF and IS-IS, respectively. The Path Computation Element Communication Protocol (PCEP) provides mechanisms for Path Computation Elements (PCEs) to perform path computations in response to Path Computation Client (PCC) requests. This document describes the extension to PCEP to carry latency, delay variation, packet loss, and link bandwidth utilization as constraints for end-to-end path computation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8233"/>
+  <seriesInfo name="RFC" value="8233"/>
 </reference>

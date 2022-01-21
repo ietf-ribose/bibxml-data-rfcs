@@ -1,13 +1,24 @@
 <reference anchor="RFC7954" target="https://www.rfc-editor.org/info/rfc7954">
   <front>
     <title>Locator/ID Separation Protocol (LISP) Endpoint Identifier (EID) Block</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7954"/>
-    <author fullname="L. Iannone"/>
-    <author fullname="D. Lewis"/>
-    <author fullname="D. Meyer"/>
-    <author fullname="V. Fuller"/>
+    <author fullname="L. Iannone" initials="L." surname="Iannone">
+      <organization/>
+    </author>
+    <author fullname="D. Lewis" initials="D." surname="Lewis">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="V. Fuller" initials="V." surname="Fuller">
+      <organization/>
+    </author>
     <date year="2016" month="September"/>
     <workgroup>lisp</workgroup>
-    <abstract>This document directs IANA to allocate a /32 IPv6 prefix for use with the Locator/ID Separation Protocol (LISP).  The prefix will be used for local intra-domain routing and global endpoint identification, by sites deploying LISP as Endpoint Identifier (EID) addressing space.</abstract>
+    <abstract>
+      <t>This document directs IANA to allocate a /32 IPv6 prefix for use with the Locator/ID Separation Protocol (LISP).  The prefix will be used for local intra-domain routing and global endpoint identification, by sites deploying LISP as Endpoint Identifier (EID) addressing space.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7954"/>
+  <seriesInfo name="RFC" value="7954"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC8621" target="https://www.rfc-editor.org/info/rfc8621">
   <front>
     <title>The JSON Meta Application Protocol (JMAP) for Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8621"/>
-    <author fullname="N. Jenkins"/>
-    <author fullname="C. Newman"/>
+    <author fullname="N. Jenkins" initials="N." surname="Jenkins">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
     <date year="2019" month="August"/>
     <workgroup>jmap</workgroup>
-    <keyword>JMAP</keyword>
-    <keyword>JSON</keyword>
-    <keyword>email</keyword>
-    <abstract>This document specifies a data model for synchronising email data with a server using the JSON Meta Application Protocol (JMAP).  Clients can use this to efficiently search, access, organise, and send messages, and to get push notifications for fast resynchronisation when new messages are delivered or a change is made in another client.</abstract>
+    <abstract>
+      <t>This document specifies a data model for synchronising email data with a server using the JSON Meta Application Protocol (JMAP).  Clients can use this to efficiently search, access, organise, and send messages, and to get push notifications for fast resynchronisation when new messages are delivered or a change is made in another client.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8621"/>
+  <seriesInfo name="RFC" value="8621"/>
 </reference>

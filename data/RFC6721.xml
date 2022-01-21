@@ -1,12 +1,15 @@
 <reference anchor="RFC6721" target="https://www.rfc-editor.org/info/rfc6721">
   <front>
     <title>The Atom "deleted-entry" Element</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6721"/>
-    <author fullname="J. Snell"/>
+    <author fullname="J. Snell" initials="J." surname="Snell">
+      <organization/>
+    </author>
     <date year="2012" month="September"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Atom Feed</keyword>
-    <keyword>Entry Documents</keyword>
-    <abstract>This specification adds mechanisms to the Atom Syndication Format that publishers of Atom Feed and Entry documents can use to explicitly identify Atom entries that have been removed. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification adds mechanisms to the Atom Syndication Format that publishers of Atom Feed and Entry documents can use to explicitly identify Atom entries that have been removed. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6721"/>
+  <seriesInfo name="RFC" value="6721"/>
 </reference>

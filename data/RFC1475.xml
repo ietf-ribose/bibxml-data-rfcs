@@ -1,13 +1,15 @@
 <reference anchor="RFC1475" target="https://www.rfc-editor.org/info/rfc1475">
   <front>
     <title>TP/IX: The Next Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1475"/>
-    <author fullname="R. Ullmann"/>
+    <author fullname="R. Ullmann" initials="R." surname="Ullmann">
+      <organization/>
+    </author>
     <date year="1993" month="June"/>
     <workgroup>tpix</workgroup>
-    <keyword>TP-IX</keyword>
-    <keyword>IPv7</keyword>
-    <keyword>IPng</keyword>
-    <abstract>This memo presents the specification for version 7 of the Internet Protocol, as well as version 7 of the TCP and the user datagram protocol.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo presents the specification for version 7 of the Internet Protocol, as well as version 7 of the TCP and the user datagram protocol.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1475"/>
+  <seriesInfo name="RFC" value="1475"/>
 </reference>

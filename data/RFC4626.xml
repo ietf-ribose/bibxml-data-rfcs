@@ -1,15 +1,24 @@
 <reference anchor="RFC4626" target="https://www.rfc-editor.org/info/rfc4626">
   <front>
     <title>MIB for Fibre Channel's Fabric Shortest Path First (FSPF) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4626"/>
-    <author fullname="C. DeSanti"/>
-    <author fullname="V. Gaonkar"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="S. Gai"/>
+    <author fullname="C. DeSanti" initials="C." surname="DeSanti">
+      <organization/>
+    </author>
+    <author fullname="V. Gaonkar" initials="V." surname="Gaonkar">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="S. Gai" initials="S." surname="Gai">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>imss</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>T11-FC-FSPF-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to the Fibre Channel network's Fabric Shortest Path First (FSPF) routing protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for information related to the Fibre Channel network's Fabric Shortest Path First (FSPF) routing protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4626"/>
+  <seriesInfo name="RFC" value="4626"/>
 </reference>

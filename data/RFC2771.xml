@@ -1,14 +1,15 @@
 <reference anchor="RFC2771" target="https://www.rfc-editor.org/info/rfc2771">
   <front>
     <title>An Abstract API for Multicast Address Allocation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2771"/>
-    <author fullname="R. Finlayson"/>
+    <author fullname="R. Finlayson" initials="R." surname="Finlayson">
+      <organization/>
+    </author>
     <date year="2000" month="February"/>
     <workgroup>malloc</workgroup>
-    <keyword>application</keyword>
-    <keyword>programming</keyword>
-    <keyword>interfaces</keyword>
-    <keyword>service</keyword>
-    <abstract>This document describes the "abstract service interface" for the dynamic multicast address allocation service, as seen by applications.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the "abstract service interface" for the dynamic multicast address allocation service, as seen by applications.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2771"/>
+  <seriesInfo name="RFC" value="2771"/>
 </reference>

@@ -1,17 +1,24 @@
 <reference anchor="RFC7173" target="https://www.rfc-editor.org/info/rfc7173">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL) Transport Using Pseudowires</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7173"/>
-    <author fullname="L. Yong"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="J. Hudson"/>
+    <author fullname="L. Yong" initials="L." surname="Yong">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="J. Hudson" initials="J." surname="Hudson">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>trill</workgroup>
-    <keyword>TRILL</keyword>
-    <keyword>pseudowires</keyword>
-    <keyword>MPLS</keyword>
-    <keyword>RBridge</keyword>
-    <abstract>This document specifies how to interconnect a pair of Transparent Interconnection of Lots of Links (TRILL) switch ports using pseudowires under existing TRILL and Pseudowire Emulation End-to-End (PWE3) standards.</abstract>
+    <abstract>
+      <t>This document specifies how to interconnect a pair of Transparent Interconnection of Lots of Links (TRILL) switch ports using pseudowires under existing TRILL and Pseudowire Emulation End-to-End (PWE3) standards.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7173"/>
+  <seriesInfo name="RFC" value="7173"/>
 </reference>

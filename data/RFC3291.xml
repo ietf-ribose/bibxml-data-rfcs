@@ -1,19 +1,24 @@
 <reference anchor="RFC3291" target="https://www.rfc-editor.org/info/rfc3291">
   <front>
     <title>Textual Conventions for Internet Network Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3291"/>
-    <author fullname="M. Daniele"/>
-    <author fullname="B. Haberman"/>
-    <author fullname="S. Routhier"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="M. Daniele" initials="M." surname="Daniele">
+      <organization/>
+    </author>
+    <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
+    <author fullname="S. Routhier" initials="S." surname="Routhier">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2002" month="May"/>
     <workgroup>opsawg</workgroup>
-    <keyword>tc</keyword>
-    <keyword>mib</keyword>
-    <keyword>layer</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This MIB module defines textual conventions to represent commonly used Internet network layer addressing information.  The intent is that these textual conventions (TCs) will be imported and used in MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This MIB module defines textual conventions to represent commonly used Internet network layer addressing information.  The intent is that these textual conventions (TCs) will be imported and used in MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3291"/>
+  <seriesInfo name="RFC" value="3291"/>
 </reference>

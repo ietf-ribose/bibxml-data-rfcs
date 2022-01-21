@@ -1,15 +1,18 @@
 <reference anchor="RFC3116" target="https://www.rfc-editor.org/info/rfc3116">
   <front>
     <title>Methodology for ATM Benchmarking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3116"/>
-    <author fullname="J. Dunn"/>
-    <author fullname="C. Martin"/>
+    <author fullname="J. Dunn" initials="J." surname="Dunn">
+      <organization/>
+    </author>
+    <author fullname="C. Martin" initials="C." surname="Martin">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
     <workgroup>bmwg</workgroup>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer mode</keyword>
-    <keyword>formats</keyword>
-    <keyword>switching</keyword>
-    <abstract>This document discusses and defines a number of tests that may be used to describe the performance characteristics of ATM (Asynchronous Transfer Mode) based switching devices.  In addition to defining the tests this document also describes specific formats for reporting the results of the tests.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document discusses and defines a number of tests that may be used to describe the performance characteristics of ATM (Asynchronous Transfer Mode) based switching devices.  In addition to defining the tests this document also describes specific formats for reporting the results of the tests.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3116"/>
+  <seriesInfo name="RFC" value="3116"/>
 </reference>

@@ -1,17 +1,15 @@
 <reference anchor="RFC2011" target="https://www.rfc-editor.org/info/rfc2011">
   <front>
     <title>SNMPv2 Management Information Base for the Internet Protocol using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2011"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>MIB-IP</keyword>
-    <keyword>IP</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MIB</keyword>
-    <abstract>This document is the MIB module which defines managed objects for managing implementations of the Internet Protocol (IP) and its associated Internet Control Message Protocol (ICMP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is the MIB module which defines managed objects for managing implementations of the Internet Protocol (IP) and its associated Internet Control Message Protocol (ICMP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2011"/>
+  <seriesInfo name="RFC" value="2011"/>
 </reference>

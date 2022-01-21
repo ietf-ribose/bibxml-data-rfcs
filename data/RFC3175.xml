@@ -1,21 +1,24 @@
 <reference anchor="RFC3175" target="https://www.rfc-editor.org/info/rfc3175">
   <front>
     <title>Aggregation of RSVP for IPv4 and IPv6 Reservations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3175"/>
-    <author fullname="F. Baker"/>
-    <author fullname="C. Iturralde"/>
-    <author fullname="F. Le Faucheur"/>
-    <author fullname="B. Davie"/>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author fullname="C. Iturralde" initials="C." surname="Iturralde">
+      <organization/>
+    </author>
+    <author fullname="F. Le Faucheur" initials="F." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
     <date year="2001" month="September"/>
     <workgroup>issll</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>internet</keyword>
-    <keyword>ATM</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <abstract>This document describes the use of a single RSVP (Resource ReSerVation Protocol) reservation to aggregate other RSVP reservations across a transit routing region, in a manner conceptually similar to the use of Virtual Paths in an ATM (Asynchronous Transfer Mode) network.  It proposes a way to dynamically create the aggregate reservation, classify the traffic for which the aggregate reservation applies, determine how much bandwidth is needed to achieve the requirement, and recover the bandwidth when the sub-reservations are no longer required.  It also contains recommendations concerning algorithms and policies for predictive reservations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of a single RSVP (Resource ReSerVation Protocol) reservation to aggregate other RSVP reservations across a transit routing region, in a manner conceptually similar to the use of Virtual Paths in an ATM (Asynchronous Transfer Mode) network.  It proposes a way to dynamically create the aggregate reservation, classify the traffic for which the aggregate reservation applies, determine how much bandwidth is needed to achieve the requirement, and recover the bandwidth when the sub-reservations are no longer required.  It also contains recommendations concerning algorithms and policies for predictive reservations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3175"/>
+  <seriesInfo name="RFC" value="3175"/>
 </reference>

@@ -1,19 +1,30 @@
 <reference anchor="RFC8697" target="https://www.rfc-editor.org/info/rfc8697">
   <front>
     <title>Path Computation Element Communication Protocol (PCEP) Extensions for Establishing Relationships between Sets of Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8697"/>
-    <author fullname="I. Minei"/>
-    <author fullname="E. Crabbe"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="H. Ananthakrishnan"/>
-    <author fullname="D. Dhody"/>
-    <author fullname="Y. Tanaka"/>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="E. Crabbe" initials="E." surname="Crabbe">
+      <organization/>
+    </author>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="H. Ananthakrishnan" initials="H." surname="Ananthakrishnan">
+      <organization/>
+    </author>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
+    <author fullname="Y. Tanaka" initials="Y." surname="Tanaka">
+      <organization/>
+    </author>
     <date year="2020" month="January"/>
     <workgroup>pce</workgroup>
-    <keyword>PCE</keyword>
-    <keyword>PCEP</keyword>
-    <keyword>Association</keyword>
-    <keyword>Group</keyword>
-    <abstract>This document introduces a generic mechanism to create a grouping of Label Switched Paths (LSPs) in the context of a Path Computation Element (PCE).  This grouping can then be used to define associations between sets of LSPs or between a set of LSPs and a set of attributes (such as configuration parameters or behaviors), and it is equally applicable to the stateful PCE (active and passive modes) and the stateless PCE.</abstract>
+    <abstract>
+      <t>This document introduces a generic mechanism to create a grouping of Label Switched Paths (LSPs) in the context of a Path Computation Element (PCE).  This grouping can then be used to define associations between sets of LSPs or between a set of LSPs and a set of attributes (such as configuration parameters or behaviors), and it is equally applicable to the stateful PCE (active and passive modes) and the stateless PCE.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8697"/>
+  <seriesInfo name="RFC" value="8697"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC1566" target="https://www.rfc-editor.org/info/rfc1566">
   <front>
     <title>Mail Monitoring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1566"/>
-    <author fullname="S. Kille"/>
-    <author fullname="N. Freed"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
     <date year="1994" month="January"/>
     <workgroup>madman</workgroup>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, this memo extends the basic Network Services Monitoring MIB to allow monitoring of Message Transfer Agents (MTAs).  It may also be used to monitor MTA components within gateways. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, this memo extends the basic Network Services Monitoring MIB to allow monitoring of Message Transfer Agents (MTAs).  It may also be used to monitor MTA components within gateways. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1566"/>
+  <seriesInfo name="RFC" value="1566"/>
 </reference>

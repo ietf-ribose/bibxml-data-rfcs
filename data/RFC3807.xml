@@ -1,30 +1,21 @@
 <reference anchor="RFC3807" target="https://www.rfc-editor.org/info/rfc3807">
   <front>
     <title>V5.2-User Adaptation Layer (V5UA)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3807"/>
-    <author fullname="E. Weilandt"/>
-    <author fullname="N. Khanchandani"/>
-    <author fullname="S. Rao"/>
+    <author fullname="E. Weilandt" initials="E." surname="Weilandt">
+      <organization/>
+    </author>
+    <author fullname="N. Khanchandani" initials="N." surname="Khanchandani">
+      <organization/>
+    </author>
+    <author fullname="S. Rao" initials="S." surname="Rao">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>sigtran</workgroup>
-    <keyword>v5</keyword>
-    <keyword>v5.1</keyword>
-    <keyword>v5.2</keyword>
-    <keyword>backhauling</keyword>
-    <keyword>imap</keyword>
-    <keyword>sctp</keyword>
-    <keyword>isdn</keyword>
-    <keyword>access network</keyword>
-    <keyword>c-path</keyword>
-    <keyword>c-channel</keyword>
-    <keyword>efa</keyword>
-    <keyword>envelope function address</keyword>
-    <keyword>lapv5</keyword>
-    <keyword>pstn</keyword>
-    <keyword>v5ptm</keyword>
-    <keyword>mgc</keyword>
-    <keyword>gateway controller</keyword>
-    <keyword>gateway</keyword>
-    <abstract>This document defines a mechanism for the backhauling of V5.2 messages over IP using the Stream Control Transmission Protocol (SCTP).  This protocol may be used between a Signaling Gateway (SG) and a Media Gateway controller (MGC).  It is assumed that the SG receives V5.2 signaling over a standard V5.2 interface.  This document builds on the ISDN User Adaptation Layer Protocol (RFC 3057).  It defines all necessary extensions to the IUA Protocol needed for the V5UA protocol implementation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a mechanism for the backhauling of V5.2 messages over IP using the Stream Control Transmission Protocol (SCTP).  This protocol may be used between a Signaling Gateway (SG) and a Media Gateway controller (MGC).  It is assumed that the SG receives V5.2 signaling over a standard V5.2 interface.  This document builds on the ISDN User Adaptation Layer Protocol (RFC 3057).  It defines all necessary extensions to the IUA Protocol needed for the V5UA protocol implementation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3807"/>
+  <seriesInfo name="RFC" value="3807"/>
 </reference>

@@ -1,14 +1,27 @@
 <reference anchor="RFC8014" target="https://www.rfc-editor.org/info/rfc8014">
   <front>
     <title>An Architecture for Data-Center Network Virtualization over Layer 3 (NVO3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8014"/>
-    <author fullname="D. Black"/>
-    <author fullname="J. Hudson"/>
-    <author fullname="L. Kreeger"/>
-    <author fullname="M. Lasserre"/>
-    <author fullname="T. Narten"/>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="J. Hudson" initials="J." surname="Hudson">
+      <organization/>
+    </author>
+    <author fullname="L. Kreeger" initials="L." surname="Kreeger">
+      <organization/>
+    </author>
+    <author fullname="M. Lasserre" initials="M." surname="Lasserre">
+      <organization/>
+    </author>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
     <date year="2016" month="December"/>
     <workgroup>nvo3</workgroup>
-    <abstract>This document presents a high-level overview architecture for building data-center Network Virtualization over Layer 3 (NVO3) networks.  The architecture is given at a high level, showing the major components of an overall system.  An important goal is to divide the space into individual smaller components that can be implemented independently with clear inter-component interfaces and interactions.  It should be possible to build and implement individual components in isolation and have them interoperate with other independently implemented components.  That way, implementers have flexibility in implementing individual components and can optimize and innovate within their respective components without requiring changes to other components.</abstract>
+    <abstract>
+      <t>This document presents a high-level overview architecture for building data-center Network Virtualization over Layer 3 (NVO3) networks.  The architecture is given at a high level, showing the major components of an overall system.  An important goal is to divide the space into individual smaller components that can be implemented independently with clear inter-component interfaces and interactions.  It should be possible to build and implement individual components in isolation and have them interoperate with other independently implemented components.  That way, implementers have flexibility in implementing individual components and can optimize and innovate within their respective components without requiring changes to other components.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8014"/>
+  <seriesInfo name="RFC" value="8014"/>
 </reference>

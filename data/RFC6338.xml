@@ -1,13 +1,19 @@
 <reference anchor="RFC6338" target="https://www.rfc-editor.org/info/rfc6338">
   <front>
     <title>Definition of a Uniform Resource Name (URN) Namespace for the Schema for Academia (SCHAC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6338"/>
-    <author fullname="V. Giralt"/>
-    <author fullname="R. McDuff"/>
+    <author fullname="V. Giralt" initials="V." surname="Giralt">
+      <organization/>
+    </author>
+    <author fullname="R. McDuff" initials="R." surname="McDuff">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>TERENA</keyword>
-    <keyword>tf-emc2</keyword>
-    <abstract>This document describes a Uniform Resource Name (URN) namespace for the Schema for Academia (SCHAC). The namespace described in this document is for naming persistent resources defined by the SCHAC participants internationally, their working groups, and other designated subordinates. The main use of this namespace will be for the creation of controlled vocabulary values for attributes in the SCHAC schema. These values will be associated with particular instances of persons or objects belonging to any of the SCHAC object classes. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes a Uniform Resource Name (URN) namespace for the Schema for Academia (SCHAC).</t>
+      <t>The namespace described in this document is for naming persistent resources defined by the SCHAC participants internationally, their working groups, and other designated subordinates. The main use of this namespace will be for the creation of controlled vocabulary values for attributes in the SCHAC schema. These values will be associated with particular instances of persons or objects belonging to any of the SCHAC object classes. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6338"/>
+  <seriesInfo name="RFC" value="6338"/>
 </reference>

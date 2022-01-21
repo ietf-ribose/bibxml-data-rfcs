@@ -1,13 +1,24 @@
 <reference anchor="RFC8682" target="https://www.rfc-editor.org/info/rfc8682">
   <front>
     <title>TinyMT32 Pseudorandom Number Generator (PRNG)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8682"/>
-    <author fullname="M. Saito"/>
-    <author fullname="M. Matsumoto"/>
-    <author fullname="V. Roca"/>
-    <author fullname="E. Baccelli"/>
+    <author fullname="M. Saito" initials="M." surname="Saito">
+      <organization/>
+    </author>
+    <author fullname="M. Matsumoto" initials="M." surname="Matsumoto">
+      <organization/>
+    </author>
+    <author fullname="V. Roca" initials="V." surname="Roca">
+      <organization/>
+    </author>
+    <author fullname="E. Baccelli" initials="E." surname="Baccelli">
+      <organization/>
+    </author>
     <date year="2020" month="January"/>
     <workgroup>tsvwg</workgroup>
-    <abstract>This document describes the TinyMT32 Pseudorandom Number Generator (PRNG), which produces 32-bit pseudorandom unsigned integers and aims at having a simple-to-use and deterministic solution.  This PRNG is a small-sized variant of the Mersenne Twister (MT) PRNG.  The main advantage of TinyMT32 over MT is the use of a small internal state, compatible with most target platforms that include embedded devices, while keeping reasonably good randomness that represents a significant improvement compared to the Park-Miller Linear Congruential PRNG.  However, neither the TinyMT nor MT PRNG is meant to be used for cryptographic applications.</abstract>
+    <abstract>
+      <t>This document describes the TinyMT32 Pseudorandom Number Generator (PRNG), which produces 32-bit pseudorandom unsigned integers and aims at having a simple-to-use and deterministic solution.  This PRNG is a small-sized variant of the Mersenne Twister (MT) PRNG.  The main advantage of TinyMT32 over MT is the use of a small internal state, compatible with most target platforms that include embedded devices, while keeping reasonably good randomness that represents a significant improvement compared to the Park-Miller Linear Congruential PRNG.  However, neither the TinyMT nor MT PRNG is meant to be used for cryptographic applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8682"/>
+  <seriesInfo name="RFC" value="8682"/>
 </reference>

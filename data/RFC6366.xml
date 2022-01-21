@@ -1,11 +1,18 @@
 <reference anchor="RFC6366" target="https://www.rfc-editor.org/info/rfc6366">
   <front>
     <title>Requirements for an Internet Audio Codec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6366"/>
-    <author fullname="J. Valin"/>
-    <author fullname="K. Vos"/>
+    <author fullname="J. Valin" initials="J." surname="Valin">
+      <organization/>
+    </author>
+    <author fullname="K. Vos" initials="K." surname="Vos">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>codec</workgroup>
-    <abstract>This document provides specific requirements for an Internet audio codec.  These requirements address quality, sampling rate, bit-rate, and packet-loss robustness, as well as other desirable properties.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document provides specific requirements for an Internet audio codec.  These requirements address quality, sampling rate, bit-rate, and packet-loss robustness, as well as other desirable properties.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6366"/>
+  <seriesInfo name="RFC" value="6366"/>
 </reference>

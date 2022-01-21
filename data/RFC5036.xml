@@ -1,15 +1,21 @@
 <reference anchor="RFC5036" target="https://www.rfc-editor.org/info/rfc5036">
   <front>
     <title>LDP Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5036"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="I. Minei"/>
-    <author fullname="B. Thomas"/>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="B. Thomas" initials="B." surname="Thomas">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>mpls</workgroup>
-    <keyword>label</keyword>
-    <keyword>distribution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>The architecture for Multiprotocol Label Switching (MPLS) is described in RFC 3031.  A fundamental concept in MPLS is that two Label Switching Routers (LSRs) must agree on the meaning of the labels used to forward traffic between and through them.  This common understanding is achieved by using a set of procedures, called a label distribution protocol, by which one LSR informs another of label bindings it has made.  This document defines a set of such procedures called LDP (for Label Distribution Protocol) by which LSRs distribute labels to support MPLS forwarding along normally routed paths. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The architecture for Multiprotocol Label Switching (MPLS) is described in RFC 3031.  A fundamental concept in MPLS is that two Label Switching Routers (LSRs) must agree on the meaning of the labels used to forward traffic between and through them.  This common understanding is achieved by using a set of procedures, called a label distribution protocol, by which one LSR informs another of label bindings it has made.  This document defines a set of such procedures called LDP (for Label Distribution Protocol) by which LSRs distribute labels to support MPLS forwarding along normally routed paths. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5036"/>
+  <seriesInfo name="RFC" value="5036"/>
 </reference>

@@ -1,15 +1,24 @@
 <reference anchor="RFC7730" target="https://www.rfc-editor.org/info/rfc7730">
   <front>
     <title>Resource Public Key Infrastructure (RPKI) Trust Anchor Locator</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7730"/>
-    <author fullname="G. Huston"/>
-    <author fullname="S. Weiler"/>
-    <author fullname="G. Michaelson"/>
-    <author fullname="S. Kent"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="S. Weiler" initials="S." surname="Weiler">
+      <organization/>
+    </author>
+    <author fullname="G. Michaelson" initials="G." surname="Michaelson">
+      <organization/>
+    </author>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
     <date year="2016" month="January"/>
     <workgroup>sidr</workgroup>
-    <keyword>RPKI</keyword>
-    <keyword>BGP Security</keyword>
-    <abstract>This document defines a Trust Anchor Locator (TAL) for the Resource Public Key Infrastructure (RPKI).  This document obsoletes RFC 6490 by adding support for multiple URIs in a TAL.</abstract>
+    <abstract>
+      <t>This document defines a Trust Anchor Locator (TAL) for the Resource Public Key Infrastructure (RPKI).  This document obsoletes RFC 6490 by adding support for multiple URIs in a TAL.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7730"/>
+  <seriesInfo name="RFC" value="7730"/>
 </reference>

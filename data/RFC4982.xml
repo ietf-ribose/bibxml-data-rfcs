@@ -1,11 +1,18 @@
 <reference anchor="RFC4982" target="https://www.rfc-editor.org/info/rfc4982">
   <front>
     <title>Support for Multiple Hash Algorithms in Cryptographically Generated Addresses (CGAs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4982"/>
-    <author fullname="M. Bagnulo"/>
-    <author fullname="J. Arkko"/>
+    <author fullname="M. Bagnulo" initials="M." surname="Bagnulo">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document analyzes the implications of recent attacks on commonly used hash functions on Cryptographically Generated Addresses (CGAs) and updates the CGA specification to support multiple hash algorithms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document analyzes the implications of recent attacks on commonly used hash functions on Cryptographically Generated Addresses (CGAs) and updates the CGA specification to support multiple hash algorithms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4982"/>
+  <seriesInfo name="RFC" value="4982"/>
 </reference>

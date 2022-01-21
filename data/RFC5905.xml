@@ -1,16 +1,24 @@
 <reference anchor="RFC5905" target="https://www.rfc-editor.org/info/rfc5905">
   <front>
     <title>Network Time Protocol Version 4: Protocol and Algorithms Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5905"/>
-    <author fullname="D. Mills"/>
-    <author fullname="J. Martin"/>
-    <author fullname="J. Burbank"/>
-    <author fullname="W. Kasch"/>
+    <author fullname="D. Mills" initials="D." surname="Mills">
+      <organization/>
+    </author>
+    <author fullname="J. Martin" initials="J." surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="J. Burbank" initials="J." surname="Burbank">
+      <organization/>
+    </author>
+    <author fullname="W. Kasch" initials="W." surname="Kasch">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>ntp</workgroup>
-    <keyword>NTP</keyword>
-    <keyword>SNTP</keyword>
-    <keyword>Synchronization</keyword>
-    <abstract>The Network Time Protocol (NTP) is widely used to synchronize computer clocks in the Internet.  This document describes NTP version 4 (NTPv4), which is backwards compatible with NTP version 3 (NTPv3), described in RFC 1305, as well as previous versions of the protocol.  NTPv4 includes a modified protocol header to accommodate the Internet Protocol version 6 address family.  NTPv4 includes fundamental improvements in the mitigation and discipline algorithms that extend the potential accuracy to the tens of microseconds with modern workstations and fast LANs.  It includes a dynamic server discovery scheme, so that in many cases, specific server configuration is not required.  It corrects certain errors in the NTPv3 design and implementation and includes an optional extension mechanism. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Network Time Protocol (NTP) is widely used to synchronize computer clocks in the Internet.  This document describes NTP version 4 (NTPv4), which is backwards compatible with NTP version 3 (NTPv3), described in RFC 1305, as well as previous versions of the protocol.  NTPv4 includes a modified protocol header to accommodate the Internet Protocol version 6 address family.  NTPv4 includes fundamental improvements in the mitigation and discipline algorithms that extend the potential accuracy to the tens of microseconds with modern workstations and fast LANs.  It includes a dynamic server discovery scheme, so that in many cases, specific server configuration is not required.  It corrects certain errors in the NTPv3 design and implementation and includes an optional extension mechanism. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5905"/>
+  <seriesInfo name="RFC" value="5905"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC3849" target="https://www.rfc-editor.org/info/rfc3849">
   <front>
     <title>IPv6 Address Prefix Reserved for Documentation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3849"/>
-    <author fullname="G. Huston"/>
-    <author fullname="A. Lord"/>
-    <author fullname="P. Smith"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="A. Lord" initials="A." surname="Lord">
+      <organization/>
+    </author>
+    <author fullname="P. Smith" initials="P." surname="Smith">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>unicast</keyword>
-    <keyword>site-local</keyword>
-    <keyword>link-local</keyword>
-    <abstract>To reduce the likelihood of conflict and confusion when relating documented examples to deployed systems, an IPv6 unicast address prefix is reserved for use in examples in RFCs, books, documentation, and the like.  Since site-local and link-local unicast addresses have special meaning in IPv6, these addresses cannot be used in many example situations.  The document describes the use of the IPv6 address prefix 2001:DB8::/32 as a reserved prefix for use in documentation.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>To reduce the likelihood of conflict and confusion when relating documented examples to deployed systems, an IPv6 unicast address prefix is reserved for use in examples in RFCs, books, documentation, and the like.  Since site-local and link-local unicast addresses have special meaning in IPv6, these addresses cannot be used in many example situations.  The document describes the use of the IPv6 address prefix 2001:DB8::/32 as a reserved prefix for use in documentation.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3849"/>
+  <seriesInfo name="RFC" value="3849"/>
 </reference>

@@ -1,14 +1,28 @@
 <reference anchor="RFC7130" target="https://www.rfc-editor.org/info/rfc7130">
   <front>
     <title>Bidirectional Forwarding Detection (BFD) on Link Aggregation Group (LAG) Interfaces</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7130"/>
-    <author fullname="M. Bhatia"/>
-    <author fullname="M. Chen"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="M. Binderberger"/>
-    <author fullname="J. Haas"/>
+    <author fullname="M. Bhatia" initials="M." surname="Bhatia">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="M. Binderberger" initials="M." surname="Binderberger">
+      <organization/>
+    </author>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
     <date year="2014" month="February"/>
     <workgroup>bfd</workgroup>
-    <abstract>This document defines a mechanism to run Bidirectional Forwarding Detection (BFD) on Link Aggregation Group (LAG) interfaces. It does so by running an independent Asynchronous mode BFD session on every LAG member link. This mechanism allows the verification of member link continuity, either in combination with, or in absence of, Link Aggregation Control Protocol (LACP). It provides a shorter detection time than what LACP offers. The continuity check can also cover elements of Layer 3 (L3) bidirectional forwarding.</abstract>
+    <abstract>
+      <t>This document defines a mechanism to run Bidirectional Forwarding Detection (BFD) on Link Aggregation Group (LAG) interfaces. It does so by running an independent Asynchronous mode BFD session on every LAG member link.</t>
+      <t>This mechanism allows the verification of member link continuity, either in combination with, or in absence of, Link Aggregation Control Protocol (LACP). It provides a shorter detection time than what LACP offers. The continuity check can also cover elements of Layer 3 (L3) bidirectional forwarding.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7130"/>
+  <seriesInfo name="RFC" value="7130"/>
 </reference>

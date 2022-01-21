@@ -1,12 +1,18 @@
 <reference anchor="RFC8424" target="https://www.rfc-editor.org/info/rfc8424">
   <front>
     <title>Extensions to RSVP-TE for Label Switched Path (LSP) Ingress Fast Reroute (FRR) Protection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8424"/>
-    <author fullname="H. Chen"/>
-    <author fullname="R. Torvi"/>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="R. Torvi" initials="R." surname="Torvi">
+      <organization/>
+    </author>
     <date year="2018" month="August"/>
     <workgroup>teas</workgroup>
-    <keyword>Head Protection</keyword>
-    <abstract>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for locally protecting the ingress node of a Point-to-Point (P2P) or Point-to-Multipoint (P2MP) Traffic Engineered (TE) Label Switched Path (LSP).  It extends the Fast Reroute (FRR) protection for transit nodes of an LSP to the ingress node of the LSP.  The procedures described in this document are experimental.</abstract>
+    <abstract>
+      <t>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for locally protecting the ingress node of a Point-to-Point (P2P) or Point-to-Multipoint (P2MP) Traffic Engineered (TE) Label Switched Path (LSP).  It extends the Fast Reroute (FRR) protection for transit nodes of an LSP to the ingress node of the LSP.  The procedures described in this document are experimental.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8424"/>
+  <seriesInfo name="RFC" value="8424"/>
 </reference>

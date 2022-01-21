@@ -1,12 +1,14 @@
 <reference anchor="RFC1543" target="https://www.rfc-editor.org/info/rfc1543">
   <front>
     <title>Instructions to RFC Authors</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1543"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1993" month="October"/>
-    <keyword>Request</keyword>
-    <keyword>For</keyword>
-    <keyword>Comment</keyword>
-    <abstract>This Request for Comments (RFC) provides information about the preparation of RFCs, and certain policies relating to the publication of RFCs.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This Request for Comments (RFC) provides information about the preparation of RFCs, and certain policies relating to the publication of RFCs.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1543"/>
+  <seriesInfo name="RFC" value="1543"/>
 </reference>

@@ -1,14 +1,16 @@
 <reference anchor="RFC4668" target="https://www.rfc-editor.org/info/rfc4668">
   <front>
     <title>RADIUS Authentication Client MIB for IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4668"/>
-    <author fullname="D. Nelson"/>
+    <author fullname="D. Nelson" initials="D." surname="Nelson">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>radext</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>security</keyword>
-    <keyword>remote access dialin user service</keyword>
-    <keyword>RADIUS-AUTH-CLIENT-MIB</keyword>
-    <abstract>This memo defines a set of extensions that instrument RADIUS authentication client functions. These extensions represent a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. Using these extensions, IP-based management stations can manage RADIUS authentication clients. This memo obsoletes RFC 2618 by deprecating the MIB table containing IPv4-only address formats and defining a new table to add support for version-neutral IP address formats. The remaining MIB objects from RFC 2618 are carried forward into this document. The memo also adds UNITS and REFERENCE clauses to selected objects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a set of extensions that instrument RADIUS authentication client functions. These extensions represent a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. Using these extensions, IP-based management stations can manage RADIUS authentication clients.</t>
+      <t>This memo obsoletes RFC 2618 by deprecating the MIB table containing IPv4-only address formats and defining a new table to add support for version-neutral IP address formats. The remaining MIB objects from RFC 2618 are carried forward into this document. The memo also adds UNITS and REFERENCE clauses to selected objects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4668"/>
+  <seriesInfo name="RFC" value="4668"/>
 </reference>

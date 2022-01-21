@@ -1,28 +1,26 @@
 <reference anchor="RFC8391" target="https://www.rfc-editor.org/info/rfc8391">
   <front>
     <title>XMSS: eXtended Merkle Signature Scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8391"/>
-    <author fullname="A. Huelsing"/>
-    <author fullname="D. Butin"/>
-    <author fullname="S. Gazdag"/>
-    <author fullname="J. Rijneveld"/>
-    <author fullname="A. Mohaisen"/>
+    <author fullname="A. Huelsing" initials="A." surname="Huelsing">
+      <organization/>
+    </author>
+    <author fullname="D. Butin" initials="D." surname="Butin">
+      <organization/>
+    </author>
+    <author fullname="S. Gazdag" initials="S." surname="Gazdag">
+      <organization/>
+    </author>
+    <author fullname="J. Rijneveld" initials="J." surname="Rijneveld">
+      <organization/>
+    </author>
+    <author fullname="A. Mohaisen" initials="A." surname="Mohaisen">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
-    <keyword>Digital signature</keyword>
-    <keyword>cryptography</keyword>
-    <keyword>post-quantum cryptography</keyword>
-    <keyword>Hash-based signatures</keyword>
-    <keyword>Merkle signatures</keyword>
-    <keyword>Merkle tree</keyword>
-    <keyword>hash function</keyword>
-    <keyword>Winternitz</keyword>
-    <keyword>Winternitz one-time signature scheme</keyword>
-    <keyword>WOTS</keyword>
-    <keyword>W-OTS</keyword>
-    <keyword>WOTS+</keyword>
-    <keyword>W-OTS+</keyword>
-    <keyword>XMSS-MT</keyword>
-    <keyword>multi-tree XMSS</keyword>
-    <abstract>This note describes the eXtended Merkle Signature Scheme (XMSS), a hash-based digital signature system that is based on existing descriptions in scientific literature.  This note specifies Winternitz One-Time Signature Plus (WOTS+), a one-time signature scheme; XMSS, a single-tree scheme; and XMSS^MT, a multi-tree variant of XMSS.  Both XMSS and XMSS^MT use WOTS+ as a main building block.  XMSS provides cryptographic digital signatures without relying on the conjectured hardness of mathematical problems.  Instead, it is proven that it only relies on the properties of cryptographic hash functions.  XMSS provides strong security guarantees and is even secure when the collision resistance of the underlying hash function is broken.  It is suitable for compact implementations, is relatively simple to implement, and naturally resists side-channel attacks.  Unlike most other signature systems, hash-based signatures can so far withstand known attacks using quantum computers.</abstract>
+    <abstract>
+      <t>This note describes the eXtended Merkle Signature Scheme (XMSS), a hash-based digital signature system that is based on existing descriptions in scientific literature.  This note specifies Winternitz One-Time Signature Plus (WOTS+), a one-time signature scheme; XMSS, a single-tree scheme; and XMSS^MT, a multi-tree variant of XMSS.  Both XMSS and XMSS^MT use WOTS+ as a main building block.  XMSS provides cryptographic digital signatures without relying on the conjectured hardness of mathematical problems.  Instead, it is proven that it only relies on the properties of cryptographic hash functions.  XMSS provides strong security guarantees and is even secure when the collision resistance of the underlying hash function is broken.  It is suitable for compact implementations, is relatively simple to implement, and naturally resists side-channel attacks.  Unlike most other signature systems, hash-based signatures can so far withstand known attacks using quantum computers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8391"/>
+  <seriesInfo name="RFC" value="8391"/>
 </reference>

@@ -1,25 +1,53 @@
 <reference anchor="RFC3208" target="https://www.rfc-editor.org/info/rfc3208">
   <front>
     <title>PGM Reliable Transport Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3208"/>
-    <author fullname="T. Speakman"/>
-    <author fullname="J. Crowcroft"/>
-    <author fullname="J. Gemmell"/>
-    <author fullname="D. Farinacci"/>
-    <author fullname="S. Lin"/>
-    <author fullname="D. Leshchiner"/>
-    <author fullname="M. Luby"/>
-    <author fullname="T. Montgomery"/>
-    <author fullname="L. Rizzo"/>
-    <author fullname="A. Tweedly"/>
-    <author fullname="N. Bhaskar"/>
-    <author fullname="R. Edmonstone"/>
-    <author fullname="R. Sumanasekera"/>
-    <author fullname="L. Vicisano"/>
+    <author fullname="T. Speakman" initials="T." surname="Speakman">
+      <organization/>
+    </author>
+    <author fullname="J. Crowcroft" initials="J." surname="Crowcroft">
+      <organization/>
+    </author>
+    <author fullname="J. Gemmell" initials="J." surname="Gemmell">
+      <organization/>
+    </author>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="S. Lin" initials="S." surname="Lin">
+      <organization/>
+    </author>
+    <author fullname="D. Leshchiner" initials="D." surname="Leshchiner">
+      <organization/>
+    </author>
+    <author fullname="M. Luby" initials="M." surname="Luby">
+      <organization/>
+    </author>
+    <author fullname="T. Montgomery" initials="T." surname="Montgomery">
+      <organization/>
+    </author>
+    <author fullname="L. Rizzo" initials="L." surname="Rizzo">
+      <organization/>
+    </author>
+    <author fullname="A. Tweedly" initials="A." surname="Tweedly">
+      <organization/>
+    </author>
+    <author fullname="N. Bhaskar" initials="N." surname="Bhaskar">
+      <organization/>
+    </author>
+    <author fullname="R. Edmonstone" initials="R." surname="Edmonstone">
+      <organization/>
+    </author>
+    <author fullname="R. Sumanasekera" initials="R." surname="Sumanasekera">
+      <organization/>
+    </author>
+    <author fullname="L. Vicisano" initials="L." surname="Vicisano">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
-    <keyword>pragmatic</keyword>
-    <keyword>general</keyword>
-    <keyword>multicast</keyword>
-    <abstract>Pragmatic General Multicast (PGM) is a reliable multicast transport protocol for applications that require ordered or unordered, duplicate- free, multicast data delivery from multiple sources to multiple receivers.  PGM guarantees that a receiver in the group either receives all data packets from transmissions and repairs, or is able to detect unrecoverable data packet loss.  PGM is specifically intended as a workable solution for multicast applications with basic reliability requirements.  Its central design goal is simplicity of operation with due regard for scalability and network efficiency.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Pragmatic General Multicast (PGM) is a reliable multicast transport protocol for applications that require ordered or unordered, duplicate- free, multicast data delivery from multiple sources to multiple receivers.  PGM guarantees that a receiver in the group either receives all data packets from transmissions and repairs, or is able to detect unrecoverable data packet loss.  PGM is specifically intended as a workable solution for multicast applications with basic reliability requirements.  Its central design goal is simplicity of operation with due regard for scalability and network efficiency.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3208"/>
+  <seriesInfo name="RFC" value="3208"/>
 </reference>

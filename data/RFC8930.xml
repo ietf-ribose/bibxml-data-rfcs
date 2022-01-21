@@ -1,14 +1,21 @@
 <reference anchor="RFC8930" target="https://www.rfc-editor.org/info/rfc8930">
   <front>
     <title>On Forwarding 6LoWPAN Fragments over a Multi-Hop IPv6 Network</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8930"/>
-    <author fullname="T. Watteyne"/>
-    <author fullname="P. Thubert"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="T. Watteyne" initials="T." surname="Watteyne">
+      <organization/>
+    </author>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="2020" month="November"/>
     <workgroup>6lo</workgroup>
-    <keyword>6LoWPAN</keyword>
-    <keyword>Fragment</keyword>
-    <abstract>This document provides generic rules to enable the forwarding of an IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) fragment over a route-over network.  Forwarding fragments can improve both end-to-end latency and reliability as well as reduce the buffer requirements in intermediate nodes; it may be implemented using RFC 4944 and Virtual Reassembly Buffers (VRBs).</abstract>
+    <abstract>
+      <t>This document provides generic rules to enable the forwarding of an IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) fragment over a route-over network.  Forwarding fragments can improve both end-to-end latency and reliability as well as reduce the buffer requirements in intermediate nodes; it may be implemented using RFC 4944 and Virtual Reassembly Buffers (VRBs).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8930"/>
+  <seriesInfo name="RFC" value="8930"/>
 </reference>

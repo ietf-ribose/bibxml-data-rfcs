@@ -1,13 +1,24 @@
 <reference anchor="RFC6678" target="https://www.rfc-editor.org/info/rfc6678">
   <front>
     <title>Requirements for a Tunnel-Based Extensible Authentication Protocol (EAP) Method</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6678"/>
-    <author fullname="K. Hoeper"/>
-    <author fullname="S. Hanna"/>
-    <author fullname="H. Zhou"/>
-    <author fullname="J. Salowey"/>
+    <author fullname="K. Hoeper" initials="K." surname="Hoeper">
+      <organization/>
+    </author>
+    <author fullname="S. Hanna" initials="S." surname="Hanna">
+      <organization/>
+    </author>
+    <author fullname="H. Zhou" initials="H." surname="Zhou">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
     <date year="2012" month="July"/>
     <workgroup>emu</workgroup>
-    <abstract>This memo defines the requirements for a tunnel-based Extensible Authentication Protocol (EAP) Method.  This tunnel method will use Transport Layer Security (TLS) to establish a secure tunnel.  The tunnel will provide support for password authentication, EAP authentication, and the transport of additional data for other purposes.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo defines the requirements for a tunnel-based Extensible Authentication Protocol (EAP) Method.  This tunnel method will use Transport Layer Security (TLS) to establish a secure tunnel.  The tunnel will provide support for password authentication, EAP authentication, and the transport of additional data for other purposes.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6678"/>
+  <seriesInfo name="RFC" value="6678"/>
 </reference>

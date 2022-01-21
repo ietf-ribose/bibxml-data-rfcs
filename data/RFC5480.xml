@@ -1,17 +1,27 @@
 <reference anchor="RFC5480" target="https://www.rfc-editor.org/info/rfc5480">
   <front>
     <title>Elliptic Curve Cryptography Subject Public Key Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5480"/>
-    <author fullname="S. Turner"/>
-    <author fullname="D. Brown"/>
-    <author fullname="K. Yiu"/>
-    <author fullname="R. Housley"/>
-    <author fullname="T. Polk"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="D. Brown" initials="D." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="K. Yiu" initials="K." surname="Yiu">
+      <organization/>
+    </author>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="T. Polk" initials="T." surname="Polk">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>pkix</workgroup>
-    <keyword>x.509</keyword>
-    <keyword>asn.1</keyword>
-    <keyword>subjectPubicKeyInfo</keyword>
-    <abstract>This document specifies the syntax and semantics for the Subject Public Key Information field in certificates that support Elliptic Curve Cryptography.  This document updates Sections 2.3.5 and 5, and the ASN.1 module of "Algorithms and Identifiers for the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile", RFC 3279. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the syntax and semantics for the Subject Public Key Information field in certificates that support Elliptic Curve Cryptography.  This document updates Sections 2.3.5 and 5, and the ASN.1 module of "Algorithms and Identifiers for the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile", RFC 3279. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5480"/>
+  <seriesInfo name="RFC" value="5480"/>
 </reference>

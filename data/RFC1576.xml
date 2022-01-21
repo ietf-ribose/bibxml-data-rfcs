@@ -1,11 +1,15 @@
 <reference anchor="RFC1576" target="https://www.rfc-editor.org/info/rfc1576">
   <front>
     <title>TN3270 Current Practices</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1576"/>
-    <author fullname="J. Penner"/>
+    <author fullname="J. Penner" initials="J." surname="Penner">
+      <organization/>
+    </author>
     <date year="1994" month="January"/>
     <workgroup>tn3270e</workgroup>
-    <keyword>Telnet Option Terminal Type EOR Binary</keyword>
-    <abstract>This document describes the existing implementation of transferring 3270 display terminal data using currently available telnet capabilities.  The name traditionally associated with this implementation is TN3270.  This memo provides information for the Internet community.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes the existing implementation of transferring 3270 display terminal data using currently available telnet capabilities.  The name traditionally associated with this implementation is TN3270.  This memo provides information for the Internet community.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1576"/>
+  <seriesInfo name="RFC" value="1576"/>
 </reference>

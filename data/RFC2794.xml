@@ -1,14 +1,18 @@
 <reference anchor="RFC2794" target="https://www.rfc-editor.org/info/rfc2794">
   <front>
     <title>Mobile IP Network Access Identifier Extension for IPv4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2794"/>
-    <author fullname="P. Calhoun"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="P. Calhoun" initials="P." surname="Calhoun">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="2000" month="March"/>
     <workgroup>mobileip</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>NAI</keyword>
-    <abstract>Our proposal defines a way for the mobile node to identify itself, by including the NAI along with the Mobile IP Registration Request.  This memo also updates RFC 2290 which specifies the Mobile-IPv4 Configuration option for IPCP, by allowing the Mobile Node's Home Address field of this option to be zero. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Our proposal defines a way for the mobile node to identify itself, by including the NAI along with the Mobile IP Registration Request.  This memo also updates RFC 2290 which specifies the Mobile-IPv4 Configuration option for IPCP, by allowing the Mobile Node's Home Address field of this option to be zero. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2794"/>
+  <seriesInfo name="RFC" value="2794"/>
 </reference>

@@ -1,10 +1,17 @@
 <reference anchor="RFC1027" target="https://www.rfc-editor.org/info/rfc1027">
   <front>
     <title>Using ARP to implement transparent subnet gateways</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1027"/>
-    <author fullname="S. Carl-Mitchell"/>
-    <author fullname="J.S. Quarterman"/>
+    <author fullname="S. Carl-Mitchell" initials="S." surname="Carl-Mitchell">
+      <organization/>
+    </author>
+    <author fullname="J.S. Quarterman" initials="J.S." surname="Quarterman">
+      <organization/>
+    </author>
     <date year="1987" month="October"/>
-    <abstract>This RFC describes the use of the Address Resolution Protocol (ARP) by subnet gateways to permit hosts on the connected subnets to communicate without being aware of the existence of subnets, using the technique of "Proxy ARP".</abstract>
+    <abstract>
+      <t>This RFC describes the use of the Address Resolution Protocol (ARP) by subnet gateways to permit hosts on the connected subnets to communicate without being aware of the existence of subnets, using the technique of "Proxy ARP".</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1027"/>
+  <seriesInfo name="RFC" value="1027"/>
 </reference>

@@ -1,20 +1,18 @@
 <reference anchor="RFC4988" target="https://www.rfc-editor.org/info/rfc4988">
   <front>
     <title>Mobile IPv4 Fast Handovers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4988"/>
-    <author fullname="R. Koodli"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="R. Koodli" initials="R." surname="Koodli">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>mip4</workgroup>
-    <keyword>mip4</keyword>
-    <keyword>delay</keyword>
-    <keyword>packet loss</keyword>
-    <keyword>movement detection</keyword>
-    <keyword>ip address configuration</keyword>
-    <keyword>loation update latency</keyword>
-    <keyword>care-of address</keyword>
-    <keyword>care of address</keyword>
-    <keyword>coa</keyword>
-    <abstract>This document adapts the Mobile IPv6 Fast Handovers to improve delay and packet loss resulting from Mobile IPv4 handover operations.  Specifically, this document addresses movement detection, IP address configuration, and location update latencies during a handover.  For reducing the IP address configuration latency, the document proposes that the new Care-of Address is always made to be the new access router's IP address.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document adapts the Mobile IPv6 Fast Handovers to improve delay and packet loss resulting from Mobile IPv4 handover operations.  Specifically, this document addresses movement detection, IP address configuration, and location update latencies during a handover.  For reducing the IP address configuration latency, the document proposes that the new Care-of Address is always made to be the new access router's IP address.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4988"/>
+  <seriesInfo name="RFC" value="4988"/>
 </reference>

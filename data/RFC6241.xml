@@ -1,17 +1,24 @@
 <reference anchor="RFC6241" target="https://www.rfc-editor.org/info/rfc6241">
   <front>
     <title>Network Configuration Protocol (NETCONF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6241"/>
-    <author fullname="R. Enns"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="J. Schoenwaelder"/>
-    <author fullname="A. Bierman"/>
+    <author fullname="R. Enns" initials="R." surname="Enns">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>netconf</workgroup>
-    <keyword>XML</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Network Management</keyword>
-    <keyword>Extensible Markup Language</keyword>
-    <abstract>The Network Configuration Protocol (NETCONF) defined in this document provides mechanisms to install, manipulate, and delete the configuration of network devices.  It uses an Extensible Markup Language (XML)-based data encoding for the configuration data as well as the protocol messages.  The NETCONF protocol operations are realized as remote procedure calls (RPCs).  This document obsoletes RFC 4741. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Network Configuration Protocol (NETCONF) defined in this document provides mechanisms to install, manipulate, and delete the configuration of network devices.  It uses an Extensible Markup Language (XML)-based data encoding for the configuration data as well as the protocol messages.  The NETCONF protocol operations are realized as remote procedure calls (RPCs).  This document obsoletes RFC 4741. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6241"/>
+  <seriesInfo name="RFC" value="6241"/>
 </reference>

@@ -1,19 +1,28 @@
 <reference anchor="RFC6219" target="https://www.rfc-editor.org/info/rfc6219">
   <front>
     <title>The China Education and Research Network (CERNET) IVI Translation Design and Deployment for the IPv4/IPv6 Coexistence and Transition</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6219"/>
-    <author fullname="X. Li"/>
-    <author fullname="C. Bao"/>
-    <author fullname="M. Chen"/>
-    <author fullname="H. Zhang"/>
-    <author fullname="J. Wu"/>
+    <author fullname="X. Li" initials="X." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="C. Bao" initials="C." surname="Bao">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="H. Zhang" initials="H." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="J. Wu" initials="J." surname="Wu">
+      <organization/>
+    </author>
     <date year="2011" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Stateless IPv4/IPv6 translation</keyword>
-    <keyword>IPv4/IPv6 Header Translation</keyword>
-    <keyword>IPv4-embedded IPv6 Address</keyword>
-    <keyword>IPv4/IPv6 Multicast Translation</keyword>
-    <keyword>stateless NAT64</keyword>
-    <abstract>This document presents the China Education and Research Network (CERNET)'s IVI translation design and deployment for the IPv4/IPv6 coexistence and transition. The IVI is a prefix-specific and stateless address mapping mechanism for "an IPv6 network to the IPv4 Internet" and "the IPv4 Internet to an IPv6 network" scenarios. In the IVI design, subsets of the ISP's IPv4 addresses are embedded in the ISP's IPv6 addresses, and the hosts using these IPv6 addresses can therefore communicate with the global IPv6 Internet directly and can communicate with the global IPv4 Internet via stateless translators. The communications can either be IPv6 initiated or IPv4 initiated. The IVI mechanism supports the end-to-end address transparency and incremental deployment. The IVI is an early design deployed in the CERNET as a reference for the IETF standard documents on IPv4/IPv6 stateless translation. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document presents the China Education and Research Network (CERNET)'s IVI translation design and deployment for the IPv4/IPv6 coexistence and transition.</t>
+      <t>The IVI is a prefix-specific and stateless address mapping mechanism for "an IPv6 network to the IPv4 Internet" and "the IPv4 Internet to an IPv6 network" scenarios. In the IVI design, subsets of the ISP's IPv4 addresses are embedded in the ISP's IPv6 addresses, and the hosts using these IPv6 addresses can therefore communicate with the global IPv6 Internet directly and can communicate with the global IPv4 Internet via stateless translators. The communications can either be IPv6 initiated or IPv4 initiated. The IVI mechanism supports the end-to-end address transparency and incremental deployment. The IVI is an early design deployed in the CERNET as a reference for the IETF standard documents on IPv4/IPv6 stateless translation. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6219"/>
+  <seriesInfo name="RFC" value="6219"/>
 </reference>

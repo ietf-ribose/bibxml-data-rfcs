@@ -1,15 +1,21 @@
 <reference anchor="RFC7234" target="https://www.rfc-editor.org/info/rfc7234">
   <front>
     <title>Hypertext Transfer Protocol (HTTP/1.1): Caching</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7234"/>
-    <author fullname="R. Fielding"/>
-    <author fullname="M. Nottingham"/>
-    <author fullname="J. Reschke"/>
+    <author fullname="R. Fielding" initials="R." surname="Fielding">
+      <organization/>
+    </author>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>httpbis</workgroup>
-    <keyword>HTTP caching</keyword>
-    <keyword>HyperText Transfer Protocol</keyword>
-    <keyword>HTTP</keyword>
-    <abstract>The Hypertext Transfer Protocol (HTTP) is a stateless \%application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated header fields that control cache behavior or indicate cacheable response messages.</abstract>
+    <abstract>
+      <t>The Hypertext Transfer Protocol (HTTP) is a stateless \%application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated header fields that control cache behavior or indicate cacheable response messages.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7234"/>
+  <seriesInfo name="RFC" value="7234"/>
 </reference>

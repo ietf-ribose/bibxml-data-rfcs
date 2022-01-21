@@ -1,14 +1,21 @@
 <reference anchor="RFC5095" target="https://www.rfc-editor.org/info/rfc5095">
   <front>
     <title>Deprecation of Type 0 Routing Headers in IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5095"/>
-    <author fullname="J. Abley"/>
-    <author fullname="P. Savola"/>
-    <author fullname="G. Neville-Neil"/>
+    <author fullname="J. Abley" initials="J." surname="Abley">
+      <organization/>
+    </author>
+    <author fullname="P. Savola" initials="P." surname="Savola">
+      <organization/>
+    </author>
+    <author fullname="G. Neville-Neil" initials="G." surname="Neville-Neil">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>ipv6</workgroup>
-    <keyword>ipv6 type 0 routing header</keyword>
-    <keyword>traffic amplification</keyword>
-    <abstract>The functionality provided by IPv6's Type 0 Routing Header can be exploited in order to achieve traffic amplification over a remote path for the purposes of generating denial-of-service traffic.  This document updates the IPv6 specification to deprecate the use of IPv6 Type 0 Routing Headers, in light of this security concern. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The functionality provided by IPv6's Type 0 Routing Header can be exploited in order to achieve traffic amplification over a remote path for the purposes of generating denial-of-service traffic.  This document updates the IPv6 specification to deprecate the use of IPv6 Type 0 Routing Headers, in light of this security concern. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5095"/>
+  <seriesInfo name="RFC" value="5095"/>
 </reference>

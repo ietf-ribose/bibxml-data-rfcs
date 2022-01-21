@@ -1,13 +1,18 @@
 <reference anchor="RFC8486" target="https://www.rfc-editor.org/info/rfc8486">
   <front>
     <title>Ambisonics in an Ogg Opus Container</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8486"/>
-    <author fullname="J. Skoglund"/>
-    <author fullname="M. Graczyk"/>
+    <author fullname="J. Skoglund" initials="J." surname="Skoglund">
+      <organization/>
+    </author>
+    <author fullname="M. Graczyk" initials="M." surname="Graczyk">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
     <workgroup>codec</workgroup>
-    <keyword>spatial audio</keyword>
-    <keyword>lossy compression</keyword>
-    <abstract>This document defines an extension to the Opus audio codec to encapsulate coded Ambisonics using the Ogg format.  It also contains updates to RFC 7845 to reflect necessary changes in the description of channel mapping families.</abstract>
+    <abstract>
+      <t>This document defines an extension to the Opus audio codec to encapsulate coded Ambisonics using the Ogg format.  It also contains updates to RFC 7845 to reflect necessary changes in the description of channel mapping families.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8486"/>
+  <seriesInfo name="RFC" value="8486"/>
 </reference>

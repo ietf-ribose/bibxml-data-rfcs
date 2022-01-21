@@ -1,14 +1,18 @@
 <reference anchor="RFC7553" target="https://www.rfc-editor.org/info/rfc7553">
   <front>
     <title>The Uniform Resource Identifier (URI) DNS Resource Record</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7553"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="O. Kolkman"/>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="O. Kolkman" initials="O." surname="Kolkman">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Operations</keyword>
-    <keyword>DNS</keyword>
-    <keyword>applications</keyword>
-    <abstract>This document describes the already registered DNS resource record (RR) type, called the Uniform Resource Identifier (URI) RR, that is used for publishing mappings from hostnames to URIs.</abstract>
+    <abstract>
+      <t>This document describes the already registered DNS resource record (RR) type, called the Uniform Resource Identifier (URI) RR, that is used for publishing mappings from hostnames to URIs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7553"/>
+  <seriesInfo name="RFC" value="7553"/>
 </reference>

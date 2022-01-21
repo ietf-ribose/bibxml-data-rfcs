@@ -1,11 +1,15 @@
 <reference anchor="RFC4073" target="https://www.rfc-editor.org/info/rfc4073">
   <front>
     <title>Protecting Multiple Contents with the Cryptographic Message Syntax (CMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4073"/>
-    <author fullname="R. Housley"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
     <date year="2005" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>content collection</keyword>
-    <abstract>This document describes a convention for using the Cryptographic Message Syntax (CMS) to protect a content collection.  If desired, attributes can be associated with the content. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a convention for using the Cryptographic Message Syntax (CMS) to protect a content collection.  If desired, attributes can be associated with the content. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4073"/>
+  <seriesInfo name="RFC" value="4073"/>
 </reference>

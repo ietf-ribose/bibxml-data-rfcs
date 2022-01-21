@@ -1,15 +1,18 @@
 <reference anchor="RFC4769" target="https://www.rfc-editor.org/info/rfc4769">
   <front>
     <title>IANA Registration for an Enumservice Containing Public Switched Telephone Network (PSTN) Signaling Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4769"/>
-    <author fullname="J. Livingood"/>
-    <author fullname="R. Shockey"/>
+    <author fullname="J. Livingood" initials="J." surname="Livingood">
+      <organization/>
+    </author>
+    <author fullname="R. Shockey" initials="R." surname="Shockey">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
     <workgroup>enum</workgroup>
-    <keyword>tel</keyword>
-    <keyword>uri</keyword>
-    <keyword>uri scheme</keyword>
-    <keyword>sip</keyword>
-    <abstract>This document registers the Enumservice type "pstn" and subtype "tel" using the URI scheme 'tel', as well as the subtype "sip" using the URI scheme 'sip' as per the IANA registration process defined in the ENUM specification, RFC 3761.  This Enumservice is used to facilitate the routing of telephone calls in those countries where number portability exists. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document registers the Enumservice type "pstn" and subtype "tel" using the URI scheme 'tel', as well as the subtype "sip" using the URI scheme 'sip' as per the IANA registration process defined in the ENUM specification, RFC 3761.  This Enumservice is used to facilitate the routing of telephone calls in those countries where number portability exists. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4769"/>
+  <seriesInfo name="RFC" value="4769"/>
 </reference>

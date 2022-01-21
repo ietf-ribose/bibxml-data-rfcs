@@ -1,12 +1,20 @@
 <reference anchor="RFC1075" target="https://www.rfc-editor.org/info/rfc1075">
   <front>
     <title>Distance Vector Multicast Routing Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1075"/>
-    <author fullname="D. Waitzman"/>
-    <author fullname="C. Partridge"/>
-    <author fullname="S.E. Deering"/>
+    <author fullname="D. Waitzman" initials="D." surname="Waitzman">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
+    <author fullname="S.E. Deering" initials="S.E." surname="Deering">
+      <organization/>
+    </author>
     <date year="1988" month="November"/>
-    <keyword>IP-DVMRP</keyword>
-    <abstract>This RFC describes a distance-vector-style routing protocol for routing multicast datagrams through an internet.  It is derived from the Routing Information Protocol (RIP), and implements multicasting as described in RFC-1054.  This is an experimental protocol, and its implementation is not recommended at this time.</abstract>
+    <abstract>
+      <t>This RFC describes a distance-vector-style routing protocol for routing multicast datagrams through an internet.  It is derived from the Routing Information Protocol (RIP), and implements multicasting as described in RFC-1054.  This is an experimental protocol, and its implementation is not recommended at this time.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1075"/>
+  <seriesInfo name="RFC" value="1075"/>
 </reference>

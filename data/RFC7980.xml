@@ -1,18 +1,24 @@
 <reference anchor="RFC7980" target="https://www.rfc-editor.org/info/rfc7980">
   <front>
     <title>A Framework for Defining Network Complexity</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7980"/>
-    <author fullname="M. Behringer"/>
-    <author fullname="A. Retana"/>
-    <author fullname="R. White"/>
-    <author fullname="G. Huston"/>
+    <author fullname="M. Behringer" initials="M." surname="Behringer">
+      <organization/>
+    </author>
+    <author fullname="A. Retana" initials="A." surname="Retana">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
     <date year="2016" month="October"/>
-    <keyword>Complicated</keyword>
-    <keyword>Fragile</keyword>
-    <keyword>Self-organization</keyword>
-    <keyword>Trade-off</keyword>
-    <keyword>Technical Debt</keyword>
-    <keyword>Dependency</keyword>
-    <abstract>Complexity is a widely used parameter in network design, yet there is no generally accepted definition of the term. Complexity metrics exist in a wide range of research papers, but most of these address only a particular aspect of a network, for example, the complexity of a graph or software. While it may be impossible to define a metric for overall network complexity, there is a desire to better understand the complexity of a network as a whole, as deployed today to provide Internet services. This document provides a framework to guide research on the topic of network complexity as well as some practical examples for trade-offs in networking. This document summarizes the work of the IRTF's Network Complexity Research Group (NCRG) at the time of its closure. It does not present final results, but a snapshot of an ongoing activity, as a basis for future work.</abstract>
+    <abstract>
+      <t>Complexity is a widely used parameter in network design, yet there is no generally accepted definition of the term. Complexity metrics exist in a wide range of research papers, but most of these address only a particular aspect of a network, for example, the complexity of a graph or software. While it may be impossible to define a metric for overall network complexity, there is a desire to better understand the complexity of a network as a whole, as deployed today to provide Internet services. This document provides a framework to guide research on the topic of network complexity as well as some practical examples for trade-offs in networking.</t>
+      <t>This document summarizes the work of the IRTF's Network Complexity Research Group (NCRG) at the time of its closure. It does not present final results, but a snapshot of an ongoing activity, as a basis for future work.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7980"/>
+  <seriesInfo name="RFC" value="7980"/>
 </reference>

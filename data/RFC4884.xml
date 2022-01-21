@@ -1,15 +1,28 @@
 <reference anchor="RFC4884" target="https://www.rfc-editor.org/info/rfc4884">
   <front>
     <title>Extended ICMP to Support Multi-Part Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4884"/>
-    <author fullname="R. Bonica"/>
-    <author fullname="D. Gan"/>
-    <author fullname="D. Tappan"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
+    <author fullname="D. Gan" initials="D." surname="Gan">
+      <organization/>
+    </author>
+    <author fullname="D. Tappan" initials="D." surname="Tappan">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2007" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>internet control message protocol</keyword>
-    <keyword>length attribute</keyword>
-    <abstract>This document redefines selected ICMP messages to support multi-part operation. A multi-part ICMP message carries all of the information that ICMP messages carried previously, as well as additional information that applications may require. Multi-part messages are supported by an ICMP extension structure. The extension structure is situated at the end of the ICMP message. It includes an extension header followed by one or more extension objects. Each extension object contains an object header and object payload. All object headers share a common format. This document further redefines the above mentioned ICMP messages by specifying a length attribute. All of the currently defined ICMP messages to which an extension structure can be appended include an "original datagram" field. The "original datagram" field contains the initial octets of the datagram that elicited the ICMP error message. Although the original datagram field is of variable length, the ICMP message does not include a field that specifies its length. Therefore, in order to facilitate message parsing, this document allocates eight previously reserved bits to reflect the length of the "original datagram" field. The proposed modifications change the requirements for ICMP compliance. The impact of these changes on compliant implementations is discussed, and new requirements for future implementations are presented. This memo updates RFC 792 and RFC 4443. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document redefines selected ICMP messages to support multi-part operation. A multi-part ICMP message carries all of the information that ICMP messages carried previously, as well as additional information that applications may require.</t>
+      <t>Multi-part messages are supported by an ICMP extension structure. The extension structure is situated at the end of the ICMP message. It includes an extension header followed by one or more extension objects. Each extension object contains an object header and object payload. All object headers share a common format.</t>
+      <t>This document further redefines the above mentioned ICMP messages by specifying a length attribute. All of the currently defined ICMP messages to which an extension structure can be appended include an "original datagram" field. The "original datagram" field contains the initial octets of the datagram that elicited the ICMP error message. Although the original datagram field is of variable length, the ICMP message does not include a field that specifies its length. Therefore, in order to facilitate message parsing, this document allocates eight previously reserved bits to reflect the length of the "original datagram" field.</t>
+      <t>The proposed modifications change the requirements for ICMP compliance. The impact of these changes on compliant implementations is discussed, and new requirements for future implementations are presented.</t>
+      <t>This memo updates RFC 792 and RFC 4443. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4884"/>
+  <seriesInfo name="RFC" value="4884"/>
 </reference>

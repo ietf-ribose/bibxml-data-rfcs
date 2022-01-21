@@ -1,15 +1,27 @@
 <reference anchor="RFC7794" target="https://www.rfc-editor.org/info/rfc7794">
   <front>
     <title>IS-IS Prefix Attributes for Extended IPv4 and IPv6 Reachability</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7794"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="X. Xu"/>
-    <author fullname="U. Chunduri"/>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="U. Chunduri" initials="U." surname="Chunduri">
+      <organization/>
+    </author>
     <date year="2016" month="March"/>
     <workgroup>isis</workgroup>
-    <keyword>ISIS</keyword>
-    <abstract>This document introduces new sub-TLVs to support advertisement of IPv4 and IPv6 prefix attribute flags and the source router ID of the router that originated a prefix advertisement.</abstract>
+    <abstract>
+      <t>This document introduces new sub-TLVs to support advertisement of IPv4 and IPv6 prefix attribute flags and the source router ID of the router that originated a prefix advertisement.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7794"/>
+  <seriesInfo name="RFC" value="7794"/>
 </reference>

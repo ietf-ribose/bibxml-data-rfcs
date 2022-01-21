@@ -1,13 +1,14 @@
 <reference anchor="RFC2268" target="https://www.rfc-editor.org/info/rfc2268">
   <front>
     <title>A Description of the RC2(r) Encryption Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2268"/>
-    <author fullname="R. Rivest"/>
+    <author fullname="R. Rivest" initials="R." surname="Rivest">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
-    <keyword>RC2-ENCRP</keyword>
-    <keyword>encryption</keyword>
-    <keyword>secre</keyword>
-    <keyword>key rsa</keyword>
-    <abstract>This memo describes a conventional (secret-key) block encryption algorithm, called RC2, which may be considered as a proposal for a DES replacement.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This memo describes a conventional (secret-key) block encryption algorithm, called RC2, which may be considered as a proposal for a DES replacement.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2268"/>
+  <seriesInfo name="RFC" value="2268"/>
 </reference>

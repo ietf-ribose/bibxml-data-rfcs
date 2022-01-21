@@ -1,22 +1,24 @@
 <reference anchor="RFC3249" target="https://www.rfc-editor.org/info/rfc3249">
   <front>
     <title>Implementers Guide for Facsimile Using Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3249"/>
-    <author fullname="V. Cancio"/>
-    <author fullname="M. Moldovan"/>
-    <author fullname="H. Tamura"/>
-    <author fullname="D. Wing"/>
+    <author fullname="V. Cancio" initials="V." surname="Cancio">
+      <organization/>
+    </author>
+    <author fullname="M. Moldovan" initials="M." surname="Moldovan">
+      <organization/>
+    </author>
+    <author fullname="H. Tamura" initials="H." surname="Tamura">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="2002" month="September"/>
     <workgroup>fax</workgroup>
-    <keyword>fax</keyword>
-    <keyword>tiff</keyword>
-    <keyword>tiff-fx</keyword>
-    <keyword>ifax</keyword>
-    <keyword>e-mail</keyword>
-    <keyword>email</keyword>
-    <keyword>esmtp</keyword>
-    <keyword>dsn</keyword>
-    <keyword>mdn</keyword>
-    <abstract>This document is intended for the implementers of software that use email to send to facsimiles using RFC 2305 and 2532.  This is an informational document and its guidelines do not supersede the referenced documents.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document is intended for the implementers of software that use email to send to facsimiles using RFC 2305 and 2532.  This is an informational document and its guidelines do not supersede the referenced documents.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3249"/>
+  <seriesInfo name="RFC" value="3249"/>
 </reference>

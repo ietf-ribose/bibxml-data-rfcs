@@ -1,14 +1,18 @@
 <reference anchor="RFC6975" target="https://www.rfc-editor.org/info/rfc6975">
   <front>
     <title>Signaling Cryptographic Algorithm Understanding in DNS Security Extensions (DNSSEC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6975"/>
-    <author fullname="S. Crocker"/>
-    <author fullname="S. Rose"/>
+    <author fullname="S. Crocker" initials="S." surname="Crocker">
+      <organization/>
+    </author>
+    <author fullname="S. Rose" initials="S." surname="Rose">
+      <organization/>
+    </author>
     <date year="2013" month="July"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNS</keyword>
-    <keyword>DNSSEC</keyword>
-    <keyword>EDNS</keyword>
-    <abstract>The DNS Security Extensions (DNSSEC) were developed to provide origin authentication and integrity protection for DNS data by using digital signatures.  These digital signatures can be generated using different algorithms.  This document specifies a way for validating end-system resolvers to signal to a server which digital signature and hash algorithms they support.  The extensions allow the signaling of new algorithm uptake in client code to allow zone administrators to know when it is possible to complete an algorithm rollover in a DNSSEC-signed zone.</abstract>
+    <abstract>
+      <t>The DNS Security Extensions (DNSSEC) were developed to provide origin authentication and integrity protection for DNS data by using digital signatures.  These digital signatures can be generated using different algorithms.  This document specifies a way for validating end-system resolvers to signal to a server which digital signature and hash algorithms they support.  The extensions allow the signaling of new algorithm uptake in client code to allow zone administrators to know when it is possible to complete an algorithm rollover in a DNSSEC-signed zone.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6975"/>
+  <seriesInfo name="RFC" value="6975"/>
 </reference>

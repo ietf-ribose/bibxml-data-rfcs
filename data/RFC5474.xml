@@ -1,18 +1,30 @@
 <reference anchor="RFC5474" target="https://www.rfc-editor.org/info/rfc5474">
   <front>
     <title>A Framework for Packet Selection and Reporting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5474"/>
-    <author fullname="N. Duffield"/>
-    <author fullname="D. Chiou"/>
-    <author fullname="B. Claise"/>
-    <author fullname="A. Greenberg"/>
-    <author fullname="M. Grossglauser"/>
-    <author fullname="J. Rexford"/>
+    <author fullname="N. Duffield" initials="N." surname="Duffield">
+      <organization/>
+    </author>
+    <author fullname="D. Chiou" initials="D." surname="Chiou">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="A. Greenberg" initials="A." surname="Greenberg">
+      <organization/>
+    </author>
+    <author fullname="M. Grossglauser" initials="M." surname="Grossglauser">
+      <organization/>
+    </author>
+    <author fullname="J. Rexford" initials="J." surname="Rexford">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>psamp</workgroup>
-    <keyword>psamp</keyword>
-    <keyword>selector</keyword>
-    <keyword>collector</keyword>
-    <abstract>This document specifies a framework for the PSAMP (Packet SAMPling) protocol.  The functions of this protocol are to select packets from a stream according to a set of standardized Selectors, to form a stream of reports on the selected packets, and to export the reports to a Collector.  This framework details the components of this architecture, then describes some generic requirements, motivated by the dual aims of ubiquitous deployment and utility of the reports for applications.  Detailed requirements for selection, reporting, and exporting are described, along with configuration requirements of the PSAMP functions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies a framework for the PSAMP (Packet SAMPling) protocol.  The functions of this protocol are to select packets from a stream according to a set of standardized Selectors, to form a stream of reports on the selected packets, and to export the reports to a Collector.  This framework details the components of this architecture, then describes some generic requirements, motivated by the dual aims of ubiquitous deployment and utility of the reports for applications.  Detailed requirements for selection, reporting, and exporting are described, along with configuration requirements of the PSAMP functions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5474"/>
+  <seriesInfo name="RFC" value="5474"/>
 </reference>

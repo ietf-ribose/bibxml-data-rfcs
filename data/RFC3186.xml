@@ -1,18 +1,23 @@
 <reference anchor="RFC3186" target="https://www.rfc-editor.org/info/rfc3186">
   <front>
     <title>MAPOS/PPP Tunneling mode</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3186"/>
-    <author fullname="S. Shimizu"/>
-    <author fullname="T. Kawano"/>
-    <author fullname="K. Murakami"/>
-    <author fullname="E. Beier"/>
+    <author fullname="S. Shimizu" initials="S." surname="Shimizu">
+      <organization/>
+    </author>
+    <author fullname="T. Kawano" initials="T." surname="Kawano">
+      <organization/>
+    </author>
+    <author fullname="K. Murakami" initials="K." surname="Murakami">
+      <organization/>
+    </author>
+    <author fullname="E. Beier" initials="E." surname="Beier">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
-    <keyword>multiple</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>over</keyword>
-    <keyword>SONET/SDH</keyword>
-    <keyword>point-to-point</keyword>
-    <abstract>This document specifies tunneling configuration over MAPOS (Multiple Access Protocol over SONET/SDH) networks.  Using this mode, a MAPOS network can provide transparent point-to-point link for PPP over SONET/SDH (Packet over SONET/SDH, POS) without any additional overhead.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies tunneling configuration over MAPOS (Multiple Access Protocol over SONET/SDH) networks.  Using this mode, a MAPOS network can provide transparent point-to-point link for PPP over SONET/SDH (Packet over SONET/SDH, POS) without any additional overhead.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3186"/>
+  <seriesInfo name="RFC" value="3186"/>
 </reference>

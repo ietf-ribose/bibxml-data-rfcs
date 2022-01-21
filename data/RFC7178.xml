@@ -1,16 +1,27 @@
 <reference anchor="RFC7178" target="https://www.rfc-editor.org/info/rfc7178">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL): RBridge Channel Support</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7178"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="V. Manral"/>
-    <author fullname="Y. Li"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="D. Ward"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="Y. Li" initials="Y." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>trill</workgroup>
-    <keyword>TRILL</keyword>
-    <keyword>native</keyword>
-    <abstract>This document specifies a general channel mechanism for sending messages, such as Bidirectional Forwarding Detection (BFD) messages, between Routing Bridges (RBridges) and between RBridges and end stations in an RBridge campus through extensions to the Transparent Interconnection of Lots of Links (TRILL) protocol.</abstract>
+    <abstract>
+      <t>This document specifies a general channel mechanism for sending messages, such as Bidirectional Forwarding Detection (BFD) messages, between Routing Bridges (RBridges) and between RBridges and end stations in an RBridge campus through extensions to the Transparent Interconnection of Lots of Links (TRILL) protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7178"/>
+  <seriesInfo name="RFC" value="7178"/>
 </reference>

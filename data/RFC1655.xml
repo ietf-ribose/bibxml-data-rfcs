@@ -1,13 +1,18 @@
 <reference anchor="RFC1655" target="https://www.rfc-editor.org/info/rfc1655">
   <front>
     <title>Application of the Border Gateway Protocol in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1655"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="P. Gross"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="P. Gross" initials="P." surname="Gross">
+      <organization/>
+    </author>
     <date year="1994" month="July"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-4</keyword>
-    <keyword>Routing</keyword>
-    <abstract>This document, together with its companion document, "A Border Gateway Protocol 4 (BGP-4)", define an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document, together with its companion document, "A Border Gateway Protocol 4 (BGP-4)", define an inter-autonomous system routing protocol for the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1655"/>
+  <seriesInfo name="RFC" value="1655"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC2212" target="https://www.rfc-editor.org/info/rfc2212">
   <front>
     <title>Specification of Guaranteed Quality of Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2212"/>
-    <author fullname="S. Shenker"/>
-    <author fullname="C. Partridge"/>
-    <author fullname="R. Guerin"/>
+    <author fullname="S. Shenker" initials="S." surname="Shenker">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
+    <author fullname="R. Guerin" initials="R." surname="Guerin">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>intserv</workgroup>
-    <keyword>GQOS</keyword>
-    <keyword>QOS</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>integrated services</keyword>
-    <abstract>This memo describes the network element behavior required to deliver a guaranteed service (guaranteed delay and bandwidth) in the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes the network element behavior required to deliver a guaranteed service (guaranteed delay and bandwidth) in the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2212"/>
+  <seriesInfo name="RFC" value="2212"/>
 </reference>

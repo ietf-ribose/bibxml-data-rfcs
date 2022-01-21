@@ -1,12 +1,21 @@
 <reference anchor="RFC4537" target="https://www.rfc-editor.org/info/rfc4537">
   <front>
     <title>Kerberos Cryptosystem Negotiation Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4537"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="P. Leach"/>
-    <author fullname="K. Jaganathan"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="K. Jaganathan" initials="K." surname="Jaganathan">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>krb-wg</workgroup>
-    <abstract>This document specifies an extension to the Kerberos protocol as defined in RFC 4120, in which the client can send a list of supported encryption types in decreasing preference order, and the server then selects an encryption type that is supported by both the client and the server. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an extension to the Kerberos protocol as defined in RFC 4120, in which the client can send a list of supported encryption types in decreasing preference order, and the server then selects an encryption type that is supported by both the client and the server. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4537"/>
+  <seriesInfo name="RFC" value="4537"/>
 </reference>

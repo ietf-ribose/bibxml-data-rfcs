@@ -1,14 +1,21 @@
 <reference anchor="RFC6816" target="https://www.rfc-editor.org/info/rfc6816">
   <front>
     <title>Simple Low-Density Parity Check (LDPC) Staircase Forward Error Correction (FEC) Scheme for FECFRAME</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6816"/>
-    <author fullname="V. Roca"/>
-    <author fullname="M. Cunche"/>
-    <author fullname="J. Lacan"/>
+    <author fullname="V. Roca" initials="V." surname="Roca">
+      <organization/>
+    </author>
+    <author fullname="M. Cunche" initials="M." surname="Cunche">
+      <organization/>
+    </author>
+    <author fullname="J. Lacan" initials="J." surname="Lacan">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>fecframe</workgroup>
-    <keyword>Forward Error Correction</keyword>
-    <keyword>LDPC-Staircase</keyword>
-    <abstract>This document describes a fully specified simple Forward Error Correction (FEC) scheme for Low-Density Parity Check (LDPC) Staircase codes that can be used to protect media streams along the lines defined by FECFRAME.  These codes have many interesting properties: they are systematic codes, they perform close to ideal codes in many use-cases, and they also feature very high encoding and decoding throughputs.  LDPC-Staircase codes are therefore a good solution to protect a single high bitrate source flow or to protect globally several mid-rate flows within a single FECFRAME instance.  They are also a good solution whenever the processing load of a software encoder or decoder must be kept to a minimum.</abstract>
+    <abstract>
+      <t>This document describes a fully specified simple Forward Error Correction (FEC) scheme for Low-Density Parity Check (LDPC) Staircase codes that can be used to protect media streams along the lines defined by FECFRAME.  These codes have many interesting properties: they are systematic codes, they perform close to ideal codes in many use-cases, and they also feature very high encoding and decoding throughputs.  LDPC-Staircase codes are therefore a good solution to protect a single high bitrate source flow or to protect globally several mid-rate flows within a single FECFRAME instance.  They are also a good solution whenever the processing load of a software encoder or decoder must be kept to a minimum.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6816"/>
+  <seriesInfo name="RFC" value="6816"/>
 </reference>

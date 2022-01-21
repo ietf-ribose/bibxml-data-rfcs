@@ -1,14 +1,18 @@
 <reference anchor="RFC6710" target="https://www.rfc-editor.org/info/rfc6710">
   <front>
     <title>Simple Mail Transfer Protocol Extension for Message Transfer Priorities</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6710"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="K. Carlberg"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="K. Carlberg" initials="K." surname="Carlberg">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>SMTP</keyword>
-    <keyword>priority</keyword>
-    <keyword>MMHS</keyword>
-    <abstract>This memo defines an extension to the SMTP (Simple Mail Transfer Protocol) service whereby messages are given a label to indicate preferential handling, to enable mail handling nodes to take this information into account for onward processing. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the SMTP (Simple Mail Transfer Protocol) service whereby messages are given a label to indicate preferential handling, to enable mail handling nodes to take this information into account for onward processing. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6710"/>
+  <seriesInfo name="RFC" value="6710"/>
 </reference>

@@ -1,14 +1,20 @@
 <reference anchor="RFC2943" target="https://www.rfc-editor.org/info/rfc2943">
   <front>
     <title>TELNET Authentication Using DSA</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2943"/>
-    <author fullname="R. Housley"/>
-    <author fullname="T. Horting"/>
-    <author fullname="P. Yee"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="T. Horting" initials="T." surname="Horting">
+      <organization/>
+    </author>
+    <author fullname="P. Yee" initials="P." surname="Yee">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>digital</keyword>
-    <keyword>signature</keyword>
-    <keyword>algorithm</keyword>
-    <abstract>This document defines a telnet authentication mechanism using the Digital Signature Algorithm (DSA).  It relies on the Telnet Authentication Option. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a telnet authentication mechanism using the Digital Signature Algorithm (DSA).  It relies on the Telnet Authentication Option. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2943"/>
+  <seriesInfo name="RFC" value="2943"/>
 </reference>

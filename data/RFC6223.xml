@@ -1,14 +1,15 @@
 <reference anchor="RFC6223" target="https://www.rfc-editor.org/info/rfc6223">
   <front>
     <title>Indication of Support for Keep-Alive</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6223"/>
-    <author fullname="C. Holmberg"/>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>STUN</keyword>
-    <keyword>outbound</keyword>
-    <keyword>NAT traversal</keyword>
-    <abstract>This specification defines a new Session Initiation Protocol (SIP) Via header field parameter, "keep", which allows adjacent SIP entities to explicitly negotiate usage of the Network Address Translation (NAT) keep-alive mechanisms defined in SIP Outbound, in cases where SIP Outbound is not supported, cannot be applied, or where usage of keep-alives is not implicitly negotiated as part of the SIP Outbound negotiation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines a new Session Initiation Protocol (SIP) Via header field parameter, "keep", which allows adjacent SIP entities to explicitly negotiate usage of the Network Address Translation (NAT) keep-alive mechanisms defined in SIP Outbound, in cases where SIP Outbound is not supported, cannot be applied, or where usage of keep-alives is not implicitly negotiated as part of the SIP Outbound negotiation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6223"/>
+  <seriesInfo name="RFC" value="6223"/>
 </reference>

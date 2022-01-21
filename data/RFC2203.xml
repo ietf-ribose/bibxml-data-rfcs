@@ -1,23 +1,21 @@
 <reference anchor="RFC2203" target="https://www.rfc-editor.org/info/rfc2203">
   <front>
     <title>RPCSEC_GSS Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2203"/>
-    <author fullname="M. Eisler"/>
-    <author fullname="A. Chiu"/>
-    <author fullname="L. Ling"/>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
+    <author fullname="A. Chiu" initials="A." surname="Chiu">
+      <organization/>
+    </author>
+    <author fullname="L. Ling" initials="L." surname="Ling">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>oncrpc</workgroup>
-    <keyword>RPCSEC-GSS</keyword>
-    <keyword>Remote</keyword>
-    <keyword>Procedure</keyword>
-    <keyword>Call</keyword>
-    <keyword>Generic</keyword>
-    <keyword>Security</keyword>
-    <keyword>Services</keyword>
-    <keyword>API</keyword>
-    <keyword>Application</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Interface</keyword>
-    <abstract>This memo describes an ONC/RPC security flavor that allows RPC protocols to access the Generic Security Services Application Programming Interface (referred to henceforth as GSS-API). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes an ONC/RPC security flavor that allows RPC protocols to access the Generic Security Services Application Programming Interface (referred to henceforth as GSS-API). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2203"/>
+  <seriesInfo name="RFC" value="2203"/>
 </reference>

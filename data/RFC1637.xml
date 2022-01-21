@@ -1,16 +1,17 @@
 <reference anchor="RFC1637" target="https://www.rfc-editor.org/info/rfc1637">
   <front>
     <title>DNS NSAP Resource Records</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1637"/>
-    <author fullname="B. Manning"/>
-    <author fullname="R. Colella"/>
+    <author fullname="B. Manning" initials="B." surname="Manning">
+      <organization/>
+    </author>
+    <author fullname="R. Colella" initials="R." surname="Colella">
+      <organization/>
+    </author>
     <date year="1994" month="June"/>
-    <keyword>domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>ISO</keyword>
-    <keyword>OSI</keyword>
-    <keyword>Address</keyword>
-    <abstract>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1637"/>
+  <seriesInfo name="RFC" value="1637"/>
 </reference>

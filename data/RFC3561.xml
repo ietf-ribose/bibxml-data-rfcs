@@ -1,14 +1,21 @@
 <reference anchor="RFC3561" target="https://www.rfc-editor.org/info/rfc3561">
   <front>
     <title>Ad hoc On-Demand Distance Vector (AODV) Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3561"/>
-    <author fullname="C. Perkins"/>
-    <author fullname="E. Belding-Royer"/>
-    <author fullname="S. Das"/>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="E. Belding-Royer" initials="E." surname="Belding-Royer">
+      <organization/>
+    </author>
+    <author fullname="S. Das" initials="S." surname="Das">
+      <organization/>
+    </author>
     <date year="2003" month="July"/>
     <workgroup>manet</workgroup>
-    <keyword>unicast</keyword>
-    <keyword>multiple nodes</keyword>
-    <abstract>The Ad hoc On-Demand Distance Vector (AODV) routing protocol is intended for use by mobile nodes in an ad hoc network.  It offers quick adaptation to dynamic link conditions, low processing and memory overhead, low network utilization, and determines unicast routes to destinations within the ad hoc network.  It uses destination sequence numbers to ensure loop freedom at all times (even in the face of anomalous delivery of routing control messages), avoiding problems (such as "counting to infinity") associated with classical distance vector protocols.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Ad hoc On-Demand Distance Vector (AODV) routing protocol is intended for use by mobile nodes in an ad hoc network.  It offers quick adaptation to dynamic link conditions, low processing and memory overhead, low network utilization, and determines unicast routes to destinations within the ad hoc network.  It uses destination sequence numbers to ensure loop freedom at all times (even in the face of anomalous delivery of routing control messages), avoiding problems (such as "counting to infinity") associated with classical distance vector protocols.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3561"/>
+  <seriesInfo name="RFC" value="3561"/>
 </reference>

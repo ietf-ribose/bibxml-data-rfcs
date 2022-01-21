@@ -1,16 +1,21 @@
 <reference anchor="RFC1975" target="https://www.rfc-editor.org/info/rfc1975">
   <front>
     <title>PPP Magnalink Variable Resource Compression</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1975"/>
-    <author fullname="D. Schremp"/>
-    <author fullname="J. Black"/>
-    <author fullname="J. Weiss"/>
+    <author fullname="D. Schremp" initials="D." surname="Schremp">
+      <organization/>
+    </author>
+    <author fullname="J. Black" initials="J." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="J. Weiss" initials="J." surname="Weiss">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-MAG</keyword>
-    <keyword>Point-to-Point</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MVRCA</keyword>
-    <abstract>The Magnalink Variable Resource Compression Algorithm (MVRCA) allows a wide range of interoperable compression implementations whose performance characteristics are a function of available CPU and memory resources.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The Magnalink Variable Resource Compression Algorithm (MVRCA) allows a wide range of interoperable compression implementations whose performance characteristics are a function of available CPU and memory resources.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1975"/>
+  <seriesInfo name="RFC" value="1975"/>
 </reference>

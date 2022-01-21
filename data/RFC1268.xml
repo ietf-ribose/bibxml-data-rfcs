@@ -1,12 +1,18 @@
 <reference anchor="RFC1268" target="https://www.rfc-editor.org/info/rfc1268">
   <front>
     <title>Application of the Border Gateway Protocol in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1268"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="P. Gross"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="P. Gross" initials="P." surname="Gross">
+      <organization/>
+    </author>
     <date year="1991" month="October"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP3</keyword>
-    <abstract>This document describes the usage of the BGP in the Internet. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the usage of the BGP in the Internet. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1268"/>
+  <seriesInfo name="RFC" value="1268"/>
 </reference>

@@ -1,13 +1,24 @@
 <reference anchor="RFC7558" target="https://www.rfc-editor.org/info/rfc7558">
   <front>
     <title>Requirements for Scalable DNS-Based Service Discovery (DNS-SD) / Multicast DNS (mDNS) Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7558"/>
-    <author fullname="K. Lynn"/>
-    <author fullname="S. Cheshire"/>
-    <author fullname="M. Blanchet"/>
-    <author fullname="D. Migault"/>
+    <author fullname="K. Lynn" initials="K." surname="Lynn">
+      <organization/>
+    </author>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author fullname="M. Blanchet" initials="M." surname="Blanchet">
+      <organization/>
+    </author>
+    <author fullname="D. Migault" initials="D." surname="Migault">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>dnssd</workgroup>
-    <abstract>DNS-based Service Discovery (DNS-SD) over Multicast DNS (mDNS) is widely used today for discovery and resolution of services and names on a local link, but there are use cases to extend DNS-SD/mDNS to enable service discovery beyond the local link.  This document provides a problem statement and a list of requirements for scalable DNS-SD.</abstract>
+    <abstract>
+      <t>DNS-based Service Discovery (DNS-SD) over Multicast DNS (mDNS) is widely used today for discovery and resolution of services and names on a local link, but there are use cases to extend DNS-SD/mDNS to enable service discovery beyond the local link.  This document provides a problem statement and a list of requirements for scalable DNS-SD.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7558"/>
+  <seriesInfo name="RFC" value="7558"/>
 </reference>

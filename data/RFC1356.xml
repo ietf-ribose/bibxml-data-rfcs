@@ -1,16 +1,21 @@
 <reference anchor="RFC1356" target="https://www.rfc-editor.org/info/rfc1356">
   <front>
     <title>Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1356"/>
-    <author fullname="A. Malis"/>
-    <author fullname="D. Robinson"/>
-    <author fullname="R. Ullmann"/>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="D. Robinson" initials="D." surname="Robinson">
+      <organization/>
+    </author>
+    <author fullname="R. Ullmann" initials="R." surname="Ullmann">
+      <organization/>
+    </author>
     <date year="1992" month="August"/>
     <workgroup>iplpdn</workgroup>
-    <keyword>IP-X.25</keyword>
-    <keyword>IP</keyword>
-    <keyword>on</keyword>
-    <keyword>X.25</keyword>
-    <abstract>This document specifies the encapsulation of IP and other network layer protocols over X.25 networks, in accordance and alignment with ISO/IEC and CCITT standards.  It is a replacement for RFC 877, "A Standard for the Transmission of IP Datagrams Over Public Data Networks" [1]. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the encapsulation of IP and other network layer protocols over X.25 networks, in accordance and alignment with ISO/IEC and CCITT standards.  It is a replacement for RFC 877, "A Standard for the Transmission of IP Datagrams Over Public Data Networks" [1]. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1356"/>
+  <seriesInfo name="RFC" value="1356"/>
 </reference>

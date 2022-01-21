@@ -1,10 +1,15 @@
 <reference anchor="RFC1188" target="https://www.rfc-editor.org/info/rfc1188">
   <front>
     <title>Proposed Standard for the Transmission of IP Datagrams over FDDI Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1188"/>
-    <author fullname="D. Katz"/>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
     <date year="1990" month="October"/>
     <workgroup>fddi</workgroup>
-    <abstract>This memo defines a method of encapsulating the Internet Protocol (IP) datagrams and Address Resolution Protocol (ARP) requests and replies on Fiber Distributed Data Interface (FDDI) Networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a method of encapsulating the Internet Protocol (IP) datagrams and Address Resolution Protocol (ARP) requests and replies on Fiber Distributed Data Interface (FDDI) Networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1188"/>
+  <seriesInfo name="RFC" value="1188"/>
 </reference>

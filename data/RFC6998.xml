@@ -1,18 +1,24 @@
 <reference anchor="RFC6998" target="https://www.rfc-editor.org/info/rfc6998">
   <front>
     <title>A Mechanism to Measure the Routing Metrics along a Point-to-Point Route in a Low-Power and Lossy Network</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6998"/>
-    <author fullname="M. Goyal"/>
-    <author fullname="E. Baccelli"/>
-    <author fullname="A. Brandt"/>
-    <author fullname="J. Martocci"/>
+    <author fullname="M. Goyal" initials="M." surname="Goyal">
+      <organization/>
+    </author>
+    <author fullname="E. Baccelli" initials="E." surname="Baccelli">
+      <organization/>
+    </author>
+    <author fullname="A. Brandt" initials="A." surname="Brandt">
+      <organization/>
+    </author>
+    <author fullname="J. Martocci" initials="J." surname="Martocci">
+      <organization/>
+    </author>
     <date year="2013" month="August"/>
     <workgroup>roll</workgroup>
-    <keyword>Measurement</keyword>
-    <keyword>Route Quality</keyword>
-    <keyword>P2P Routes</keyword>
-    <keyword>RPL</keyword>
-    <keyword>ROLL</keyword>
-    <abstract>This document specifies a mechanism that enables a Routing Protocol for Low-power and Lossy Networks (RPL) router to measure the aggregated values of given routing metrics along an existing route towards another RPL router, thereby allowing the router to decide if it wants to initiate the discovery of a better route.</abstract>
+    <abstract>
+      <t>This document specifies a mechanism that enables a Routing Protocol for Low-power and Lossy Networks (RPL) router to measure the aggregated values of given routing metrics along an existing route towards another RPL router, thereby allowing the router to decide if it wants to initiate the discovery of a better route.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6998"/>
+  <seriesInfo name="RFC" value="6998"/>
 </reference>

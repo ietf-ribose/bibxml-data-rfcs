@@ -1,14 +1,21 @@
 <reference anchor="RFC6641" target="https://www.rfc-editor.org/info/rfc6641">
   <front>
     <title>Using DNS SRV to Specify a Global File Namespace with NFS Version 4</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6641"/>
-    <author fullname="C. Everhart"/>
-    <author fullname="W. Adamson"/>
-    <author fullname="J. Zhang"/>
+    <author fullname="C. Everhart" initials="C." surname="Everhart">
+      <organization/>
+    </author>
+    <author fullname="W. Adamson" initials="W." surname="Adamson">
+      <organization/>
+    </author>
+    <author fullname="J. Zhang" initials="J." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2012" month="June"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>domainroot</keyword>
-    <keyword>domain root file system</keyword>
-    <abstract>The NFS version 4 (NFSv4) protocol provides a mechanism for a collection of NFS file servers to collaborate in providing an organization-wide file namespace.  The DNS SRV Resource Record (RR) allows a simple way for an organization to publish the root of its file system namespace, even to clients that might not be intimately associated with such an organization.  The DNS SRV RR can be used to join these organization-wide file namespaces together to allow construction of a global, uniform NFS file namespace. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The NFS version 4 (NFSv4) protocol provides a mechanism for a collection of NFS file servers to collaborate in providing an organization-wide file namespace.  The DNS SRV Resource Record (RR) allows a simple way for an organization to publish the root of its file system namespace, even to clients that might not be intimately associated with such an organization.  The DNS SRV RR can be used to join these organization-wide file namespaces together to allow construction of a global, uniform NFS file namespace. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6641"/>
+  <seriesInfo name="RFC" value="6641"/>
 </reference>

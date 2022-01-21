@@ -1,10 +1,14 @@
 <reference anchor="RFC8170" target="https://www.rfc-editor.org/info/rfc8170">
   <front>
     <title>Planning for Protocol Adoption and Subsequent Transitions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8170"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
-    <keyword>transition plan</keyword>
-    <abstract>Over the many years since the introduction of the Internet Protocol, we have seen a number of transitions throughout the protocol stack, such as deploying a new protocol, or updating or replacing an existing protocol.  Many protocols and technologies were not designed to enable smooth transition to alternatives or to easily deploy extensions; thus, some transitions, such as the introduction of IPv6, have been difficult.  This document attempts to summarize some basic principles to enable future transitions, and it also summarizes what makes for a good transition plan.</abstract>
+    <abstract>
+      <t>Over the many years since the introduction of the Internet Protocol, we have seen a number of transitions throughout the protocol stack, such as deploying a new protocol, or updating or replacing an existing protocol.  Many protocols and technologies were not designed to enable smooth transition to alternatives or to easily deploy extensions; thus, some transitions, such as the introduction of IPv6, have been difficult.  This document attempts to summarize some basic principles to enable future transitions, and it also summarizes what makes for a good transition plan.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8170"/>
+  <seriesInfo name="RFC" value="8170"/>
 </reference>

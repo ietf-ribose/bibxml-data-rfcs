@@ -1,15 +1,21 @@
 <reference anchor="RFC1981" target="https://www.rfc-editor.org/info/rfc1981">
   <front>
     <title>Path MTU Discovery for IP version 6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1981"/>
-    <author fullname="J. McCann"/>
-    <author fullname="S. Deering"/>
-    <author fullname="J. Mogul"/>
+    <author fullname="J. McCann" initials="J." surname="McCann">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
+    <author fullname="J. Mogul" initials="J." surname="Mogul">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>MTU-IPV6</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document describes Path MTU Discovery for IP version 6.  It is largely derived from RFC 1191, which describes Path MTU Discovery for IP version 4. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes Path MTU Discovery for IP version 6.  It is largely derived from RFC 1191, which describes Path MTU Discovery for IP version 4. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1981"/>
+  <seriesInfo name="RFC" value="1981"/>
 </reference>

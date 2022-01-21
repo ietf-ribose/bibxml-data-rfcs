@@ -1,15 +1,18 @@
 <reference anchor="RFC1883" target="https://www.rfc-editor.org/info/rfc1883">
   <front>
     <title>Internet Protocol, Version 6 (IPv6) Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1883"/>
-    <author fullname="S. Deering"/>
-    <author fullname="R. Hinden"/>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
+    <author fullname="R. Hinden" initials="R." surname="Hinden">
+      <organization/>
+    </author>
     <date year="1995" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>IP</keyword>
-    <keyword>Next</keyword>
-    <keyword>Generation</keyword>
-    <keyword>IPng</keyword>
-    <abstract>This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1883"/>
+  <seriesInfo name="RFC" value="1883"/>
 </reference>

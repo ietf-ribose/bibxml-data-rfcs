@@ -1,12 +1,21 @@
 <reference anchor="RFC3455" target="https://www.rfc-editor.org/info/rfc3455">
   <front>
     <title>Private Header (P-Header) Extensions to the Session Initiation Protocol (SIP) for the 3rd-Generation Partnership Project (3GPP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3455"/>
-    <author fullname="M. Garcia-Martin"/>
-    <author fullname="E. Henrikson"/>
-    <author fullname="D. Mills"/>
+    <author fullname="M. Garcia-Martin" initials="M." surname="Garcia-Martin">
+      <organization/>
+    </author>
+    <author fullname="E. Henrikson" initials="E." surname="Henrikson">
+      <organization/>
+    </author>
+    <author fullname="D. Mills" initials="D." surname="Mills">
+      <organization/>
+    </author>
     <date year="2003" month="January"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document describes a set of private Session Initiation Protocol (SIP) headers (P-headers) used by the 3rd-Generation Partnership Project (3GPP), along with their applicability, which is limited to particular environments.  The P-headers are for a variety of purposes within the networks that the partners use, including charging and information about the networks a call traverses.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a set of private Session Initiation Protocol (SIP) headers (P-headers) used by the 3rd-Generation Partnership Project (3GPP), along with their applicability, which is limited to particular environments.  The P-headers are for a variety of purposes within the networks that the partners use, including charging and information about the networks a call traverses.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3455"/>
+  <seriesInfo name="RFC" value="3455"/>
 </reference>

@@ -1,20 +1,27 @@
 <reference anchor="RFC8227" target="https://www.rfc-editor.org/info/rfc8227">
   <front>
     <title>MPLS-TP Shared-Ring Protection (MSRP) Mechanism for Ring Topology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8227"/>
-    <author fullname="W. Cheng"/>
-    <author fullname="L. Wang"/>
-    <author fullname="H. Li"/>
-    <author fullname="H. van Helvoort"/>
-    <author fullname="J. Dong"/>
+    <author fullname="W. Cheng" initials="W." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="L. Wang" initials="L." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="H. Li" initials="H." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="H. van Helvoort" initials="H." surname="van">
+      <organization/>
+    </author>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>mpls</workgroup>
-    <keyword>wrapping protection</keyword>
-    <keyword>short-wrapping protection</keyword>
-    <keyword>steering protection</keyword>
-    <keyword>ring protection</keyword>
-    <keyword>shared ring protection</keyword>
-    <keyword>protection switching</keyword>
-    <abstract>This document describes requirements, architecture, and solutions for MPLS-TP Shared-Ring Protection (MSRP) in a ring topology for point- to-point (P2P) services.  The MSRP mechanism is described to meet the ring protection requirements as described in RFC 5654.  This document defines the Ring Protection Switching (RPS) protocol that is used to coordinate the protection behavior of the nodes on an MPLS ring.</abstract>
+    <abstract>
+      <t>This document describes requirements, architecture, and solutions for MPLS-TP Shared-Ring Protection (MSRP) in a ring topology for point- to-point (P2P) services.  The MSRP mechanism is described to meet the ring protection requirements as described in RFC 5654.  This document defines the Ring Protection Switching (RPS) protocol that is used to coordinate the protection behavior of the nodes on an MPLS ring.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8227"/>
+  <seriesInfo name="RFC" value="8227"/>
 </reference>

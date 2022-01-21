@@ -1,21 +1,24 @@
 <reference anchor="RFC8076" target="https://www.rfc-editor.org/info/rfc8076">
   <front>
     <title>A Usage for Shared Resources in RELOAD (ShaRe)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8076"/>
-    <author fullname="A. Knauf"/>
-    <author fullname="T. Schmidt"/>
-    <author fullname="G. Hege"/>
-    <author fullname="M. Waehlisch"/>
+    <author fullname="A. Knauf" initials="A." surname="Knauf">
+      <organization/>
+    </author>
+    <author fullname="T. Schmidt" initials="T." surname="Schmidt">
+      <organization/>
+    </author>
+    <author fullname="G. Hege" initials="G." surname="Hege">
+      <organization/>
+    </author>
+    <author fullname="M. Waehlisch" initials="M." surname="Waehlisch">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>p2psip</workgroup>
-    <keyword>P2PSIP</keyword>
-    <keyword>SIP</keyword>
-    <keyword>Conferencing</keyword>
-    <keyword>Voice over IP</keyword>
-    <keyword>Peer-to-Peer</keyword>
-    <keyword>Access Control</keyword>
-    <keyword>Group Management</keyword>
-    <keyword>Rendezvous</keyword>
-    <abstract>This document defines a REsource LOcation And Discovery (RELOAD) Usage for managing shared write access to RELOAD Resources.  Shared Resources in RELOAD (ShaRe) form a basic primitive for enabling various coordination and notification schemes among distributed peers.  Access in ShaRe is controlled by a hierarchical trust delegation scheme maintained within an access list.  A new USER-CHAIN-ACL access policy allows authorized peers to write a Shared Resource without owning its corresponding certificate.  This specification also adds mechanisms to store Resources with a variable name that is useful whenever peer-independent rendezvous processes are required.</abstract>
+    <abstract>
+      <t>This document defines a REsource LOcation And Discovery (RELOAD) Usage for managing shared write access to RELOAD Resources.  Shared Resources in RELOAD (ShaRe) form a basic primitive for enabling various coordination and notification schemes among distributed peers.  Access in ShaRe is controlled by a hierarchical trust delegation scheme maintained within an access list.  A new USER-CHAIN-ACL access policy allows authorized peers to write a Shared Resource without owning its corresponding certificate.  This specification also adds mechanisms to store Resources with a variable name that is useful whenever peer-independent rendezvous processes are required.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8076"/>
+  <seriesInfo name="RFC" value="8076"/>
 </reference>

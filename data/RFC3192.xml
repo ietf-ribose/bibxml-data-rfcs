@@ -1,17 +1,15 @@
 <reference anchor="RFC3192" target="https://www.rfc-editor.org/info/rfc3192">
   <front>
     <title>Minimal FAX address format in Internet Mail</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3192"/>
-    <author fullname="C. Allocchio"/>
+    <author fullname="C. Allocchio" initials="C." surname="Allocchio">
+      <organization/>
+    </author>
     <date year="2001" month="October"/>
     <workgroup>fax</workgroup>
-    <keyword>MINFAX-IM</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>GSTN</keyword>
-    <keyword>global</keyword>
-    <keyword>switched</keyword>
-    <keyword>telephone</keyword>
-    <keyword>network</keyword>
-    <abstract>This memo describes a simple method of encoding Global Switched Telephone Network (GSTN) addresses of facsimile devices in the local- part of Internet email addresses. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a simple method of encoding Global Switched Telephone Network (GSTN) addresses of facsimile devices in the local- part of Internet email addresses. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3192"/>
+  <seriesInfo name="RFC" value="3192"/>
 </reference>

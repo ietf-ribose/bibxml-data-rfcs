@@ -1,11 +1,14 @@
 <reference anchor="RFC2100" target="https://www.rfc-editor.org/info/rfc2100">
   <front>
     <title>The Naming of Hosts</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2100"/>
-    <author fullname="J. Ashworth"/>
+    <author fullname="J. Ashworth" initials="J." surname="Ashworth">
+      <organization/>
+    </author>
     <date year="1997" month="April"/>
-    <keyword>April</keyword>
-    <keyword>Fool's</keyword>
-    <abstract>This RFC is a commentary on the difficulty of deciding upon an acceptably distinctive hostname for one's computer, a problem which grows in direct proportion to the logarithmically increasing size of the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This RFC is a commentary on the difficulty of deciding upon an acceptably distinctive hostname for one's computer, a problem which grows in direct proportion to the logarithmically increasing size of the Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2100"/>
+  <seriesInfo name="RFC" value="2100"/>
 </reference>

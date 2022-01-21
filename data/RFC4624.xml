@@ -1,13 +1,18 @@
 <reference anchor="RFC4624" target="https://www.rfc-editor.org/info/rfc4624">
   <front>
     <title>Multicast Source Discovery Protocol (MSDP) MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4624"/>
-    <author fullname="B. Fenner"/>
-    <author fullname="D. Thaler"/>
+    <author fullname="B. Fenner" initials="B." surname="Fenner">
+      <organization/>
+    </author>
+    <author fullname="D. Thaler" initials="D." surname="Thaler">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>mboned</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>MSDP-MIB</keyword>
-    <abstract>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Multicast Source Discovery Protocol (MSDP) (RFC 3618) speakers.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Multicast Source Discovery Protocol (MSDP) (RFC 3618) speakers.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4624"/>
+  <seriesInfo name="RFC" value="4624"/>
 </reference>

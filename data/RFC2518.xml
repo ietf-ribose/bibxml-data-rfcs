@@ -1,20 +1,27 @@
 <reference anchor="RFC2518" target="https://www.rfc-editor.org/info/rfc2518">
   <front>
     <title>HTTP Extensions for Distributed Authoring -- WEBDAV</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2518"/>
-    <author fullname="Y. Goland"/>
-    <author fullname="E. Whitehead"/>
-    <author fullname="A. Faizi"/>
-    <author fullname="S. Carter"/>
-    <author fullname="D. Jensen"/>
+    <author fullname="Y. Goland" initials="Y." surname="Goland">
+      <organization/>
+    </author>
+    <author fullname="E. Whitehead" initials="E." surname="Whitehead">
+      <organization/>
+    </author>
+    <author fullname="A. Faizi" initials="A." surname="Faizi">
+      <organization/>
+    </author>
+    <author fullname="S. Carter" initials="S." surname="Carter">
+      <organization/>
+    </author>
+    <author fullname="D. Jensen" initials="D." surname="Jensen">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>webdav</workgroup>
-    <keyword>WEBDAV</keyword>
-    <keyword>hypertext</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>web</keyword>
-    <keyword>content</keyword>
-    <abstract>This document specifies a set of methods, headers, and content-types ancillary to HTTP/1.1 for the management of resource properties, creation and management of resource collections, namespace manipulation, and resource locking (collision avoidance). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a set of methods, headers, and content-types ancillary to HTTP/1.1 for the management of resource properties, creation and management of resource collections, namespace manipulation, and resource locking (collision avoidance). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2518"/>
+  <seriesInfo name="RFC" value="2518"/>
 </reference>

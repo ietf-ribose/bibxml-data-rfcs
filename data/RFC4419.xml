@@ -1,12 +1,21 @@
 <reference anchor="RFC4419" target="https://www.rfc-editor.org/info/rfc4419">
   <front>
     <title>Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4419"/>
-    <author fullname="M. Friedl"/>
-    <author fullname="N. Provos"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="M. Friedl" initials="M." surname="Friedl">
+      <organization/>
+    </author>
+    <author fullname="N. Provos" initials="N." surname="Provos">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="2006" month="March"/>
     <workgroup>secsh</workgroup>
-    <abstract>This memo describes a new key exchange method for the Secure Shell (SSH) protocol.  It allows the SSH server to propose new groups on which to perform the Diffie-Hellman key exchange to the client.  The proposed groups need not be fixed and can change with time. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a new key exchange method for the Secure Shell (SSH) protocol.  It allows the SSH server to propose new groups on which to perform the Diffie-Hellman key exchange to the client.  The proposed groups need not be fixed and can change with time. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4419"/>
+  <seriesInfo name="RFC" value="4419"/>
 </reference>

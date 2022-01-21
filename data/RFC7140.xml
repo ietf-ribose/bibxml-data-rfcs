@@ -1,15 +1,24 @@
 <reference anchor="RFC7140" target="https://www.rfc-editor.org/info/rfc7140">
   <front>
     <title>LDP Extensions for Hub and Spoke Multipoint Label Switched Path</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7140"/>
-    <author fullname="L. Jin"/>
-    <author fullname="F. Jounay"/>
-    <author fullname="IJ. Wijnands"/>
-    <author fullname="N. Leymann"/>
+    <author fullname="L. Jin" initials="L." surname="Jin">
+      <organization/>
+    </author>
+    <author fullname="F. Jounay" initials="F." surname="Jounay">
+      <organization/>
+    </author>
+    <author fullname="IJ. Wijnands" initials="IJ." surname="Wijnands">
+      <organization/>
+    </author>
+    <author fullname="N. Leymann" initials="N." surname="Leymann">
+      <organization/>
+    </author>
     <date year="2014" month="March"/>
     <workgroup>mpls</workgroup>
-    <keyword>P2MP LSP</keyword>
-    <keyword>MP2MP LSP</keyword>
-    <abstract>This document introduces a hub and spoke multipoint (HSMP) Label Switched Path (LSP), which allows traffic from root to leaf through point-to-multipoint (P2MP) LSPs and also leaf to root along the reverse path.  That means traffic entering the HSMP LSP from the application/customer at the root node travels downstream to each leaf node, exactly as if it were traveling downstream along a P2MP LSP to each leaf node.  Upstream traffic entering the HSMP LSP at any leaf node travels upstream along the tree to the root, as if it were unicast to the root.  Direct communication among the leaf nodes is not allowed.</abstract>
+    <abstract>
+      <t>This document introduces a hub and spoke multipoint (HSMP) Label Switched Path (LSP), which allows traffic from root to leaf through point-to-multipoint (P2MP) LSPs and also leaf to root along the reverse path.  That means traffic entering the HSMP LSP from the application/customer at the root node travels downstream to each leaf node, exactly as if it were traveling downstream along a P2MP LSP to each leaf node.  Upstream traffic entering the HSMP LSP at any leaf node travels upstream along the tree to the root, as if it were unicast to the root.  Direct communication among the leaf nodes is not allowed.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7140"/>
+  <seriesInfo name="RFC" value="7140"/>
 </reference>

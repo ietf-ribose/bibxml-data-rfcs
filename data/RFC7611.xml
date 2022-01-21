@@ -1,20 +1,27 @@
 <reference anchor="RFC7611" target="https://www.rfc-editor.org/info/rfc7611">
   <front>
     <title>BGP ACCEPT_OWN Community Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7611"/>
-    <author fullname="J. Uttaro"/>
-    <author fullname="P. Mohapatra"/>
-    <author fullname="D. Smith"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="J. Scudder"/>
+    <author fullname="J. Uttaro" initials="J." surname="Uttaro">
+      <organization/>
+    </author>
+    <author fullname="P. Mohapatra" initials="P." surname="Mohapatra">
+      <organization/>
+    </author>
+    <author fullname="D. Smith" initials="D." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>bess</workgroup>
-    <keyword>BGP</keyword>
-    <keyword>VPN</keyword>
-    <keyword>L3VPN</keyword>
-    <keyword>Extranet</keyword>
-    <keyword>Well-known</keyword>
-    <keyword>Reserved</keyword>
-    <abstract>Under certain conditions, it is desirable for a Border Gateway Protocol (BGP) route reflector to be able to modify the Route Target (RT) list of a Virtual Private Network (VPN) route that the route reflector distributes, enabling the route reflector to control how a route originated within one VPN Routing and Forwarding table (VRF) is imported into other VRFs.  This technique works effectively as long as the VRF that exports the route is not on the same Provider Edge (PE) router as the VRF(s) that imports the route.  However, due to the constraints of BGP, it does not work if the two are on the same PE.  This document describes a modification to BGP allowing this technique to work when the VRFs are on the same PE and to be used in a standard manner throughout an autonomous system.</abstract>
+    <abstract>
+      <t>Under certain conditions, it is desirable for a Border Gateway Protocol (BGP) route reflector to be able to modify the Route Target (RT) list of a Virtual Private Network (VPN) route that the route reflector distributes, enabling the route reflector to control how a route originated within one VPN Routing and Forwarding table (VRF) is imported into other VRFs.  This technique works effectively as long as the VRF that exports the route is not on the same Provider Edge (PE) router as the VRF(s) that imports the route.  However, due to the constraints of BGP, it does not work if the two are on the same PE.  This document describes a modification to BGP allowing this technique to work when the VRFs are on the same PE and to be used in a standard manner throughout an autonomous system.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7611"/>
+  <seriesInfo name="RFC" value="7611"/>
 </reference>

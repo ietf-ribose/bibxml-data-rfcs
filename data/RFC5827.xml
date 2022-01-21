@@ -1,16 +1,27 @@
 <reference anchor="RFC5827" target="https://www.rfc-editor.org/info/rfc5827">
   <front>
     <title>Early Retransmit for TCP and Stream Control Transmission Protocol (SCTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5827"/>
-    <author fullname="M. Allman"/>
-    <author fullname="K. Avrachenkov"/>
-    <author fullname="U. Ayesta"/>
-    <author fullname="J. Blanton"/>
-    <author fullname="P. Hurtig"/>
+    <author fullname="M. Allman" initials="M." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="K. Avrachenkov" initials="K." surname="Avrachenkov">
+      <organization/>
+    </author>
+    <author fullname="U. Ayesta" initials="U." surname="Ayesta">
+      <organization/>
+    </author>
+    <author fullname="J. Blanton" initials="J." surname="Blanton">
+      <organization/>
+    </author>
+    <author fullname="P. Hurtig" initials="P." surname="Hurtig">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>tcpm</workgroup>
-    <keyword>transmission control protocol</keyword>
-    <keyword>fast retransmission</keyword>
-    <abstract>This document proposes a new mechanism for TCP and Stream Control Transmission Protocol (SCTP) that can be used to recover lost segments when a connection's congestion window is small.  The "Early Retransmit" mechanism allows the transport to reduce, in certain special circumstances, the number of duplicate acknowledgments required to trigger a fast retransmission.  This allows the transport to use fast retransmit to recover segment losses that would otherwise require a lengthy retransmission timeout. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes a new mechanism for TCP and Stream Control Transmission Protocol (SCTP) that can be used to recover lost segments when a connection's congestion window is small.  The "Early Retransmit" mechanism allows the transport to reduce, in certain special circumstances, the number of duplicate acknowledgments required to trigger a fast retransmission.  This allows the transport to use fast retransmit to recover segment losses that would otherwise require a lengthy retransmission timeout. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5827"/>
+  <seriesInfo name="RFC" value="5827"/>
 </reference>

@@ -1,12 +1,14 @@
 <reference anchor="RFC2888" target="https://www.rfc-editor.org/info/rfc2888">
   <front>
     <title>Secure Remote Access with L2TP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2888"/>
-    <author fullname="P. Srisuresh"/>
+    <author fullname="P. Srisuresh" initials="P." surname="Srisuresh">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
-    <keyword>layer two</keyword>
-    <keyword>tunneling</keyword>
-    <keyword>protocol</keyword>
-    <abstract>The objective of this document is to extend security characteristics of IPsec to remote access users, as they dial-in through the Internet.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The objective of this document is to extend security characteristics of IPsec to remote access users, as they dial-in through the Internet.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2888"/>
+  <seriesInfo name="RFC" value="2888"/>
 </reference>

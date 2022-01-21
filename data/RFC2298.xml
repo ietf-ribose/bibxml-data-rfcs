@@ -1,18 +1,15 @@
 <reference anchor="RFC2298" target="https://www.rfc-editor.org/info/rfc2298">
   <front>
     <title>An Extensible Message Format for Message Disposition Notifications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2298"/>
-    <author fullname="R. Fajman"/>
+    <author fullname="R. Fajman" initials="R." surname="Fajman">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>receipt</workgroup>
-    <keyword>EMF-MDN</keyword>
-    <keyword>MDN</keyword>
-    <keyword>media-type</keyword>
-    <keyword>MIME</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This memo defines a MIME content-type that may be used by a mail user agent (UA) or electronic mail gateway to report the disposition of a message after it has been sucessfully delivered to a recipient. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a MIME content-type that may be used by a mail user agent (UA) or electronic mail gateway to report the disposition of a message after it has been sucessfully delivered to a recipient. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2298"/>
+  <seriesInfo name="RFC" value="2298"/>
 </reference>

@@ -1,17 +1,21 @@
 <reference anchor="RFC5518" target="https://www.rfc-editor.org/info/rfc5518">
   <front>
     <title>Vouch By Reference</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5518"/>
-    <author fullname="P. Hoffman"/>
-    <author fullname="J. Levine"/>
-    <author fullname="A. Hathcock"/>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author fullname="J. Levine" initials="J." surname="Levine">
+      <organization/>
+    </author>
+    <author fullname="A. Hathcock" initials="A." surname="Hathcock">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>VBR</keyword>
-    <keyword>DKIM</keyword>
-    <keyword>SenderID</keyword>
-    <keyword>DK</keyword>
-    <keyword>reputation</keyword>
-    <abstract>This document describes the Vouch By Reference (VBR) protocol.  VBR is a protocol for adding third-party certification to email.  It permits independent third parties to certify the owner of a domain name that is associated with received mail. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Vouch By Reference (VBR) protocol.  VBR is a protocol for adding third-party certification to email.  It permits independent third parties to certify the owner of a domain name that is associated with received mail. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5518"/>
+  <seriesInfo name="RFC" value="5518"/>
 </reference>

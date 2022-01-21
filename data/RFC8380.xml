@@ -1,14 +1,21 @@
 <reference anchor="RFC8380" target="https://www.rfc-editor.org/info/rfc8380">
   <front>
     <title>Directory-Assisted Transparent Interconnection of Lots of Links (TRILL) Encapsulation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8380"/>
-    <author fullname="L. Dunbar"/>
-    <author fullname="D. Eastlake 3rd"/>
-    <author fullname="R. Perlman"/>
+    <author fullname="L. Dunbar" initials="L." surname="Dunbar">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="R. Perlman" initials="R." surname="Perlman">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
     <workgroup>trill</workgroup>
-    <keyword>Directory</keyword>
-    <keyword>Nickname</keyword>
-    <abstract>This document describes how data center networks can benefit from non-RBridge nodes performing TRILL (Transparent Interconnection of Lots of Links) encapsulation with assistance from a directory service.</abstract>
+    <abstract>
+      <t>This document describes how data center networks can benefit from non-RBridge nodes performing TRILL (Transparent Interconnection of Lots of Links) encapsulation with assistance from a directory service.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8380"/>
+  <seriesInfo name="RFC" value="8380"/>
 </reference>

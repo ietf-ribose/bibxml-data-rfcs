@@ -1,14 +1,14 @@
 <reference anchor="RFC1734" target="https://www.rfc-editor.org/info/rfc1734">
   <front>
     <title>POP3 AUTHentication command</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1734"/>
-    <author fullname="J. Myers"/>
+    <author fullname="J. Myers" initials="J." surname="Myers">
+      <organization/>
+    </author>
     <date year="1994" month="December"/>
-    <keyword>POP3-AUTH</keyword>
-    <keyword>Post</keyword>
-    <keyword>Office</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Email</keyword>
-    <abstract>This document describes the optional AUTH command, for indicating an authentication mechanism to the server, performing an authentication protocol exchange, and optionally negotiating a protection mechanism for subsequent protocol interactions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the optional AUTH command, for indicating an authentication mechanism to the server, performing an authentication protocol exchange, and optionally negotiating a protection mechanism for subsequent protocol interactions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1734"/>
+  <seriesInfo name="RFC" value="1734"/>
 </reference>

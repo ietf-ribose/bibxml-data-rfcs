@@ -1,12 +1,21 @@
 <reference anchor="RFC3788" target="https://www.rfc-editor.org/info/rfc3788">
   <front>
     <title>Security Considerations for Signaling Transport (SIGTRAN) Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3788"/>
-    <author fullname="J. Loughney"/>
-    <author fullname="M. Tuexen"/>
-    <author fullname="J. Pastor-Balbas"/>
+    <author fullname="J. Loughney" initials="J." surname="Loughney">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
+    <author fullname="J. Pastor-Balbas" initials="J." surname="Pastor-Balbas">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>sigtran</workgroup>
-    <abstract>This document discusses how Transport Layer Security (TLS) and IPsec can be used to secure communication for SIGTRAN protocols.  The main goal is to recommend the minimum security means that a SIGTRAN node must implement in order to attain secured communication.  The support of IPsec is mandatory for all nodes running SIGTRAN protocols.  TLS support is optional. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document discusses how Transport Layer Security (TLS) and IPsec can be used to secure communication for SIGTRAN protocols.  The main goal is to recommend the minimum security means that a SIGTRAN node must implement in order to attain secured communication.  The support of IPsec is mandatory for all nodes running SIGTRAN protocols.  TLS support is optional. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3788"/>
+  <seriesInfo name="RFC" value="3788"/>
 </reference>

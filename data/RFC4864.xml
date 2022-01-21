@@ -1,18 +1,27 @@
 <reference anchor="RFC4864" target="https://www.rfc-editor.org/info/rfc4864">
   <front>
     <title>Local Network Protection for IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4864"/>
-    <author fullname="G. Van de Velde"/>
-    <author fullname="T. Hain"/>
-    <author fullname="R. Droms"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="E. Klein"/>
+    <author fullname="G. Van de Velde" initials="G." surname="Van">
+      <organization/>
+    </author>
+    <author fullname="T. Hain" initials="T." surname="Hain">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="E. Klein" initials="E." surname="Klein">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>v6ops</workgroup>
-    <keyword>ipv6</keyword>
-    <keyword>address</keyword>
-    <keyword>protection</keyword>
-    <keyword>nat</keyword>
-    <abstract>Although there are many perceived benefits to Network Address Translation (NAT), its primary benefit of "amplifying" available address space is not needed in IPv6.  In addition to NAT's many serious disadvantages, there is a perception that other benefits exist, such as a variety of management and security attributes that could be useful for an Internet Protocol site.  IPv6 was designed with the intention of making NAT unnecessary, and this document shows how Local Network Protection (LNP) using IPv6 can provide the same or more benefits without the need for address translation.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Although there are many perceived benefits to Network Address Translation (NAT), its primary benefit of "amplifying" available address space is not needed in IPv6.  In addition to NAT's many serious disadvantages, there is a perception that other benefits exist, such as a variety of management and security attributes that could be useful for an Internet Protocol site.  IPv6 was designed with the intention of making NAT unnecessary, and this document shows how Local Network Protection (LNP) using IPv6 can provide the same or more benefits without the need for address translation.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4864"/>
+  <seriesInfo name="RFC" value="4864"/>
 </reference>

@@ -1,15 +1,30 @@
 <reference anchor="RFC7442" target="https://www.rfc-editor.org/info/rfc7442">
   <front>
     <title>Carrying Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source Multicast (ASM) Mode Trees over Multipoint LDP (mLDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7442"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="R. Aggarwal"/>
-    <author fullname="N. Leymann"/>
-    <author fullname="W. Henderickx"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="R. Li"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
+    <author fullname="N. Leymann" initials="N." surname="Leymann">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="R. Li" initials="R." surname="Li">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
     <workgroup>mpls</workgroup>
-    <abstract>When IP multicast trees created by Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source Multicast (ASM) mode need to pass through an MPLS domain, it may be desirable to map such trees to Point-to-Multipoint Label Switched Paths (P2MP LSPs).  This document describes how to accomplish this in the case where such P2MP LSPs are established using Label Distribution Protocol (LDP) Extensions for P2MP and Multipoint-to-Multipoint LSPs: Multipoint LDP (mLDP).</abstract>
+    <abstract>
+      <t>When IP multicast trees created by Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source Multicast (ASM) mode need to pass through an MPLS domain, it may be desirable to map such trees to Point-to-Multipoint Label Switched Paths (P2MP LSPs).  This document describes how to accomplish this in the case where such P2MP LSPs are established using Label Distribution Protocol (LDP) Extensions for P2MP and Multipoint-to-Multipoint LSPs: Multipoint LDP (mLDP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7442"/>
+  <seriesInfo name="RFC" value="7442"/>
 </reference>

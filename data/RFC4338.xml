@@ -1,14 +1,22 @@
 <reference anchor="RFC4338" target="https://www.rfc-editor.org/info/rfc4338">
   <front>
     <title>Transmission of IPv6, IPv4, and Address Resolution Protocol (ARP) Packets over Fibre Channel</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4338"/>
-    <author fullname="C. DeSanti"/>
-    <author fullname="C. Carlson"/>
-    <author fullname="R. Nixon"/>
+    <author fullname="C. DeSanti" initials="C." surname="DeSanti">
+      <organization/>
+    </author>
+    <author fullname="C. Carlson" initials="C." surname="Carlson">
+      <organization/>
+    </author>
+    <author fullname="R. Nixon" initials="R." surname="Nixon">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>imss</workgroup>
-    <keyword>link local address</keyword>
-    <keyword>link-local address</keyword>
-    <abstract>This document specifies the way of encapsulating IPv6, IPv4, and Address Resolution Protocol (ARP) packets over Fibre Channel. This document also specifies the method of forming IPv6 link-local addresses and statelessly autoconfigured IPv6 addresses on Fibre Channel networks, and a mechanism to perform IPv4 address resolution over Fibre Channel networks. This document obsoletes RFC 2625 and RFC 3831. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the way of encapsulating IPv6, IPv4, and Address Resolution Protocol (ARP) packets over Fibre Channel. This document also specifies the method of forming IPv6 link-local addresses and statelessly autoconfigured IPv6 addresses on Fibre Channel networks, and a mechanism to perform IPv4 address resolution over Fibre Channel networks.</t>
+      <t>This document obsoletes RFC 2625 and RFC 3831. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4338"/>
+  <seriesInfo name="RFC" value="4338"/>
 </reference>

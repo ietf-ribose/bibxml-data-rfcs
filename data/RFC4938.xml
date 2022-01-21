@@ -1,10 +1,17 @@
 <reference anchor="RFC4938" target="https://www.rfc-editor.org/info/rfc4938">
   <front>
     <title>PPP Over Ethernet (PPPoE) Extensions for Credit Flow and Link Metrics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4938"/>
-    <author fullname="B. Berry"/>
-    <author fullname="H. Holgate"/>
+    <author fullname="B. Berry" initials="B." surname="Berry">
+      <organization/>
+    </author>
+    <author fullname="H. Holgate" initials="H." surname="Holgate">
+      <organization/>
+    </author>
     <date year="2007" month="June"/>
-    <abstract>This document extends the Point-to-Point over Ethernet (PPPoE) Protocol with a credit-based flow control mechanism and Link Quality Metric report.  This optional extension should improve the performance of PPPoE over media with variable bandwidth and limited buffering, such as mobile radio links.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document extends the Point-to-Point over Ethernet (PPPoE) Protocol with a credit-based flow control mechanism and Link Quality Metric report.  This optional extension should improve the performance of PPPoE over media with variable bandwidth and limited buffering, such as mobile radio links.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4938"/>
+  <seriesInfo name="RFC" value="4938"/>
 </reference>

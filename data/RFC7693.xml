@@ -1,12 +1,17 @@
 <reference anchor="RFC7693" target="https://www.rfc-editor.org/info/rfc7693">
   <front>
     <title>The BLAKE2 Cryptographic Hash and Message Authentication Code (MAC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7693"/>
-    <author fullname="M-J. Saarinen"/>
-    <author fullname="J-P. Aumasson"/>
+    <author fullname="M-J. Saarinen" initials="M-J." surname="Saarinen">
+      <organization/>
+    </author>
+    <author fullname="J-P. Aumasson" initials="J-P." surname="Aumasson">
+      <organization/>
+    </author>
     <date year="2015" month="November"/>
-    <keyword>BLAKE2</keyword>
-    <keyword>Cryptographic Hash</keyword>
-    <abstract>This document describes the cryptographic hash function BLAKE2 and makes the algorithm specification and C source code conveniently available to the Internet community.  BLAKE2 comes in two main flavors: BLAKE2b is optimized for 64-bit platforms and BLAKE2s for smaller architectures.  BLAKE2 can be directly keyed, making it functionally equivalent to a Message Authentication Code (MAC).</abstract>
+    <abstract>
+      <t>This document describes the cryptographic hash function BLAKE2 and makes the algorithm specification and C source code conveniently available to the Internet community.  BLAKE2 comes in two main flavors: BLAKE2b is optimized for 64-bit platforms and BLAKE2s for smaller architectures.  BLAKE2 can be directly keyed, making it functionally equivalent to a Message Authentication Code (MAC).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7693"/>
+  <seriesInfo name="RFC" value="7693"/>
 </reference>

@@ -1,15 +1,27 @@
 <reference anchor="RFC8451" target="https://www.rfc-editor.org/info/rfc8451">
   <front>
     <title>Considerations for Selecting RTP Control Protocol (RTCP) Extended Report (XR) Metrics for the WebRTC Statistics API</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8451"/>
-    <author fullname="V. Singh"/>
-    <author fullname="R. Huang"/>
-    <author fullname="R. Even"/>
-    <author fullname="D. Romascanu"/>
-    <author fullname="L. Deng"/>
+    <author fullname="V. Singh" initials="V." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="R. Huang" initials="R." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="D. Romascanu" initials="D." surname="Romascanu">
+      <organization/>
+    </author>
+    <author fullname="L. Deng" initials="L." surname="Deng">
+      <organization/>
+    </author>
     <date year="2018" month="September"/>
     <workgroup>xrblock</workgroup>
-    <keyword>Web real-time communication</keyword>
-    <abstract>This document describes monitoring features related to media streams in Web real-time communication (WebRTC).  It provides a list of RTP Control Protocol (RTCP) Sender Report (SR), Receiver Report (RR), and Extended Report (XR) metrics, which may need to be supported by RTP implementations in some diverse environments.  It lists a set of identifiers for the WebRTC's statistics API.  These identifiers are a set of RTCP SR, RR, and XR metrics related to the transport of multimedia flows.</abstract>
+    <abstract>
+      <t>This document describes monitoring features related to media streams in Web real-time communication (WebRTC).  It provides a list of RTP Control Protocol (RTCP) Sender Report (SR), Receiver Report (RR), and Extended Report (XR) metrics, which may need to be supported by RTP implementations in some diverse environments.  It lists a set of identifiers for the WebRTC's statistics API.  These identifiers are a set of RTCP SR, RR, and XR metrics related to the transport of multimedia flows.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8451"/>
+  <seriesInfo name="RFC" value="8451"/>
 </reference>

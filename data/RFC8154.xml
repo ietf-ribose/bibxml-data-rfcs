@@ -1,11 +1,15 @@
 <reference anchor="RFC8154" target="https://www.rfc-editor.org/info/rfc8154">
   <front>
     <title>Parallel NFS (pNFS) Small Computer System Interface (SCSI) Layout</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8154"/>
-    <author fullname="C. Hellwig"/>
+    <author fullname="C. Hellwig" initials="C." surname="Hellwig">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>NFSv4</keyword>
-    <abstract>The Parallel Network File System (pNFS) allows a separation between the metadata (onto a metadata server) and data (onto a storage device) for a file.  The Small Computer System Interface (SCSI) layout type is defined in this document as an extension to pNFS to allow the use of SCSI-based block storage devices.</abstract>
+    <abstract>
+      <t>The Parallel Network File System (pNFS) allows a separation between the metadata (onto a metadata server) and data (onto a storage device) for a file.  The Small Computer System Interface (SCSI) layout type is defined in this document as an extension to pNFS to allow the use of SCSI-based block storage devices.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8154"/>
+  <seriesInfo name="RFC" value="8154"/>
 </reference>

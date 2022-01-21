@@ -1,13 +1,15 @@
 <reference anchor="RFC4946" target="https://www.rfc-editor.org/info/rfc4946">
   <front>
     <title>Atom License Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4946"/>
-    <author fullname="J. Snell"/>
+    <author fullname="J. Snell" initials="J." surname="Snell">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>atom syndication format</keyword>
-    <keyword>atom feeds</keyword>
-    <keyword>atom entries</keyword>
-    <abstract>This memo defines an extension to the Atom Syndication Format for describing licenses associated with Atom feeds and entries.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Atom Syndication Format for describing licenses associated with Atom feeds and entries.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4946"/>
+  <seriesInfo name="RFC" value="4946"/>
 </reference>

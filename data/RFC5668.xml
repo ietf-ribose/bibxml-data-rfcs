@@ -1,14 +1,21 @@
 <reference anchor="RFC5668" target="https://www.rfc-editor.org/info/rfc5668">
   <front>
     <title>4-Octet AS Specific BGP Extended Community</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5668"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="S. Sangli"/>
-    <author fullname="D. Tappan"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="S. Sangli" initials="S." surname="Sangli">
+      <organization/>
+    </author>
+    <author fullname="D. Tappan" initials="D." surname="Tappan">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>border gateway protocol</keyword>
-    <keyword>autonomous system</keyword>
-    <abstract>This document defines a new type of a BGP extended community, which carries a 4-octet Autonomous System (AS) number. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new type of a BGP extended community, which carries a 4-octet Autonomous System (AS) number. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5668"/>
+  <seriesInfo name="RFC" value="5668"/>
 </reference>

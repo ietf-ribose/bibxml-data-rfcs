@@ -1,14 +1,18 @@
 <reference anchor="RFC8813" target="https://www.rfc-editor.org/info/rfc8813">
   <front>
     <title>Clarifications for Elliptic Curve Cryptography Subject Public Key Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8813"/>
-    <author fullname="T. Ito"/>
-    <author fullname="S. Turner"/>
+    <author fullname="T. Ito" initials="T." surname="Ito">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2020" month="August"/>
     <workgroup>lamps</workgroup>
-    <keyword>PKIX</keyword>
-    <keyword>X.509</keyword>
-    <keyword>ECC</keyword>
-    <abstract>This document updates RFC 5480 to specify semantics for the keyEncipherment and dataEncipherment key usage bits when used in certificates that support Elliptic Curve Cryptography.</abstract>
+    <abstract>
+      <t>This document updates RFC 5480 to specify semantics for the keyEncipherment and dataEncipherment key usage bits when used in certificates that support Elliptic Curve Cryptography.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8813"/>
+  <seriesInfo name="RFC" value="8813"/>
 </reference>

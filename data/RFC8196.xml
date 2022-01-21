@@ -1,15 +1,27 @@
 <reference anchor="RFC8196" target="https://www.rfc-editor.org/info/rfc8196">
   <front>
     <title>IS-IS Autoconfiguration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8196"/>
-    <author fullname="B. Liu"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="I. Farrer"/>
-    <author fullname="M. Abrahamsson"/>
+    <author fullname="B. Liu" initials="B." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="I. Farrer" initials="I." surname="Farrer">
+      <organization/>
+    </author>
+    <author fullname="M. Abrahamsson" initials="M." surname="Abrahamsson">
+      <organization/>
+    </author>
     <date year="2017" month="July"/>
     <workgroup>isis</workgroup>
-    <keyword>isis auto-configuration</keyword>
-    <abstract>This document specifies IS-IS autoconfiguration mechanisms.  The key components are IS-IS System ID self-generation, duplication detection, and duplication resolution.  These mechanisms provide limited IS-IS functions and are therefore suitable for networks where plug-and-play configuration is expected.</abstract>
+    <abstract>
+      <t>This document specifies IS-IS autoconfiguration mechanisms.  The key components are IS-IS System ID self-generation, duplication detection, and duplication resolution.  These mechanisms provide limited IS-IS functions and are therefore suitable for networks where plug-and-play configuration is expected.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8196"/>
+  <seriesInfo name="RFC" value="8196"/>
 </reference>

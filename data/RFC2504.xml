@@ -1,15 +1,22 @@
 <reference anchor="RFC2504" target="https://www.rfc-editor.org/info/rfc2504">
   <front>
     <title>Users' Security Handbook</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2504"/>
-    <author fullname="E. Guttman"/>
-    <author fullname="L. Leong"/>
-    <author fullname="G. Malkin"/>
+    <author fullname="E. Guttman" initials="E." surname="Guttman">
+      <organization/>
+    </author>
+    <author fullname="L. Leong" initials="L." surname="Leong">
+      <organization/>
+    </author>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>ssh</workgroup>
-    <keyword>encryption</keyword>
-    <keyword>networks</keyword>
-    <keyword>systems</keyword>
-    <abstract>The Users' Security Handbook is the companion to the Site Security Handbook (SSH).  It is intended to provide users with the information they need to help keep their networks and systems secure.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Users' Security Handbook is the companion to the Site Security Handbook (SSH).  It is intended to provide users with the information they need to help keep their networks and systems secure.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2504"/>
+  <seriesInfo name="FYI" value="34"/>
+  <seriesInfo name="RFC" value="2504"/>
 </reference>

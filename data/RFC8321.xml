@@ -1,20 +1,36 @@
 <reference anchor="RFC8321" target="https://www.rfc-editor.org/info/rfc8321">
   <front>
     <title>Alternate-Marking Method for Passive and Hybrid Performance Monitoring</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8321"/>
-    <author fullname="G. Fioccola"/>
-    <author fullname="A. Capello"/>
-    <author fullname="M. Cociglio"/>
-    <author fullname="L. Castaldelli"/>
-    <author fullname="M. Chen"/>
-    <author fullname="L. Zheng"/>
-    <author fullname="G. Mirsky"/>
-    <author fullname="T. Mizrahi"/>
+    <author fullname="G. Fioccola" initials="G." surname="Fioccola">
+      <organization/>
+    </author>
+    <author fullname="A. Capello" initials="A." surname="Capello">
+      <organization/>
+    </author>
+    <author fullname="M. Cociglio" initials="M." surname="Cociglio">
+      <organization/>
+    </author>
+    <author fullname="L. Castaldelli" initials="L." surname="Castaldelli">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="L. Zheng" initials="L." surname="Zheng">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="T. Mizrahi" initials="T." surname="Mizrahi">
+      <organization/>
+    </author>
     <date year="2018" month="January"/>
     <workgroup>ippm</workgroup>
-    <keyword>Alternate Marking</keyword>
-    <keyword>Marking Method</keyword>
-    <keyword>Coloring Technique</keyword>
-    <abstract>This document describes a method to perform packet loss, delay, and jitter measurements on live traffic.  This method is based on an Alternate-Marking (coloring) technique.  A report is provided in order to explain an example and show the method applicability.  This technology can be applied in various situations, as detailed in this document, and could be considered Passive or Hybrid depending on the application.</abstract>
+    <abstract>
+      <t>This document describes a method to perform packet loss, delay, and jitter measurements on live traffic.  This method is based on an Alternate-Marking (coloring) technique.  A report is provided in order to explain an example and show the method applicability.  This technology can be applied in various situations, as detailed in this document, and could be considered Passive or Hybrid depending on the application.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8321"/>
+  <seriesInfo name="RFC" value="8321"/>
 </reference>

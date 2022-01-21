@@ -1,12 +1,21 @@
 <reference anchor="RFC4557" target="https://www.rfc-editor.org/info/rfc4557">
   <front>
     <title>Online Certificate Status Protocol (OCSP) Support for Public Key Cryptography for Initial Authentication in Kerberos (PKINIT)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4557"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="K. Jaganathan"/>
-    <author fullname="N. Williams"/>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="K. Jaganathan" initials="K." surname="Jaganathan">
+      <organization/>
+    </author>
+    <author fullname="N. Williams" initials="N." surname="Williams">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>krb-wg</workgroup>
-    <abstract>This document defines a mechanism to enable in-band transmission of Online Certificate Status Protocol (OCSP) responses in the Kerberos network authentication protocol.  These responses are used to verify the validity of the certificates used in Public Key Cryptography for Initial Authentication in Kerberos (PKINIT), which is the Kerberos Version 5 extension that provides for the use of public key cryptography. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a mechanism to enable in-band transmission of Online Certificate Status Protocol (OCSP) responses in the Kerberos network authentication protocol.  These responses are used to verify the validity of the certificates used in Public Key Cryptography for Initial Authentication in Kerberos (PKINIT), which is the Kerberos Version 5 extension that provides for the use of public key cryptography. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4557"/>
+  <seriesInfo name="RFC" value="4557"/>
 </reference>

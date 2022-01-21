@@ -1,12 +1,15 @@
 <reference anchor="RFC1838" target="https://www.rfc-editor.org/info/rfc1838">
   <front>
     <title>Use of the X.500 Directory to support mapping between X.400 and RFC 822 Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1838"/>
-    <author fullname="S. Kille"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
     <workgroup>mhsds</workgroup>
-    <keyword>message</keyword>
-    <keyword>handling</keyword>
-    <abstract>This document defines how to use directory to support the mapping between X.400 O/R Addresses and mailboxes defined in RFC 1327 [2].  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines how to use directory to support the mapping between X.400 O/R Addresses and mailboxes defined in RFC 1327 [2].  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1838"/>
+  <seriesInfo name="RFC" value="1838"/>
 </reference>

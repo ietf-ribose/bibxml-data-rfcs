@@ -1,14 +1,14 @@
 <reference anchor="RFC2361" target="https://www.rfc-editor.org/info/rfc2361">
   <front>
     <title>WAVE and AVI Codec Registries</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2361"/>
-    <author fullname="E. Fleischman"/>
+    <author fullname="E. Fleischman" initials="E." surname="Fleischman">
+      <organization/>
+    </author>
     <date year="1998" month="June"/>
-    <keyword>multimedia</keyword>
-    <keyword>parameter</keyword>
-    <keyword>audio</keyword>
-    <keyword>video</keyword>
-    <keyword>microsoft</keyword>
-    <abstract>The purpose of this paper is to establish a mechanism by which codecs registered within Microsoft's WAVE and AVI Registries may be referenced within the IANA Namespace by Internet applications.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The purpose of this paper is to establish a mechanism by which codecs registered within Microsoft's WAVE and AVI Registries may be referenced within the IANA Namespace by Internet applications.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2361"/>
+  <seriesInfo name="RFC" value="2361"/>
 </reference>

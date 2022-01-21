@@ -1,17 +1,24 @@
 <reference anchor="RFC5973" target="https://www.rfc-editor.org/info/rfc5973">
   <front>
     <title>NAT/Firewall NSIS Signaling Layer Protocol (NSLP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5973"/>
-    <author fullname="M. Stiemerling"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="C. Aoun"/>
-    <author fullname="E. Davies"/>
+    <author fullname="M. Stiemerling" initials="M." surname="Stiemerling">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="C. Aoun" initials="C." surname="Aoun">
+      <organization/>
+    </author>
+    <author fullname="E. Davies" initials="E." surname="Davies">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>nsis</workgroup>
-    <keyword>Next Steps in Signaling</keyword>
-    <keyword>NSIS</keyword>
-    <keyword>Path-coupled signaling</keyword>
-    <keyword>Middlebox</keyword>
-    <abstract>This memo defines the NSIS Signaling Layer Protocol (NSLP) for Network Address Translators (NATs) and firewalls.  This NSLP allows hosts to signal on the data path for NATs and firewalls to be configured according to the needs of the application data flows.  For instance, it enables hosts behind NATs to obtain a publicly reachable address and hosts behind firewalls to receive data traffic.  The overall architecture is given by the framework and requirements defined by the Next Steps in Signaling (NSIS) working group.  The network scenarios, the protocol itself, and examples for path-coupled signaling are given in this memo.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines the NSIS Signaling Layer Protocol (NSLP) for Network Address Translators (NATs) and firewalls.  This NSLP allows hosts to signal on the data path for NATs and firewalls to be configured according to the needs of the application data flows.  For instance, it enables hosts behind NATs to obtain a publicly reachable address and hosts behind firewalls to receive data traffic.  The overall architecture is given by the framework and requirements defined by the Next Steps in Signaling (NSIS) working group.  The network scenarios, the protocol itself, and examples for path-coupled signaling are given in this memo.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5973"/>
+  <seriesInfo name="RFC" value="5973"/>
 </reference>

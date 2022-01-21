@@ -1,12 +1,22 @@
 <reference anchor="RFC7378" target="https://www.rfc-editor.org/info/rfc7378">
   <front>
     <title>Trustworthy Location</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7378"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="B. Aboba"/>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>ecrit</workgroup>
-    <abstract>The trustworthiness of location information is critically important for some location-based applications, such as emergency calling or roadside assistance. This document describes threats to conveying location, particularly for emergency calls, and describes techniques that improve the reliability and security of location information. It also provides guidelines for assessing the trustworthiness of location information.</abstract>
+    <abstract>
+      <t>The trustworthiness of location information is critically important for some location-based applications, such as emergency calling or roadside assistance.</t>
+      <t>This document describes threats to conveying location, particularly for emergency calls, and describes techniques that improve the reliability and security of location information. It also provides guidelines for assessing the trustworthiness of location information.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7378"/>
+  <seriesInfo name="RFC" value="7378"/>
 </reference>

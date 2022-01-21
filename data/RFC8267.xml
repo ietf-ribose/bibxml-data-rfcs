@@ -1,11 +1,15 @@
 <reference anchor="RFC8267" target="https://www.rfc-editor.org/info/rfc8267">
   <front>
     <title>Network File System (NFS) Upper-Layer Binding to RPC-over-RDMA Version 1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8267"/>
-    <author fullname="C. Lever"/>
+    <author fullname="C. Lever" initials="C." surname="Lever">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>NFS-over-RDMA</keyword>
-    <abstract>This document specifies Upper-Layer Bindings of Network File System (NFS) protocol versions to RPC-over-RDMA version 1, thus enabling the use of Direct Data Placement.  This document obsoletes RFC 5667.</abstract>
+    <abstract>
+      <t>This document specifies Upper-Layer Bindings of Network File System (NFS) protocol versions to RPC-over-RDMA version 1, thus enabling the use of Direct Data Placement.  This document obsoletes RFC 5667.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8267"/>
+  <seriesInfo name="RFC" value="8267"/>
 </reference>

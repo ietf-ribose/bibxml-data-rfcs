@@ -1,20 +1,30 @@
 <reference anchor="RFC3015" target="https://www.rfc-editor.org/info/rfc3015">
   <front>
     <title>Megaco Protocol Version 1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3015"/>
-    <author fullname="F. Cuervo"/>
-    <author fullname="N. Greene"/>
-    <author fullname="A. Rayhan"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="B. Rosen"/>
-    <author fullname="J. Segers"/>
+    <author fullname="F. Cuervo" initials="F." surname="Cuervo">
+      <organization/>
+    </author>
+    <author fullname="N. Greene" initials="N." surname="Greene">
+      <organization/>
+    </author>
+    <author fullname="A. Rayhan" initials="A." surname="Rayhan">
+      <organization/>
+    </author>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="B. Rosen" initials="B." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="J. Segers" initials="J." surname="Segers">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>megaco</workgroup>
-    <keyword>MEGACO</keyword>
-    <keyword>H.248</keyword>
-    <keyword>media</keyword>
-    <keyword>gateway</keyword>
-    <keyword>control</keyword>
-    <abstract>This document defines the protocol used between elements of a physically decomposed multimedia gateway, i.e.  a Media Gateway and a Media Gateway Controller. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the protocol used between elements of a physically decomposed multimedia gateway, i.e.  a Media Gateway and a Media Gateway Controller. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3015"/>
+  <seriesInfo name="RFC" value="3015"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="RFC5498" target="https://www.rfc-editor.org/info/rfc5498">
   <front>
     <title>IANA Allocations for Mobile Ad Hoc Network (MANET) Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5498"/>
-    <author fullname="I. Chakeres"/>
+    <author fullname="I. Chakeres" initials="I." surname="Chakeres">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>manet</workgroup>
-    <keyword>manet protocols</keyword>
-    <abstract>This document enumerates several common IANA allocations for use by Mobile Ad hoc NETwork (MANET) protocols.  The following well-known numbers are required: a UDP port number, an IP protocol number, and a link-local multicast group address. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document enumerates several common IANA allocations for use by Mobile Ad hoc NETwork (MANET) protocols.  The following well-known numbers are required: a UDP port number, an IP protocol number, and a link-local multicast group address. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5498"/>
+  <seriesInfo name="RFC" value="5498"/>
 </reference>

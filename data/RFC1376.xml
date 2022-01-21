@@ -1,13 +1,15 @@
 <reference anchor="RFC1376" target="https://www.rfc-editor.org/info/rfc1376">
   <front>
     <title>The PPP DECnet Phase IV Control Protocol (DNCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1376"/>
-    <author fullname="S. Senum"/>
+    <author fullname="S. Senum" initials="S." surname="Senum">
+      <organization/>
+    </author>
     <date year="1992" month="November"/>
     <workgroup>pppext</workgroup>
-    <keyword>point</keyword>
-    <keyword>DNA</keyword>
-    <keyword>DDCMP</keyword>
-    <abstract>This document defines the NCP for establishing and configuring Digital's DNA Phase IV Routing protocol (DECnet Phase IV) over PPP.  This document applies only to DNA Phase IV Routing messages (both data and control), and not to other DNA Phase IV protocols (MOP, LAT, etc.). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the NCP for establishing and configuring Digital's DNA Phase IV Routing protocol (DECnet Phase IV) over PPP.  This document applies only to DNA Phase IV Routing messages (both data and control), and not to other DNA Phase IV protocols (MOP, LAT, etc.). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1376"/>
+  <seriesInfo name="RFC" value="1376"/>
 </reference>

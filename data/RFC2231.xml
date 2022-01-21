@@ -1,14 +1,17 @@
 <reference anchor="RFC2231" target="https://www.rfc-editor.org/info/rfc2231">
   <front>
     <title>MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2231"/>
-    <author fullname="N. Freed"/>
-    <author fullname="K. Moore"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="K. Moore" initials="K." surname="Moore">
+      <organization/>
+    </author>
     <date year="1997" month="November"/>
-    <keyword>MIME-EXT</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Multimedia</keyword>
-    <keyword>EMail</keyword>
-    <abstract>This memo defines extensions to the RFC 2045 media type and RFC 2183 disposition parameter value mechanisms.  This memo also defines an extension to the encoded words defined in RFC 2047 to allow the specification of the language to be used for display as well as the character set. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines extensions to the RFC 2045 media type and RFC 2183 disposition parameter value mechanisms.  This memo also defines an extension to the encoded words defined in RFC 2047 to allow the specification of the language to be used for display as well as the character set. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2231"/>
+  <seriesInfo name="RFC" value="2231"/>
 </reference>

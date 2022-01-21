@@ -1,17 +1,21 @@
 <reference anchor="RFC8487" target="https://www.rfc-editor.org/info/rfc8487">
   <front>
     <title>Mtrace Version 2: Traceroute Facility for IP Multicast</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8487"/>
-    <author fullname="H. Asaeda"/>
-    <author fullname="K. Meyer"/>
-    <author fullname="W. Lee"/>
+    <author fullname="H. Asaeda" initials="H." surname="Asaeda">
+      <organization/>
+    </author>
+    <author fullname="K. Meyer" initials="K." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="W. Lee" initials="W." surname="Lee">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
     <workgroup>mboned</workgroup>
-    <keyword>multicast</keyword>
-    <keyword>mtrace</keyword>
-    <keyword>mtrace2</keyword>
-    <keyword>traceroute</keyword>
-    <keyword>PIM</keyword>
-    <abstract>This document describes the IP multicast traceroute facility, named Mtrace version 2 (Mtrace2).  Unlike unicast traceroute, Mtrace2 requires special implementations on the part of routers.  This specification describes the required functionality in multicast routers, as well as how an Mtrace2 client invokes a Query and receives a Reply.</abstract>
+    <abstract>
+      <t>This document describes the IP multicast traceroute facility, named Mtrace version 2 (Mtrace2).  Unlike unicast traceroute, Mtrace2 requires special implementations on the part of routers.  This specification describes the required functionality in multicast routers, as well as how an Mtrace2 client invokes a Query and receives a Reply.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8487"/>
+  <seriesInfo name="RFC" value="8487"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC5577" target="https://www.rfc-editor.org/info/rfc5577">
   <front>
     <title>RTP Payload Format for ITU-T Recommendation G.722.1</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5577"/>
-    <author fullname="P. Luthi"/>
-    <author fullname="R. Even"/>
+    <author fullname="P. Luthi" initials="P." surname="Luthi">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>avt</workgroup>
-    <keyword>international telecommunication union</keyword>
-    <keyword>wide-band audio coded</keyword>
-    <abstract>International Telecommunication Union (ITU-T) Recommendation G.722.1 is a wide-band audio codec.  This document describes the payload format for including G.722.1-generated bit streams within an RTP packet.  The document also describes the syntax and semantics of the Session Description Protocol (SDP) parameters needed to support G.722.1 audio codec. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>International Telecommunication Union (ITU-T) Recommendation G.722.1 is a wide-band audio codec.  This document describes the payload format for including G.722.1-generated bit streams within an RTP packet.  The document also describes the syntax and semantics of the Session Description Protocol (SDP) parameters needed to support G.722.1 audio codec. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5577"/>
+  <seriesInfo name="RFC" value="5577"/>
 </reference>

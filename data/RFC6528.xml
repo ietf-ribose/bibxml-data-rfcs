@@ -1,16 +1,18 @@
 <reference anchor="RFC6528" target="https://www.rfc-editor.org/info/rfc6528">
   <front>
     <title>Defending against Sequence Number Attacks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6528"/>
-    <author fullname="F. Gont"/>
-    <author fullname="S. Bellovin"/>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="S. Bellovin" initials="S." surname="Bellovin">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>tcpm</workgroup>
-    <keyword>TCP security</keyword>
-    <keyword>TCP Sequence Numbers</keyword>
-    <keyword>Sequence Number Randomization</keyword>
-    <keyword>obfuscation</keyword>
-    <keyword>TCP vulnerabilities</keyword>
-    <abstract>This document specifies an algorithm for the generation of TCP Initial Sequence Numbers (ISNs), such that the chances of an off-path attacker guessing the sequence numbers in use by a target connection are reduced.  This document revises (and formally obsoletes) RFC 1948, and takes the ISN generation algorithm originally proposed in that document to Standards Track, formally updating RFC 793. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an algorithm for the generation of TCP Initial Sequence Numbers (ISNs), such that the chances of an off-path attacker guessing the sequence numbers in use by a target connection are reduced.  This document revises (and formally obsoletes) RFC 1948, and takes the ISN generation algorithm originally proposed in that document to Standards Track, formally updating RFC 793. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6528"/>
+  <seriesInfo name="RFC" value="6528"/>
 </reference>

@@ -1,17 +1,26 @@
 <reference anchor="RFC7521" target="https://www.rfc-editor.org/info/rfc7521">
   <front>
     <title>Assertion Framework for OAuth 2.0 Client Authentication and Authorization Grants</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7521"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="C. Mortimore"/>
-    <author fullname="M. Jones"/>
-    <author fullname="Y. Goland"/>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="C. Mortimore" initials="C." surname="Mortimore">
+      <organization/>
+    </author>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="Y. Goland" initials="Y." surname="Goland">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>oauth</workgroup>
-    <keyword>OAuth</keyword>
-    <keyword>SAML</keyword>
-    <keyword>JWT</keyword>
-    <keyword>Assertion</keyword>
-    <abstract>This specification provides a framework for the use of assertions with OAuth 2.0 in the form of a new client authentication mechanism and a new authorization grant type. Mechanisms are specified for transporting assertions during interactions with a token endpoint; general processing rules are also specified. The intent of this specification is to provide a common framework for OAuth 2.0 to interwork with other identity systems using assertions and to provide alternative client authentication mechanisms. Note that this specification only defines abstract message flows and processing rules. In order to be implementable, companion specifications are necessary to provide the corresponding concrete instantiations.</abstract>
+    <abstract>
+      <t>This specification provides a framework for the use of assertions with OAuth 2.0 in the form of a new client authentication mechanism and a new authorization grant type. Mechanisms are specified for transporting assertions during interactions with a token endpoint; general processing rules are also specified.</t>
+      <t>The intent of this specification is to provide a common framework for OAuth 2.0 to interwork with other identity systems using assertions and to provide alternative client authentication mechanisms.</t>
+      <t>Note that this specification only defines abstract message flows and processing rules. In order to be implementable, companion specifications are necessary to provide the corresponding concrete instantiations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7521"/>
+  <seriesInfo name="RFC" value="7521"/>
 </reference>

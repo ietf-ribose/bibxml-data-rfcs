@@ -1,15 +1,18 @@
 <reference anchor="RFC4252" target="https://www.rfc-editor.org/info/rfc4252">
   <front>
     <title>The Secure Shell (SSH) Authentication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4252"/>
-    <author fullname="T. Ylonen"/>
-    <author fullname="C. Lonvick"/>
+    <author fullname="T. Ylonen" initials="T." surname="Ylonen">
+      <organization/>
+    </author>
+    <author fullname="C. Lonvick" initials="C." surname="Lonvick">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>secsh</workgroup>
-    <keyword>remote login</keyword>
-    <keyword>public key</keyword>
-    <keyword>password</keyword>
-    <keyword>host-based client authentication</keyword>
-    <abstract>The Secure Shell Protocol (SSH) is a protocol for secure remote login and other secure network services over an insecure network.  This document describes the SSH authentication protocol framework and public key, password, and host-based client authentication methods.  Additional authentication methods are described in separate documents.  The SSH authentication protocol runs on top of the SSH transport layer protocol and provides a single authenticated tunnel for the SSH connection protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Secure Shell Protocol (SSH) is a protocol for secure remote login and other secure network services over an insecure network.  This document describes the SSH authentication protocol framework and public key, password, and host-based client authentication methods.  Additional authentication methods are described in separate documents.  The SSH authentication protocol runs on top of the SSH transport layer protocol and provides a single authenticated tunnel for the SSH connection protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4252"/>
+  <seriesInfo name="RFC" value="4252"/>
 </reference>

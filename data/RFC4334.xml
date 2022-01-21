@@ -1,17 +1,18 @@
 <reference anchor="RFC4334" target="https://www.rfc-editor.org/info/rfc4334">
   <front>
     <title>Certificate Extensions and Attributes Supporting Authentication in Point-to-Point Protocol (PPP) and Wireless Local Area Networks (WLAN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4334"/>
-    <author fullname="R. Housley"/>
-    <author fullname="T. Moore"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="T. Moore" initials="T." surname="Moore">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>pkix</workgroup>
-    <keyword>eap</keyword>
-    <keyword>extensible authentication protocol</keyword>
-    <keyword>wireless lan</keyword>
-    <keyword>wlan</keyword>
-    <keyword>system service identifier</keyword>
-    <keyword>ssid</keyword>
-    <abstract>This document defines two Extensible Authentication Protocol (EAP) extended key usage values and a public key certificate extension to carry Wireless LAN (WLAN) System Service identifiers (SSIDs).  This document obsoletes RFC 3770. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines two Extensible Authentication Protocol (EAP) extended key usage values and a public key certificate extension to carry Wireless LAN (WLAN) System Service identifiers (SSIDs).  This document obsoletes RFC 3770. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4334"/>
+  <seriesInfo name="RFC" value="4334"/>
 </reference>

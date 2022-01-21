@@ -1,12 +1,23 @@
 <reference anchor="RFC1089" target="https://www.rfc-editor.org/info/rfc1089">
   <front>
     <title>SNMP over Ethernet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1089"/>
-    <author fullname="M. Schoffstall"/>
-    <author fullname="C. Davin"/>
-    <author fullname="M. Fedor"/>
-    <author fullname="J. Case"/>
+    <author fullname="M. Schoffstall" initials="M." surname="Schoffstall">
+      <organization/>
+    </author>
+    <author fullname="C. Davin" initials="C." surname="Davin">
+      <organization/>
+    </author>
+    <author fullname="M. Fedor" initials="M." surname="Fedor">
+      <organization/>
+    </author>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
     <date year="1989" month="February"/>
-    <abstract>This memo describes an experimental method by which the Simple Network Management Protocol (SNMP) can be used over Ethernet MAC layer framing instead of the Internet UDP/IP protocol stack.  This specification is useful for LAN based network elements that support no higher layer protocols beyond the MAC sub-layer.</abstract>
+    <abstract>
+      <t>This memo describes an experimental method by which the Simple Network Management Protocol (SNMP) can be used over Ethernet MAC layer framing instead of the Internet UDP/IP protocol stack.  This specification is useful for LAN based network elements that support no higher layer protocols beyond the MAC sub-layer.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1089"/>
+  <seriesInfo name="RFC" value="1089"/>
 </reference>

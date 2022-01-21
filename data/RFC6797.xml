@@ -1,23 +1,21 @@
 <reference anchor="RFC6797" target="https://www.rfc-editor.org/info/rfc6797">
   <front>
     <title>HTTP Strict Transport Security (HSTS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6797"/>
-    <author fullname="J. Hodges"/>
-    <author fullname="C. Jackson"/>
-    <author fullname="A. Barth"/>
+    <author fullname="J. Hodges" initials="J." surname="Hodges">
+      <organization/>
+    </author>
+    <author fullname="C. Jackson" initials="C." surname="Jackson">
+      <organization/>
+    </author>
+    <author fullname="A. Barth" initials="A." surname="Barth">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>websec</workgroup>
-    <keyword>HTTPS</keyword>
-    <keyword>TLS</keyword>
-    <keyword>SSL</keyword>
-    <keyword>ForceHTTPS</keyword>
-    <keyword>man-in-the-middle</keyword>
-    <keyword>MITM</keyword>
-    <keyword>certificate error</keyword>
-    <keyword>certificate verification</keyword>
-    <keyword>security policy</keyword>
-    <keyword>secure transport</keyword>
-    <keyword>IDNA-Canonicalization</keyword>
-    <abstract>This specification defines a mechanism enabling web sites to declare themselves accessible only via secure connections and/or for users to be able to direct their user agent(s) to interact with given sites only over secure connections.  This overall policy is referred to as HTTP Strict Transport Security (HSTS).  The policy is declared by web sites via the Strict-Transport-Security HTTP response header field and/or by other means, such as user agent configuration, for example. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines a mechanism enabling web sites to declare themselves accessible only via secure connections and/or for users to be able to direct their user agent(s) to interact with given sites only over secure connections.  This overall policy is referred to as HTTP Strict Transport Security (HSTS).  The policy is declared by web sites via the Strict-Transport-Security HTTP response header field and/or by other means, such as user agent configuration, for example. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6797"/>
+  <seriesInfo name="RFC" value="6797"/>
 </reference>

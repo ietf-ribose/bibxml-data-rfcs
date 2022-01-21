@@ -1,17 +1,27 @@
 <reference anchor="RFC3016" target="https://www.rfc-editor.org/info/rfc3016">
   <front>
     <title>RTP Payload Format for MPEG-4 Audio/Visual Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3016"/>
-    <author fullname="Y. Kikuchi"/>
-    <author fullname="T. Nomura"/>
-    <author fullname="S. Fukunaga"/>
-    <author fullname="Y. Matsui"/>
-    <author fullname="H. Kimata"/>
+    <author fullname="Y. Kikuchi" initials="Y." surname="Kikuchi">
+      <organization/>
+    </author>
+    <author fullname="T. Nomura" initials="T." surname="Nomura">
+      <organization/>
+    </author>
+    <author fullname="S. Fukunaga" initials="S." surname="Fukunaga">
+      <organization/>
+    </author>
+    <author fullname="Y. Matsui" initials="Y." surname="Matsui">
+      <organization/>
+    </author>
+    <author fullname="H. Kimata" initials="H." surname="Kimata">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>avt</workgroup>
-    <keyword>real-time transport</keyword>
-    <keyword>protocol</keyword>
-    <keyword>media-type</keyword>
-    <abstract>This document describes Real-Time Transport Protocol (RTP) payload formats for carrying each of MPEG-4 Audio and MPEG-4 Visual bitstreams without using MPEG-4 Systems. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes Real-Time Transport Protocol (RTP) payload formats for carrying each of MPEG-4 Audio and MPEG-4 Visual bitstreams without using MPEG-4 Systems. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3016"/>
+  <seriesInfo name="RFC" value="3016"/>
 </reference>

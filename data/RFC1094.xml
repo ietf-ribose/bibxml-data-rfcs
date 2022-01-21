@@ -1,10 +1,14 @@
 <reference anchor="RFC1094" target="https://www.rfc-editor.org/info/rfc1094">
   <front>
     <title>NFS: Network File System Protocol specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1094"/>
-    <author fullname="B. Nowicki"/>
+    <author fullname="B. Nowicki" initials="B." surname="Nowicki">
+      <organization/>
+    </author>
     <date year="1989" month="March"/>
-    <keyword>SUN-NFS</keyword>
-    <abstract>This RFC describes a protocol that Sun Microsystems, Inc., and others are using.  A new version of the protocol is under development, but others may benefit from the descriptions of the current protocol, and discussion of some of the design issues.</abstract>
+    <abstract>
+      <t>This RFC describes a protocol that Sun Microsystems, Inc., and others are using.  A new version of the protocol is under development, but others may benefit from the descriptions of the current protocol, and discussion of some of the design issues.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1094"/>
+  <seriesInfo name="RFC" value="1094"/>
 </reference>

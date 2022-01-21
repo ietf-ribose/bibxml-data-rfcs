@@ -1,12 +1,18 @@
 <reference anchor="RFC8757" target="https://www.rfc-editor.org/info/rfc8757">
   <front>
     <title>Dynamic Link Exchange Protocol (DLEP) Latency Range Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8757"/>
-    <author fullname="B. Cheng"/>
-    <author fullname="L. Berger"/>
+    <author fullname="B. Cheng" initials="B." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
     <date year="2020" month="March"/>
     <workgroup>manet</workgroup>
-    <keyword>MANET</keyword>
-    <abstract>This document defines an extension to the Dynamic Link Exchange Protocol (DLEP) to provide the range of latency that can be experienced on a link.</abstract>
+    <abstract>
+      <t>This document defines an extension to the Dynamic Link Exchange Protocol (DLEP) to provide the range of latency that can be experienced on a link.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8757"/>
+  <seriesInfo name="RFC" value="8757"/>
 </reference>

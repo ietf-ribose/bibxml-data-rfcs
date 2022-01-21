@@ -1,19 +1,29 @@
 <reference anchor="RFC2490" target="https://www.rfc-editor.org/info/rfc2490">
   <front>
     <title>A Simulation Model for IP Multicast with RSVP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2490"/>
-    <author fullname="M. Pullen"/>
-    <author fullname="R. Malghan"/>
-    <author fullname="L. Lavu"/>
-    <author fullname="G. Duan"/>
-    <author fullname="J. Ma"/>
-    <author fullname="H. Nah"/>
+    <author fullname="M. Pullen" initials="M." surname="Pullen">
+      <organization/>
+    </author>
+    <author fullname="R. Malghan" initials="R." surname="Malghan">
+      <organization/>
+    </author>
+    <author fullname="L. Lavu" initials="L." surname="Lavu">
+      <organization/>
+    </author>
+    <author fullname="G. Duan" initials="G." surname="Duan">
+      <organization/>
+    </author>
+    <author fullname="J. Ma" initials="J." surname="Ma">
+      <organization/>
+    </author>
+    <author fullname="H. Nah" initials="H." surname="Nah">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>ipv4</keyword>
-    <abstract>This document describes a detailed model of IPv4 multicast with RSVP that has been developed using the OPNET simulation package, with protocol procedures defined in the C language.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a detailed model of IPv4 multicast with RSVP that has been developed using the OPNET simulation package, with protocol procedures defined in the C language.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2490"/>
+  <seriesInfo name="RFC" value="2490"/>
 </reference>

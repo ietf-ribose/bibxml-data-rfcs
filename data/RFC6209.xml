@@ -1,14 +1,24 @@
 <reference anchor="RFC6209" target="https://www.rfc-editor.org/info/rfc6209">
   <front>
     <title>Addition of the ARIA Cipher Suites to Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6209"/>
-    <author fullname="W. Kim"/>
-    <author fullname="J. Lee"/>
-    <author fullname="J. Park"/>
-    <author fullname="D. Kwon"/>
+    <author fullname="W. Kim" initials="W." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J. Park" initials="J." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="D. Kwon" initials="D." surname="Kwon">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>aria encryption</keyword>
-    <abstract>This document specifies a set of cipher suites for the Transport Layer Security (TLS) protocol to support the ARIA encryption algorithm as a block cipher.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document specifies a set of cipher suites for the Transport Layer Security (TLS) protocol to support the ARIA encryption algorithm as a block cipher.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6209"/>
+  <seriesInfo name="RFC" value="6209"/>
 </reference>

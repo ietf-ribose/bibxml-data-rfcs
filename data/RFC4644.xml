@@ -1,14 +1,19 @@
 <reference anchor="RFC4644" target="https://www.rfc-editor.org/info/rfc4644">
   <front>
     <title>Network News Transfer Protocol (NNTP) Extension for Streaming Feeds</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4644"/>
-    <author fullname="J. Vinocur"/>
-    <author fullname="K. Murchison"/>
+    <author fullname="J. Vinocur" initials="J." surname="Vinocur">
+      <organization/>
+    </author>
+    <author fullname="K. Murchison" initials="K." surname="Murchison">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>nntpext</workgroup>
-    <keyword>check</keyword>
-    <keyword>takethis</keyword>
-    <keyword>mode stream</keyword>
-    <abstract>This memo defines an extension to the Network News Transfer Protocol (NNTP) to provide asynchronous (otherwise known as "streaming") transfer of articles. This allows servers to transfer articles to other servers with much greater efficiency. This document updates and formalizes the CHECK and TAKETHIS commands specified in RFC 2980 and deprecates the MODE STREAM command. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Network News Transfer Protocol (NNTP) to provide asynchronous (otherwise known as "streaming") transfer of articles. This allows servers to transfer articles to other servers with much greater efficiency.</t>
+      <t>This document updates and formalizes the CHECK and TAKETHIS commands specified in RFC 2980 and deprecates the MODE STREAM command. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4644"/>
+  <seriesInfo name="RFC" value="4644"/>
 </reference>

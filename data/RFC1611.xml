@@ -1,18 +1,18 @@
 <reference anchor="RFC1611" target="https://www.rfc-editor.org/info/rfc1611">
   <front>
     <title>DNS Server MIB Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1611"/>
-    <author fullname="R. Austein"/>
-    <author fullname="J. Saperia"/>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
+    <author fullname="J. Saperia" initials="J." surname="Saperia">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
     <workgroup>dns</workgroup>
-    <keyword>DNS-S-MIB</keyword>
-    <keyword>Domain</keyword>
-    <keyword>Name</keyword>
-    <keyword>System</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes a set of extensions which instrument DNS name server functions.  This memo was produced by the DNS working group. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes a set of extensions which instrument DNS name server functions.  This memo was produced by the DNS working group. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1611"/>
+  <seriesInfo name="RFC" value="1611"/>
 </reference>

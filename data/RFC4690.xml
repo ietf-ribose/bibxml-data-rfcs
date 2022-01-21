@@ -1,16 +1,23 @@
 <reference anchor="RFC4690" target="https://www.rfc-editor.org/info/rfc4690">
   <front>
     <title>Review and Recommendations for Internationalized Domain Names (IDNs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4690"/>
-    <author fullname="J. Klensin"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="C. Karp"/>
-    <author fullname="IAB"/>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="C. Karp" initials="C." surname="Karp">
+      <organization/>
+    </author>
+    <author fullname="IAB" initials="IAB" surname="">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
-    <keyword>dns</keyword>
-    <keyword>domain namespace</keyword>
-    <keyword>idna</keyword>
-    <keyword>internationalizing domain names in applications</keyword>
-    <abstract>This note describes issues raised by the deployment and use of Internationalized Domain Names.  It describes problems both at the time of registration and for use of those names in the DNS.  It recommends that IETF should update the RFCs relating to IDNs and a framework to be followed in doing so, as well as summarizing and identifying some work that is required outside the IETF.  In particular, it proposes that some changes be investigated for the Internationalizing Domain Names in Applications (IDNA) standard and its supporting tables, based on experience gained since those standards were completed.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This note describes issues raised by the deployment and use of Internationalized Domain Names.  It describes problems both at the time of registration and for use of those names in the DNS.  It recommends that IETF should update the RFCs relating to IDNs and a framework to be followed in doing so, as well as summarizing and identifying some work that is required outside the IETF.  In particular, it proposes that some changes be investigated for the Internationalizing Domain Names in Applications (IDNA) standard and its supporting tables, based on experience gained since those standards were completed.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4690"/>
+  <seriesInfo name="RFC" value="4690"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="RFC1146" target="https://www.rfc-editor.org/info/rfc1146">
   <front>
     <title>TCP alternate checksum options</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1146"/>
-    <author fullname="J. Zweig"/>
-    <author fullname="C. Partridge"/>
+    <author fullname="J. Zweig" initials="J." surname="Zweig">
+      <organization/>
+    </author>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
     <date year="1990" month="March"/>
-    <keyword>TCP-ACO</keyword>
-    <abstract>This memo is suggests a pair of TCP options to allow use of alternate data checksum algorithms in the TCP header.  The use of these options is experimental, and not recommended for production use.  Note: This RFC corrects errors introduced in the editing process in RFC 1145.</abstract>
+    <abstract>
+      <t>This memo is suggests a pair of TCP options to allow use of alternate data checksum algorithms in the TCP header.  The use of these options is experimental, and not recommended for production use.  Note: This RFC corrects errors introduced in the editing process in RFC 1145.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1146"/>
+  <seriesInfo name="RFC" value="1146"/>
 </reference>

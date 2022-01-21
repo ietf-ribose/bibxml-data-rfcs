@@ -1,13 +1,18 @@
 <reference anchor="RFC6578" target="https://www.rfc-editor.org/info/rfc6578">
   <front>
     <title>Collection Synchronization for Web Distributed Authoring and Versioning (WebDAV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6578"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="A. Quillaud"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="A. Quillaud" initials="A." surname="Quillaud">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>sync-collection</keyword>
-    <keyword>sync-token</keyword>
-    <abstract>This specification defines an extension to Web Distributed Authoring and Versioning (WebDAV) that allows efficient synchronization of the contents of a WebDAV collection. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an extension to Web Distributed Authoring and Versioning (WebDAV) that allows efficient synchronization of the contents of a WebDAV collection. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6578"/>
+  <seriesInfo name="RFC" value="6578"/>
 </reference>

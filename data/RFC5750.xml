@@ -1,18 +1,18 @@
 <reference anchor="RFC5750" target="https://www.rfc-editor.org/info/rfc5750">
   <front>
     <title>Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 3.2 Certificate Handling</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5750"/>
-    <author fullname="B. Ramsdell"/>
-    <author fullname="S. Turner"/>
+    <author fullname="B. Ramsdell" initials="B." surname="Ramsdell">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2010" month="January"/>
     <workgroup>smime</workgroup>
-    <keyword>encryption</keyword>
-    <keyword>certificate</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail </keyword>
-    <keyword>extensions</keyword>
-    <keyword>secure</keyword>
-    <abstract>This document specifies conventions for X.509 certificate usage by Secure/Multipurpose Internet Mail Extensions (S/MIME) v3.2 agents.  S/MIME provides a method to send and receive secure MIME messages, and certificates are an integral part of S/MIME agent processing.  S/MIME agents validate certificates as described in RFC 5280, the Internet X.509 Public Key Infrastructure Certificate and CRL Profile.  S/MIME agents must meet the certificate processing requirements in this document as well as those in RFC 5280.  This document obsoletes RFC 3850. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies conventions for X.509 certificate usage by Secure/Multipurpose Internet Mail Extensions (S/MIME) v3.2 agents.  S/MIME provides a method to send and receive secure MIME messages, and certificates are an integral part of S/MIME agent processing.  S/MIME agents validate certificates as described in RFC 5280, the Internet X.509 Public Key Infrastructure Certificate and CRL Profile.  S/MIME agents must meet the certificate processing requirements in this document as well as those in RFC 5280.  This document obsoletes RFC 3850. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5750"/>
+  <seriesInfo name="RFC" value="5750"/>
 </reference>

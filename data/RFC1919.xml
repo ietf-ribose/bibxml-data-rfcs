@@ -1,11 +1,14 @@
 <reference anchor="RFC1919" target="https://www.rfc-editor.org/info/rfc1919">
   <front>
     <title>Classical versus Transparent IP Proxies</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1919"/>
-    <author fullname="M. Chatel"/>
+    <author fullname="M. Chatel" initials="M." surname="Chatel">
+      <organization/>
+    </author>
     <date year="1996" month="March"/>
-    <keyword>firewalls</keyword>
-    <keyword>security</keyword>
-    <abstract>This document explains "classical" and "transparent" proxy techniques and attempts to provide rules to help determine when each proxy system may be used without causing problems.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document explains "classical" and "transparent" proxy techniques and attempts to provide rules to help determine when each proxy system may be used without causing problems.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1919"/>
+  <seriesInfo name="RFC" value="1919"/>
 </reference>

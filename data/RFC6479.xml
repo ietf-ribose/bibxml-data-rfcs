@@ -1,10 +1,17 @@
 <reference anchor="RFC6479" target="https://www.rfc-editor.org/info/rfc6479">
   <front>
     <title>IPsec Anti-Replay Algorithm without Bit Shifting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6479"/>
-    <author fullname="X. Zhang"/>
-    <author fullname="T. Tsou"/>
+    <author fullname="X. Zhang" initials="X." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
     <date year="2012" month="January"/>
-    <abstract>This document presents an alternate method to do the anti-replay checks and updates for IP Authentication Header (AH) and Encapsulating Security Protocol (ESP).  The method defined in this document obviates the need for bit shifting and it reduces the number of times an anti-replay window is adjusted.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document presents an alternate method to do the anti-replay checks and updates for IP Authentication Header (AH) and Encapsulating Security Protocol (ESP).  The method defined in this document obviates the need for bit shifting and it reduces the number of times an anti-replay window is adjusted.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6479"/>
+  <seriesInfo name="RFC" value="6479"/>
 </reference>

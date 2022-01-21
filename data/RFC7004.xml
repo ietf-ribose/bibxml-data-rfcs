@@ -1,18 +1,24 @@
 <reference anchor="RFC7004" target="https://www.rfc-editor.org/info/rfc7004">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Blocks for Summary Statistics Metrics Reporting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7004"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="R. Schott"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="R. Huang"/>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="R. Schott" initials="R." surname="Schott">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="R. Huang" initials="R." surname="Huang">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>xrblock</workgroup>
-    <keyword>RTCP XR</keyword>
-    <keyword>Summary Statistics</keyword>
-    <keyword>Burst/Gap Loss</keyword>
-    <keyword>Burst/Gap Discard</keyword>
-    <keyword>Frame Impairment</keyword>
-    <abstract>This document defines three RTP Control Protocol (RTCP) Extended Report (XR) blocks that allow the reporting of loss, duplication, and discard summary statistics metrics in a range of RTP applications.</abstract>
+    <abstract>
+      <t>This document defines three RTP Control Protocol (RTCP) Extended Report (XR) blocks that allow the reporting of loss, duplication, and discard summary statistics metrics in a range of RTP applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7004"/>
+  <seriesInfo name="RFC" value="7004"/>
 </reference>

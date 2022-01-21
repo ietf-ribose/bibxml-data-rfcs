@@ -1,15 +1,19 @@
 <reference anchor="RFC5481" target="https://www.rfc-editor.org/info/rfc5481">
   <front>
     <title>Packet Delay Variation Applicability Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5481"/>
-    <author fullname="A. Morton"/>
-    <author fullname="B. Claise"/>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>ippm</workgroup>
-    <keyword>active measurement</keyword>
-    <keyword>ipdv</keyword>
-    <keyword>pdv</keyword>
-    <keyword>inter-packet delay variation</keyword>
-    <abstract>Packet delay variation metrics appear in many different standards documents. The metric definition in RFC 3393 has considerable flexibility, and it allows multiple formulations of delay variation through the specification of different packet selection functions. Although flexibility provides wide coverage and room for new ideas, it can make comparisons of independent implementations more difficult. Two different formulations of delay variation have come into wide use in the context of active measurements. This memo examines a range of circumstances for active measurements of delay variation and their uses, and recommends which of the two forms is best matched to particular conditions and tasks. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Packet delay variation metrics appear in many different standards documents. The metric definition in RFC 3393 has considerable flexibility, and it allows multiple formulations of delay variation through the specification of different packet selection functions.</t>
+      <t>Although flexibility provides wide coverage and room for new ideas, it can make comparisons of independent implementations more difficult. Two different formulations of delay variation have come into wide use in the context of active measurements. This memo examines a range of circumstances for active measurements of delay variation and their uses, and recommends which of the two forms is best matched to particular conditions and tasks. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5481"/>
+  <seriesInfo name="RFC" value="5481"/>
 </reference>

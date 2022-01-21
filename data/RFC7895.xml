@@ -1,14 +1,21 @@
 <reference anchor="RFC7895" target="https://www.rfc-editor.org/info/rfc7895">
   <front>
     <title>YANG Module Library</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7895"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="K. Watsen"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>netconf</workgroup>
-    <keyword>NETCONF</keyword>
-    <keyword>RESTCONF</keyword>
-    <abstract>This document describes a YANG library that provides information about all the YANG modules used by a network management server (e.g., a Network Configuration Protocol (NETCONF) server).  Simple caching mechanisms are provided to allow clients to minimize retrieval of this information.</abstract>
+    <abstract>
+      <t>This document describes a YANG library that provides information about all the YANG modules used by a network management server (e.g., a Network Configuration Protocol (NETCONF) server).  Simple caching mechanisms are provided to allow clients to minimize retrieval of this information.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7895"/>
+  <seriesInfo name="RFC" value="7895"/>
 </reference>

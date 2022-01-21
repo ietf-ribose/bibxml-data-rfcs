@@ -1,16 +1,27 @@
 <reference anchor="RFC7977" target="https://www.rfc-editor.org/info/rfc7977">
   <front>
     <title>The WebSocket Protocol as a Transport for the Message Session Relay Protocol (MSRP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7977"/>
-    <author fullname="P. Dunkley"/>
-    <author fullname="G. Llewellyn"/>
-    <author fullname="V. Pascual"/>
-    <author fullname="G. Salgueiro"/>
-    <author fullname="R. Ravindranath"/>
+    <author fullname="P. Dunkley" initials="P." surname="Dunkley">
+      <organization/>
+    </author>
+    <author fullname="G. Llewellyn" initials="G." surname="Llewellyn">
+      <organization/>
+    </author>
+    <author fullname="V. Pascual" initials="V." surname="Pascual">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
     <date year="2016" month="September"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>MSRP</keyword>
-    <keyword>WebSocket</keyword>
-    <abstract>The WebSocket protocol enables two-way real-time communication between clients and servers in situations where direct access to TCP and UDP is not available (for example, from within JavaScript in a web browser).  This document specifies a new WebSocket subprotocol as a reliable transport mechanism between Message Session Relay Protocol (MSRP) clients and relays to enable usage of MSRP in new scenarios.  This document normatively updates RFCs 4975 and 4976.</abstract>
+    <abstract>
+      <t>The WebSocket protocol enables two-way real-time communication between clients and servers in situations where direct access to TCP and UDP is not available (for example, from within JavaScript in a web browser).  This document specifies a new WebSocket subprotocol as a reliable transport mechanism between Message Session Relay Protocol (MSRP) clients and relays to enable usage of MSRP in new scenarios.  This document normatively updates RFCs 4975 and 4976.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7977"/>
+  <seriesInfo name="RFC" value="7977"/>
 </reference>

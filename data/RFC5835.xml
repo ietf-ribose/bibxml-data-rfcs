@@ -1,11 +1,18 @@
 <reference anchor="RFC5835" target="https://www.rfc-editor.org/info/rfc5835">
   <front>
     <title>Framework for Metric Composition</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5835"/>
-    <author fullname="A. Morton"/>
-    <author fullname="S. Van den Berghe"/>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
+    <author fullname="S. Van den Berghe" initials="S." surname="Van">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>ippm</workgroup>
-    <abstract>This memo describes a detailed framework for composing and aggregating metrics (both in time and in space) originally defined by the IP Performance Metrics (IPPM), RFC 2330, and developed by the IETF.  This new framework memo describes the generic composition and aggregation mechanisms.  The memo provides a basis for additional documents that implement the framework to define detailed compositions and aggregations of metrics that are useful in practice.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo describes a detailed framework for composing and aggregating metrics (both in time and in space) originally defined by the IP Performance Metrics (IPPM), RFC 2330, and developed by the IETF.  This new framework memo describes the generic composition and aggregation mechanisms.  The memo provides a basis for additional documents that implement the framework to define detailed compositions and aggregations of metrics that are useful in practice.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5835"/>
+  <seriesInfo name="RFC" value="5835"/>
 </reference>

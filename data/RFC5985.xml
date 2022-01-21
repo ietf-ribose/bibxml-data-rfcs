@@ -1,12 +1,15 @@
 <reference anchor="RFC5985" target="https://www.rfc-editor.org/info/rfc5985">
   <front>
     <title>HTTP-Enabled Location Delivery (HELD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5985"/>
-    <author fullname="M. Barnes"/>
+    <author fullname="M. Barnes" initials="M." surname="Barnes">
+      <organization/>
+    </author>
     <date year="2010" month="September"/>
     <workgroup>geopriv</workgroup>
-    <keyword>layer 7 location configuration protocol</keyword>
-    <keyword>l7 lcp</keyword>
-    <abstract>This document defines a Layer 7 Location Configuration Protocol (L7 LCP) and describes the use of HTTP and HTTP/TLS as transports for the L7 LCP.  The L7 LCP is used for retrieving location information from a server within an access network.  It includes options for retrieving location information in two forms: by value and by reference.  The protocol is an extensible application-layer protocol that is independent of the session layer. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a Layer 7 Location Configuration Protocol (L7 LCP) and describes the use of HTTP and HTTP/TLS as transports for the L7 LCP.  The L7 LCP is used for retrieving location information from a server within an access network.  It includes options for retrieving location information in two forms: by value and by reference.  The protocol is an extensible application-layer protocol that is independent of the session layer. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5985"/>
+  <seriesInfo name="RFC" value="5985"/>
 </reference>

@@ -1,20 +1,24 @@
 <reference anchor="RFC1908" target="https://www.rfc-editor.org/info/rfc1908">
   <front>
     <title>Coexistence between Version 1 and Version 2 of the Internet-standard Network Management Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1908"/>
-    <author fullname="J. Case"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="M. Rose"/>
-    <author fullname="S. Waldbusser"/>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
     <date year="1996" month="January"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>COEX-MIB</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Version</keyword>
-    <keyword>2</keyword>
-    <abstract>The purpose of this document is to describe coexistence between version 2 of the Internet-standard Network Management Framework [1-6], termed the SNMP version 2 framework (SNMPv2), and the original Internet- standard Network Management Framework (SNMPv1). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The purpose of this document is to describe coexistence between version 2 of the Internet-standard Network Management Framework [1-6], termed the SNMP version 2 framework (SNMPv2), and the original Internet- standard Network Management Framework (SNMPv1). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1908"/>
+  <seriesInfo name="RFC" value="1908"/>
 </reference>

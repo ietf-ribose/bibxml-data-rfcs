@@ -1,10 +1,15 @@
 <reference anchor="RFC5243" target="https://www.rfc-editor.org/info/rfc5243">
   <front>
     <title>OSPF Database Exchange Summary List Optimization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5243"/>
-    <author fullname="R. Ogier"/>
+    <author fullname="R. Ogier" initials="R." surname="Ogier">
+      <organization/>
+    </author>
     <date year="2008" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document describes a backward-compatible optimization for the Database Exchange process in OSPFv2 and OSPFv3.  In this optimization, a router does not list a Link State Advertisement (LSA) in Database Description packets sent to a neighbor, if the same or a more recent instance of the LSA was listed in a Database Description packet already received from the neighbor.  This optimization reduces Database Description overhead by about 50% in large networks.  This optimization does not affect synchronization, since it only omits unnecessary information from Database Description packets.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a backward-compatible optimization for the Database Exchange process in OSPFv2 and OSPFv3.  In this optimization, a router does not list a Link State Advertisement (LSA) in Database Description packets sent to a neighbor, if the same or a more recent instance of the LSA was listed in a Database Description packet already received from the neighbor.  This optimization reduces Database Description overhead by about 50% in large networks.  This optimization does not affect synchronization, since it only omits unnecessary information from Database Description packets.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5243"/>
+  <seriesInfo name="RFC" value="5243"/>
 </reference>

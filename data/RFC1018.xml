@@ -1,9 +1,14 @@
 <reference anchor="RFC1018" target="https://www.rfc-editor.org/info/rfc1018">
   <front>
     <title>Some comments on SQuID</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1018"/>
-    <author fullname="A.M. McKenzie"/>
+    <author fullname="A.M. McKenzie" initials="A.M." surname="McKenzie">
+      <organization/>
+    </author>
     <date year="1987" month="August"/>
-    <abstract>This memo is a discussion of some of the ideas expressed in RFC-1016 on Source Quench.  This memo introduces the distinction of the cause of congestion in a gateway between the effects of "Funneling" and "Mismatch".  It is offered in the same spirit as RFC-1016; to stimulate discussion.  The opinions offered are personal, not corporate, opinions.  Distribution of this memo is unlimited.</abstract>
+    <abstract>
+      <t>This memo is a discussion of some of the ideas expressed in RFC-1016 on Source Quench.  This memo introduces the distinction of the cause of congestion in a gateway between the effects of "Funneling" and "Mismatch".  It is offered in the same spirit as RFC-1016; to stimulate discussion.  The opinions offered are personal, not corporate, opinions.  Distribution of this memo is unlimited.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1018"/>
+  <seriesInfo name="RFC" value="1018"/>
 </reference>

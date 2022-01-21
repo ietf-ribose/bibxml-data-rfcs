@@ -1,13 +1,15 @@
 <reference anchor="RFC8142" target="https://www.rfc-editor.org/info/rfc8142">
   <front>
     <title>GeoJSON Text Sequences</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8142"/>
-    <author fullname="S. Gillies"/>
+    <author fullname="S. Gillies" initials="S." surname="Gillies">
+      <organization/>
+    </author>
     <date year="2017" month="April"/>
     <workgroup>geojson</workgroup>
-    <keyword>JSON</keyword>
-    <keyword>Geospatial</keyword>
-    <keyword>JavaScript Object Notation</keyword>
-    <abstract>This document describes the GeoJSON text sequence format and "application/geo+json-seq" media type.  This format is based on JavaScript Object Notation (JSON) text sequences and GeoJSON, and it makes arbitrarily large geographic datasets incrementally parseable without restricting the form of GeoJSON texts within a sequence.</abstract>
+    <abstract>
+      <t>This document describes the GeoJSON text sequence format and "application/geo+json-seq" media type.  This format is based on JavaScript Object Notation (JSON) text sequences and GeoJSON, and it makes arbitrarily large geographic datasets incrementally parseable without restricting the form of GeoJSON texts within a sequence.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8142"/>
+  <seriesInfo name="RFC" value="8142"/>
 </reference>

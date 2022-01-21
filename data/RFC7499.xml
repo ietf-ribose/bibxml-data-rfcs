@@ -1,20 +1,30 @@
 <reference anchor="RFC7499" target="https://www.rfc-editor.org/info/rfc7499">
   <front>
     <title>Support of Fragmentation of RADIUS Packets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7499"/>
-    <author fullname="A. Perez-Mendez"/>
-    <author fullname="R. Marin-Lopez"/>
-    <author fullname="F. Pereniguez-Garcia"/>
-    <author fullname="G. Lopez-Millan"/>
-    <author fullname="D. Lopez"/>
-    <author fullname="A. DeKok"/>
+    <author fullname="A. Perez-Mendez" initials="A." surname="Perez-Mendez">
+      <organization/>
+    </author>
+    <author fullname="R. Marin-Lopez" initials="R." surname="Marin-Lopez">
+      <organization/>
+    </author>
+    <author fullname="F. Pereniguez-Garcia" initials="F." surname="Pereniguez-Garcia">
+      <organization/>
+    </author>
+    <author fullname="G. Lopez-Millan" initials="G." surname="Lopez-Millan">
+      <organization/>
+    </author>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="A. DeKok" initials="A." surname="DeKok">
+      <organization/>
+    </author>
     <date year="2015" month="April"/>
     <workgroup>radext</workgroup>
-    <keyword>RADIUS</keyword>
-    <keyword>attribute</keyword>
-    <keyword>extension</keyword>
-    <keyword>fragmentation</keyword>
-    <keyword>chunk</keyword>
-    <abstract>The Remote Authentication Dial-In User Service (RADIUS) protocol is limited to a total packet size of 4096 bytes.  Provisions exist for fragmenting large amounts of authentication data across multiple packets, via Access-Challenge packets.  No similar provisions exist for fragmenting large amounts of authorization data.  This document specifies how existing RADIUS mechanisms can be leveraged to provide that functionality.  These mechanisms are largely compatible with existing implementations, and they are designed to be invisible to proxies and "fail-safe" to legacy RADIUS Clients and Servers.</abstract>
+    <abstract>
+      <t>The Remote Authentication Dial-In User Service (RADIUS) protocol is limited to a total packet size of 4096 bytes.  Provisions exist for fragmenting large amounts of authentication data across multiple packets, via Access-Challenge packets.  No similar provisions exist for fragmenting large amounts of authorization data.  This document specifies how existing RADIUS mechanisms can be leveraged to provide that functionality.  These mechanisms are largely compatible with existing implementations, and they are designed to be invisible to proxies and "fail-safe" to legacy RADIUS Clients and Servers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7499"/>
+  <seriesInfo name="RFC" value="7499"/>
 </reference>

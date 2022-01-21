@@ -1,19 +1,27 @@
 <reference anchor="RFC3748" target="https://www.rfc-editor.org/info/rfc3748">
   <front>
     <title>Extensible Authentication Protocol (EAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3748"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="L. Blunk"/>
-    <author fullname="J. Vollbrecht"/>
-    <author fullname="J. Carlson"/>
-    <author fullname="H. Levkowetz"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="L. Blunk" initials="L." surname="Blunk">
+      <organization/>
+    </author>
+    <author fullname="J. Vollbrecht" initials="J." surname="Vollbrecht">
+      <organization/>
+    </author>
+    <author fullname="J. Carlson" initials="J." surname="Carlson">
+      <organization/>
+    </author>
+    <author fullname="H. Levkowetz" initials="H." surname="Levkowetz">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>eap</workgroup>
-    <keyword>PPP-EAP</keyword>
-    <keyword>data link layers</keyword>
-    <keyword>ppp</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>ieee 802</keyword>
-    <abstract>This document defines the Extensible Authentication Protocol (EAP), an authentication framework which supports multiple authentication methods.  EAP typically runs directly over data link layers such as Point-to-Point Protocol (PPP) or IEEE 802, without requiring IP.  EAP provides its own support for duplicate elimination and retransmission, but is reliant on lower layer ordering guarantees.  Fragmentation is not supported within EAP itself; however, individual EAP methods may support this.  This document obsoletes RFC 2284.  A summary of the changes between this document and RFC 2284 is available in Appendix A. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Extensible Authentication Protocol (EAP), an authentication framework which supports multiple authentication methods.  EAP typically runs directly over data link layers such as Point-to-Point Protocol (PPP) or IEEE 802, without requiring IP.  EAP provides its own support for duplicate elimination and retransmission, but is reliant on lower layer ordering guarantees.  Fragmentation is not supported within EAP itself; however, individual EAP methods may support this.  This document obsoletes RFC 2284.  A summary of the changes between this document and RFC 2284 is available in Appendix A. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3748"/>
+  <seriesInfo name="RFC" value="3748"/>
 </reference>

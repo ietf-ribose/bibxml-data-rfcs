@@ -1,16 +1,27 @@
 <reference anchor="RFC8428" target="https://www.rfc-editor.org/info/rfc8428">
   <front>
     <title>Sensor Measurement Lists (SenML)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8428"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="Z. Shelby"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="A. Keranen"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="Z. Shelby" initials="Z." surname="Shelby">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="2018" month="August"/>
     <workgroup>core</workgroup>
-    <keyword>IoT</keyword>
-    <keyword>data model</keyword>
-    <abstract>This specification defines a format for representing simple sensor measurements and device parameters in Sensor Measurement Lists (SenML).  Representations are defined in JavaScript Object Notation (JSON), Concise Binary Object Representation (CBOR), Extensible Markup Language (XML), and Efficient XML Interchange (EXI), which share the common SenML data model.  A simple sensor, such as a temperature sensor, could use one of these media types in protocols such as HTTP or the Constrained Application Protocol (CoAP) to transport the measurements of the sensor or to be configured.</abstract>
+    <abstract>
+      <t>This specification defines a format for representing simple sensor measurements and device parameters in Sensor Measurement Lists (SenML).  Representations are defined in JavaScript Object Notation (JSON), Concise Binary Object Representation (CBOR), Extensible Markup Language (XML), and Efficient XML Interchange (EXI), which share the common SenML data model.  A simple sensor, such as a temperature sensor, could use one of these media types in protocols such as HTTP or the Constrained Application Protocol (CoAP) to transport the measurements of the sensor or to be configured.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8428"/>
+  <seriesInfo name="RFC" value="8428"/>
 </reference>

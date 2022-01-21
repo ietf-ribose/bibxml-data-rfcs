@@ -1,14 +1,18 @@
 <reference anchor="RFC2582" target="https://www.rfc-editor.org/info/rfc2582">
   <front>
     <title>The NewReno Modification to TCP's Fast Recovery Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2582"/>
-    <author fullname="S. Floyd"/>
-    <author fullname="T. Henderson"/>
+    <author fullname="S. Floyd" initials="S." surname="Floyd">
+      <organization/>
+    </author>
+    <author fullname="T. Henderson" initials="T." surname="Henderson">
+      <organization/>
+    </author>
     <date year="1999" month="April"/>
     <workgroup>tcpimpl</workgroup>
-    <keyword>Transmission</keyword>
-    <keyword>Control</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document describes a specific algorithm for responding to partial acknowledgments, referred to as NewReno.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a specific algorithm for responding to partial acknowledgments, referred to as NewReno.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2582"/>
+  <seriesInfo name="RFC" value="2582"/>
 </reference>

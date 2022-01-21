@@ -1,21 +1,30 @@
 <reference anchor="RFC3209" target="https://www.rfc-editor.org/info/rfc3209">
   <front>
     <title>RSVP-TE: Extensions to RSVP for LSP Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3209"/>
-    <author fullname="D. Awduche"/>
-    <author fullname="L. Berger"/>
-    <author fullname="D. Gan"/>
-    <author fullname="T. Li"/>
-    <author fullname="V. Srinivasan"/>
-    <author fullname="G. Swallow"/>
+    <author fullname="D. Awduche" initials="D." surname="Awduche">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="D. Gan" initials="D." surname="Gan">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="V. Srinivasan" initials="V." surname="Srinivasan">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
     <date year="2001" month="December"/>
     <workgroup>mpls</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>label</keyword>
-    <keyword>switched</keyword>
-    <keyword>paths</keyword>
-    <abstract>This document describes the use of RSVP (Resource Reservation Protocol), including all the necessary extensions, to establish label-switched paths (LSPs) in MPLS (Multi-Protocol Label Switching).  Since the flow along an LSP is completely identified by the label applied at the ingress node of the path, these paths may be treated as tunnels.  A key application of LSP tunnels is traffic engineering with MPLS as specified in RFC 2702. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of RSVP (Resource Reservation Protocol), including all the necessary extensions, to establish label-switched paths (LSPs) in MPLS (Multi-Protocol Label Switching).  Since the flow along an LSP is completely identified by the label applied at the ingress node of the path, these paths may be treated as tunnels.  A key application of LSP tunnels is traffic engineering with MPLS as specified in RFC 2702. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3209"/>
+  <seriesInfo name="RFC" value="3209"/>
 </reference>

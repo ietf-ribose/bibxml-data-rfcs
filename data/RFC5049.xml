@@ -1,13 +1,24 @@
 <reference anchor="RFC5049" target="https://www.rfc-editor.org/info/rfc5049">
   <front>
     <title>Applying Signaling Compression (SigComp) to the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5049"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="Z. Liu"/>
-    <author fullname="R. Price"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="Z. Liu" initials="Z." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="R. Price" initials="R." surname="Price">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>rohc</workgroup>
-    <abstract>This document describes some specifics that apply when Signaling Compression (SigComp) is applied to the Session Initiation Protocol (SIP), such as default minimum values of SigComp parameters, compartment and state management, and a few issues on SigComp over TCP.  Any implementation of SigComp for use with SIP must conform to this document and SigComp, and in addition, support the SIP and Session Description Protocol (SDP) static dictionary. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes some specifics that apply when Signaling Compression (SigComp) is applied to the Session Initiation Protocol (SIP), such as default minimum values of SigComp parameters, compartment and state management, and a few issues on SigComp over TCP.  Any implementation of SigComp for use with SIP must conform to this document and SigComp, and in addition, support the SIP and Session Description Protocol (SDP) static dictionary. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5049"/>
+  <seriesInfo name="RFC" value="5049"/>
 </reference>

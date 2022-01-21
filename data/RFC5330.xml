@@ -1,15 +1,24 @@
 <reference anchor="RFC5330" target="https://www.rfc-editor.org/info/rfc5330">
   <front>
     <title>A Link-Type sub-TLV to Convey the Number of Traffic Engineering Label Switched Paths Signalled with Zero Reserved Bandwidth across a Link</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5330"/>
-    <author fullname="JP. Vasseur"/>
-    <author fullname="M. Meyer"/>
-    <author fullname="K. Kumaki"/>
-    <author fullname="A. Bonda"/>
+    <author fullname="JP. Vasseur" initials="JP." surname="Vasseur">
+      <organization/>
+    </author>
+    <author fullname="M. Meyer" initials="M." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="K. Kumaki" initials="K." surname="Kumaki">
+      <organization/>
+    </author>
+    <author fullname="A. Bonda" initials="A." surname="Bonda">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>mpls</workgroup>
-    <keyword>te</keyword>
-    <keyword>lsp</keyword>
-    <abstract>Several Link-type sub-Type-Length-Values (sub-TLVs) have been defined for Open Shortest Path First (OSPF) and Intermediate System to Intermediate System (IS-IS) in the context of Multiprotocol Label Switching (MPLS) Traffic Engineering (TE), in order to advertise some link characteristics such as the available bandwidth, traffic engineering metric, administrative group, and so on.  By making statistical assumptions about the aggregated traffic carried onto a set of TE Label Switched Paths (LSPs) signalled with zero bandwidth (referred to as "unconstrained TE LSP" in this document), algorithms can be designed to load balance (existing or newly configured) unconstrained TE LSP across a set of equal cost paths.  This requires knowledge of the number of unconstrained TE LSPs signalled across a link.  This document specifies a new Link-type Traffic Engineering sub-TLV used to advertise the number of unconstrained TE LSPs signalled across a link. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Several Link-type sub-Type-Length-Values (sub-TLVs) have been defined for Open Shortest Path First (OSPF) and Intermediate System to Intermediate System (IS-IS) in the context of Multiprotocol Label Switching (MPLS) Traffic Engineering (TE), in order to advertise some link characteristics such as the available bandwidth, traffic engineering metric, administrative group, and so on.  By making statistical assumptions about the aggregated traffic carried onto a set of TE Label Switched Paths (LSPs) signalled with zero bandwidth (referred to as "unconstrained TE LSP" in this document), algorithms can be designed to load balance (existing or newly configured) unconstrained TE LSP across a set of equal cost paths.  This requires knowledge of the number of unconstrained TE LSPs signalled across a link.  This document specifies a new Link-type Traffic Engineering sub-TLV used to advertise the number of unconstrained TE LSPs signalled across a link. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5330"/>
+  <seriesInfo name="RFC" value="5330"/>
 </reference>

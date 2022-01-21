@@ -1,9 +1,14 @@
 <reference anchor="RFC1106" target="https://www.rfc-editor.org/info/rfc1106">
   <front>
     <title>TCP big window and NAK options</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1106"/>
-    <author fullname="R. Fox"/>
+    <author fullname="R. Fox" initials="R." surname="Fox">
+      <organization/>
+    </author>
     <date year="1989" month="June"/>
-    <abstract>This memo discusses two extensions to the TCP protocol to provide a more efficient operation over a network with a high bandwidth*delay product.  The extensions described in this document have been implemented and shown to work using resources at NASA.  This memo describes an Experimental Protocol, these extensions are not proposed as an Internet standard, but as a starting point for further research.</abstract>
+    <abstract>
+      <t>This memo discusses two extensions to the TCP protocol to provide a more efficient operation over a network with a high bandwidth*delay product.  The extensions described in this document have been implemented and shown to work using resources at NASA.  This memo describes an Experimental Protocol, these extensions are not proposed as an Internet standard, but as a starting point for further research.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1106"/>
+  <seriesInfo name="RFC" value="1106"/>
 </reference>

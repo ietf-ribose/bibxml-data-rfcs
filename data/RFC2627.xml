@@ -1,15 +1,20 @@
 <reference anchor="RFC2627" target="https://www.rfc-editor.org/info/rfc2627">
   <front>
     <title>Key Management for Multicast: Issues and Architectures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2627"/>
-    <author fullname="D. Wallner"/>
-    <author fullname="E. Harder"/>
-    <author fullname="R. Agee"/>
+    <author fullname="D. Wallner" initials="D." surname="Wallner">
+      <organization/>
+    </author>
+    <author fullname="E. Harder" initials="E." surname="Harder">
+      <organization/>
+    </author>
+    <author fullname="R. Agee" initials="R." surname="Agee">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
-    <keyword>communication</keyword>
-    <keyword>sessions</keyword>
-    <keyword>net key</keyword>
-    <keyword>rekey</keyword>
-    <abstract>This report contains a discussion of the difficult problem of key management for multicast communication sessions.  It focuses on two main areas of concern with respect to key management, which are, initializing the multicast group with a common net key and rekeying the multicast group.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This report contains a discussion of the difficult problem of key management for multicast communication sessions.  It focuses on two main areas of concern with respect to key management, which are, initializing the multicast group with a common net key and rekeying the multicast group.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2627"/>
+  <seriesInfo name="RFC" value="2627"/>
 </reference>

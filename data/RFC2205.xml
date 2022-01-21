@@ -1,21 +1,27 @@
 <reference anchor="RFC2205" target="https://www.rfc-editor.org/info/rfc2205">
   <front>
     <title>Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2205"/>
-    <author fullname="R. Braden"/>
-    <author fullname="L. Zhang"/>
-    <author fullname="S. Berson"/>
-    <author fullname="S. Herzog"/>
-    <author fullname="S. Jamin"/>
+    <author fullname="R. Braden" initials="R." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="S. Berson" initials="S." surname="Berson">
+      <organization/>
+    </author>
+    <author fullname="S. Herzog" initials="S." surname="Herzog">
+      <organization/>
+    </author>
+    <author fullname="S. Jamin" initials="S." surname="Jamin">
+      <organization/>
+    </author>
     <date year="1997" month="September"/>
     <workgroup>rsvp</workgroup>
-    <keyword>RSVP</keyword>
-    <keyword>integrated</keyword>
-    <keyword>services</keyword>
-    <keyword>multicast</keyword>
-    <keyword>unicast</keyword>
-    <keyword>QoS</keyword>
-    <keyword>signaling</keyword>
-    <abstract>This memo describes version 1 of RSVP, a resource reservation setup protocol designed for an integrated services Internet.  RSVP provides receiver-initiated setup of resource reservations for multicast or unicast data flows, with good scaling and robustness properties. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes version 1 of RSVP, a resource reservation setup protocol designed for an integrated services Internet.  RSVP provides receiver-initiated setup of resource reservations for multicast or unicast data flows, with good scaling and robustness properties. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2205"/>
+  <seriesInfo name="RFC" value="2205"/>
 </reference>

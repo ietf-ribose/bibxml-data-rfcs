@@ -1,16 +1,17 @@
 <reference anchor="RFC2521" target="https://www.rfc-editor.org/info/rfc2521">
   <front>
     <title>ICMP Security Failures Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2521"/>
-    <author fullname="P. Karn"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="P. Karn" initials="P." surname="Karn">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
-    <keyword>ICMP-SEC</keyword>
-    <keyword>internet</keyword>
-    <keyword>control</keyword>
-    <keyword>message</keyword>
-    <keyword>protocol</keyword>
-    <keyword>ip</keyword>
-    <abstract>This document specifies ICMP messages for indicating failures when using IP Security Protocols (AH and ESP).  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies ICMP messages for indicating failures when using IP Security Protocols (AH and ESP).  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2521"/>
+  <seriesInfo name="RFC" value="2521"/>
 </reference>

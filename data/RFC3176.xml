@@ -1,17 +1,20 @@
 <reference anchor="RFC3176" target="https://www.rfc-editor.org/info/rfc3176">
   <front>
     <title>InMon Corporation's sFlow: A Method for Monitoring Traffic in Switched and Routed Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3176"/>
-    <author fullname="P. Phaal"/>
-    <author fullname="S. Panchen"/>
-    <author fullname="N. McKee"/>
+    <author fullname="P. Phaal" initials="P." surname="Phaal">
+      <organization/>
+    </author>
+    <author fullname="S. Panchen" initials="S." surname="Panchen">
+      <organization/>
+    </author>
+    <author fullname="N. McKee" initials="N." surname="McKee">
+      <organization/>
+    </author>
     <date year="2001" month="September"/>
-    <keyword>agent</keyword>
-    <keyword>data</keyword>
-    <keyword>MIB</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines InMon Corporation's sFlow system.  sFlow is a technology for monitoring traffic in data networks containing switches and routers.  In particular, it defines the sampling mechanisms implemented in an sFlow Agent for monitoring traffic, the sFlow MIB for controlling the sFlow Agent, and the format of sample data used by the sFlow Agent when forwarding data to a central data collector.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines InMon Corporation's sFlow system.  sFlow is a technology for monitoring traffic in data networks containing switches and routers.  In particular, it defines the sampling mechanisms implemented in an sFlow Agent for monitoring traffic, the sFlow MIB for controlling the sFlow Agent, and the format of sample data used by the sFlow Agent when forwarding data to a central data collector.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3176"/>
+  <seriesInfo name="RFC" value="3176"/>
 </reference>

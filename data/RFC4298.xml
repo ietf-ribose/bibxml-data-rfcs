@@ -1,18 +1,21 @@
 <reference anchor="RFC4298" target="https://www.rfc-editor.org/info/rfc4298">
   <front>
     <title>RTP Payload Format for BroadVoice Speech Codecs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4298"/>
-    <author fullname="J.-H. Chen"/>
-    <author fullname="W. Lee"/>
-    <author fullname="J. Thyssen"/>
+    <author fullname="J.-H. Chen" initials="J.-H." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="W. Lee" initials="W." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J. Thyssen" initials="J." surname="Thyssen">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>avt</workgroup>
-    <keyword>real time transport</keyword>
-    <keyword>narroband</keyword>
-    <keyword>wideband</keyword>
-    <keyword>bv16 broadvoice16</keyword>
-    <keyword>sdp</keyword>
-    <keyword>session description protocol</keyword>
-    <abstract>This document describes the RTP payload format for the BroadVoice(R) narrowband and wideband speech codecs.  The narrowband codec, called BroadVoice16, or BV16, has been selected by CableLabs as a mandatory codec in PacketCable 1.5 and has a CableLabs specification.  The document also provides specifications for the use of BroadVoice with MIME and the Session Description Protocol (SDP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the RTP payload format for the BroadVoice(R) narrowband and wideband speech codecs.  The narrowband codec, called BroadVoice16, or BV16, has been selected by CableLabs as a mandatory codec in PacketCable 1.5 and has a CableLabs specification.  The document also provides specifications for the use of BroadVoice with MIME and the Session Description Protocol (SDP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4298"/>
+  <seriesInfo name="RFC" value="4298"/>
 </reference>

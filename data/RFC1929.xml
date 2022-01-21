@@ -1,13 +1,15 @@
 <reference anchor="RFC1929" target="https://www.rfc-editor.org/info/rfc1929">
   <front>
     <title>Username/Password Authentication for SOCKS V5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1929"/>
-    <author fullname="M. Leech"/>
+    <author fullname="M. Leech" initials="M." surname="Leech">
+      <organization/>
+    </author>
     <date year="1996" month="March"/>
     <workgroup>aft</workgroup>
-    <keyword>AUTH-SOCKS</keyword>
-    <keyword>firewalls</keyword>
-    <keyword>authentication</keyword>
-    <abstract>The protocol specification for SOCKS Version 5 specifies a generalized framework for the use of arbitrary authentication protocols in the initial socks connection setup.  This document describes one of those protocols, as it fits into the SOCKS Version 5 authentication "subnegotiation". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The protocol specification for SOCKS Version 5 specifies a generalized framework for the use of arbitrary authentication protocols in the initial socks connection setup.  This document describes one of those protocols, as it fits into the SOCKS Version 5 authentication "subnegotiation". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1929"/>
+  <seriesInfo name="RFC" value="1929"/>
 </reference>

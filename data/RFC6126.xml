@@ -1,9 +1,14 @@
 <reference anchor="RFC6126" target="https://www.rfc-editor.org/info/rfc6126">
   <front>
     <title>The Babel Routing Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6126"/>
-    <author fullname="J. Chroboczek"/>
+    <author fullname="J. Chroboczek" initials="J." surname="Chroboczek">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
-    <abstract>Babel is a loop-avoiding distance-vector routing protocol that is robust and efficient both in ordinary wired networks and in wireless mesh networks.  This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Babel is a loop-avoiding distance-vector routing protocol that is robust and efficient both in ordinary wired networks and in wireless mesh networks.  This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6126"/>
+  <seriesInfo name="RFC" value="6126"/>
 </reference>

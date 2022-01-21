@@ -1,11 +1,19 @@
 <reference anchor="RFC8020" target="https://www.rfc-editor.org/info/rfc8020">
   <front>
     <title>NXDOMAIN: There Really Is Nothing Underneath</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8020"/>
-    <author fullname="S. Bortzmeyer"/>
-    <author fullname="S. Huque"/>
+    <author fullname="S. Bortzmeyer" initials="S." surname="Bortzmeyer">
+      <organization/>
+    </author>
+    <author fullname="S. Huque" initials="S." surname="Huque">
+      <organization/>
+    </author>
     <date year="2016" month="November"/>
     <workgroup>dnsop</workgroup>
-    <abstract>This document states clearly that when a DNS resolver receives a response with a response code of NXDOMAIN, it means that the domain name which is thus denied AND ALL THE NAMES UNDER IT do not exist. This document clarifies RFC 1034 and modifies a portion of RFC 2308: it updates both of them.</abstract>
+    <abstract>
+      <t>This document states clearly that when a DNS resolver receives a response with a response code of NXDOMAIN, it means that the domain name which is thus denied AND ALL THE NAMES UNDER IT do not exist.</t>
+      <t>This document clarifies RFC 1034 and modifies a portion of RFC 2308: it updates both of them.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8020"/>
+  <seriesInfo name="RFC" value="8020"/>
 </reference>

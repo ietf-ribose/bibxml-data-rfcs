@@ -1,13 +1,14 @@
 <reference anchor="RFC2852" target="https://www.rfc-editor.org/info/rfc2852">
   <front>
     <title>Deliver By SMTP Service Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2852"/>
-    <author fullname="D. Newman"/>
+    <author fullname="D. Newman" initials="D." surname="Newman">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
-    <keyword>simple</keyword>
-    <keyword>mail transfer</keyword>
-    <keyword>protocol</keyword>
-    <keyword>client server</keyword>
-    <abstract>This memo defines a mechanism whereby a SMTP client can request, when transmitting a message to a SMTP server, that the server deliver the message within a prescribed period of time. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a mechanism whereby a SMTP client can request, when transmitting a message to a SMTP server, that the server deliver the message within a prescribed period of time. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2852"/>
+  <seriesInfo name="RFC" value="2852"/>
 </reference>

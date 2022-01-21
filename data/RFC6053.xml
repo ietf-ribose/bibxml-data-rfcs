@@ -1,16 +1,25 @@
 <reference anchor="RFC6053" target="https://www.rfc-editor.org/info/rfc6053">
   <front>
     <title>Implementation Report for Forwarding and Control Element Separation (ForCES)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6053"/>
-    <author fullname="E. Haleplidis"/>
-    <author fullname="K. Ogawa"/>
-    <author fullname="W. Wang"/>
-    <author fullname="J. Hadi Salim"/>
+    <author fullname="E. Haleplidis" initials="E." surname="Haleplidis">
+      <organization/>
+    </author>
+    <author fullname="K. Ogawa" initials="K." surname="Ogawa">
+      <organization/>
+    </author>
+    <author fullname="W. Wang" initials="W." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="J. Hadi Salim" initials="J." surname="Hadi">
+      <organization/>
+    </author>
     <date year="2010" month="November"/>
     <workgroup>forces</workgroup>
-    <keyword>Stream Control Transmission Protocol-based Transport Mapping Layer</keyword>
-    <keyword>SCTP TML</keyword>
-    <keyword>forces Model</keyword>
-    <abstract>Forwarding and Control Element Separation (ForCES) defines an architectural framework and associated protocols to standardize information exchange between the control plane and the forwarding plane in a ForCES network element (ForCES NE). RFC 3654 has defined the ForCES requirements, and RFC 3746 has defined the ForCES framework. This document is an implementation report for the ForCES Protocol, Model, and the Stream Control Transmission Protocol-based Transport Mapping Layer (SCTP TML) documents, and includes a report on interoperability testing and the current state of ForCES implementations. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Forwarding and Control Element Separation (ForCES) defines an architectural framework and associated protocols to standardize information exchange between the control plane and the forwarding plane in a ForCES network element (ForCES NE). RFC 3654 has defined the ForCES requirements, and RFC 3746 has defined the ForCES framework.</t>
+      <t>This document is an implementation report for the ForCES Protocol, Model, and the Stream Control Transmission Protocol-based Transport Mapping Layer (SCTP TML) documents, and includes a report on interoperability testing and the current state of ForCES implementations. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6053"/>
+  <seriesInfo name="RFC" value="6053"/>
 </reference>

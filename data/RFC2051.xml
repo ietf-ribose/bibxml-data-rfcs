@@ -1,15 +1,27 @@
 <reference anchor="RFC2051" target="https://www.rfc-editor.org/info/rfc2051">
   <front>
     <title>Definitions of Managed Objects for APPC using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2051"/>
-    <author fullname="M. Allen"/>
-    <author fullname="B. Clouston"/>
-    <author fullname="Z. Kielczewski"/>
-    <author fullname="W. Kwan"/>
-    <author fullname="B. Moore"/>
+    <author fullname="M. Allen" initials="M." surname="Allen">
+      <organization/>
+    </author>
+    <author fullname="B. Clouston" initials="B." surname="Clouston">
+      <organization/>
+    </author>
+    <author fullname="Z. Kielczewski" initials="Z." surname="Kielczewski">
+      <organization/>
+    </author>
+    <author fullname="W. Kwan" initials="W." surname="Kwan">
+      <organization/>
+    </author>
+    <author fullname="B. Moore" initials="B." surname="Moore">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>snanau</workgroup>
-    <keyword>SNANAU-APP</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing the configuration, monitoring and controlling of network devices with APPC (Advanced Program-to-Program Communications) capabilities.  This memo identifies managed objects for the SNA LU6.2 protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing the configuration, monitoring and controlling of network devices with APPC (Advanced Program-to-Program Communications) capabilities.  This memo identifies managed objects for the SNA LU6.2 protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2051"/>
+  <seriesInfo name="RFC" value="2051"/>
 </reference>

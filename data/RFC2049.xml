@@ -1,16 +1,18 @@
 <reference anchor="RFC2049" target="https://www.rfc-editor.org/info/rfc2049">
   <front>
     <title>Multipurpose Internet Mail Extensions (MIME) Part Five: Conformance Criteria and Examples</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2049"/>
-    <author fullname="N. Freed"/>
-    <author fullname="N. Borenstein"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="N. Borenstein" initials="N." surname="Borenstein">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>822ext</workgroup>
-    <keyword>MIME-CONF</keyword>
-    <keyword>media</keyword>
-    <keyword>type</keyword>
-    <keyword>message</keyword>
-    <keyword>formats</keyword>
-    <abstract>This set of documents, collectively called the Multipurpose Internet Mail Extensions, or MIME, redefines the format of messages.  This fifth and final document describes MIME conformance criteria as well as providing some illustrative examples of MIME message formats, acknowledgements, and the bibliography. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This set of documents, collectively called the Multipurpose Internet Mail Extensions, or MIME, redefines the format of messages.  This fifth and final document describes MIME conformance criteria as well as providing some illustrative examples of MIME message formats, acknowledgements, and the bibliography. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2049"/>
+  <seriesInfo name="RFC" value="2049"/>
 </reference>

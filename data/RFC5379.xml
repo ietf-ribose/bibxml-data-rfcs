@@ -1,15 +1,20 @@
 <reference anchor="RFC5379" target="https://www.rfc-editor.org/info/rfc5379">
   <front>
     <title>Guidelines for Using the Privacy Mechanism for SIP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5379"/>
-    <author fullname="M. Munakata"/>
-    <author fullname="S. Schubert"/>
-    <author fullname="T. Ohba"/>
+    <author fullname="M. Munakata" initials="M." surname="Munakata">
+      <organization/>
+    </author>
+    <author fullname="S. Schubert" initials="S." surname="Schubert">
+      <organization/>
+    </author>
+    <author fullname="T. Ohba" initials="T." surname="Ohba">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
-    <keyword>SIP</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>priv-value</keyword>
-    <keyword>guideline</keyword>
-    <abstract>This is an informational document that provides guidelines for using the privacy mechanism for the Session Initiation Protocol (SIP) that is specified in RFC 3323 and subsequently extended in RFCs 3325 and 4244.  It is intended to clarify the handling of the target SIP headers/parameters and the Session Description Protocol (SDP) parameters for each of the privacy header values (priv-values).  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This is an informational document that provides guidelines for using the privacy mechanism for the Session Initiation Protocol (SIP) that is specified in RFC 3323 and subsequently extended in RFCs 3325 and 4244.  It is intended to clarify the handling of the target SIP headers/parameters and the Session Description Protocol (SDP) parameters for each of the privacy header values (priv-values).  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5379"/>
+  <seriesInfo name="RFC" value="5379"/>
 </reference>

@@ -1,12 +1,15 @@
 <reference anchor="RFC3686" target="https://www.rfc-editor.org/info/rfc3686">
   <front>
     <title>Using Advanced Encryption Standard (AES) Counter Mode With IPsec Encapsulating Security Payload (ESP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3686"/>
-    <author fullname="R. Housley"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
     <date year="2004" month="January"/>
     <workgroup>ipsec</workgroup>
-    <keyword>authentication vector</keyword>
-    <keyword>cipher block</keyword>
-    <abstract>This document describes the use of Advanced Encryption Standard (AES) Counter Mode, with an explicit initialization vector, as an IPsec Encapsulating Security Payload (ESP) confidentiality mechanism.</abstract>
+    <abstract>
+      <t>This document describes the use of Advanced Encryption Standard (AES) Counter Mode, with an explicit initialization vector, as an IPsec Encapsulating Security Payload (ESP) confidentiality mechanism.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3686"/>
+  <seriesInfo name="RFC" value="3686"/>
 </reference>

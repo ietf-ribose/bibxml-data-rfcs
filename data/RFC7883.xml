@@ -1,12 +1,21 @@
 <reference anchor="RFC7883" target="https://www.rfc-editor.org/info/rfc7883">
   <front>
     <title>Advertising Seamless Bidirectional Forwarding Detection (S-BFD) Discriminators in IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7883"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="N. Akiya"/>
-    <author fullname="M. Chen"/>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="N. Akiya" initials="N." surname="Akiya">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>isis</workgroup>
-    <abstract>This document defines a means of advertising one or more Seamless Bidirectional Forwarding Detection (S-BFD) Discriminators using the IS-IS Router CAPABILITY TLV.</abstract>
+    <abstract>
+      <t>This document defines a means of advertising one or more Seamless Bidirectional Forwarding Detection (S-BFD) Discriminators using the IS-IS Router CAPABILITY TLV.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7883"/>
+  <seriesInfo name="RFC" value="7883"/>
 </reference>

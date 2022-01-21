@@ -1,13 +1,21 @@
 <reference anchor="RFC4168" target="https://www.rfc-editor.org/info/rfc4168">
   <front>
     <title>The Stream Control Transmission Protocol (SCTP) as a Transport for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4168"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2005" month="October"/>
     <workgroup>sip</workgroup>
-    <keyword>transport mechanism</keyword>
-    <abstract>This document specifies a mechanism for usage of SCTP (the Stream Control Transmission Protocol) as the transport mechanism between SIP (Session Initiation Protocol) entities.  SCTP is a new protocol that provides several features that may prove beneficial for transport between SIP entities that exchange a large amount of messages, including gateways and proxies.  As SIP is transport-independent, support of SCTP is a relatively straightforward process, nearly identical to support for TCP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a mechanism for usage of SCTP (the Stream Control Transmission Protocol) as the transport mechanism between SIP (Session Initiation Protocol) entities.  SCTP is a new protocol that provides several features that may prove beneficial for transport between SIP entities that exchange a large amount of messages, including gateways and proxies.  As SIP is transport-independent, support of SCTP is a relatively straightforward process, nearly identical to support for TCP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4168"/>
+  <seriesInfo name="RFC" value="4168"/>
 </reference>

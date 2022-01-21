@@ -1,19 +1,31 @@
 <reference anchor="RFC5310" target="https://www.rfc-editor.org/info/rfc5310">
   <front>
     <title>IS-IS Generic Cryptographic Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5310"/>
-    <author fullname="M. Bhatia"/>
-    <author fullname="V. Manral"/>
-    <author fullname="T. Li"/>
-    <author fullname="R. Atkinson"/>
-    <author fullname="R. White"/>
-    <author fullname="M. Fanto"/>
+    <author fullname="M. Bhatia" initials="M." surname="Bhatia">
+      <organization/>
+    </author>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
+    <author fullname="R. White" initials="R." surname="White">
+      <organization/>
+    </author>
+    <author fullname="M. Fanto" initials="M." surname="Fanto">
+      <organization/>
+    </author>
     <date year="2009" month="February"/>
     <workgroup>isis</workgroup>
-    <keyword>IS-IS</keyword>
-    <keyword>Security</keyword>
-    <keyword>HMAC-SHA</keyword>
-    <keyword>Cryptographic Authentication</keyword>
-    <abstract>This document proposes an extension to Intermediate System to Intermediate System (IS-IS) to allow the use of any cryptographic authentication algorithm in addition to the already-documented authentication schemes, described in the base specification and RFC 5304. IS-IS is specified in International Standards Organization (ISO) 10589, with extensions to support Internet Protocol version 4 (IPv4) described in RFC 1195. Although this document has been written specifically for using the Hashed Message Authentication Code (HMAC) construct along with the Secure Hash Algorithm (SHA) family of cryptographic hash functions, the method described in this document is generic and can be used to extend IS-IS to support any cryptographic hash function in the future. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes an extension to Intermediate System to Intermediate System (IS-IS) to allow the use of any cryptographic authentication algorithm in addition to the already-documented authentication schemes, described in the base specification and RFC 5304. IS-IS is specified in International Standards Organization (ISO) 10589, with extensions to support Internet Protocol version 4 (IPv4) described in RFC 1195.</t>
+      <t>Although this document has been written specifically for using the Hashed Message Authentication Code (HMAC) construct along with the Secure Hash Algorithm (SHA) family of cryptographic hash functions, the method described in this document is generic and can be used to extend IS-IS to support any cryptographic hash function in the future. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5310"/>
+  <seriesInfo name="RFC" value="5310"/>
 </reference>

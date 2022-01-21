@@ -1,12 +1,18 @@
 <reference anchor="RFC5396" target="https://www.rfc-editor.org/info/rfc5396">
   <front>
     <title>Textual Representation of Autonomous System (AS) Numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5396"/>
-    <author fullname="G. Huston"/>
-    <author fullname="G. Michaelson"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="G. Michaelson" initials="G." surname="Michaelson">
+      <organization/>
+    </author>
     <date year="2008" month="December"/>
     <workgroup>idr</workgroup>
-    <keyword>decimal value</keyword>
-    <abstract>A textual representation for Autonomous System (AS) numbers is defined as the decimal value of the AS number.  This textual representation is to be used by all documents, systems, and user interfaces referring to AS numbers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A textual representation for Autonomous System (AS) numbers is defined as the decimal value of the AS number.  This textual representation is to be used by all documents, systems, and user interfaces referring to AS numbers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5396"/>
+  <seriesInfo name="RFC" value="5396"/>
 </reference>

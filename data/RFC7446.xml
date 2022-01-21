@@ -1,15 +1,24 @@
 <reference anchor="RFC7446" target="https://www.rfc-editor.org/info/rfc7446">
   <front>
     <title>Routing and Wavelength Assignment Information Model for Wavelength Switched Optical Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7446"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="G. Bernstein"/>
-    <author fullname="D. Li"/>
-    <author fullname="W. Imajuku"/>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="G. Bernstein" initials="G." surname="Bernstein">
+      <organization/>
+    </author>
+    <author fullname="D. Li" initials="D." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="W. Imajuku" initials="W." surname="Imajuku">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
     <workgroup>ccamp</workgroup>
-    <keyword>WSON</keyword>
-    <keyword>RWA</keyword>
-    <abstract>This document provides a model of information needed by the Routing and Wavelength Assignment (RWA) process in Wavelength Switched Optical Networks (WSONs).  The purpose of the information described in this model is to facilitate constrained optical path computation in WSONs.  This model takes into account compatibility constraints between WSON signal attributes and network elements but does not include constraints due to optical impairments.  Aspects of this information that may be of use to other technologies utilizing a GMPLS control plane are discussed.</abstract>
+    <abstract>
+      <t>This document provides a model of information needed by the Routing and Wavelength Assignment (RWA) process in Wavelength Switched Optical Networks (WSONs).  The purpose of the information described in this model is to facilitate constrained optical path computation in WSONs.  This model takes into account compatibility constraints between WSON signal attributes and network elements but does not include constraints due to optical impairments.  Aspects of this information that may be of use to other technologies utilizing a GMPLS control plane are discussed.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7446"/>
+  <seriesInfo name="RFC" value="7446"/>
 </reference>

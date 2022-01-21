@@ -1,13 +1,15 @@
 <reference anchor="RFC8933" target="https://www.rfc-editor.org/info/rfc8933">
   <front>
     <title>Update to the Cryptographic Message Syntax (CMS) for Algorithm Identifier Protection</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8933"/>
-    <author fullname="R. Housley"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
     <date year="2020" month="October"/>
     <workgroup>lamps</workgroup>
-    <keyword>digitally sign</keyword>
-    <keyword>authenticate</keyword>
-    <keyword>algorithm identifier integrity</keyword>
-    <abstract>This document updates the Cryptographic Message Syntax (CMS) specified in RFC 5652 to ensure that algorithm identifiers in signed-data and authenticated-data content types are adequately protected.</abstract>
+    <abstract>
+      <t>This document updates the Cryptographic Message Syntax (CMS) specified in RFC 5652 to ensure that algorithm identifiers in signed-data and authenticated-data content types are adequately protected.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8933"/>
+  <seriesInfo name="RFC" value="8933"/>
 </reference>

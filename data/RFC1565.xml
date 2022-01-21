@@ -1,14 +1,18 @@
 <reference anchor="RFC1565" target="https://www.rfc-editor.org/info/rfc1565">
   <front>
     <title>Network Services Monitoring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1565"/>
-    <author fullname="S. Kille"/>
-    <author fullname="N. Freed"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
     <date year="1994" month="January"/>
     <workgroup>madman</workgroup>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This document defines a MIB which contains the elements common to the monitoring of any network service application.  This information includes a table of all monitorable network service applications, a count of the associations (connections) to each application, and basic information about the parameters and status of each application-related association. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a MIB which contains the elements common to the monitoring of any network service application.  This information includes a table of all monitorable network service applications, a count of the associations (connections) to each application, and basic information about the parameters and status of each application-related association. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1565"/>
+  <seriesInfo name="RFC" value="1565"/>
 </reference>

@@ -1,16 +1,17 @@
 <reference anchor="RFC2884" target="https://www.rfc-editor.org/info/rfc2884">
   <front>
     <title>Performance Evaluation of Explicit Congestion Notification (ECN) in IP Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2884"/>
-    <author fullname="J. Hadi Salim"/>
-    <author fullname="U. Ahmed"/>
+    <author fullname="J. Hadi Salim" initials="J." surname="Hadi">
+      <organization/>
+    </author>
+    <author fullname="U. Ahmed" initials="U." surname="Ahmed">
+      <organization/>
+    </author>
     <date year="2000" month="July"/>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>end-to-end</keyword>
-    <keyword>TCP</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <abstract>This memo presents a performance study of the Explicit Congestion Notification (ECN) mechanism in the TCP/IP protocol using our implementation on the Linux Operating System.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo presents a performance study of the Explicit Congestion Notification (ECN) mechanism in the TCP/IP protocol using our implementation on the Linux Operating System.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2884"/>
+  <seriesInfo name="RFC" value="2884"/>
 </reference>

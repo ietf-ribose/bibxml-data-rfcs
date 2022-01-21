@@ -1,17 +1,18 @@
 <reference anchor="RFC2508" target="https://www.rfc-editor.org/info/rfc2508">
   <front>
     <title>Compressing IP/UDP/RTP Headers for Low-Speed Serial Links</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2508"/>
-    <author fullname="S. Casner"/>
-    <author fullname="V. Jacobson"/>
+    <author fullname="S. Casner" initials="S." surname="Casner">
+      <organization/>
+    </author>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>avt</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>user</keyword>
-    <keyword>datagram</keyword>
-    <keyword>real-timetransport</keyword>
-    <keyword>interoperability</keyword>
-    <abstract>This document describes a method for compressing the headers of IP/UDP/RTP datagrams to reduce overhead on low-speed serial links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a method for compressing the headers of IP/UDP/RTP datagrams to reduce overhead on low-speed serial links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2508"/>
+  <seriesInfo name="RFC" value="2508"/>
 </reference>

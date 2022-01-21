@@ -1,16 +1,14 @@
 <reference anchor="RFC1467" target="https://www.rfc-editor.org/info/rfc1467">
   <front>
     <title>Status of CIDR Deployment in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1467"/>
-    <author fullname="C. Topolcic"/>
+    <author fullname="C. Topolcic" initials="C." surname="Topolcic">
+      <organization/>
+    </author>
     <date year="1993" month="August"/>
-    <keyword>routing</keyword>
-    <keyword>tables</keyword>
-    <keyword>allocation</keyword>
-    <keyword>registry</keyword>
-    <keyword>IR</keyword>
-    <keyword>IANA</keyword>
-    <keyword>classless</keyword>
-    <abstract>This document describes the current status of the development and deployment of CIDR technology into the Internet.  This document replaces RFC 1367, which was a schedule for the deployment of IP address space management procedures to support route aggregation.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This document describes the current status of the development and deployment of CIDR technology into the Internet.  This document replaces RFC 1367, which was a schedule for the deployment of IP address space management procedures to support route aggregation.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1467"/>
+  <seriesInfo name="RFC" value="1467"/>
 </reference>

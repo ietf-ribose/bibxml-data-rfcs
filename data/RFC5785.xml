@@ -1,12 +1,18 @@
 <reference anchor="RFC5785" target="https://www.rfc-editor.org/info/rfc5785">
   <front>
     <title>Defining Well-Known Uniform Resource Identifiers (URIs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5785"/>
-    <author fullname="M. Nottingham"/>
-    <author fullname="E. Hammer-Lahav"/>
+    <author fullname="M. Nottingham" initials="M." surname="Nottingham">
+      <organization/>
+    </author>
+    <author fullname="E. Hammer-Lahav" initials="E." surname="Hammer-Lahav">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>well-known locations</keyword>
-    <abstract>This memo defines a path prefix for "well-known locations", "/.well-known/", in selected Uniform Resource Identifier (URI) schemes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a path prefix for "well-known locations", "/.well-known/", in selected Uniform Resource Identifier (URI) schemes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5785"/>
+  <seriesInfo name="RFC" value="5785"/>
 </reference>

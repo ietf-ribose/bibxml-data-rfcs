@@ -1,18 +1,27 @@
 <reference anchor="RFC3006" target="https://www.rfc-editor.org/info/rfc3006">
   <front>
     <title>Integrated Services in the Presence of Compressible Flows</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3006"/>
-    <author fullname="B. Davie"/>
-    <author fullname="C. Iturralde"/>
-    <author fullname="D. Oran"/>
-    <author fullname="S. Casner"/>
-    <author fullname="J. Wroclawski"/>
+    <author fullname="B. Davie" initials="B." surname="Davie">
+      <organization/>
+    </author>
+    <author fullname="C. Iturralde" initials="C." surname="Iturralde">
+      <organization/>
+    </author>
+    <author fullname="D. Oran" initials="D." surname="Oran">
+      <organization/>
+    </author>
+    <author fullname="S. Casner" initials="S." surname="Casner">
+      <organization/>
+    </author>
+    <author fullname="J. Wroclawski" initials="J." surname="Wroclawski">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>intserv</workgroup>
-    <keyword>routing</keyword>
-    <keyword>resource</keyword>
-    <keyword>allocation</keyword>
-    <keyword>int-serv</keyword>
-    <abstract>This specification describes an extension to the TSpec which enables a sender of potentially compressible data to provide hints to int-serv routers about the compressibility they may obtain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification describes an extension to the TSpec which enables a sender of potentially compressible data to provide hints to int-serv routers about the compressibility they may obtain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3006"/>
+  <seriesInfo name="RFC" value="3006"/>
 </reference>

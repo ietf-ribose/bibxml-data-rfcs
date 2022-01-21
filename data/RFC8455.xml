@@ -1,14 +1,27 @@
 <reference anchor="RFC8455" target="https://www.rfc-editor.org/info/rfc8455">
   <front>
     <title>Terminology for Benchmarking Software-Defined Networking (SDN) Controller Performance</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8455"/>
-    <author fullname="V. Bhuvaneswaran"/>
-    <author fullname="A. Basil"/>
-    <author fullname="M. Tassinari"/>
-    <author fullname="V. Manral"/>
-    <author fullname="S. Banks"/>
+    <author fullname="V. Bhuvaneswaran" initials="V." surname="Bhuvaneswaran">
+      <organization/>
+    </author>
+    <author fullname="A. Basil" initials="A." surname="Basil">
+      <organization/>
+    </author>
+    <author fullname="M. Tassinari" initials="M." surname="Tassinari">
+      <organization/>
+    </author>
+    <author fullname="V. Manral" initials="V." surname="Manral">
+      <organization/>
+    </author>
+    <author fullname="S. Banks" initials="S." surname="Banks">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
     <workgroup>bmwg</workgroup>
-    <abstract>This document defines terminology for benchmarking a Software-Defined Networking (SDN) controller's control-plane performance.  It extends the terminology already defined in RFC 7426 for the purpose of benchmarking SDN Controllers.  The terms provided in this document help to benchmark an SDN Controller's performance independently of the controller's supported protocols and/or network services.</abstract>
+    <abstract>
+      <t>This document defines terminology for benchmarking a Software-Defined Networking (SDN) controller's control-plane performance.  It extends the terminology already defined in RFC 7426 for the purpose of benchmarking SDN Controllers.  The terms provided in this document help to benchmark an SDN Controller's performance independently of the controller's supported protocols and/or network services.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8455"/>
+  <seriesInfo name="RFC" value="8455"/>
 </reference>

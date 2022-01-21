@@ -1,18 +1,18 @@
 <reference anchor="RFC2410" target="https://www.rfc-editor.org/info/rfc2410">
   <front>
     <title>The NULL Encryption Algorithm and Its Use With IPsec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2410"/>
-    <author fullname="R. Glenn"/>
-    <author fullname="S. Kent"/>
+    <author fullname="R. Glenn" initials="R." surname="Glenn">
+      <organization/>
+    </author>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <keyword>esp</keyword>
-    <keyword>encapsulating</keyword>
-    <keyword>payload</keyword>
-    <abstract>This memo defines the NULL encryption algorithm and its use with the IPsec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines the NULL encryption algorithm and its use with the IPsec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2410"/>
+  <seriesInfo name="RFC" value="2410"/>
 </reference>

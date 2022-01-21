@@ -1,14 +1,21 @@
 <reference anchor="RFC3756" target="https://www.rfc-editor.org/info/rfc3756">
   <front>
     <title>IPv6 Neighbor Discovery (ND) Trust Models and Threats</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3756"/>
-    <author fullname="P. Nikander"/>
-    <author fullname="J. Kempf"/>
-    <author fullname="E. Nordmark"/>
+    <author fullname="P. Nikander" initials="P." surname="Nikander">
+      <organization/>
+    </author>
+    <author fullname="J. Kempf" initials="J." surname="Kempf">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
     <date year="2004" month="May"/>
     <workgroup>send</workgroup>
-    <keyword>authentication</keyword>
-    <keyword>security key management</keyword>
-    <abstract>The existing IETF standards specify that IPv6 Neighbor Discovery (ND) and Address Autoconfiguration mechanisms may be protected with IPsec Authentication Header (AH).  However, the current specifications limit the security solutions to manual keying due to practical problems faced with automatic key management.  This document specifies three different trust models and discusses the threats pertinent to IPv6 Neighbor Discovery.  The purpose of this discussion is to define the requirements for Securing IPv6 Neighbor Discovery.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The existing IETF standards specify that IPv6 Neighbor Discovery (ND) and Address Autoconfiguration mechanisms may be protected with IPsec Authentication Header (AH).  However, the current specifications limit the security solutions to manual keying due to practical problems faced with automatic key management.  This document specifies three different trust models and discusses the threats pertinent to IPv6 Neighbor Discovery.  The purpose of this discussion is to define the requirements for Securing IPv6 Neighbor Discovery.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3756"/>
+  <seriesInfo name="RFC" value="3756"/>
 </reference>

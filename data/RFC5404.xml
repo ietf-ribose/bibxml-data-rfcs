@@ -1,13 +1,18 @@
 <reference anchor="RFC5404" target="https://www.rfc-editor.org/info/rfc5404">
   <front>
     <title>RTP Payload Format for G.719</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5404"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="I. Johansson"/>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="I. Johansson" initials="I." surname="Johansson">
+      <organization/>
+    </author>
     <date year="2009" month="January"/>
     <workgroup>avt</workgroup>
-    <keyword>ITU-T</keyword>
-    <keyword>g.719 full-band codec</keyword>
-    <abstract>This document specifies the payload format for packetization of the G.719 full-band codec encoded audio signals into the Real-time Transport Protocol (RTP).  The payload format supports transmission of multiple channels, multiple frames per payload, and interleaving. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the payload format for packetization of the G.719 full-band codec encoded audio signals into the Real-time Transport Protocol (RTP).  The payload format supports transmission of multiple channels, multiple frames per payload, and interleaving. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5404"/>
+  <seriesInfo name="RFC" value="5404"/>
 </reference>

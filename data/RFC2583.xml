@@ -1,16 +1,18 @@
 <reference anchor="RFC2583" target="https://www.rfc-editor.org/info/rfc2583">
   <front>
     <title>Guidelines for Next Hop Client (NHC) Developers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2583"/>
-    <author fullname="R. Carlson"/>
-    <author fullname="L. Winkler"/>
+    <author fullname="R. Carlson" initials="R." surname="Carlson">
+      <organization/>
+    </author>
+    <author fullname="L. Winkler" initials="L." surname="Winkler">
+      <organization/>
+    </author>
     <date year="1999" month="May"/>
     <workgroup>ion</workgroup>
-    <keyword>NHRP</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet</keyword>
-    <abstract>This document provides guidelines for developers of the Next Hop Resolution Protocol Clients (NHC).  The intent is to define the interaction between the NHC code and the TCP/IP protocol stack of the local host operating system.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides guidelines for developers of the Next Hop Resolution Protocol Clients (NHC).  The intent is to define the interaction between the NHC code and the TCP/IP protocol stack of the local host operating system.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2583"/>
+  <seriesInfo name="RFC" value="2583"/>
 </reference>

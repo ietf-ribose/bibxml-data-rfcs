@@ -1,13 +1,17 @@
 <reference anchor="RFC1528" target="https://www.rfc-editor.org/info/rfc1528">
   <front>
     <title>Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Technical Procedures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1528"/>
-    <author fullname="C. Malamud"/>
-    <author fullname="M. Rose"/>
+    <author fullname="C. Malamud" initials="C." surname="Malamud">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="1993" month="October"/>
-    <keyword>REM-PRINT</keyword>
-    <keyword>FAX</keyword>
-    <keyword>Facsimile</keyword>
-    <abstract>This memo describes a technique for "remote printing" using the Internet mail infrastructure.  In particular, this memo focuses on the case in which remote printers are connected to the international telephone network.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo describes a technique for "remote printing" using the Internet mail infrastructure.  In particular, this memo focuses on the case in which remote printers are connected to the international telephone network.  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1528"/>
+  <seriesInfo name="RFC" value="1528"/>
 </reference>

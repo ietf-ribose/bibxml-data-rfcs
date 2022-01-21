@@ -1,15 +1,21 @@
 <reference anchor="RFC5255" target="https://www.rfc-editor.org/info/rfc5255">
   <front>
     <title>Internet Message Access Protocol Internationalization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5255"/>
-    <author fullname="C. Newman"/>
-    <author fullname="A. Gulbrandsen"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>imapext</workgroup>
-    <keyword>imap</keyword>
-    <keyword>imapv4</keyword>
-    <keyword>imap4</keyword>
-    <abstract>Internet Message Access Protocol (IMAP) version 4rev1 has basic support for non-ASCII characters in mailbox names and search substrings.  It also supports non-ASCII message headers and content encoded as specified by Multipurpose Internet Mail Extensions (MIME).  This specification defines a collection of IMAP extensions that improve international support including language negotiation for international error text, translations for namespace prefixes, and comparator negotiation for search, sort, and thread. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Internet Message Access Protocol (IMAP) version 4rev1 has basic support for non-ASCII characters in mailbox names and search substrings.  It also supports non-ASCII message headers and content encoded as specified by Multipurpose Internet Mail Extensions (MIME).  This specification defines a collection of IMAP extensions that improve international support including language negotiation for international error text, translations for namespace prefixes, and comparator negotiation for search, sort, and thread. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5255"/>
+  <seriesInfo name="RFC" value="5255"/>
 </reference>

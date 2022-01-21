@@ -1,13 +1,18 @@
 <reference anchor="RFC3862" target="https://www.rfc-editor.org/info/rfc3862">
   <front>
     <title>Common Presence and Instant Messaging (CPIM): Message Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3862"/>
-    <author fullname="G. Klyne"/>
-    <author fullname="D. Atkins"/>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
+    <author fullname="D. Atkins" initials="D." surname="Atkins">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>impp</workgroup>
-    <keyword>instant messaging and presence protocol</keyword>
-    <keyword>message/cpim</keyword>
-    <abstract>This memo defines the MIME content type 'Message/CPIM', a message format for protocols that conform to the Common Profile for Instant Messaging (CPIM) specification. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines the MIME content type 'Message/CPIM', a message format for protocols that conform to the Common Profile for Instant Messaging (CPIM) specification. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3862"/>
+  <seriesInfo name="RFC" value="3862"/>
 </reference>

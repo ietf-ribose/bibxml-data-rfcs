@@ -1,13 +1,15 @@
 <reference anchor="RFC2689" target="https://www.rfc-editor.org/info/rfc2689">
   <front>
     <title>Providing Integrated Services over Low-bitrate Links</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2689"/>
-    <author fullname="C. Bormann"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>issll</workgroup>
-    <keyword>asynchronous</keyword>
-    <keyword>synchronous</keyword>
-    <keyword>real-time</keyword>
-    <abstract>This document describes an architecture for providing integrated services over low-bitrate links, such as modem lines, ISDN B-channels, and sub-T1 links.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an architecture for providing integrated services over low-bitrate links, such as modem lines, ISDN B-channels, and sub-T1 links.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2689"/>
+  <seriesInfo name="RFC" value="2689"/>
 </reference>

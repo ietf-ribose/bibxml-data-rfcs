@@ -1,11 +1,15 @@
 <reference anchor="RFC9076" target="https://www.rfc-editor.org/info/rfc9076">
   <front>
     <title>DNS Privacy Considerations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9076"/>
-    <author fullname="T. Wicinski"/>
+    <author fullname="T. Wicinski" initials="T." surname="Wicinski">
+      <organization/>
+    </author>
     <date year="2021" month="July"/>
     <workgroup>dprive</workgroup>
-    <keyword>DNS</keyword>
-    <abstract>This document describes the privacy issues associated with the use of the DNS by Internet users.  It provides general observations about typical current privacy practices.  It is intended to be an analysis of the present situation and does not prescribe solutions.  This document obsoletes RFC 7626.</abstract>
+    <abstract>
+      <t>This document describes the privacy issues associated with the use of the DNS by Internet users.  It provides general observations about typical current privacy practices.  It is intended to be an analysis of the present situation and does not prescribe solutions.  This document obsoletes RFC 7626.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9076"/>
+  <seriesInfo name="RFC" value="9076"/>
 </reference>

@@ -1,14 +1,20 @@
 <reference anchor="RFC2448" target="https://www.rfc-editor.org/info/rfc2448">
   <front>
     <title>AT&amp;T's Error Resilient Video Transmission Technique</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2448"/>
-    <author fullname="M. Civanlar"/>
-    <author fullname="G. Cash"/>
-    <author fullname="B. Haskell"/>
+    <author fullname="M. Civanlar" initials="M." surname="Civanlar">
+      <organization/>
+    </author>
+    <author fullname="G. Cash" initials="G." surname="Cash">
+      <organization/>
+    </author>
+    <author fullname="B. Haskell" initials="B." surname="Haskell">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
-    <keyword>packets</keyword>
-    <keyword>network</keyword>
-    <keyword>bitstreams</keyword>
-    <abstract>This document describes a set of techniques for packet loss resilient transmission of compressed video bitstreams based on reliable delivery of their vital information-carrying segments.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a set of techniques for packet loss resilient transmission of compressed video bitstreams based on reliable delivery of their vital information-carrying segments.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2448"/>
+  <seriesInfo name="RFC" value="2448"/>
 </reference>

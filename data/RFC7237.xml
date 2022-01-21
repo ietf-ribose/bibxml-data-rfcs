@@ -1,13 +1,15 @@
 <reference anchor="RFC7237" target="https://www.rfc-editor.org/info/rfc7237">
   <front>
     <title>Initial Hypertext Transfer Protocol (HTTP) Method Registrations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7237"/>
-    <author fullname="J. Reschke"/>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>httpbis</workgroup>
-    <keyword>HyperText Transfer Protocol</keyword>
-    <keyword>HTTP</keyword>
-    <keyword>Request Method</keyword>
-    <abstract>This document registers those Hypertext Transfer Protocol (HTTP) methods that have been defined in RFCs before the IANA HTTP Method Registry was established.</abstract>
+    <abstract>
+      <t>This document registers those Hypertext Transfer Protocol (HTTP) methods that have been defined in RFCs before the IANA HTTP Method Registry was established.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7237"/>
+  <seriesInfo name="RFC" value="7237"/>
 </reference>

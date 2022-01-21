@@ -1,15 +1,27 @@
 <reference anchor="RFC8618" target="https://www.rfc-editor.org/info/rfc8618">
   <front>
     <title>Compacted-DNS (C-DNS): A Format for DNS Packet Capture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8618"/>
-    <author fullname="J. Dickinson"/>
-    <author fullname="J. Hague"/>
-    <author fullname="S. Dickinson"/>
-    <author fullname="T. Manderson"/>
-    <author fullname="J. Bond"/>
+    <author fullname="J. Dickinson" initials="J." surname="Dickinson">
+      <organization/>
+    </author>
+    <author fullname="J. Hague" initials="J." surname="Hague">
+      <organization/>
+    </author>
+    <author fullname="S. Dickinson" initials="S." surname="Dickinson">
+      <organization/>
+    </author>
+    <author fullname="T. Manderson" initials="T." surname="Manderson">
+      <organization/>
+    </author>
+    <author fullname="J. Bond" initials="J." surname="Bond">
+      <organization/>
+    </author>
     <date year="2019" month="September"/>
     <workgroup>dnsop</workgroup>
-    <keyword>DNS</keyword>
-    <abstract>This document describes a data representation for collections of DNS messages.  The format is designed for efficient storage and transmission of large packet captures of DNS traffic; it attempts to minimize the size of such packet capture files but retain the full DNS message contents along with the most useful transport metadata.  It is intended to assist with the development of DNS traffic- monitoring applications.</abstract>
+    <abstract>
+      <t>This document describes a data representation for collections of DNS messages.  The format is designed for efficient storage and transmission of large packet captures of DNS traffic; it attempts to minimize the size of such packet capture files but retain the full DNS message contents along with the most useful transport metadata.  It is intended to assist with the development of DNS traffic- monitoring applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8618"/>
+  <seriesInfo name="RFC" value="8618"/>
 </reference>

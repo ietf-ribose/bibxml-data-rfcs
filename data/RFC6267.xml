@@ -1,14 +1,18 @@
 <reference anchor="RFC6267" target="https://www.rfc-editor.org/info/rfc6267">
   <front>
     <title>MIKEY-IBAKE: Identity-Based Authenticated Key Exchange (IBAKE) Mode of Key Distribution in Multimedia Internet KEYing (MIKEY)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6267"/>
-    <author fullname="V. Cakulev"/>
-    <author fullname="G. Sundaram"/>
+    <author fullname="V. Cakulev" initials="V." surname="Cakulev">
+      <organization/>
+    </author>
+    <author fullname="G. Sundaram" initials="G." surname="Sundaram">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Identity based encryption</keyword>
-    <keyword>authentication</keyword>
-    <keyword>key agreement</keyword>
-    <abstract>This document describes a key management protocol variant for the Multimedia Internet KEYing (MIKEY) protocol that relies on a trusted key management service.  In particular, this variant utilizes Identity-Based Authenticated Key Exchange (IBAKE) framework that allows the participating clients to perform mutual authentication and derive a session key in an asymmetric Identity-Based Encryption (IBE) framework.  This protocol, in addition to providing mutual authentication, eliminates the key escrow problem that is common in standard IBE and provides perfect forward and backward secrecy.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes a key management protocol variant for the Multimedia Internet KEYing (MIKEY) protocol that relies on a trusted key management service.  In particular, this variant utilizes Identity-Based Authenticated Key Exchange (IBAKE) framework that allows the participating clients to perform mutual authentication and derive a session key in an asymmetric Identity-Based Encryption (IBE) framework.  This protocol, in addition to providing mutual authentication, eliminates the key escrow problem that is common in standard IBE and provides perfect forward and backward secrecy.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6267"/>
+  <seriesInfo name="RFC" value="6267"/>
 </reference>

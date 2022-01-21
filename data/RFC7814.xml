@@ -1,17 +1,27 @@
 <reference anchor="RFC7814" target="https://www.rfc-editor.org/info/rfc7814">
   <front>
     <title>Virtual Subnet: A BGP/MPLS IP VPN-Based Subnet Extension Solution</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7814"/>
-    <author fullname="X. Xu"/>
-    <author fullname="C. Jacquenet"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="T. Boyes"/>
-    <author fullname="B. Fee"/>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="C. Jacquenet" initials="C." surname="Jacquenet">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="T. Boyes" initials="T." surname="Boyes">
+      <organization/>
+    </author>
+    <author fullname="B. Fee" initials="B." surname="Fee">
+      <organization/>
+    </author>
     <date year="2016" month="March"/>
     <workgroup>bess</workgroup>
-    <keyword>Data Center Interconnect</keyword>
-    <keyword>Data Center Network</keyword>
-    <keyword>Virtual Machine (VM) migration</keyword>
-    <abstract>This document describes a BGP/MPLS IP VPN-based subnet extension solution referred to as "Virtual Subnet", which can be used for building Layer 3 network virtualization overlays within and/or between data centers.</abstract>
+    <abstract>
+      <t>This document describes a BGP/MPLS IP VPN-based subnet extension solution referred to as "Virtual Subnet", which can be used for building Layer 3 network virtualization overlays within and/or between data centers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7814"/>
+  <seriesInfo name="RFC" value="7814"/>
 </reference>

@@ -1,20 +1,33 @@
 <reference anchor="RFC7575" target="https://www.rfc-editor.org/info/rfc7575">
   <front>
     <title>Autonomic Networking: Definitions and Design Goals</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7575"/>
-    <author fullname="M. Behringer"/>
-    <author fullname="M. Pritikin"/>
-    <author fullname="S. Bjarnason"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="S. Jiang"/>
-    <author fullname="L. Ciavaglia"/>
+    <author fullname="M. Behringer" initials="M." surname="Behringer">
+      <organization/>
+    </author>
+    <author fullname="M. Pritikin" initials="M." surname="Pritikin">
+      <organization/>
+    </author>
+    <author fullname="S. Bjarnason" initials="S." surname="Bjarnason">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="L. Ciavaglia" initials="L." surname="Ciavaglia">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
-    <keyword>self-management</keyword>
-    <keyword>self-chop</keyword>
-    <keyword>autonomic</keyword>
-    <keyword>secure by default</keyword>
-    <keyword>simplification</keyword>
-    <abstract>Autonomic systems were first described in 2001. The fundamental goal is self-management, including self-configuration, self-optimization, self-healing, and self-protection. This is achieved by an autonomic function having minimal dependencies on human administrators or centralized management systems. It usually implies distribution across network elements. This document defines common language and outlines design goals (and what are not design goals) for autonomic functions. A high-level reference model illustrates how functional elements in an Autonomic Network interact. This document is a product of the IRTF's Network Management Research Group.</abstract>
+    <abstract>
+      <t>Autonomic systems were first described in 2001. The fundamental goal is self-management, including self-configuration, self-optimization, self-healing, and self-protection. This is achieved by an autonomic function having minimal dependencies on human administrators or centralized management systems. It usually implies distribution across network elements.</t>
+      <t>This document defines common language and outlines design goals (and what are not design goals) for autonomic functions. A high-level reference model illustrates how functional elements in an Autonomic Network interact. This document is a product of the IRTF's Network Management Research Group.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7575"/>
+  <seriesInfo name="RFC" value="7575"/>
 </reference>

@@ -1,13 +1,21 @@
 <reference anchor="RFC4971" target="https://www.rfc-editor.org/info/rfc4971">
   <front>
     <title>Intermediate System to Intermediate System (IS-IS) Extensions for Advertising Router Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4971"/>
-    <author fullname="JP. Vasseur"/>
-    <author fullname="N. Shen"/>
-    <author fullname="R. Aggarwal"/>
+    <author fullname="JP. Vasseur" initials="JP." surname="Vasseur">
+      <organization/>
+    </author>
+    <author fullname="N. Shen" initials="N." surname="Shen">
+      <organization/>
+    </author>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>isis</workgroup>
-    <keyword>capabilty</keyword>
-    <abstract>This document defines a new optional Intermediate System to Intermediate System (IS-IS) TLV named CAPABILITY, formed of multiple sub-TLVs, which allows a router to announce its capabilities within an IS-IS level or the entire routing domain. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new optional Intermediate System to Intermediate System (IS-IS) TLV named CAPABILITY, formed of multiple sub-TLVs, which allows a router to announce its capabilities within an IS-IS level or the entire routing domain. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4971"/>
+  <seriesInfo name="RFC" value="4971"/>
 </reference>

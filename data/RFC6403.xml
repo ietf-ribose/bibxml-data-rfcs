@@ -1,14 +1,21 @@
 <reference anchor="RFC6403" target="https://www.rfc-editor.org/info/rfc6403">
   <front>
     <title>Suite B Profile of Certificate Management over CMS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6403"/>
-    <author fullname="L. Zieglar"/>
-    <author fullname="S. Turner"/>
-    <author fullname="M. Peck"/>
+    <author fullname="L. Zieglar" initials="L." surname="Zieglar">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="M. Peck" initials="M." surname="Peck">
+      <organization/>
+    </author>
     <date year="2011" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>cmc</keyword>
-    <keyword>suite b x.509 public key certificates</keyword>
-    <abstract>The United States government has published guidelines for "NSA Suite\0B Cryptography", which defines cryptographic algorithm policy for national security applications.  This document specifies a profile of the Certificate Management over CMS (CMC) protocol for managing Suite B X.509 public key certificates.  This profile is a refinement of RFCs 5272, 5273, and 5274.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The United States government has published guidelines for "NSA Suite\0B Cryptography", which defines cryptographic algorithm policy for national security applications.  This document specifies a profile of the Certificate Management over CMS (CMC) protocol for managing Suite B X.509 public key certificates.  This profile is a refinement of RFCs 5272, 5273, and 5274.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6403"/>
+  <seriesInfo name="RFC" value="6403"/>
 </reference>

@@ -1,18 +1,17 @@
 <reference anchor="RFC2376" target="https://www.rfc-editor.org/info/rfc2376">
   <front>
     <title>XML Media Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2376"/>
-    <author fullname="E. Whitehead"/>
-    <author fullname="M. Murata"/>
+    <author fullname="E. Whitehead" initials="E." surname="Whitehead">
+      <organization/>
+    </author>
+    <author fullname="M. Murata" initials="M." surname="Murata">
+      <organization/>
+    </author>
     <date year="1998" month="July"/>
-    <keyword>extensible</keyword>
-    <keyword>markup</keyword>
-    <keyword>language</keyword>
-    <keyword>web</keyword>
-    <keyword>authority</keyword>
-    <keyword>hypertext</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document proposes two new media subtypes, text/xml and application/xml, for use in exchanging network entities which are conforming Extensible Markup Language (XML).  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document proposes two new media subtypes, text/xml and application/xml, for use in exchanging network entities which are conforming Extensible Markup Language (XML).  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2376"/>
+  <seriesInfo name="RFC" value="2376"/>
 </reference>

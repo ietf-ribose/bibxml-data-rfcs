@@ -1,9 +1,14 @@
 <reference anchor="RFC0932" target="https://www.rfc-editor.org/info/rfc932">
   <front>
     <title>Subnetwork addressing scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0932"/>
-    <author fullname="D.D. Clark"/>
+    <author fullname="D.D. Clark" initials="D.D." surname="Clark">
+      <organization/>
+    </author>
     <date year="1985" month="January"/>
-    <abstract>This RFC proposes an alternative addressing scheme for subnets which, in most cases, requires no modification to host software whatsoever.  The drawbacks of this scheme are that the total number of subnets in any one network are limited, and that modification is required to all gateways.</abstract>
+    <abstract>
+      <t>This RFC proposes an alternative addressing scheme for subnets which, in most cases, requires no modification to host software whatsoever.  The drawbacks of this scheme are that the total number of subnets in any one network are limited, and that modification is required to all gateways.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0932"/>
+  <seriesInfo name="RFC" value="932"/>
 </reference>

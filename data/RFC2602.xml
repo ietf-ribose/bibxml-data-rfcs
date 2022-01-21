@@ -1,20 +1,15 @@
 <reference anchor="RFC2602" target="https://www.rfc-editor.org/info/rfc2602">
   <front>
     <title>ILMI-Based Server Discovery for MARS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2602"/>
-    <author fullname="M. Davison"/>
+    <author fullname="M. Davison" initials="M." surname="Davison">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>ion</workgroup>
-    <keyword>integrated</keyword>
-    <keyword>local</keyword>
-    <keyword>management</keyword>
-    <keyword>interface</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>address</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo defines how ILMI-based Server Discovery, which provides a method for ATM-attached hosts and routers to dynamically determine the ATM addresses of servers, shall be used to locate MARS servers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines how ILMI-based Server Discovery, which provides a method for ATM-attached hosts and routers to dynamically determine the ATM addresses of servers, shall be used to locate MARS servers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2602"/>
+  <seriesInfo name="RFC" value="2602"/>
 </reference>

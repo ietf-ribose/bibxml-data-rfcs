@@ -1,14 +1,21 @@
 <reference anchor="RFC7118" target="https://www.rfc-editor.org/info/rfc7118">
   <front>
     <title>The WebSocket Protocol as a Transport for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7118"/>
-    <author fullname="I. Baz Castillo"/>
-    <author fullname="J. Millan Villegas"/>
-    <author fullname="V. Pascual"/>
+    <author fullname="I. Baz Castillo" initials="I." surname="Baz">
+      <organization/>
+    </author>
+    <author fullname="J. Millan Villegas" initials="J." surname="Millan">
+      <organization/>
+    </author>
+    <author fullname="V. Pascual" initials="V." surname="Pascual">
+      <organization/>
+    </author>
     <date year="2014" month="January"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>WebSocket</keyword>
-    <abstract>The WebSocket protocol enables two-way real-time communication between clients and servers in web-based applications.  This document specifies a WebSocket subprotocol as a reliable transport mechanism between Session Initiation Protocol (SIP) entities to enable use of SIP in web-oriented deployments.</abstract>
+    <abstract>
+      <t>The WebSocket protocol enables two-way real-time communication between clients and servers in web-based applications.  This document specifies a WebSocket subprotocol as a reliable transport mechanism between Session Initiation Protocol (SIP) entities to enable use of SIP in web-oriented deployments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7118"/>
+  <seriesInfo name="RFC" value="7118"/>
 </reference>

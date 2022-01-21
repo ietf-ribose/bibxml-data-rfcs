@@ -1,12 +1,14 @@
 <reference anchor="RFC1291" target="https://www.rfc-editor.org/info/rfc1291">
   <front>
     <title>Mid-Level Networks Potential Technical Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1291"/>
-    <author fullname="V. Aggarwal"/>
+    <author fullname="V. Aggarwal" initials="V." surname="Aggarwal">
+      <organization/>
+    </author>
     <date year="1991" month="December"/>
-    <keyword>statistics</keyword>
-    <keyword>connectivity</keyword>
-    <keyword>management</keyword>
-    <abstract>This document proposes a set of technical services that each Internet mid-level network can offer within the mid-level network itself and and to its peer networks.  This RFC provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This document proposes a set of technical services that each Internet mid-level network can offer within the mid-level network itself and and to its peer networks.  This RFC provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1291"/>
+  <seriesInfo name="RFC" value="1291"/>
 </reference>

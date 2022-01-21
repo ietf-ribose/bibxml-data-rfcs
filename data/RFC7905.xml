@@ -1,16 +1,28 @@
 <reference anchor="RFC7905" target="https://www.rfc-editor.org/info/rfc7905">
   <front>
     <title>ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7905"/>
-    <author fullname="A. Langley"/>
-    <author fullname="W. Chang"/>
-    <author fullname="N. Mavrogiannopoulos"/>
-    <author fullname="J. Strombergson"/>
-    <author fullname="S. Josefsson"/>
+    <author fullname="A. Langley" initials="A." surname="Langley">
+      <organization/>
+    </author>
+    <author fullname="W. Chang" initials="W." surname="Chang">
+      <organization/>
+    </author>
+    <author fullname="N. Mavrogiannopoulos" initials="N." surname="Mavrogiannopoulos">
+      <organization/>
+    </author>
+    <author fullname="J. Strombergson" initials="J." surname="Strombergson">
+      <organization/>
+    </author>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>tls</workgroup>
-    <keyword>AEAD</keyword>
-    <keyword>DTLS</keyword>
-    <abstract>This document describes the use of the ChaCha stream cipher and Poly1305 authenticator in the Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) protocols. This document updates RFCs 5246 and 6347.</abstract>
+    <abstract>
+      <t>This document describes the use of the ChaCha stream cipher and Poly1305 authenticator in the Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) protocols.</t>
+      <t>This document updates RFCs 5246 and 6347.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7905"/>
+  <seriesInfo name="RFC" value="7905"/>
 </reference>

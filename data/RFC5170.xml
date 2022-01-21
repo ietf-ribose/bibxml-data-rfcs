@@ -1,14 +1,21 @@
 <reference anchor="RFC5170" target="https://www.rfc-editor.org/info/rfc5170">
   <front>
     <title>Low Density Parity Check (LDPC) Staircase and Triangle Forward Error Correction (FEC) Schemes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5170"/>
-    <author fullname="V. Roca"/>
-    <author fullname="C. Neumann"/>
-    <author fullname="D. Furodet"/>
+    <author fullname="V. Roca" initials="V." surname="Roca">
+      <organization/>
+    </author>
+    <author fullname="C. Neumann" initials="C." surname="Neumann">
+      <organization/>
+    </author>
+    <author fullname="D. Furodet" initials="D." surname="Furodet">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>rmt</workgroup>
-    <keyword>LDPC</keyword>
-    <keyword>FEC</keyword>
-    <abstract>This document describes two Fully-Specified Forward Error Correction (FEC) Schemes, Low Density Parity Check (LDPC) Staircase and LDPC Triangle, and their application to the reliable delivery of data objects on the packet erasure channel (i.e., a communication path where packets are either received without any corruption or discarded during transmission).  These systematic FEC codes belong to the well- known class of "Low Density Parity Check" codes, and are large block FEC codes in the sense of RFC 3453. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes two Fully-Specified Forward Error Correction (FEC) Schemes, Low Density Parity Check (LDPC) Staircase and LDPC Triangle, and their application to the reliable delivery of data objects on the packet erasure channel (i.e., a communication path where packets are either received without any corruption or discarded during transmission).  These systematic FEC codes belong to the well- known class of "Low Density Parity Check" codes, and are large block FEC codes in the sense of RFC 3453. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5170"/>
+  <seriesInfo name="RFC" value="5170"/>
 </reference>

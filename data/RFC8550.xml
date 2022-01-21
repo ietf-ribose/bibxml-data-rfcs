@@ -1,13 +1,21 @@
 <reference anchor="RFC8550" target="https://www.rfc-editor.org/info/rfc8550">
   <front>
     <title>Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Certificate Handling</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8550"/>
-    <author fullname="J. Schaad"/>
-    <author fullname="B. Ramsdell"/>
-    <author fullname="S. Turner"/>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
+    <author fullname="B. Ramsdell" initials="B." surname="Ramsdell">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
     <date year="2019" month="April"/>
     <workgroup>lamps</workgroup>
-    <keyword>S/MIME</keyword>
-    <abstract>This document specifies conventions for X.509 certificate usage by Secure/Multipurpose Internet Mail Extensions (S/MIME) v4.0 agents.  S/MIME provides a method to send and receive secure MIME messages, and certificates are an integral part of S/MIME agent processing.  S/MIME agents validate certificates as described in RFC 5280 ("Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile").  S/MIME agents must meet the certificate-processing requirements in this document as well as those in RFC 5280.  This document obsoletes RFC 5750.</abstract>
+    <abstract>
+      <t>This document specifies conventions for X.509 certificate usage by Secure/Multipurpose Internet Mail Extensions (S/MIME) v4.0 agents.  S/MIME provides a method to send and receive secure MIME messages, and certificates are an integral part of S/MIME agent processing.  S/MIME agents validate certificates as described in RFC 5280 ("Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile").  S/MIME agents must meet the certificate-processing requirements in this document as well as those in RFC 5280.  This document obsoletes RFC 5750.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8550"/>
+  <seriesInfo name="RFC" value="8550"/>
 </reference>

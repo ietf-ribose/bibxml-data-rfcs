@@ -1,15 +1,14 @@
 <reference anchor="RFC1980" target="https://www.rfc-editor.org/info/rfc1980">
   <front>
     <title>A Proposed Extension to HTML : Client-Side Image Maps</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1980"/>
-    <author fullname="J. Seidman"/>
+    <author fullname="J. Seidman" initials="J." surname="Seidman">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
-    <keyword>HyperText</keyword>
-    <keyword>Markup</keyword>
-    <keyword>Language</keyword>
-    <keyword>Uniform</keyword>
-    <keyword>Identifier</keyword>
-    <keyword>URI</keyword>
-    <abstract>The markup language known as "HTML/2.0" provides for image maps.  Image maps are document elements which allow clicking different areas of an image to reference different network resources, as specified by Uniform Identifier (URIs).  The image map capability in HTML/2.0 is limited in several ways, such as the restriction that it only works with documents served via the "HTTP" protocol, and the lack of a viable fallback for users of text-only browsers.  This document specifies an extension to the HTML language, referred to as "Client- Side Image Maps," which resolves these limitations.</abstract>
+    <abstract>
+      <t>The markup language known as "HTML/2.0" provides for image maps.  Image maps are document elements which allow clicking different areas of an image to reference different network resources, as specified by Uniform Identifier (URIs).  The image map capability in HTML/2.0 is limited in several ways, such as the restriction that it only works with documents served via the "HTTP" protocol, and the lack of a viable fallback for users of text-only browsers.  This document specifies an extension to the HTML language, referred to as "Client- Side Image Maps," which resolves these limitations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1980"/>
+  <seriesInfo name="RFC" value="1980"/>
 </reference>

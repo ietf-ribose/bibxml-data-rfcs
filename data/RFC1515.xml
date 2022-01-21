@@ -1,15 +1,21 @@
 <reference anchor="RFC1515" target="https://www.rfc-editor.org/info/rfc1515">
   <front>
     <title>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1515"/>
-    <author fullname="D. McMaster"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="S. Roberts"/>
+    <author fullname="D. McMaster" initials="D." surname="McMaster">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="S. Roberts" initials="S." surname="Roberts">
+      <organization/>
+    </author>
     <date year="1993" month="September"/>
     <workgroup>hubmib</workgroup>
-    <keyword>MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>SNMP</keyword>
-    <abstract>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing IEEE 802.3 Medium Attachment Units (MAUs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing IEEE 802.3 Medium Attachment Units (MAUs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1515"/>
+  <seriesInfo name="RFC" value="1515"/>
 </reference>

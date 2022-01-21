@@ -1,16 +1,24 @@
 <reference anchor="RFC5479" target="https://www.rfc-editor.org/info/rfc5479">
   <front>
     <title>Requirements and Analysis of Media Security Management Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5479"/>
-    <author fullname="D. Wing"/>
-    <author fullname="S. Fries"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="F. Audet"/>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="S. Fries" initials="S." surname="Fries">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="F. Audet" initials="F." surname="Audet">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
     <workgroup>sip</workgroup>
-    <keyword>keying</keyword>
-    <keyword>Secure RTP</keyword>
-    <keyword>SRTP</keyword>
-    <abstract>This document describes requirements for a protocol to negotiate a security context for SIP-signaled Secure RTP (SRTP) media.  In addition to the natural security requirements, this negotiation protocol must interoperate well with SIP in certain ways.  A number of proposals have been published and a summary of these proposals is in the appendix of this document.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes requirements for a protocol to negotiate a security context for SIP-signaled Secure RTP (SRTP) media.  In addition to the natural security requirements, this negotiation protocol must interoperate well with SIP in certain ways.  A number of proposals have been published and a summary of these proposals is in the appendix of this document.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5479"/>
+  <seriesInfo name="RFC" value="5479"/>
 </reference>

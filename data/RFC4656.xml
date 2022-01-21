@@ -1,18 +1,27 @@
 <reference anchor="RFC4656" target="https://www.rfc-editor.org/info/rfc4656">
   <front>
     <title>A One-way Active Measurement Protocol (OWAMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4656"/>
-    <author fullname="S. Shalunov"/>
-    <author fullname="B. Teitelbaum"/>
-    <author fullname="A. Karp"/>
-    <author fullname="J. Boote"/>
-    <author fullname="M. Zekauskas"/>
+    <author fullname="S. Shalunov" initials="S." surname="Shalunov">
+      <organization/>
+    </author>
+    <author fullname="B. Teitelbaum" initials="B." surname="Teitelbaum">
+      <organization/>
+    </author>
+    <author fullname="A. Karp" initials="A." surname="Karp">
+      <organization/>
+    </author>
+    <author fullname="J. Boote" initials="J." surname="Boote">
+      <organization/>
+    </author>
+    <author fullname="M. Zekauskas" initials="M." surname="Zekauskas">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>ippm</workgroup>
-    <keyword>unidirectional characteristics</keyword>
-    <keyword>one-way</keyword>
-    <keyword>gps</keyword>
-    <keyword>cdma</keyword>
-    <abstract>The One-Way Active Measurement Protocol (OWAMP) measures unidirectional characteristics such as one-way delay and one-way loss.  High-precision measurement of these one-way IP performance metrics became possible with wider availability of good time sources (such as GPS and CDMA).  OWAMP enables the interoperability of these measurements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The One-Way Active Measurement Protocol (OWAMP) measures unidirectional characteristics such as one-way delay and one-way loss.  High-precision measurement of these one-way IP performance metrics became possible with wider availability of good time sources (such as GPS and CDMA).  OWAMP enables the interoperability of these measurements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4656"/>
+  <seriesInfo name="RFC" value="4656"/>
 </reference>

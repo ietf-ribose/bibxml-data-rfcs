@@ -1,14 +1,24 @@
 <reference anchor="RFC6333" target="https://www.rfc-editor.org/info/rfc6333">
   <front>
     <title>Dual-Stack Lite Broadband Deployments Following IPv4 Exhaustion</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6333"/>
-    <author fullname="A. Durand"/>
-    <author fullname="R. Droms"/>
-    <author fullname="J. Woodyatt"/>
-    <author fullname="Y. Lee"/>
+    <author fullname="A. Durand" initials="A." surname="Durand">
+      <organization/>
+    </author>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
+    <author fullname="J. Woodyatt" initials="J." surname="Woodyatt">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>softwire</workgroup>
-    <keyword>NAT</keyword>
-    <abstract>This document revisits the dual-stack model and introduces the Dual- Stack Lite technology aimed at better aligning the costs and benefits of deploying IPv6 in service provider networks.  Dual-Stack Lite enables a broadband service provider to share IPv4 addresses among customers by combining two well-known technologies: IP in IP (IPv4- in-IPv6) and Network Address Translation (NAT). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document revisits the dual-stack model and introduces the Dual- Stack Lite technology aimed at better aligning the costs and benefits of deploying IPv6 in service provider networks.  Dual-Stack Lite enables a broadband service provider to share IPv4 addresses among customers by combining two well-known technologies: IP in IP (IPv4- in-IPv6) and Network Address Translation (NAT). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6333"/>
+  <seriesInfo name="RFC" value="6333"/>
 </reference>

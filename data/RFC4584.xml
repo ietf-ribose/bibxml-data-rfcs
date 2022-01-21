@@ -1,16 +1,19 @@
 <reference anchor="RFC4584" target="https://www.rfc-editor.org/info/rfc4584">
   <front>
     <title>Extension to Sockets API for Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4584"/>
-    <author fullname="S. Chakrabarti"/>
-    <author fullname="E. Nordmark"/>
+    <author fullname="S. Chakrabarti" initials="S." surname="Chakrabarti">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>mip6</workgroup>
-    <keyword>advanced socket api</keyword>
-    <keyword>mobility header messages</keyword>
-    <keyword>hom address destination</keyword>
-    <keyword>routing header type 2</keyword>
-    <keyword>socket applications</keyword>
-    <abstract>This document describes data structures and API support for Mobile IPv6 as an extension to the Advanced Socket API for IPv6. Just as the Advanced Sockets API for IPv6 gives access to various extension headers and the ICMPv6 protocol, this document specifies the same level of access for Mobile IPv6 components. It specifies a mechanism for applications to retrieve and set information for Mobility Header messages, Home Address destination options, and Routing Header Type 2 extension headers. It also specifies the common data structures and definitions that might be used by certain advanced Mobile IPv6 socket applications. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes data structures and API support for Mobile IPv6 as an extension to the Advanced Socket API for IPv6.</t>
+      <t>Just as the Advanced Sockets API for IPv6 gives access to various extension headers and the ICMPv6 protocol, this document specifies the same level of access for Mobile IPv6 components. It specifies a mechanism for applications to retrieve and set information for Mobility Header messages, Home Address destination options, and Routing Header Type 2 extension headers. It also specifies the common data structures and definitions that might be used by certain advanced Mobile IPv6 socket applications. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4584"/>
+  <seriesInfo name="RFC" value="4584"/>
 </reference>

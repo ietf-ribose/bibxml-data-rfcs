@@ -1,14 +1,18 @@
 <reference anchor="RFC2875" target="https://www.rfc-editor.org/info/rfc2875">
   <front>
     <title>Diffie-Hellman Proof-of-Possession Algorithms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2875"/>
-    <author fullname="H. Prafullchandra"/>
-    <author fullname="J. Schaad"/>
+    <author fullname="H. Prafullchandra" initials="H." surname="Prafullchandra">
+      <organization/>
+    </author>
+    <author fullname="J. Schaad" initials="J." surname="Schaad">
+      <organization/>
+    </author>
     <date year="2000" month="July"/>
     <workgroup>pkix</workgroup>
-    <keyword>certificate</keyword>
-    <keyword>security</keyword>
-    <keyword>encryption</keyword>
-    <abstract>This document describes two methods for producing an integrity check value from a Diffie-Hellman key pair. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes two methods for producing an integrity check value from a Diffie-Hellman key pair. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2875"/>
+  <seriesInfo name="RFC" value="2875"/>
 </reference>

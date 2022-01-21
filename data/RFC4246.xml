@@ -1,14 +1,15 @@
 <reference anchor="RFC4246" target="https://www.rfc-editor.org/info/rfc4246">
   <front>
     <title>International Standard Audiovisual Number (ISAN) URN Definition</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4246"/>
-    <author fullname="M. Dolan"/>
+    <author fullname="M. Dolan" initials="M." surname="Dolan">
+      <organization/>
+    </author>
     <date year="2006" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>numbering system</keyword>
-    <keyword>international identification</keyword>
-    <keyword>audiovisual</keyword>
-    <keyword>uniform resource identifier</keyword>
-    <abstract>The International Standard Audiovisual Number (ISAN) is a standard numbering system for the unique and international identification of audiovisual works.  This document is the definition of the formal Uniform Resource Name (URN) Namespace Identifier (NID) for ISAN.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The International Standard Audiovisual Number (ISAN) is a standard numbering system for the unique and international identification of audiovisual works.  This document is the definition of the formal Uniform Resource Name (URN) Namespace Identifier (NID) for ISAN.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4246"/>
+  <seriesInfo name="RFC" value="4246"/>
 </reference>

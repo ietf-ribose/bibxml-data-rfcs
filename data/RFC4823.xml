@@ -1,14 +1,18 @@
 <reference anchor="RFC4823" target="https://www.rfc-editor.org/info/rfc4823">
   <front>
     <title>FTP Transport for Secure Peer-to-Peer Business Data Interchange over the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4823"/>
-    <author fullname="T. Harding"/>
-    <author fullname="R. Scott"/>
+    <author fullname="T. Harding" initials="T." surname="Harding">
+      <organization/>
+    </author>
+    <author fullname="R. Scott" initials="R." surname="Scott">
+      <organization/>
+    </author>
     <date year="2007" month="April"/>
     <workgroup>ediint</workgroup>
-    <keyword>applicability statement</keyword>
-    <keyword>as</keyword>
-    <keyword>business-to-business</keyword>
-    <abstract>This Applicability Statement (AS) describes how to exchange structured business data securely using the File Transfer Protocol (FTP) for XML, Binary, Electronic Data Interchange (EDI - ANSI X12 or UN/EDIFACT), or other data used for business-to-business data interchange for which MIME packaging can be accomplished using standard MIME content types.  Authentication and data confidentiality are obtained by using Cryptographic Message Syntax (S/MIME) security body parts.  Authenticated acknowledgements employ multipart/signed replies to the original message.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This Applicability Statement (AS) describes how to exchange structured business data securely using the File Transfer Protocol (FTP) for XML, Binary, Electronic Data Interchange (EDI - ANSI X12 or UN/EDIFACT), or other data used for business-to-business data interchange for which MIME packaging can be accomplished using standard MIME content types.  Authentication and data confidentiality are obtained by using Cryptographic Message Syntax (S/MIME) security body parts.  Authenticated acknowledgements employ multipart/signed replies to the original message.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4823"/>
+  <seriesInfo name="RFC" value="4823"/>
 </reference>

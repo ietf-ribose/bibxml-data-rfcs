@@ -1,15 +1,27 @@
 <reference anchor="RFC6726" target="https://www.rfc-editor.org/info/rfc6726">
   <front>
     <title>FLUTE - File Delivery over Unidirectional Transport</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6726"/>
-    <author fullname="T. Paila"/>
-    <author fullname="R. Walsh"/>
-    <author fullname="M. Luby"/>
-    <author fullname="V. Roca"/>
-    <author fullname="R. Lehtonen"/>
+    <author fullname="T. Paila" initials="T." surname="Paila">
+      <organization/>
+    </author>
+    <author fullname="R. Walsh" initials="R." surname="Walsh">
+      <organization/>
+    </author>
+    <author fullname="M. Luby" initials="M." surname="Luby">
+      <organization/>
+    </author>
+    <author fullname="V. Roca" initials="V." surname="Roca">
+      <organization/>
+    </author>
+    <author fullname="R. Lehtonen" initials="R." surname="Lehtonen">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>rmt</workgroup>
-    <keyword>Multicast</keyword>
-    <abstract>This document defines File Delivery over Unidirectional Transport (FLUTE), a protocol for the unidirectional delivery of files over the Internet, which is particularly suited to multicast networks.  The specification builds on Asynchronous Layered Coding, the base protocol designed for massively scalable multicast distribution.  This document obsoletes RFC 3926. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines File Delivery over Unidirectional Transport (FLUTE), a protocol for the unidirectional delivery of files over the Internet, which is particularly suited to multicast networks.  The specification builds on Asynchronous Layered Coding, the base protocol designed for massively scalable multicast distribution.  This document obsoletes RFC 3926. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6726"/>
+  <seriesInfo name="RFC" value="6726"/>
 </reference>

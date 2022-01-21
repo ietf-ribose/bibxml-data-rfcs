@@ -1,17 +1,15 @@
 <reference anchor="RFC3861" target="https://www.rfc-editor.org/info/rfc3861">
   <front>
     <title>Address Resolution for Instant Messaging and Presence</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3861"/>
-    <author fullname="J. Peterson"/>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>impp</workgroup>
-    <keyword>uri</keyword>
-    <keyword>schemes</keyword>
-    <keyword>universal resource identifier</keyword>
-    <keyword>impp</keyword>
-    <keyword>instant messaging and presence protocol</keyword>
-    <keyword>presentity</keyword>
-    <keyword>instant inbox</keyword>
-    <abstract>Presence and instant messaging are defined in RFC 2778.  The Common Profiles for Presence and Instant Messaging define two Universal Resource Identifier (URI) schemes: 'im' for INSTANT INBOXes and 'pres' for PRESENTITIES.  This document provides guidance for locating the resources associated with URIs that employ these schemes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Presence and instant messaging are defined in RFC 2778.  The Common Profiles for Presence and Instant Messaging define two Universal Resource Identifier (URI) schemes: 'im' for INSTANT INBOXes and 'pres' for PRESENTITIES.  This document provides guidance for locating the resources associated with URIs that employ these schemes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3861"/>
+  <seriesInfo name="RFC" value="3861"/>
 </reference>

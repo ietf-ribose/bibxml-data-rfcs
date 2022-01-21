@@ -1,15 +1,21 @@
 <reference anchor="RFC7561" target="https://www.rfc-editor.org/info/rfc7561">
   <front>
     <title>Mapping Quality of Service (QoS) Procedures of Proxy Mobile IPv6 (PMIPv6) and WLAN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7561"/>
-    <author fullname="J. Kaippallimalil"/>
-    <author fullname="R. Pazhyannur"/>
-    <author fullname="P. Yegani"/>
+    <author fullname="J. Kaippallimalil" initials="J." surname="Kaippallimalil">
+      <organization/>
+    </author>
+    <author fullname="R. Pazhyannur" initials="R." surname="Pazhyannur">
+      <organization/>
+    </author>
+    <author fullname="P. Yegani" initials="P." surname="Yegani">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
     <workgroup>netext</workgroup>
-    <keyword>PMIPv6</keyword>
-    <keyword>Wi-Fi</keyword>
-    <keyword>QoS</keyword>
-    <abstract>This document provides guidelines for achieving end-to-end Quality of Service (QoS) in a Proxy Mobile IPv6 (PMIPv6) domain where the access network is based on IEEE 802.11.  RFC 7222 describes QoS negotiation between a Mobile Access Gateway (MAG) and Local Mobility Anchor (LMA) in a PMIPv6 mobility domain.  The negotiated QoS parameters can be used for QoS policing and marking of packets to enforce QoS differentiation on the path between the MAG and LMA.  IEEE 802.11 and Wi-Fi Multimedia - Admission Control (WMM-AC) describe methods for QoS negotiation between a Wi-Fi Station (MN in PMIPv6 terminology) and an Access Point.  This document provides a mapping between the above two sets of QoS procedures and the associated QoS parameters.  This document is intended to be used as a companion document to RFC 7222 to enable implementation of end-to-end QoS.</abstract>
+    <abstract>
+      <t>This document provides guidelines for achieving end-to-end Quality of Service (QoS) in a Proxy Mobile IPv6 (PMIPv6) domain where the access network is based on IEEE 802.11.  RFC 7222 describes QoS negotiation between a Mobile Access Gateway (MAG) and Local Mobility Anchor (LMA) in a PMIPv6 mobility domain.  The negotiated QoS parameters can be used for QoS policing and marking of packets to enforce QoS differentiation on the path between the MAG and LMA.  IEEE 802.11 and Wi-Fi Multimedia - Admission Control (WMM-AC) describe methods for QoS negotiation between a Wi-Fi Station (MN in PMIPv6 terminology) and an Access Point.  This document provides a mapping between the above two sets of QoS procedures and the associated QoS parameters.  This document is intended to be used as a companion document to RFC 7222 to enable implementation of end-to-end QoS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7561"/>
+  <seriesInfo name="RFC" value="7561"/>
 </reference>

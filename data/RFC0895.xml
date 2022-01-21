@@ -1,10 +1,15 @@
 <reference anchor="RFC0895" target="https://www.rfc-editor.org/info/rfc895">
   <front>
     <title>Standard for the transmission of IP datagrams over experimental Ethernet networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0895"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1984" month="April"/>
-    <keyword>IP-EE</keyword>
-    <abstract>This RFC specifies a standard method of encapsulating Internet Protocol (IP) datagrams on an Experimental Ethernet.  This RFC specifies a standard protocol for the ARPA Internet community.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard method of encapsulating Internet Protocol (IP) datagrams on an Experimental Ethernet.  This RFC specifies a standard protocol for the ARPA Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0895"/>
+  <seriesInfo name="STD" value="42"/>
+  <seriesInfo name="RFC" value="895"/>
 </reference>

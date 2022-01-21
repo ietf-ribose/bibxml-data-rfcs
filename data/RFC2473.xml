@@ -1,14 +1,18 @@
 <reference anchor="RFC2473" target="https://www.rfc-editor.org/info/rfc2473">
   <front>
     <title>Generic Packet Tunneling in IPv6 Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2473"/>
-    <author fullname="A. Conta"/>
-    <author fullname="S. Deering"/>
+    <author fullname="A. Conta" initials="A." surname="Conta">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>encapsulation</keyword>
-    <abstract>This document defines the model and generic mechanisms for IPv6 encapsulation of Internet packets, such as IPv6 and IPv4. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the model and generic mechanisms for IPv6 encapsulation of Internet packets, such as IPv6 and IPv4. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2473"/>
+  <seriesInfo name="RFC" value="2473"/>
 </reference>

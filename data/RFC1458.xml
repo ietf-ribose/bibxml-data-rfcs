@@ -1,11 +1,17 @@
 <reference anchor="RFC1458" target="https://www.rfc-editor.org/info/rfc1458">
   <front>
     <title>Requirements for Multicast Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1458"/>
-    <author fullname="R. Braudes"/>
-    <author fullname="S. Zabele"/>
+    <author fullname="R. Braudes" initials="R." surname="Braudes">
+      <organization/>
+    </author>
+    <author fullname="S. Zabele" initials="S." surname="Zabele">
+      <organization/>
+    </author>
     <date year="1993" month="May"/>
-    <keyword>Real-Time</keyword>
-    <abstract>This memo discusses some of these unresolved issues, and provides a high-level design for a new multicast transport protocol, group address and membership authority, and modifications to existing routing protocols.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo discusses some of these unresolved issues, and provides a high-level design for a new multicast transport protocol, group address and membership authority, and modifications to existing routing protocols.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1458"/>
+  <seriesInfo name="RFC" value="1458"/>
 </reference>

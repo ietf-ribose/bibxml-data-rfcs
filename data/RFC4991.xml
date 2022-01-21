@@ -1,12 +1,15 @@
 <reference anchor="RFC4991" target="https://www.rfc-editor.org/info/rfc4991">
   <front>
     <title>A Common Schema for Internet Registry Information Service Transfer Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4991"/>
-    <author fullname="A. Newton"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
     <date year="2007" month="August"/>
     <workgroup>crisp</workgroup>
-    <keyword>iris</keyword>
-    <keyword>xml</keyword>
-    <abstract>This document describes an XML Schema for use by Internet Registry Information Service (IRIS) application transfer protocols that share common characteristics.  It describes common information about the transfer protocol, such as version, supported extensions, and supported security mechanisms. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an XML Schema for use by Internet Registry Information Service (IRIS) application transfer protocols that share common characteristics.  It describes common information about the transfer protocol, such as version, supported extensions, and supported security mechanisms. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4991"/>
+  <seriesInfo name="RFC" value="4991"/>
 </reference>

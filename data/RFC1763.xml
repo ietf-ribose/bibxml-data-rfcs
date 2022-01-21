@@ -1,12 +1,15 @@
 <reference anchor="RFC1763" target="https://www.rfc-editor.org/info/rfc1763">
   <front>
     <title>The PPP Banyan Vines Control Protocol (BVCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1763"/>
-    <author fullname="S. Senum"/>
+    <author fullname="S. Senum" initials="S." surname="Senum">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>pppext</workgroup>
-    <keyword>BVCP</keyword>
-    <keyword>Point</keyword>
-    <abstract>This document defines the Network Control Protocol for establishing and configuring the Banyan VINES protocol over PPP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the Network Control Protocol for establishing and configuring the Banyan VINES protocol over PPP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1763"/>
+  <seriesInfo name="RFC" value="1763"/>
 </reference>

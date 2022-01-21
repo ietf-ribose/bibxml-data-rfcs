@@ -1,19 +1,27 @@
 <reference anchor="RFC6287" target="https://www.rfc-editor.org/info/rfc6287">
   <front>
     <title>OCRA: OATH Challenge-Response Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6287"/>
-    <author fullname="D. M'Raihi"/>
-    <author fullname="J. Rydell"/>
-    <author fullname="S. Bajaj"/>
-    <author fullname="S. Machani"/>
-    <author fullname="D. Naccache"/>
+    <author fullname="D. M'Raihi" initials="D." surname="M'Raihi">
+      <organization/>
+    </author>
+    <author fullname="J. Rydell" initials="J." surname="Rydell">
+      <organization/>
+    </author>
+    <author fullname="S. Bajaj" initials="S." surname="Bajaj">
+      <organization/>
+    </author>
+    <author fullname="S. Machani" initials="S." surname="Machani">
+      <organization/>
+    </author>
+    <author fullname="D. Naccache" initials="D." surname="Naccache">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>HOTP</keyword>
-    <keyword>TOTP</keyword>
-    <keyword>One-Time Password</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Signature</keyword>
-    <abstract>This document describes an algorithm for challenge-response authentication developed by the Initiative for Open Authentication (OATH).  The specified mechanisms leverage the HMAC-based One-Time Password (HOTP) algorithm and offer one-way and mutual authentication, and electronic signature capabilities.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes an algorithm for challenge-response authentication developed by the Initiative for Open Authentication (OATH).  The specified mechanisms leverage the HMAC-based One-Time Password (HOTP) algorithm and offer one-way and mutual authentication, and electronic signature capabilities.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6287"/>
+  <seriesInfo name="RFC" value="6287"/>
 </reference>

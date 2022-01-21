@@ -1,14 +1,24 @@
 <reference anchor="RFC3039" target="https://www.rfc-editor.org/info/rfc3039">
   <front>
     <title>Internet X.509 Public Key Infrastructure Qualified Certificates Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3039"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="W. Polk"/>
-    <author fullname="P. Barzin"/>
-    <author fullname="M. Nystrom"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="W. Polk" initials="W." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="P. Barzin" initials="P." surname="Barzin">
+      <organization/>
+    </author>
+    <author fullname="M. Nystrom" initials="M." surname="Nystrom">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
     <workgroup>pkix</workgroup>
-    <keyword>syntax</keyword>
-    <abstract>This document forms a certificate profile for Qualified Certificates, based on RFC 2459, for use in the Internet.  The goal of this document is to define a general syntax independent of local legal requirements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document forms a certificate profile for Qualified Certificates, based on RFC 2459, for use in the Internet.  The goal of this document is to define a general syntax independent of local legal requirements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3039"/>
+  <seriesInfo name="RFC" value="3039"/>
 </reference>

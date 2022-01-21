@@ -1,14 +1,15 @@
 <reference anchor="RFC5582" target="https://www.rfc-editor.org/info/rfc5582">
   <front>
     <title>Location-to-URL Mapping Architecture and Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5582"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2009" month="September"/>
     <workgroup>ecrit</workgroup>
-    <keyword>ECRIT</keyword>
-    <keyword>Mapping</keyword>
-    <keyword>LoST</keyword>
-    <keyword>Emergency calling</keyword>
-    <abstract>This document describes an architecture for a global, scalable, resilient, and administratively distributed system for mapping geographic location information to URLs, using the Location-to-Service Translation (LoST) protocol.  The architecture generalizes well-known approaches found in hierarchical lookup systems such as DNS.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes an architecture for a global, scalable, resilient, and administratively distributed system for mapping geographic location information to URLs, using the Location-to-Service Translation (LoST) protocol.  The architecture generalizes well-known approaches found in hierarchical lookup systems such as DNS.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5582"/>
+  <seriesInfo name="RFC" value="5582"/>
 </reference>

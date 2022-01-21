@@ -1,10 +1,14 @@
 <reference anchor="RFC1004" target="https://www.rfc-editor.org/info/rfc1004">
   <front>
     <title>Distributed-protocol authentication scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1004"/>
-    <author fullname="D.L. Mills"/>
+    <author fullname="D.L. Mills" initials="D.L." surname="Mills">
+      <organization/>
+    </author>
     <date year="1987" month="April"/>
-    <keyword>COOKIE-JAR</keyword>
-    <abstract>The purpose of this RFC is to focus discussion on authentication problems in the Internet and possible methods of solution.  The proposed solutions this document are not intended as standards for the Internet at this time.  Rather, it is hoped that a general consensus will emerge as to the appropriate solution to authentication problems, leading eventually to the adoption of standards.  This document suggests mediated access-control and authentication procedures suitable for those cases when an association is to be set up between users belonging to different trust environments.</abstract>
+    <abstract>
+      <t>The purpose of this RFC is to focus discussion on authentication problems in the Internet and possible methods of solution.  The proposed solutions this document are not intended as standards for the Internet at this time.  Rather, it is hoped that a general consensus will emerge as to the appropriate solution to authentication problems, leading eventually to the adoption of standards.  This document suggests mediated access-control and authentication procedures suitable for those cases when an association is to be set up between users belonging to different trust environments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1004"/>
+  <seriesInfo name="RFC" value="1004"/>
 </reference>

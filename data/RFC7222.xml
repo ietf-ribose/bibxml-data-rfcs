@@ -1,20 +1,27 @@
 <reference anchor="RFC7222" target="https://www.rfc-editor.org/info/rfc7222">
   <front>
     <title>Quality-of-Service Option for Proxy Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7222"/>
-    <author fullname="M. Liebsch"/>
-    <author fullname="P. Seite"/>
-    <author fullname="H. Yokota"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="S. Gundavelli"/>
+    <author fullname="M. Liebsch" initials="M." surname="Liebsch">
+      <organization/>
+    </author>
+    <author fullname="P. Seite" initials="P." surname="Seite">
+      <organization/>
+    </author>
+    <author fullname="H. Yokota" initials="H." surname="Yokota">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="S. Gundavelli" initials="S." surname="Gundavelli">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>netext</workgroup>
-    <keyword>QoS</keyword>
-    <keyword>Quality of Service</keyword>
-    <keyword>PMIP-QoS</keyword>
-    <keyword>PMIPv6-QoS</keyword>
-    <keyword>WiFi-QoS</keyword>
-    <keyword>3GPP-QoS</keyword>
-    <abstract>This specification defines a new mobility option, the Quality-of- Service (QoS) option, for Proxy Mobile IPv6.  This option can be used by the local mobility anchor and the mobile access gateway for negotiating Quality-of-Service parameters for a mobile node's IP flows.  The negotiated QoS parameters can be used for QoS policing and marking of packets to enforce QoS differentiation on the path between the local mobility anchor and the mobile access gateway.  Furthermore, making QoS parameters available on the mobile access gateway enables mapping of these parameters to QoS rules that are specific to the access technology and allows those rules to be enforced on the access network using access-technology-specific approaches.</abstract>
+    <abstract>
+      <t>This specification defines a new mobility option, the Quality-of- Service (QoS) option, for Proxy Mobile IPv6.  This option can be used by the local mobility anchor and the mobile access gateway for negotiating Quality-of-Service parameters for a mobile node's IP flows.  The negotiated QoS parameters can be used for QoS policing and marking of packets to enforce QoS differentiation on the path between the local mobility anchor and the mobile access gateway.  Furthermore, making QoS parameters available on the mobile access gateway enables mapping of these parameters to QoS rules that are specific to the access technology and allows those rules to be enforced on the access network using access-technology-specific approaches.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7222"/>
+  <seriesInfo name="RFC" value="7222"/>
 </reference>

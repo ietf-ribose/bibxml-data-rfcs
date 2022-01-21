@@ -1,19 +1,27 @@
 <reference anchor="RFC7333" target="https://www.rfc-editor.org/info/rfc7333">
   <front>
     <title>Requirements for Distributed Mobility Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7333"/>
-    <author fullname="H. Chan"/>
-    <author fullname="D. Liu"/>
-    <author fullname="P. Seite"/>
-    <author fullname="H. Yokota"/>
-    <author fullname="J. Korhonen"/>
+    <author fullname="H. Chan" initials="H." surname="Chan">
+      <organization/>
+    </author>
+    <author fullname="D. Liu" initials="D." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="P. Seite" initials="P." surname="Seite">
+      <organization/>
+    </author>
+    <author fullname="H. Yokota" initials="H." surname="Yokota">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>dmm</workgroup>
-    <keyword>Distributed Mobility Management</keyword>
-    <keyword>Network function distribution</keyword>
-    <keyword>Flat mobile network</keyword>
-    <keyword>Mobile network operation and management</keyword>
-    <keyword>Control and data plane separation</keyword>
-    <abstract>This document defines the requirements for Distributed Mobility Management (DMM) at the network layer.  The hierarchical structure in traditional wireless networks has led primarily to centrally deployed mobility anchors.  As some wireless networks are evolving away from the hierarchical structure, it can be useful to have a distributed model for mobility management in which traffic does not need to traverse centrally deployed mobility anchors far from the optimal route.  The motivation and the problems addressed by each requirement are also described.</abstract>
+    <abstract>
+      <t>This document defines the requirements for Distributed Mobility Management (DMM) at the network layer.  The hierarchical structure in traditional wireless networks has led primarily to centrally deployed mobility anchors.  As some wireless networks are evolving away from the hierarchical structure, it can be useful to have a distributed model for mobility management in which traffic does not need to traverse centrally deployed mobility anchors far from the optimal route.  The motivation and the problems addressed by each requirement are also described.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7333"/>
+  <seriesInfo name="RFC" value="7333"/>
 </reference>

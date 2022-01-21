@@ -1,16 +1,27 @@
 <reference anchor="RFC8221" target="https://www.rfc-editor.org/info/rfc8221">
   <front>
     <title>Cryptographic Algorithm Implementation Requirements and Usage Guidance for Encapsulating Security Payload (ESP) and Authentication Header (AH)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8221"/>
-    <author fullname="P. Wouters"/>
-    <author fullname="D. Migault"/>
-    <author fullname="J. Mattsson"/>
-    <author fullname="Y. Nir"/>
-    <author fullname="T. Kivinen"/>
+    <author fullname="P. Wouters" initials="P." surname="Wouters">
+      <organization/>
+    </author>
+    <author fullname="D. Migault" initials="D." surname="Migault">
+      <organization/>
+    </author>
+    <author fullname="J. Mattsson" initials="J." surname="Mattsson">
+      <organization/>
+    </author>
+    <author fullname="Y. Nir" initials="Y." surname="Nir">
+      <organization/>
+    </author>
+    <author fullname="T. Kivinen" initials="T." surname="Kivinen">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>ipsecme</workgroup>
-    <keyword>IPsec</keyword>
-    <keyword>IKE</keyword>
-    <abstract>This document replaces RFC 7321, "Cryptographic Algorithm Implementation Requirements and Usage Guidance for Encapsulating Security Payload (ESP) and Authentication Header (AH)".  The goal of this document is to enable ESP and AH to benefit from cryptography that is up to date while making IPsec interoperable.</abstract>
+    <abstract>
+      <t>This document replaces RFC 7321, "Cryptographic Algorithm Implementation Requirements and Usage Guidance for Encapsulating Security Payload (ESP) and Authentication Header (AH)".  The goal of this document is to enable ESP and AH to benefit from cryptography that is up to date while making IPsec interoperable.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8221"/>
+  <seriesInfo name="RFC" value="8221"/>
 </reference>

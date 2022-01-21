@@ -1,16 +1,21 @@
 <reference anchor="RFC4777" target="https://www.rfc-editor.org/info/rfc4777">
   <front>
     <title>IBM's iSeries Telnet Enhancements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4777"/>
-    <author fullname="T. Murphy Jr."/>
-    <author fullname="P. Rieth"/>
-    <author fullname="J. Stevens"/>
+    <author fullname="T. Murphy Jr." initials="T." surname="Murphy">
+      <organization/>
+    </author>
+    <author fullname="P. Rieth" initials="P." surname="Rieth">
+      <organization/>
+    </author>
+    <author fullname="J. Stevens" initials="J." surname="Stevens">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
-    <keyword>midrange business computer</keyword>
-    <keyword>telnet environment</keyword>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <keyword>printer</keyword>
-    <abstract>This document describes the interface to the Telnet server on IBM's iSeries line of midrange business computers. This interface allows Telnet clients to request a Telnet terminal or printer session using specific session attributes related to device names, encryption, language support, auto-sign-on, response codes, session association, etc. These support functions are implemented primarily using the Telnet Environment option negotiation RFC 1572 to define new USERVAR variables that will be recognized by iSeries Telnet server. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the interface to the Telnet server on IBM's iSeries line of midrange business computers. This interface allows Telnet clients to request a Telnet terminal or printer session using specific session attributes related to device names, encryption, language support, auto-sign-on, response codes, session association, etc.</t>
+      <t>These support functions are implemented primarily using the Telnet Environment option negotiation RFC 1572 to define new USERVAR variables that will be recognized by iSeries Telnet server. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4777"/>
+  <seriesInfo name="RFC" value="4777"/>
 </reference>

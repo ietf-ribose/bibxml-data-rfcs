@@ -1,15 +1,15 @@
 <reference anchor="RFC3164" target="https://www.rfc-editor.org/info/rfc3164">
   <front>
     <title>The BSD Syslog Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3164"/>
-    <author fullname="C. Lonvick"/>
+    <author fullname="C. Lonvick" initials="C." surname="Lonvick">
+      <organization/>
+    </author>
     <date year="2001" month="August"/>
     <workgroup>syslog</workgroup>
-    <keyword>berkeley</keyword>
-    <keyword>software</keyword>
-    <keyword>distribution</keyword>
-    <keyword>transmission</keyword>
-    <keyword>messages</keyword>
-    <abstract>This document describes the observed behavior of the syslog protocol.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the observed behavior of the syslog protocol.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3164"/>
+  <seriesInfo name="RFC" value="3164"/>
 </reference>

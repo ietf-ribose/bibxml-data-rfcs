@@ -1,15 +1,18 @@
 <reference anchor="RFC1304" target="https://www.rfc-editor.org/info/rfc1304">
   <front>
     <title>Definitions of Managed Objects for the SIP Interface Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1304"/>
-    <author fullname="T. Cox"/>
-    <author fullname="K. Tesink"/>
+    <author fullname="T. Cox" initials="T." surname="Cox">
+      <organization/>
+    </author>
+    <author fullname="K. Tesink" initials="K." surname="Tesink">
+      <organization/>
+    </author>
     <date year="1992" month="February"/>
     <workgroup>snmp</workgroup>
-    <keyword>Standard</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Network Management</keyword>
-    <keyword>SMDS</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing SIP (SMDS Interface Protocol) objects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing SIP (SMDS Interface Protocol) objects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1304"/>
+  <seriesInfo name="RFC" value="1304"/>
 </reference>

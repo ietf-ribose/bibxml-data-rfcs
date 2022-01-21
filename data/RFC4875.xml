@@ -1,15 +1,22 @@
 <reference anchor="RFC4875" target="https://www.rfc-editor.org/info/rfc4875">
   <front>
     <title>Extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for Point-to-Multipoint TE Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4875"/>
-    <author fullname="R. Aggarwal"/>
-    <author fullname="D. Papadimitriou"/>
-    <author fullname="S. Yasukawa"/>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
+    <author fullname="D. Papadimitriou" initials="D." surname="Papadimitriou">
+      <organization/>
+    </author>
+    <author fullname="S. Yasukawa" initials="S." surname="Yasukawa">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>mpls</workgroup>
-    <keyword>p2mp</keyword>
-    <keyword>point-to-multipoint</keyword>
-    <keyword>traffic engineering</keyword>
-    <abstract>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for the set up of Traffic Engineered (TE) point-to-multipoint (P2MP) Label Switched Paths (LSPs) in Multi- Protocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. The solution relies on RSVP-TE without requiring a multicast routing protocol in the Service Provider core. Protocol elements and procedures for this solution are described. There can be various applications for P2MP TE LSPs such as IP multicast. Specification of how such applications will use a P2MP TE LSP is outside the scope of this document. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes extensions to Resource Reservation Protocol - Traffic Engineering (RSVP-TE) for the set up of Traffic Engineered (TE) point-to-multipoint (P2MP) Label Switched Paths (LSPs) in Multi- Protocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. The solution relies on RSVP-TE without requiring a multicast routing protocol in the Service Provider core. Protocol elements and procedures for this solution are described.</t>
+      <t>There can be various applications for P2MP TE LSPs such as IP multicast. Specification of how such applications will use a P2MP TE LSP is outside the scope of this document. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4875"/>
+  <seriesInfo name="RFC" value="4875"/>
 </reference>

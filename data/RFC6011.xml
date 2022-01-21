@@ -1,14 +1,18 @@
 <reference anchor="RFC6011" target="https://www.rfc-editor.org/info/rfc6011">
   <front>
     <title>Session Initiation Protocol (SIP) User Agent Configuration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6011"/>
-    <author fullname="S. Lawrence"/>
-    <author fullname="J. Elwell"/>
+    <author fullname="S. Lawrence" initials="S." surname="Lawrence">
+      <organization/>
+    </author>
+    <author fullname="J. Elwell" initials="J." surname="Elwell">
+      <organization/>
+    </author>
     <date year="2010" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>DHCP</keyword>
-    <keyword>DHCPv6</keyword>
-    <abstract>This document defines procedures for how a SIP User Agent should locate, retrieve, and maintain current configuration information from a Configuration Service.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document defines procedures for how a SIP User Agent should locate, retrieve, and maintain current configuration information from a Configuration Service.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6011"/>
+  <seriesInfo name="RFC" value="6011"/>
 </reference>

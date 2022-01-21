@@ -1,16 +1,15 @@
 <reference anchor="RFC2331" target="https://www.rfc-editor.org/info/rfc2331">
   <front>
     <title>ATM Signalling Support for IP over ATM - UNI Signalling 4.0 Update</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2331"/>
-    <author fullname="M. Maher"/>
+    <author fullname="M. Maher" initials="M." surname="Maher">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>UNI-SIG</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo describes how to efficiently use the ATM call control signalling procedures defined in UNI Signalling 4.0 to support IP over ATM environments as described in RFC 2225 and in RFC 2332. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes how to efficiently use the ATM call control signalling procedures defined in UNI Signalling 4.0 to support IP over ATM environments as described in RFC 2225 and in RFC 2332. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2331"/>
+  <seriesInfo name="RFC" value="2331"/>
 </reference>

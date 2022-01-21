@@ -1,10 +1,16 @@
 <reference anchor="RFC7100" target="https://www.rfc-editor.org/info/rfc7100">
   <front>
     <title>Retirement of the "Internet Official Protocol Standards" Summary Document</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7100"/>
-    <author fullname="P. Resnick"/>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
     <date year="2013" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</abstract>
+    <abstract>
+      <t>This document updates RFC 2026 to no longer use STD 1 as a summary of "Internet Official Protocol Standards".  It obsoletes RFC 5000 and requests the IESG to move RFC 5000 (and therefore STD 1) to Historic status.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7100"/>
+  <seriesInfo name="BCP" value="9"/>
+  <seriesInfo name="RFC" value="7100"/>
 </reference>

@@ -1,15 +1,24 @@
 <reference anchor="RFC8698" target="https://www.rfc-editor.org/info/rfc8698">
   <front>
     <title>Network-Assisted Dynamic Adaptation (NADA): A Unified Congestion Control Scheme for Real-Time Media</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8698"/>
-    <author fullname="X. Zhu"/>
-    <author fullname="R. Pan"/>
-    <author fullname="M. Ramalho"/>
-    <author fullname="S. Mena"/>
+    <author fullname="X. Zhu" initials="X." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="R. Pan" initials="R." surname="Pan">
+      <organization/>
+    </author>
+    <author fullname="M. Ramalho" initials="M." surname="Ramalho">
+      <organization/>
+    </author>
+    <author fullname="S. Mena" initials="S." surname="Mena">
+      <organization/>
+    </author>
     <date year="2020" month="February"/>
     <workgroup>rmcat</workgroup>
-    <keyword>Multimedia</keyword>
-    <keyword>Congestion Control</keyword>
-    <abstract>This document describes Network-Assisted Dynamic Adaptation (NADA), a novel congestion control scheme for interactive real-time media applications such as video conferencing.  In the proposed scheme, the sender regulates its sending rate, based on either implicit or explicit congestion signaling, in a unified approach.  The scheme can benefit from Explicit Congestion Notification (ECN) markings from network nodes.  It also maintains consistent sender behavior in the absence of such markings by reacting to queuing delays and packet losses instead.</abstract>
+    <abstract>
+      <t>This document describes Network-Assisted Dynamic Adaptation (NADA), a novel congestion control scheme for interactive real-time media applications such as video conferencing.  In the proposed scheme, the sender regulates its sending rate, based on either implicit or explicit congestion signaling, in a unified approach.  The scheme can benefit from Explicit Congestion Notification (ECN) markings from network nodes.  It also maintains consistent sender behavior in the absence of such markings by reacting to queuing delays and packet losses instead.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8698"/>
+  <seriesInfo name="RFC" value="8698"/>
 </reference>

@@ -1,15 +1,20 @@
 <reference anchor="RFC2713" target="https://www.rfc-editor.org/info/rfc2713">
   <front>
     <title>Schema for Representing Java(tm) Objects in an LDAP Directory</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2713"/>
-    <author fullname="V. Ryan"/>
-    <author fullname="S. Seligman"/>
-    <author fullname="R. Lee"/>
+    <author fullname="V. Ryan" initials="V." surname="Ryan">
+      <organization/>
+    </author>
+    <author fullname="S. Seligman" initials="S." surname="Seligman">
+      <organization/>
+    </author>
+    <author fullname="R. Lee" initials="R." surname="Lee">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document defines the schema for representing Java(tm) objects in an LDAP directory.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the schema for representing Java(tm) objects in an LDAP directory.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2713"/>
+  <seriesInfo name="RFC" value="2713"/>
 </reference>

@@ -1,13 +1,15 @@
 <reference anchor="RFC8315" target="https://www.rfc-editor.org/info/rfc8315">
   <front>
     <title>Cancel-Locks in Netnews Articles</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8315"/>
-    <author fullname="M. Baeuerle"/>
+    <author fullname="M. Baeuerle" initials="M." surname="Baeuerle">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>Usenet</keyword>
-    <keyword>Netnews</keyword>
-    <keyword>Cancel-Lock</keyword>
-    <abstract>This document defines an extension to the Netnews Article Format that may be used to authenticate the withdrawal of existing articles.  This document updates RFC 5537.</abstract>
+    <abstract>
+      <t>This document defines an extension to the Netnews Article Format that may be used to authenticate the withdrawal of existing articles.  This document updates RFC 5537.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8315"/>
+  <seriesInfo name="RFC" value="8315"/>
 </reference>

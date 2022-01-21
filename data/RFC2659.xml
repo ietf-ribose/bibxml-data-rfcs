@@ -1,14 +1,18 @@
 <reference anchor="RFC2659" target="https://www.rfc-editor.org/info/rfc2659">
   <front>
     <title>Security Extensions For HTML</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2659"/>
-    <author fullname="E. Rescorla"/>
-    <author fullname="A. Schiffman"/>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
+    <author fullname="A. Schiffman" initials="A." surname="Schiffman">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>wts</workgroup>
-    <keyword>hyper-text</keyword>
-    <keyword>markup language</keyword>
-    <keyword>cryptology</keyword>
-    <abstract>This memo describes a syntax for embedding S-HTTP negotiation parameters in HTML documents.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes a syntax for embedding S-HTTP negotiation parameters in HTML documents.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2659"/>
+  <seriesInfo name="RFC" value="2659"/>
 </reference>

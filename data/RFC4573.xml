@@ -1,15 +1,18 @@
 <reference anchor="RFC4573" target="https://www.rfc-editor.org/info/rfc4573">
   <front>
     <title>MIME Type Registration for RTP Payload Format for H.224</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4573"/>
-    <author fullname="R. Even"/>
-    <author fullname="A. Lochbaum"/>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="A. Lochbaum" initials="A." surname="Lochbaum">
+      <organization/>
+    </author>
     <date year="2006" month="July"/>
     <workgroup>avt</workgroup>
-    <keyword>real time transport protocol</keyword>
-    <keyword>itu h.281</keyword>
-    <keyword>h.224</keyword>
-    <keyword>far-end camera control</keyword>
-    <abstract>In conversational video applications, far-end camera control protocol is used by participants to control the remote camera.  The protocol that is commonly used is ITU H.281 over H.224.  The document registers the H224 media type.  It defines the syntax and the semantics of the Session Description Protocol (SDP) parameters needed to support far-end camera control protocol using H.224. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In conversational video applications, far-end camera control protocol is used by participants to control the remote camera.  The protocol that is commonly used is ITU H.281 over H.224.  The document registers the H224 media type.  It defines the syntax and the semantics of the Session Description Protocol (SDP) parameters needed to support far-end camera control protocol using H.224. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4573"/>
+  <seriesInfo name="RFC" value="4573"/>
 </reference>

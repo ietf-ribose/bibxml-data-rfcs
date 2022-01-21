@@ -1,18 +1,27 @@
 <reference anchor="RFC4066" target="https://www.rfc-editor.org/info/rfc4066">
   <front>
     <title>Candidate Access Router Discovery (CARD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4066"/>
-    <author fullname="M. Liebsch"/>
-    <author fullname="A. Singh"/>
-    <author fullname="H. Chaskar"/>
-    <author fullname="D. Funato"/>
-    <author fullname="E. Shim"/>
+    <author fullname="M. Liebsch" initials="M." surname="Liebsch">
+      <organization/>
+    </author>
+    <author fullname="A. Singh" initials="A." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="H. Chaskar" initials="H." surname="Chaskar">
+      <organization/>
+    </author>
+    <author fullname="D. Funato" initials="D." surname="Funato">
+      <organization/>
+    </author>
+    <author fullname="E. Shim" initials="E." surname="Shim">
+      <organization/>
+    </author>
     <date year="2005" month="July"/>
     <workgroup>seamoby</workgroup>
-    <keyword>mobile node</keyword>
-    <keyword>mn</keyword>
-    <keyword>cars</keyword>
-    <keyword>candidate ars</keyword>
-    <abstract>To enable seamless IP-layer handover of a mobile node (MN) from one access router (AR) to another, the MN is required to discover the identities and capabilities of candidate ARs (CARs) for handover prior to the initiation of the handover.  The act of discovery of CARs has two aspects: identifying the IP addresses of the CARs and finding their capabilities.  This process is called "candidate access router discovery" (CARD).  At the time of IP-layer handover, the CAR, whose capabilities are a good match to the preferences of the MN, is chosen as the target AR for handover.  The protocol described in this document allows a mobile node to perform CARD.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>To enable seamless IP-layer handover of a mobile node (MN) from one access router (AR) to another, the MN is required to discover the identities and capabilities of candidate ARs (CARs) for handover prior to the initiation of the handover.  The act of discovery of CARs has two aspects: identifying the IP addresses of the CARs and finding their capabilities.  This process is called "candidate access router discovery" (CARD).  At the time of IP-layer handover, the CAR, whose capabilities are a good match to the preferences of the MN, is chosen as the target AR for handover.  The protocol described in this document allows a mobile node to perform CARD.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4066"/>
+  <seriesInfo name="RFC" value="4066"/>
 </reference>

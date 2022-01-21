@@ -1,19 +1,21 @@
 <reference anchor="RFC2492" target="https://www.rfc-editor.org/info/rfc2492">
   <front>
     <title>IPv6 over ATM Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2492"/>
-    <author fullname="G. Armitage"/>
-    <author fullname="P. Schulter"/>
-    <author fullname="M. Jork"/>
+    <author fullname="G. Armitage" initials="G." surname="Armitage">
+      <organization/>
+    </author>
+    <author fullname="P. Schulter" initials="P." surname="Schulter">
+      <organization/>
+    </author>
+    <author fullname="M. Jork" initials="M." surname="Jork">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
     <workgroup>ion</workgroup>
-    <keyword>IPv6ATMNET</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer</keyword>
-    <keyword>mode</keyword>
-    <keyword>host</keyword>
-    <abstract>This document is a companion to the ION working group's architecture document, "IPv6 over Non Broadcast Multiple Access (NBMA) networks".  It provides specific details on how to apply the IPv6 over NBMA architecture to ATM networks.  This architecture allows conventional host-side operation of the IPv6 Neighbor Discovery protocol, while also supporting the establishment of 'shortcut' ATM forwarding paths (when using SVCs).  Operation over administratively configured Point to Point PVCs is also supported. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is a companion to the ION working group's architecture document, "IPv6 over Non Broadcast Multiple Access (NBMA) networks".  It provides specific details on how to apply the IPv6 over NBMA architecture to ATM networks.  This architecture allows conventional host-side operation of the IPv6 Neighbor Discovery protocol, while also supporting the establishment of 'shortcut' ATM forwarding paths (when using SVCs).  Operation over administratively configured Point to Point PVCs is also supported. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2492"/>
+  <seriesInfo name="RFC" value="2492"/>
 </reference>

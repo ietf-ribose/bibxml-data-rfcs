@@ -1,17 +1,21 @@
 <reference anchor="RFC1914" target="https://www.rfc-editor.org/info/rfc1914">
   <front>
     <title>How to Interact with a Whois++ Mesh</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1914"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="R. Schoultz"/>
-    <author fullname="C. Weider"/>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="R. Schoultz" initials="R." surname="Schoultz">
+      <organization/>
+    </author>
+    <author fullname="C. Weider" initials="C." surname="Weider">
+      <organization/>
+    </author>
     <date year="1996" month="February"/>
     <workgroup>wnils</workgroup>
-    <keyword>WHOIS++M</keyword>
-    <keyword>distributed</keyword>
-    <keyword>databases</keyword>
-    <keyword>directory</keyword>
-    <keyword>service</keyword>
-    <abstract>In the Whois++ architecture [Deutsch94],[Weider94], mesh traversal is done by the client, since each server 'refers' the client to the next appropriate server(s). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In the Whois++ architecture [Deutsch94],[Weider94], mesh traversal is done by the client, since each server 'refers' the client to the next appropriate server(s). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1914"/>
+  <seriesInfo name="RFC" value="1914"/>
 </reference>

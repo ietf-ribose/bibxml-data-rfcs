@@ -1,12 +1,18 @@
 <reference anchor="RFC5871" target="https://www.rfc-editor.org/info/rfc5871">
   <front>
     <title>IANA Allocation Guidelines for the IPv6 Routing Header</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5871"/>
-    <author fullname="J. Arkko"/>
-    <author fullname="S. Bradner"/>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="S. Bradner" initials="S." surname="Bradner">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>6man</workgroup>
-    <keyword>routing type field</keyword>
-    <abstract>This document specifies the IANA guidelines for allocating new values for the Routing Type field in the IPv6 Routing Header. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the IANA guidelines for allocating new values for the Routing Type field in the IPv6 Routing Header. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5871"/>
+  <seriesInfo name="RFC" value="5871"/>
 </reference>

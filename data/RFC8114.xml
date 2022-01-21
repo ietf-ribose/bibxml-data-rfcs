@@ -1,37 +1,27 @@
 <reference anchor="RFC8114" target="https://www.rfc-editor.org/info/rfc8114">
   <front>
     <title>Delivery of IPv4 Multicast Services to IPv4 Clients over an IPv6 Multicast Network</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8114"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="C. Qin"/>
-    <author fullname="C. Jacquenet"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="Q. Wang"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="C. Qin" initials="C." surname="Qin">
+      <organization/>
+    </author>
+    <author fullname="C. Jacquenet" initials="C." surname="Jacquenet">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Q. Wang" initials="Q." surname="Wang">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>softwire</workgroup>
-    <keyword>Multicast</keyword>
-    <keyword>DS-Lite</keyword>
-    <keyword>IPv4-IPv6 Interconnection</keyword>
-    <keyword>PREFIX64</keyword>
-    <keyword>SSM</keyword>
-    <keyword>ASM</keyword>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>Multicast service continuity</keyword>
-    <keyword>IPv6-only</keyword>
-    <keyword>IPv6-only multicast</keyword>
-    <keyword>PIM</keyword>
-    <keyword>MLD</keyword>
-    <keyword>IGMP</keyword>
-    <keyword>A+P</keyword>
-    <keyword>MAP</keyword>
-    <keyword>MAP-E</keyword>
-    <keyword>address-sharing</keyword>
-    <keyword>CGN</keyword>
-    <keyword>NAT64</keyword>
-    <keyword>IPv4 over IPv6</keyword>
-    <keyword>IPv6 Address Synthesis</keyword>
-    <keyword>Any-Source Multicast</keyword>
-    <keyword>Source-Specific Multicast</keyword>
-    <abstract>This document specifies a solution for the delivery of IPv4 multicast services to IPv4 clients over an IPv6 multicast network.  The solution relies upon a stateless IPv4-in-IPv6 encapsulation scheme and uses an IPv6 multicast distribution tree to deliver IPv4 multicast traffic.  The solution is particularly useful for the delivery of multicast service offerings to customers serviced by Dual-Stack Lite (DS-Lite).</abstract>
+    <abstract>
+      <t>This document specifies a solution for the delivery of IPv4 multicast services to IPv4 clients over an IPv6 multicast network.  The solution relies upon a stateless IPv4-in-IPv6 encapsulation scheme and uses an IPv6 multicast distribution tree to deliver IPv4 multicast traffic.  The solution is particularly useful for the delivery of multicast service offerings to customers serviced by Dual-Stack Lite (DS-Lite).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8114"/>
+  <seriesInfo name="RFC" value="8114"/>
 </reference>

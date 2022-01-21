@@ -1,20 +1,18 @@
 <reference anchor="RFC7613" target="https://www.rfc-editor.org/info/rfc7613">
   <front>
     <title>Preparation, Enforcement, and Comparison of Internationalized Strings Representing Usernames and Passwords</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7613"/>
-    <author fullname="P. Saint-Andre"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>precis</workgroup>
-    <keyword>Username</keyword>
-    <keyword>Password</keyword>
-    <keyword>Unicode</keyword>
-    <keyword>Internationalization</keyword>
-    <keyword>i18n</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>SASLprep</keyword>
-    <keyword>strings</keyword>
-    <keyword>stringprep</keyword>
-    <abstract>This document describes updated methods for handling Unicode strings representing usernames and passwords.  The previous approach was known as SASLprep (RFC 4013) and was based on stringprep (RFC 3454).  The methods specified in this document provide a more sustainable approach to the handling of internationalized usernames and passwords.  The preparation, enforcement, and comparison of internationalized strings (PRECIS) framework, RFC 7564, obsoletes RFC 3454, and this document obsoletes RFC 4013.</abstract>
+    <abstract>
+      <t>This document describes updated methods for handling Unicode strings representing usernames and passwords.  The previous approach was known as SASLprep (RFC 4013) and was based on stringprep (RFC 3454).  The methods specified in this document provide a more sustainable approach to the handling of internationalized usernames and passwords.  The preparation, enforcement, and comparison of internationalized strings (PRECIS) framework, RFC 7564, obsoletes RFC 3454, and this document obsoletes RFC 4013.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7613"/>
+  <seriesInfo name="RFC" value="7613"/>
 </reference>

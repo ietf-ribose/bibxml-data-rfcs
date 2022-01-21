@@ -1,13 +1,18 @@
 <reference anchor="RFC6729" target="https://www.rfc-editor.org/info/rfc6729">
   <front>
     <title>Indicating Email Handling States in Trace Fields</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6729"/>
-    <author fullname="D. Crocker"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2012" month="September"/>
     <workgroup>appsawg</workgroup>
-    <keyword>Quarantine</keyword>
-    <keyword>Moderation</keyword>
-    <abstract>This document registers a trace field clause for use in indicating transitions between handling queues or processing states, including enacting inter- and intra-host message transitions.  This might include message quarantining, mailing list moderation, timed delivery, queuing for further analysis, content conversion, or other similar causes, as well as optionally identifying normal handling queues. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document registers a trace field clause for use in indicating transitions between handling queues or processing states, including enacting inter- and intra-host message transitions.  This might include message quarantining, mailing list moderation, timed delivery, queuing for further analysis, content conversion, or other similar causes, as well as optionally identifying normal handling queues. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6729"/>
+  <seriesInfo name="RFC" value="6729"/>
 </reference>

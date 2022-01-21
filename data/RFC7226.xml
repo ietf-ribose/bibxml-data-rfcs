@@ -1,21 +1,28 @@
 <reference anchor="RFC7226" target="https://www.rfc-editor.org/info/rfc7226">
   <front>
     <title>Requirements for Advanced Multipath in MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7226"/>
-    <author fullname="C. Villamizar"/>
-    <author fullname="D. McDysan"/>
-    <author fullname="S. Ning"/>
-    <author fullname="A. Malis"/>
-    <author fullname="L. Yong"/>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
+    <author fullname="D. McDysan" initials="D." surname="McDysan">
+      <organization/>
+    </author>
+    <author fullname="S. Ning" initials="S." surname="Ning">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="L. Yong" initials="L." surname="Yong">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>Advanced Multipath</keyword>
-    <keyword>composite link</keyword>
-    <keyword>link aggregation</keyword>
-    <keyword>ECMP</keyword>
-    <keyword>link bundling</keyword>
-    <keyword>delay metric</keyword>
-    <abstract>This document provides a set of requirements for Advanced Multipath in MPLS networks. Advanced Multipath is a formalization of multipath techniques currently in use in IP and MPLS networks and a set of extensions to existing multipath techniques.</abstract>
+    <abstract>
+      <t>This document provides a set of requirements for Advanced Multipath in MPLS networks.</t>
+      <t>Advanced Multipath is a formalization of multipath techniques currently in use in IP and MPLS networks and a set of extensions to existing multipath techniques.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7226"/>
+  <seriesInfo name="RFC" value="7226"/>
 </reference>

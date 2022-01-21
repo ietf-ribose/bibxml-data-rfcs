@@ -1,11 +1,18 @@
 <reference anchor="RFC5363" target="https://www.rfc-editor.org/info/rfc5363">
   <front>
     <title>Framework and Security Considerations for Session Initiation Protocol (SIP) URI-List Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5363"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="A.B. Roach"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="A.B. Roach" initials="A.B." surname="Roach">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>sipping</workgroup>
-    <abstract>This document describes the need for SIP URI-list services and provides requirements for their invocation.  Additionally, it defines a framework for SIP URI-list services, which includes security considerations applicable to these services. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the need for SIP URI-list services and provides requirements for their invocation.  Additionally, it defines a framework for SIP URI-list services, which includes security considerations applicable to these services. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5363"/>
+  <seriesInfo name="RFC" value="5363"/>
 </reference>

@@ -1,15 +1,15 @@
 <reference anchor="RFC2412" target="https://www.rfc-editor.org/info/rfc2412">
   <front>
     <title>The OAKLEY Key Determination Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2412"/>
-    <author fullname="H. Orman"/>
+    <author fullname="H. Orman" initials="H." surname="Orman">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>authentication</keyword>
-    <keyword>crytographic</keyword>
-    <keyword>secure</keyword>
-    <keyword>scalable</keyword>
-    <abstract>This document describes a protocol, named OAKLEY, by which two authenticated parties can agree on secure and secret keying material.  The basic mechanism is the Diffie-Hellman key exchange algorithm.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a protocol, named OAKLEY, by which two authenticated parties can agree on secure and secret keying material.  The basic mechanism is the Diffie-Hellman key exchange algorithm.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2412"/>
+  <seriesInfo name="RFC" value="2412"/>
 </reference>

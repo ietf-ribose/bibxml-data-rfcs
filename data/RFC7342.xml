@@ -1,11 +1,20 @@
 <reference anchor="RFC7342" target="https://www.rfc-editor.org/info/rfc7342">
   <front>
     <title>Practices for Scaling ARP and Neighbor Discovery (ND) in Large Data Centers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7342"/>
-    <author fullname="L. Dunbar"/>
-    <author fullname="W. Kumari"/>
-    <author fullname="I. Gashinsky"/>
+    <author fullname="L. Dunbar" initials="L." surname="Dunbar">
+      <organization/>
+    </author>
+    <author fullname="W. Kumari" initials="W." surname="Kumari">
+      <organization/>
+    </author>
+    <author fullname="I. Gashinsky" initials="I." surname="Gashinsky">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
-    <abstract>This memo documents some operational practices that allow ARP and Neighbor Discovery (ND) to scale in data center environments.</abstract>
+    <abstract>
+      <t>This memo documents some operational practices that allow ARP and Neighbor Discovery (ND) to scale in data center environments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7342"/>
+  <seriesInfo name="RFC" value="7342"/>
 </reference>

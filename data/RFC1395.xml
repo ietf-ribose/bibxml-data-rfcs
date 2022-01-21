@@ -1,10 +1,14 @@
 <reference anchor="RFC1395" target="https://www.rfc-editor.org/info/rfc1395">
   <front>
     <title>BOOTP Vendor Information Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1395"/>
-    <author fullname="J. Reynolds"/>
+    <author fullname="J. Reynolds" initials="J." surname="Reynolds">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
-    <keyword>TAGS</keyword>
-    <abstract>This RFC is a slight revision and extension of RFC-1048 by Philip Prindeville, who should be credited with the original work in this memo.  This memo will be updated as additional tags are defined.  This edition introduces Tag 14 for Merit Dump File, Tag 15 for Domain Name, Tag 16 for Swap Server and Tag 17 for Root Path.  This memo is a status report on the vendor information extensions used int the Bootstrap Protocol (BOOTP).</abstract>
+    <abstract>
+      <t>This RFC is a slight revision and extension of RFC-1048 by Philip Prindeville, who should be credited with the original work in this memo.  This memo will be updated as additional tags are defined.  This edition introduces Tag 14 for Merit Dump File, Tag 15 for Domain Name, Tag 16 for Swap Server and Tag 17 for Root Path.  This memo is a status report on the vendor information extensions used int the Bootstrap Protocol (BOOTP).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1395"/>
+  <seriesInfo name="RFC" value="1395"/>
 </reference>

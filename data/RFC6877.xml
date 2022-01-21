@@ -1,15 +1,21 @@
 <reference anchor="RFC6877" target="https://www.rfc-editor.org/info/rfc6877">
   <front>
     <title>464XLAT: Combination of Stateful and Stateless Translation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6877"/>
-    <author fullname="M. Mawatari"/>
-    <author fullname="M. Kawashima"/>
-    <author fullname="C. Byrne"/>
+    <author fullname="M. Mawatari" initials="M." surname="Mawatari">
+      <organization/>
+    </author>
+    <author fullname="M. Kawashima" initials="M." surname="Kawashima">
+      <organization/>
+    </author>
+    <author fullname="C. Byrne" initials="C." surname="Byrne">
+      <organization/>
+    </author>
     <date year="2013" month="April"/>
     <workgroup>v6ops</workgroup>
-    <keyword>XLAT</keyword>
-    <keyword>Stateful Translation</keyword>
-    <keyword>Stateless Translation</keyword>
-    <abstract>This document describes an architecture (464XLAT) for providing limited IPv4 connectivity across an IPv6-only network by combining existing and well-known stateful protocol translation (as described in RFC 6146) in the core and stateless protocol translation (as described in RFC 6145) at the edge.  464XLAT is a simple and scalable technique to quickly deploy limited IPv4 access service to IPv6-only edge networks without encapsulation.</abstract>
+    <abstract>
+      <t>This document describes an architecture (464XLAT) for providing limited IPv4 connectivity across an IPv6-only network by combining existing and well-known stateful protocol translation (as described in RFC 6146) in the core and stateless protocol translation (as described in RFC 6145) at the edge.  464XLAT is a simple and scalable technique to quickly deploy limited IPv4 access service to IPv6-only edge networks without encapsulation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6877"/>
+  <seriesInfo name="RFC" value="6877"/>
 </reference>

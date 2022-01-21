@@ -1,16 +1,27 @@
 <reference anchor="RFC3428" target="https://www.rfc-editor.org/info/rfc3428">
   <front>
     <title>Session Initiation Protocol (SIP) Extension for Instant Messaging</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3428"/>
-    <author fullname="B. Campbell"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="C. Huitema"/>
-    <author fullname="D. Gurle"/>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
+    <author fullname="D. Gurle" initials="D." surname="Gurle">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>sip</workgroup>
-    <keyword>im</keyword>
-    <keyword>message method</keyword>
-    <abstract>Instant Messaging (IM) refers to the transfer of messages between users in near real-time.  These messages are usually, but not required to be, short.  IMs are often used in a conversational mode, that is, the transfer of messages back and forth is fast enough for participants to maintain an interactive conversation.  This document proposes the MESSAGE method, an extension to the Session Initiation Protocol (SIP) that allows the transfer of Instant Messages.  Since the MESSAGE request is an extension to SIP, it inherits all the request routing and security features of that protocol.  MESSAGE requests carry the content in the form of MIME body parts.  MESSAGE requests do not themselves initiate a SIP dialog; under normal usage each Instant Message stands alone, much like pager messages.  MESSAGE requests may be sent in the context of a dialog initiated by some other SIP request. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Instant Messaging (IM) refers to the transfer of messages between users in near real-time.  These messages are usually, but not required to be, short.  IMs are often used in a conversational mode, that is, the transfer of messages back and forth is fast enough for participants to maintain an interactive conversation.  This document proposes the MESSAGE method, an extension to the Session Initiation Protocol (SIP) that allows the transfer of Instant Messages.  Since the MESSAGE request is an extension to SIP, it inherits all the request routing and security features of that protocol.  MESSAGE requests carry the content in the form of MIME body parts.  MESSAGE requests do not themselves initiate a SIP dialog; under normal usage each Instant Message stands alone, much like pager messages.  MESSAGE requests may be sent in the context of a dialog initiated by some other SIP request. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3428"/>
+  <seriesInfo name="RFC" value="3428"/>
 </reference>

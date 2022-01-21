@@ -1,16 +1,18 @@
 <reference anchor="RFC3097" target="https://www.rfc-editor.org/info/rfc3097">
   <front>
     <title>RSVP Cryptographic Authentication -- Updated Message Type Value</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3097"/>
-    <author fullname="R. Braden"/>
-    <author fullname="L. Zhang"/>
+    <author fullname="R. Braden" initials="R." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2001" month="April"/>
     <workgroup>rsvp</workgroup>
-    <keyword>RSVP</keyword>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>security</keyword>
-    <abstract>This memo resolves a duplication in the assignment of RSVP Message Types, by changing the Message Types assigned by RFC 2747 to Challenge and Integrity Response messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo resolves a duplication in the assignment of RSVP Message Types, by changing the Message Types assigned by RFC 2747 to Challenge and Integrity Response messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3097"/>
+  <seriesInfo name="RFC" value="3097"/>
 </reference>

@@ -1,18 +1,27 @@
 <reference anchor="RFC4447" target="https://www.rfc-editor.org/info/rfc4447">
   <front>
     <title>Pseudowire Setup and Maintenance Using the Label Distribution Protocol (LDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4447"/>
-    <author fullname="L. Martini"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="N. El-Aawar"/>
-    <author fullname="T. Smith"/>
-    <author fullname="G. Heron"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="N. El-Aawar" initials="N." surname="El-Aawar">
+      <organization/>
+    </author>
+    <author fullname="T. Smith" initials="T." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="G. Heron" initials="G." surname="Heron">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>pwe3</workgroup>
-    <keyword>mpls</keyword>
-    <keyword>multiprotocol label switching protocol</keyword>
-    <keyword>pdu</keyword>
-    <keyword>protocol data units</keyword>
-    <abstract>Layer 2 services (such as Frame Relay, Asynchronous Transfer Mode, and Ethernet) can be "emulated" over an MPLS backbone by encapsulating the Layer 2 Protocol Data Units (PDU) and transmitting them over "pseudowires".  It is also possible to use pseudowires to provide low-rate Time Division Multiplexed and a Synchronous Optical NETworking circuit emulation over an MPLS-enabled network.  This document specifies a protocol for establishing and maintaining the pseudowires, using extensions to Label Distribution Protocol (LDP).  Procedures for encapsulating Layer 2 PDUs are specified in a set of companion documents. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Layer 2 services (such as Frame Relay, Asynchronous Transfer Mode, and Ethernet) can be "emulated" over an MPLS backbone by encapsulating the Layer 2 Protocol Data Units (PDU) and transmitting them over "pseudowires".  It is also possible to use pseudowires to provide low-rate Time Division Multiplexed and a Synchronous Optical NETworking circuit emulation over an MPLS-enabled network.  This document specifies a protocol for establishing and maintaining the pseudowires, using extensions to Label Distribution Protocol (LDP).  Procedures for encapsulating Layer 2 PDUs are specified in a set of companion documents. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4447"/>
+  <seriesInfo name="RFC" value="4447"/>
 </reference>

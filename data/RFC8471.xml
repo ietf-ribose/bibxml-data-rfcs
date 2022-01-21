@@ -1,18 +1,24 @@
 <reference anchor="RFC8471" target="https://www.rfc-editor.org/info/rfc8471">
   <front>
     <title>The Token Binding Protocol Version 1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8471"/>
-    <author fullname="A. Popov"/>
-    <author fullname="M. Nystroem"/>
-    <author fullname="D. Balfanz"/>
-    <author fullname="J. Hodges"/>
+    <author fullname="A. Popov" initials="A." surname="Popov">
+      <organization/>
+    </author>
+    <author fullname="M. Nystroem" initials="M." surname="Nystroem">
+      <organization/>
+    </author>
+    <author fullname="D. Balfanz" initials="D." surname="Balfanz">
+      <organization/>
+    </author>
+    <author fullname="J. Hodges" initials="J." surname="Hodges">
+      <organization/>
+    </author>
     <date year="2018" month="October"/>
     <workgroup>tokbind</workgroup>
-    <keyword>Token</keyword>
-    <keyword>cookie</keyword>
-    <keyword>TLS</keyword>
-    <keyword>export</keyword>
-    <keyword>replay</keyword>
-    <abstract>This document specifies version 1.0 of the Token Binding protocol.  The Token Binding protocol allows client/server applications to create long-lived, uniquely identifiable TLS bindings spanning multiple TLS sessions and connections.  Applications are then enabled to cryptographically bind security tokens to the TLS layer, preventing token export and replay attacks.  To protect privacy, the Token Binding identifiers are only conveyed over TLS and can be reset by the user at any time.</abstract>
+    <abstract>
+      <t>This document specifies version 1.0 of the Token Binding protocol.  The Token Binding protocol allows client/server applications to create long-lived, uniquely identifiable TLS bindings spanning multiple TLS sessions and connections.  Applications are then enabled to cryptographically bind security tokens to the TLS layer, preventing token export and replay attacks.  To protect privacy, the Token Binding identifiers are only conveyed over TLS and can be reset by the user at any time.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8471"/>
+  <seriesInfo name="RFC" value="8471"/>
 </reference>

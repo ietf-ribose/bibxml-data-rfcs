@@ -1,16 +1,21 @@
 <reference anchor="RFC2895" target="https://www.rfc-editor.org/info/rfc2895">
   <front>
     <title>Remote Network Monitoring MIB Protocol Identifier Reference</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2895"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="C. Bucci"/>
-    <author fullname="R. Iddon"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="C. Bucci" initials="C." surname="Bucci">
+      <organization/>
+    </author>
+    <author fullname="R. Iddon" initials="R." surname="Iddon">
+      <organization/>
+    </author>
     <date year="2000" month="August"/>
     <workgroup>rmonmib</workgroup>
-    <keyword>RMON-MIB</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines a notation describing protocol layers in a protocol encapsulation, specifically for use in encoding ``INDEX`` values for the protocolDirTable, found in the RMON-2 MIB. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a notation describing protocol layers in a protocol encapsulation, specifically for use in encoding ``INDEX`` values for the protocolDirTable, found in the RMON-2 MIB. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2895"/>
+  <seriesInfo name="RFC" value="2895"/>
 </reference>

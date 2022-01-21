@@ -1,16 +1,15 @@
 <reference anchor="RFC6271" target="https://www.rfc-editor.org/info/rfc6271">
   <front>
     <title>Requirements for SIP-Based Session Peering</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6271"/>
-    <author fullname="J-F. Mule"/>
+    <author fullname="J-F. Mule" initials="J-F." surname="Mule">
+      <organization/>
+    </author>
     <date year="2011" month="June"/>
     <workgroup>speermint</workgroup>
-    <keyword>IETF speermint</keyword>
-    <keyword>guidelines</keyword>
-    <keyword>requirements for session interconnects</keyword>
-    <keyword>session peering</keyword>
-    <keyword>SIP interconnects</keyword>
-    <keyword>VoIP peering</keyword>
-    <abstract>This memo captures protocol requirements to enable session peering of voice, presence, instant messaging, and other types of multimedia traffic.  This informational document is intended to link the various use cases described for session peering to protocol solutions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This memo captures protocol requirements to enable session peering of voice, presence, instant messaging, and other types of multimedia traffic.  This informational document is intended to link the various use cases described for session peering to protocol solutions.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6271"/>
+  <seriesInfo name="RFC" value="6271"/>
 </reference>

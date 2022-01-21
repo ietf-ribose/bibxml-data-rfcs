@@ -1,12 +1,21 @@
 <reference anchor="RFC6682" target="https://www.rfc-editor.org/info/rfc6682">
   <front>
     <title>RTP Payload Format for Raptor Forward Error Correction (FEC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6682"/>
-    <author fullname="M. Watson"/>
-    <author fullname="T. Stockhammer"/>
-    <author fullname="M. Luby"/>
+    <author fullname="M. Watson" initials="M." surname="Watson">
+      <organization/>
+    </author>
+    <author fullname="T. Stockhammer" initials="T." surname="Stockhammer">
+      <organization/>
+    </author>
+    <author fullname="M. Luby" initials="M." surname="Luby">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>fecframe</workgroup>
-    <abstract>This document specifies an RTP payload format for the Forward Error Correction (FEC) repair data produced by the Raptor FEC Schemes.  Raptor FEC Schemes are specified for use with the IETF FEC Framework that supports the transport of repair data over both UDP and RTP.  This document specifies the payload format that is required for the use of RTP to carry Raptor repair flows. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an RTP payload format for the Forward Error Correction (FEC) repair data produced by the Raptor FEC Schemes.  Raptor FEC Schemes are specified for use with the IETF FEC Framework that supports the transport of repair data over both UDP and RTP.  This document specifies the payload format that is required for the use of RTP to carry Raptor repair flows. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6682"/>
+  <seriesInfo name="RFC" value="6682"/>
 </reference>

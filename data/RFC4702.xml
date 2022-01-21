@@ -1,14 +1,21 @@
 <reference anchor="RFC4702" target="https://www.rfc-editor.org/info/rfc4702">
   <front>
     <title>The Dynamic Host Configuration Protocol (DHCP) Client Fully Qualified Domain Name (FQDN) Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4702"/>
-    <author fullname="M. Stapp"/>
-    <author fullname="B. Volz"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>dhc</workgroup>
-    <keyword>dhcpv4</keyword>
-    <keyword>dns rr</keyword>
-    <abstract>This document describes a Dynamic Host Configuration Protocol for IPv4 (DHCPv4) option that can be used to exchange information about a DHCPv4 client's fully qualified domain name and about responsibility for updating the DNS RR related to the client's address assignment. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a Dynamic Host Configuration Protocol for IPv4 (DHCPv4) option that can be used to exchange information about a DHCPv4 client's fully qualified domain name and about responsibility for updating the DNS RR related to the client's address assignment. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4702"/>
+  <seriesInfo name="RFC" value="4702"/>
 </reference>

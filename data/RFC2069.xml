@@ -1,20 +1,33 @@
 <reference anchor="RFC2069" target="https://www.rfc-editor.org/info/rfc2069">
   <front>
     <title>An Extension to HTTP : Digest Access Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2069"/>
-    <author fullname="J. Franks"/>
-    <author fullname="P. Hallam-Baker"/>
-    <author fullname="J. Hostetler"/>
-    <author fullname="P. Leach"/>
-    <author fullname="A. Luotonen"/>
-    <author fullname="E. Sink"/>
-    <author fullname="L. Stewart"/>
+    <author fullname="J. Franks" initials="J." surname="Franks">
+      <organization/>
+    </author>
+    <author fullname="P. Hallam-Baker" initials="P." surname="Hallam-Baker">
+      <organization/>
+    </author>
+    <author fullname="J. Hostetler" initials="J." surname="Hostetler">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="A. Luotonen" initials="A." surname="Luotonen">
+      <organization/>
+    </author>
+    <author fullname="E. Sink" initials="E." surname="Sink">
+      <organization/>
+    </author>
+    <author fullname="L. Stewart" initials="L." surname="Stewart">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
     <workgroup>http</workgroup>
-    <keyword>DAA</keyword>
-    <keyword>Hypertext</keyword>
-    <keyword>Transfer</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>The protocol referred to as "HTTP/1.0" includes the specification for a Basic Access Authentication scheme.  This scheme is not considered to be a secure method of user authentication, as the user name and password are passed over the network as clear text.  A specification for a different authentication scheme is needed to address this severe limitation.  This document provides specification for such a scheme, referred to as "Digest Access Authentication". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The protocol referred to as "HTTP/1.0" includes the specification for a Basic Access Authentication scheme.  This scheme is not considered to be a secure method of user authentication, as the user name and password are passed over the network as clear text.  A specification for a different authentication scheme is needed to address this severe limitation.  This document provides specification for such a scheme, referred to as "Digest Access Authentication". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2069"/>
+  <seriesInfo name="RFC" value="2069"/>
 </reference>

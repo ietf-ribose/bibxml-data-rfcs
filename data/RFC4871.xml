@@ -1,21 +1,30 @@
 <reference anchor="RFC4871" target="https://www.rfc-editor.org/info/rfc4871">
   <front>
     <title>DomainKeys Identified Mail (DKIM) Signatures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4871"/>
-    <author fullname="E. Allman"/>
-    <author fullname="J. Callas"/>
-    <author fullname="M. Delany"/>
-    <author fullname="M. Libbey"/>
-    <author fullname="J. Fenton"/>
-    <author fullname="M. Thomas"/>
+    <author fullname="E. Allman" initials="E." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="J. Callas" initials="J." surname="Callas">
+      <organization/>
+    </author>
+    <author fullname="M. Delany" initials="M." surname="Delany">
+      <organization/>
+    </author>
+    <author fullname="M. Libbey" initials="M." surname="Libbey">
+      <organization/>
+    </author>
+    <author fullname="J. Fenton" initials="J." surname="Fenton">
+      <organization/>
+    </author>
+    <author fullname="M. Thomas" initials="M." surname="Thomas">
+      <organization/>
+    </author>
     <date year="2007" month="May"/>
     <workgroup>dkim</workgroup>
-    <keyword>internet mail</keyword>
-    <keyword>authentication</keyword>
-    <keyword>spam</keyword>
-    <keyword>phishing</keyword>
-    <keyword>spoofing</keyword>
-    <keyword>digital signature</keyword>
-    <abstract>DomainKeys Identified Mail (DKIM) defines a domain-level authentication framework for email using public-key cryptography and key server technology to permit verification of the source and contents of messages by either Mail Transfer Agents (MTAs) or Mail User Agents (MUAs).  The ultimate goal of this framework is to permit a signing domain to assert responsibility for a message, thus protecting message signer identity and the integrity of the messages they convey while retaining the functionality of Internet email as it is known today.  Protection of email identity may assist in the global control of "spam" and "phishing". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>DomainKeys Identified Mail (DKIM) defines a domain-level authentication framework for email using public-key cryptography and key server technology to permit verification of the source and contents of messages by either Mail Transfer Agents (MTAs) or Mail User Agents (MUAs).  The ultimate goal of this framework is to permit a signing domain to assert responsibility for a message, thus protecting message signer identity and the integrity of the messages they convey while retaining the functionality of Internet email as it is known today.  Protection of email identity may assist in the global control of "spam" and "phishing". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4871"/>
+  <seriesInfo name="RFC" value="4871"/>
 </reference>

@@ -1,18 +1,21 @@
 <reference anchor="RFC4280" target="https://www.rfc-editor.org/info/rfc4280">
   <front>
     <title>Dynamic Host Configuration Protocol (DHCP) Options for Broadcast and Multicast Control Servers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4280"/>
-    <author fullname="K. Chowdhury"/>
-    <author fullname="P. Yegani"/>
-    <author fullname="L. Madour"/>
+    <author fullname="K. Chowdhury" initials="K." surname="Chowdhury">
+      <organization/>
+    </author>
+    <author fullname="P. Yegani" initials="P." surname="Yegani">
+      <organization/>
+    </author>
+    <author fullname="L. Madour" initials="L." surname="Madour">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>dhc</workgroup>
-    <keyword>bcmcs</keyword>
-    <keyword>3g</keyword>
-    <keyword>third generation</keyword>
-    <keyword>cellular telephone</keyword>
-    <keyword>mobile node</keyword>
-    <keyword>mn</keyword>
-    <abstract>This document defines new options to discover the Broadcast and Multicast Service (BCMCS) controller in an IP network.  BCMCS is being developed for Third generation (3G) cellular telephone networks.  Users of the service interact with a controller in the network via the Mobile Node (MN) to derive information required to receive Broadcast and Multicast Service.  Dynamic Host Configuration Protocol can be used to configure the MN to access a particular controller.  This document defines the related options and option codes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines new options to discover the Broadcast and Multicast Service (BCMCS) controller in an IP network.  BCMCS is being developed for Third generation (3G) cellular telephone networks.  Users of the service interact with a controller in the network via the Mobile Node (MN) to derive information required to receive Broadcast and Multicast Service.  Dynamic Host Configuration Protocol can be used to configure the MN to access a particular controller.  This document defines the related options and option codes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4280"/>
+  <seriesInfo name="RFC" value="4280"/>
 </reference>

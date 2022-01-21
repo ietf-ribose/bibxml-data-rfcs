@@ -1,15 +1,24 @@
 <reference anchor="RFC8992" target="https://www.rfc-editor.org/info/rfc8992">
   <front>
     <title>Autonomic IPv6 Edge Prefix Management in Large-Scale Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8992"/>
-    <author fullname="S. Jiang"/>
-    <author fullname="Z. Du"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="Q. Sun"/>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="Z. Du" initials="Z." surname="Du">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
     <date year="2021" month="May"/>
     <workgroup>anima</workgroup>
-    <keyword>Autonomic Networking</keyword>
-    <keyword>Prefix Management</keyword>
-    <abstract>This document defines two autonomic technical objectives for IPv6 prefix management at the edge of large-scale ISP networks, with an extension to support IPv4 prefixes.  An important purpose of this document is to use it for validation of the design of various components of the Autonomic Networking Infrastructure.</abstract>
+    <abstract>
+      <t>This document defines two autonomic technical objectives for IPv6 prefix management at the edge of large-scale ISP networks, with an extension to support IPv4 prefixes.  An important purpose of this document is to use it for validation of the design of various components of the Autonomic Networking Infrastructure.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8992"/>
+  <seriesInfo name="RFC" value="8992"/>
 </reference>

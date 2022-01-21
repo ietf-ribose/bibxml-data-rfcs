@@ -1,17 +1,21 @@
 <reference anchor="RFC2390" target="https://www.rfc-editor.org/info/rfc2390">
   <front>
     <title>Inverse Address Resolution Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2390"/>
-    <author fullname="T. Bradley"/>
-    <author fullname="C. Brown"/>
-    <author fullname="A. Malis"/>
+    <author fullname="T. Bradley" initials="T." surname="Bradley">
+      <organization/>
+    </author>
+    <author fullname="C. Brown" initials="C." surname="Brown">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
     <date year="1998" month="September"/>
     <workgroup>ion</workgroup>
-    <keyword>IARP</keyword>
-    <keyword>iarp</keyword>
-    <keyword>hardware</keyword>
-    <keyword>frame</keyword>
-    <keyword>relay</keyword>
-    <abstract>This memo describes additions to ARP that will allow a station to request a protocol address corresponding to a given hardware address. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes additions to ARP that will allow a station to request a protocol address corresponding to a given hardware address. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2390"/>
+  <seriesInfo name="RFC" value="2390"/>
 </reference>

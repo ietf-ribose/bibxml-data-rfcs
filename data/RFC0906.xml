@@ -1,9 +1,14 @@
 <reference anchor="RFC0906" target="https://www.rfc-editor.org/info/rfc906">
   <front>
     <title>Bootstrap loading using TFTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0906"/>
-    <author fullname="R. Finlayson"/>
+    <author fullname="R. Finlayson" initials="R." surname="Finlayson">
+      <organization/>
+    </author>
     <date year="1984" month="June"/>
-    <abstract>It is often convenient to be able to bootstrap a computer system from a communications network.  This RFC proposes the use of the IP TFTP protocol for bootstrap loading in this case.</abstract>
+    <abstract>
+      <t>It is often convenient to be able to bootstrap a computer system from a communications network.  This RFC proposes the use of the IP TFTP protocol for bootstrap loading in this case.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0906"/>
+  <seriesInfo name="RFC" value="906"/>
 </reference>

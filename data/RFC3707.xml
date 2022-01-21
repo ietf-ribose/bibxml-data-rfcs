@@ -1,11 +1,15 @@
 <reference anchor="RFC3707" target="https://www.rfc-editor.org/info/rfc3707">
   <front>
     <title>Cross Registry Internet Service Protocol (CRISP) Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3707"/>
-    <author fullname="A. Newton"/>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
     <date year="2004" month="February"/>
     <workgroup>crisp</workgroup>
-    <keyword>directory services domain</keyword>
-    <abstract>Internet registries expose administrative and operational data via varying directory services.  This document defines functional requirements for the directory services of domain registries and the common base requirements for extending the use of these services for other types of Internet registries.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Internet registries expose administrative and operational data via varying directory services.  This document defines functional requirements for the directory services of domain registries and the common base requirements for extending the use of these services for other types of Internet registries.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3707"/>
+  <seriesInfo name="RFC" value="3707"/>
 </reference>

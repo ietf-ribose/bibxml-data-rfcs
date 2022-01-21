@@ -1,11 +1,17 @@
 <reference anchor="RFC3992" target="https://www.rfc-editor.org/info/rfc3992">
   <front>
     <title>Media Gateway Control Protocol (MGCP) Lockstep State Reporting Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3992"/>
-    <author fullname="B. Foster"/>
-    <author fullname="F. Andreasen"/>
+    <author fullname="B. Foster" initials="B." surname="Foster">
+      <organization/>
+    </author>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
-    <keyword>fault recovery</keyword>
-    <abstract>A Media Gateway Control Protocol (MGCP) endpoint that has encountered an adverse failure condition (such as being involved in a transient call when a Call Agent failover occurred) could be left in a lockstep state whereby events are quarantined but not notified.  The MGCP package described in this document provides a mechanism for reporting these situations so that the new Call Agent can take the necessary fault recovery procedures.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>A Media Gateway Control Protocol (MGCP) endpoint that has encountered an adverse failure condition (such as being involved in a transient call when a Call Agent failover occurred) could be left in a lockstep state whereby events are quarantined but not notified.  The MGCP package described in this document provides a mechanism for reporting these situations so that the new Call Agent can take the necessary fault recovery procedures.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3992"/>
+  <seriesInfo name="RFC" value="3992"/>
 </reference>

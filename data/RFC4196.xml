@@ -1,15 +1,24 @@
 <reference anchor="RFC4196" target="https://www.rfc-editor.org/info/rfc4196">
   <front>
     <title>The SEED Cipher Algorithm and Its Use with IPsec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4196"/>
-    <author fullname="H.J. Lee"/>
-    <author fullname="J.H. Yoon"/>
-    <author fullname="S.L. Lee"/>
-    <author fullname="J.I. Lee"/>
+    <author fullname="H.J. Lee" initials="H.J." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J.H. Yoon" initials="J.H." surname="Yoon">
+      <organization/>
+    </author>
+    <author fullname="S.L. Lee" initials="S.L." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J.I. Lee" initials="J.I." surname="Lee">
+      <organization/>
+    </author>
     <date year="2005" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ipsec esp</keyword>
-    <keyword>encryption algorithm</keyword>
-    <abstract>This document describes the use of the SEED block cipher algorithm in the Cipher Block Chaining Mode, with an explicit IV, as a confidentiality mechanism within the context of the IPsec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of the SEED block cipher algorithm in the Cipher Block Chaining Mode, with an explicit IV, as a confidentiality mechanism within the context of the IPsec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4196"/>
+  <seriesInfo name="RFC" value="4196"/>
 </reference>

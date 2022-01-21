@@ -1,17 +1,21 @@
 <reference anchor="RFC3065" target="https://www.rfc-editor.org/info/rfc3065">
   <front>
     <title>Autonomous System Confederations for BGP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3065"/>
-    <author fullname="P. Traina"/>
-    <author fullname="D. McPherson"/>
-    <author fullname="J. Scudder"/>
+    <author fullname="P. Traina" initials="P." surname="Traina">
+      <organization/>
+    </author>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
     <date year="2001" month="February"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP-ASC</keyword>
-    <keyword>AS</keyword>
-    <keyword>border</keyword>
-    <keyword>gateway</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes an extension to BGP which may be used to create a confederation of autonomous systems that is represented as a single autonomous system to BGP peers external to the confederation, thereby removing the "full mesh" requirement.  The intention of this extension is to aid in policy administration and reduce the management complexity of maintaining a large autonomous system. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extension to BGP which may be used to create a confederation of autonomous systems that is represented as a single autonomous system to BGP peers external to the confederation, thereby removing the "full mesh" requirement.  The intention of this extension is to aid in policy administration and reduce the management complexity of maintaining a large autonomous system. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3065"/>
+  <seriesInfo name="RFC" value="3065"/>
 </reference>

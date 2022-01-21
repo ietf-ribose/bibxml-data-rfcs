@@ -1,11 +1,18 @@
 <reference anchor="RFC7932" target="https://www.rfc-editor.org/info/rfc7932">
   <front>
     <title>Brotli Compressed Data Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7932"/>
-    <author fullname="J. Alakuijala"/>
-    <author fullname="Z. Szabadka"/>
+    <author fullname="J. Alakuijala" initials="J." surname="Alakuijala">
+      <organization/>
+    </author>
+    <author fullname="Z. Szabadka" initials="Z." surname="Szabadka">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This specification defines a lossless compressed data format that compresses data using a combination of the LZ77 algorithm and Huffman coding, with efficiency comparable to the best currently available general-purpose compression methods.</abstract>
+    <abstract>
+      <t>This specification defines a lossless compressed data format that compresses data using a combination of the LZ77 algorithm and Huffman coding, with efficiency comparable to the best currently available general-purpose compression methods.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7932"/>
+  <seriesInfo name="RFC" value="7932"/>
 </reference>

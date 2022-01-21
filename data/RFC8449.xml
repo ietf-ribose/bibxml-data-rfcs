@@ -1,14 +1,16 @@
 <reference anchor="RFC8449" target="https://www.rfc-editor.org/info/rfc8449">
   <front>
     <title>Record Size Limit Extension for TLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8449"/>
-    <author fullname="M. Thomson"/>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
     <date year="2018" month="August"/>
     <workgroup>tls</workgroup>
-    <keyword>TLS</keyword>
-    <keyword>record</keyword>
-    <keyword>IoT</keyword>
-    <keyword>encryption</keyword>
-    <abstract>An extension to Transport Layer Security (TLS) is defined that allows endpoints to negotiate the maximum size of protected records that each will send the other. This replaces the maximum fragment length extension defined in RFC 6066.</abstract>
+    <abstract>
+      <t>An extension to Transport Layer Security (TLS) is defined that allows endpoints to negotiate the maximum size of protected records that each will send the other.</t>
+      <t>This replaces the maximum fragment length extension defined in RFC 6066.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8449"/>
+  <seriesInfo name="RFC" value="8449"/>
 </reference>

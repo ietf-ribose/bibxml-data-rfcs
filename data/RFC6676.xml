@@ -1,14 +1,27 @@
 <reference anchor="RFC6676" target="https://www.rfc-editor.org/info/rfc6676">
   <front>
     <title>Multicast Addresses for Documentation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6676"/>
-    <author fullname="S. Venaas"/>
-    <author fullname="R. Parekh"/>
-    <author fullname="G. Van de Velde"/>
-    <author fullname="T. Chown"/>
-    <author fullname="M. Eubanks"/>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
+    <author fullname="R. Parekh" initials="R." surname="Parekh">
+      <organization/>
+    </author>
+    <author fullname="G. Van de Velde" initials="G." surname="Van">
+      <organization/>
+    </author>
+    <author fullname="T. Chown" initials="T." surname="Chown">
+      <organization/>
+    </author>
+    <author fullname="M. Eubanks" initials="M." surname="Eubanks">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>mboned</workgroup>
-    <abstract>This document discusses which multicast addresses should be used for documentation purposes and reserves multicast addresses for such use.  Some multicast addresses are derived from AS numbers or unicast addresses.  This document also explains how these can be used for documentation purposes.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document discusses which multicast addresses should be used for documentation purposes and reserves multicast addresses for such use.  Some multicast addresses are derived from AS numbers or unicast addresses.  This document also explains how these can be used for documentation purposes.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6676"/>
+  <seriesInfo name="RFC" value="6676"/>
 </reference>

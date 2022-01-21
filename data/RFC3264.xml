@@ -1,18 +1,18 @@
 <reference anchor="RFC3264" target="https://www.rfc-editor.org/info/rfc3264">
   <front>
     <title>An Offer/Answer Model with Session Description Protocol (SDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3264"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2002" month="June"/>
     <workgroup>mmusic</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>application-layer</keyword>
-    <keyword>application</keyword>
-    <keyword>layer</keyword>
-    <keyword>multimedia</keyword>
-    <keyword>multicast</keyword>
-    <keyword>unicast</keyword>
-    <abstract>This document defines a mechanism by which two entities can make use of the Session Description Protocol (SDP) to arrive at a common view of a multimedia session between them.  In the model, one participant offers the other a description of the desired session from their perspective, and the other participant answers with the desired session from their perspective.  This offer/answer model is most useful in unicast sessions where information from both participants is needed for the complete view of the session.  The offer/answer model is used by protocols like the Session Initiation Protocol (SIP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a mechanism by which two entities can make use of the Session Description Protocol (SDP) to arrive at a common view of a multimedia session between them.  In the model, one participant offers the other a description of the desired session from their perspective, and the other participant answers with the desired session from their perspective.  This offer/answer model is most useful in unicast sessions where information from both participants is needed for the complete view of the session.  The offer/answer model is used by protocols like the Session Initiation Protocol (SIP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3264"/>
+  <seriesInfo name="RFC" value="3264"/>
 </reference>

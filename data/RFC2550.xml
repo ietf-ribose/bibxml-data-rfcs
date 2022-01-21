@@ -1,16 +1,20 @@
 <reference anchor="RFC2550" target="https://www.rfc-editor.org/info/rfc2550">
   <front>
     <title>Y10K and Beyond</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2550"/>
-    <author fullname="S. Glassman"/>
-    <author fullname="M. Manasse"/>
-    <author fullname="J. Mogul"/>
+    <author fullname="S. Glassman" initials="S." surname="Glassman">
+      <organization/>
+    </author>
+    <author fullname="M. Manasse" initials="M." surname="Manasse">
+      <organization/>
+    </author>
+    <author fullname="J. Mogul" initials="J." surname="Mogul">
+      <organization/>
+    </author>
     <date year="1999" month="April"/>
-    <keyword>years</keyword>
-    <keyword>dates</keyword>
-    <keyword>formats</keyword>
-    <keyword>april</keyword>
-    <keyword>fools</keyword>
-    <abstract>This specification provides a solution to the "Y10K" problem which has also been called the "YAK" problem (hex) and the "YXK" problem (Roman numerals).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This specification provides a solution to the "Y10K" problem which has also been called the "YAK" problem (hex) and the "YXK" problem (Roman numerals).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2550"/>
+  <seriesInfo name="RFC" value="2550"/>
 </reference>

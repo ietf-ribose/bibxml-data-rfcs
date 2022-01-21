@@ -1,14 +1,19 @@
 <reference anchor="RFC4239" target="https://www.rfc-editor.org/info/rfc4239">
   <front>
     <title>Internet Voice Messaging (IVM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4239"/>
-    <author fullname="S. McRae"/>
-    <author fullname="G. Parsons"/>
+    <author fullname="S. McRae" initials="S." surname="McRae">
+      <organization/>
+    </author>
+    <author fullname="G. Parsons" initials="G." surname="Parsons">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>vpim</workgroup>
-    <keyword>voicemail</keyword>
-    <keyword>vpim</keyword>
-    <keyword>voice profile for internet mail</keyword>
-    <abstract>This document describes the carriage of voicemail messages over Internet mail as part of a unified messaging infrastructure. The Internet Voice Messaging (IVM) concept described in this document is not a successor format to VPIM v2 (Voice Profile for Internet Mail Version 2), but rather an alternative specification for a different application. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the carriage of voicemail messages over Internet mail as part of a unified messaging infrastructure.</t>
+      <t>The Internet Voice Messaging (IVM) concept described in this document is not a successor format to VPIM v2 (Voice Profile for Internet Mail Version 2), but rather an alternative specification for a different application. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4239"/>
+  <seriesInfo name="RFC" value="4239"/>
 </reference>

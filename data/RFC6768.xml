@@ -1,22 +1,15 @@
 <reference anchor="RFC6768" target="https://www.rfc-editor.org/info/rfc6768">
   <front>
     <title>ATM-Based xDSL Bonded Interfaces MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6768"/>
-    <author fullname="E. Beili"/>
+    <author fullname="E. Beili" initials="E." surname="Beili">
+      <organization/>
+    </author>
     <date year="2013" month="February"/>
     <workgroup>adslmib</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Management Information Base</keyword>
-    <keyword>bonding</keyword>
-    <keyword>xDSL bonding</keyword>
-    <keyword>aggregation</keyword>
-    <keyword>G.Bond</keyword>
-    <keyword>G.Bond/ATM</keyword>
-    <keyword>G.998.1</keyword>
-    <keyword>IMA</keyword>
-    <keyword>IMA+</keyword>
-    <abstract>This document defines a Management Information Base (MIB) module for use with network management protocols in TCP/IP-based internets.  This document proposes an extension to the GBOND-MIB module with a set of objects for managing ATM-based multi-pair bonded xDSL interfaces, as defined in ITU-T Recommendation G.998.1.</abstract>
+    <abstract>
+      <t>This document defines a Management Information Base (MIB) module for use with network management protocols in TCP/IP-based internets.  This document proposes an extension to the GBOND-MIB module with a set of objects for managing ATM-based multi-pair bonded xDSL interfaces, as defined in ITU-T Recommendation G.998.1.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6768"/>
+  <seriesInfo name="RFC" value="6768"/>
 </reference>

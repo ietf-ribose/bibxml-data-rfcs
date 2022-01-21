@@ -1,12 +1,21 @@
 <reference anchor="RFC7551" target="https://www.rfc-editor.org/info/rfc7551">
   <front>
     <title>RSVP-TE Extensions for Associated Bidirectional Label Switched Paths (LSPs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7551"/>
-    <author fullname="F. Zhang"/>
-    <author fullname="R. Jing"/>
-    <author fullname="R. Gandhi"/>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="R. Jing" initials="R." surname="Jing">
+      <organization/>
+    </author>
+    <author fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>teas</workgroup>
-    <abstract>This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.</abstract>
+    <abstract>
+      <t>This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7551"/>
+  <seriesInfo name="RFC" value="7551"/>
 </reference>

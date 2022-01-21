@@ -1,17 +1,26 @@
 <reference anchor="RFC8282" target="https://www.rfc-editor.org/info/rfc8282">
   <front>
     <title>Extensions to the Path Computation Element Communication Protocol (PCEP) for Inter-Layer MPLS and GMPLS Traffic Engineering</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8282"/>
-    <author fullname="E. Oki"/>
-    <author fullname="T. Takeda"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="F. Zhang"/>
+    <author fullname="E. Oki" initials="E." surname="Oki">
+      <organization/>
+    </author>
+    <author fullname="T. Takeda" initials="T." surname="Takeda">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="F. Zhang" initials="F." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2017" month="December"/>
     <workgroup>pce</workgroup>
-    <keyword>Multi-layer</keyword>
-    <keyword>Multi-domain</keyword>
-    <keyword>Inter-domain</keyword>
-    <keyword>Traffic Engineering</keyword>
-    <abstract>The Path Computation Element (PCE) provides path computation functions in support of traffic engineering in Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks. MPLS and GMPLS networks may be constructed from layered service networks. It is advantageous for overall network efficiency to provide end-to-end traffic engineering across multiple network layers through a process called inter-layer traffic engineering. PCE is a candidate solution for such requirements. The PCE Communication Protocol (PCEP) is designed as a communication protocol between Path Computation Clients (PCCs) and PCEs. This document presents PCEP extensions for inter-layer traffic engineering.</abstract>
+    <abstract>
+      <t>The Path Computation Element (PCE) provides path computation functions in support of traffic engineering in Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks.</t>
+      <t>MPLS and GMPLS networks may be constructed from layered service networks. It is advantageous for overall network efficiency to provide end-to-end traffic engineering across multiple network layers through a process called inter-layer traffic engineering. PCE is a candidate solution for such requirements.</t>
+      <t>The PCE Communication Protocol (PCEP) is designed as a communication protocol between Path Computation Clients (PCCs) and PCEs. This document presents PCEP extensions for inter-layer traffic engineering.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8282"/>
+  <seriesInfo name="RFC" value="8282"/>
 </reference>

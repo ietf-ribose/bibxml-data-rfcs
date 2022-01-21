@@ -1,11 +1,17 @@
 <reference anchor="RFC0909" target="https://www.rfc-editor.org/info/rfc909">
   <front>
     <title>Loader Debugger Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0909"/>
-    <author fullname="C. Welles"/>
-    <author fullname="W. Milliken"/>
+    <author fullname="C. Welles" initials="C." surname="Welles">
+      <organization/>
+    </author>
+    <author fullname="W. Milliken" initials="W." surname="Milliken">
+      <organization/>
+    </author>
     <date year="1984" month="July"/>
-    <keyword>LDP</keyword>
-    <abstract>The Loader Debugger Protocol (LDP) is an application layer protocol for loading, dumping, and debugging target machines from hosts in a network environment.  This RFC specifies a proposed protocol for the ARPA-Internet and DARPA research community, and requests discussion and suggestions for improvemts.</abstract>
+    <abstract>
+      <t>The Loader Debugger Protocol (LDP) is an application layer protocol for loading, dumping, and debugging target machines from hosts in a network environment.  This RFC specifies a proposed protocol for the ARPA-Internet and DARPA research community, and requests discussion and suggestions for improvemts.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0909"/>
+  <seriesInfo name="RFC" value="909"/>
 </reference>

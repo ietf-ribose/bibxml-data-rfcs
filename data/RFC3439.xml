@@ -1,12 +1,18 @@
 <reference anchor="RFC3439" target="https://www.rfc-editor.org/info/rfc3439">
   <front>
     <title>Some Internet Architectural Guidelines and Philosophy</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3439"/>
-    <author fullname="R. Bush"/>
-    <author fullname="D. Meyer"/>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>IAB</keyword>
-    <abstract>This document extends RFC 1958 by outlining some of the philosophical guidelines to which architects and designers of Internet backbone networks should adhere.  We describe the Simplicity Principle, which states that complexity is the primary mechanism that impedes efficient scaling, and discuss its implications on the architecture, design and engineering issues found in large scale Internet backbones.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document extends RFC 1958 by outlining some of the philosophical guidelines to which architects and designers of Internet backbone networks should adhere.  We describe the Simplicity Principle, which states that complexity is the primary mechanism that impedes efficient scaling, and discuss its implications on the architecture, design and engineering issues found in large scale Internet backbones.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3439"/>
+  <seriesInfo name="RFC" value="3439"/>
 </reference>

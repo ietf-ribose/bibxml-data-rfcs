@@ -1,16 +1,27 @@
 <reference anchor="RFC8335" target="https://www.rfc-editor.org/info/rfc8335">
   <front>
     <title>PROBE: A Utility for Probing Interfaces</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8335"/>
-    <author fullname="R. Bonica"/>
-    <author fullname="R. Thomas"/>
-    <author fullname="J. Linkova"/>
-    <author fullname="C. Lenart"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
+    <author fullname="R. Thomas" initials="R." surname="Thomas">
+      <organization/>
+    </author>
+    <author fullname="J. Linkova" initials="J." surname="Linkova">
+      <organization/>
+    </author>
+    <author fullname="C. Lenart" initials="C." surname="Lenart">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>intarea</workgroup>
-    <keyword>Ping</keyword>
-    <keyword>ICMP</keyword>
-    <abstract>This document describes a network diagnostic tool called PROBE.  PROBE is similar to PING in that it can be used to query the status of a probed interface, but it differs from PING in that it does not require bidirectional connectivity between the probing and probed interfaces.  Instead, PROBE requires bidirectional connectivity between the probing interface and a proxy interface.  The proxy interface can reside on the same node as the probed interface, or it can reside on a node to which the probed interface is directly connected.  This document updates RFC 4884.</abstract>
+    <abstract>
+      <t>This document describes a network diagnostic tool called PROBE.  PROBE is similar to PING in that it can be used to query the status of a probed interface, but it differs from PING in that it does not require bidirectional connectivity between the probing and probed interfaces.  Instead, PROBE requires bidirectional connectivity between the probing interface and a proxy interface.  The proxy interface can reside on the same node as the probed interface, or it can reside on a node to which the probed interface is directly connected.  This document updates RFC 4884.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8335"/>
+  <seriesInfo name="RFC" value="8335"/>
 </reference>

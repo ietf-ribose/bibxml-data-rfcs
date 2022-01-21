@@ -1,13 +1,18 @@
 <reference anchor="RFC7027" target="https://www.rfc-editor.org/info/rfc7027">
   <front>
     <title>Elliptic Curve Cryptography (ECC) Brainpool Curves for Transport Layer Security (TLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7027"/>
-    <author fullname="J. Merkle"/>
-    <author fullname="M. Lochter"/>
+    <author fullname="J. Merkle" initials="J." surname="Merkle">
+      <organization/>
+    </author>
+    <author fullname="M. Lochter" initials="M." surname="Lochter">
+      <organization/>
+    </author>
     <date year="2013" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>TLS</keyword>
-    <keyword>Elliptic Curve Cryptography</keyword>
-    <abstract>This document specifies the use of several Elliptic Curve Cryptography (ECC) Brainpool curves for authentication and key exchange in the Transport Layer Security (TLS) protocol.</abstract>
+    <abstract>
+      <t>This document specifies the use of several Elliptic Curve Cryptography (ECC) Brainpool curves for authentication and key exchange in the Transport Layer Security (TLS) protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7027"/>
+  <seriesInfo name="RFC" value="7027"/>
 </reference>

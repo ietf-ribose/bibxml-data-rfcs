@@ -1,14 +1,19 @@
 <reference anchor="RFC4787" target="https://www.rfc-editor.org/info/rfc4787">
   <front>
     <title>Network Address Translation (NAT) Behavioral Requirements for Unicast UDP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4787"/>
-    <author fullname="F. Audet"/>
-    <author fullname="C. Jennings"/>
+    <author fullname="F. Audet" initials="F." surname="Audet">
+      <organization/>
+    </author>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
     <date year="2007" month="January"/>
     <workgroup>behave</workgroup>
-    <keyword>nat</keyword>
-    <keyword>sip</keyword>
-    <keyword>udp</keyword>
-    <abstract>This document defines basic terminology for describing different types of Network Address Translation (NAT) behavior when handling Unicast UDP and also defines a set of requirements that would allow many applications, such as multimedia communications or online gaming, to work consistently.  Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>This document defines basic terminology for describing different types of Network Address Translation (NAT) behavior when handling Unicast UDP and also defines a set of requirements that would allow many applications, such as multimedia communications or online gaming, to work consistently.  Developing NATs that meet this set of requirements will greatly increase the likelihood that these applications will function properly.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4787"/>
+  <seriesInfo name="BCP" value="127"/>
+  <seriesInfo name="RFC" value="4787"/>
 </reference>

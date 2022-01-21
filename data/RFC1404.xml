@@ -1,12 +1,15 @@
 <reference anchor="RFC1404" target="https://www.rfc-editor.org/info/rfc1404">
   <front>
     <title>A Model for Common Operational Statistics</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1404"/>
-    <author fullname="B. Stockman"/>
+    <author fullname="B. Stockman" initials="B." surname="Stockman">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
     <workgroup>opstat</workgroup>
-    <keyword>Management</keyword>
-    <keyword>Operations</keyword>
-    <abstract>This memo describes a model for operational statistics in the Internet.  It gives recommendations for metrics, measurements, polling periods, storage formats and presentation formats.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo describes a model for operational statistics in the Internet.  It gives recommendations for metrics, measurements, polling periods, storage formats and presentation formats.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1404"/>
+  <seriesInfo name="RFC" value="1404"/>
 </reference>

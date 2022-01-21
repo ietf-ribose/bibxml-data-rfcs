@@ -1,18 +1,18 @@
 <reference anchor="RFC2737" target="https://www.rfc-editor.org/info/rfc2737">
   <front>
     <title>Entity MIB (Version 2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2737"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="A. Bierman"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
     <date year="1999" month="December"/>
     <workgroup>entmib</workgroup>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (M for use with network management protocols in the Internet communi In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (M for use with network management protocols in the Internet communi In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2737"/>
+  <seriesInfo name="RFC" value="2737"/>
 </reference>

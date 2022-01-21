@@ -1,10 +1,14 @@
 <reference anchor="RFC3251" target="https://www.rfc-editor.org/info/rfc3251">
   <front>
     <title>Electricity over IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3251"/>
-    <author fullname="B. Rajagopalan"/>
+    <author fullname="B. Rajagopalan" initials="B." surname="Rajagopalan">
+      <organization/>
+    </author>
     <date year="2002" month="April"/>
-    <keyword>Internet Protocol</keyword>
-    <abstract>Mostly Pointless Lamp Switching (MPLampS) is an architecture for carrying electricity over IP (with an MPLS control plane).  According to our marketing department, MPLampS has the potential to dramatically lower the price, ease the distribution and usage, and improve the manageability of delivering electricity.  This document is motivated by such work as SONET/SDH over IP/MPLS (with apologies to the authors).  Readers of the previous work have been observed scratching their heads and muttering, "What next?".  This document answers that question.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Mostly Pointless Lamp Switching (MPLampS) is an architecture for carrying electricity over IP (with an MPLS control plane).  According to our marketing department, MPLampS has the potential to dramatically lower the price, ease the distribution and usage, and improve the manageability of delivering electricity.  This document is motivated by such work as SONET/SDH over IP/MPLS (with apologies to the authors).  Readers of the previous work have been observed scratching their heads and muttering, "What next?".  This document answers that question.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3251"/>
+  <seriesInfo name="RFC" value="3251"/>
 </reference>

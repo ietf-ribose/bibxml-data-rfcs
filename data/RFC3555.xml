@@ -1,13 +1,18 @@
 <reference anchor="RFC3555" target="https://www.rfc-editor.org/info/rfc3555">
   <front>
     <title>MIME Type Registration of RTP Payload Formats</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3555"/>
-    <author fullname="S. Casner"/>
-    <author fullname="P. Hoschka"/>
+    <author fullname="S. Casner" initials="S." surname="Casner">
+      <organization/>
+    </author>
+    <author fullname="P. Hoschka" initials="P." surname="Hoschka">
+      <organization/>
+    </author>
     <date year="2003" month="July"/>
     <workgroup>avt</workgroup>
-    <keyword>real time transport protocol</keyword>
-    <keyword>multipurpose internet mail extensions</keyword>
-    <abstract>This document defines the procedure to register RTP Payload Formats as audio, video or other MIME subtype names.  This is useful in a text- based format or control protocol to identify the type of an RTP transmission.  This document also registers all the RTP payload formats defined in the RTP Profile for Audio and Video Conferences as MIME subtypes.  Some of these may also be used for transfer modes other than RTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the procedure to register RTP Payload Formats as audio, video or other MIME subtype names.  This is useful in a text- based format or control protocol to identify the type of an RTP transmission.  This document also registers all the RTP payload formats defined in the RTP Profile for Audio and Video Conferences as MIME subtypes.  Some of these may also be used for transfer modes other than RTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3555"/>
+  <seriesInfo name="RFC" value="3555"/>
 </reference>

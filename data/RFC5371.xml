@@ -1,18 +1,21 @@
 <reference anchor="RFC5371" target="https://www.rfc-editor.org/info/rfc5371">
   <front>
     <title>RTP Payload Format for JPEG 2000 Video Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5371"/>
-    <author fullname="S. Futemma"/>
-    <author fullname="E. Itakura"/>
-    <author fullname="A. Leung"/>
+    <author fullname="S. Futemma" initials="S." surname="Futemma">
+      <organization/>
+    </author>
+    <author fullname="E. Itakura" initials="E." surname="Itakura">
+      <organization/>
+    </author>
+    <author fullname="A. Leung" initials="A." surname="Leung">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>JPEG 2000 video</keyword>
-    <keyword>RTP</keyword>
-    <keyword>Real-time Transport Protocol</keyword>
-    <keyword>main header</keyword>
-    <keyword>tile number</keyword>
-    <keyword>Sony Corporation</keyword>
-    <abstract>This memo describes an RTP payload format for the ISO/IEC International Standard 15444-1 | ITU-T Rec.  T.800, better known as JPEG 2000.  JPEG 2000 features are considered in the design of this payload format.  JPEG 2000 is a truly scalable compression technology allowing applications to encode once and decode many different ways.  The JPEG 2000 video stream is formed by extending from a single image to a series of JPEG 2000 images. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes an RTP payload format for the ISO/IEC International Standard 15444-1 | ITU-T Rec.  T.800, better known as JPEG 2000.  JPEG 2000 features are considered in the design of this payload format.  JPEG 2000 is a truly scalable compression technology allowing applications to encode once and decode many different ways.  The JPEG 2000 video stream is formed by extending from a single image to a series of JPEG 2000 images. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5371"/>
+  <seriesInfo name="RFC" value="5371"/>
 </reference>

@@ -1,18 +1,27 @@
 <reference anchor="RFC8075" target="https://www.rfc-editor.org/info/rfc8075">
   <front>
     <title>Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8075"/>
-    <author fullname="A. Castellani"/>
-    <author fullname="S. Loreto"/>
-    <author fullname="A. Rahman"/>
-    <author fullname="T. Fossati"/>
-    <author fullname="E. Dijk"/>
+    <author fullname="A. Castellani" initials="A." surname="Castellani">
+      <organization/>
+    </author>
+    <author fullname="S. Loreto" initials="S." surname="Loreto">
+      <organization/>
+    </author>
+    <author fullname="A. Rahman" initials="A." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="T. Fossati" initials="T." surname="Fossati">
+      <organization/>
+    </author>
+    <author fullname="E. Dijk" initials="E." surname="Dijk">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>core</workgroup>
-    <keyword>CoAP</keyword>
-    <keyword>HTTP-CoAP mapping</keyword>
-    <keyword>HTTP-CoAP translation</keyword>
-    <keyword>proxy implementation</keyword>
-    <abstract>This document provides reference information for implementing a cross-protocol network proxy that performs translation from the HTTP protocol to the Constrained Application Protocol (CoAP).  This will enable an HTTP client to access resources on a CoAP server through the proxy.  This document describes how an HTTP request is mapped to a CoAP request and how a CoAP response is mapped back to an HTTP response.  This includes guidelines for status code, URI, and media type mappings, as well as additional interworking advice.</abstract>
+    <abstract>
+      <t>This document provides reference information for implementing a cross-protocol network proxy that performs translation from the HTTP protocol to the Constrained Application Protocol (CoAP).  This will enable an HTTP client to access resources on a CoAP server through the proxy.  This document describes how an HTTP request is mapped to a CoAP request and how a CoAP response is mapped back to an HTTP response.  This includes guidelines for status code, URI, and media type mappings, as well as additional interworking advice.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8075"/>
+  <seriesInfo name="RFC" value="8075"/>
 </reference>

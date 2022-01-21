@@ -1,14 +1,18 @@
 <reference anchor="RFC5173" target="https://www.rfc-editor.org/info/rfc5173">
   <front>
     <title>Sieve Email Filtering: Body Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5173"/>
-    <author fullname="J. Degener"/>
-    <author fullname="P. Guenther"/>
+    <author fullname="J. Degener" initials="J." surname="Degener">
+      <organization/>
+    </author>
+    <author fullname="P. Guenther" initials="P." surname="Guenther">
+      <organization/>
+    </author>
     <date year="2008" month="April"/>
     <workgroup>sieve</workgroup>
-    <keyword>search</keyword>
-    <keyword>full text</keyword>
-    <keyword>email</keyword>
-    <abstract>This document defines a new command for the "Sieve" email filtering language that tests for the occurrence of one or more strings in the body of an email message. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new command for the "Sieve" email filtering language that tests for the occurrence of one or more strings in the body of an email message. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5173"/>
+  <seriesInfo name="RFC" value="5173"/>
 </reference>

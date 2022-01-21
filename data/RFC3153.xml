@@ -1,14 +1,21 @@
 <reference anchor="RFC3153" target="https://www.rfc-editor.org/info/rfc3153">
   <front>
     <title>PPP Multiplexing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3153"/>
-    <author fullname="R. Pazhyannur"/>
-    <author fullname="I. Ali"/>
-    <author fullname="C. Fox"/>
+    <author fullname="R. Pazhyannur" initials="R." surname="Pazhyannur">
+      <organization/>
+    </author>
+    <author fullname="I. Ali" initials="I." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="C. Fox" initials="C." surname="Fox">
+      <organization/>
+    </author>
     <date year="2001" month="August"/>
     <workgroup>pppext</workgroup>
-    <keyword>point-to-point</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document describes a method to reduce the PPP (Point-to-Point Protocol) framing overhead used to transport small packets over slow links. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a method to reduce the PPP (Point-to-Point Protocol) framing overhead used to transport small packets over slow links. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3153"/>
+  <seriesInfo name="RFC" value="3153"/>
 </reference>

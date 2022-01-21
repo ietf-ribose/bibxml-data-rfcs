@@ -1,18 +1,20 @@
 <reference anchor="RFC1991" target="https://www.rfc-editor.org/info/rfc1991">
   <front>
     <title>PGP Message Exchange Formats</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1991"/>
-    <author fullname="D. Atkins"/>
-    <author fullname="W. Stallings"/>
-    <author fullname="P. Zimmermann"/>
+    <author fullname="D. Atkins" initials="D." surname="Atkins">
+      <organization/>
+    </author>
+    <author fullname="W. Stallings" initials="W." surname="Stallings">
+      <organization/>
+    </author>
+    <author fullname="P. Zimmermann" initials="P." surname="Zimmermann">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
-    <keyword>PGP-MEF</keyword>
-    <keyword>Pretty</keyword>
-    <keyword>Good</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>encryption</keyword>
-    <keyword>electronic</keyword>
-    <keyword>mail</keyword>
-    <abstract>This document describes the format of "PGP files", i.e., messages that have been encrypted and/or signed with PGP.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes the format of "PGP files", i.e., messages that have been encrypted and/or signed with PGP.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1991"/>
+  <seriesInfo name="RFC" value="1991"/>
 </reference>

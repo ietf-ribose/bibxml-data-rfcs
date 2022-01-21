@@ -1,14 +1,15 @@
 <reference anchor="RFC4878" target="https://www.rfc-editor.org/info/rfc4878">
   <front>
     <title>Definitions and Managed Objects for Operations, Administration, and Maintenance (OAM) Functions on Ethernet-Like Interfaces</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4878"/>
-    <author fullname="M. Squire"/>
+    <author fullname="M. Squire" initials="M." surname="Squire">
+      <organization/>
+    </author>
     <date year="2007" month="June"/>
     <workgroup>hubmib</workgroup>
-    <keyword>efm</keyword>
-    <keyword>ethernet in the first mile</keyword>
-    <keyword>snmp</keyword>
-    <keyword>DOT3-OAM-MIB</keyword>
-    <abstract>This document defines objects for managing Operations, Administration, and Maintenance (OAM) capabilities on Ethernet-like interfaces conformant to the Ethernet OAM functionality defined in the Ethernet in the First Mile (EFM) clauses of the Ethernet standards.  The Ethernet OAM functionality is complementary to the Simple Network Management Protocol (SNMP) in that it is focused on a small set of link-specific functions for directly connected Ethernet interfaces.  This document defines objects for controlling those link OAM functions and for providing results and status of the OAM functions to management entities. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines objects for managing Operations, Administration, and Maintenance (OAM) capabilities on Ethernet-like interfaces conformant to the Ethernet OAM functionality defined in the Ethernet in the First Mile (EFM) clauses of the Ethernet standards.  The Ethernet OAM functionality is complementary to the Simple Network Management Protocol (SNMP) in that it is focused on a small set of link-specific functions for directly connected Ethernet interfaces.  This document defines objects for controlling those link OAM functions and for providing results and status of the OAM functions to management entities. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4878"/>
+  <seriesInfo name="RFC" value="4878"/>
 </reference>

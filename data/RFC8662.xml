@@ -1,17 +1,30 @@
 <reference anchor="RFC8662" target="https://www.rfc-editor.org/info/rfc8662">
   <front>
     <title>Entropy Label for Source Packet Routing in Networking (SPRING) Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8662"/>
-    <author fullname="S. Kini"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="R. Shakir"/>
-    <author fullname="J. Tantsura"/>
+    <author fullname="S. Kini" initials="S." surname="Kini">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="R. Shakir" initials="R." surname="Shakir">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>mpls</workgroup>
-    <keyword>Flow-aware load balancing</keyword>
-    <keyword>ECMP (equal-cost multipath)</keyword>
-    <abstract>Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through an ordered list of instructions, called segments.  Segment Routing can be applied to the Multiprotocol Label Switching (MPLS) data plane.  Entropy labels (ELs) are used in MPLS to improve load-balancing.  This document examines and describes how ELs are to be applied to Segment Routing MPLS.</abstract>
+    <abstract>
+      <t>Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through an ordered list of instructions, called segments.  Segment Routing can be applied to the Multiprotocol Label Switching (MPLS) data plane.  Entropy labels (ELs) are used in MPLS to improve load-balancing.  This document examines and describes how ELs are to be applied to Segment Routing MPLS.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8662"/>
+  <seriesInfo name="RFC" value="8662"/>
 </reference>

@@ -1,17 +1,18 @@
 <reference anchor="RFC1254" target="https://www.rfc-editor.org/info/rfc1254">
   <front>
     <title>Gateway Congestion Control Survey</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1254"/>
-    <author fullname="A. Mankin"/>
-    <author fullname="K. Ramakrishnan"/>
+    <author fullname="A. Mankin" initials="A." surname="Mankin">
+      <organization/>
+    </author>
+    <author fullname="K. Ramakrishnan" initials="K." surname="Ramakrishnan">
+      <organization/>
+    </author>
     <date year="1991" month="August"/>
     <workgroup>pcc</workgroup>
-    <keyword>gateway</keyword>
-    <keyword>congestion</keyword>
-    <keyword>SQ</keyword>
-    <keyword>source quench</keyword>
-    <keyword>fiar queueing</keyword>
-    <keyword>random drop</keyword>
-    <abstract>The purpose of this paper is to present a review of the congestion control approaches, as a way of encouraging new discussion and experimentation.  Included in the survey are Source Quench, Random Drop, Congestion Indication (DEC Bit), and Fair Queueing.</abstract>
+    <abstract>
+      <t>The purpose of this paper is to present a review of the congestion control approaches, as a way of encouraging new discussion and experimentation.  Included in the survey are Source Quench, Random Drop, Congestion Indication (DEC Bit), and Fair Queueing.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1254"/>
+  <seriesInfo name="RFC" value="1254"/>
 </reference>

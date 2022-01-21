@@ -1,17 +1,27 @@
 <reference anchor="RFC5251" target="https://www.rfc-editor.org/info/rfc5251">
   <front>
     <title>Layer 1 VPN Basic Mode</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5251"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="D. Papadimitriou"/>
-    <author fullname="R. Rabbat"/>
-    <author fullname="L. Berger"/>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="D. Papadimitriou" initials="D." surname="Papadimitriou">
+      <organization/>
+    </author>
+    <author fullname="R. Rabbat" initials="R." surname="Rabbat">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
     <date year="2008" month="July"/>
     <workgroup>l1vpn</workgroup>
-    <keyword>virtual private network</keyword>
-    <keyword>l1vpn</keyword>
-    <keyword>l1vpn bm</keyword>
-    <abstract>This document describes the Basic Mode of Layer 1 VPNs (L1VPNs).  L1VPN Basic Mode (L1VPN BM) is a port-based VPN.  In L1VPN Basic Mode, the basic unit of service is a Label Switched Path (LSP) between a pair of customer ports within a given VPN port topology.  This document defines the operational model using either provisioning or a VPN auto-discovery mechanism, and the signaling extensions for the L1VPN BM. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Basic Mode of Layer 1 VPNs (L1VPNs).  L1VPN Basic Mode (L1VPN BM) is a port-based VPN.  In L1VPN Basic Mode, the basic unit of service is a Label Switched Path (LSP) between a pair of customer ports within a given VPN port topology.  This document defines the operational model using either provisioning or a VPN auto-discovery mechanism, and the signaling extensions for the L1VPN BM. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5251"/>
+  <seriesInfo name="RFC" value="5251"/>
 </reference>

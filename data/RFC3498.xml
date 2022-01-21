@@ -1,16 +1,21 @@
 <reference anchor="RFC3498" target="https://www.rfc-editor.org/info/rfc3498">
   <front>
     <title>Definitions of Managed Objects for Synchronous Optical Network (SONET) Linear Automatic Protection Switching (APS) Architectures</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3498"/>
-    <author fullname="J. Kuhfeld"/>
-    <author fullname="J. Johnson"/>
-    <author fullname="M. Thatcher"/>
+    <author fullname="J. Kuhfeld" initials="J." surname="Kuhfeld">
+      <organization/>
+    </author>
+    <author fullname="J. Johnson" initials="J." surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="M. Thatcher" initials="M." surname="Thatcher">
+      <organization/>
+    </author>
     <date year="2003" month="March"/>
     <workgroup>atommib</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>tcp/ip transmission control protocol</keyword>
-    <keyword>internet protocol</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP based internets.  In particular, it defines objects for managing networks using Synchronous Optical Network (SONET) linear Automatic Protection Switching (APS) architectures. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP based internets.  In particular, it defines objects for managing networks using Synchronous Optical Network (SONET) linear Automatic Protection Switching (APS) architectures. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3498"/>
+  <seriesInfo name="RFC" value="3498"/>
 </reference>

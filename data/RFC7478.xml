@@ -1,16 +1,22 @@
 <reference anchor="RFC7478" target="https://www.rfc-editor.org/info/rfc7478">
   <front>
     <title>Web Real-Time Communication Use Cases and Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7478"/>
-    <author fullname="C. Holmberg"/>
-    <author fullname="S. Hakansson"/>
-    <author fullname="G. Eriksson"/>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="S. Hakansson" initials="S." surname="Hakansson">
+      <organization/>
+    </author>
+    <author fullname="G. Eriksson" initials="G." surname="Eriksson">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>rtcweb</workgroup>
-    <keyword>webrtc</keyword>
-    <keyword>browser</keyword>
-    <keyword>websocket</keyword>
-    <keyword>real-time</keyword>
-    <abstract>This document describes web-based real-time communication use cases. Requirements on the browser functionality are derived from the use cases. This document was developed in an initial phase of the work with rather minor updates at later stages. It has not really served as a tool in deciding features or scope for the WG's efforts so far. It is being published to record the early conclusions of the WG. It will not be used as a set of rigid guidelines that specifications and implementations will be held to in the future.</abstract>
+    <abstract>
+      <t>This document describes web-based real-time communication use cases. Requirements on the browser functionality are derived from the use cases.</t>
+      <t>This document was developed in an initial phase of the work with rather minor updates at later stages. It has not really served as a tool in deciding features or scope for the WG's efforts so far. It is being published to record the early conclusions of the WG. It will not be used as a set of rigid guidelines that specifications and implementations will be held to in the future.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7478"/>
+  <seriesInfo name="RFC" value="7478"/>
 </reference>

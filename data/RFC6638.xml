@@ -1,24 +1,18 @@
 <reference anchor="RFC6638" target="https://www.rfc-editor.org/info/rfc6638">
   <front>
     <title>Scheduling Extensions to CalDAV</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6638"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="B. Desruisseaux"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="B. Desruisseaux" initials="B." surname="Desruisseaux">
+      <organization/>
+    </author>
     <date year="2012" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>calsify</keyword>
-    <keyword>calsched</keyword>
-    <keyword>calsch</keyword>
-    <keyword>calendar</keyword>
-    <keyword>calendaring</keyword>
-    <keyword>webcal</keyword>
-    <keyword>ical</keyword>
-    <keyword>icalendar</keyword>
-    <keyword>ischedule</keyword>
-    <keyword>itip</keyword>
-    <keyword>imip</keyword>
-    <keyword>text/calendar</keyword>
-    <keyword>http</keyword>
-    <abstract>This document defines extensions to the Calendaring Extensions to WebDAV (CalDAV) "calendar-access" feature to specify a standard way of performing scheduling operations with iCalendar-based calendar components.  This document defines the "calendar-auto-schedule" feature of CalDAV. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines extensions to the Calendaring Extensions to WebDAV (CalDAV) "calendar-access" feature to specify a standard way of performing scheduling operations with iCalendar-based calendar components.  This document defines the "calendar-auto-schedule" feature of CalDAV. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6638"/>
+  <seriesInfo name="RFC" value="6638"/>
 </reference>

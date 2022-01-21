@@ -1,15 +1,15 @@
 <reference anchor="RFC8143" target="https://www.rfc-editor.org/info/rfc8143">
   <front>
     <title>Using Transport Layer Security (TLS) with Network News Transfer Protocol (NNTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8143"/>
-    <author fullname="J. Elie"/>
+    <author fullname="J. Elie" initials="J." surname="Elie">
+      <organization/>
+    </author>
     <date year="2017" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>NNTP</keyword>
-    <keyword>Usenet</keyword>
-    <keyword>NetNews</keyword>
-    <keyword>TLS</keyword>
-    <keyword>STARTTLS</keyword>
-    <abstract>This document provides recommendations for improving the security of the Network News Transfer Protocol (NNTP) when using Transport Layer Security (TLS).  It modernizes the NNTP usage of TLS to be consistent with TLS best current practices.  This document updates RFC 4642.</abstract>
+    <abstract>
+      <t>This document provides recommendations for improving the security of the Network News Transfer Protocol (NNTP) when using Transport Layer Security (TLS).  It modernizes the NNTP usage of TLS to be consistent with TLS best current practices.  This document updates RFC 4642.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8143"/>
+  <seriesInfo name="RFC" value="8143"/>
 </reference>

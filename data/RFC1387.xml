@@ -1,11 +1,15 @@
 <reference anchor="RFC1387" target="https://www.rfc-editor.org/info/rfc1387">
   <front>
     <title>RIP Version 2 Protocol Analysis</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1387"/>
-    <author fullname="G. Malkin"/>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
     <date year="1993" month="January"/>
     <workgroup>ripv2</workgroup>
-    <keyword>RIP-2</keyword>
-    <abstract>As required by Routing Protocol Criteria (RFC 1264), this report documents the key features of the RIP-2 protocol and the current implementation experience.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>As required by Routing Protocol Criteria (RFC 1264), this report documents the key features of the RIP-2 protocol and the current implementation experience.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1387"/>
+  <seriesInfo name="RFC" value="1387"/>
 </reference>

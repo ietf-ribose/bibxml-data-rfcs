@@ -1,12 +1,14 @@
 <reference anchor="RFC1582" target="https://www.rfc-editor.org/info/rfc1582">
   <front>
     <title>Extensions to RIP to Support Demand Circuits</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1582"/>
-    <author fullname="G. Meyer"/>
+    <author fullname="G. Meyer" initials="G." surname="Meyer">
+      <organization/>
+    </author>
     <date year="1994" month="February"/>
-    <keyword>RIP-DC</keyword>
-    <keyword>routing</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo defines a generalized modification which can be applied to Bellman-Ford (or distance vector) algorithm information broadcasting protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a generalized modification which can be applied to Bellman-Ford (or distance vector) algorithm information broadcasting protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1582"/>
+  <seriesInfo name="RFC" value="1582"/>
 </reference>

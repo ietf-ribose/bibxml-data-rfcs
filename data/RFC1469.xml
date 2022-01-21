@@ -1,12 +1,14 @@
 <reference anchor="RFC1469" target="https://www.rfc-editor.org/info/rfc1469">
   <front>
     <title>IP Multicast over Token-Ring Local Area Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1469"/>
-    <author fullname="T. Pusateri"/>
+    <author fullname="T. Pusateri" initials="T." surname="Pusateri">
+      <organization/>
+    </author>
     <date year="1993" month="June"/>
-    <keyword>IP-TR-MC</keyword>
-    <keyword>802.2</keyword>
-    <keyword>802.5</keyword>
-    <abstract>This document specifies a method for the transmission of IP multicast datagrams over Token-Ring Local Area Networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a method for the transmission of IP multicast datagrams over Token-Ring Local Area Networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1469"/>
+  <seriesInfo name="RFC" value="1469"/>
 </reference>

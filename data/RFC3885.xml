@@ -1,12 +1,18 @@
 <reference anchor="RFC3885" target="https://www.rfc-editor.org/info/rfc3885">
   <front>
     <title>SMTP Service Extension for Message Tracking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3885"/>
-    <author fullname="E. Allman"/>
-    <author fullname="T. Hansen"/>
+    <author fullname="E. Allman" initials="E." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="T. Hansen" initials="T." surname="Hansen">
+      <organization/>
+    </author>
     <date year="2004" month="September"/>
     <workgroup>msgtrk</workgroup>
-    <keyword>simple mail transfer protocol</keyword>
-    <abstract>This memo defines an extension to the SMTP service whereby a client may mark a message for future tracking. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the SMTP service whereby a client may mark a message for future tracking. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3885"/>
+  <seriesInfo name="RFC" value="3885"/>
 </reference>

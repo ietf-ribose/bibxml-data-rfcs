@@ -1,14 +1,15 @@
 <reference anchor="RFC5702" target="https://www.rfc-editor.org/info/rfc5702">
   <front>
     <title>Use of SHA-2 Algorithms with RSA in DNSKEY and RRSIG Resource Records for DNSSEC</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5702"/>
-    <author fullname="J. Jansen"/>
+    <author fullname="J. Jansen" initials="J." surname="Jansen">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>dnsext</workgroup>
-    <keyword>DNSSEC</keyword>
-    <keyword>RSA</keyword>
-    <keyword>SHA-256</keyword>
-    <keyword>SHA-512</keyword>
-    <abstract>This document describes how to produce RSA/SHA-256 and RSA/SHA-512 DNSKEY and RRSIG resource records for use in the Domain Name System Security Extensions (RFC 4033, RFC 4034, and RFC 4035). [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to produce RSA/SHA-256 and RSA/SHA-512 DNSKEY and RRSIG resource records for use in the Domain Name System Security Extensions (RFC 4033, RFC 4034, and RFC 4035). [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5702"/>
+  <seriesInfo name="RFC" value="5702"/>
 </reference>

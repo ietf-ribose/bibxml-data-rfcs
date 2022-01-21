@@ -1,16 +1,15 @@
 <reference anchor="RFC2064" target="https://www.rfc-editor.org/info/rfc2064">
   <front>
     <title>Traffic Flow Measurement:  Meter MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2064"/>
-    <author fullname="N. Brownlee"/>
+    <author fullname="N. Brownlee" initials="N." surname="Brownlee">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
     <workgroup>rtfm</workgroup>
-    <keyword>METER-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>Network</keyword>
-    <keyword>Data</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for obtaining traffic flow information from network traffic meters.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for obtaining traffic flow information from network traffic meters.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2064"/>
+  <seriesInfo name="RFC" value="2064"/>
 </reference>

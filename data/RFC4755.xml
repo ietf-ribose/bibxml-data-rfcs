@@ -1,10 +1,15 @@
 <reference anchor="RFC4755" target="https://www.rfc-editor.org/info/rfc4755">
   <front>
     <title>IP over InfiniBand: Connected Mode</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4755"/>
-    <author fullname="V. Kashyap"/>
+    <author fullname="V. Kashyap" initials="V." surname="Kashyap">
+      <organization/>
+    </author>
     <date year="2006" month="December"/>
     <workgroup>ipoib</workgroup>
-    <abstract>This document specifies transmission of IPv4/IPv6 packets and address resolution over the connected modes of InfiniBand. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies transmission of IPv4/IPv6 packets and address resolution over the connected modes of InfiniBand. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4755"/>
+  <seriesInfo name="RFC" value="4755"/>
 </reference>

@@ -1,19 +1,30 @@
 <reference anchor="RFC2961" target="https://www.rfc-editor.org/info/rfc2961">
   <front>
     <title>RSVP Refresh Overhead Reduction Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2961"/>
-    <author fullname="L. Berger"/>
-    <author fullname="D. Gan"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="P. Pan"/>
-    <author fullname="F. Tommasi"/>
-    <author fullname="S. Molendini"/>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="D. Gan" initials="D." surname="Gan">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="P. Pan" initials="P." surname="Pan">
+      <organization/>
+    </author>
+    <author fullname="F. Tommasi" initials="F." surname="Tommasi">
+      <organization/>
+    </author>
+    <author fullname="S. Molendini" initials="S." surname="Molendini">
+      <organization/>
+    </author>
     <date year="2001" month="April"/>
     <workgroup>rsvp</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>messages</keyword>
-    <abstract>This document describes a number of mechanisms that can be used to reduce processing overhead requirements of refresh messages, eliminate the state synchronization latency incurred when an RSVP (Resource ReserVation Protocol) message is lost and, when desired, refreshing state without the transmission of whole refresh messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a number of mechanisms that can be used to reduce processing overhead requirements of refresh messages, eliminate the state synchronization latency incurred when an RSVP (Resource ReserVation Protocol) message is lost and, when desired, refreshing state without the transmission of whole refresh messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2961"/>
+  <seriesInfo name="RFC" value="2961"/>
 </reference>

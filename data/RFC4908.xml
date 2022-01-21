@@ -1,15 +1,29 @@
 <reference anchor="RFC4908" target="https://www.rfc-editor.org/info/rfc4908">
   <front>
     <title>Multi-homing for small scale fixed network Using Mobile IP and NEMO</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4908"/>
-    <author fullname="K. Nagami"/>
-    <author fullname="S. Uda"/>
-    <author fullname="N. Ogashiwa"/>
-    <author fullname="H. Esaki"/>
-    <author fullname="R. Wakikawa"/>
-    <author fullname="H. Ohnishi"/>
+    <author fullname="K. Nagami" initials="K." surname="Nagami">
+      <organization/>
+    </author>
+    <author fullname="S. Uda" initials="S." surname="Uda">
+      <organization/>
+    </author>
+    <author fullname="N. Ogashiwa" initials="N." surname="Ogashiwa">
+      <organization/>
+    </author>
+    <author fullname="H. Esaki" initials="H." surname="Esaki">
+      <organization/>
+    </author>
+    <author fullname="R. Wakikawa" initials="R." surname="Wakikawa">
+      <organization/>
+    </author>
+    <author fullname="H. Ohnishi" initials="H." surname="Ohnishi">
+      <organization/>
+    </author>
     <date year="2007" month="June"/>
-    <keyword>care-of addresses</keyword>
-    <abstract>Multihoming technology improves the availability of host and network connectivity.  Since the behaviors of fixed and mobile networks differ, distinct architectures for each have been discussed and proposed.  This document proposes a common architecture for both mobile and fixed networking environments, using mobile IP (RFC 3775) and Network Mobility (NEMO; RFC 3963).  The proposed architecture requires a modification of mobile IP and NEMO so that multiple Care-of Addresses (CoAs) can be used.  In addition, multiple Home Agents (HAs) that are located in different places are required for redundancy.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Multihoming technology improves the availability of host and network connectivity.  Since the behaviors of fixed and mobile networks differ, distinct architectures for each have been discussed and proposed.  This document proposes a common architecture for both mobile and fixed networking environments, using mobile IP (RFC 3775) and Network Mobility (NEMO; RFC 3963).  The proposed architecture requires a modification of mobile IP and NEMO so that multiple Care-of Addresses (CoAs) can be used.  In addition, multiple Home Agents (HAs) that are located in different places are required for redundancy.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4908"/>
+  <seriesInfo name="RFC" value="4908"/>
 </reference>

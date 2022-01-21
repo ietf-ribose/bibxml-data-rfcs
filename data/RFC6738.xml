@@ -1,13 +1,22 @@
 <reference anchor="RFC6738" target="https://www.rfc-editor.org/info/rfc6738">
   <front>
     <title>Diameter IKEv2 SK: Using Shared Keys to Support Interaction between IKEv2 Servers and Diameter Servers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6738"/>
-    <author fullname="V. Cakulev"/>
-    <author fullname="A. Lior"/>
-    <author fullname="S. Mizikovsky"/>
+    <author fullname="V. Cakulev" initials="V." surname="Cakulev">
+      <organization/>
+    </author>
+    <author fullname="A. Lior" initials="A." surname="Lior">
+      <organization/>
+    </author>
+    <author fullname="S. Mizikovsky" initials="S." surname="Mizikovsky">
+      <organization/>
+    </author>
     <date year="2012" month="October"/>
     <workgroup>dime</workgroup>
-    <keyword>Internet Key Exchange Protocol version 2</keyword>
-    <abstract>The Internet Key Exchange Protocol version 2 (IKEv2) is a component of the IPsec architecture and is used to perform mutual authentication as well as to establish and to maintain IPsec Security Associations (SAs) between the respective parties. IKEv2 supports several different authentication mechanisms, such as the Extensible Authentication Protocol (EAP), certificates, and Shared Key (SK). Diameter interworking for Mobile IPv6 between the Home Agent (HA), as a Diameter client, and the Diameter server has been specified. However, that specification focused on the usage of EAP and did not include support for SK-based authentication available with IKEv2. This document specifies the IKEv2-server-to-Diameter-server communication when the IKEv2 peer authenticates using IKEv2 with SK. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Internet Key Exchange Protocol version 2 (IKEv2) is a component of the IPsec architecture and is used to perform mutual authentication as well as to establish and to maintain IPsec Security Associations (SAs) between the respective parties. IKEv2 supports several different authentication mechanisms, such as the Extensible Authentication Protocol (EAP), certificates, and Shared Key (SK).</t>
+      <t>Diameter interworking for Mobile IPv6 between the Home Agent (HA), as a Diameter client, and the Diameter server has been specified. However, that specification focused on the usage of EAP and did not include support for SK-based authentication available with IKEv2. This document specifies the IKEv2-server-to-Diameter-server communication when the IKEv2 peer authenticates using IKEv2 with SK. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6738"/>
+  <seriesInfo name="RFC" value="6738"/>
 </reference>

@@ -1,20 +1,18 @@
 <reference anchor="RFC2248" target="https://www.rfc-editor.org/info/rfc2248">
   <front>
     <title>Network Services Monitoring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2248"/>
-    <author fullname="N. Freed"/>
-    <author fullname="S. Kille"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>madman</workgroup>
-    <keyword>NSM-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This MIB may be used on its own for any application, and for most simple applications this will suffice.  This MIB is also designed to serve as a building block which can be used in conjunction with application- specific monitoring and management. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This MIB may be used on its own for any application, and for most simple applications this will suffice.  This MIB is also designed to serve as a building block which can be used in conjunction with application- specific monitoring and management. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2248"/>
+  <seriesInfo name="RFC" value="2248"/>
 </reference>

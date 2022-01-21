@@ -1,17 +1,27 @@
 <reference anchor="RFC8347" target="https://www.rfc-editor.org/info/rfc8347">
   <front>
     <title>A YANG Data Model for the Virtual Router Redundancy Protocol (VRRP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8347"/>
-    <author fullname="X. Liu"/>
-    <author fullname="A. Kyparlis"/>
-    <author fullname="R. Parikh"/>
-    <author fullname="A. Lindem"/>
-    <author fullname="M. Zhang"/>
+    <author fullname="X. Liu" initials="X." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="A. Kyparlis" initials="A." surname="Kyparlis">
+      <organization/>
+    </author>
+    <author fullname="R. Parikh" initials="R." surname="Parikh">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="M. Zhang" initials="M." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2018" month="March"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Routing</keyword>
-    <keyword>YANG</keyword>
-    <abstract>This document describes a data model for the Virtual Router Redundancy Protocol (VRRP).  Both versions 2 and 3 of VRRP are covered.</abstract>
+    <abstract>
+      <t>This document describes a data model for the Virtual Router Redundancy Protocol (VRRP).  Both versions 2 and 3 of VRRP are covered.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8347"/>
+  <seriesInfo name="RFC" value="8347"/>
 </reference>

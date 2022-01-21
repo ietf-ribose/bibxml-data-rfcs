@@ -1,10 +1,17 @@
 <reference anchor="RFC1009" target="https://www.rfc-editor.org/info/rfc1009">
   <front>
     <title>Requirements for Internet gateways</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1009"/>
-    <author fullname="R.T. Braden"/>
-    <author fullname="J. Postel"/>
+    <author fullname="R.T. Braden" initials="R.T." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1987" month="June"/>
-    <abstract>This RFC summarizes the requirements for gateways to be used between networks supporting the Internet protocols.  This document is a formal statement of the requirements to be met by gateways used in the Internet system.  As such, it is an official specification for the Internet community.</abstract>
+    <abstract>
+      <t>This RFC summarizes the requirements for gateways to be used between networks supporting the Internet protocols.  This document is a formal statement of the requirements to be met by gateways used in the Internet system.  As such, it is an official specification for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1009"/>
+  <seriesInfo name="RFC" value="1009"/>
 </reference>

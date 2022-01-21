@@ -1,16 +1,14 @@
 <reference anchor="RFC1788" target="https://www.rfc-editor.org/info/rfc1788">
   <front>
     <title>ICMP Domain Name Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1788"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1995" month="April"/>
-    <keyword>ICMP-DM</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Control</keyword>
-    <keyword>Message</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>DNS</keyword>
-    <keyword>Service</keyword>
-    <abstract>This document specifies ICMP messages for learning the Fully Qualified Domain Name associated with an IP address.  This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document specifies ICMP messages for learning the Fully Qualified Domain Name associated with an IP address.  This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1788"/>
+  <seriesInfo name="RFC" value="1788"/>
 </reference>

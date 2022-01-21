@@ -1,17 +1,24 @@
 <reference anchor="RFC5455" target="https://www.rfc-editor.org/info/rfc5455">
   <front>
     <title>Diffserv-Aware Class-Type Object for the Path Computation Element Communication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5455"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="J. Parker"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="K. Kumaki"/>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="J. Parker" initials="J." surname="Parker">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="K. Kumaki" initials="K." surname="Kumaki">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>pce</workgroup>
-    <keyword>classtype</keyword>
-    <keyword>ds-te</keyword>
-    <keyword>diffserv-aware traffic engineering</keyword>
-    <keyword>pce</keyword>
-    <abstract>This document specifies a CLASSTYPE object to support Diffserv-Aware Traffic Engineering (DS-TE) where path computation is performed with the aid of a Path Computation Element (PCE). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a CLASSTYPE object to support Diffserv-Aware Traffic Engineering (DS-TE) where path computation is performed with the aid of a Path Computation Element (PCE). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5455"/>
+  <seriesInfo name="RFC" value="5455"/>
 </reference>

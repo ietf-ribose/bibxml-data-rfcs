@@ -1,11 +1,18 @@
 <reference anchor="RFC6596" target="https://www.rfc-editor.org/info/rfc6596">
   <front>
     <title>The Canonical Link Relation</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6596"/>
-    <author fullname="M. Ohye"/>
-    <author fullname="J. Kupke"/>
+    <author fullname="M. Ohye" initials="M." surname="Ohye">
+      <organization/>
+    </author>
+    <author fullname="J. Kupke" initials="J." surname="Kupke">
+      <organization/>
+    </author>
     <date year="2012" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>RFC 5988 specifies a way to define relationships between links on the web.  This document describes a new type of such a relationship, "canonical", to designate an Internationalized Resource Identifier (IRI) as preferred over resources with duplicative content.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>RFC 5988 specifies a way to define relationships between links on the web.  This document describes a new type of such a relationship, "canonical", to designate an Internationalized Resource Identifier (IRI) as preferred over resources with duplicative content.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6596"/>
+  <seriesInfo name="RFC" value="6596"/>
 </reference>

@@ -1,12 +1,18 @@
 <reference anchor="RFC7787" target="https://www.rfc-editor.org/info/rfc7787">
   <front>
     <title>Distributed Node Consensus Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7787"/>
-    <author fullname="M. Stenberg"/>
-    <author fullname="S. Barth"/>
+    <author fullname="M. Stenberg" initials="M." surname="Stenberg">
+      <organization/>
+    </author>
+    <author fullname="S. Barth" initials="S." surname="Barth">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>homenet</workgroup>
-    <keyword>Homenet</keyword>
-    <abstract>This document describes the Distributed Node Consensus Protocol (DNCP), a generic state synchronization protocol that uses the Trickle algorithm and hash trees.  DNCP is an abstract protocol and must be combined with a specific profile to make a complete implementable protocol.</abstract>
+    <abstract>
+      <t>This document describes the Distributed Node Consensus Protocol (DNCP), a generic state synchronization protocol that uses the Trickle algorithm and hash trees.  DNCP is an abstract protocol and must be combined with a specific profile to make a complete implementable protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7787"/>
+  <seriesInfo name="RFC" value="7787"/>
 </reference>

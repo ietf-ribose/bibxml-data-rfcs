@@ -1,20 +1,32 @@
 <reference anchor="RFC6973" target="https://www.rfc-editor.org/info/rfc6973">
   <front>
     <title>Privacy Considerations for Internet Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6973"/>
-    <author fullname="A. Cooper"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="J. Peterson"/>
-    <author fullname="J. Morris"/>
-    <author fullname="M. Hansen"/>
-    <author fullname="R. Smith"/>
+    <author fullname="A. Cooper" initials="A." surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="J. Morris" initials="J." surname="Morris">
+      <organization/>
+    </author>
+    <author fullname="M. Hansen" initials="M." surname="Hansen">
+      <organization/>
+    </author>
+    <author fullname="R. Smith" initials="R." surname="Smith">
+      <organization/>
+    </author>
     <date year="2013" month="July"/>
-    <keyword>Disclosure</keyword>
-    <keyword>Anonymity</keyword>
-    <keyword>Pseudonymity</keyword>
-    <keyword>Confidentiality</keyword>
-    <keyword>Identity</keyword>
-    <abstract>This document offers guidance for developing privacy considerations for inclusion in protocol specifications.  It aims to make designers, implementers, and users of Internet protocols aware of privacy-related design choices.  It suggests that whether any individual RFC warrants a specific privacy considerations section will depend on the document's content.</abstract>
+    <abstract>
+      <t>This document offers guidance for developing privacy considerations for inclusion in protocol specifications.  It aims to make designers, implementers, and users of Internet protocols aware of privacy-related design choices.  It suggests that whether any individual RFC warrants a specific privacy considerations section will depend on the document's content.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6973"/>
+  <seriesInfo name="RFC" value="6973"/>
 </reference>

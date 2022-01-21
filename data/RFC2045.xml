@@ -1,15 +1,18 @@
 <reference anchor="RFC2045" target="https://www.rfc-editor.org/info/rfc2045">
   <front>
     <title>Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2045"/>
-    <author fullname="N. Freed"/>
-    <author fullname="N. Borenstein"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="N. Borenstein" initials="N." surname="Borenstein">
+      <organization/>
+    </author>
     <date year="1996" month="November"/>
     <workgroup>822ext</workgroup>
-    <keyword>MIME</keyword>
-    <keyword>media</keyword>
-    <keyword>types</keyword>
-    <keyword>headers</keyword>
-    <abstract>This initial document specifies the various headers used to describe the structure of MIME messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This initial document specifies the various headers used to describe the structure of MIME messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2045"/>
+  <seriesInfo name="RFC" value="2045"/>
 </reference>

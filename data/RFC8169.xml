@@ -1,18 +1,31 @@
 <reference anchor="RFC8169" target="https://www.rfc-editor.org/info/rfc8169">
   <front>
     <title>Residence Time Measurement in MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8169"/>
-    <author fullname="G. Mirsky"/>
-    <author fullname="S. Ruffini"/>
-    <author fullname="E. Gray"/>
-    <author fullname="J. Drake"/>
-    <author fullname="S. Bryant"/>
-    <author fullname="A. Vainshtein"/>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="S. Ruffini" initials="S." surname="Ruffini">
+      <organization/>
+    </author>
+    <author fullname="E. Gray" initials="E." surname="Gray">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
+    <author fullname="A. Vainshtein" initials="A." surname="Vainshtein">
+      <organization/>
+    </author>
     <date year="2017" month="May"/>
     <workgroup>mpls</workgroup>
-    <keyword>G-ACh</keyword>
-    <keyword>Resident Time</keyword>
-    <keyword>MPLS</keyword>
-    <abstract>This document specifies a new Generic Associated Channel (G-ACh) for Residence Time Measurement (RTM) and describes how it can be used by time synchronization protocols within an MPLS domain. Residence time is the variable part of the propagation delay of timing and synchronization messages; knowing this delay for each message allows for a more accurate determination of the delay to be taken into account when applying the value included in a Precision Time Protocol event message.</abstract>
+    <abstract>
+      <t>This document specifies a new Generic Associated Channel (G-ACh) for Residence Time Measurement (RTM) and describes how it can be used by time synchronization protocols within an MPLS domain.</t>
+      <t>Residence time is the variable part of the propagation delay of timing and synchronization messages; knowing this delay for each message allows for a more accurate determination of the delay to be taken into account when applying the value included in a Precision Time Protocol event message.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8169"/>
+  <seriesInfo name="RFC" value="8169"/>
 </reference>

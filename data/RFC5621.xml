@@ -1,13 +1,15 @@
 <reference anchor="RFC5621" target="https://www.rfc-editor.org/info/rfc5621">
   <front>
     <title>Message Body Handling in the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5621"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2009" month="September"/>
     <workgroup>sip</workgroup>
-    <keyword>Message body</keyword>
-    <keyword>MIME</keyword>
-    <keyword>SIP</keyword>
-    <abstract>This document specifies how message bodies are handled in SIP.  Additionally, this document specifies SIP user agent support for MIME (Multipurpose Internet Mail Extensions) in message bodies. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how message bodies are handled in SIP.  Additionally, this document specifies SIP user agent support for MIME (Multipurpose Internet Mail Extensions) in message bodies. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5621"/>
+  <seriesInfo name="RFC" value="5621"/>
 </reference>

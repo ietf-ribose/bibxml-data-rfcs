@@ -1,13 +1,18 @@
 <reference anchor="RFC5366" target="https://www.rfc-editor.org/info/rfc5366">
   <front>
     <title>Conference Establishment Using Request-Contained Lists in the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5366"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="A. Johnston"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="A. Johnston" initials="A." surname="Johnston">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>sip</workgroup>
-    <keyword>sip uri list</keyword>
-    <keyword>invite-contatined uri</keyword>
-    <abstract>This document describes how to create a conference using SIP URI-list services.  In particular, it describes a mechanism that allows a User Agent Client to provide a conference server with the initial list of participants using an INVITE-contained URI list. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to create a conference using SIP URI-list services.  In particular, it describes a mechanism that allows a User Agent Client to provide a conference server with the initial list of participants using an INVITE-contained URI list. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5366"/>
+  <seriesInfo name="RFC" value="5366"/>
 </reference>

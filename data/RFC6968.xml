@@ -1,11 +1,18 @@
 <reference anchor="RFC6968" target="https://www.rfc-editor.org/info/rfc6968">
   <front>
     <title>FCAST: Object Delivery for the Asynchronous Layered Coding (ALC) and NACK-Oriented Reliable Multicast (NORM) Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6968"/>
-    <author fullname="V. Roca"/>
-    <author fullname="B. Adamson"/>
+    <author fullname="V. Roca" initials="V." surname="Roca">
+      <organization/>
+    </author>
+    <author fullname="B. Adamson" initials="B." surname="Adamson">
+      <organization/>
+    </author>
     <date year="2013" month="July"/>
     <workgroup>rmt</workgroup>
-    <abstract>This document introduces the FCAST reliable object (e.g., file) delivery application.  It is designed to operate either on top of the underlying Asynchronous Layered Coding (ALC) / Layered Coding Transport (LCT) reliable multicast transport protocol or the NACK-Oriented Reliable Multicast (NORM) transport protocol.</abstract>
+    <abstract>
+      <t>This document introduces the FCAST reliable object (e.g., file) delivery application.  It is designed to operate either on top of the underlying Asynchronous Layered Coding (ALC) / Layered Coding Transport (LCT) reliable multicast transport protocol or the NACK-Oriented Reliable Multicast (NORM) transport protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6968"/>
+  <seriesInfo name="RFC" value="6968"/>
 </reference>

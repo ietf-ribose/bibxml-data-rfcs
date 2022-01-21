@@ -1,16 +1,30 @@
 <reference anchor="RFC8296" target="https://www.rfc-editor.org/info/rfc8296">
   <front>
     <title>Encapsulation for Bit Index Explicit Replication (BIER) in MPLS and Non-MPLS Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8296"/>
-    <author fullname="IJ. Wijnands"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="A. Dolganow"/>
-    <author fullname="J. Tantsura"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="I. Meilik"/>
+    <author fullname="IJ. Wijnands" initials="IJ." surname="Wijnands">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="A. Dolganow" initials="A." surname="Dolganow">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="I. Meilik" initials="I." surname="Meilik">
+      <organization/>
+    </author>
     <date year="2018" month="January"/>
     <workgroup>bier</workgroup>
-    <keyword>Multicast</keyword>
-    <abstract>Bit Index Explicit Replication (BIER) is an architecture that provides optimal multicast forwarding through a "multicast domain", without requiring intermediate routers to maintain any per-flow state or to engage in an explicit tree-building protocol.  When a multicast data packet enters the domain, the ingress router determines the set of egress routers to which the packet needs to be sent.  The ingress router then encapsulates the packet in a BIER header.  The BIER header contains a bit string in which each bit represents exactly one egress router in the domain; to forward the packet to a given set of egress routers, the bits corresponding to those routers are set in the BIER header.  The details of the encapsulation depend on the type of network used to realize the multicast domain.  This document specifies a BIER encapsulation that can be used in an MPLS network or, with slight differences, in a non-MPLS network.</abstract>
+    <abstract>
+      <t>Bit Index Explicit Replication (BIER) is an architecture that provides optimal multicast forwarding through a "multicast domain", without requiring intermediate routers to maintain any per-flow state or to engage in an explicit tree-building protocol.  When a multicast data packet enters the domain, the ingress router determines the set of egress routers to which the packet needs to be sent.  The ingress router then encapsulates the packet in a BIER header.  The BIER header contains a bit string in which each bit represents exactly one egress router in the domain; to forward the packet to a given set of egress routers, the bits corresponding to those routers are set in the BIER header.  The details of the encapsulation depend on the type of network used to realize the multicast domain.  This document specifies a BIER encapsulation that can be used in an MPLS network or, with slight differences, in a non-MPLS network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8296"/>
+  <seriesInfo name="RFC" value="8296"/>
 </reference>

@@ -1,15 +1,18 @@
 <reference anchor="RFC2526" target="https://www.rfc-editor.org/info/rfc2526">
   <front>
     <title>Reserved IPv6 Subnet Anycast Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2526"/>
-    <author fullname="D. Johnson"/>
-    <author fullname="S. Deering"/>
+    <author fullname="D. Johnson" initials="D." surname="Johnson">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>routing</keyword>
-    <keyword>architecture</keyword>
-    <abstract>This document defines a set of reserved anycast addresses within each subnet prefix, and lists the initial allocation of these reserved subnet anycast addresses. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a set of reserved anycast addresses within each subnet prefix, and lists the initial allocation of these reserved subnet anycast addresses. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2526"/>
+  <seriesInfo name="RFC" value="2526"/>
 </reference>

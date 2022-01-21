@@ -1,14 +1,18 @@
 <reference anchor="RFC9027" target="https://www.rfc-editor.org/info/rfc9027">
   <front>
     <title>Assertion Values for Resource Priority Header and SIP Priority Header Claims in Support of Emergency Services Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9027"/>
-    <author fullname="M. Dolly"/>
-    <author fullname="C. Wendt"/>
+    <author fullname="M. Dolly" initials="M." surname="Dolly">
+      <organization/>
+    </author>
+    <author fullname="C. Wendt" initials="C." surname="Wendt">
+      <organization/>
+    </author>
     <date year="2021" month="June"/>
     <workgroup>stir</workgroup>
-    <keyword>rph</keyword>
-    <keyword>PASSport</keyword>
-    <keyword>esnet</keyword>
-    <abstract>This document adds new assertion values for a Resource Priority Header ("rph") claim and a new SIP Priority Header ("sph") claim for protection of the "psap-callback" value as part of the "rph" Personal Assertion Token (PASSporT) extension in support of the security of emergency services networks for emergency call origination and callback.</abstract>
+    <abstract>
+      <t>This document adds new assertion values for a Resource Priority Header ("rph") claim and a new SIP Priority Header ("sph") claim for protection of the "psap-callback" value as part of the "rph" Personal Assertion Token (PASSporT) extension in support of the security of emergency services networks for emergency call origination and callback.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9027"/>
+  <seriesInfo name="RFC" value="9027"/>
 </reference>

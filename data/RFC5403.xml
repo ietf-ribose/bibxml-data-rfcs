@@ -1,27 +1,15 @@
 <reference anchor="RFC5403" target="https://www.rfc-editor.org/info/rfc5403">
   <front>
     <title>RPCSEC_GSS Version 2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5403"/>
-    <author fullname="M. Eisler"/>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
     <date year="2009" month="February"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>Kerberos</keyword>
-    <keyword>ONC</keyword>
-    <keyword>RPC</keyword>
-    <keyword>security</keyword>
-    <keyword>authentication</keyword>
-    <keyword>integrity</keyword>
-    <keyword>GSS</keyword>
-    <keyword>GSS-API</keyword>
-    <keyword>privacy</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>encryption</keyword>
-    <keyword>MIC</keyword>
-    <keyword>NFS</keyword>
-    <keyword>credential</keyword>
-    <keyword>verifier</keyword>
-    <keyword>mechanism</keyword>
-    <keyword>context</keyword>
-    <abstract>This document describes version 2 of the RPCSEC_GSS protocol.  Version 2 is the same as version 1 (specified in RFC 2203) except that support for channel bindings has been added.  RPCSEC_GSS allows remote procedure call (RPC) protocols to access the Generic Security Services Application Programming Interface (GSS-API). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes version 2 of the RPCSEC_GSS protocol.  Version 2 is the same as version 1 (specified in RFC 2203) except that support for channel bindings has been added.  RPCSEC_GSS allows remote procedure call (RPC) protocols to access the Generic Security Services Application Programming Interface (GSS-API). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5403"/>
+  <seriesInfo name="RFC" value="5403"/>
 </reference>

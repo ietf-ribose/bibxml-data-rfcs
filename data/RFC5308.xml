@@ -1,13 +1,15 @@
 <reference anchor="RFC5308" target="https://www.rfc-editor.org/info/rfc5308">
   <front>
     <title>Routing IPv6 with IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5308"/>
-    <author fullname="C. Hopps"/>
+    <author fullname="C. Hopps" initials="C." surname="Hopps">
+      <organization/>
+    </author>
     <date year="2008" month="October"/>
     <workgroup>isis</workgroup>
-    <keyword>intermediate system to intermediate system</keyword>
-    <keyword>tlv</keyword>
-    <keyword>osi</keyword>
-    <abstract>This document specifies a method for exchanging IPv6 routing information using the IS-IS routing protocol.  The described method utilizes two new TLVs: a reachability TLV and an interface address TLV to distribute the necessary IPv6 information throughout a routing domain.  Using this method, one can route IPv6 along with IPv4 and OSI using a single intra-domain routing protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a method for exchanging IPv6 routing information using the IS-IS routing protocol.  The described method utilizes two new TLVs: a reachability TLV and an interface address TLV to distribute the necessary IPv6 information throughout a routing domain.  Using this method, one can route IPv6 along with IPv4 and OSI using a single intra-domain routing protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5308"/>
+  <seriesInfo name="RFC" value="5308"/>
 </reference>

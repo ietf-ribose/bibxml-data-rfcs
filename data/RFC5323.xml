@@ -1,16 +1,24 @@
 <reference anchor="RFC5323" target="https://www.rfc-editor.org/info/rfc5323">
   <front>
     <title>Web Distributed Authoring and Versioning (WebDAV) SEARCH</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5323"/>
-    <author fullname="J. Reschke"/>
-    <author fullname="S. Reddy"/>
-    <author fullname="J. Davis"/>
-    <author fullname="A. Babich"/>
+    <author fullname="J. Reschke" initials="J." surname="Reschke">
+      <organization/>
+    </author>
+    <author fullname="S. Reddy" initials="S." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="J. Davis" initials="J." surname="Davis">
+      <organization/>
+    </author>
+    <author fullname="A. Babich" initials="A." surname="Babich">
+      <organization/>
+    </author>
     <date year="2008" month="November"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>Query</keyword>
-    <keyword>Properties</keyword>
-    <abstract>This document specifies a set of methods, headers, and properties composing Web Distributed Authoring and Versioning (WebDAV) SEARCH, an application of the HTTP/1.1 protocol to efficiently search for DAV resources based upon a set of client-supplied criteria. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a set of methods, headers, and properties composing Web Distributed Authoring and Versioning (WebDAV) SEARCH, an application of the HTTP/1.1 protocol to efficiently search for DAV resources based upon a set of client-supplied criteria. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5323"/>
+  <seriesInfo name="RFC" value="5323"/>
 </reference>

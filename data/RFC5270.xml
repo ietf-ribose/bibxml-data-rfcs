@@ -1,17 +1,27 @@
 <reference anchor="RFC5270" target="https://www.rfc-editor.org/info/rfc5270">
   <front>
     <title>Mobile IPv6 Fast Handovers over IEEE 802.16e Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5270"/>
-    <author fullname="H. Jang"/>
-    <author fullname="J. Jee"/>
-    <author fullname="Y. Han"/>
-    <author fullname="S. Park"/>
-    <author fullname="J. Cha"/>
+    <author fullname="H. Jang" initials="H." surname="Jang">
+      <organization/>
+    </author>
+    <author fullname="J. Jee" initials="J." surname="Jee">
+      <organization/>
+    </author>
+    <author fullname="Y. Han" initials="Y." surname="Han">
+      <organization/>
+    </author>
+    <author fullname="S. Park" initials="S." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="J. Cha" initials="J." surname="Cha">
+      <organization/>
+    </author>
     <date year="2008" month="June"/>
     <workgroup>mipshop</workgroup>
-    <keyword>Mobile IPv6</keyword>
-    <keyword> Handover optimization</keyword>
-    <keyword>Cross-layer design</keyword>
-    <abstract>This document describes how a Mobile IPv6 Fast Handover can be implemented on link layers conforming to the IEEE 802.16e suite of specifications.  The proposed scheme tries to achieve seamless handover by exploiting the link-layer handover indicators and thereby synchronizing the IEEE 802.16e handover procedures with the Mobile IPv6 fast handover procedures efficiently.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes how a Mobile IPv6 Fast Handover can be implemented on link layers conforming to the IEEE 802.16e suite of specifications.  The proposed scheme tries to achieve seamless handover by exploiting the link-layer handover indicators and thereby synchronizing the IEEE 802.16e handover procedures with the Mobile IPv6 fast handover procedures efficiently.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5270"/>
+  <seriesInfo name="RFC" value="5270"/>
 </reference>

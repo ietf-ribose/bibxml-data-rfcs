@@ -1,14 +1,18 @@
 <reference anchor="RFC4032" target="https://www.rfc-editor.org/info/rfc4032">
   <front>
     <title>Update to the Session Initiation Protocol (SIP) Preconditions Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4032"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="P. Kyzivat"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="P. Kyzivat" initials="P." surname="Kyzivat">
+      <organization/>
+    </author>
     <date year="2005" month="March"/>
     <workgroup>sip</workgroup>
-    <keyword>qos</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>precondition</keyword>
-    <abstract>This document updates RFC 3312, which defines the framework for preconditions in SIP.  We provide guidelines for authors of new precondition types and describe how to use SIP preconditions in situations that involve session mobility. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document updates RFC 3312, which defines the framework for preconditions in SIP.  We provide guidelines for authors of new precondition types and describe how to use SIP preconditions in situations that involve session mobility. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4032"/>
+  <seriesInfo name="RFC" value="4032"/>
 </reference>

@@ -1,12 +1,24 @@
 <reference anchor="RFC6257" target="https://www.rfc-editor.org/info/rfc6257">
   <front>
     <title>Bundle Security Protocol Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6257"/>
-    <author fullname="S. Symington"/>
-    <author fullname="S. Farrell"/>
-    <author fullname="H. Weiss"/>
-    <author fullname="P. Lovell"/>
+    <author fullname="S. Symington" initials="S." surname="Symington">
+      <organization/>
+    </author>
+    <author fullname="S. Farrell" initials="S." surname="Farrell">
+      <organization/>
+    </author>
+    <author fullname="H. Weiss" initials="H." surname="Weiss">
+      <organization/>
+    </author>
+    <author fullname="P. Lovell" initials="P." surname="Lovell">
+      <organization/>
+    </author>
     <date year="2011" month="May"/>
-    <abstract>This document defines the bundle security protocol, which provides data integrity and confidentiality services for the Bundle Protocol. Separate capabilities are provided to protect the bundle payload and additional data that may be included within the bundle. We also describe various security considerations including some policy options. This document is a product of the Delay-Tolerant Networking Research Group and has been reviewed by that group. No objections to its publication as an RFC were raised. This document defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the bundle security protocol, which provides data integrity and confidentiality services for the Bundle Protocol. Separate capabilities are provided to protect the bundle payload and additional data that may be included within the bundle. We also describe various security considerations including some policy options.</t>
+      <t>This document is a product of the Delay-Tolerant Networking Research Group and has been reviewed by that group. No objections to its publication as an RFC were raised. This document defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6257"/>
+  <seriesInfo name="RFC" value="6257"/>
 </reference>

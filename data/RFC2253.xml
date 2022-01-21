@@ -1,18 +1,21 @@
 <reference anchor="RFC2253" target="https://www.rfc-editor.org/info/rfc2253">
   <front>
     <title>Lightweight Directory Access Protocol (v3): UTF-8 String Representation of Distinguished Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2253"/>
-    <author fullname="M. Wahl"/>
-    <author fullname="S. Kille"/>
-    <author fullname="T. Howes"/>
+    <author fullname="M. Wahl" initials="M." surname="Wahl">
+      <organization/>
+    </author>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="1997" month="December"/>
     <workgroup>asid</workgroup>
-    <keyword>LDAP3-UTF8</keyword>
-    <keyword>LDAPv3</keyword>
-    <keyword>x.500</keyword>
-    <keyword>ASN.1</keyword>
-    <keyword>string</keyword>
-    <keyword>format</keyword>
-    <abstract>This specification defines the string format for representing names, which is designed to give a clean representation of commonly used distinguished names, while being able to represent any distinguished name. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines the string format for representing names, which is designed to give a clean representation of commonly used distinguished names, while being able to represent any distinguished name. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2253"/>
+  <seriesInfo name="RFC" value="2253"/>
 </reference>

@@ -1,17 +1,18 @@
 <reference anchor="RFC2463" target="https://www.rfc-editor.org/info/rfc2463">
   <front>
     <title>Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2463"/>
-    <author fullname="A. Conta"/>
-    <author fullname="S. Deering"/>
+    <author fullname="A. Conta" initials="A." surname="Conta">
+      <organization/>
+    </author>
+    <author fullname="S. Deering" initials="S." surname="Deering">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>ICMPv6</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>link-local</keyword>
-    <keyword>autoconfigured</keyword>
-    <keyword>addresses</keyword>
-    <abstract>This document specifies a set of Internet Control Message Protocol (ICMP) messages for use with version 6 of the Internet Protocol (IPv6). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a set of Internet Control Message Protocol (ICMP) messages for use with version 6 of the Internet Protocol (IPv6). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2463"/>
+  <seriesInfo name="RFC" value="2463"/>
 </reference>

@@ -1,12 +1,17 @@
 <reference anchor="RFC2010" target="https://www.rfc-editor.org/info/rfc2010">
   <front>
     <title>Operational Criteria for Root Name Servers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2010"/>
-    <author fullname="B. Manning"/>
-    <author fullname="P. Vixie"/>
+    <author fullname="B. Manning" initials="B." surname="Manning">
+      <organization/>
+    </author>
+    <author fullname="P. Vixie" initials="P." surname="Vixie">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
-    <keyword>host</keyword>
-    <keyword>hardware</keyword>
-    <abstract>This document specifies the operational requirements of root name servers, including host hardware capacities, name server software revisions, network connectivity, and physical environment.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document specifies the operational requirements of root name servers, including host hardware capacities, name server software revisions, network connectivity, and physical environment.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2010"/>
+  <seriesInfo name="RFC" value="2010"/>
 </reference>

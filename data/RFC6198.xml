@@ -1,24 +1,30 @@
 <reference anchor="RFC6198" target="https://www.rfc-editor.org/info/rfc6198">
   <front>
     <title>Requirements for the Graceful Shutdown of BGP Sessions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6198"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="P. Francois"/>
-    <author fullname="C. Pelsser"/>
-    <author fullname="Z. Ahmad"/>
-    <author fullname="A.J. Elizondo Armengol"/>
-    <author fullname="T. Takeda"/>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="P. Francois" initials="P." surname="Francois">
+      <organization/>
+    </author>
+    <author fullname="C. Pelsser" initials="C." surname="Pelsser">
+      <organization/>
+    </author>
+    <author fullname="Z. Ahmad" initials="Z." surname="Ahmad">
+      <organization/>
+    </author>
+    <author fullname="A.J. Elizondo Armengol" initials="A.J." surname="Elizondo">
+      <organization/>
+    </author>
+    <author fullname="T. Takeda" initials="T." surname="Takeda">
+      <organization/>
+    </author>
     <date year="2011" month="April"/>
     <workgroup>grow</workgroup>
-    <keyword>routing</keyword>
-    <keyword>BGP</keyword>
-    <keyword>graceful</keyword>
-    <keyword>shutdown</keyword>
-    <keyword>connectivity loss</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>network operation</keyword>
-    <keyword>make-before-break</keyword>
-    <keyword>planned</keyword>
-    <abstract>The Border Gateway Protocol (BGP) is heavily used in Service Provider networks for both Internet and BGP/MPLS VPN services.  For resiliency purposes, redundant routers and BGP sessions can be deployed to reduce the consequences of an Autonomous System Border Router (ASBR) or BGP session breakdown on customers' or peers' traffic.  However, simply taking down or even bringing up a BGP session for maintenance purposes may still induce connectivity losses during the BGP convergence.  This is no longer satisfactory for new applications (e.g., voice over IP, online gaming, VPN).  Therefore, a solution is required for the graceful shutdown of a (set of) BGP session(s) in order to limit the amount of traffic loss during a planned shutdown.  This document expresses requirements for such a solution.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>The Border Gateway Protocol (BGP) is heavily used in Service Provider networks for both Internet and BGP/MPLS VPN services.  For resiliency purposes, redundant routers and BGP sessions can be deployed to reduce the consequences of an Autonomous System Border Router (ASBR) or BGP session breakdown on customers' or peers' traffic.  However, simply taking down or even bringing up a BGP session for maintenance purposes may still induce connectivity losses during the BGP convergence.  This is no longer satisfactory for new applications (e.g., voice over IP, online gaming, VPN).  Therefore, a solution is required for the graceful shutdown of a (set of) BGP session(s) in order to limit the amount of traffic loss during a planned shutdown.  This document expresses requirements for such a solution.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6198"/>
+  <seriesInfo name="RFC" value="6198"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="RFC8770" target="https://www.rfc-editor.org/info/rfc8770">
   <front>
     <title>Host Router Support for OSPFv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8770"/>
-    <author fullname="K. Patel"/>
-    <author fullname="P. Pillay-Esnault"/>
-    <author fullname="M. Bhardwaj"/>
-    <author fullname="S. Bayraktar"/>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="P. Pillay-Esnault" initials="P." surname="Pillay-Esnault">
+      <organization/>
+    </author>
+    <author fullname="M. Bhardwaj" initials="M." surname="Bhardwaj">
+      <organization/>
+    </author>
+    <author fullname="S. Bayraktar" initials="S." surname="Bayraktar">
+      <organization/>
+    </author>
     <date year="2020" month="April"/>
     <workgroup>lsr</workgroup>
-    <keyword>non-transit</keyword>
-    <abstract>The Open Shortest Path First Version 2 (OSPFv2) protocol does not have a mechanism for a node to repel transit traffic if it is on the shortest path.  This document defines a bit called the Host-bit (H-bit).  This bit enables a router to advertise that it is a non-transit router.  This document also describes the changes needed to support the H-bit in the domain.  In addition, this document updates RFC 6987 to advertise Type 2 External and Not-So-Stubby Area (NSSA) Link State Advertisements (LSAs) (RFC 3101) with a high cost in order to repel traffic effectively.</abstract>
+    <abstract>
+      <t>The Open Shortest Path First Version 2 (OSPFv2) protocol does not have a mechanism for a node to repel transit traffic if it is on the shortest path.  This document defines a bit called the Host-bit (H-bit).  This bit enables a router to advertise that it is a non-transit router.  This document also describes the changes needed to support the H-bit in the domain.  In addition, this document updates RFC 6987 to advertise Type 2 External and Not-So-Stubby Area (NSSA) Link State Advertisements (LSAs) (RFC 3101) with a high cost in order to repel traffic effectively.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8770"/>
+  <seriesInfo name="RFC" value="8770"/>
 </reference>

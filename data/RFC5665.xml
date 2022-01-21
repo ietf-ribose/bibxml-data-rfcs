@@ -1,16 +1,15 @@
 <reference anchor="RFC5665" target="https://www.rfc-editor.org/info/rfc5665">
   <front>
     <title>IANA Considerations for Remote Procedure Call (RPC) Network Identifiers and Universal Address Formats</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5665"/>
-    <author fullname="M. Eisler"/>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
     <date year="2010" month="January"/>
     <workgroup>nfsv4</workgroup>
-    <keyword>rpcbind</keyword>
-    <keyword>portmap</keyword>
-    <keyword>transport independent remote procedure call</keyword>
-    <keyword>TI-RPC</keyword>
-    <keyword>transport identifier</keyword>
-    <keyword>protocol identifier</keyword>
-    <abstract>This document lists IANA Considerations for Remote Procedure Call (RPC) Network Identifiers (netids) and RPC Universal Network Addresses (uaddrs).  This document updates, but does not replace, RFC 1833. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document lists IANA Considerations for Remote Procedure Call (RPC) Network Identifiers (netids) and RPC Universal Network Addresses (uaddrs).  This document updates, but does not replace, RFC 1833. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5665"/>
+  <seriesInfo name="RFC" value="5665"/>
 </reference>

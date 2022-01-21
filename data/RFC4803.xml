@@ -1,14 +1,18 @@
 <reference anchor="RFC4803" target="https://www.rfc-editor.org/info/rfc4803">
   <front>
     <title>Generalized Multiprotocol Label Switching (GMPLS) Label Switching Router (LSR) Management Information Base</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4803"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2007" month="February"/>
     <workgroup>ccamp</workgroup>
-    <keyword>mib</keyword>
-    <keyword>GMPLS-LSR-STD-MIB</keyword>
-    <keyword>GMPLS-LABEL-STD-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects to configure and/or monitor a Generalized Multiprotocol Label Switching (GMPLS) Label Switching Router (LSR). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects to configure and/or monitor a Generalized Multiprotocol Label Switching (GMPLS) Label Switching Router (LSR). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4803"/>
+  <seriesInfo name="RFC" value="4803"/>
 </reference>

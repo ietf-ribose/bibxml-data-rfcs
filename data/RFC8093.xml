@@ -1,10 +1,15 @@
 <reference anchor="RFC8093" target="https://www.rfc-editor.org/info/rfc8093">
   <front>
     <title>Deprecation of BGP Path Attribute Values 30, 31, 129, 241, 242, and 243</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8093"/>
-    <author fullname="J. Snijders"/>
+    <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>idr</workgroup>
-    <abstract>This document requests IANA to mark BGP path attribute values 30, 31, 129, 241, 242, and 243 as "Deprecated".</abstract>
+    <abstract>
+      <t>This document requests IANA to mark BGP path attribute values 30, 31, 129, 241, 242, and 243 as "Deprecated".</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8093"/>
+  <seriesInfo name="RFC" value="8093"/>
 </reference>

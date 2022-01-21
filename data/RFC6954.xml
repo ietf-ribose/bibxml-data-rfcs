@@ -1,13 +1,18 @@
 <reference anchor="RFC6954" target="https://www.rfc-editor.org/info/rfc6954">
   <front>
     <title>Using the Elliptic Curve Cryptography (ECC) Brainpool Curves for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6954"/>
-    <author fullname="J. Merkle"/>
-    <author fullname="M. Lochter"/>
+    <author fullname="J. Merkle" initials="J." surname="Merkle">
+      <organization/>
+    </author>
+    <author fullname="M. Lochter" initials="M." surname="Lochter">
+      <organization/>
+    </author>
     <date year="2013" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>IKE</keyword>
-    <keyword>Elliptic Curve</keyword>
-    <abstract>This document specifies use of the Elliptic Curve Cryptography (ECC) Brainpool elliptic curve groups for key exchange in the Internet Key Exchange Protocol version 2 (IKEv2).</abstract>
+    <abstract>
+      <t>This document specifies use of the Elliptic Curve Cryptography (ECC) Brainpool elliptic curve groups for key exchange in the Internet Key Exchange Protocol version 2 (IKEv2).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6954"/>
+  <seriesInfo name="RFC" value="6954"/>
 </reference>

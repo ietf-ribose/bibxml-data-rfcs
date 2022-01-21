@@ -1,13 +1,24 @@
 <reference anchor="RFC6225" target="https://www.rfc-editor.org/info/rfc6225">
   <front>
     <title>Dynamic Host Configuration Protocol Options for Coordinate-Based Location Configuration Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6225"/>
-    <author fullname="J. Polk"/>
-    <author fullname="M. Linsner"/>
-    <author fullname="M. Thomson"/>
-    <author fullname="B. Aboba"/>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="M. Linsner" initials="M." surname="Linsner">
+      <organization/>
+    </author>
+    <author fullname="M. Thomson" initials="M." surname="Thomson">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>geopriv</workgroup>
-    <abstract>This document specifies Dynamic Host Configuration Protocol options (both DHCPv4 and DHCPv6) for the coordinate-based geographic location of the client.  The Location Configuration Information (LCI) includes Latitude, Longitude, and Altitude, with resolution or uncertainty indicators for each.  Separate parameters indicate the reference datum for each of these values.  This document obsoletes RFC 3825. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies Dynamic Host Configuration Protocol options (both DHCPv4 and DHCPv6) for the coordinate-based geographic location of the client.  The Location Configuration Information (LCI) includes Latitude, Longitude, and Altitude, with resolution or uncertainty indicators for each.  Separate parameters indicate the reference datum for each of these values.  This document obsoletes RFC 3825. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6225"/>
+  <seriesInfo name="RFC" value="6225"/>
 </reference>

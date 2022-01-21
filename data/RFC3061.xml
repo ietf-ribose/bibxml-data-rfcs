@@ -1,13 +1,14 @@
 <reference anchor="RFC3061" target="https://www.rfc-editor.org/info/rfc3061">
   <front>
     <title>A URN Namespace of Object Identifiers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3061"/>
-    <author fullname="M. Mealling"/>
+    <author fullname="M. Mealling" initials="M." surname="Mealling">
+      <organization/>
+    </author>
     <date year="2001" month="February"/>
-    <keyword>uniform</keyword>
-    <keyword>resource</keyword>
-    <keyword>names</keyword>
-    <keyword>OIDs</keyword>
-    <abstract>This document describes a Uniform Resource Name (URN) namespace that contains Object Identifiers (OIDs).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a Uniform Resource Name (URN) namespace that contains Object Identifiers (OIDs).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3061"/>
+  <seriesInfo name="RFC" value="3061"/>
 </reference>

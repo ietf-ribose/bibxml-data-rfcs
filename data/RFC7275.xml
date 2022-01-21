@@ -1,16 +1,30 @@
 <reference anchor="RFC7275" target="https://www.rfc-editor.org/info/rfc7275">
   <front>
     <title>Inter-Chassis Communication Protocol for Layer 2 Virtual Private Network (L2VPN) Provider Edge (PE) Redundancy</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7275"/>
-    <author fullname="L. Martini"/>
-    <author fullname="S. Salam"/>
-    <author fullname="A. Sajassi"/>
-    <author fullname="M. Bocci"/>
-    <author fullname="S. Matsushima"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
+    <author fullname="S. Matsushima" initials="S." surname="Matsushima">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>pwe3</workgroup>
-    <keyword>iccp</keyword>
-    <abstract>This document specifies an Inter-Chassis Communication Protocol (ICCP) that enables Provider Edge (PE) device redundancy for Virtual Private Wire Service (VPWS) and Virtual Private LAN Service (VPLS) applications.  The protocol runs within a set of two or more PEs, forming a Redundancy Group, for the purpose of synchronizing data among the systems.  It accommodates multi-chassis attachment circuit redundancy mechanisms as well as pseudowire redundancy mechanisms.</abstract>
+    <abstract>
+      <t>This document specifies an Inter-Chassis Communication Protocol (ICCP) that enables Provider Edge (PE) device redundancy for Virtual Private Wire Service (VPWS) and Virtual Private LAN Service (VPLS) applications.  The protocol runs within a set of two or more PEs, forming a Redundancy Group, for the purpose of synchronizing data among the systems.  It accommodates multi-chassis attachment circuit redundancy mechanisms as well as pseudowire redundancy mechanisms.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7275"/>
+  <seriesInfo name="RFC" value="7275"/>
 </reference>

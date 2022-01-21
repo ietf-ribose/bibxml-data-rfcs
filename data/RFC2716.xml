@@ -1,15 +1,18 @@
 <reference anchor="RFC2716" target="https://www.rfc-editor.org/info/rfc2716">
   <front>
     <title>PPP EAP TLS Authentication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2716"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="D. Simon"/>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="D. Simon" initials="D." surname="Simon">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>pppext</workgroup>
-    <keyword>point-to-point</keyword>
-    <keyword>link control compression</keyword>
-    <keyword>extensible</keyword>
-    <keyword>transport level security</keyword>
-    <abstract>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.The Extensible Authentication Protocol (EAP) is a PPP extension that provides support for additional authentication methods within PPP.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.The Extensible Authentication Protocol (EAP) is a PPP extension that provides support for additional authentication methods within PPP.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2716"/>
+  <seriesInfo name="RFC" value="2716"/>
 </reference>

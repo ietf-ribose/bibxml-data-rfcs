@@ -1,17 +1,27 @@
 <reference anchor="RFC3711" target="https://www.rfc-editor.org/info/rfc3711">
   <front>
     <title>The Secure Real-time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3711"/>
-    <author fullname="M. Baugher"/>
-    <author fullname="D. McGrew"/>
-    <author fullname="M. Naslund"/>
-    <author fullname="E. Carrara"/>
-    <author fullname="K. Norrman"/>
+    <author fullname="M. Baugher" initials="M." surname="Baugher">
+      <organization/>
+    </author>
+    <author fullname="D. McGrew" initials="D." surname="McGrew">
+      <organization/>
+    </author>
+    <author fullname="M. Naslund" initials="M." surname="Naslund">
+      <organization/>
+    </author>
+    <author fullname="E. Carrara" initials="E." surname="Carrara">
+      <organization/>
+    </author>
+    <author fullname="K. Norrman" initials="K." surname="Norrman">
+      <organization/>
+    </author>
     <date year="2004" month="March"/>
     <workgroup>avt</workgroup>
-    <keyword>authentication</keyword>
-    <keyword>traffic</keyword>
-    <keyword>cryptographic</keyword>
-    <abstract>This document describes the Secure Real-time Transport Protocol (SRTP), a profile of the Real-time Transport Protocol (RTP), which can provide confidentiality, message authentication, and replay protection to the RTP traffic and to the control traffic for RTP, the Real-time Transport Control Protocol (RTCP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Secure Real-time Transport Protocol (SRTP), a profile of the Real-time Transport Protocol (RTP), which can provide confidentiality, message authentication, and replay protection to the RTP traffic and to the control traffic for RTP, the Real-time Transport Control Protocol (RTCP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3711"/>
+  <seriesInfo name="RFC" value="3711"/>
 </reference>

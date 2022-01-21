@@ -1,16 +1,18 @@
 <reference anchor="RFC3009" target="https://www.rfc-editor.org/info/rfc3009">
   <front>
     <title>Registration of parityfec MIME types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3009"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2000" month="November"/>
     <workgroup>avt</workgroup>
-    <keyword>media-type</keyword>
-    <keyword>multimedia</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>The RTP (Real-time Transport Protocol) payload format for generic forward error correction allows RTP participants to improve loss resiliency through the use of traditional parity-based channel codes.  This payload format requires four new MIME types, audio/parityfec, video/parityfec, text/parityfec and application/parityfec.  This document serves as the MIME type registration for those formats. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The RTP (Real-time Transport Protocol) payload format for generic forward error correction allows RTP participants to improve loss resiliency through the use of traditional parity-based channel codes.  This payload format requires four new MIME types, audio/parityfec, video/parityfec, text/parityfec and application/parityfec.  This document serves as the MIME type registration for those formats. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3009"/>
+  <seriesInfo name="RFC" value="3009"/>
 </reference>

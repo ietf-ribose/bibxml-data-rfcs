@@ -1,16 +1,18 @@
 <reference anchor="RFC2954" target="https://www.rfc-editor.org/info/rfc2954">
   <front>
     <title>Definitions of Managed Objects for Frame Relay Service</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2954"/>
-    <author fullname="K. Rehbehn"/>
-    <author fullname="D. Fowler"/>
+    <author fullname="K. Rehbehn" initials="K." surname="Rehbehn">
+      <organization/>
+    </author>
+    <author fullname="D. Fowler" initials="D." surname="Fowler">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
     <workgroup>frnetmib</workgroup>
-    <keyword>FR-MIB</keyword>
-    <keyword>mib</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in Transmission Control Protocol/Internet Protocol-based (TCP/IP) internets.  In particular, it defines objects for managing the frame relay service. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in Transmission Control Protocol/Internet Protocol-based (TCP/IP) internets.  In particular, it defines objects for managing the frame relay service. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2954"/>
+  <seriesInfo name="RFC" value="2954"/>
 </reference>

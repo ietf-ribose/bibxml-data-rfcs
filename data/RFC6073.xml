@@ -1,18 +1,27 @@
 <reference anchor="RFC6073" target="https://www.rfc-editor.org/info/rfc6073">
   <front>
     <title>Segmented Pseudowire</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6073"/>
-    <author fullname="L. Martini"/>
-    <author fullname="C. Metz"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="M. Bocci"/>
-    <author fullname="M. Aissaoui"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="C. Metz" initials="C." surname="Metz">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
+    <author fullname="M. Aissaoui" initials="M." surname="Aissaoui">
+      <organization/>
+    </author>
     <date year="2011" month="January"/>
     <workgroup>pwe3</workgroup>
-    <keyword>pws</keyword>
-    <keyword>psn</keyword>
-    <keyword>packet switched network</keyword>
-    <keyword>pw control plane domain</keyword>
-    <abstract>This document describes how to connect pseudowires (PWs) between different Packet Switched Network (PSN) domains or between two or more distinct PW control plane domains, where a control plane domain uses a common control plane protocol or instance of that protocol for a given PW.  The different PW control plane domains may belong to independent autonomous systems, or the PSN technology is heterogeneous, or a PW might need to be aggregated at a specific PSN point.  The PW packet data units are simply switched from one PW to another without changing the PW payload. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to connect pseudowires (PWs) between different Packet Switched Network (PSN) domains or between two or more distinct PW control plane domains, where a control plane domain uses a common control plane protocol or instance of that protocol for a given PW.  The different PW control plane domains may belong to independent autonomous systems, or the PSN technology is heterogeneous, or a PW might need to be aggregated at a specific PSN point.  The PW packet data units are simply switched from one PW to another without changing the PW payload. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6073"/>
+  <seriesInfo name="RFC" value="6073"/>
 </reference>

@@ -1,18 +1,27 @@
 <reference anchor="RFC4172" target="https://www.rfc-editor.org/info/rfc4172">
   <front>
     <title>iFCP - A Protocol for Internet Fibre Channel Storage Networking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4172"/>
-    <author fullname="C. Monia"/>
-    <author fullname="R. Mullendore"/>
-    <author fullname="F. Travostino"/>
-    <author fullname="W. Jeong"/>
-    <author fullname="M. Edwards"/>
+    <author fullname="C. Monia" initials="C." surname="Monia">
+      <organization/>
+    </author>
+    <author fullname="R. Mullendore" initials="R." surname="Mullendore">
+      <organization/>
+    </author>
+    <author fullname="F. Travostino" initials="F." surname="Travostino">
+      <organization/>
+    </author>
+    <author fullname="W. Jeong" initials="W." surname="Jeong">
+      <organization/>
+    </author>
+    <author fullname="M. Edwards" initials="M." surname="Edwards">
+      <organization/>
+    </author>
     <date year="2005" month="September"/>
     <workgroup>ips</workgroup>
-    <keyword>gateway-to-gateway</keyword>
-    <keyword>fibre channel fabric</keyword>
-    <keyword>tcp</keyword>
-    <keyword>transport control protocol</keyword>
-    <abstract>This document specifies an architecture and a gateway-to-gateway protocol for the implementation of fibre channel fabric functionality over an IP network.  This functionality is provided through TCP protocols for fibre channel frame transport and the distributed fabric services specified by the fibre channel standards.  The architecture enables internetworking of fibre channel devices through gateway-accessed regions with the fault isolation properties of autonomous systems and the scalability of the IP network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an architecture and a gateway-to-gateway protocol for the implementation of fibre channel fabric functionality over an IP network.  This functionality is provided through TCP protocols for fibre channel frame transport and the distributed fabric services specified by the fibre channel standards.  The architecture enables internetworking of fibre channel devices through gateway-accessed regions with the fault isolation properties of autonomous systems and the scalability of the IP network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4172"/>
+  <seriesInfo name="RFC" value="4172"/>
 </reference>

@@ -1,13 +1,24 @@
 <reference anchor="RFC5401" target="https://www.rfc-editor.org/info/rfc5401">
   <front>
     <title>Multicast Negative-Acknowledgment (NACK) Building Blocks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5401"/>
-    <author fullname="B. Adamson"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="M. Handley"/>
-    <author fullname="J. Macker"/>
+    <author fullname="B. Adamson" initials="B." surname="Adamson">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="J. Macker" initials="J." surname="Macker">
+      <organization/>
+    </author>
     <date year="2008" month="November"/>
     <workgroup>rmt</workgroup>
-    <abstract>This document discusses the creation of reliable multicast protocols that utilize negative-acknowledgment (NACK) feedback.  The rationale for protocol design goals and assumptions are presented.  Technical challenges for NACK-based (and in some cases general) reliable multicast protocol operation are identified.  These goals and challenges are resolved into a set of functional "building blocks" that address different aspects of reliable multicast protocol operation.  It is anticipated that these building blocks will be useful in generating different instantiations of reliable multicast protocols.  This document obsoletes RFC 3941. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document discusses the creation of reliable multicast protocols that utilize negative-acknowledgment (NACK) feedback.  The rationale for protocol design goals and assumptions are presented.  Technical challenges for NACK-based (and in some cases general) reliable multicast protocol operation are identified.  These goals and challenges are resolved into a set of functional "building blocks" that address different aspects of reliable multicast protocol operation.  It is anticipated that these building blocks will be useful in generating different instantiations of reliable multicast protocols.  This document obsoletes RFC 3941. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5401"/>
+  <seriesInfo name="RFC" value="5401"/>
 </reference>

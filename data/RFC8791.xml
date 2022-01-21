@@ -1,12 +1,21 @@
 <reference anchor="RFC8791" target="https://www.rfc-editor.org/info/rfc8791">
   <front>
     <title>YANG Data Structure Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8791"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="M. Björklund"/>
-    <author fullname="K. Watsen"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="M. Björklund" initials="M." surname="Björklund">
+      <organization/>
+    </author>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
     <date year="2020" month="June"/>
     <workgroup>netmod</workgroup>
-    <abstract>This document describes YANG mechanisms for defining abstract data structures with YANG.</abstract>
+    <abstract>
+      <t>This document describes YANG mechanisms for defining abstract data structures with YANG.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8791"/>
+  <seriesInfo name="RFC" value="8791"/>
 </reference>

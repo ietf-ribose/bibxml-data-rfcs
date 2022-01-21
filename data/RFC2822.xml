@@ -1,11 +1,15 @@
 <reference anchor="RFC2822" target="https://www.rfc-editor.org/info/rfc2822">
   <front>
     <title>Internet Message Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2822"/>
-    <author fullname="P. Resnick"/>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
     <date year="2001" month="April"/>
     <workgroup>drums</workgroup>
-    <keyword>MAIL</keyword>
-    <abstract>This document specifies a syntax for text messages that are sent between computer users, within the framework of "electronic mail" messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a syntax for text messages that are sent between computer users, within the framework of "electronic mail" messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2822"/>
+  <seriesInfo name="RFC" value="2822"/>
 </reference>

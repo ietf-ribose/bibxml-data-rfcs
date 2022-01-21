@@ -1,14 +1,21 @@
 <reference anchor="RFC7589" target="https://www.rfc-editor.org/info/rfc7589">
   <front>
     <title>Using the NETCONF Protocol over Transport Layer Security (TLS) with Mutual X.509 Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7589"/>
-    <author fullname="M. Badra"/>
-    <author fullname="A. Luchuk"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="M. Badra" initials="M." surname="Badra">
+      <organization/>
+    </author>
+    <author fullname="A. Luchuk" initials="A." surname="Luchuk">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2015" month="June"/>
     <workgroup>netconf</workgroup>
-    <keyword>NETCONF</keyword>
-    <keyword>TLS</keyword>
-    <abstract>The Network Configuration Protocol (NETCONF) provides mechanisms to install, manipulate, and delete the configuration of network devices.  This document describes how to use the Transport Layer Security (TLS) protocol with mutual X.509 authentication to secure the exchange of NETCONF messages.  This revision of RFC 5539 documents the new message framing used by NETCONF 1.1 and it obsoletes RFC 5539.</abstract>
+    <abstract>
+      <t>The Network Configuration Protocol (NETCONF) provides mechanisms to install, manipulate, and delete the configuration of network devices.  This document describes how to use the Transport Layer Security (TLS) protocol with mutual X.509 authentication to secure the exchange of NETCONF messages.  This revision of RFC 5539 documents the new message framing used by NETCONF 1.1 and it obsoletes RFC 5539.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7589"/>
+  <seriesInfo name="RFC" value="7589"/>
 </reference>

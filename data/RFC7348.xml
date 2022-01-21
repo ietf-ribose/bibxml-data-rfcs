@@ -1,16 +1,35 @@
 <reference anchor="RFC7348" target="https://www.rfc-editor.org/info/rfc7348">
   <front>
     <title>Virtual eXtensible Local Area Network (VXLAN): A Framework for Overlaying Virtualized Layer 2 Networks over Layer 3 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7348"/>
-    <author fullname="M. Mahalingam"/>
-    <author fullname="D. Dutt"/>
-    <author fullname="K. Duda"/>
-    <author fullname="P. Agarwal"/>
-    <author fullname="L. Kreeger"/>
-    <author fullname="T. Sridhar"/>
-    <author fullname="M. Bursell"/>
-    <author fullname="C. Wright"/>
+    <author fullname="M. Mahalingam" initials="M." surname="Mahalingam">
+      <organization/>
+    </author>
+    <author fullname="D. Dutt" initials="D." surname="Dutt">
+      <organization/>
+    </author>
+    <author fullname="K. Duda" initials="K." surname="Duda">
+      <organization/>
+    </author>
+    <author fullname="P. Agarwal" initials="P." surname="Agarwal">
+      <organization/>
+    </author>
+    <author fullname="L. Kreeger" initials="L." surname="Kreeger">
+      <organization/>
+    </author>
+    <author fullname="T. Sridhar" initials="T." surname="Sridhar">
+      <organization/>
+    </author>
+    <author fullname="M. Bursell" initials="M." surname="Bursell">
+      <organization/>
+    </author>
+    <author fullname="C. Wright" initials="C." surname="Wright">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
-    <abstract>This document describes Virtual eXtensible Local Area Network (VXLAN), which is used to address the need for overlay networks within virtualized data centers accommodating multiple tenants.  The scheme and the related protocols can be used in networks for cloud service providers and enterprise data centers.  This memo documents the deployed VXLAN protocol for the benefit of the Internet community.</abstract>
+    <abstract>
+      <t>This document describes Virtual eXtensible Local Area Network (VXLAN), which is used to address the need for overlay networks within virtualized data centers accommodating multiple tenants.  The scheme and the related protocols can be used in networks for cloud service providers and enterprise data centers.  This memo documents the deployed VXLAN protocol for the benefit of the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7348"/>
+  <seriesInfo name="RFC" value="7348"/>
 </reference>

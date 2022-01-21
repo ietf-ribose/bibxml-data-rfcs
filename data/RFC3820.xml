@@ -1,19 +1,27 @@
 <reference anchor="RFC3820" target="https://www.rfc-editor.org/info/rfc3820">
   <front>
     <title>Internet X.509 Public Key Infrastructure (PKI) Proxy Certificate Profile</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3820"/>
-    <author fullname="S. Tuecke"/>
-    <author fullname="V. Welch"/>
-    <author fullname="D. Engert"/>
-    <author fullname="L. Pearlman"/>
-    <author fullname="M. Thompson"/>
+    <author fullname="S. Tuecke" initials="S." surname="Tuecke">
+      <organization/>
+    </author>
+    <author fullname="V. Welch" initials="V." surname="Welch">
+      <organization/>
+    </author>
+    <author fullname="D. Engert" initials="D." surname="Engert">
+      <organization/>
+    </author>
+    <author fullname="L. Pearlman" initials="L." surname="Pearlman">
+      <organization/>
+    </author>
+    <author fullname="M. Thompson" initials="M." surname="Thompson">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>authentication</keyword>
-    <keyword>security credentials</keyword>
-    <keyword>restricted delegation</keyword>
-    <keyword>single-signon</keyword>
-    <keyword>delegation of rights</keyword>
-    <abstract>This document forms a certificate profile for Proxy Certificates, based on X.509 Public Key Infrastructure (PKI) certificates as defined in RFC 3280, for use in the Internet.  The term Proxy Certificate is used to describe a certificate that is derived from, and signed by, a normal X.509 Public Key End Entity Certificate or by another Proxy Certificate for the purpose of providing restricted proxying and delegation within a PKI based authentication system. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document forms a certificate profile for Proxy Certificates, based on X.509 Public Key Infrastructure (PKI) certificates as defined in RFC 3280, for use in the Internet.  The term Proxy Certificate is used to describe a certificate that is derived from, and signed by, a normal X.509 Public Key End Entity Certificate or by another Proxy Certificate for the purpose of providing restricted proxying and delegation within a PKI based authentication system. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3820"/>
+  <seriesInfo name="RFC" value="3820"/>
 </reference>

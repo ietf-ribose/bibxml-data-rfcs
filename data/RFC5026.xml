@@ -1,14 +1,21 @@
 <reference anchor="RFC5026" target="https://www.rfc-editor.org/info/rfc5026">
   <front>
     <title>Mobile IPv6 Bootstrapping in Split Scenario</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5026"/>
-    <author fullname="G. Giaretta"/>
-    <author fullname="J. Kempf"/>
-    <author fullname="V. Devarapalli"/>
+    <author fullname="G. Giaretta" initials="G." surname="Giaretta">
+      <organization/>
+    </author>
+    <author fullname="J. Kempf" initials="J." surname="Kempf">
+      <organization/>
+    </author>
+    <author fullname="V. Devarapalli" initials="V." surname="Devarapalli">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>mip6</workgroup>
-    <keyword>mip6</keyword>
-    <keyword>bootstrapping problem statement</keyword>
-    <abstract>A Mobile IPv6 node requires a Home Agent address, a home address, and IPsec security associations with its Home Agent before it can start utilizing Mobile IPv6 service.  RFC 3775 requires that some or all of these are statically configured.  This document defines how a Mobile IPv6 node can bootstrap this information from non-topological information and security credentials pre-configured on the Mobile Node.  The solution defined in this document solves the split scenario described in the Mobile IPv6 bootstrapping problem statement in RFC 4640.  The split scenario refers to the case where the Mobile Node's mobility service is authorized by a different service provider than basic network access.  The solution described in this document is also generically applicable to any bootstrapping case, since other scenarios are more specific realizations of the split scenario. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A Mobile IPv6 node requires a Home Agent address, a home address, and IPsec security associations with its Home Agent before it can start utilizing Mobile IPv6 service.  RFC 3775 requires that some or all of these are statically configured.  This document defines how a Mobile IPv6 node can bootstrap this information from non-topological information and security credentials pre-configured on the Mobile Node.  The solution defined in this document solves the split scenario described in the Mobile IPv6 bootstrapping problem statement in RFC 4640.  The split scenario refers to the case where the Mobile Node's mobility service is authorized by a different service provider than basic network access.  The solution described in this document is also generically applicable to any bootstrapping case, since other scenarios are more specific realizations of the split scenario. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5026"/>
+  <seriesInfo name="RFC" value="5026"/>
 </reference>

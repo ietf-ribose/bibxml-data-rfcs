@@ -1,15 +1,21 @@
 <reference anchor="RFC5725" target="https://www.rfc-editor.org/info/rfc5725">
   <front>
     <title>Post-Repair Loss RLE Report Block Type for RTP Control Protocol (RTCP) Extended Reports (XRs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5725"/>
-    <author fullname="A. Begen"/>
-    <author fullname="D. Hsu"/>
-    <author fullname="M. Lague"/>
+    <author fullname="A. Begen" initials="A." surname="Begen">
+      <organization/>
+    </author>
+    <author fullname="D. Hsu" initials="D." surname="Hsu">
+      <organization/>
+    </author>
+    <author fullname="M. Lague" initials="M." surname="Lague">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
     <workgroup>avt</workgroup>
-    <keyword>Loss repair</keyword>
-    <keyword>retransmission</keyword>
-    <keyword>FEC</keyword>
-    <abstract>This document defines a new report block type within the framework of RTP Control Protocol (RTCP) Extended Reports (XRs).  One of the initial XR report block types is the Loss Run Length Encoding (RLE) Report Block.  This report conveys information regarding the individual Real-time Transport Protocol (RTP) packet receipt and loss events experienced during the RTCP interval preceding the transmission of the report.  The new report, which is referred to as the Post-repair Loss RLE report, carries information regarding the packets that remain lost after all loss-repair methods are applied.  By comparing the RTP packet receipts/losses before and after the loss repair is completed, one can determine the effectiveness of the loss- repair methods in an aggregated fashion.  This document also defines the signaling of the Post-repair Loss RLE report in the Session Description Protocol (SDP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new report block type within the framework of RTP Control Protocol (RTCP) Extended Reports (XRs).  One of the initial XR report block types is the Loss Run Length Encoding (RLE) Report Block.  This report conveys information regarding the individual Real-time Transport Protocol (RTP) packet receipt and loss events experienced during the RTCP interval preceding the transmission of the report.  The new report, which is referred to as the Post-repair Loss RLE report, carries information regarding the packets that remain lost after all loss-repair methods are applied.  By comparing the RTP packet receipts/losses before and after the loss repair is completed, one can determine the effectiveness of the loss- repair methods in an aggregated fashion.  This document also defines the signaling of the Post-repair Loss RLE report in the Session Description Protocol (SDP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5725"/>
+  <seriesInfo name="RFC" value="5725"/>
 </reference>

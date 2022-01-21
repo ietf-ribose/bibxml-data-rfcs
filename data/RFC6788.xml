@@ -1,14 +1,27 @@
 <reference anchor="RFC6788" target="https://www.rfc-editor.org/info/rfc6788">
   <front>
     <title>The Line-Identification Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6788"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="A. Kavanagh"/>
-    <author fullname="B. Varga"/>
-    <author fullname="S. Ooghe"/>
-    <author fullname="E. Nordmark"/>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="A. Kavanagh" initials="A." surname="Kavanagh">
+      <organization/>
+    </author>
+    <author fullname="B. Varga" initials="B." surname="Varga">
+      <organization/>
+    </author>
+    <author fullname="S. Ooghe" initials="S." surname="Ooghe">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
     <date year="2012" month="November"/>
     <workgroup>6man</workgroup>
-    <abstract>In Ethernet-based aggregation networks, several subscriber premises may be logically connected to the same interface of an Edge Router.  This document proposes a method for the Edge Router to identify the subscriber premises using the contents of the received Router Solicitation messages.  The applicability is limited to broadband network deployment scenarios in which multiple user ports are mapped to the same virtual interface on the Edge Router. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In Ethernet-based aggregation networks, several subscriber premises may be logically connected to the same interface of an Edge Router.  This document proposes a method for the Edge Router to identify the subscriber premises using the contents of the received Router Solicitation messages.  The applicability is limited to broadband network deployment scenarios in which multiple user ports are mapped to the same virtual interface on the Edge Router. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6788"/>
+  <seriesInfo name="RFC" value="6788"/>
 </reference>

@@ -1,15 +1,15 @@
 <reference anchor="RFC4244" target="https://www.rfc-editor.org/info/rfc4244">
   <front>
     <title>An Extension to the Session Initiation Protocol (SIP) for Request History Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4244"/>
-    <author fullname="M. Barnes"/>
+    <author fullname="M. Barnes" initials="M." surname="Barnes">
+      <organization/>
+    </author>
     <date year="2005" month="November"/>
     <workgroup>sip</workgroup>
-    <keyword>history-info</keyword>
-    <keyword>retarget</keyword>
-    <keyword>enhanced services</keyword>
-    <keyword>voicemail</keyword>
-    <keyword>automatic call distribution</keyword>
-    <abstract>This document defines a standard mechanism for capturing the history information associated with a Session Initiation Protocol (SIP) request.  This capability enables many enhanced services by providing the information as to how and why a call arrives at a specific application or user.  This document defines a new optional SIP header, History-Info, for capturing the history information in requests. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a standard mechanism for capturing the history information associated with a Session Initiation Protocol (SIP) request.  This capability enables many enhanced services by providing the information as to how and why a call arrives at a specific application or user.  This document defines a new optional SIP header, History-Info, for capturing the history information in requests. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4244"/>
+  <seriesInfo name="RFC" value="4244"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC5471" target="https://www.rfc-editor.org/info/rfc5471">
   <front>
     <title>Guidelines for IP Flow Information Export (IPFIX) Testing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5471"/>
-    <author fullname="C. Schmoll"/>
-    <author fullname="P. Aitken"/>
-    <author fullname="B. Claise"/>
+    <author fullname="C. Schmoll" initials="C." surname="Schmoll">
+      <organization/>
+    </author>
+    <author fullname="P. Aitken" initials="P." surname="Aitken">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>ipfix</workgroup>
-    <keyword>exporting process</keyword>
-    <keyword>collecting process</keyword>
-    <abstract>This document presents a list of tests for implementers of IP Flow Information eXport (IPFIX) compliant Exporting Processes and Collecting Processes.  This document specifies guidelines for a series of tests that can be run on the IPFIX Exporting Process and Collecting Process in order to probe the conformity and robustness of the IPFIX protocol implementations.  These tests cover all important functions, in order to gain a level of confidence in the IPFIX implementation.  Therefore, they allow the implementer to perform interoperability or plug tests with other IPFIX Exporting Processes and Collecting Processes.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document presents a list of tests for implementers of IP Flow Information eXport (IPFIX) compliant Exporting Processes and Collecting Processes.  This document specifies guidelines for a series of tests that can be run on the IPFIX Exporting Process and Collecting Process in order to probe the conformity and robustness of the IPFIX protocol implementations.  These tests cover all important functions, in order to gain a level of confidence in the IPFIX implementation.  Therefore, they allow the implementer to perform interoperability or plug tests with other IPFIX Exporting Processes and Collecting Processes.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5471"/>
+  <seriesInfo name="RFC" value="5471"/>
 </reference>

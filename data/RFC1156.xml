@@ -1,11 +1,17 @@
 <reference anchor="RFC1156" target="https://www.rfc-editor.org/info/rfc1156">
   <front>
     <title>Management Information Base for network management of TCP/IP-based internets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1156"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="M.T. Rose"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="M.T. Rose" initials="M.T." surname="Rose">
+      <organization/>
+    </author>
     <date year="1990" month="May"/>
-    <keyword>MIB-I</keyword>
-    <abstract>This RFC is a re-release of RFC 1066, with a changed "Status of this Memo", "IAB Policy Statement", and "Introduction" sections plus a few minor typographical corrections.  The technical content of the document is unchanged from RFC 1066. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC is a re-release of RFC 1066, with a changed "Status of this Memo", "IAB Policy Statement", and "Introduction" sections plus a few minor typographical corrections.  The technical content of the document is unchanged from RFC 1066. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1156"/>
+  <seriesInfo name="RFC" value="1156"/>
 </reference>

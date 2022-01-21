@@ -1,23 +1,19 @@
 <reference anchor="RFC1930" target="https://www.rfc-editor.org/info/rfc1930">
   <front>
     <title>Guidelines for creation, selection, and registration of an Autonomous System (AS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1930"/>
-    <author fullname="J. Hawkinson"/>
-    <author fullname="T. Bates"/>
+    <author fullname="J. Hawkinson" initials="J." surname="Hawkinson">
+      <organization/>
+    </author>
+    <author fullname="T. Bates" initials="T." surname="Bates">
+      <organization/>
+    </author>
     <date year="1996" month="March"/>
     <workgroup>idr</workgroup>
-    <keyword>routing</keyword>
-    <keyword>policy</keyword>
-    <keyword>Exterior</keyword>
-    <keyword>Gateway</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Border</keyword>
-    <keyword>Inter-Domain</keyword>
-    <keyword>Domain</keyword>
-    <keyword>Identifier</keyword>
-    <keyword>EGP</keyword>
-    <keyword>BGP</keyword>
-    <keyword>IDRP</keyword>
-    <abstract>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</abstract>
+    <abstract>
+      <t>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1930"/>
+  <seriesInfo name="BCP" value="6"/>
+  <seriesInfo name="RFC" value="1930"/>
 </reference>

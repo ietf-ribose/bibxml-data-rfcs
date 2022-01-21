@@ -1,17 +1,22 @@
 <reference anchor="RFC5216" target="https://www.rfc-editor.org/info/rfc5216">
   <front>
     <title>The EAP-TLS Authentication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5216"/>
-    <author fullname="D. Simon"/>
-    <author fullname="B. Aboba"/>
-    <author fullname="R. Hurst"/>
+    <author fullname="D. Simon" initials="D." surname="Simon">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
+    <author fullname="R. Hurst" initials="R." surname="Hurst">
+      <organization/>
+    </author>
     <date year="2008" month="March"/>
     <workgroup>emu</workgroup>
-    <keyword>extensible authentication protocol</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>link control compression</keyword>
-    <keyword>extensible</keyword>
-    <keyword>transport level security</keyword>
-    <abstract>The Extensible Authentication Protocol (EAP), defined in RFC 3748, provides support for multiple authentication methods. Transport Layer Security (TLS) provides for mutual authentication, integrity-protected ciphersuite negotiation, and key exchange between two endpoints. This document defines EAP-TLS, which includes support for certificate-based mutual authentication and key derivation. This document obsoletes RFC 2716. A summary of the changes between this document and RFC 2716 is available in Appendix A. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Extensible Authentication Protocol (EAP), defined in RFC 3748, provides support for multiple authentication methods. Transport Layer Security (TLS) provides for mutual authentication, integrity-protected ciphersuite negotiation, and key exchange between two endpoints. This document defines EAP-TLS, which includes support for certificate-based mutual authentication and key derivation.</t>
+      <t>This document obsoletes RFC 2716. A summary of the changes between this document and RFC 2716 is available in Appendix A. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5216"/>
+  <seriesInfo name="RFC" value="5216"/>
 </reference>

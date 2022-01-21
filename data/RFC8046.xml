@@ -1,16 +1,21 @@
 <reference anchor="RFC8046" target="https://www.rfc-editor.org/info/rfc8046">
   <front>
     <title>Host Mobility with the Host Identity Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8046"/>
-    <author fullname="T. Henderson"/>
-    <author fullname="C. Vogt"/>
-    <author fullname="J. Arkko"/>
+    <author fullname="T. Henderson" initials="T." surname="Henderson">
+      <organization/>
+    </author>
+    <author fullname="C. Vogt" initials="C." surname="Vogt">
+      <organization/>
+    </author>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>hip</workgroup>
-    <keyword>hip</keyword>
-    <keyword>multihoming extensions</keyword>
-    <keyword>mobility extensions</keyword>
-    <keyword>locator</keyword>
-    <abstract>This document defines a mobility extension to the Host Identity Protocol (HIP).  Specifically, this document defines a "LOCATOR_SET" parameter for HIP messages that allows for a HIP host to notify peers about alternate addresses at which it may be reached.  This document also defines how the parameter can be used to preserve communications across a change to the IP address used by one or both peer hosts.  The same LOCATOR_SET parameter can also be used to support end-host multihoming (as specified in RFC 8047).  This document obsoletes RFC 5206.</abstract>
+    <abstract>
+      <t>This document defines a mobility extension to the Host Identity Protocol (HIP).  Specifically, this document defines a "LOCATOR_SET" parameter for HIP messages that allows for a HIP host to notify peers about alternate addresses at which it may be reached.  This document also defines how the parameter can be used to preserve communications across a change to the IP address used by one or both peer hosts.  The same LOCATOR_SET parameter can also be used to support end-host multihoming (as specified in RFC 8047).  This document obsoletes RFC 5206.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8046"/>
+  <seriesInfo name="RFC" value="8046"/>
 </reference>

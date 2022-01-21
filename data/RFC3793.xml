@@ -1,12 +1,21 @@
 <reference anchor="RFC3793" target="https://www.rfc-editor.org/info/rfc3793">
   <front>
     <title>Survey of IPv4 Addresses in Currently Deployed IETF Sub-IP Area Standards Track and Experimental Documents</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3793"/>
-    <author fullname="P. Nesser"/>
-    <author fullname="II"/>
-    <author fullname="A. Bergstrom"/>
+    <author fullname="P. Nesser" initials="P." surname="Nesser">
+      <organization/>
+    </author>
+    <author fullname="II" initials="II" surname="">
+      <organization/>
+    </author>
+    <author fullname="A. Bergstrom" initials="A." surname="Bergstrom">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>v6ops</workgroup>
-    <abstract>This document seeks to document all usage of IPv4 addresses in currently deployed IETF Sub-IP Area documented standards.  In order to successfully transition from an all IPv4 Internet to an all IPv6 Internet, many interim steps will be taken.  One of these steps is the evolution of current protocols that have IPv4 dependencies.  It is hoped that these protocols (and their implementations) will be redesigned to be network address independent, but failing that will at least dually support IPv4 and IPv6.  To this end, all Standards (Full, Draft, and Proposed) as well as Experimental RFCs will be surveyed and any dependencies will be documented.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document seeks to document all usage of IPv4 addresses in currently deployed IETF Sub-IP Area documented standards.  In order to successfully transition from an all IPv4 Internet to an all IPv6 Internet, many interim steps will be taken.  One of these steps is the evolution of current protocols that have IPv4 dependencies.  It is hoped that these protocols (and their implementations) will be redesigned to be network address independent, but failing that will at least dually support IPv4 and IPv6.  To this end, all Standards (Full, Draft, and Proposed) as well as Experimental RFCs will be surveyed and any dependencies will be documented.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3793"/>
+  <seriesInfo name="RFC" value="3793"/>
 </reference>

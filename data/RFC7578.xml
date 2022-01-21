@@ -1,15 +1,15 @@
 <reference anchor="RFC7578" target="https://www.rfc-editor.org/info/rfc7578">
   <front>
     <title>Returning Values from Forms: multipart/form-data</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7578"/>
-    <author fullname="L. Masinter"/>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>appsawg</workgroup>
-    <keyword>media-type</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This specification defines the multipart/form-data media type, which can be used by a wide variety of applications and transported by a wide variety of protocols as a way of returning a set of values as the result of a user filling out a form.  This document obsoletes RFC 2388.</abstract>
+    <abstract>
+      <t>This specification defines the multipart/form-data media type, which can be used by a wide variety of applications and transported by a wide variety of protocols as a way of returning a set of values as the result of a user filling out a form.  This document obsoletes RFC 2388.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7578"/>
+  <seriesInfo name="RFC" value="7578"/>
 </reference>

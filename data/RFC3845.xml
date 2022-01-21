@@ -1,19 +1,15 @@
 <reference anchor="RFC3845" target="https://www.rfc-editor.org/info/rfc3845">
   <front>
     <title>DNS Security (DNSSEC) NextSECure (NSEC) RDATA Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3845"/>
-    <author fullname="J. Schlyter"/>
+    <author fullname="J. Schlyter" initials="J." surname="Schlyter">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>dnsext</workgroup>
-    <keyword>dnssec</keyword>
-    <keyword>DNS Security</keyword>
-    <keyword>rr</keyword>
-    <keyword>resource record</keyword>
-    <keyword>DNS-SECEXT</keyword>
-    <keyword>dns</keyword>
-    <keyword>authentication</keyword>
-    <keyword>nsec</keyword>
-    <keyword>nextsecure</keyword>
-    <abstract>This document redefines the wire format of the "Type Bit Map" field in the DNS NextSECure (NSEC) resource record RDATA format to cover the full resource record (RR) type space. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document redefines the wire format of the "Type Bit Map" field in the DNS NextSECure (NSEC) resource record RDATA format to cover the full resource record (RR) type space. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3845"/>
+  <seriesInfo name="RFC" value="3845"/>
 </reference>

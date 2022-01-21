@@ -1,14 +1,17 @@
 <reference anchor="RFC3991" target="https://www.rfc-editor.org/info/rfc3991">
   <front>
     <title>Media Gateway Control Protocol (MGCP) Redirect and Reset Package</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3991"/>
-    <author fullname="B. Foster"/>
-    <author fullname="F. Andreasen"/>
+    <author fullname="B. Foster" initials="B." surname="Foster">
+      <organization/>
+    </author>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
-    <keyword>voice</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet</keyword>
-    <keyword>VoIP</keyword>
-    <abstract>The base Media Gateway Control Protocol (MGCP) specification (RFC 3435) allows endpoints to be redirected one endpoint at a time.  This document provides extensions in the form of a new MGCP package that provides mechanisms for redirecting and resetting a group of endpoints.  It also includes the ability to more accurately redirect endpoints by allowing a list of Call Agents to be specified in a preferred order.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The base Media Gateway Control Protocol (MGCP) specification (RFC 3435) allows endpoints to be redirected one endpoint at a time.  This document provides extensions in the form of a new MGCP package that provides mechanisms for redirecting and resetting a group of endpoints.  It also includes the ability to more accurately redirect endpoints by allowing a list of Call Agents to be specified in a preferred order.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3991"/>
+  <seriesInfo name="RFC" value="3991"/>
 </reference>

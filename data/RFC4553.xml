@@ -1,15 +1,18 @@
 <reference anchor="RFC4553" target="https://www.rfc-editor.org/info/rfc4553">
   <front>
     <title>Structure-Agnostic Time Division Multiplexing (TDM) over Packet (SAToP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4553"/>
-    <author fullname="A. Vainshtein"/>
-    <author fullname="YJ. Stein"/>
+    <author fullname="A. Vainshtein" initials="A." surname="Vainshtein">
+      <organization/>
+    </author>
+    <author fullname="YJ. Stein" initials="YJ." surname="Stein">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>pwe3</workgroup>
-    <keyword>SAToP</keyword>
-    <keyword>pseudowires</keyword>
-    <keyword>circuit emulation</keyword>
-    <keyword>structure-agnostic emulation</keyword>
-    <abstract>This document describes a pseudowire encapsulation for Time Division Multiplexing (TDM) bit-streams (T1, E1, T3, E3) that disregards any structure that may be imposed on these streams, in particular the structure imposed by the standard TDM framing. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a pseudowire encapsulation for Time Division Multiplexing (TDM) bit-streams (T1, E1, T3, E3) that disregards any structure that may be imposed on these streams, in particular the structure imposed by the standard TDM framing. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4553"/>
+  <seriesInfo name="RFC" value="4553"/>
 </reference>

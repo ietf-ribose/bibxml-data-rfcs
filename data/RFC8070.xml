@@ -1,12 +1,21 @@
 <reference anchor="RFC8070" target="https://www.rfc-editor.org/info/rfc8070">
   <front>
     <title>Public Key Cryptography for Initial Authentication in Kerberos (PKINIT) Freshness Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8070"/>
-    <author fullname="M. Short"/>
-    <author fullname="S. Moore"/>
-    <author fullname="P. Miller"/>
+    <author fullname="M. Short" initials="M." surname="Short">
+      <organization/>
+    </author>
+    <author fullname="S. Moore" initials="S." surname="Moore">
+      <organization/>
+    </author>
+    <author fullname="P. Miller" initials="P." surname="Miller">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>kitten</workgroup>
-    <abstract>This document describes how to further extend the Public Key Cryptography for Initial Authentication in Kerberos (PKINIT) extension (defined in RFC 4556) to exchange an opaque data blob that a Key Distribution Center (KDC) can validate to ensure that the client is currently in possession of the private key during a PKINIT Authentication Service (AS) exchange.</abstract>
+    <abstract>
+      <t>This document describes how to further extend the Public Key Cryptography for Initial Authentication in Kerberos (PKINIT) extension (defined in RFC 4556) to exchange an opaque data blob that a Key Distribution Center (KDC) can validate to ensure that the client is currently in possession of the private key during a PKINIT Authentication Service (AS) exchange.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8070"/>
+  <seriesInfo name="RFC" value="8070"/>
 </reference>

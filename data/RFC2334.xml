@@ -1,22 +1,24 @@
 <reference anchor="RFC2334" target="https://www.rfc-editor.org/info/rfc2334">
   <front>
     <title>Server Cache Synchronization Protocol (SCSP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2334"/>
-    <author fullname="J. Luciani"/>
-    <author fullname="G. Armitage"/>
-    <author fullname="J. Halpern"/>
-    <author fullname="N. Doraswamy"/>
+    <author fullname="J. Luciani" initials="J." surname="Luciani">
+      <organization/>
+    </author>
+    <author fullname="G. Armitage" initials="G." surname="Armitage">
+      <organization/>
+    </author>
+    <author fullname="J. Halpern" initials="J." surname="Halpern">
+      <organization/>
+    </author>
+    <author fullname="N. Doraswamy" initials="N." surname="Doraswamy">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>ion</workgroup>
-    <keyword>SCSP</keyword>
-    <keyword>cache</keyword>
-    <keyword>synchronization</keyword>
-    <keyword>replication</keyword>
-    <keyword>NBMA</keyword>
-    <keyword>non</keyword>
-    <keyword>broadcast</keyword>
-    <keyword>multiple</keyword>
-    <keyword>access</keyword>
-    <abstract>This document describes the Server Cache Synchronization Protocol (SCSP) and is written in terms of SCSP's use within Non Broadcast Multiple Access (NBMA) networks; although, a somewhat straight forward usage is applicable to BMA networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Server Cache Synchronization Protocol (SCSP) and is written in terms of SCSP's use within Non Broadcast Multiple Access (NBMA) networks; although, a somewhat straight forward usage is applicable to BMA networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2334"/>
+  <seriesInfo name="RFC" value="2334"/>
 </reference>

@@ -1,18 +1,24 @@
 <reference anchor="RFC5414" target="https://www.rfc-editor.org/info/rfc5414">
   <front>
     <title>Wireless LAN Control Protocol (WiCoP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5414"/>
-    <author fullname="S. Iino"/>
-    <author fullname="S. Govindan"/>
-    <author fullname="M. Sugiura"/>
-    <author fullname="H. Cheng"/>
+    <author fullname="S. Iino" initials="S." surname="Iino">
+      <organization/>
+    </author>
+    <author fullname="S. Govindan" initials="S." surname="Govindan">
+      <organization/>
+    </author>
+    <author fullname="M. Sugiura" initials="M." surname="Sugiura">
+      <organization/>
+    </author>
+    <author fullname="H. Cheng" initials="H." surname="Cheng">
+      <organization/>
+    </author>
     <date year="2010" month="February"/>
-    <keyword>wlan</keyword>
-    <keyword>wireless local area network</keyword>
-    <keyword>twp</keyword>
-    <keyword>wireless termination points</keyword>
-    <keyword>capwap</keyword>
-    <keyword>control and provisioning of wireless access points</keyword>
-    <abstract>The popularity of wireless local area networks (WLANs) has led to widespread deployments across different establishments. It has also translated into an increasing scale of the WLANs. Large-scale deployments made of large numbers of wireless termination points (WTPs) and covering substantial areas are increasingly common. The Wireless LAN Control Protocol (WiCoP) described in this document allows for the control and provisioning of large-scale WLANs. It enables central management of these networks and realizes the objectives set forth for the Control And Provisioning of Wireless Access Points (CAPWAP). This document defines a Historic Document for the Internet community.</abstract>
+    <abstract>
+      <t>The popularity of wireless local area networks (WLANs) has led to widespread deployments across different establishments. It has also translated into an increasing scale of the WLANs. Large-scale deployments made of large numbers of wireless termination points (WTPs) and covering substantial areas are increasingly common.</t>
+      <t>The Wireless LAN Control Protocol (WiCoP) described in this document allows for the control and provisioning of large-scale WLANs. It enables central management of these networks and realizes the objectives set forth for the Control And Provisioning of Wireless Access Points (CAPWAP). This document defines a Historic Document for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5414"/>
+  <seriesInfo name="RFC" value="5414"/>
 </reference>

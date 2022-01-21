@@ -1,17 +1,29 @@
 <reference anchor="RFC8379" target="https://www.rfc-editor.org/info/rfc8379">
   <front>
     <title>OSPF Graceful Link Shutdown</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8379"/>
-    <author fullname="S. Hegde"/>
-    <author fullname="P. Sarkar"/>
-    <author fullname="H. Gredler"/>
-    <author fullname="M. Nanduri"/>
-    <author fullname="L. Jalil"/>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="P. Sarkar" initials="P." surname="Sarkar">
+      <organization/>
+    </author>
+    <author fullname="H. Gredler" initials="H." surname="Gredler">
+      <organization/>
+    </author>
+    <author fullname="M. Nanduri" initials="M." surname="Nanduri">
+      <organization/>
+    </author>
+    <author fullname="L. Jalil" initials="L." surname="Jalil">
+      <organization/>
+    </author>
     <date year="2018" month="May"/>
     <workgroup>ospf</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>IGP</keyword>
-    <keyword>OSPF</keyword>
-    <abstract>When a link is being prepared to be taken out of service, the traffic needs to be diverted from both ends of the link. Increasing the metric to the highest value on one side of the link is not sufficient to divert the traffic flowing in the other direction. It is useful for the routers in an OSPFv2 or OSPFv3 routing domain to be able to advertise a link as being in a graceful-shutdown state to indicate impending maintenance activity on the link. This information can be used by the network devices to reroute the traffic effectively. This document describes the protocol extensions to disseminate graceful-link-shutdown information in OSPFv2 and OSPFv3.</abstract>
+    <abstract>
+      <t>When a link is being prepared to be taken out of service, the traffic needs to be diverted from both ends of the link. Increasing the metric to the highest value on one side of the link is not sufficient to divert the traffic flowing in the other direction.</t>
+      <t>It is useful for the routers in an OSPFv2 or OSPFv3 routing domain to be able to advertise a link as being in a graceful-shutdown state to indicate impending maintenance activity on the link. This information can be used by the network devices to reroute the traffic effectively.</t>
+      <t>This document describes the protocol extensions to disseminate graceful-link-shutdown information in OSPFv2 and OSPFv3.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8379"/>
+  <seriesInfo name="RFC" value="8379"/>
 </reference>

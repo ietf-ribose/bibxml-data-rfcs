@@ -1,19 +1,27 @@
 <reference anchor="RFC3546" target="https://www.rfc-editor.org/info/rfc3546">
   <front>
     <title>Transport Layer Security (TLS) Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3546"/>
-    <author fullname="S. Blake-Wilson"/>
-    <author fullname="M. Nystrom"/>
-    <author fullname="D. Hopwood"/>
-    <author fullname="J. Mikkelsen"/>
-    <author fullname="T. Wright"/>
+    <author fullname="S. Blake-Wilson" initials="S." surname="Blake-Wilson">
+      <organization/>
+    </author>
+    <author fullname="M. Nystrom" initials="M." surname="Nystrom">
+      <organization/>
+    </author>
+    <author fullname="D. Hopwood" initials="D." surname="Hopwood">
+      <organization/>
+    </author>
+    <author fullname="J. Mikkelsen" initials="J." surname="Mikkelsen">
+      <organization/>
+    </author>
+    <author fullname="T. Wright" initials="T." surname="Wright">
+      <organization/>
+    </author>
     <date year="2003" month="June"/>
     <workgroup>tls</workgroup>
-    <keyword>transport</keyword>
-    <keyword>protocol</keyword>
-    <keyword>layer</keyword>
-    <keyword>authentication</keyword>
-    <keyword>privacy</keyword>
-    <abstract>This document describes extensions that may be used to add functionality to Transport Layer Security (TLS).  It provides both generic extension mechanisms for the TLS handshake client and server hellos, and specific extensions using these generic mechanisms.  The extensions may be used by TLS clients and servers.  The extensions are backwards compatible - communication is possible between TLS 1.0 clients that support the extensions and TLS 1.0 servers that do not support the extensions, and vice versa. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes extensions that may be used to add functionality to Transport Layer Security (TLS).  It provides both generic extension mechanisms for the TLS handshake client and server hellos, and specific extensions using these generic mechanisms.  The extensions may be used by TLS clients and servers.  The extensions are backwards compatible - communication is possible between TLS 1.0 clients that support the extensions and TLS 1.0 servers that do not support the extensions, and vice versa. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3546"/>
+  <seriesInfo name="RFC" value="3546"/>
 </reference>

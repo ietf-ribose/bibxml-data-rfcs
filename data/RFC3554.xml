@@ -1,16 +1,24 @@
 <reference anchor="RFC3554" target="https://www.rfc-editor.org/info/rfc3554">
   <front>
     <title>On the Use of Stream Control Transmission Protocol (SCTP) with IPsec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3554"/>
-    <author fullname="S. Bellovin"/>
-    <author fullname="J. Ioannidis"/>
-    <author fullname="A. Keromytis"/>
-    <author fullname="R. Stewart"/>
+    <author fullname="S. Bellovin" initials="S." surname="Bellovin">
+      <organization/>
+    </author>
+    <author fullname="J. Ioannidis" initials="J." surname="Ioannidis">
+      <organization/>
+    </author>
+    <author fullname="A. Keromytis" initials="A." surname="Keromytis">
+      <organization/>
+    </author>
+    <author fullname="R. Stewart" initials="R." surname="Stewart">
+      <organization/>
+    </author>
     <date year="2003" month="July"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ike</keyword>
-    <keyword>internet key exchange</keyword>
-    <keyword>security</keyword>
-    <abstract>This document describes functional requirements for IPsec (RFC 2401) and Internet Key Exchange (IKE) (RFC 2409) to facilitate their use in securing SCTP (RFC 2960) traffic. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes functional requirements for IPsec (RFC 2401) and Internet Key Exchange (IKE) (RFC 2409) to facilitate their use in securing SCTP (RFC 2960) traffic. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3554"/>
+  <seriesInfo name="RFC" value="3554"/>
 </reference>

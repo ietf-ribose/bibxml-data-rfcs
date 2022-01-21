@@ -1,14 +1,15 @@
 <reference anchor="RFC2807" target="https://www.rfc-editor.org/info/rfc2807">
   <front>
     <title>XML Signature Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2807"/>
-    <author fullname="J. Reagle"/>
+    <author fullname="J. Reagle" initials="J." surname="Reagle">
+      <organization/>
+    </author>
     <date year="2000" month="July"/>
     <workgroup>xmldsig</workgroup>
-    <keyword>digital</keyword>
-    <keyword>extensible</keyword>
-    <keyword>markup</keyword>
-    <keyword>language</keyword>
-    <abstract>This document lists the design principles, scope, and requirements for the XML Digital Signature specification.  It includes requirements as they relate to the signature syntax, data model, format, cryptographic processing, and external requirements and coordination.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document lists the design principles, scope, and requirements for the XML Digital Signature specification.  It includes requirements as they relate to the signature syntax, data model, format, cryptographic processing, and external requirements and coordination.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2807"/>
+  <seriesInfo name="RFC" value="2807"/>
 </reference>

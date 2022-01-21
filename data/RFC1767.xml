@@ -1,21 +1,15 @@
 <reference anchor="RFC1767" target="https://www.rfc-editor.org/info/rfc1767">
   <front>
     <title>MIME Encapsulation of EDI Objects</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1767"/>
-    <author fullname="D. Crocker"/>
+    <author fullname="D. Crocker" initials="D." surname="Crocker">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>edi</workgroup>
-    <keyword>MIME-EDI</keyword>
-    <keyword>Electronic</keyword>
-    <keyword>Data</keyword>
-    <keyword>Interchange</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Extensions</keyword>
-    <keyword>delivery</keyword>
-    <keyword>mechanism</keyword>
-    <keyword>encapsulation</keyword>
-    <abstract>Since there are many different EDI specifications, the current document defines three distinct categories as three different MIME content-types. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Since there are many different EDI specifications, the current document defines three distinct categories as three different MIME content-types. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1767"/>
+  <seriesInfo name="RFC" value="1767"/>
 </reference>

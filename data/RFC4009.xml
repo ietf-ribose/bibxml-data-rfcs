@@ -1,16 +1,24 @@
 <reference anchor="RFC4009" target="https://www.rfc-editor.org/info/rfc4009">
   <front>
     <title>The SEED Encryption Algorithm</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4009"/>
-    <author fullname="J. Park"/>
-    <author fullname="S. Lee"/>
-    <author fullname="J. Kim"/>
-    <author fullname="J. Lee"/>
+    <author fullname="J. Park" initials="J." surname="Park">
+      <organization/>
+    </author>
+    <author fullname="S. Lee" initials="S." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="J. Kim" initials="J." surname="Kim">
+      <organization/>
+    </author>
+    <author fullname="J. Lee" initials="J." surname="Lee">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>encryption algorithm</keyword>
-    <keyword>seed cbc</keyword>
-    <keyword>seed oid</keyword>
-    <abstract>This document describes the SEED encryption algorithm, which has been adopted by most of the security systems in the Republic of Korea.  Included are a description of the cipher and the key scheduling algorithm (Section 2), the S-boxes (Appendix A), and a set of test vectors (Appendix B).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the SEED encryption algorithm, which has been adopted by most of the security systems in the Republic of Korea.  Included are a description of the cipher and the key scheduling algorithm (Section 2), the S-boxes (Appendix A), and a set of test vectors (Appendix B).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4009"/>
+  <seriesInfo name="RFC" value="4009"/>
 </reference>

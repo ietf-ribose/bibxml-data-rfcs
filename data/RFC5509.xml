@@ -1,11 +1,15 @@
 <reference anchor="RFC5509" target="https://www.rfc-editor.org/info/rfc5509">
   <front>
     <title>Internet Assigned Numbers Authority (IANA) Registration of Instant Messaging and Presence DNS SRV RRs for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5509"/>
-    <author fullname="S. Loreto"/>
+    <author fullname="S. Loreto" initials="S." surname="Loreto">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>_sip</keyword>
-    <abstract>This document registers with IANA two new DNS SRV protocol labels for resolving Instant Messaging and Presence services with SIP. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>This document registers with IANA two new DNS SRV protocol labels for resolving Instant Messaging and Presence services with SIP. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5509"/>
+  <seriesInfo name="RFC" value="5509"/>
 </reference>

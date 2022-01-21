@@ -1,14 +1,18 @@
 <reference anchor="RFC3770" target="https://www.rfc-editor.org/info/rfc3770">
   <front>
     <title>Certificate Extensions and Attributes Supporting Authentication in Point-to-Point Protocol (PPP) and Wireless Local Area Networks (WLAN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3770"/>
-    <author fullname="R. Housley"/>
-    <author fullname="T. Moore"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="T. Moore" initials="T." surname="Moore">
+      <organization/>
+    </author>
     <date year="2004" month="May"/>
     <workgroup>pkix</workgroup>
-    <keyword>ssid</keyword>
-    <keyword>system service identifiers</keyword>
-    <keyword>eap</keyword>
-    <abstract>This document defines two EAP extended key usage values and a public key certificate extension to carry Wireless LAN (WLAN) System Service identifiers (SSIDs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines two EAP extended key usage values and a public key certificate extension to carry Wireless LAN (WLAN) System Service identifiers (SSIDs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3770"/>
+  <seriesInfo name="RFC" value="3770"/>
 </reference>

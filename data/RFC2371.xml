@@ -1,18 +1,21 @@
 <reference anchor="RFC2371" target="https://www.rfc-editor.org/info/rfc2371">
   <front>
     <title>Transaction Internet Protocol Version 3.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2371"/>
-    <author fullname="J. Lyon"/>
-    <author fullname="K. Evans"/>
-    <author fullname="J. Klein"/>
+    <author fullname="J. Lyon" initials="J." surname="Lyon">
+      <organization/>
+    </author>
+    <author fullname="K. Evans" initials="K." surname="Evans">
+      <organization/>
+    </author>
+    <author fullname="J. Klein" initials="J." surname="Klein">
+      <organization/>
+    </author>
     <date year="1998" month="July"/>
     <workgroup>tip</workgroup>
-    <keyword>TIPV3</keyword>
-    <keyword>TIP</keyword>
-    <keyword>commit</keyword>
-    <keyword>protocol</keyword>
-    <keyword>electronic</keyword>
-    <keyword>commerce</keyword>
-    <abstract>In many applications where different nodes cooperate on some work, there is a need to guarantee that the work happens atomically.  That is, each node must reach the same conclusion as to whether the work is to be completed, even in the face of failures.  This document proposes a simple, easily-implemented protocol for achieving this end. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>In many applications where different nodes cooperate on some work, there is a need to guarantee that the work happens atomically.  That is, each node must reach the same conclusion as to whether the work is to be completed, even in the face of failures.  This document proposes a simple, easily-implemented protocol for achieving this end. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2371"/>
+  <seriesInfo name="RFC" value="2371"/>
 </reference>

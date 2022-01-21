@@ -1,21 +1,33 @@
 <reference anchor="RFC3214" target="https://www.rfc-editor.org/info/rfc3214">
   <front>
     <title>LSP Modification Using CR-LDP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3214"/>
-    <author fullname="J. Ash"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="P. Ashwood-Smith"/>
-    <author fullname="B. Jamoussi"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="D. Skalecki"/>
-    <author fullname="L. Li"/>
+    <author fullname="J. Ash" initials="J." surname="Ash">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="P. Ashwood-Smith" initials="P." surname="Ashwood-Smith">
+      <organization/>
+    </author>
+    <author fullname="B. Jamoussi" initials="B." surname="Jamoussi">
+      <organization/>
+    </author>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="D. Skalecki" initials="D." surname="Skalecki">
+      <organization/>
+    </author>
+    <author fullname="L. Li" initials="L." surname="Li">
+      <organization/>
+    </author>
     <date year="2002" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>label</keyword>
-    <keyword>switching</keyword>
-    <keyword>protocol</keyword>
-    <keyword>constraint-based</keyword>
-    <keyword>distribution</keyword>
-    <abstract>This document presents an approach to modify the bandwidth and possibly other parameters of an established CR-LSP (Constraint-based Routed Label Switched Paths) using CR-LDP (Constraint-based Routed Label Distribution Protocol) without service interruption. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document presents an approach to modify the bandwidth and possibly other parameters of an established CR-LSP (Constraint-based Routed Label Switched Paths) using CR-LDP (Constraint-based Routed Label Distribution Protocol) without service interruption. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3214"/>
+  <seriesInfo name="RFC" value="3214"/>
 </reference>

@@ -1,16 +1,18 @@
 <reference anchor="RFC5714" target="https://www.rfc-editor.org/info/rfc5714">
   <front>
     <title>IP Fast Reroute Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5714"/>
-    <author fullname="M. Shand"/>
-    <author fullname="S. Bryant"/>
+    <author fullname="M. Shand" initials="M." surname="Shand">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
     <date year="2010" month="January"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>IP Fast Reroute</keyword>
-    <keyword>MPLS Fast Reroute</keyword>
-    <keyword>Routing Convergence</keyword>
-    <keyword>Network  Topology</keyword>
-    <keyword>loop-free-convergence</keyword>
-    <abstract>This document provides a framework for the development of IP fast- reroute mechanisms that provide protection against link or router failure by invoking locally determined repair paths.  Unlike MPLS fast-reroute, the mechanisms are applicable to a network employing conventional IP routing and forwarding.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document provides a framework for the development of IP fast- reroute mechanisms that provide protection against link or router failure by invoking locally determined repair paths.  Unlike MPLS fast-reroute, the mechanisms are applicable to a network employing conventional IP routing and forwarding.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5714"/>
+  <seriesInfo name="RFC" value="5714"/>
 </reference>

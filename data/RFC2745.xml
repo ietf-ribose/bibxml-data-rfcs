@@ -1,18 +1,24 @@
 <reference anchor="RFC2745" target="https://www.rfc-editor.org/info/rfc2745">
   <front>
     <title>RSVP Diagnostic Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2745"/>
-    <author fullname="A. Terzis"/>
-    <author fullname="B. Braden"/>
-    <author fullname="S. Vincent"/>
-    <author fullname="L. Zhang"/>
+    <author fullname="A. Terzis" initials="A." surname="Terzis">
+      <organization/>
+    </author>
+    <author fullname="B. Braden" initials="B." surname="Braden">
+      <organization/>
+    </author>
+    <author fullname="S. Vincent" initials="S." surname="Vincent">
+      <organization/>
+    </author>
+    <author fullname="L. Zhang" initials="L." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2000" month="January"/>
     <workgroup>rsvp</workgroup>
-    <keyword>resource</keyword>
-    <keyword>reservation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <abstract>This document specifies the RSVP diagnostic facility, which allows a user to collect information about the RSVP state along a path. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the RSVP diagnostic facility, which allows a user to collect information about the RSVP state along a path. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2745"/>
+  <seriesInfo name="RFC" value="2745"/>
 </reference>

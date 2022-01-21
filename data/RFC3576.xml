@@ -1,15 +1,26 @@
 <reference anchor="RFC3576" target="https://www.rfc-editor.org/info/rfc3576">
   <front>
     <title>Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3576"/>
-    <author fullname="M. Chiba"/>
-    <author fullname="G. Dommety"/>
-    <author fullname="M. Eklund"/>
-    <author fullname="D. Mitton"/>
-    <author fullname="B. Aboba"/>
+    <author fullname="M. Chiba" initials="M." surname="Chiba">
+      <organization/>
+    </author>
+    <author fullname="G. Dommety" initials="G." surname="Dommety">
+      <organization/>
+    </author>
+    <author fullname="M. Eklund" initials="M." surname="Eklund">
+      <organization/>
+    </author>
+    <author fullname="D. Mitton" initials="D." surname="Mitton">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
     <date year="2003" month="July"/>
-    <keyword>nas</keyword>
-    <keyword>network access server</keyword>
-    <abstract>This document describes a currently deployed extension to the Remote Authentication Dial In User Service (RADIUS) protocol, allowing dynamic changes to a user session, as implemented by network access server products.  This includes support for disconnecting users and changing authorizations applicable to a user session.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a currently deployed extension to the Remote Authentication Dial In User Service (RADIUS) protocol, allowing dynamic changes to a user session, as implemented by network access server products.  This includes support for disconnecting users and changing authorizations applicable to a user session.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3576"/>
+  <seriesInfo name="RFC" value="3576"/>
 </reference>

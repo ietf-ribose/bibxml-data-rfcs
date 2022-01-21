@@ -1,18 +1,24 @@
 <reference anchor="RFC8723" target="https://www.rfc-editor.org/info/rfc8723">
   <front>
     <title>Double Encryption Procedures for the Secure Real-Time Transport Protocol (SRTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8723"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="P. Jones"/>
-    <author fullname="R. Barnes"/>
-    <author fullname="A.B. Roach"/>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="P. Jones" initials="P." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="A.B. Roach" initials="A.B." surname="Roach">
+      <organization/>
+    </author>
     <date year="2020" month="April"/>
     <workgroup>perc</workgroup>
-    <keyword>PERC</keyword>
-    <keyword>SRTP</keyword>
-    <keyword>RTP</keyword>
-    <keyword>conferencing</keyword>
-    <keyword>encryption</keyword>
-    <abstract>In some conferencing scenarios, it is desirable for an intermediary to be able to manipulate some parameters in Real-time Transport Protocol (RTP) packets, while still providing strong end-to-end security guarantees.  This document defines a cryptographic transform for the Secure Real-time Transport Protocol (SRTP) that uses two separate but related cryptographic operations to provide hop-by-hop and end-to-end security guarantees.  Both the end-to-end and hop-by-hop cryptographic algorithms can utilize an authenticated encryption with associated data (AEAD) algorithm or take advantage of future SRTP transforms with different properties.</abstract>
+    <abstract>
+      <t>In some conferencing scenarios, it is desirable for an intermediary to be able to manipulate some parameters in Real-time Transport Protocol (RTP) packets, while still providing strong end-to-end security guarantees.  This document defines a cryptographic transform for the Secure Real-time Transport Protocol (SRTP) that uses two separate but related cryptographic operations to provide hop-by-hop and end-to-end security guarantees.  Both the end-to-end and hop-by-hop cryptographic algorithms can utilize an authenticated encryption with associated data (AEAD) algorithm or take advantage of future SRTP transforms with different properties.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8723"/>
+  <seriesInfo name="RFC" value="8723"/>
 </reference>

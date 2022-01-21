@@ -1,16 +1,17 @@
 <reference anchor="RFC7444" target="https://www.rfc-editor.org/info/rfc7444">
   <front>
     <title>Security Labels in Internet Email</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7444"/>
-    <author fullname="K. Zeilenga"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="K. Zeilenga" initials="K." surname="Zeilenga">
+      <organization/>
+    </author>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
-    <keyword>email</keyword>
-    <keyword>header fields</keyword>
-    <keyword>ESS</keyword>
-    <keyword>Security Label</keyword>
-    <keyword>Confidential Label</keyword>
-    <keyword>Message Sensitivity</keyword>
-    <abstract>This document describes a header field, SIO-Label, for use in Internet email to convey the sensitivity of the message.  This header field may carry a textual representation (a display marking) and/or a structural representation (a security label) of the sensitivity of the message.  This document also describes a header field, SIO-Label-History, for recording changes in the message's label.</abstract>
+    <abstract>
+      <t>This document describes a header field, SIO-Label, for use in Internet email to convey the sensitivity of the message.  This header field may carry a textual representation (a display marking) and/or a structural representation (a security label) of the sensitivity of the message.  This document also describes a header field, SIO-Label-History, for recording changes in the message's label.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7444"/>
+  <seriesInfo name="RFC" value="7444"/>
 </reference>

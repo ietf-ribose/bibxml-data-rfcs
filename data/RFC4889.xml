@@ -1,17 +1,24 @@
 <reference anchor="RFC4889" target="https://www.rfc-editor.org/info/rfc4889">
   <front>
     <title>Network Mobility Route Optimization Solution Space Analysis</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4889"/>
-    <author fullname="C. Ng"/>
-    <author fullname="F. Zhao"/>
-    <author fullname="M. Watari"/>
-    <author fullname="P. Thubert"/>
+    <author fullname="C. Ng" initials="C." surname="Ng">
+      <organization/>
+    </author>
+    <author fullname="F. Zhao" initials="F." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="M. Watari" initials="M." surname="Watari">
+      <organization/>
+    </author>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
     <date year="2007" month="July"/>
     <workgroup>nemo</workgroup>
-    <keyword>nemo</keyword>
-    <keyword>mrha</keyword>
-    <keyword>mobile router and home agent</keyword>
-    <keyword>ro</keyword>
-    <abstract>With current Network Mobility (NEMO) Basic Support, all communications to and from Mobile Network Nodes must go through the Mobile Router and Home Agent (MRHA) tunnel when the mobile network is away.  This results in increased length of packet route and increased packet delay in most cases.  To overcome these limitations, one might have to turn to Route Optimization (RO) for NEMO.  This memo documents various types of Route Optimization in NEMO and explores the benefits and tradeoffs in different aspects of NEMO Route Optimization.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>With current Network Mobility (NEMO) Basic Support, all communications to and from Mobile Network Nodes must go through the Mobile Router and Home Agent (MRHA) tunnel when the mobile network is away.  This results in increased length of packet route and increased packet delay in most cases.  To overcome these limitations, one might have to turn to Route Optimization (RO) for NEMO.  This memo documents various types of Route Optimization in NEMO and explores the benefits and tradeoffs in different aspects of NEMO Route Optimization.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4889"/>
+  <seriesInfo name="RFC" value="4889"/>
 </reference>

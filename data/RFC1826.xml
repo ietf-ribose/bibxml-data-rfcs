@@ -1,18 +1,15 @@
 <reference anchor="RFC1826" target="https://www.rfc-editor.org/info/rfc1826">
   <front>
     <title>IP Authentication Header</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1826"/>
-    <author fullname="R. Atkinson"/>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ipsec</keyword>
-    <keyword>IPV6-AH</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>AH</keyword>
-    <keyword>security</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <abstract>This document describes a mechanism for providing cryptographic authentication for IPv4 and IPv6 datagrams. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a mechanism for providing cryptographic authentication for IPv4 and IPv6 datagrams. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1826"/>
+  <seriesInfo name="RFC" value="1826"/>
 </reference>

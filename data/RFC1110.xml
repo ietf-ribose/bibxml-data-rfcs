@@ -1,9 +1,14 @@
 <reference anchor="RFC1110" target="https://www.rfc-editor.org/info/rfc1110">
   <front>
     <title>Problem with the TCP big window option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1110"/>
-    <author fullname="A.M. McKenzie"/>
+    <author fullname="A.M. McKenzie" initials="A.M." surname="McKenzie">
+      <organization/>
+    </author>
     <date year="1989" month="August"/>
-    <abstract>This memo comments on the TCP Big Window option described in RFC 1106.</abstract>
+    <abstract>
+      <t>This memo comments on the TCP Big Window option described in RFC 1106.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1110"/>
+  <seriesInfo name="RFC" value="1110"/>
 </reference>

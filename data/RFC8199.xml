@@ -1,19 +1,23 @@
 <reference anchor="RFC8199" target="https://www.rfc-editor.org/info/rfc8199">
   <front>
     <title>YANG Module Classification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8199"/>
-    <author fullname="D. Bogdanovic"/>
-    <author fullname="B. Claise"/>
-    <author fullname="C. Moberg"/>
+    <author fullname="D. Bogdanovic" initials="D." surname="Bogdanovic">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="C. Moberg" initials="C." surname="Moberg">
+      <organization/>
+    </author>
     <date year="2017" month="July"/>
     <workgroup>netmod</workgroup>
-    <keyword>service</keyword>
-    <keyword>element</keyword>
-    <keyword>standard</keyword>
-    <keyword>vendor</keyword>
-    <keyword>user</keyword>
-    <keyword>controller</keyword>
-    <keyword>orchestrator</keyword>
-    <abstract>The YANG data modeling language is currently being considered for a wide variety of applications throughout the networking industry at large. Many standards development organizations (SDOs), open-source software projects, vendors, and users are using YANG to develop and publish YANG modules for a wide variety of applications. At the same time, there is currently no well-known terminology to categorize various types of YANG modules. A consistent terminology would help with the categorization of YANG modules, assist in the analysis of the YANG data modeling efforts in the IETF and other organizations, and bring clarity to the YANG- related discussions between the different groups. This document describes a set of concepts and associated terms to support consistent classification of YANG modules.</abstract>
+    <abstract>
+      <t>The YANG data modeling language is currently being considered for a wide variety of applications throughout the networking industry at large. Many standards development organizations (SDOs), open-source software projects, vendors, and users are using YANG to develop and publish YANG modules for a wide variety of applications. At the same time, there is currently no well-known terminology to categorize various types of YANG modules.</t>
+      <t>A consistent terminology would help with the categorization of YANG modules, assist in the analysis of the YANG data modeling efforts in the IETF and other organizations, and bring clarity to the YANG- related discussions between the different groups.</t>
+      <t>This document describes a set of concepts and associated terms to support consistent classification of YANG modules.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8199"/>
+  <seriesInfo name="RFC" value="8199"/>
 </reference>

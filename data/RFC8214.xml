@@ -1,14 +1,27 @@
 <reference anchor="RFC8214" target="https://www.rfc-editor.org/info/rfc8214">
   <front>
     <title>Virtual Private Wire Service Support in Ethernet VPN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8214"/>
-    <author fullname="S. Boutros"/>
-    <author fullname="A. Sajassi"/>
-    <author fullname="S. Salam"/>
-    <author fullname="J. Drake"/>
-    <author fullname="J. Rabadan"/>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="S. Salam" initials="S." surname="Salam">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>bess</workgroup>
-    <abstract>This document describes how Ethernet VPN (EVPN) can be used to support the Virtual Private Wire Service (VPWS) in MPLS/IP networks.  EVPN accomplishes the following for VPWS: provides Single-Active as well as All-Active multihoming with flow-based load-balancing, eliminates the need for Pseudowire (PW) signaling, and provides fast protection convergence upon node or link failure.</abstract>
+    <abstract>
+      <t>This document describes how Ethernet VPN (EVPN) can be used to support the Virtual Private Wire Service (VPWS) in MPLS/IP networks.  EVPN accomplishes the following for VPWS: provides Single-Active as well as All-Active multihoming with flow-based load-balancing, eliminates the need for Pseudowire (PW) signaling, and provides fast protection convergence upon node or link failure.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8214"/>
+  <seriesInfo name="RFC" value="8214"/>
 </reference>

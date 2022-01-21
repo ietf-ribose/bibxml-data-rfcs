@@ -1,16 +1,18 @@
 <reference anchor="RFC1982" target="https://www.rfc-editor.org/info/rfc1982">
   <front>
     <title>Serial Number Arithmetic</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1982"/>
-    <author fullname="R. Elz"/>
-    <author fullname="R. Bush"/>
+    <author fullname="R. Elz" initials="R." surname="Elz">
+      <organization/>
+    </author>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
     <date year="1996" month="August"/>
     <workgroup>dnsind</workgroup>
-    <keyword>SNA</keyword>
-    <keyword>domain</keyword>
-    <keyword>name</keyword>
-    <keyword>system</keyword>
-    <keyword>DNS</keyword>
-    <abstract>The DNS has long relied upon serial number arithmetic, a concept which has never really been defined, certainly not in an IETF document, though which has been widely understood.  This memo supplies the missing definition.  It is intended to update RFC1034 and RFC1035. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The DNS has long relied upon serial number arithmetic, a concept which has never really been defined, certainly not in an IETF document, though which has been widely understood.  This memo supplies the missing definition.  It is intended to update RFC1034 and RFC1035. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1982"/>
+  <seriesInfo name="RFC" value="1982"/>
 </reference>

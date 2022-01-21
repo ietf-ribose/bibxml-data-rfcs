@@ -1,14 +1,14 @@
 <reference anchor="RFC7664" target="https://www.rfc-editor.org/info/rfc7664">
   <front>
     <title>Dragonfly Key Exchange</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7664"/>
-    <author fullname="D. Harkins"/>
+    <author fullname="D. Harkins" initials="D." surname="Harkins">
+      <organization/>
+    </author>
     <date year="2015" month="November"/>
-    <keyword>elliptic curve</keyword>
-    <keyword>PAKE</keyword>
-    <keyword>AKE</keyword>
-    <keyword>dictionary attack</keyword>
-    <keyword>password authentication</keyword>
-    <abstract>This document specifies a key exchange using discrete logarithm cryptography that is authenticated using a password or passphrase.  It is resistant to active attack, passive attack, and offline dictionary attack.  This document is a product of the Crypto Forum Research Group (CFRG).</abstract>
+    <abstract>
+      <t>This document specifies a key exchange using discrete logarithm cryptography that is authenticated using a password or passphrase.  It is resistant to active attack, passive attack, and offline dictionary attack.  This document is a product of the Crypto Forum Research Group (CFRG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7664"/>
+  <seriesInfo name="RFC" value="7664"/>
 </reference>

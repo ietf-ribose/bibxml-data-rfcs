@@ -1,14 +1,21 @@
 <reference anchor="RFC5860" target="https://www.rfc-editor.org/info/rfc5860">
   <front>
     <title>Requirements for Operations, Administration, and Maintenance (OAM) in MPLS Transport Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5860"/>
-    <author fullname="M. Vigoureux"/>
-    <author fullname="D. Ward"/>
-    <author fullname="M. Betts"/>
+    <author fullname="M. Vigoureux" initials="M." surname="Vigoureux">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
+    <author fullname="M. Betts" initials="M." surname="Betts">
+      <organization/>
+    </author>
     <date year="2010" month="May"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS-TP</keyword>
-    <keyword>OAM</keyword>
-    <abstract>This document lists architectural and functional requirements for the Operations, Administration, and Maintenance of MPLS Transport Profile.  These requirements apply to pseudowires, Label Switched Paths, and Sections. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document lists architectural and functional requirements for the Operations, Administration, and Maintenance of MPLS Transport Profile.  These requirements apply to pseudowires, Label Switched Paths, and Sections. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5860"/>
+  <seriesInfo name="RFC" value="5860"/>
 </reference>

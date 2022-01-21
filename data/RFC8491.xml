@@ -1,17 +1,24 @@
 <reference anchor="RFC8491" target="https://www.rfc-editor.org/info/rfc8491">
   <front>
     <title>Signaling Maximum SID Depth (MSD) Using IS-IS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8491"/>
-    <author fullname="J. Tantsura"/>
-    <author fullname="U. Chunduri"/>
-    <author fullname="S. Aldrin"/>
-    <author fullname="L. Ginsberg"/>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="U. Chunduri" initials="U." surname="Chunduri">
+      <organization/>
+    </author>
+    <author fullname="S. Aldrin" initials="S." surname="Aldrin">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
     <date year="2018" month="November"/>
     <workgroup>lsr</workgroup>
-    <keyword>BGP-LS</keyword>
-    <keyword>SID</keyword>
-    <keyword>MSD</keyword>
-    <keyword>IS-IS</keyword>
-    <abstract>This document defines a way for an Intermediate System to Intermediate System (IS-IS) router to advertise multiple types of supported Maximum SID Depths (MSDs) at node and/or link granularity.  Such advertisements allow entities (e.g., centralized controllers) to determine whether a particular Segment ID (SID) stack can be supported in a given network.  This document only defines one type of MSD: Base MPLS Imposition.  However, it defines an encoding that can support other MSD types.  This document focuses on MSD use in a network that is Segment Routing (SR) enabled, but MSD may also be useful when SR is not enabled.</abstract>
+    <abstract>
+      <t>This document defines a way for an Intermediate System to Intermediate System (IS-IS) router to advertise multiple types of supported Maximum SID Depths (MSDs) at node and/or link granularity.  Such advertisements allow entities (e.g., centralized controllers) to determine whether a particular Segment ID (SID) stack can be supported in a given network.  This document only defines one type of MSD: Base MPLS Imposition.  However, it defines an encoding that can support other MSD types.  This document focuses on MSD use in a network that is Segment Routing (SR) enabled, but MSD may also be useful when SR is not enabled.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8491"/>
+  <seriesInfo name="RFC" value="8491"/>
 </reference>

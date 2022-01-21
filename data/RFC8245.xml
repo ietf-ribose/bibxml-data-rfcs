@@ -1,14 +1,24 @@
 <reference anchor="RFC8245" target="https://www.rfc-editor.org/info/rfc8245">
   <front>
     <title>Rules for Designing Protocols Using the Generalized Packet/Message Format from RFC 5444</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8245"/>
-    <author fullname="T. Clausen"/>
-    <author fullname="C. Dearlove"/>
-    <author fullname="U. Herberg"/>
-    <author fullname="H. Rogge"/>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
+    <author fullname="C. Dearlove" initials="C." surname="Dearlove">
+      <organization/>
+    </author>
+    <author fullname="U. Herberg" initials="U." surname="Herberg">
+      <organization/>
+    </author>
+    <author fullname="H. Rogge" initials="H." surname="Rogge">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>manet</workgroup>
-    <keyword>MANET</keyword>
-    <abstract>RFC 5444 specifies a generalized Mobile Ad Hoc Network (MANET) packet/message format and describes an intended use for multiplexed MANET routing protocol messages; this use is mandated by RFC 5498 when using the MANET port or protocol number that it specifies.  This document updates RFC 5444 by providing rules and recommendations for how the multiplexer operates and how protocols can use the packet/message format.  In particular, the mandatory rules prohibit a number of uses that have been suggested in various proposals and that would have led to interoperability problems, to the impediment of protocol extension development, and/or to an inability to use optional generic parsers.</abstract>
+    <abstract>
+      <t>RFC 5444 specifies a generalized Mobile Ad Hoc Network (MANET) packet/message format and describes an intended use for multiplexed MANET routing protocol messages; this use is mandated by RFC 5498 when using the MANET port or protocol number that it specifies.  This document updates RFC 5444 by providing rules and recommendations for how the multiplexer operates and how protocols can use the packet/message format.  In particular, the mandatory rules prohibit a number of uses that have been suggested in various proposals and that would have led to interoperability problems, to the impediment of protocol extension development, and/or to an inability to use optional generic parsers.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8245"/>
+  <seriesInfo name="RFC" value="8245"/>
 </reference>

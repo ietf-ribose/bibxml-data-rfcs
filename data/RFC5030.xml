@@ -1,16 +1,24 @@
 <reference anchor="RFC5030" target="https://www.rfc-editor.org/info/rfc5030">
   <front>
     <title>Mobile IPv4 RADIUS Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5030"/>
-    <author fullname="M. Nakhjiri"/>
-    <author fullname="K. Chowdhury"/>
-    <author fullname="A. Lior"/>
-    <author fullname="K. Leung"/>
+    <author fullname="M. Nakhjiri" initials="M." surname="Nakhjiri">
+      <organization/>
+    </author>
+    <author fullname="K. Chowdhury" initials="K." surname="Chowdhury">
+      <organization/>
+    </author>
+    <author fullname="A. Lior" initials="A." surname="Lior">
+      <organization/>
+    </author>
+    <author fullname="K. Leung" initials="K." surname="Leung">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>mip4</workgroup>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>mip</keyword>
-    <keyword>mipv4</keyword>
-    <abstract>This document provides an applicability statement as well as a scope definition for specifying Remote Authentication Dial-In User Service (RADIUS) extensions to support Mobile IPv4.  The goal is to allow specification of RADIUS attributes to assist the Mobile IPv4 signaling procedures.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides an applicability statement as well as a scope definition for specifying Remote Authentication Dial-In User Service (RADIUS) extensions to support Mobile IPv4.  The goal is to allow specification of RADIUS attributes to assist the Mobile IPv4 signaling procedures.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5030"/>
+  <seriesInfo name="RFC" value="5030"/>
 </reference>

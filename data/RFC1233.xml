@@ -1,11 +1,18 @@
 <reference anchor="RFC1233" target="https://www.rfc-editor.org/info/rfc1233">
   <front>
     <title>Definitions of managed objects for the DS3 Interface type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1233"/>
-    <author fullname="T.A. Cox"/>
-    <author fullname="K. Tesink"/>
+    <author fullname="T.A. Cox" initials="T.A." surname="Cox">
+      <organization/>
+    </author>
+    <author fullname="K. Tesink" initials="K." surname="Tesink">
+      <organization/>
+    </author>
     <date year="1991" month="May"/>
     <workgroup>snmp</workgroup>
-    <abstract>This memo defines objects for managing DS3 Interface objects for use with the SNMP protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines objects for managing DS3 Interface objects for use with the SNMP protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1233"/>
+  <seriesInfo name="RFC" value="1233"/>
 </reference>

@@ -1,13 +1,17 @@
 <reference anchor="RFC2682" target="https://www.rfc-editor.org/info/rfc2682">
   <front>
     <title>Performance Issues in VC-Merge Capable ATM LSRs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2682"/>
-    <author fullname="I. Widjaja"/>
-    <author fullname="A. Elwalid"/>
+    <author fullname="I. Widjaja" initials="I." surname="Widjaja">
+      <organization/>
+    </author>
+    <author fullname="A. Elwalid" initials="A." surname="Elwalid">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
-    <keyword>asynchronous</keyword>
-    <keyword>transfer mode</keyword>
-    <keyword>routing</keyword>
-    <abstract>This document investigates the impact of VC merging on the additional buffer required for the reassembly buffers and other buffers.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document investigates the impact of VC merging on the additional buffer required for the reassembly buffers and other buffers.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2682"/>
+  <seriesInfo name="RFC" value="2682"/>
 </reference>

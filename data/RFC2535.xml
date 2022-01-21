@@ -1,13 +1,15 @@
 <reference anchor="RFC2535" target="https://www.rfc-editor.org/info/rfc2535">
   <front>
     <title>Domain Name System Security Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2535"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>dnssec</workgroup>
-    <keyword>DNS-SECEXT</keyword>
-    <keyword>dns</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document incorporates feedback on RFC 2065 from early implementers and potential users. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document incorporates feedback on RFC 2065 from early implementers and potential users. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2535"/>
+  <seriesInfo name="RFC" value="2535"/>
 </reference>

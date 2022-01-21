@@ -1,20 +1,30 @@
 <reference anchor="RFC6310" target="https://www.rfc-editor.org/info/rfc6310">
   <front>
     <title>Pseudowire (PW) Operations, Administration, and Maintenance (OAM) Message Mapping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6310"/>
-    <author fullname="M. Aissaoui"/>
-    <author fullname="P. Busschbach"/>
-    <author fullname="L. Martini"/>
-    <author fullname="M. Morrow"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="Y(J). Stein"/>
+    <author fullname="M. Aissaoui" initials="M." surname="Aissaoui">
+      <organization/>
+    </author>
+    <author fullname="P. Busschbach" initials="P." surname="Busschbach">
+      <organization/>
+    </author>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="M. Morrow" initials="M." surname="Morrow">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="Y(J). Stein" initials="Y(J)." surname="Stein">
+      <organization/>
+    </author>
     <date year="2011" month="July"/>
     <workgroup>pwe3</workgroup>
-    <keyword>interworking</keyword>
-    <keyword>defect state</keyword>
-    <keyword>defect indication</keyword>
-    <keyword>pseudowire</keyword>
-    <keyword>OAM</keyword>
-    <abstract>This document specifies the mapping and notification of defect states between a pseudowire (PW) and the Attachment Circuits (ACs) of the end-to-end emulated service.  It standardizes the behavior of Provider Edges (PEs) with respect to PW and AC defects.  It addresses ATM, Frame Relay, Time Division Multiplexing (TDM), and Synchronous Optical Network / Synchronous Digital Hierarchy (SONET/SDH) PW services, carried over MPLS, MPLS/IP, and Layer 2 Tunneling Protocol version 3/IP (L2TPv3/IP) Packet Switched Networks (PSNs). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the mapping and notification of defect states between a pseudowire (PW) and the Attachment Circuits (ACs) of the end-to-end emulated service.  It standardizes the behavior of Provider Edges (PEs) with respect to PW and AC defects.  It addresses ATM, Frame Relay, Time Division Multiplexing (TDM), and Synchronous Optical Network / Synchronous Digital Hierarchy (SONET/SDH) PW services, carried over MPLS, MPLS/IP, and Layer 2 Tunneling Protocol version 3/IP (L2TPv3/IP) Packet Switched Networks (PSNs). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6310"/>
+  <seriesInfo name="RFC" value="6310"/>
 </reference>

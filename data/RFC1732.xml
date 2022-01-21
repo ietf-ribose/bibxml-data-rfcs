@@ -1,15 +1,15 @@
 <reference anchor="RFC1732" target="https://www.rfc-editor.org/info/rfc1732">
   <front>
     <title>IMAP4 Compatibility with IMAP2 and IMAP2bis</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1732"/>
-    <author fullname="M. Crispin"/>
+    <author fullname="M. Crispin" initials="M." surname="Crispin">
+      <organization/>
+    </author>
     <date year="1994" month="December"/>
     <workgroup>imap</workgroup>
-    <keyword>Internet</keyword>
-    <keyword>Message</keyword>
-    <keyword>Access</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Email</keyword>
-    <abstract>This is a summary of hints and recommendations to enable an IMAP4 implementation to interoperate with implementations that conform to earlier specifications.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This is a summary of hints and recommendations to enable an IMAP4 implementation to interoperate with implementations that conform to earlier specifications.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1732"/>
+  <seriesInfo name="RFC" value="1732"/>
 </reference>

@@ -1,20 +1,21 @@
 <reference anchor="RFC2006" target="https://www.rfc-editor.org/info/rfc2006">
   <front>
     <title>The Definitions of Managed Objects for IP Mobility Support using SMIv2</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2006"/>
-    <author fullname="D. Cong"/>
-    <author fullname="M. Hamlen"/>
-    <author fullname="C. Perkins"/>
+    <author fullname="D. Cong" initials="D." surname="Cong">
+      <organization/>
+    </author>
+    <author fullname="M. Hamlen" initials="M." surname="Hamlen">
+      <organization/>
+    </author>
+    <author fullname="C. Perkins" initials="C." surname="Perkins">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>mobileip</workgroup>
-    <keyword>MOBILEIPMIB</keyword>
-    <keyword>Mobile</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Managed</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <abstract>This memo defines the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it describes managed objects used for managing the Mobile Node, Foreign Agent and Home Agent of the Mobile IP Protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it describes managed objects used for managing the Mobile Node, Foreign Agent and Home Agent of the Mobile IP Protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2006"/>
+  <seriesInfo name="RFC" value="2006"/>
 </reference>

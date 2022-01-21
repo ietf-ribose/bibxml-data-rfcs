@@ -1,14 +1,27 @@
 <reference anchor="RFC3948" target="https://www.rfc-editor.org/info/rfc3948">
   <front>
     <title>UDP Encapsulation of IPsec ESP Packets</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3948"/>
-    <author fullname="A. Huttunen"/>
-    <author fullname="B. Swander"/>
-    <author fullname="V. Volpe"/>
-    <author fullname="L. DiBurro"/>
-    <author fullname="M. Stenberg"/>
+    <author fullname="A. Huttunen" initials="A." surname="Huttunen">
+      <organization/>
+    </author>
+    <author fullname="B. Swander" initials="B." surname="Swander">
+      <organization/>
+    </author>
+    <author fullname="V. Volpe" initials="V." surname="Volpe">
+      <organization/>
+    </author>
+    <author fullname="L. DiBurro" initials="L." surname="DiBurro">
+      <organization/>
+    </author>
+    <author fullname="M. Stenberg" initials="M." surname="Stenberg">
+      <organization/>
+    </author>
     <date year="2005" month="January"/>
     <workgroup>ipsec</workgroup>
-    <abstract>This protocol specification defines methods to encapsulate and decapsulate IP Encapsulating Security Payload (ESP) packets inside UDP packets for traversing Network Address Translators.  ESP encapsulation, as defined in this document, can be used in both IPv4 and IPv6 scenarios.  Whenever negotiated, encapsulation is used with Internet Key Exchange (IKE). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This protocol specification defines methods to encapsulate and decapsulate IP Encapsulating Security Payload (ESP) packets inside UDP packets for traversing Network Address Translators.  ESP encapsulation, as defined in this document, can be used in both IPv4 and IPv6 scenarios.  Whenever negotiated, encapsulation is used with Internet Key Exchange (IKE). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3948"/>
+  <seriesInfo name="RFC" value="3948"/>
 </reference>

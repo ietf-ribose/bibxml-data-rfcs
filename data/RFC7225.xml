@@ -1,10 +1,15 @@
 <reference anchor="RFC7225" target="https://www.rfc-editor.org/info/rfc7225">
   <front>
     <title>Discovering NAT64 IPv6 Prefixes Using the Port Control Protocol (PCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7225"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>pcp</workgroup>
-    <abstract>This document defines a new Port Control Protocol (PCP) option to learn the IPv6 prefix(es) used by a PCP-controlled NAT64 device to build IPv4-converted IPv6 addresses.  This option is needed for successful communications when IPv4 addresses are used in referrals.</abstract>
+    <abstract>
+      <t>This document defines a new Port Control Protocol (PCP) option to learn the IPv6 prefix(es) used by a PCP-controlled NAT64 device to build IPv4-converted IPv6 addresses.  This option is needed for successful communications when IPv4 addresses are used in referrals.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7225"/>
+  <seriesInfo name="RFC" value="7225"/>
 </reference>

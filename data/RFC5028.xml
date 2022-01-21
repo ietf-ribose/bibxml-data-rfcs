@@ -1,13 +1,15 @@
 <reference anchor="RFC5028" target="https://www.rfc-editor.org/info/rfc5028">
   <front>
     <title>A Telephone Number Mapping (ENUM) Service Registration for Instant Messaging (IM) Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5028"/>
-    <author fullname="R. Mahy"/>
+    <author fullname="R. Mahy" initials="R." surname="Mahy">
+      <organization/>
+    </author>
     <date year="2007" month="October"/>
     <workgroup>enum</workgroup>
-    <keyword>'im:'</keyword>
-    <keyword>uri</keyword>
-    <keyword>uniform resource identifier</keyword>
-    <abstract>This document registers a Telephone Number Mapping (ENUM) service for Instant Messaging (IM).  Specifically, this document focuses on provisioning 'im:' URIs (Uniform Resource Identifiers) in ENUM. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document registers a Telephone Number Mapping (ENUM) service for Instant Messaging (IM).  Specifically, this document focuses on provisioning 'im:' URIs (Uniform Resource Identifiers) in ENUM. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5028"/>
+  <seriesInfo name="RFC" value="5028"/>
 </reference>

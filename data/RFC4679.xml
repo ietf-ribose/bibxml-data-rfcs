@@ -1,16 +1,24 @@
 <reference anchor="RFC4679" target="https://www.rfc-editor.org/info/rfc4679">
   <front>
     <title>DSL Forum Vendor-Specific RADIUS Attributes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4679"/>
-    <author fullname="V. Mammoliti"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="P. Arberg"/>
-    <author fullname="R. Rennison"/>
+    <author fullname="V. Mammoliti" initials="V." surname="Mammoliti">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="P. Arberg" initials="P." surname="Arberg">
+      <organization/>
+    </author>
+    <author fullname="R. Rennison" initials="R." surname="Rennison">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>vsa</keyword>
-    <keyword>dsl</keyword>
-    <keyword>digital subscriber line</keyword>
-    <abstract>This document describes the set of Remote Authentication Dial-In User Service Vendor-Specific Attributes (RADIUS VSAs) defined by the DSL Forum. These attributes are designed to transport Digital Subscriber Line (DSL) information that is not supported by the standard RADIUS attribute set. It is expected that this document will be updated if and when the DSL Forum defines additional vendor-specific attributes, since its primary purpose is to provide a reference for DSL equipment vendors wishing to interoperate with other vendors' products. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the set of Remote Authentication Dial-In User Service Vendor-Specific Attributes (RADIUS VSAs) defined by the DSL Forum.</t>
+      <t>These attributes are designed to transport Digital Subscriber Line (DSL) information that is not supported by the standard RADIUS attribute set. It is expected that this document will be updated if and when the DSL Forum defines additional vendor-specific attributes, since its primary purpose is to provide a reference for DSL equipment vendors wishing to interoperate with other vendors' products. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4679"/>
+  <seriesInfo name="RFC" value="4679"/>
 </reference>

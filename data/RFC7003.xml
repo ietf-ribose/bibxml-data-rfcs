@@ -1,13 +1,21 @@
 <reference anchor="RFC7003" target="https://www.rfc-editor.org/info/rfc7003">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Block for Burst/Gap Discard Metric Reporting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7003"/>
-    <author fullname="A. Clark"/>
-    <author fullname="R. Huang"/>
-    <author fullname="Q. Wu"/>
+    <author fullname="A. Clark" initials="A." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="R. Huang" initials="R." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>xrblock</workgroup>
-    <keyword>Real Time Control Protocol</keyword>
-    <abstract>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of burst and gap discard metrics for use in a range of RTP applications.</abstract>
+    <abstract>
+      <t>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of burst and gap discard metrics for use in a range of RTP applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7003"/>
+  <seriesInfo name="RFC" value="7003"/>
 </reference>

@@ -1,20 +1,18 @@
 <reference anchor="RFC2584" target="https://www.rfc-editor.org/info/rfc2584">
   <front>
     <title>Definitions of Managed Objects for APPN/HPR in IP Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2584"/>
-    <author fullname="B. Clouston"/>
-    <author fullname="B. Moore"/>
+    <author fullname="B. Clouston" initials="B." surname="Clouston">
+      <organization/>
+    </author>
+    <author fullname="B. Moore" initials="B." surname="Moore">
+      <organization/>
+    </author>
     <date year="1999" month="May"/>
     <workgroup>snanau</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>MIB</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <keyword>high</keyword>
-    <keyword>performance</keyword>
-    <keyword>routing</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling HPR (High Performance Routing) network devices which have the capability to communicate in IP (Internet Protocol) networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling HPR (High Performance Routing) network devices which have the capability to communicate in IP (Internet Protocol) networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2584"/>
+  <seriesInfo name="RFC" value="2584"/>
 </reference>

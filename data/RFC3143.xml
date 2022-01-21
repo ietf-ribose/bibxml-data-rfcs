@@ -1,14 +1,17 @@
 <reference anchor="RFC3143" target="https://www.rfc-editor.org/info/rfc3143">
   <front>
     <title>Known HTTP Proxy/Caching Problems</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3143"/>
-    <author fullname="I. Cooper"/>
-    <author fullname="J. Dilley"/>
+    <author fullname="I. Cooper" initials="I." surname="Cooper">
+      <organization/>
+    </author>
+    <author fullname="J. Dilley" initials="J." surname="Dilley">
+      <organization/>
+    </author>
     <date year="2001" month="June"/>
-    <keyword>www</keyword>
-    <keyword>world wide web</keyword>
-    <keyword>hypertext transfer</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document catalogs a number of known problems with World Wide Web (WWW) (caching) proxies and cache servers.  The goal of the document is to provide a discussion of the problems and proposed workarounds, and ultimately to improve conditions by illustrating problems.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document catalogs a number of known problems with World Wide Web (WWW) (caching) proxies and cache servers.  The goal of the document is to provide a discussion of the problems and proposed workarounds, and ultimately to improve conditions by illustrating problems.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3143"/>
+  <seriesInfo name="RFC" value="3143"/>
 </reference>

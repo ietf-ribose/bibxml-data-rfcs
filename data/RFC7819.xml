@@ -1,13 +1,21 @@
 <reference anchor="RFC7819" target="https://www.rfc-editor.org/info/rfc7819">
   <front>
     <title>Privacy Considerations for DHCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7819"/>
-    <author fullname="S. Jiang"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="T. Mrugalski"/>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+      <organization/>
+    </author>
     <date year="2016" month="April"/>
     <workgroup>dhc</workgroup>
-    <keyword>DHCP Privacy</keyword>
-    <abstract>DHCP is a protocol that is used to provide addressing and configuration information to IPv4 hosts.  This document discusses the various identifiers used by DHCP and the potential privacy issues.</abstract>
+    <abstract>
+      <t>DHCP is a protocol that is used to provide addressing and configuration information to IPv4 hosts.  This document discusses the various identifiers used by DHCP and the potential privacy issues.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7819"/>
+  <seriesInfo name="RFC" value="7819"/>
 </reference>

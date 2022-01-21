@@ -1,17 +1,17 @@
 <reference anchor="RFC2126" target="https://www.rfc-editor.org/info/rfc2126">
   <front>
     <title>ISO Transport Service on top of TCP (ITOT)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2126"/>
-    <author fullname="Y. Pouffary"/>
-    <author fullname="A. Young"/>
+    <author fullname="Y. Pouffary" initials="Y." surname="Pouffary">
+      <organization/>
+    </author>
+    <author fullname="A. Young" initials="A." surname="Young">
+      <organization/>
+    </author>
     <date year="1997" month="March"/>
-    <keyword>ITOT</keyword>
-    <keyword>International</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Organization</keyword>
-    <keyword>Transmission</keyword>
-    <keyword>Control</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This document is a revision to STD35, RFC1006.  This document describes the mechanism to allow ISO Transport Services to run over TCP over IPv4 or IPv6.  It also defines a number of new features, which are not provided in RFC1006. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document is a revision to STD35, RFC1006.  This document describes the mechanism to allow ISO Transport Services to run over TCP over IPv4 or IPv6.  It also defines a number of new features, which are not provided in RFC1006. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2126"/>
+  <seriesInfo name="RFC" value="2126"/>
 </reference>

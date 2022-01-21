@@ -1,17 +1,21 @@
 <reference anchor="RFC4906" target="https://www.rfc-editor.org/info/rfc4906">
   <front>
     <title>Transport of Layer 2 Frames Over MPLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4906"/>
-    <author fullname="L. Martini"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="N. El-Aawar"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="N. El-Aawar" initials="N." surname="El-Aawar">
+      <organization/>
+    </author>
     <date year="2007" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>multiprotocol label switching</keyword>
-    <keyword>pdu</keyword>
-    <keyword>protocol data unit</keyword>
-    <keyword>sonet</keyword>
-    <keyword>synchronized optical network</keyword>
-    <abstract>This document describes methods for transporting the Protocol Data Units (PDUs) of layer 2 protocols such as Frame Relay, Asynchronous Transfer Mode (ATM) Adaption Layer 5 (AAL5), and Ethernet, and for providing a Synchronized Optical Network (SONET) circuit emulation service across an MPLS network.  This document describes the so-called "draft-martini" protocol, which has since been superseded by the Pseudowire Emulation Edge to Edge Working Group specifications described in RFC 4447 and related documents.  This memo defines a Historic Document for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes methods for transporting the Protocol Data Units (PDUs) of layer 2 protocols such as Frame Relay, Asynchronous Transfer Mode (ATM) Adaption Layer 5 (AAL5), and Ethernet, and for providing a Synchronized Optical Network (SONET) circuit emulation service across an MPLS network.  This document describes the so-called "draft-martini" protocol, which has since been superseded by the Pseudowire Emulation Edge to Edge Working Group specifications described in RFC 4447 and related documents.  This memo defines a Historic Document for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4906"/>
+  <seriesInfo name="RFC" value="4906"/>
 </reference>

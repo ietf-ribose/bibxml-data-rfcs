@@ -1,18 +1,24 @@
 <reference anchor="RFC7635" target="https://www.rfc-editor.org/info/rfc7635">
   <front>
     <title>Session Traversal Utilities for NAT (STUN) Extension for Third-Party Authorization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7635"/>
-    <author fullname="T. Reddy"/>
-    <author fullname="P. Patil"/>
-    <author fullname="R. Ravindranath"/>
-    <author fullname="J. Uberti"/>
+    <author fullname="T. Reddy" initials="T." surname="Reddy">
+      <organization/>
+    </author>
+    <author fullname="P. Patil" initials="P." surname="Patil">
+      <organization/>
+    </author>
+    <author fullname="R. Ravindranath" initials="R." surname="Ravindranath">
+      <organization/>
+    </author>
+    <author fullname="J. Uberti" initials="J." surname="Uberti">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>tram</workgroup>
-    <keyword>OAuth 2.0</keyword>
-    <keyword>STUN</keyword>
-    <keyword>TURN</keyword>
-    <keyword>WebRTC</keyword>
-    <keyword>Authentication and Authorization</keyword>
-    <abstract>This document proposes the use of OAuth 2.0 to obtain and validate ephemeral tokens that can be used for Session Traversal Utilities for NAT (STUN) authentication.  The usage of ephemeral tokens ensures that access to a STUN server can be controlled even if the tokens are compromised.</abstract>
+    <abstract>
+      <t>This document proposes the use of OAuth 2.0 to obtain and validate ephemeral tokens that can be used for Session Traversal Utilities for NAT (STUN) authentication.  The usage of ephemeral tokens ensures that access to a STUN server can be controlled even if the tokens are compromised.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7635"/>
+  <seriesInfo name="RFC" value="7635"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="RFC2177" target="https://www.rfc-editor.org/info/rfc2177">
   <front>
     <title>IMAP4 IDLE command</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2177"/>
-    <author fullname="B. Leiba"/>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
     <date year="1997" month="June"/>
-    <keyword>IMAP4-IDLE</keyword>
-    <abstract>This document specifies the syntax of an IDLE command, which will allow a client to tell the server that it's ready to accept such real-time updates. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the syntax of an IDLE command, which will allow a client to tell the server that it's ready to accept such real-time updates. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2177"/>
+  <seriesInfo name="RFC" value="2177"/>
 </reference>

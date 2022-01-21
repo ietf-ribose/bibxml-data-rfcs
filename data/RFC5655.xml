@@ -1,18 +1,27 @@
 <reference anchor="RFC5655" target="https://www.rfc-editor.org/info/rfc5655">
   <front>
     <title>Specification of the IP Flow Information Export (IPFIX) File Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5655"/>
-    <author fullname="B. Trammell"/>
-    <author fullname="E. Boschi"/>
-    <author fullname="L. Mark"/>
-    <author fullname="T. Zseby"/>
-    <author fullname="A. Wagner"/>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="E. Boschi" initials="E." surname="Boschi">
+      <organization/>
+    </author>
+    <author fullname="L. Mark" initials="L." surname="Mark">
+      <organization/>
+    </author>
+    <author fullname="T. Zseby" initials="T." surname="Zseby">
+      <organization/>
+    </author>
+    <author fullname="A. Wagner" initials="A." surname="Wagner">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>ipfix</workgroup>
-    <keyword>flow file</keyword>
-    <keyword>flow storage</keyword>
-    <keyword>ipfix storage</keyword>
-    <keyword>netflow storage</keyword>
-    <abstract>This document describes a file format for the storage of flow data based upon the IP Flow Information Export (IPFIX) protocol.  It proposes a set of requirements for flat-file, binary flow data file formats, then specifies the IPFIX File format to meet these requirements based upon IPFIX Messages.  This IPFIX File format is designed to facilitate interoperability and reusability among a wide variety of flow storage, processing, and analysis tools. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>This document describes a file format for the storage of flow data based upon the IP Flow Information Export (IPFIX) protocol.  It proposes a set of requirements for flat-file, binary flow data file formats, then specifies the IPFIX File format to meet these requirements based upon IPFIX Messages.  This IPFIX File format is designed to facilitate interoperability and reusability among a wide variety of flow storage, processing, and analysis tools. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5655"/>
+  <seriesInfo name="RFC" value="5655"/>
 </reference>

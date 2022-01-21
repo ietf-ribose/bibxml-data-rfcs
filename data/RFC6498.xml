@@ -1,12 +1,21 @@
 <reference anchor="RFC6498" target="https://www.rfc-editor.org/info/rfc6498">
   <front>
     <title>Media Gateway Control Protocol (MGCP) Voiceband Data (VBD) Package and General-Purpose Media Descriptor Parameter Package</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6498"/>
-    <author fullname="J. Stone"/>
-    <author fullname="R. Kumar"/>
-    <author fullname="F. Andreasen"/>
+    <author fullname="J. Stone" initials="J." surname="Stone">
+      <organization/>
+    </author>
+    <author fullname="R. Kumar" initials="R." surname="Kumar">
+      <organization/>
+    </author>
+    <author fullname="F. Andreasen" initials="F." surname="Andreasen">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>This document defines Media Gateway Control Protocol (MGCP) packages that enable a Call Agent to authorize and monitor the transition of a connection to and from Voiceband Data (VBD) with or without redundancy and FEC (forward error correction).  Although the focus is on VBD, the General-Purpose Media Descriptor Parameter package can be used to authorize other modes of operation, not relevant to VBD, for a particular codec.  In addition to defining these new packages, this document describes the use of the Media Format Parameter package and Fax package with VBD, redundancy, and FEC.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document defines Media Gateway Control Protocol (MGCP) packages that enable a Call Agent to authorize and monitor the transition of a connection to and from Voiceband Data (VBD) with or without redundancy and FEC (forward error correction).  Although the focus is on VBD, the General-Purpose Media Descriptor Parameter package can be used to authorize other modes of operation, not relevant to VBD, for a particular codec.  In addition to defining these new packages, this document describes the use of the Media Format Parameter package and Fax package with VBD, redundancy, and FEC.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6498"/>
+  <seriesInfo name="RFC" value="6498"/>
 </reference>

@@ -1,15 +1,20 @@
 <reference anchor="RFC3610" target="https://www.rfc-editor.org/info/rfc3610">
   <front>
     <title>Counter with CBC-MAC (CCM)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3610"/>
-    <author fullname="D. Whiting"/>
-    <author fullname="R. Housley"/>
-    <author fullname="N. Ferguson"/>
+    <author fullname="D. Whiting" initials="D." surname="Whiting">
+      <organization/>
+    </author>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="N. Ferguson" initials="N." surname="Ferguson">
+      <organization/>
+    </author>
     <date year="2003" month="September"/>
-    <keyword>authentication</keyword>
-    <keyword>encryption</keyword>
-    <keyword>security</keyword>
-    <keyword>ciphers</keyword>
-    <abstract>Counter with CBC-MAC (CCM) is a generic authenticated encryption block cipher mode.  CCM is defined for use with 128-bit block ciphers, such as the Advanced Encryption Standard (AES).</abstract>
+    <abstract>
+      <t>Counter with CBC-MAC (CCM) is a generic authenticated encryption block cipher mode.  CCM is defined for use with 128-bit block ciphers, such as the Advanced Encryption Standard (AES).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3610"/>
+  <seriesInfo name="RFC" value="3610"/>
 </reference>

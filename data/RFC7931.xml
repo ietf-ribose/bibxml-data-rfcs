@@ -1,13 +1,24 @@
 <reference anchor="RFC7931" target="https://www.rfc-editor.org/info/rfc7931">
   <front>
     <title>NFSv4.0 Migration: Specification Update</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7931"/>
-    <author fullname="D. Noveck"/>
-    <author fullname="P. Shivam"/>
-    <author fullname="C. Lever"/>
-    <author fullname="B. Baker"/>
+    <author fullname="D. Noveck" initials="D." surname="Noveck">
+      <organization/>
+    </author>
+    <author fullname="P. Shivam" initials="P." surname="Shivam">
+      <organization/>
+    </author>
+    <author fullname="C. Lever" initials="C." surname="Lever">
+      <organization/>
+    </author>
+    <author fullname="B. Baker" initials="B." surname="Baker">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>nfsv4</workgroup>
-    <abstract>The migration feature of NFSv4 allows the transfer of responsibility for a single file system from one server to another without disruption to clients.  Recent implementation experience has shown problems in the existing specification for this feature in NFSv4.0.  This document identifies the problem areas and provides revised specification text that updates the NFSv4.0 specification in RFC 7530.</abstract>
+    <abstract>
+      <t>The migration feature of NFSv4 allows the transfer of responsibility for a single file system from one server to another without disruption to clients.  Recent implementation experience has shown problems in the existing specification for this feature in NFSv4.0.  This document identifies the problem areas and provides revised specification text that updates the NFSv4.0 specification in RFC 7530.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7931"/>
+  <seriesInfo name="RFC" value="7931"/>
 </reference>

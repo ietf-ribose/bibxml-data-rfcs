@@ -1,13 +1,21 @@
 <reference anchor="RFC7213" target="https://www.rfc-editor.org/info/rfc7213">
   <front>
     <title>MPLS Transport Profile (MPLS-TP) Next-Hop Ethernet Addressing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7213"/>
-    <author fullname="D. Frost"/>
-    <author fullname="S. Bryant"/>
-    <author fullname="M. Bocci"/>
+    <author fullname="D. Frost" initials="D." surname="Frost">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
+    <author fullname="M. Bocci" initials="M." surname="Bocci">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS</keyword>
-    <abstract>The MPLS Transport Profile (MPLS-TP) is the set of MPLS protocol functions applicable to the construction and operation of packet- switched transport networks.  This document presents considerations for link-layer addressing of Ethernet frames carrying MPLS-TP packets.</abstract>
+    <abstract>
+      <t>The MPLS Transport Profile (MPLS-TP) is the set of MPLS protocol functions applicable to the construction and operation of packet- switched transport networks.  This document presents considerations for link-layer addressing of Ethernet frames carrying MPLS-TP packets.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7213"/>
+  <seriesInfo name="RFC" value="7213"/>
 </reference>

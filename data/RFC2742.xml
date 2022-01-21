@@ -1,19 +1,21 @@
 <reference anchor="RFC2742" target="https://www.rfc-editor.org/info/rfc2742">
   <front>
     <title>Definitions of Managed Objects for Extensible SNMP Agents</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2742"/>
-    <author fullname="L. Heintz"/>
-    <author fullname="S. Gudur"/>
-    <author fullname="M. Ellison"/>
+    <author fullname="L. Heintz" initials="L." surname="Heintz">
+      <organization/>
+    </author>
+    <author fullname="S. Gudur" initials="S." surname="Gudur">
+      <organization/>
+    </author>
+    <author fullname="M. Ellison" initials="M." surname="Ellison">
+      <organization/>
+    </author>
     <date year="2000" month="January"/>
     <workgroup>agentx</workgroup>
-    <keyword>SNMP</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects managing SNMP agents that use the Agent Extensibility (AgentX) Protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects managing SNMP agents that use the Agent Extensibility (AgentX) Protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2742"/>
+  <seriesInfo name="RFC" value="2742"/>
 </reference>

@@ -1,15 +1,24 @@
 <reference anchor="RFC4352" target="https://www.rfc-editor.org/info/rfc4352">
   <front>
     <title>RTP Payload Format for the Extended Adaptive Multi-Rate Wideband (AMR-WB+) Audio Codec</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4352"/>
-    <author fullname="J. Sjoberg"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="A. Lakaniemi"/>
-    <author fullname="S. Wenger"/>
+    <author fullname="J. Sjoberg" initials="J." surname="Sjoberg">
+      <organization/>
+    </author>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="A. Lakaniemi" initials="A." surname="Lakaniemi">
+      <organization/>
+    </author>
+    <author fullname="S. Wenger" initials="S." surname="Wenger">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>avt</workgroup>
-    <keyword>real-time transport protocol</keyword>
-    <keyword>audio signals</keyword>
-    <abstract>This document specifies a Real-time Transport Protocol (RTP) payload format for Extended Adaptive Multi-Rate Wideband (AMR-WB+) encoded audio signals.  The AMR-WB+ codec is an audio extension of the AMR-WB speech codec.  It encompasses the AMR-WB frame types and a number of new frame types designed to support high-quality music and speech.  A media type registration for AMR-WB+ is included in this specification. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a Real-time Transport Protocol (RTP) payload format for Extended Adaptive Multi-Rate Wideband (AMR-WB+) encoded audio signals.  The AMR-WB+ codec is an audio extension of the AMR-WB speech codec.  It encompasses the AMR-WB frame types and a number of new frame types designed to support high-quality music and speech.  A media type registration for AMR-WB+ is included in this specification. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4352"/>
+  <seriesInfo name="RFC" value="4352"/>
 </reference>

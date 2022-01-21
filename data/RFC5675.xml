@@ -1,16 +1,18 @@
 <reference anchor="RFC5675" target="https://www.rfc-editor.org/info/rfc5675">
   <front>
     <title>Mapping Simple Network Management Protocol (SNMP) Notifications to SYSLOG Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5675"/>
-    <author fullname="V. Marinov"/>
-    <author fullname="J. Schoenwaelder"/>
+    <author fullname="V. Marinov" initials="V." surname="Marinov">
+      <organization/>
+    </author>
+    <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
+      <organization/>
+    </author>
     <date year="2009" month="October"/>
     <workgroup>opsawg</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Notifications</keyword>
-    <keyword>Syslog</keyword>
-    <abstract>This memo defines a mapping from Simple Network Management Protocol (SNMP) notifications to SYSLOG messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a mapping from Simple Network Management Protocol (SNMP) notifications to SYSLOG messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5675"/>
+  <seriesInfo name="RFC" value="5675"/>
 </reference>

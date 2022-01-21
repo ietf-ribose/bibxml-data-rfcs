@@ -1,20 +1,24 @@
 <reference anchor="RFC2520" target="https://www.rfc-editor.org/info/rfc2520">
   <front>
     <title>NHRP with Mobile NHCs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2520"/>
-    <author fullname="J. Luciani"/>
-    <author fullname="H. Suzuki"/>
-    <author fullname="N. Doraswamy"/>
-    <author fullname="D. Horton"/>
+    <author fullname="J. Luciani" initials="J." surname="Luciani">
+      <organization/>
+    </author>
+    <author fullname="H. Suzuki" initials="H." surname="Suzuki">
+      <organization/>
+    </author>
+    <author fullname="N. Doraswamy" initials="N." surname="Doraswamy">
+      <organization/>
+    </author>
+    <author fullname="D. Horton" initials="D." surname="Horton">
+      <organization/>
+    </author>
     <date year="1999" month="February"/>
     <workgroup>ion</workgroup>
-    <keyword>NHRP-MNHCS</keyword>
-    <keyword>next</keyword>
-    <keyword>hop</keyword>
-    <keyword>resolution</keyword>
-    <keyword>protocol</keyword>
-    <keyword>authentication</keyword>
-    <keyword>extension</keyword>
-    <abstract>is document describes an extension to NHRP which would allow Mobile NHCs to perform a registration with and attach to an NHS in their home LIS in an authenticated manner.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>is document describes an extension to NHRP which would allow Mobile NHCs to perform a registration with and attach to an NHS in their home LIS in an authenticated manner.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2520"/>
+  <seriesInfo name="RFC" value="2520"/>
 </reference>

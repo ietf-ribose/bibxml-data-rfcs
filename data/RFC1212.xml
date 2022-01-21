@@ -1,12 +1,19 @@
 <reference anchor="RFC1212" target="https://www.rfc-editor.org/info/rfc1212">
   <front>
     <title>Concise MIB definitions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1212"/>
-    <author fullname="M.T. Rose"/>
-    <author fullname="K. McCloghrie"/>
+    <author fullname="M.T. Rose" initials="M.T." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
     <date year="1991" month="March"/>
     <workgroup>snmp</workgroup>
-    <keyword>Concise-MIB</keyword>
-    <abstract>This memo describes a straight-forward approach toward producing concise, yet descriptive, MIB modules.  This memo defines a format for producing MIB modules. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a straight-forward approach toward producing concise, yet descriptive, MIB modules.  This memo defines a format for producing MIB modules. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1212"/>
+  <seriesInfo name="STD" value="16"/>
+  <seriesInfo name="RFC" value="1212"/>
 </reference>

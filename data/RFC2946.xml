@@ -1,11 +1,14 @@
 <reference anchor="RFC2946" target="https://www.rfc-editor.org/info/rfc2946">
   <front>
     <title>Telnet Data Encryption Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2946"/>
-    <author fullname="T. Ts'o"/>
+    <author fullname="T. Ts'o" initials="T." surname="Ts'o">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>stream</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This document describes a the telnet encryption option as a generic method of providing data confidentiality services for the telnet data stream. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a the telnet encryption option as a generic method of providing data confidentiality services for the telnet data stream. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2946"/>
+  <seriesInfo name="RFC" value="2946"/>
 </reference>

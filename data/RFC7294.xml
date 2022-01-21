@@ -1,14 +1,24 @@
 <reference anchor="RFC7294" target="https://www.rfc-editor.org/info/rfc7294">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Blocks for Concealment Metrics Reporting on Audio Applications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7294"/>
-    <author fullname="A. Clark"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="C. Bi"/>
-    <author fullname="Q. Wu"/>
+    <author fullname="A. Clark" initials="A." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="C. Bi" initials="C." surname="Bi">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
     <date year="2014" month="July"/>
     <workgroup>xrblock</workgroup>
-    <keyword>Real Time Control Protocol</keyword>
-    <abstract>This document defines two RTP Control Protocol (RTCP) Extended Report (XR) blocks that allow the reporting of concealment metrics for audio applications of RTP.</abstract>
+    <abstract>
+      <t>This document defines two RTP Control Protocol (RTCP) Extended Report (XR) blocks that allow the reporting of concealment metrics for audio applications of RTP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7294"/>
+  <seriesInfo name="RFC" value="7294"/>
 </reference>

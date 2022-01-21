@@ -1,16 +1,18 @@
 <reference anchor="RFC2848" target="https://www.rfc-editor.org/info/rfc2848">
   <front>
     <title>The PINT Service Protocol: Extensions to SIP and SDP for IP Access to Telephone Call Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2848"/>
-    <author fullname="S. Petrack"/>
-    <author fullname="L. Conroy"/>
+    <author fullname="S. Petrack" initials="S." surname="Petrack">
+      <organization/>
+    </author>
+    <author fullname="L. Conroy" initials="L." surname="Conroy">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>pint</workgroup>
-    <keyword>session</keyword>
-    <keyword>initiation</keyword>
-    <keyword>protocol</keyword>
-    <keyword>internet</keyword>
-    <keyword>description</keyword>
-    <abstract>This document contains the specification of the PINT Service Protocol 1.0, which defines a protocol for invoking certain telephone services from an IP network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document contains the specification of the PINT Service Protocol 1.0, which defines a protocol for invoking certain telephone services from an IP network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2848"/>
+  <seriesInfo name="RFC" value="2848"/>
 </reference>

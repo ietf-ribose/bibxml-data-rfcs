@@ -1,10 +1,15 @@
 <reference anchor="RFC6694" target="https://www.rfc-editor.org/info/rfc6694">
   <front>
     <title>The "about" URI Scheme</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6694"/>
-    <author fullname="S. Moonesamy"/>
+    <author fullname="S. Moonesamy" initials="S." surname="Moonesamy">
+      <organization/>
+    </author>
     <date year="2012" month="August"/>
     <workgroup>appsawg</workgroup>
-    <abstract>This document describes the "about" URI scheme, which is widely used by Web browsers and some other applications to designate access to their internal resources, such as settings, application information, hidden built-in functionality, and so on.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document describes the "about" URI scheme, which is widely used by Web browsers and some other applications to designate access to their internal resources, such as settings, application information, hidden built-in functionality, and so on.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6694"/>
+  <seriesInfo name="RFC" value="6694"/>
 </reference>

@@ -1,9 +1,14 @@
 <reference anchor="RFC0838" target="https://www.rfc-editor.org/info/rfc838">
   <front>
     <title>Who talks TCP?</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0838"/>
-    <author fullname="D. Smallberg"/>
+    <author fullname="D. Smallberg" initials="D." surname="Smallberg">
+      <organization/>
+    </author>
     <date year="1983" month="January"/>
-    <abstract>This RFC is a survey of hosts to identify the implementation status of Telnet, FTP, and Mail on TCP.  The list of hosts was taken from the NIC hostname table of 31-Dec-82.  The tests were run on 18-Jan-83.</abstract>
+    <abstract>
+      <t>This RFC is a survey of hosts to identify the implementation status of Telnet, FTP, and Mail on TCP.  The list of hosts was taken from the NIC hostname table of 31-Dec-82.  The tests were run on 18-Jan-83.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0838"/>
+  <seriesInfo name="RFC" value="838"/>
 </reference>

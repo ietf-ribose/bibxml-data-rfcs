@@ -1,15 +1,27 @@
 <reference anchor="RFC1940" target="https://www.rfc-editor.org/info/rfc1940">
   <front>
     <title>Source Demand Routing: Packet Format and Forwarding Specification (Version 1)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1940"/>
-    <author fullname="D. Estrin"/>
-    <author fullname="T. Li"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="K. Varadhan"/>
-    <author fullname="D. Zappala"/>
+    <author fullname="D. Estrin" initials="D." surname="Estrin">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="K. Varadhan" initials="K." surname="Varadhan">
+      <organization/>
+    </author>
+    <author fullname="D. Zappala" initials="D." surname="Zappala">
+      <organization/>
+    </author>
     <date year="1996" month="May"/>
     <workgroup>sdr</workgroup>
-    <keyword>SDRP</keyword>
-    <abstract>The purpose of SDRP is to support source-initiated selection of routes to complement the route selection provided by existing routing protocols for both inter-domain and intra-domain routes.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>The purpose of SDRP is to support source-initiated selection of routes to complement the route selection provided by existing routing protocols for both inter-domain and intra-domain routes.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1940"/>
+  <seriesInfo name="RFC" value="1940"/>
 </reference>

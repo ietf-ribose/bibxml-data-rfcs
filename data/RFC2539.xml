@@ -1,16 +1,15 @@
 <reference anchor="RFC2539" target="https://www.rfc-editor.org/info/rfc2539">
   <front>
     <title>Storage of Diffie-Hellman Keys in the Domain Name System (DNS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2539"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>dnssec</workgroup>
-    <keyword>DHK-DNS</keyword>
-    <keyword>cryptology</keyword>
-    <keyword>authentication</keyword>
-    <keyword>security</keyword>
-    <keyword>signatures</keyword>
-    <keyword>digital</keyword>
-    <abstract>A standard method for storing Diffie-Hellman keys in the Domain Name System is described which utilizes DNS KEY resource records. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A standard method for storing Diffie-Hellman keys in the Domain Name System is described which utilizes DNS KEY resource records. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2539"/>
+  <seriesInfo name="RFC" value="2539"/>
 </reference>

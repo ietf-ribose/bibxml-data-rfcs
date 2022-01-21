@@ -1,14 +1,18 @@
 <reference anchor="RFC5409" target="https://www.rfc-editor.org/info/rfc5409">
   <front>
     <title>Using the Boneh-Franklin and Boneh-Boyen Identity-Based Encryption Algorithms with the Cryptographic Message Syntax (CMS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5409"/>
-    <author fullname="L. Martin"/>
-    <author fullname="M. Schertler"/>
+    <author fullname="L. Martin" initials="L." surname="Martin">
+      <organization/>
+    </author>
+    <author fullname="M. Schertler" initials="M." surname="Schertler">
+      <organization/>
+    </author>
     <date year="2009" month="January"/>
     <workgroup>smime</workgroup>
-    <keyword>bf</keyword>
-    <keyword>bbq</keyword>
-    <keyword>content-encryption keys</keyword>
-    <abstract>This document describes the conventions for using the Boneh-Franklin (BF) and Boneh-Boyen (BB1) identity-based encryption algorithms in the Cryptographic Message Syntax (CMS) to encrypt content-encryption keys.  Object identifiers and the convention for encoding a recipient's identity are also defined.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the conventions for using the Boneh-Franklin (BF) and Boneh-Boyen (BB1) identity-based encryption algorithms in the Cryptographic Message Syntax (CMS) to encrypt content-encryption keys.  Object identifiers and the convention for encoding a recipient's identity are also defined.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5409"/>
+  <seriesInfo name="RFC" value="5409"/>
 </reference>

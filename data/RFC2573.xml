@@ -1,20 +1,21 @@
 <reference anchor="RFC2573" target="https://www.rfc-editor.org/info/rfc2573">
   <front>
     <title>SNMP Applications</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2573"/>
-    <author fullname="D. Levi"/>
-    <author fullname="P. Meyer"/>
-    <author fullname="B. Stewart"/>
+    <author fullname="D. Levi" initials="D." surname="Levi">
+      <organization/>
+    </author>
+    <author fullname="P. Meyer" initials="P." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="B. Stewart" initials="B." surname="Stewart">
+      <organization/>
+    </author>
     <date year="1999" month="April"/>
     <workgroup>snmpv3</workgroup>
-    <keyword>SNMP-APP</keyword>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <keyword>protocol</keyword>
-    <keyword>proxy</keyword>
-    <keyword>operations</keyword>
-    <keyword>command</keyword>
-    <abstract>This memo describes five types of SNMP applications which make use of an SNMP engine.  This memo also defines MIB modules for specifying targets of management operations, for notification filtering, and for proxy fowarding. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes five types of SNMP applications which make use of an SNMP engine.  This memo also defines MIB modules for specifying targets of management operations, for notification filtering, and for proxy fowarding. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2573"/>
+  <seriesInfo name="RFC" value="2573"/>
 </reference>

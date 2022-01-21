@@ -1,17 +1,15 @@
 <reference anchor="RFC8498" target="https://www.rfc-editor.org/info/rfc8498">
   <front>
     <title>A P-Served-User Header Field Parameter for an Originating Call Diversion (CDIV) Session Case in the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8498"/>
-    <author fullname="M. Mohali"/>
+    <author fullname="M. Mohali" initials="M." surname="Mohali">
+      <organization/>
+    </author>
     <date year="2019" month="February"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>RFC5502</keyword>
-    <keyword>P-</keyword>
-    <keyword>3GPP</keyword>
-    <keyword>IMS</keyword>
-    <keyword>Served-User</keyword>
-    <keyword>orig-cdiv</keyword>
-    <abstract>The P-Served-User header field was defined based on a requirement from the 3rd Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) in order to convey the identity of the served user, his/ her registration state, and the session case that applies to that particular communication session and application invocation.  A session case is metadata that captures the status of the session of a served user regardless of whether or not the served user is registered or the session originates or terminates with the served user.  This document updates RFC 5502 by defining a new P-Served-User header field parameter, "orig-cdiv".  The parameter conveys the session case used by a proxy when handling an originating session after Call Diversion (CDIV) services have been invoked for the served user.  This document also fixes the ABNF in RFC 5502 and provides more guidance for using the P-Served-User header field in IP networks.</abstract>
+    <abstract>
+      <t>The P-Served-User header field was defined based on a requirement from the 3rd Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) in order to convey the identity of the served user, his/ her registration state, and the session case that applies to that particular communication session and application invocation.  A session case is metadata that captures the status of the session of a served user regardless of whether or not the served user is registered or the session originates or terminates with the served user.  This document updates RFC 5502 by defining a new P-Served-User header field parameter, "orig-cdiv".  The parameter conveys the session case used by a proxy when handling an originating session after Call Diversion (CDIV) services have been invoked for the served user.  This document also fixes the ABNF in RFC 5502 and provides more guidance for using the P-Served-User header field in IP networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8498"/>
+  <seriesInfo name="RFC" value="8498"/>
 </reference>

@@ -1,14 +1,24 @@
 <reference anchor="RFC8534" target="https://www.rfc-editor.org/info/rfc8534">
   <front>
     <title>Explicit Tracking with Wildcard Routes in Multicast VPN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8534"/>
-    <author fullname="A. Dolganow"/>
-    <author fullname="J. Kotalwar"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="Z. Zhang"/>
+    <author fullname="A. Dolganow" initials="A." surname="Dolganow">
+      <organization/>
+    </author>
+    <author fullname="J. Kotalwar" initials="J." surname="Kotalwar">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2019" month="February"/>
     <workgroup>bess</workgroup>
-    <keyword>Multicast MVPN</keyword>
-    <abstract>The base Multicast VPN (MVPN) specifications (RFCs 6513 and 6514) provide procedures to allow a multicast ingress node to invoke "explicit tracking" for a multicast flow or set of flows, thus learning the egress nodes for that flow or set of flows.  However, the specifications are not completely clear about how the explicit tracking procedures work in certain scenarios.  This document provides the necessary clarifications.  It also specifies a new, optimized explicit-tracking procedure.  This new procedure allows an ingress node, by sending a single message, to request explicit tracking of each of a set of flows, where the set of flows is specified using a wildcard mechanism.  This document updates RFCs 6514, 6625, 7524, 7582, and 7900.</abstract>
+    <abstract>
+      <t>The base Multicast VPN (MVPN) specifications (RFCs 6513 and 6514) provide procedures to allow a multicast ingress node to invoke "explicit tracking" for a multicast flow or set of flows, thus learning the egress nodes for that flow or set of flows.  However, the specifications are not completely clear about how the explicit tracking procedures work in certain scenarios.  This document provides the necessary clarifications.  It also specifies a new, optimized explicit-tracking procedure.  This new procedure allows an ingress node, by sending a single message, to request explicit tracking of each of a set of flows, where the set of flows is specified using a wildcard mechanism.  This document updates RFCs 6514, 6625, 7524, 7582, and 7900.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8534"/>
+  <seriesInfo name="RFC" value="8534"/>
 </reference>

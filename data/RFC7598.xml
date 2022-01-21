@@ -1,19 +1,36 @@
 <reference anchor="RFC7598" target="https://www.rfc-editor.org/info/rfc7598">
   <front>
     <title>DHCPv6 Options for Configuration of Softwire Address and Port-Mapped Clients</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7598"/>
-    <author fullname="T. Mrugalski"/>
-    <author fullname="O. Troan"/>
-    <author fullname="I. Farrer"/>
-    <author fullname="S. Perreault"/>
-    <author fullname="W. Dec"/>
-    <author fullname="C. Bao"/>
-    <author fullname="L. Yeh"/>
-    <author fullname="X. Deng"/>
+    <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+      <organization/>
+    </author>
+    <author fullname="O. Troan" initials="O." surname="Troan">
+      <organization/>
+    </author>
+    <author fullname="I. Farrer" initials="I." surname="Farrer">
+      <organization/>
+    </author>
+    <author fullname="S. Perreault" initials="S." surname="Perreault">
+      <organization/>
+    </author>
+    <author fullname="W. Dec" initials="W." surname="Dec">
+      <organization/>
+    </author>
+    <author fullname="C. Bao" initials="C." surname="Bao">
+      <organization/>
+    </author>
+    <author fullname="L. Yeh" initials="L." surname="Yeh">
+      <organization/>
+    </author>
+    <author fullname="X. Deng" initials="X." surname="Deng">
+      <organization/>
+    </author>
     <date year="2015" month="July"/>
     <workgroup>softwire</workgroup>
-    <keyword>MAP</keyword>
-    <keyword>DHCPv6</keyword>
-    <abstract>This document specifies DHCPv6 options, termed Softwire46 options, for the provisioning of Softwire46 Customer Edge (CE) devices.  Softwire46 is a collective term used to refer to architectures based on the notion of IPv4 Address plus Port (A+P) for providing IPv4 connectivity across an IPv6 network.</abstract>
+    <abstract>
+      <t>This document specifies DHCPv6 options, termed Softwire46 options, for the provisioning of Softwire46 Customer Edge (CE) devices.  Softwire46 is a collective term used to refer to architectures based on the notion of IPv4 Address plus Port (A+P) for providing IPv4 connectivity across an IPv6 network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7598"/>
+  <seriesInfo name="RFC" value="7598"/>
 </reference>

@@ -1,18 +1,21 @@
 <reference anchor="RFC7712" target="https://www.rfc-editor.org/info/rfc7712">
   <front>
     <title>Domain Name Associations (DNA) in the Extensible Messaging and Presence Protocol (XMPP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7712"/>
-    <author fullname="P. Saint-Andre"/>
-    <author fullname="M. Miller"/>
-    <author fullname="P. Hancke"/>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
+    <author fullname="M. Miller" initials="M." surname="Miller">
+      <organization/>
+    </author>
+    <author fullname="P. Hancke" initials="P." surname="Hancke">
+      <organization/>
+    </author>
     <date year="2015" month="November"/>
     <workgroup>xmpp</workgroup>
-    <keyword>XMPP</keyword>
-    <keyword>Extensible Messaging and Presence Protocol</keyword>
-    <keyword>Jabber</keyword>
-    <keyword>federation</keyword>
-    <keyword>delegation</keyword>
-    <keyword>security</keyword>
-    <abstract>This document improves the security of the Extensible Messaging and Presence Protocol (XMPP) in two ways.  First, it specifies how to establish a strong association between a domain name and an XML stream, using the concept of "prooftypes".  Second, it describes how to securely delegate a service domain name (e.g., example.com) to a target server hostname (e.g., hosting.example.net); this is especially important in multi-tenanted environments where the same target server hosts a large number of domains.</abstract>
+    <abstract>
+      <t>This document improves the security of the Extensible Messaging and Presence Protocol (XMPP) in two ways.  First, it specifies how to establish a strong association between a domain name and an XML stream, using the concept of "prooftypes".  Second, it describes how to securely delegate a service domain name (e.g., example.com) to a target server hostname (e.g., hosting.example.net); this is especially important in multi-tenanted environments where the same target server hosts a large number of domains.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7712"/>
+  <seriesInfo name="RFC" value="7712"/>
 </reference>

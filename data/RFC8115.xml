@@ -1,31 +1,24 @@
 <reference anchor="RFC8115" target="https://www.rfc-editor.org/info/rfc8115">
   <front>
     <title>DHCPv6 Option for IPv4-Embedded Multicast and Unicast IPv6 Prefixes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8115"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="J. Qin"/>
-    <author fullname="T. Tsou"/>
-    <author fullname="X. Deng"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="J. Qin" initials="J." surname="Qin">
+      <organization/>
+    </author>
+    <author fullname="T. Tsou" initials="T." surname="Tsou">
+      <organization/>
+    </author>
+    <author fullname="X. Deng" initials="X." surname="Deng">
+      <organization/>
+    </author>
     <date year="2017" month="March"/>
     <workgroup>softwire</workgroup>
-    <keyword>PREFIX64</keyword>
-    <keyword>SSM</keyword>
-    <keyword>ASM</keyword>
-    <keyword>Prefix Discovery</keyword>
-    <keyword>IPv4-Converted IPv6 Addresses</keyword>
-    <keyword>IPv4 service continuity</keyword>
-    <keyword>IPv6 Address Synthesis</keyword>
-    <keyword>Any-Source Multicast</keyword>
-    <keyword>Source-Specific Multicast</keyword>
-    <keyword>PIM</keyword>
-    <keyword>IPv4-IPv6 interconnection</keyword>
-    <keyword>IPv4  over IPv6</keyword>
-    <keyword>A+P</keyword>
-    <keyword>MAP</keyword>
-    <keyword>MAP-E</keyword>
-    <keyword>address-sharing</keyword>
-    <keyword>CGN</keyword>
-    <keyword>NAT64</keyword>
-    <abstract>This document defines a Dynamic Host Configuration Protocol version 6 (DHCPv6) Option for multicast IPv4 service continuity solutions, which is used to carry the IPv6 prefixes to be used to build unicast and multicast IPv4-embedded IPv6 addresses.</abstract>
+    <abstract>
+      <t>This document defines a Dynamic Host Configuration Protocol version 6 (DHCPv6) Option for multicast IPv4 service continuity solutions, which is used to carry the IPv6 prefixes to be used to build unicast and multicast IPv4-embedded IPv6 addresses.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8115"/>
+  <seriesInfo name="RFC" value="8115"/>
 </reference>

@@ -1,14 +1,15 @@
 <reference anchor="RFC2485" target="https://www.rfc-editor.org/info/rfc2485">
   <front>
     <title>DHCP Option for The Open Group's User Authentication Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2485"/>
-    <author fullname="S. Drach"/>
+    <author fullname="S. Drach" initials="S." surname="Drach">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
     <workgroup>dhc</workgroup>
-    <keyword>dynamic</keyword>
-    <keyword>host</keyword>
-    <keyword>configuration</keyword>
-    <keyword>UAP</keyword>
-    <abstract>This document defines a DHCP option that contains a list of pointers to User Authentication Protocol servers that provide user authentication services for clients that conform to The Open Group Network Computing Client Technical Standard. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a DHCP option that contains a list of pointers to User Authentication Protocol servers that provide user authentication services for clients that conform to The Open Group Network Computing Client Technical Standard. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2485"/>
+  <seriesInfo name="RFC" value="2485"/>
 </reference>

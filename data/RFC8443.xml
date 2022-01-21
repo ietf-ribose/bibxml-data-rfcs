@@ -1,20 +1,24 @@
 <reference anchor="RFC8443" target="https://www.rfc-editor.org/info/rfc8443">
   <front>
     <title>Personal Assertion Token (PASSporT) Extension for Resource Priority Authorization</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8443"/>
-    <author fullname="R. Singh"/>
-    <author fullname="M. Dolly"/>
-    <author fullname="S. Das"/>
-    <author fullname="A. Nguyen"/>
+    <author fullname="R. Singh" initials="R." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="M. Dolly" initials="M." surname="Dolly">
+      <organization/>
+    </author>
+    <author fullname="S. Das" initials="S." surname="Das">
+      <organization/>
+    </author>
+    <author fullname="A. Nguyen" initials="A." surname="Nguyen">
+      <organization/>
+    </author>
     <date year="2018" month="August"/>
     <workgroup>stir</workgroup>
-    <keyword>SIP Resource-Priority</keyword>
-    <keyword>Resource Priority Header (rph)</keyword>
-    <keyword>JSON Web Token Claim</keyword>
-    <keyword>Identity header</keyword>
-    <keyword>Authentication Service</keyword>
-    <keyword>Assertion</keyword>
-    <keyword>Verification Service</keyword>
-    <abstract>This document extends the Personal Assertion Token (PASSporT) specification defined in RFC 8225 to allow the inclusion of cryptographically signed assertions of authorization for the values populated in the Session Initiation Protocol (SIP) 'Resource-Priority' header field, which is used for communications resource prioritization.</abstract>
+    <abstract>
+      <t>This document extends the Personal Assertion Token (PASSporT) specification defined in RFC 8225 to allow the inclusion of cryptographically signed assertions of authorization for the values populated in the Session Initiation Protocol (SIP) 'Resource-Priority' header field, which is used for communications resource prioritization.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8443"/>
+  <seriesInfo name="RFC" value="8443"/>
 </reference>

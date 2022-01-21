@@ -1,13 +1,14 @@
 <reference anchor="RFC2480" target="https://www.rfc-editor.org/info/rfc2480">
   <front>
     <title>Gateways and MIME Security Multiparts</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2480"/>
-    <author fullname="N. Freed"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
     <date year="1999" month="January"/>
-    <keyword>mutltipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document examines the problems associated with use of MIME security multiparts and gateways to non-MIME environments. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document examines the problems associated with use of MIME security multiparts and gateways to non-MIME environments. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2480"/>
+  <seriesInfo name="RFC" value="2480"/>
 </reference>

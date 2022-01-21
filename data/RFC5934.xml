@@ -1,14 +1,21 @@
 <reference anchor="RFC5934" target="https://www.rfc-editor.org/info/rfc5934">
   <front>
     <title>Trust Anchor Management Protocol (TAMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5934"/>
-    <author fullname="R. Housley"/>
-    <author fullname="S. Ashmore"/>
-    <author fullname="C. Wallace"/>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="S. Ashmore" initials="S." surname="Ashmore">
+      <organization/>
+    </author>
+    <author fullname="C. Wallace" initials="C." surname="Wallace">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>pkix</workgroup>
-    <keyword>trust anchors</keyword>
-    <keyword>TA</keyword>
-    <abstract>This document describes a transport independent protocol for the management of trust anchors (TAs) and community identifiers stored in a trust anchor store.  The protocol makes use of the Cryptographic Message Syntax (CMS), and a digital signature is used to provide integrity protection and data origin authentication.  The protocol can be used to manage trust anchor stores containing trust anchors represented as Certificate, TBSCertificate, or TrustAnchorInfo objects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a transport independent protocol for the management of trust anchors (TAs) and community identifiers stored in a trust anchor store.  The protocol makes use of the Cryptographic Message Syntax (CMS), and a digital signature is used to provide integrity protection and data origin authentication.  The protocol can be used to manage trust anchor stores containing trust anchors represented as Certificate, TBSCertificate, or TrustAnchorInfo objects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5934"/>
+  <seriesInfo name="RFC" value="5934"/>
 </reference>

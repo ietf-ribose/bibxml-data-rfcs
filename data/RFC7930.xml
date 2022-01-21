@@ -1,11 +1,15 @@
 <reference anchor="RFC7930" target="https://www.rfc-editor.org/info/rfc7930">
   <front>
     <title>Larger Packets for RADIUS over TCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7930"/>
-    <author fullname="S. Hartman"/>
+    <author fullname="S. Hartman" initials="S." surname="Hartman">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>radext</workgroup>
-    <keyword>ABFAB</keyword>
-    <abstract>The RADIUS-over-TLS experiment described in RFC 6614 has opened RADIUS to new use cases where the 4096-octet maximum size limit of a RADIUS packet proves problematic.  This specification extends the RADIUS-over-TCP experiment (RFC 6613) to permit larger RADIUS packets.  This specification compliments other ongoing work to permit fragmentation of RADIUS authorization information.  This document registers a new RADIUS code, an action that required IESG approval.</abstract>
+    <abstract>
+      <t>The RADIUS-over-TLS experiment described in RFC 6614 has opened RADIUS to new use cases where the 4096-octet maximum size limit of a RADIUS packet proves problematic.  This specification extends the RADIUS-over-TCP experiment (RFC 6613) to permit larger RADIUS packets.  This specification compliments other ongoing work to permit fragmentation of RADIUS authorization information.  This document registers a new RADIUS code, an action that required IESG approval.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7930"/>
+  <seriesInfo name="RFC" value="7930"/>
 </reference>

@@ -1,15 +1,14 @@
 <reference anchor="RFC3045" target="https://www.rfc-editor.org/info/rfc3045">
   <front>
     <title>Storing Vendor Information in the LDAP root DSE</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3045"/>
-    <author fullname="M. Meredith"/>
+    <author fullname="M. Meredith" initials="M." surname="Meredith">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
-    <keyword>lightweight</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>protocol</keyword>
-    <keyword>DSA-specific</keyword>
-    <keyword>entry</keyword>
-    <abstract>This document specifies two Lightweight Directory Access Protocol (LDAP) attributes, vendorName and vendorVersion that MAY be included in the root DSA-specific Entry (DSE) to advertise vendor-specific information.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies two Lightweight Directory Access Protocol (LDAP) attributes, vendorName and vendorVersion that MAY be included in the root DSA-specific Entry (DSE) to advertise vendor-specific information.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3045"/>
+  <seriesInfo name="RFC" value="3045"/>
 </reference>

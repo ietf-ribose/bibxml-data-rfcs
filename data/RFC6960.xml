@@ -1,18 +1,30 @@
 <reference anchor="RFC6960" target="https://www.rfc-editor.org/info/rfc6960">
   <front>
     <title>X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6960"/>
-    <author fullname="S. Santesson"/>
-    <author fullname="M. Myers"/>
-    <author fullname="R. Ankney"/>
-    <author fullname="A. Malpani"/>
-    <author fullname="S. Galperin"/>
-    <author fullname="C. Adams"/>
+    <author fullname="S. Santesson" initials="S." surname="Santesson">
+      <organization/>
+    </author>
+    <author fullname="M. Myers" initials="M." surname="Myers">
+      <organization/>
+    </author>
+    <author fullname="R. Ankney" initials="R." surname="Ankney">
+      <organization/>
+    </author>
+    <author fullname="A. Malpani" initials="A." surname="Malpani">
+      <organization/>
+    </author>
+    <author fullname="S. Galperin" initials="S." surname="Galperin">
+      <organization/>
+    </author>
+    <author fullname="C. Adams" initials="C." surname="Adams">
+      <organization/>
+    </author>
     <date year="2013" month="June"/>
     <workgroup>pkix</workgroup>
-    <keyword>PKIX</keyword>
-    <keyword>digital security</keyword>
-    <keyword>ocsp</keyword>
-    <abstract>This document specifies a protocol useful in determining the current status of a digital certificate without requiring Certificate Revocation Lists (CRLs).  Additional mechanisms addressing PKIX operational requirements are specified in separate documents.  This document obsoletes RFCs 2560 and 6277.  It also updates RFC 5912.</abstract>
+    <abstract>
+      <t>This document specifies a protocol useful in determining the current status of a digital certificate without requiring Certificate Revocation Lists (CRLs).  Additional mechanisms addressing PKIX operational requirements are specified in separate documents.  This document obsoletes RFCs 2560 and 6277.  It also updates RFC 5912.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6960"/>
+  <seriesInfo name="RFC" value="6960"/>
 </reference>

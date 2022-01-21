@@ -1,15 +1,21 @@
 <reference anchor="RFC5918" target="https://www.rfc-editor.org/info/rfc5918">
   <front>
     <title>Label Distribution Protocol (LDP) 'Typed Wildcard' Forward Equivalence Class (FEC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5918"/>
-    <author fullname="R. Asati"/>
-    <author fullname="I. Minei"/>
-    <author fullname="B. Thomas"/>
+    <author fullname="R. Asati" initials="R." surname="Asati">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="B. Thomas" initials="B." surname="Thomas">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>mpls</workgroup>
-    <keyword>Wildcard</keyword>
-    <keyword>Typed Wildcard FEC Element</keyword>
-    <keyword>Typed Wildcard FEC Capability</keyword>
-    <abstract>The Label Distribution Protocol (LDP) specification for the Wildcard Forward Equivalence Class (FEC) element has several limitations.  This document addresses those limitations by defining a Typed Wildcard FEC Element and associated procedures.  In addition, it defines a new LDP capability to address backward compatibility. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Label Distribution Protocol (LDP) specification for the Wildcard Forward Equivalence Class (FEC) element has several limitations.  This document addresses those limitations by defining a Typed Wildcard FEC Element and associated procedures.  In addition, it defines a new LDP capability to address backward compatibility. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5918"/>
+  <seriesInfo name="RFC" value="5918"/>
 </reference>

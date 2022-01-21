@@ -1,10 +1,15 @@
 <reference anchor="RFC3729" target="https://www.rfc-editor.org/info/rfc3729">
   <front>
     <title>Application Performance Measurement MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3729"/>
-    <author fullname="S. Waldbusser"/>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
     <date year="2004" month="March"/>
     <workgroup>rmonmib</workgroup>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for measuring the application performance as experienced by end-users. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for measuring the application performance as experienced by end-users. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3729"/>
+  <seriesInfo name="RFC" value="3729"/>
 </reference>

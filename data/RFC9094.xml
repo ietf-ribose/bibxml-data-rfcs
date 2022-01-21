@@ -1,14 +1,27 @@
 <reference anchor="RFC9094" target="https://www.rfc-editor.org/info/rfc9094">
   <front>
     <title>A YANG Data Model for Wavelength Switched Optical Networks (WSONs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9094"/>
-    <author fullname="H. Zheng"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="A. Guo"/>
-    <author fullname="V. Lopez"/>
-    <author fullname="D. King"/>
+    <author fullname="H. Zheng" initials="H." surname="Zheng">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="A. Guo" initials="A." surname="Guo">
+      <organization/>
+    </author>
+    <author fullname="V. Lopez" initials="V." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
     <date year="2021" month="August"/>
     <workgroup>ccamp</workgroup>
-    <abstract>This document provides a YANG data model for the routing and wavelength assignment (RWA) TE topology in Wavelength Switched Optical Networks (WSONs).  The YANG data model defined in this document conforms to the Network Management Datastore Architecture (NMDA).</abstract>
+    <abstract>
+      <t>This document provides a YANG data model for the routing and wavelength assignment (RWA) TE topology in Wavelength Switched Optical Networks (WSONs).  The YANG data model defined in this document conforms to the Network Management Datastore Architecture (NMDA).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9094"/>
+  <seriesInfo name="RFC" value="9094"/>
 </reference>

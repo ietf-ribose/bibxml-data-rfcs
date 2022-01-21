@@ -1,21 +1,33 @@
 <reference anchor="RFC2617" target="https://www.rfc-editor.org/info/rfc2617">
   <front>
     <title>HTTP Authentication: Basic and Digest Access Authentication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2617"/>
-    <author fullname="J. Franks"/>
-    <author fullname="P. Hallam-Baker"/>
-    <author fullname="J. Hostetler"/>
-    <author fullname="S. Lawrence"/>
-    <author fullname="P. Leach"/>
-    <author fullname="A. Luotonen"/>
-    <author fullname="L. Stewart"/>
+    <author fullname="J. Franks" initials="J." surname="Franks">
+      <organization/>
+    </author>
+    <author fullname="P. Hallam-Baker" initials="P." surname="Hallam-Baker">
+      <organization/>
+    </author>
+    <author fullname="J. Hostetler" initials="J." surname="Hostetler">
+      <organization/>
+    </author>
+    <author fullname="S. Lawrence" initials="S." surname="Lawrence">
+      <organization/>
+    </author>
+    <author fullname="P. Leach" initials="P." surname="Leach">
+      <organization/>
+    </author>
+    <author fullname="A. Luotonen" initials="A." surname="Luotonen">
+      <organization/>
+    </author>
+    <author fullname="L. Stewart" initials="L." surname="Stewart">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>http</workgroup>
-    <keyword>security</keyword>
-    <keyword>encryption</keyword>
-    <keyword>hypertext</keyword>
-    <keyword>transfer</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document provides the specification for HTTP's authentication framework, the original Basic authentication scheme and a scheme based on cryptographic hashes, referred to as "Digest Access Authentication". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document provides the specification for HTTP's authentication framework, the original Basic authentication scheme and a scheme based on cryptographic hashes, referred to as "Digest Access Authentication". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2617"/>
+  <seriesInfo name="RFC" value="2617"/>
 </reference>

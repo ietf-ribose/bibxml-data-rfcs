@@ -1,12 +1,18 @@
 <reference anchor="RFC3811" target="https://www.rfc-editor.org/info/rfc3811">
   <front>
     <title>Definitions of Textual Conventions (TCs) for Multiprotocol Label Switching (MPLS) Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3811"/>
-    <author fullname="T. Nadeau"/>
-    <author fullname="J. Cucchiara"/>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
+    <author fullname="J. Cucchiara" initials="J." surname="Cucchiara">
+      <organization/>
+    </author>
     <date year="2004" month="June"/>
     <workgroup>mpls</workgroup>
-    <keyword>management information base</keyword>
-    <abstract>This memo defines a Management Information Base (MIB) module which contains Textual Conventions to represent commonly used Multiprotocol Label Switching (MPLS) management information.  The intent is that these TEXTUAL CONVENTIONS (TCs) will be imported and used in MPLS related MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a Management Information Base (MIB) module which contains Textual Conventions to represent commonly used Multiprotocol Label Switching (MPLS) management information.  The intent is that these TEXTUAL CONVENTIONS (TCs) will be imported and used in MPLS related MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3811"/>
+  <seriesInfo name="RFC" value="3811"/>
 </reference>

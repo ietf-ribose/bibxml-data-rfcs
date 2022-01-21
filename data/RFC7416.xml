@@ -1,18 +1,30 @@
 <reference anchor="RFC7416" target="https://www.rfc-editor.org/info/rfc7416">
   <front>
     <title>A Security Threat Analysis for the Routing Protocol for Low-Power and Lossy Networks (RPLs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7416"/>
-    <author fullname="T. Tsao"/>
-    <author fullname="R. Alexander"/>
-    <author fullname="M. Dohler"/>
-    <author fullname="V. Daza"/>
-    <author fullname="A. Lozano"/>
-    <author fullname="M. Richardson"/>
+    <author fullname="T. Tsao" initials="T." surname="Tsao">
+      <organization/>
+    </author>
+    <author fullname="R. Alexander" initials="R." surname="Alexander">
+      <organization/>
+    </author>
+    <author fullname="M. Dohler" initials="M." surname="Dohler">
+      <organization/>
+    </author>
+    <author fullname="V. Daza" initials="V." surname="Daza">
+      <organization/>
+    </author>
+    <author fullname="A. Lozano" initials="A." surname="Lozano">
+      <organization/>
+    </author>
+    <author fullname="M. Richardson" initials="M." surname="Richardson">
+      <organization/>
+    </author>
     <date year="2015" month="January"/>
     <workgroup>roll</workgroup>
-    <keyword>LLN</keyword>
-    <keyword>ROLL</keyword>
-    <keyword>security</keyword>
-    <abstract>This document presents a security threat analysis for the Routing Protocol for Low-Power and Lossy Networks (RPLs).  The development builds upon previous work on routing security and adapts the assessments to the issues and constraints specific to low-power and lossy networks.  A systematic approach is used in defining and evaluating the security threats.  Applicable countermeasures are application specific and are addressed in relevant applicability statements.</abstract>
+    <abstract>
+      <t>This document presents a security threat analysis for the Routing Protocol for Low-Power and Lossy Networks (RPLs).  The development builds upon previous work on routing security and adapts the assessments to the issues and constraints specific to low-power and lossy networks.  A systematic approach is used in defining and evaluating the security threats.  Applicable countermeasures are application specific and are addressed in relevant applicability statements.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7416"/>
+  <seriesInfo name="RFC" value="7416"/>
 </reference>

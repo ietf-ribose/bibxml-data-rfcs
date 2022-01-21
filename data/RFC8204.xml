@@ -1,12 +1,21 @@
 <reference anchor="RFC8204" target="https://www.rfc-editor.org/info/rfc8204">
   <front>
     <title>Benchmarking Virtual Switches in the Open Platform for NFV (OPNFV)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8204"/>
-    <author fullname="M. Tahhan"/>
-    <author fullname="B. O'Mahony"/>
-    <author fullname="A. Morton"/>
+    <author fullname="M. Tahhan" initials="M." surname="Tahhan">
+      <organization/>
+    </author>
+    <author fullname="B. O'Mahony" initials="B." surname="O'Mahony">
+      <organization/>
+    </author>
+    <author fullname="A. Morton" initials="A." surname="Morton">
+      <organization/>
+    </author>
     <date year="2017" month="September"/>
     <workgroup>bmwg</workgroup>
-    <abstract>This memo describes the contributions of the Open Platform for NFV (OPNFV) project on Virtual Switch Performance (VSPERF), particularly in the areas of test setups and configuration parameters for the system under test.  This project has extended the current and completed work of the Benchmarking Methodology Working Group in the IETF and references existing literature.  The Benchmarking Methodology Working Group has traditionally conducted laboratory characterization of dedicated physical implementations of internetworking functions.  Therefore, this memo describes the additional considerations when virtual switches are implemented on general-purpose hardware.  The expanded tests and benchmarks are also influenced by the OPNFV mission to support virtualization of the "telco" infrastructure.</abstract>
+    <abstract>
+      <t>This memo describes the contributions of the Open Platform for NFV (OPNFV) project on Virtual Switch Performance (VSPERF), particularly in the areas of test setups and configuration parameters for the system under test.  This project has extended the current and completed work of the Benchmarking Methodology Working Group in the IETF and references existing literature.  The Benchmarking Methodology Working Group has traditionally conducted laboratory characterization of dedicated physical implementations of internetworking functions.  Therefore, this memo describes the additional considerations when virtual switches are implemented on general-purpose hardware.  The expanded tests and benchmarks are also influenced by the OPNFV mission to support virtualization of the "telco" infrastructure.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8204"/>
+  <seriesInfo name="RFC" value="8204"/>
 </reference>

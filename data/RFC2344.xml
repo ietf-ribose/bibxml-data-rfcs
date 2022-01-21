@@ -1,20 +1,15 @@
 <reference anchor="RFC2344" target="https://www.rfc-editor.org/info/rfc2344">
   <front>
     <title>Reverse Tunneling for Mobile IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2344"/>
-    <author fullname="G. Montenegro"/>
+    <author fullname="G. Montenegro" initials="G." surname="Montenegro">
+      <organization/>
+    </author>
     <date year="1998" month="May"/>
     <workgroup>mobileip</workgroup>
-    <keyword>MOBILIPREV</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>extensions</keyword>
-    <keyword>home</keyword>
-    <keyword>foreign</keyword>
-    <keyword>agent</keyword>
-    <keyword>encapsulating</keyword>
-    <keyword>delivery</keyword>
-    <keyword>style</keyword>
-    <abstract>This document proposes backwards-compatible extensions to Mobile IP in order to support topologically correct reverse tunnels. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes backwards-compatible extensions to Mobile IP in order to support topologically correct reverse tunnels. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2344"/>
+  <seriesInfo name="RFC" value="2344"/>
 </reference>

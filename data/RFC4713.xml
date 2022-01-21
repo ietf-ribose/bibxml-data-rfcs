@@ -1,18 +1,26 @@
 <reference anchor="RFC4713" target="https://www.rfc-editor.org/info/rfc4713">
   <front>
     <title>Registration and Administration Recommendations for Chinese Domain Names</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4713"/>
-    <author fullname="X. Lee"/>
-    <author fullname="W. Mao"/>
-    <author fullname="E. Chen"/>
-    <author fullname="N. Hsu"/>
-    <author fullname="J. Klensin"/>
+    <author fullname="X. Lee" initials="X." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="W. Mao" initials="W." surname="Mao">
+      <organization/>
+    </author>
+    <author fullname="E. Chen" initials="E." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="N. Hsu" initials="N." surname="Hsu">
+      <organization/>
+    </author>
+    <author fullname="J. Klensin" initials="J." surname="Klensin">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
-    <keyword>cdn</keyword>
-    <keyword>sc</keyword>
-    <keyword>simplified chinese</keyword>
-    <keyword>tc</keyword>
-    <keyword>traditional chinese</keyword>
-    <abstract>Many Chinese characters in common use have variants, which makes most of the Chinese Domain Names (CDNs) have at least two different forms.  The equivalence between Simplified Chinese (SC) and Traditional Chinese (TC) characters is very important for CDN registration.  This memo builds on the basic concepts, general guidelines, and framework of RFC 3743 to specify proposed registration and administration procedures for Chinese domain names.  The document provides the information needed for understanding and using the tables defined in the IANA table registrations for Simplified and Traditional Chinese.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Many Chinese characters in common use have variants, which makes most of the Chinese Domain Names (CDNs) have at least two different forms.  The equivalence between Simplified Chinese (SC) and Traditional Chinese (TC) characters is very important for CDN registration.  This memo builds on the basic concepts, general guidelines, and framework of RFC 3743 to specify proposed registration and administration procedures for Chinese domain names.  The document provides the information needed for understanding and using the tables defined in the IANA table registrations for Simplified and Traditional Chinese.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4713"/>
+  <seriesInfo name="RFC" value="4713"/>
 </reference>

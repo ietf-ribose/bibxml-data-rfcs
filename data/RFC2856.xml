@@ -1,16 +1,20 @@
 <reference anchor="RFC2856" target="https://www.rfc-editor.org/info/rfc2856">
   <front>
     <title>Textual Conventions for Additional High Capacity Data Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2856"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="R. Presuhn"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="R. Presuhn" initials="R." surname="Presuhn">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
-    <keyword>SNMP</keyword>
-    <keyword>simple</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This memo specifies new textual conventions for additional high capacity data types, intended for SNMP implementations which already support the Counter64 data type. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies new textual conventions for additional high capacity data types, intended for SNMP implementations which already support the Counter64 data type. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2856"/>
+  <seriesInfo name="RFC" value="2856"/>
 </reference>

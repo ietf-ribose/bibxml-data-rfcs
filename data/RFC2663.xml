@@ -1,16 +1,18 @@
 <reference anchor="RFC2663" target="https://www.rfc-editor.org/info/rfc2663">
   <front>
     <title>IP Network Address Translator (NAT) Terminology and Considerations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2663"/>
-    <author fullname="P. Srisuresh"/>
-    <author fullname="M. Holdrege"/>
+    <author fullname="P. Srisuresh" initials="P." surname="Srisuresh">
+      <organization/>
+    </author>
+    <author fullname="M. Holdrege" initials="M." surname="Holdrege">
+      <organization/>
+    </author>
     <date year="1999" month="August"/>
     <workgroup>nat</workgroup>
-    <keyword>network address</keyword>
-    <keyword>translator</keyword>
-    <keyword>IP</keyword>
-    <keyword>internet protocol</keyword>
-    <keyword>addresses</keyword>
-    <abstract>This document attempts to describe the operation of NAT devices and the associated considerations in general, and to define the terminology used to identify various flavors of NAT.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document attempts to describe the operation of NAT devices and the associated considerations in general, and to define the terminology used to identify various flavors of NAT.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2663"/>
+  <seriesInfo name="RFC" value="2663"/>
 </reference>

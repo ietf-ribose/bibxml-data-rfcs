@@ -1,12 +1,21 @@
 <reference anchor="RFC1231" target="https://www.rfc-editor.org/info/rfc1231">
   <front>
     <title>IEEE 802.5 Token Ring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1231"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="R. Fox"/>
-    <author fullname="E. Decker"/>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="R. Fox" initials="R." surname="Fox">
+      <organization/>
+    </author>
+    <author fullname="E. Decker" initials="E." surname="Decker">
+      <organization/>
+    </author>
     <date year="1991" month="May"/>
     <workgroup>snmp</workgroup>
-    <abstract>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for managing subnetworks which use the IEEE 802.5 Token Ring technology described in 802.5 Token Ring Access Method and Physical Layer Specifications, IEEE Standard 802.5-1989. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for managing subnetworks which use the IEEE 802.5 Token Ring technology described in 802.5 Token Ring Access Method and Physical Layer Specifications, IEEE Standard 802.5-1989. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1231"/>
+  <seriesInfo name="RFC" value="1231"/>
 </reference>

@@ -1,33 +1,18 @@
 <reference anchor="RFC4301" target="https://www.rfc-editor.org/info/rfc4301">
   <front>
     <title>Security Architecture for the Internet Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4301"/>
-    <author fullname="S. Kent"/>
-    <author fullname="K. Seo"/>
+    <author fullname="S. Kent" initials="S." surname="Kent">
+      <organization/>
+    </author>
+    <author fullname="K. Seo" initials="K." surname="Seo">
+      <organization/>
+    </author>
     <date year="2005" month="December"/>
     <workgroup>ipsec</workgroup>
-    <keyword>IPSEC</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>authentication</keyword>
-    <keyword>encapsulation</keyword>
-    <keyword>IP</keyword>
-    <keyword>IPv4</keyword>
-    <keyword>IPv6</keyword>
-    <keyword>IP-layer</keyword>
-    <keyword>ip authentication header</keyword>
-    <keyword>ip security</keyword>
-    <keyword>IPsec</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>authentication integrity</keyword>
-    <keyword>anti-replay</keyword>
-    <keyword>ah</keyword>
-    <keyword>esp</keyword>
-    <keyword>encapsulating security payload</keyword>
-    <keyword>ike</keyword>
-    <keyword>internet key exchange</keyword>
-    <keyword>ikev2</keyword>
-    <keyword>esn</keyword>
-    <keyword>extended sequence number</keyword>
-    <abstract>This document describes an updated version of the "Security Architecture for IP", which is designed to provide security services for traffic at the IP layer.  This document obsoletes RFC 2401 (November 1998). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an updated version of the "Security Architecture for IP", which is designed to provide security services for traffic at the IP layer.  This document obsoletes RFC 2401 (November 1998). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4301"/>
+  <seriesInfo name="RFC" value="4301"/>
 </reference>

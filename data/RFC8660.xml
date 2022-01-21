@@ -1,17 +1,30 @@
 <reference anchor="RFC8660" target="https://www.rfc-editor.org/info/rfc8660">
   <front>
     <title>Segment Routing with the MPLS Data Plane</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8660"/>
-    <author fullname="A. Bashandy"/>
-    <author fullname="C. Filsfils"/>
-    <author fullname="S. Previdi"/>
-    <author fullname="B. Decraene"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="R. Shakir"/>
+    <author fullname="A. Bashandy" initials="A." surname="Bashandy">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="R. Shakir" initials="R." surname="Shakir">
+      <organization/>
+    </author>
     <date year="2019" month="December"/>
     <workgroup>spring</workgroup>
-    <keyword>SR</keyword>
-    <keyword>SR-MPLS</keyword>
-    <abstract>Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through a controlled set of instructions, called segments, by prepending the packet with an SR header.  In the MPLS data plane, the SR header is instantiated through a label stack.  This document specifies the forwarding behavior to allow instantiating SR over the MPLS data plane (SR-MPLS).</abstract>
+    <abstract>
+      <t>Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through a controlled set of instructions, called segments, by prepending the packet with an SR header.  In the MPLS data plane, the SR header is instantiated through a label stack.  This document specifies the forwarding behavior to allow instantiating SR over the MPLS data plane (SR-MPLS).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8660"/>
+  <seriesInfo name="RFC" value="8660"/>
 </reference>

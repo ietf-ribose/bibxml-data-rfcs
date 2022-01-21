@@ -1,11 +1,18 @@
 <reference anchor="RFC6406" target="https://www.rfc-editor.org/info/rfc6406">
   <front>
     <title>Session PEERing for Multimedia INTerconnect (SPEERMINT) Architecture</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6406"/>
-    <author fullname="D. Malas"/>
-    <author fullname="J. Livingood"/>
+    <author fullname="D. Malas" initials="D." surname="Malas">
+      <organization/>
+    </author>
+    <author fullname="J. Livingood" initials="J." surname="Livingood">
+      <organization/>
+    </author>
     <date year="2011" month="November"/>
     <workgroup>speermint</workgroup>
-    <abstract>This document defines a peering architecture for the Session Initiation Protocol (SIP) and its functional components and interfaces.  It also describes the components and the steps necessary to establish a session between two SIP Service Provider (SSP) peering domains.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document defines a peering architecture for the Session Initiation Protocol (SIP) and its functional components and interfaces.  It also describes the components and the steps necessary to establish a session between two SIP Service Provider (SSP) peering domains.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6406"/>
+  <seriesInfo name="RFC" value="6406"/>
 </reference>

@@ -1,19 +1,21 @@
 <reference anchor="RFC2326" target="https://www.rfc-editor.org/info/rfc2326">
   <front>
     <title>Real Time Streaming Protocol (RTSP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2326"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="A. Rao"/>
-    <author fullname="R. Lanphier"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="A. Rao" initials="A." surname="Rao">
+      <organization/>
+    </author>
+    <author fullname="R. Lanphier" initials="R." surname="Lanphier">
+      <organization/>
+    </author>
     <date year="1998" month="April"/>
     <workgroup>mmusic</workgroup>
-    <keyword>RTSP</keyword>
-    <keyword>audio</keyword>
-    <keyword>video</keyword>
-    <keyword>data</keyword>
-    <keyword>delivery</keyword>
-    <keyword>application</keyword>
-    <keyword>level,</keyword>
-    <abstract>The Real Time Streaming Protocol, or RTSP, is an application-level protocol for control over the delivery of data with real-time properties.  RTSP provides an extensible framework to enable controlled, on-demand delivery of real-time data, such as audio and video. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Real Time Streaming Protocol, or RTSP, is an application-level protocol for control over the delivery of data with real-time properties.  RTSP provides an extensible framework to enable controlled, on-demand delivery of real-time data, such as audio and video. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2326"/>
+  <seriesInfo name="RFC" value="2326"/>
 </reference>

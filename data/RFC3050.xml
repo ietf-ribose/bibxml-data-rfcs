@@ -1,14 +1,20 @@
 <reference anchor="RFC3050" target="https://www.rfc-editor.org/info/rfc3050">
   <front>
     <title>Common Gateway Interface for SIP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3050"/>
-    <author fullname="J. Lennox"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="J. Lennox" initials="J." surname="Lennox">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="2001" month="January"/>
-    <keyword>session</keyword>
-    <keyword>initiation</keyword>
-    <keyword>protocol</keyword>
-    <abstract>This document defines a SIP CGI interface for providing SIP services on a SIP server.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines a SIP CGI interface for providing SIP services on a SIP server.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3050"/>
+  <seriesInfo name="RFC" value="3050"/>
 </reference>

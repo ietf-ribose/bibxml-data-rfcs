@@ -1,13 +1,24 @@
 <reference anchor="RFC7724" target="https://www.rfc-editor.org/info/rfc7724">
   <front>
     <title>Active DHCPv4 Lease Query</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7724"/>
-    <author fullname="K. Kinnear"/>
-    <author fullname="M. Stapp"/>
-    <author fullname="B. Volz"/>
-    <author fullname="N. Russell"/>
+    <author fullname="K. Kinnear" initials="K." surname="Kinnear">
+      <organization/>
+    </author>
+    <author fullname="M. Stapp" initials="M." surname="Stapp">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
+    <author fullname="N. Russell" initials="N." surname="Russell">
+      <organization/>
+    </author>
     <date year="2015" month="December"/>
     <workgroup>dhc</workgroup>
-    <abstract>The Dynamic Host Configuration Protocol for IPv4 (DHCPv4) has been extended with a Leasequery capability that allows a requestor to request information about DHCPv4 bindings (RFC 4388).  That mechanism is limited to queries for individual bindings.  In some situations, individual binding queries may not be efficient, or even possible.  In addition, continuous update of an external requestor with Leasequery data is sometimes desired.  This document expands on the DHCPv4 Leasequery protocol, and allows for active transfer of near real-time DHCPv4 binding information data via TCP.  This document updates RFC 6926, "DHCPv4 Bulk Leasequery".</abstract>
+    <abstract>
+      <t>The Dynamic Host Configuration Protocol for IPv4 (DHCPv4) has been extended with a Leasequery capability that allows a requestor to request information about DHCPv4 bindings (RFC 4388).  That mechanism is limited to queries for individual bindings.  In some situations, individual binding queries may not be efficient, or even possible.  In addition, continuous update of an external requestor with Leasequery data is sometimes desired.  This document expands on the DHCPv4 Leasequery protocol, and allows for active transfer of near real-time DHCPv4 binding information data via TCP.  This document updates RFC 6926, "DHCPv4 Bulk Leasequery".</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7724"/>
+  <seriesInfo name="RFC" value="7724"/>
 </reference>

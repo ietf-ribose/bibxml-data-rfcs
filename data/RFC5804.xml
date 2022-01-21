@@ -1,12 +1,18 @@
 <reference anchor="RFC5804" target="https://www.rfc-editor.org/info/rfc5804">
   <front>
     <title>A Protocol for Remotely Managing Sieve Scripts</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5804"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="T. Martin"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="T. Martin" initials="T." surname="Martin">
+      <organization/>
+    </author>
     <date year="2010" month="July"/>
     <workgroup>sieve</workgroup>
-    <keyword>managesieve</keyword>
-    <abstract>Sieve scripts allow users to filter incoming email.  Message stores are commonly sealed servers so users cannot log into them, yet users must be able to update their scripts on them.  This document describes a protocol "ManageSieve" for securely managing Sieve scripts on a remote server.  This protocol allows a user to have multiple scripts, and also alerts a user to syntactically flawed scripts. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>Sieve scripts allow users to filter incoming email.  Message stores are commonly sealed servers so users cannot log into them, yet users must be able to update their scripts on them.  This document describes a protocol "ManageSieve" for securely managing Sieve scripts on a remote server.  This protocol allows a user to have multiple scripts, and also alerts a user to syntactically flawed scripts. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5804"/>
+  <seriesInfo name="RFC" value="5804"/>
 </reference>

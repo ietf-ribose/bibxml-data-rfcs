@@ -1,12 +1,22 @@
 <reference anchor="RFC8237" target="https://www.rfc-editor.org/info/rfc8237">
   <front>
     <title>MPLS Label Switched Path (LSP) Pseudowire (PW) Status Refresh Reduction for Static PWs</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8237"/>
-    <author fullname="L. Martini"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="E. Bellagamba"/>
+    <author fullname="L. Martini" initials="L." surname="Martini">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="E. Bellagamba" initials="E." surname="Bellagamba">
+      <organization/>
+    </author>
     <date year="2017" month="October"/>
     <workgroup>pals</workgroup>
-    <abstract>This document describes a method for generating an aggregated pseudowire (PW) status message transmitted for a statically configured PW on a Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) to indicate the status of one or more PWs carried on the LSP. The method for transmitting the PW status information is not new; however, this protocol extension allows a Service Provider (SP) to reliably monitor the individual PW status while not overwhelming the network with multiple periodic status messages. This is achieved by sending a single cumulative summary status verification message for all the PWs grouped in the same LSP.</abstract>
+    <abstract>
+      <t>This document describes a method for generating an aggregated pseudowire (PW) status message transmitted for a statically configured PW on a Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) to indicate the status of one or more PWs carried on the LSP.</t>
+      <t>The method for transmitting the PW status information is not new; however, this protocol extension allows a Service Provider (SP) to reliably monitor the individual PW status while not overwhelming the network with multiple periodic status messages. This is achieved by sending a single cumulative summary status verification message for all the PWs grouped in the same LSP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8237"/>
+  <seriesInfo name="RFC" value="8237"/>
 </reference>

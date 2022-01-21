@@ -1,19 +1,27 @@
 <reference anchor="RFC6940" target="https://www.rfc-editor.org/info/rfc6940">
   <front>
     <title>REsource LOcation And Discovery (RELOAD) Base Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6940"/>
-    <author fullname="C. Jennings"/>
-    <author fullname="B. Lowekamp"/>
-    <author fullname="E. Rescorla"/>
-    <author fullname="S. Baset"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="C. Jennings" initials="C." surname="Jennings">
+      <organization/>
+    </author>
+    <author fullname="B. Lowekamp" initials="B." surname="Lowekamp">
+      <organization/>
+    </author>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
+    <author fullname="S. Baset" initials="S." surname="Baset">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2014" month="January"/>
     <workgroup>p2psip</workgroup>
-    <keyword>p2p</keyword>
-    <keyword>dht</keyword>
-    <keyword>p2psip</keyword>
-    <keyword>chord</keyword>
-    <keyword>peer to peer</keyword>
-    <abstract>This specification defines REsource LOcation And Discovery (RELOAD), a peer-to-peer (P2P) signaling protocol for use on the Internet.  A P2P signaling protocol provides its clients with an abstract storage and messaging service between a set of cooperating peers that form the overlay network.  RELOAD is designed to support a P2P Session Initiation Protocol (P2PSIP) network, but can be utilized by other applications with similar requirements by defining new usages that specify the Kinds of data that need to be stored for a particular application.  RELOAD defines a security model based on a certificate enrollment service that provides unique identities.  NAT traversal is a fundamental service of the protocol.  RELOAD also allows access from "client" nodes that do not need to route traffic or store data for others.</abstract>
+    <abstract>
+      <t>This specification defines REsource LOcation And Discovery (RELOAD), a peer-to-peer (P2P) signaling protocol for use on the Internet.  A P2P signaling protocol provides its clients with an abstract storage and messaging service between a set of cooperating peers that form the overlay network.  RELOAD is designed to support a P2P Session Initiation Protocol (P2PSIP) network, but can be utilized by other applications with similar requirements by defining new usages that specify the Kinds of data that need to be stored for a particular application.  RELOAD defines a security model based on a certificate enrollment service that provides unique identities.  NAT traversal is a fundamental service of the protocol.  RELOAD also allows access from "client" nodes that do not need to route traffic or store data for others.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6940"/>
+  <seriesInfo name="RFC" value="6940"/>
 </reference>

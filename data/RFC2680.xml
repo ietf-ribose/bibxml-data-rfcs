@@ -1,16 +1,21 @@
 <reference anchor="RFC2680" target="https://www.rfc-editor.org/info/rfc2680">
   <front>
     <title>A One-way Packet Loss Metric for IPPM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2680"/>
-    <author fullname="G. Almes"/>
-    <author fullname="S. Kalidindi"/>
-    <author fullname="M. Zekauskas"/>
+    <author fullname="G. Almes" initials="G." surname="Almes">
+      <organization/>
+    </author>
+    <author fullname="S. Kalidindi" initials="S." surname="Kalidindi">
+      <organization/>
+    </author>
+    <author fullname="M. Zekauskas" initials="M." surname="Zekauskas">
+      <organization/>
+    </author>
     <date year="1999" month="September"/>
     <workgroup>ippm</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>performance</keyword>
-    <keyword>metrics</keyword>
-    <abstract>This memo defines a metric for one-way packet loss across Internet paths. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a metric for one-way packet loss across Internet paths. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2680"/>
+  <seriesInfo name="RFC" value="2680"/>
 </reference>

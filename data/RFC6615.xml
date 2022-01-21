@@ -1,18 +1,24 @@
 <reference anchor="RFC6615" target="https://www.rfc-editor.org/info/rfc6615">
   <front>
     <title>Definitions of Managed Objects for IP Flow Information Export</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6615"/>
-    <author fullname="T. Dietz"/>
-    <author fullname="A. Kobayashi"/>
-    <author fullname="B. Claise"/>
-    <author fullname="G. Muenz"/>
+    <author fullname="T. Dietz" initials="T." surname="Dietz">
+      <organization/>
+    </author>
+    <author fullname="A. Kobayashi" initials="A." surname="Kobayashi">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="G. Muenz" initials="G." surname="Muenz">
+      <organization/>
+    </author>
     <date year="2012" month="June"/>
     <workgroup>ipfix</workgroup>
-    <keyword>IPFIX</keyword>
-    <keyword>MIB</keyword>
-    <keyword>Filtering</keyword>
-    <keyword>Sampling</keyword>
-    <keyword>Selection</keyword>
-    <abstract>This document defines managed objects for IP Flow Information eXport (IPFIX).  These objects provide information for monitoring IPFIX Exporters and IPFIX Collectors, including basic configuration information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines managed objects for IP Flow Information eXport (IPFIX).  These objects provide information for monitoring IPFIX Exporters and IPFIX Collectors, including basic configuration information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6615"/>
+  <seriesInfo name="RFC" value="6615"/>
 </reference>

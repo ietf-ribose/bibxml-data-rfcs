@@ -1,15 +1,21 @@
 <reference anchor="RFC8898" target="https://www.rfc-editor.org/info/rfc8898">
   <front>
     <title>Third-Party Token-Based Authentication and Authorization for Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8898"/>
-    <author fullname="R. Shekh-Yusef"/>
-    <author fullname="C. Holmberg"/>
-    <author fullname="V. Pascual"/>
+    <author fullname="R. Shekh-Yusef" initials="R." surname="Shekh-Yusef">
+      <organization/>
+    </author>
+    <author fullname="C. Holmberg" initials="C." surname="Holmberg">
+      <organization/>
+    </author>
+    <author fullname="V. Pascual" initials="V." surname="Pascual">
+      <organization/>
+    </author>
     <date year="2020" month="September"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP OAuth</keyword>
-    <keyword>3rd party authentication</keyword>
-    <keyword>Third party authentication</keyword>
-    <abstract>This document defines the "Bearer" authentication scheme for the Session Initiation Protocol (SIP) and a mechanism by which user authentication and SIP registration authorization is delegated to a third party, using the OAuth 2.0 framework and OpenID Connect Core 1.0.  This document updates RFC 3261 to provide guidance on how a SIP User Agent Client (UAC) responds to a SIP 401/407 response that contains multiple WWW-Authenticate/Proxy-Authenticate header fields.</abstract>
+    <abstract>
+      <t>This document defines the "Bearer" authentication scheme for the Session Initiation Protocol (SIP) and a mechanism by which user authentication and SIP registration authorization is delegated to a third party, using the OAuth 2.0 framework and OpenID Connect Core 1.0.  This document updates RFC 3261 to provide guidance on how a SIP User Agent Client (UAC) responds to a SIP 401/407 response that contains multiple WWW-Authenticate/Proxy-Authenticate header fields.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8898"/>
+  <seriesInfo name="RFC" value="8898"/>
 </reference>

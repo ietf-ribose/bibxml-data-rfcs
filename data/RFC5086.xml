@@ -1,16 +1,27 @@
 <reference anchor="RFC5086" target="https://www.rfc-editor.org/info/rfc5086">
   <front>
     <title>Structure-Aware Time Division Multiplexed (TDM) Circuit Emulation Service over Packet Switched Network (CESoPSN)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5086"/>
-    <author fullname="A. Vainshtein"/>
-    <author fullname="I. Sasson"/>
-    <author fullname="E. Metz"/>
-    <author fullname="T. Frost"/>
-    <author fullname="P. Pate"/>
+    <author fullname="A. Vainshtein" initials="A." surname="Vainshtein">
+      <organization/>
+    </author>
+    <author fullname="I. Sasson" initials="I." surname="Sasson">
+      <organization/>
+    </author>
+    <author fullname="E. Metz" initials="E." surname="Metz">
+      <organization/>
+    </author>
+    <author fullname="T. Frost" initials="T." surname="Frost">
+      <organization/>
+    </author>
+    <author fullname="P. Pate" initials="P." surname="Pate">
+      <organization/>
+    </author>
     <date year="2007" month="December"/>
     <workgroup>pwe3</workgroup>
-    <keyword>nxds0</keyword>
-    <keyword>psn</keyword>
-    <abstract>This document describes a method for encapsulating structured (NxDS0) Time Division Multiplexed (TDM) signals as pseudowires over packet-switching networks (PSNs).  In this regard, it complements similar work for structure-agnostic emulation of TDM bit-streams (see RFC 4553).  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a method for encapsulating structured (NxDS0) Time Division Multiplexed (TDM) signals as pseudowires over packet-switching networks (PSNs).  In this regard, it complements similar work for structure-agnostic emulation of TDM bit-streams (see RFC 4553).  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5086"/>
+  <seriesInfo name="RFC" value="5086"/>
 </reference>

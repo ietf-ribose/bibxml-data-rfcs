@@ -1,16 +1,21 @@
 <reference anchor="RFC8040" target="https://www.rfc-editor.org/info/rfc8040">
   <front>
     <title>RESTCONF Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8040"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="M. Bjorklund"/>
-    <author fullname="K. Watsen"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
     <date year="2017" month="January"/>
     <workgroup>netconf</workgroup>
-    <keyword>YANG</keyword>
-    <keyword>NETCONF</keyword>
-    <keyword>REST</keyword>
-    <keyword>HTTP</keyword>
-    <abstract>This document describes an HTTP-based protocol that provides a programmatic interface for accessing data defined in YANG, using the datastore concepts defined in the Network Configuration Protocol (NETCONF).</abstract>
+    <abstract>
+      <t>This document describes an HTTP-based protocol that provides a programmatic interface for accessing data defined in YANG, using the datastore concepts defined in the Network Configuration Protocol (NETCONF).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8040"/>
+  <seriesInfo name="RFC" value="8040"/>
 </reference>

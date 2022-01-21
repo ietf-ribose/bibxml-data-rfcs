@@ -1,12 +1,15 @@
 <reference anchor="RFC3938" target="https://www.rfc-editor.org/info/rfc3938">
   <front>
     <title>Video-Message Message-Context</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3938"/>
-    <author fullname="T. Hansen"/>
+    <author fullname="T. Hansen" initials="T." surname="Hansen">
+      <organization/>
+    </author>
     <date year="2004" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>user agent</keyword>
-    <keyword>ua</keyword>
-    <abstract>The Message-Context header defined in RFC 3458 describes the context of a message (for example: fax-message or voice-message).  This specification extends the Message-Context header with one additional context value: "video-message".  A receiving user agent (UA) may use this information as a hint to optimally present the message. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Message-Context header defined in RFC 3458 describes the context of a message (for example: fax-message or voice-message).  This specification extends the Message-Context header with one additional context value: "video-message".  A receiving user agent (UA) may use this information as a hint to optimally present the message. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3938"/>
+  <seriesInfo name="RFC" value="3938"/>
 </reference>

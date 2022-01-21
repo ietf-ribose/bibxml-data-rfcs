@@ -1,13 +1,18 @@
 <reference anchor="RFC3472" target="https://www.rfc-editor.org/info/rfc3472">
   <front>
     <title>Generalized Multi-Protocol Label Switching (GMPLS) Signaling Constraint-based Routed Label Distribution Protocol (CR-LDP) Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3472"/>
-    <author fullname="P. Ashwood-Smith"/>
-    <author fullname="L. Berger"/>
+    <author fullname="P. Ashwood-Smith" initials="P." surname="Ashwood-Smith">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
     <date year="2003" month="January"/>
     <workgroup>ccamp</workgroup>
-    <keyword>mpls</keyword>
-    <keyword>sonet/sdh</keyword>
-    <abstract>This document describes extensions to Multi-Protocol Label Switching (MPLS) Constraint-based Routed Label Distribution Protocol (CR-LDP) signaling required to support Generalized MPLS.  Generalized MPLS extends the MPLS control plane to encompass time-division (e.g., Synchronous Optical Network and Synchronous Digital Hierarchy, SONET/SDH), wavelength (optical lambdas) and spatial switching (e.g., incoming port or fiber to outgoing port or fiber).  This document presents a CR-LDP specific description of the extensions.  A generic functional description can be found in separate documents. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes extensions to Multi-Protocol Label Switching (MPLS) Constraint-based Routed Label Distribution Protocol (CR-LDP) signaling required to support Generalized MPLS.  Generalized MPLS extends the MPLS control plane to encompass time-division (e.g., Synchronous Optical Network and Synchronous Digital Hierarchy, SONET/SDH), wavelength (optical lambdas) and spatial switching (e.g., incoming port or fiber to outgoing port or fiber).  This document presents a CR-LDP specific description of the extensions.  A generic functional description can be found in separate documents. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3472"/>
+  <seriesInfo name="RFC" value="3472"/>
 </reference>

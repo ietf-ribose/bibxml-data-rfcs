@@ -1,12 +1,14 @@
 <reference anchor="RFC2947" target="https://www.rfc-editor.org/info/rfc2947">
   <front>
     <title>Telnet Encryption: DES3 64 bit Cipher Feedback</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2947"/>
-    <author fullname="J. Altman"/>
+    <author fullname="J. Altman" initials="J." surname="Altman">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
-    <keyword>data</keyword>
-    <keyword>encryption</keyword>
-    <keyword>standard</keyword>
-    <abstract>This document specifies how to use the Triple-DES (data encryption standard) encryption algorithm in cipher feedback mode with the telnet encryption option. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies how to use the Triple-DES (data encryption standard) encryption algorithm in cipher feedback mode with the telnet encryption option. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2947"/>
+  <seriesInfo name="RFC" value="2947"/>
 </reference>

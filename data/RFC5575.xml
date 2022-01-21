@@ -1,23 +1,32 @@
 <reference anchor="RFC5575" target="https://www.rfc-editor.org/info/rfc5575">
   <front>
     <title>Dissemination of Flow Specification Rules</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5575"/>
-    <author fullname="P. Marques"/>
-    <author fullname="N. Sheth"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="B. Greene"/>
-    <author fullname="J. Mauch"/>
-    <author fullname="D. McPherson"/>
+    <author fullname="P. Marques" initials="P." surname="Marques">
+      <organization/>
+    </author>
+    <author fullname="N. Sheth" initials="N." surname="Sheth">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="B. Greene" initials="B." surname="Greene">
+      <organization/>
+    </author>
+    <author fullname="J. Mauch" initials="J." surname="Mauch">
+      <organization/>
+    </author>
+    <author fullname="D. McPherson" initials="D." surname="McPherson">
+      <organization/>
+    </author>
     <date year="2009" month="August"/>
     <workgroup>idr</workgroup>
-    <keyword>IDR</keyword>
-    <keyword>Inter-domain routing</keyword>
-    <keyword>BGP</keyword>
-    <keyword>DDOS</keyword>
-    <keyword>Denial of Service</keyword>
-    <keyword>ACL</keyword>
-    <keyword>Firewall</keyword>
-    <keyword>Filter</keyword>
-    <abstract>This document defines a new Border Gateway Protocol Network Layer Reachability Information (BGP NLRI) encoding format that can be used to distribute traffic flow specifications. This allows the routing system to propagate information regarding more specific components of the traffic aggregate defined by an IP destination prefix. Additionally, it defines two applications of that encoding format: one that can be used to automate inter-domain coordination of traffic filtering, such as what is required in order to mitigate (distributed) denial-of-service attacks, and a second application to provide traffic filtering in the context of a BGP/MPLS VPN service. The information is carried via the BGP, thereby reusing protocol algorithms, operational experience, and administrative processes such as inter-provider peering agreements. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new Border Gateway Protocol Network Layer Reachability Information (BGP NLRI) encoding format that can be used to distribute traffic flow specifications. This allows the routing system to propagate information regarding more specific components of the traffic aggregate defined by an IP destination prefix.</t>
+      <t>Additionally, it defines two applications of that encoding format: one that can be used to automate inter-domain coordination of traffic filtering, such as what is required in order to mitigate (distributed) denial-of-service attacks, and a second application to provide traffic filtering in the context of a BGP/MPLS VPN service.</t>
+      <t>The information is carried via the BGP, thereby reusing protocol algorithms, operational experience, and administrative processes such as inter-provider peering agreements. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5575"/>
+  <seriesInfo name="RFC" value="5575"/>
 </reference>

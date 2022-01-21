@@ -1,12 +1,18 @@
 <reference anchor="RFC7153" target="https://www.rfc-editor.org/info/rfc7153">
   <front>
     <title>IANA Registries for BGP Extended Communities</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7153"/>
-    <author fullname="E. Rosen"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2014" month="March"/>
     <workgroup>idr</workgroup>
-    <keyword>Border Gateway Protocol</keyword>
-    <abstract>This document reorganizes the IANA registries for the type values and sub-type values of the BGP Extended Communities attribute and the BGP IPv6-Address-Specific Extended Communities attribute.  This is done in order to remove interdependencies among the registries, thus making it easier for IANA to determine which codepoints are available for assignment in which registries.  This document also clarifies the information that must be provided to IANA when requesting an allocation from one or more of these registries.  These changes are compatible with the existing allocations and thus do not affect protocol implementations.  The changes will, however, impact the "IANA Considerations" sections of future protocol specifications.  This document updates RFC 4360 and RFC 5701.</abstract>
+    <abstract>
+      <t>This document reorganizes the IANA registries for the type values and sub-type values of the BGP Extended Communities attribute and the BGP IPv6-Address-Specific Extended Communities attribute.  This is done in order to remove interdependencies among the registries, thus making it easier for IANA to determine which codepoints are available for assignment in which registries.  This document also clarifies the information that must be provided to IANA when requesting an allocation from one or more of these registries.  These changes are compatible with the existing allocations and thus do not affect protocol implementations.  The changes will, however, impact the "IANA Considerations" sections of future protocol specifications.  This document updates RFC 4360 and RFC 5701.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7153"/>
+  <seriesInfo name="RFC" value="7153"/>
 </reference>

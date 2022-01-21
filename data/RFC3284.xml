@@ -1,17 +1,24 @@
 <reference anchor="RFC3284" target="https://www.rfc-editor.org/info/rfc3284">
   <front>
     <title>The VCDIFF Generic Differencing and Compression Data Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3284"/>
-    <author fullname="D. Korn"/>
-    <author fullname="J. MacDonald"/>
-    <author fullname="J. Mogul"/>
-    <author fullname="K. Vo"/>
+    <author fullname="D. Korn" initials="D." surname="Korn">
+      <organization/>
+    </author>
+    <author fullname="J. MacDonald" initials="J." surname="MacDonald">
+      <organization/>
+    </author>
+    <author fullname="J. Mogul" initials="J." surname="Mogul">
+      <organization/>
+    </author>
+    <author fullname="K. Vo" initials="K." surname="Vo">
+      <organization/>
+    </author>
     <date year="2002" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>transport</keyword>
-    <keyword>portable</keyword>
-    <keyword>at&amp;t</keyword>
-    <keyword>encoding</keyword>
-    <abstract>This memo describes VCDIFF, a general, efficient and portable data format suitable for encoding compressed and/or differencing data so that they can be easily transported among computers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes VCDIFF, a general, efficient and portable data format suitable for encoding compressed and/or differencing data so that they can be easily transported among computers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3284"/>
+  <seriesInfo name="RFC" value="3284"/>
 </reference>

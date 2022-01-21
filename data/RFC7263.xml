@@ -1,14 +1,24 @@
 <reference anchor="RFC7263" target="https://www.rfc-editor.org/info/rfc7263">
   <front>
     <title>An Extension to the REsource LOcation And Discovery (RELOAD) Protocol to Support Direct Response Routing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7263"/>
-    <author fullname="N. Zong"/>
-    <author fullname="X. Jiang"/>
-    <author fullname="R. Even"/>
-    <author fullname="Y. Zhang"/>
+    <author fullname="N. Zong" initials="N." surname="Zong">
+      <organization/>
+    </author>
+    <author fullname="X. Jiang" initials="X." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="R. Even" initials="R." surname="Even">
+      <organization/>
+    </author>
+    <author fullname="Y. Zhang" initials="Y." surname="Zhang">
+      <organization/>
+    </author>
     <date year="2014" month="June"/>
     <workgroup>p2psip</workgroup>
-    <keyword>P2P</keyword>
-    <abstract>This document defines an optional extension to the REsource LOcation And Discovery (RELOAD) protocol to support the direct response routing mode.  RELOAD recommends symmetric recursive routing for routing messages.  The new optional extension provides a shorter route for responses, thereby reducing overhead on intermediate peers.  This document also describes potential cases where this extension can be used.</abstract>
+    <abstract>
+      <t>This document defines an optional extension to the REsource LOcation And Discovery (RELOAD) protocol to support the direct response routing mode.  RELOAD recommends symmetric recursive routing for routing messages.  The new optional extension provides a shorter route for responses, thereby reducing overhead on intermediate peers.  This document also describes potential cases where this extension can be used.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7263"/>
+  <seriesInfo name="RFC" value="7263"/>
 </reference>

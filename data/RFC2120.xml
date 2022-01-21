@@ -1,15 +1,15 @@
 <reference anchor="RFC2120" target="https://www.rfc-editor.org/info/rfc2120">
   <front>
     <title>Managing the X.500 Root Naming Context</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2120"/>
-    <author fullname="D. Chadwick"/>
+    <author fullname="D. Chadwick" initials="D." surname="Chadwick">
+      <organization/>
+    </author>
     <date year="1997" month="March"/>
     <workgroup>ids</workgroup>
-    <keyword>X.500-NAME</keyword>
-    <keyword>ISO</keyword>
-    <keyword>International</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Organization</keyword>
-    <abstract>This document describes the use of 1993 ISO X.500 Standard protocols for managing the root context.  Whilst the ASN.1 is compatible with that of the X.500 Standard, the actual settings of the parameters are supplementary to that of the X.500 Standard.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes the use of 1993 ISO X.500 Standard protocols for managing the root context.  Whilst the ASN.1 is compatible with that of the X.500 Standard, the actual settings of the parameters are supplementary to that of the X.500 Standard.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2120"/>
+  <seriesInfo name="RFC" value="2120"/>
 </reference>

@@ -1,19 +1,22 @@
 <reference anchor="RFC5929" target="https://www.rfc-editor.org/info/rfc5929">
   <front>
     <title>Channel Bindings for TLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5929"/>
-    <author fullname="J. Altman"/>
-    <author fullname="N. Williams"/>
-    <author fullname="L. Zhu"/>
+    <author fullname="J. Altman" initials="J." surname="Altman">
+      <organization/>
+    </author>
+    <author fullname="N. Williams" initials="N." surname="Williams">
+      <organization/>
+    </author>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
     <date year="2010" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>TLS</keyword>
-    <keyword>channel</keyword>
-    <keyword>binding</keyword>
-    <keyword>channel-binding</keyword>
-    <keyword>tls-unique</keyword>
-    <keyword>tls-server-end-point</keyword>
-    <keyword>tls-unique-for-telnet</keyword>
-    <abstract>This document defines three channel binding types for Transport Layer Security (TLS), tls-unique, tls-server-end-point, and tls-unique-for-telnet, in accordance with RFC 5056 (On Channel Binding). Note that based on implementation experience, this document changes the original definition of 'tls-unique' channel binding type in the channel binding type IANA registry. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines three channel binding types for Transport Layer Security (TLS), tls-unique, tls-server-end-point, and tls-unique-for-telnet, in accordance with RFC 5056 (On Channel Binding).</t>
+      <t>Note that based on implementation experience, this document changes the original definition of 'tls-unique' channel binding type in the channel binding type IANA registry. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5929"/>
+  <seriesInfo name="RFC" value="5929"/>
 </reference>

@@ -1,13 +1,16 @@
 <reference anchor="RFC4805" target="https://www.rfc-editor.org/info/rfc4805">
   <front>
     <title>Definitions of Managed Objects for the DS1, J1, E1, DS2, and E2 Interface Types</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4805"/>
-    <author fullname="O. Nicklass"/>
+    <author fullname="O. Nicklass" initials="O." surname="Nicklass">
+      <organization/>
+    </author>
     <date year="2007" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>DS1-MIB</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it describes objects used for managing DS1, J1, E1, DS2, and E2 interfaces. This document is a companion to the documents that define managed objects for the DS0, DS3/E3, and Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) Interface Types. This document obsoletes RFC 3895. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it describes objects used for managing DS1, J1, E1, DS2, and E2 interfaces. This document is a companion to the documents that define managed objects for the DS0, DS3/E3, and Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) Interface Types.</t>
+      <t>This document obsoletes RFC 3895. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4805"/>
+  <seriesInfo name="RFC" value="4805"/>
 </reference>

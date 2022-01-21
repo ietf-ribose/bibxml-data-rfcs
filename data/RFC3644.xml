@@ -1,16 +1,27 @@
 <reference anchor="RFC3644" target="https://www.rfc-editor.org/info/rfc3644">
   <front>
     <title>Policy Quality of Service (QoS) Information Model</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3644"/>
-    <author fullname="Y. Snir"/>
-    <author fullname="Y. Ramberg"/>
-    <author fullname="J. Strassner"/>
-    <author fullname="R. Cohen"/>
-    <author fullname="B. Moore"/>
+    <author fullname="Y. Snir" initials="Y." surname="Snir">
+      <organization/>
+    </author>
+    <author fullname="Y. Ramberg" initials="Y." surname="Ramberg">
+      <organization/>
+    </author>
+    <author fullname="J. Strassner" initials="J." surname="Strassner">
+      <organization/>
+    </author>
+    <author fullname="R. Cohen" initials="R." surname="Cohen">
+      <organization/>
+    </author>
+    <author fullname="B. Moore" initials="B." surname="Moore">
+      <organization/>
+    </author>
     <date year="2003" month="November"/>
     <workgroup>policy</workgroup>
-    <keyword>integrated differentiated</keyword>
-    <keyword>object oriented</keyword>
-    <abstract>This document presents an object-oriented information model for representing Quality of Service (QoS) network management policies.  This document is based on the IETF Policy Core Information Model and its extensions.  It defines an information model for QoS enforcement for differentiated and integrated services using policy.  It is important to note that this document defines an information model, which by definition is independent of any particular data storage mechanism and access protocol.</abstract>
+    <abstract>
+      <t>This document presents an object-oriented information model for representing Quality of Service (QoS) network management policies.  This document is based on the IETF Policy Core Information Model and its extensions.  It defines an information model for QoS enforcement for differentiated and integrated services using policy.  It is important to note that this document defines an information model, which by definition is independent of any particular data storage mechanism and access protocol.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3644"/>
+  <seriesInfo name="RFC" value="3644"/>
 </reference>

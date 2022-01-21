@@ -1,15 +1,21 @@
 <reference anchor="RFC7461" target="https://www.rfc-editor.org/info/rfc7461">
   <front>
     <title>Energy Object Context MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7461"/>
-    <author fullname="J. Parello"/>
-    <author fullname="B. Claise"/>
-    <author fullname="M. Chandramouli"/>
+    <author fullname="J. Parello" initials="J." surname="Parello">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="M. Chandramouli" initials="M." surname="Chandramouli">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>eman</workgroup>
-    <keyword>management information base</keyword>
-    <keyword>ENERGY-OBJECT-CONTEXT-MIB</keyword>
-    <keyword>IANA-ENERGY-RELATION-MIB</keyword>
-    <abstract>This document defines a subset of a Management Information Base (MIB) for energy management of devices.  The module addresses device identification, context information, and the energy relationships between devices.</abstract>
+    <abstract>
+      <t>This document defines a subset of a Management Information Base (MIB) for energy management of devices.  The module addresses device identification, context information, and the energy relationships between devices.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7461"/>
+  <seriesInfo name="RFC" value="7461"/>
 </reference>

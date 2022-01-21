@@ -1,17 +1,18 @@
 <reference anchor="RFC3988" target="https://www.rfc-editor.org/info/rfc3988">
   <front>
     <title>Maximum Transmission Unit Signalling Extensions for the Label Distribution Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3988"/>
-    <author fullname="B. Black"/>
-    <author fullname="K. Kompella"/>
+    <author fullname="B. Black" initials="B." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
     <date year="2005" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>mtu</keyword>
-    <keyword>ldp</keyword>
-    <keyword>lsp</keyword>
-    <keyword>label switched path</keyword>
-    <keyword>label switching router</keyword>
-    <keyword>lsr</keyword>
-    <abstract>Proper functioning of RFC 1191 path Maximum Transmission Unit (MTU) discovery requires that IP routers have knowledge of the MTU for each link to which they are connected.  As currently specified, the Label Distribution Protocol (LDP) does not have the ability to signal the MTU for a Label Switched Path (LSP) to the ingress Label Switching Router (LSR).  In the absence of this functionality, the MTU for each LSP must be statically configured by network operators or by equivalent off-line mechanisms.  This document specifies experimental extensions to LDP in support of LSP MTU discovery.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>Proper functioning of RFC 1191 path Maximum Transmission Unit (MTU) discovery requires that IP routers have knowledge of the MTU for each link to which they are connected.  As currently specified, the Label Distribution Protocol (LDP) does not have the ability to signal the MTU for a Label Switched Path (LSP) to the ingress Label Switching Router (LSR).  In the absence of this functionality, the MTU for each LSP must be statically configured by network operators or by equivalent off-line mechanisms.  This document specifies experimental extensions to LDP in support of LSP MTU discovery.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3988"/>
+  <seriesInfo name="RFC" value="3988"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC8536" target="https://www.rfc-editor.org/info/rfc8536">
   <front>
     <title>The Time Zone Information Format (TZif)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8536"/>
-    <author fullname="A. Olson"/>
-    <author fullname="P. Eggert"/>
-    <author fullname="K. Murchison"/>
+    <author fullname="A. Olson" initials="A." surname="Olson">
+      <organization/>
+    </author>
+    <author fullname="P. Eggert" initials="P." surname="Eggert">
+      <organization/>
+    </author>
+    <author fullname="K. Murchison" initials="K." surname="Murchison">
+      <organization/>
+    </author>
     <date year="2019" month="February"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>time zone</keyword>
-    <keyword>tzdata</keyword>
-    <keyword>tzif</keyword>
-    <abstract>This document specifies the Time Zone Information Format (TZif) for representing and exchanging time zone information, independent of any particular service or protocol.  Two media types for this format are also defined.</abstract>
+    <abstract>
+      <t>This document specifies the Time Zone Information Format (TZif) for representing and exchanging time zone information, independent of any particular service or protocol.  Two media types for this format are also defined.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8536"/>
+  <seriesInfo name="RFC" value="8536"/>
 </reference>

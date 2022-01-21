@@ -1,14 +1,18 @@
 <reference anchor="RFC5002" target="https://www.rfc-editor.org/info/rfc5002">
   <front>
     <title>The Session Initiation Protocol (SIP) P-Profile-Key Private Header (P-Header)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5002"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="G. Blanco"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="G. Blanco" initials="G." surname="Blanco">
+      <organization/>
+    </author>
     <date year="2007" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>3gpp</keyword>
-    <keyword>ims</keyword>
-    <keyword>ip multimedia subsystem</keyword>
-    <abstract>This document specifies the SIP P-Profile-Key P-header.  This header field is used in the 3rd-Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) to provide SIP registrars and SIP proxy servers with the key of the profile corresponding to the destination SIP URI of a particular SIP request.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies the SIP P-Profile-Key P-header.  This header field is used in the 3rd-Generation Partnership Project (3GPP) IMS (IP Multimedia Subsystem) to provide SIP registrars and SIP proxy servers with the key of the profile corresponding to the destination SIP URI of a particular SIP request.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5002"/>
+  <seriesInfo name="RFC" value="5002"/>
 </reference>

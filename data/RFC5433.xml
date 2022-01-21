@@ -1,14 +1,18 @@
 <reference anchor="RFC5433" target="https://www.rfc-editor.org/info/rfc5433">
   <front>
     <title>Extensible Authentication Protocol - Generalized Pre-Shared Key (EAP-GPSK) Method</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5433"/>
-    <author fullname="T. Clancy"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="T. Clancy" initials="T." surname="Clancy">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2009" month="February"/>
     <workgroup>emu</workgroup>
-    <keyword>EAP</keyword>
-    <keyword>EAP-GPSK</keyword>
-    <keyword>pre-shared key</keyword>
-    <abstract>This memo defines an Extensible Authentication Protocol (EAP) method called EAP Generalized Pre-Shared Key (EAP-GPSK).  This method is a lightweight shared-key authentication protocol supporting mutual authentication and key derivation. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines an Extensible Authentication Protocol (EAP) method called EAP Generalized Pre-Shared Key (EAP-GPSK).  This method is a lightweight shared-key authentication protocol supporting mutual authentication and key derivation. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5433"/>
+  <seriesInfo name="RFC" value="5433"/>
 </reference>

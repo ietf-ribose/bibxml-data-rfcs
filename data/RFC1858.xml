@@ -1,19 +1,20 @@
 <reference anchor="RFC1858" target="https://www.rfc-editor.org/info/rfc1858">
   <front>
     <title>Security Considerations for IP Fragment Filtering</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1858"/>
-    <author fullname="G. Ziemba"/>
-    <author fullname="D. Reed"/>
-    <author fullname="P. Traina"/>
+    <author fullname="G. Ziemba" initials="G." surname="Ziemba">
+      <organization/>
+    </author>
+    <author fullname="D. Reed" initials="D." surname="Reed">
+      <organization/>
+    </author>
+    <author fullname="P. Traina" initials="P." surname="Traina">
+      <organization/>
+    </author>
     <date year="1995" month="October"/>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>tcp</keyword>
-    <keyword>transmission</keyword>
-    <keyword>control</keyword>
-    <keyword>protocol</keyword>
-    <keyword>routers</keyword>
-    <keyword>hosts</keyword>
-    <abstract>IP fragmentation can be used to disguise TCP packets from IP filters used in routers and hosts.  This document describes two methods of attack as well as remedies to prevent them.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>IP fragmentation can be used to disguise TCP packets from IP filters used in routers and hosts.  This document describes two methods of attack as well as remedies to prevent them.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1858"/>
+  <seriesInfo name="RFC" value="1858"/>
 </reference>

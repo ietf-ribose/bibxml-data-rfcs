@@ -1,19 +1,18 @@
 <reference anchor="RFC5497" target="https://www.rfc-editor.org/info/rfc5497">
   <front>
     <title>Representing Multi-Value Time in Mobile Ad Hoc Networks (MANETs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5497"/>
-    <author fullname="T. Clausen"/>
-    <author fullname="C. Dearlove"/>
+    <author fullname="T. Clausen" initials="T." surname="Clausen">
+      <organization/>
+    </author>
+    <author fullname="C. Dearlove" initials="C." surname="Dearlove">
+      <organization/>
+    </author>
     <date year="2009" month="March"/>
     <workgroup>manet</workgroup>
-    <keyword>Routing Protocol</keyword>
-    <keyword>TLV</keyword>
-    <keyword>Fisheye</keyword>
-    <keyword>FSR</keyword>
-    <keyword>Fuzzy-Sighted</keyword>
-    <keyword>extension</keyword>
-    <keyword>packetbb</keyword>
-    <keyword>RFC5444</keyword>
-    <abstract>This document describes a general and flexible TLV (type-length-value structure) for representing time-values, such as an interval or a duration, using the generalized Mobile Ad hoc NETwork (MANET) packet/ message format.  It defines two Message TLVs and two Address Block TLVs for representing validity and interval times for MANET routing protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a general and flexible TLV (type-length-value structure) for representing time-values, such as an interval or a duration, using the generalized Mobile Ad hoc NETwork (MANET) packet/ message format.  It defines two Message TLVs and two Address Block TLVs for representing validity and interval times for MANET routing protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5497"/>
+  <seriesInfo name="RFC" value="5497"/>
 </reference>

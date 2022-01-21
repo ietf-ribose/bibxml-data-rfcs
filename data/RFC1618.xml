@@ -1,13 +1,15 @@
 <reference anchor="RFC1618" target="https://www.rfc-editor.org/info/rfc1618">
   <front>
     <title>PPP over ISDN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1618"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-ISDN</keyword>
-    <keyword>Point</keyword>
-    <keyword>Integrated Services Digital Network</keyword>
-    <abstract>This document describes the use of PPP over Integrated Services Digital Network (ISDN) switched circuits. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of PPP over Integrated Services Digital Network (ISDN) switched circuits. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1618"/>
+  <seriesInfo name="RFC" value="1618"/>
 </reference>

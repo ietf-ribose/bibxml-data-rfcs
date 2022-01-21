@@ -1,13 +1,21 @@
 <reference anchor="RFC5836" target="https://www.rfc-editor.org/info/rfc5836">
   <front>
     <title>Extensible Authentication Protocol (EAP) Early Authentication Problem Statement</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5836"/>
-    <author fullname="Y. Ohba"/>
-    <author fullname="Q. Wu"/>
-    <author fullname="G. Zorn"/>
+    <author fullname="Y. Ohba" initials="Y." surname="Ohba">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>hokey</workgroup>
-    <keyword>eap early authentication</keyword>
-    <abstract>Extensible Authentication Protocol (EAP) early authentication may be defined as the use of EAP by a mobile device to establish authenticated keying material on a target attachment point prior to its arrival.  This document discusses the EAP early authentication problem in detail.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Extensible Authentication Protocol (EAP) early authentication may be defined as the use of EAP by a mobile device to establish authenticated keying material on a target attachment point prior to its arrival.  This document discusses the EAP early authentication problem in detail.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5836"/>
+  <seriesInfo name="RFC" value="5836"/>
 </reference>

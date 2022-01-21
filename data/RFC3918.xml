@@ -1,11 +1,19 @@
 <reference anchor="RFC3918" target="https://www.rfc-editor.org/info/rfc3918">
   <front>
     <title>Methodology for IP Multicast Benchmarking</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3918"/>
-    <author fullname="D. Stopp"/>
-    <author fullname="B. Hickman"/>
+    <author fullname="D. Stopp" initials="D." surname="Stopp">
+      <organization/>
+    </author>
+    <author fullname="B. Hickman" initials="B." surname="Hickman">
+      <organization/>
+    </author>
     <date year="2004" month="October"/>
     <workgroup>bmwg</workgroup>
-    <abstract>The purpose of this document is to describe methodology specific to the benchmarking of multicast IP forwarding devices. It builds upon the tenets set forth in RFC 2544, RFC 2432 and other IETF Benchmarking Methodology Working Group (BMWG) efforts. This document seeks to extend these efforts to the multicast paradigm. The BMWG produces two major classes of documents: Benchmarking Terminology documents and Benchmarking Methodology documents. The Terminology documents present the benchmarks and other related terms. The Methodology documents define the procedures required to collect the benchmarks cited in the corresponding Terminology documents. This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The purpose of this document is to describe methodology specific to the benchmarking of multicast IP forwarding devices. It builds upon the tenets set forth in RFC 2544, RFC 2432 and other IETF Benchmarking Methodology Working Group (BMWG) efforts. This document seeks to extend these efforts to the multicast paradigm.</t>
+      <t>The BMWG produces two major classes of documents: Benchmarking Terminology documents and Benchmarking Methodology documents. The Terminology documents present the benchmarks and other related terms. The Methodology documents define the procedures required to collect the benchmarks cited in the corresponding Terminology documents. This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3918"/>
+  <seriesInfo name="RFC" value="3918"/>
 </reference>

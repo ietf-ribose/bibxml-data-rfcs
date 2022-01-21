@@ -1,17 +1,18 @@
 <reference anchor="RFC2405" target="https://www.rfc-editor.org/info/rfc2405">
   <front>
     <title>The ESP DES-CBC Cipher Algorithm With Explicit IV</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2405"/>
-    <author fullname="C. Madson"/>
-    <author fullname="N. Doraswamy"/>
+    <author fullname="C. Madson" initials="C." surname="Madson">
+      <organization/>
+    </author>
+    <author fullname="N. Doraswamy" initials="N." surname="Doraswamy">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>ipsec</workgroup>
-    <keyword>ESPDES-CBC</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>payload</keyword>
-    <keyword>security</keyword>
-    <keyword>architecture</keyword>
-    <keyword>encryption</keyword>
-    <abstract>This document describes the use of the DES Cipher algorithm in Cipher Block Chaining Mode, with an explicit IV, as a confidentiality mechanism within the context of the IPSec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of the DES Cipher algorithm in Cipher Block Chaining Mode, with an explicit IV, as a confidentiality mechanism within the context of the IPSec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2405"/>
+  <seriesInfo name="RFC" value="2405"/>
 </reference>

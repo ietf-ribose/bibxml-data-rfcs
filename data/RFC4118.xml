@@ -1,14 +1,21 @@
 <reference anchor="RFC4118" target="https://www.rfc-editor.org/info/rfc4118">
   <front>
     <title>Architecture Taxonomy for Control and Provisioning of Wireless Access Points (CAPWAP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4118"/>
-    <author fullname="L. Yang"/>
-    <author fullname="P. Zerfos"/>
-    <author fullname="E. Sadot"/>
+    <author fullname="L. Yang" initials="L." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="P. Zerfos" initials="P." surname="Zerfos">
+      <organization/>
+    </author>
+    <author fullname="E. Sadot" initials="E." surname="Sadot">
+      <organization/>
+    </author>
     <date year="2005" month="June"/>
     <workgroup>capwap</workgroup>
-    <keyword>IEEE 802.11</keyword>
-    <keyword>wireless lan</keyword>
-    <abstract>This document provides a taxonomy of the architectures employed in the existing IEEE 802.11 products in the market, by analyzing Wireless LAN (WLAN) functions and services and describing the different variants in distributing these functions and services among the architectural entities.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides a taxonomy of the architectures employed in the existing IEEE 802.11 products in the market, by analyzing Wireless LAN (WLAN) functions and services and describing the different variants in distributing these functions and services among the architectural entities.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4118"/>
+  <seriesInfo name="RFC" value="4118"/>
 </reference>

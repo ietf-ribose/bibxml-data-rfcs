@@ -1,15 +1,17 @@
 <reference anchor="RFC1896" target="https://www.rfc-editor.org/info/rfc1896">
   <front>
     <title>The text/enriched MIME Content-type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1896"/>
-    <author fullname="P. Resnick"/>
-    <author fullname="A. Walker"/>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
+    <author fullname="A. Walker" initials="A." surname="Walker">
+      <organization/>
+    </author>
     <date year="1996" month="February"/>
-    <keyword>MIME</keyword>
-    <keyword>Multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Mail</keyword>
-    <keyword>Extensions</keyword>
-    <abstract>This document defines one particular type of MIME data, the text/enriched MIME type.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document defines one particular type of MIME data, the text/enriched MIME type.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1896"/>
+  <seriesInfo name="RFC" value="1896"/>
 </reference>

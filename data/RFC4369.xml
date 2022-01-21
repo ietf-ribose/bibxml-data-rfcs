@@ -1,19 +1,24 @@
 <reference anchor="RFC4369" target="https://www.rfc-editor.org/info/rfc4369">
   <front>
     <title>Definitions of Managed Objects for Internet Fibre Channel Protocol (iFCP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4369"/>
-    <author fullname="K. Gibbons"/>
-    <author fullname="C. Monia"/>
-    <author fullname="J. Tseng"/>
-    <author fullname="F. Travostino"/>
+    <author fullname="K. Gibbons" initials="K." surname="Gibbons">
+      <organization/>
+    </author>
+    <author fullname="C. Monia" initials="C." surname="Monia">
+      <organization/>
+    </author>
+    <author fullname="J. Tseng" initials="J." surname="Tseng">
+      <organization/>
+    </author>
+    <author fullname="F. Travostino" initials="F." surname="Travostino">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>ips</workgroup>
-    <keyword>mib</keyword>
-    <keyword>management information base</keyword>
-    <keyword>snmp</keyword>
-    <keyword>simple network management protocol</keyword>
-    <keyword>ifcp gateway</keyword>
-    <keyword>ifcp-mgmt-mib</keyword>
-    <abstract>The iFCP protocol (RFC 4172) provides Fibre Channel fabric functionality on an IP network in which TCP/IP switching and routing elements replace Fibre Channel components.  The iFCP protocol is used between iFCP Gateways.  This document provides a mechanism to monitor and control iFCP Gateway instances, and their associated sessions, using SNMP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The iFCP protocol (RFC 4172) provides Fibre Channel fabric functionality on an IP network in which TCP/IP switching and routing elements replace Fibre Channel components.  The iFCP protocol is used between iFCP Gateways.  This document provides a mechanism to monitor and control iFCP Gateway instances, and their associated sessions, using SNMP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4369"/>
+  <seriesInfo name="RFC" value="4369"/>
 </reference>

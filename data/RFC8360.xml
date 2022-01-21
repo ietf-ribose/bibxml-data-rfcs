@@ -1,15 +1,34 @@
 <reference anchor="RFC8360" target="https://www.rfc-editor.org/info/rfc8360">
   <front>
     <title>Resource Public Key Infrastructure (RPKI) Validation Reconsidered</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8360"/>
-    <author fullname="G. Huston"/>
-    <author fullname="G. Michaelson"/>
-    <author fullname="C. Martinez"/>
-    <author fullname="T. Bruijnzeels"/>
-    <author fullname="A. Newton"/>
-    <author fullname="D. Shaw"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
+    <author fullname="G. Michaelson" initials="G." surname="Michaelson">
+      <organization/>
+    </author>
+    <author fullname="C. Martinez" initials="C." surname="Martinez">
+      <organization/>
+    </author>
+    <author fullname="T. Bruijnzeels" initials="T." surname="Bruijnzeels">
+      <organization/>
+    </author>
+    <author fullname="A. Newton" initials="A." surname="Newton">
+      <organization/>
+    </author>
+    <author fullname="D. Shaw" initials="D." surname="Shaw">
+      <organization/>
+    </author>
     <date year="2018" month="April"/>
     <workgroup>sidr</workgroup>
-    <abstract>This document specifies an alternative to the certificate validation procedure specified in RFC 6487 that reduces aspects of operational fragility in the management of certificates in the Resource Public Key Infrastructure (RPKI), while retaining essential security features. The procedure specified in RFC 6487 requires that Resource Certificates are rejected entirely if they are found to overclaim any resources not contained on the issuing certificate, whereas the validation process defined here allows an issuing Certification Authority (CA) to chose to communicate that such Resource Certificates should be accepted for the intersection of their resources and the issuing certificate. It should be noted that the validation process defined here considers validation under a single trust anchor (TA) only. In particular, concerns regarding overclaims where multiple configured TAs claim overlapping resources are considered out of scope for this document. This choice is signaled by a set of alternative Object Identifiers (OIDs) per "X.509 Extensions for IP Addresses and AS Identifiers" (RFC 3779) and "Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI)" (RFC 6484). It should be noted that in case these OIDs are not used for any certificate under a trust anchor, the validation procedure defined here has the same outcome as the procedure defined in RFC 6487. Furthermore, this document provides an alternative to Route Origin Authorization (ROA) (RFC 6482) and BGPsec Router Certificate (BGPsec PKI Profiles -- publication requested) validation.</abstract>
+    <abstract>
+      <t>This document specifies an alternative to the certificate validation procedure specified in RFC 6487 that reduces aspects of operational fragility in the management of certificates in the Resource Public Key Infrastructure (RPKI), while retaining essential security features.</t>
+      <t>The procedure specified in RFC 6487 requires that Resource Certificates are rejected entirely if they are found to overclaim any resources not contained on the issuing certificate, whereas the validation process defined here allows an issuing Certification Authority (CA) to chose to communicate that such Resource Certificates should be accepted for the intersection of their resources and the issuing certificate.</t>
+      <t>It should be noted that the validation process defined here considers validation under a single trust anchor (TA) only. In particular, concerns regarding overclaims where multiple configured TAs claim overlapping resources are considered out of scope for this document.</t>
+      <t>This choice is signaled by a set of alternative Object Identifiers (OIDs) per "X.509 Extensions for IP Addresses and AS Identifiers" (RFC 3779) and "Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI)" (RFC 6484). It should be noted that in case these OIDs are not used for any certificate under a trust anchor, the validation procedure defined here has the same outcome as the procedure defined in RFC 6487.</t>
+      <t>Furthermore, this document provides an alternative to Route Origin Authorization (ROA) (RFC 6482) and BGPsec Router Certificate (BGPsec PKI Profiles -- publication requested) validation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8360"/>
+  <seriesInfo name="RFC" value="8360"/>
 </reference>

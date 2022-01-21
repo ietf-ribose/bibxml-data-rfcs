@@ -1,14 +1,18 @@
 <reference anchor="RFC3086" target="https://www.rfc-editor.org/info/rfc3086">
   <front>
     <title>Definition of Differentiated Services Per Domain Behaviors and Rules for their Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3086"/>
-    <author fullname="K. Nichols"/>
-    <author fullname="B. Carpenter"/>
+    <author fullname="K. Nichols" initials="K." surname="Nichols">
+      <organization/>
+    </author>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
     <date year="2001" month="April"/>
     <workgroup>diffserv</workgroup>
-    <keyword>diffserv</keyword>
-    <keyword>QoS</keyword>
-    <keyword>quality of service</keyword>
-    <abstract>This document defines and discusses Per-Domain Behaviors in detail and lays out the format and required content for contributions to the Diffserv WG on PDBs and the procedure that will be applied for individual PDB specifications to advance as WG products.  This format is specified to expedite working group review of PDB submissions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines and discusses Per-Domain Behaviors in detail and lays out the format and required content for contributions to the Diffserv WG on PDBs and the procedure that will be applied for individual PDB specifications to advance as WG products.  This format is specified to expedite working group review of PDB submissions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3086"/>
+  <seriesInfo name="RFC" value="3086"/>
 </reference>

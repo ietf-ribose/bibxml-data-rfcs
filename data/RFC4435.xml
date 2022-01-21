@@ -1,17 +1,27 @@
 <reference anchor="RFC4435" target="https://www.rfc-editor.org/info/rfc4435">
   <front>
     <title>A Framework for the Usage of Internet Media Guides (IMGs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4435"/>
-    <author fullname="Y. Nomura"/>
-    <author fullname="R. Walsh"/>
-    <author fullname="J-P. Luoma"/>
-    <author fullname="H. Asaeda"/>
-    <author fullname="H. Schulzrinne"/>
+    <author fullname="Y. Nomura" initials="Y." surname="Nomura">
+      <organization/>
+    </author>
+    <author fullname="R. Walsh" initials="R." surname="Walsh">
+      <organization/>
+    </author>
+    <author fullname="J-P. Luoma" initials="J-P." surname="Luoma">
+      <organization/>
+    </author>
+    <author fullname="H. Asaeda" initials="H." surname="Asaeda">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>mmusic</workgroup>
-    <keyword>session description protocol</keyword>
-    <keyword>sdp</keyword>
-    <keyword>sdpng</keyword>
-    <abstract>This document defines a framework for the delivery of Internet Media Guides (IMGs).  An IMG is a structured collection of multimedia session descriptions expressed using the Session Description Protocol (SDP), SDPng, or some similar session description format.  This document describes a generalized model for IMG delivery mechanisms, the use of existing protocols, and the need for additional work to create an IMG delivery infrastructure.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines a framework for the delivery of Internet Media Guides (IMGs).  An IMG is a structured collection of multimedia session descriptions expressed using the Session Description Protocol (SDP), SDPng, or some similar session description format.  This document describes a generalized model for IMG delivery mechanisms, the use of existing protocols, and the need for additional work to create an IMG delivery infrastructure.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4435"/>
+  <seriesInfo name="RFC" value="4435"/>
 </reference>

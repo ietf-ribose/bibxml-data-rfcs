@@ -1,15 +1,21 @@
 <reference anchor="RFC7015" target="https://www.rfc-editor.org/info/rfc7015">
   <front>
     <title>Flow Aggregation for the IP Flow Information Export (IPFIX) Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7015"/>
-    <author fullname="B. Trammell"/>
-    <author fullname="A. Wagner"/>
-    <author fullname="B. Claise"/>
+    <author fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="A. Wagner" initials="A." surname="Wagner">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>ipfix</workgroup>
-    <keyword>Flow metering</keyword>
-    <keyword>Flow measurement</keyword>
-    <keyword>IPFIX mediator</keyword>
-    <abstract>This document provides a common implementation-independent basis for the interoperable application of the IP Flow Information Export (IPFIX) protocol to the handling of Aggregated Flows, which are IPFIX Flows representing packets from multiple Original Flows sharing some set of common properties.  It does this through a detailed terminology and a descriptive Intermediate Aggregation Process architecture, including a specification of methods for Original Flow counting and counter distribution across intervals.</abstract>
+    <abstract>
+      <t>This document provides a common implementation-independent basis for the interoperable application of the IP Flow Information Export (IPFIX) protocol to the handling of Aggregated Flows, which are IPFIX Flows representing packets from multiple Original Flows sharing some set of common properties.  It does this through a detailed terminology and a descriptive Intermediate Aggregation Process architecture, including a specification of methods for Original Flow counting and counter distribution across intervals.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7015"/>
+  <seriesInfo name="RFC" value="7015"/>
 </reference>

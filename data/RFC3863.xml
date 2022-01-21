@@ -1,20 +1,30 @@
 <reference anchor="RFC3863" target="https://www.rfc-editor.org/info/rfc3863">
   <front>
     <title>Presence Information Data Format (PIDF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3863"/>
-    <author fullname="H. Sugano"/>
-    <author fullname="S. Fujimoto"/>
-    <author fullname="G. Klyne"/>
-    <author fullname="A. Bateman"/>
-    <author fullname="W. Carr"/>
-    <author fullname="J. Peterson"/>
+    <author fullname="H. Sugano" initials="H." surname="Sugano">
+      <organization/>
+    </author>
+    <author fullname="S. Fujimoto" initials="S." surname="Fujimoto">
+      <organization/>
+    </author>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
+    <author fullname="A. Bateman" initials="A." surname="Bateman">
+      <organization/>
+    </author>
+    <author fullname="W. Carr" initials="W." surname="Carr">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
     <date year="2004" month="August"/>
     <workgroup>impp</workgroup>
-    <keyword>instant messaging and presence protocol</keyword>
-    <keyword>cpp</keyword>
-    <keyword>common profile for presence</keyword>
-    <keyword>presence data format</keyword>
-    <keyword>application/pidf+xml</keyword>
-    <abstract>This memo specifies the Common Profile for Presence (CPP) Presence Information Data Format (PIDF) as a common presence data format for CPP-compliant Presence protocols, and also defines a new media type "application/pidf+xml" to represent the XML MIME entity for PIDF. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies the Common Profile for Presence (CPP) Presence Information Data Format (PIDF) as a common presence data format for CPP-compliant Presence protocols, and also defines a new media type "application/pidf+xml" to represent the XML MIME entity for PIDF. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3863"/>
+  <seriesInfo name="RFC" value="3863"/>
 </reference>

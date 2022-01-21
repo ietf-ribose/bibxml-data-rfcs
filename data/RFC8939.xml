@@ -1,18 +1,27 @@
 <reference anchor="RFC8939" target="https://www.rfc-editor.org/info/rfc8939">
   <front>
     <title>Deterministic Networking (DetNet) Data Plane: IP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8939"/>
-    <author fullname="B. Varga"/>
-    <author fullname="J. Farkas"/>
-    <author fullname="L. Berger"/>
-    <author fullname="D. Fedyk"/>
-    <author fullname="S. Bryant"/>
+    <author fullname="B. Varga" initials="B." surname="Varga">
+      <organization/>
+    </author>
+    <author fullname="J. Farkas" initials="J." surname="Farkas">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
     <date year="2020" month="November"/>
     <workgroup>detnet</workgroup>
-    <keyword>Application</keyword>
-    <keyword>Endpoint</keyword>
-    <keyword>Service Sub-layer</keyword>
-    <keyword>Forwarding Sub-layer</keyword>
-    <abstract>This document specifies the Deterministic Networking (DetNet) data plane operation for IP hosts and routers that provide DetNet service to IP-encapsulated data.  No DetNet-specific encapsulation is defined to support IP flows; instead, the existing IP-layer and higher-layer protocol header information is used to support flow identification and DetNet service delivery.  This document builds on the DetNet architecture (RFC 8655) and data plane framework (RFC 8938).</abstract>
+    <abstract>
+      <t>This document specifies the Deterministic Networking (DetNet) data plane operation for IP hosts and routers that provide DetNet service to IP-encapsulated data.  No DetNet-specific encapsulation is defined to support IP flows; instead, the existing IP-layer and higher-layer protocol header information is used to support flow identification and DetNet service delivery.  This document builds on the DetNet architecture (RFC 8655) and data plane framework (RFC 8938).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8939"/>
+  <seriesInfo name="RFC" value="8939"/>
 </reference>

@@ -1,18 +1,21 @@
 <reference anchor="RFC6970" target="https://www.rfc-editor.org/info/rfc6970">
   <front>
     <title>Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol Interworking Function (IGD-PCP IWF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6970"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="R. Penno"/>
-    <author fullname="D. Wing"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="R. Penno" initials="R." surname="Penno">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
     <date year="2013" month="July"/>
     <workgroup>pcp</workgroup>
-    <keyword>UPnP</keyword>
-    <keyword>pinhole</keyword>
-    <keyword>PCP</keyword>
-    <keyword>mapping</keyword>
-    <keyword>NAT control</keyword>
-    <keyword>interworking</keyword>
-    <abstract>This document specifies the behavior of the Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol Interworking Function (IGD-PCP IWF).  A UPnP IGD-PCP IWF is required to be embedded in Customer Premises (CP) routers to allow for transparent NAT control in environments where a UPnP IGD is used on the LAN side and PCP is used on the external side of the CP router.</abstract>
+    <abstract>
+      <t>This document specifies the behavior of the Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol Interworking Function (IGD-PCP IWF).  A UPnP IGD-PCP IWF is required to be embedded in Customer Premises (CP) routers to allow for transparent NAT control in environments where a UPnP IGD is used on the LAN side and PCP is used on the external side of the CP router.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6970"/>
+  <seriesInfo name="RFC" value="6970"/>
 </reference>

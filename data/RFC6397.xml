@@ -1,16 +1,15 @@
 <reference anchor="RFC6397" target="https://www.rfc-editor.org/info/rfc6397">
   <front>
     <title>Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing Information Export Format with Geo-Location Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6397"/>
-    <author fullname="T. Manderson"/>
+    <author fullname="T. Manderson" initials="T." surname="Manderson">
+      <organization/>
+    </author>
     <date year="2011" month="October"/>
     <workgroup>grow</workgroup>
-    <keyword>GPS Coordinates</keyword>
-    <keyword>Terrestrial Coordinates</keyword>
-    <keyword>BGP Speaker</keyword>
-    <keyword>BGP Peer</keyword>
-    <keyword>BGP Latitude</keyword>
-    <keyword>BGP Longitude</keyword>
-    <abstract>This document updates the Multi-threaded Routing Toolkit (MRT) export format for Border Gateway Protocol (BGP) routing information by extending it to include optional terrestrial coordinates of a BGP collector and its BGP peers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document updates the Multi-threaded Routing Toolkit (MRT) export format for Border Gateway Protocol (BGP) routing information by extending it to include optional terrestrial coordinates of a BGP collector and its BGP peers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6397"/>
+  <seriesInfo name="RFC" value="6397"/>
 </reference>

@@ -1,20 +1,27 @@
 <reference anchor="RFC7420" target="https://www.rfc-editor.org/info/rfc7420">
   <front>
     <title>Path Computation Element Communication Protocol (PCEP) Management Information Base (MIB) Module</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7420"/>
-    <author fullname="A. Koushik"/>
-    <author fullname="E. Stephan"/>
-    <author fullname="Q. Zhao"/>
-    <author fullname="D. King"/>
-    <author fullname="J. Hardwick"/>
+    <author fullname="A. Koushik" initials="A." surname="Koushik">
+      <organization/>
+    </author>
+    <author fullname="E. Stephan" initials="E." surname="Stephan">
+      <organization/>
+    </author>
+    <author fullname="Q. Zhao" initials="Q." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
+    <author fullname="J. Hardwick" initials="J." surname="Hardwick">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>pce</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Management Information Base</keyword>
-    <keyword>MIB</keyword>
-    <keyword>SMIv2</keyword>
-    <keyword>PCE</keyword>
-    <keyword>PCEP</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for modeling of the Path Computation Element Communication Protocol (PCEP) for communications between a Path Computation Client (PCC) and a Path Computation Element (PCE), or between two PCEs.</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for modeling of the Path Computation Element Communication Protocol (PCEP) for communications between a Path Computation Client (PCC) and a Path Computation Element (PCE), or between two PCEs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7420"/>
+  <seriesInfo name="RFC" value="7420"/>
 </reference>

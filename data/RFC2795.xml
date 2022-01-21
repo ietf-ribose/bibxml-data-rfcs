@@ -1,12 +1,14 @@
 <reference anchor="RFC2795" target="https://www.rfc-editor.org/info/rfc2795">
   <front>
     <title>The Infinite Monkey Protocol Suite (IMPS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2795"/>
-    <author fullname="S. Christey"/>
+    <author fullname="S. Christey" initials="S." surname="Christey">
+      <organization/>
+    </author>
     <date year="2000" month="April"/>
-    <keyword>control</keyword>
-    <keyword>packet</keyword>
-    <keyword>client</keyword>
-    <abstract>This memo describes a protocol suite which supports an infinite number of monkeys that sit at an infinite number of typewriters in order to determine when they have either produced the entire works of William Shakespeare or a good television show.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo describes a protocol suite which supports an infinite number of monkeys that sit at an infinite number of typewriters in order to determine when they have either produced the entire works of William Shakespeare or a good television show.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2795"/>
+  <seriesInfo name="RFC" value="2795"/>
 </reference>

@@ -1,14 +1,21 @@
 <reference anchor="RFC6558" target="https://www.rfc-editor.org/info/rfc6558">
   <front>
     <title>Sieve Extension for Converting Messages before Delivery</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6558"/>
-    <author fullname="A. Melnikov"/>
-    <author fullname="B. Leiba"/>
-    <author fullname="K. Li"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="B. Leiba" initials="B." surname="Leiba">
+      <organization/>
+    </author>
+    <author fullname="K. Li" initials="K." surname="Li">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>sieve</workgroup>
-    <keyword>Sieve</keyword>
-    <keyword>CONVERT</keyword>
-    <abstract>This document describes how the "CONVERT" IMAP extension can be used within the Sieve mail filtering language to transform messages before final delivery. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how the "CONVERT" IMAP extension can be used within the Sieve mail filtering language to transform messages before final delivery. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6558"/>
+  <seriesInfo name="RFC" value="6558"/>
 </reference>

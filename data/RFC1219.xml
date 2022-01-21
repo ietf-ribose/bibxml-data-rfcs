@@ -1,10 +1,14 @@
 <reference anchor="RFC1219" target="https://www.rfc-editor.org/info/rfc1219">
   <front>
     <title>On the assignment of subnet numbers</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1219"/>
-    <author fullname="P.F. Tsuchiya"/>
+    <author fullname="P.F. Tsuchiya" initials="P.F." surname="Tsuchiya">
+      <organization/>
+    </author>
     <date year="1991" month="April"/>
-    <keyword>SUBNETASGN</keyword>
-    <abstract>This memo suggests a new procedure for assigning subnet numbers.  Use of this assignment technique within a network would be a purely local matter, and would not effect other networks.  This memo provides information for the Internet community.  It does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This memo suggests a new procedure for assigning subnet numbers.  Use of this assignment technique within a network would be a purely local matter, and would not effect other networks.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1219"/>
+  <seriesInfo name="RFC" value="1219"/>
 </reference>

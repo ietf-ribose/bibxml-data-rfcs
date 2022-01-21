@@ -1,14 +1,18 @@
 <reference anchor="RFC2938" target="https://www.rfc-editor.org/info/rfc2938">
   <front>
     <title>Identifying Composite Media Features</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2938"/>
-    <author fullname="G. Klyne"/>
-    <author fullname="L. Masinter"/>
+    <author fullname="G. Klyne" initials="G." surname="Klyne">
+      <organization/>
+    </author>
+    <author fullname="L. Masinter" initials="L." surname="Masinter">
+      <organization/>
+    </author>
     <date year="2000" month="September"/>
     <workgroup>conneg</workgroup>
-    <keyword>tags</keyword>
-    <keyword>expression</keyword>
-    <keyword>hash</keyword>
-    <abstract>This document describes an abbreviated format for a composite media feature set, based upon a hash of the feature expression describing that composite. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an abbreviated format for a composite media feature set, based upon a hash of the feature expression describing that composite. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2938"/>
+  <seriesInfo name="RFC" value="2938"/>
 </reference>

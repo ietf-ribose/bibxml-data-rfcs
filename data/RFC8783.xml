@@ -1,22 +1,19 @@
 <reference anchor="RFC8783" target="https://www.rfc-editor.org/info/rfc8783">
   <front>
     <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Data Channel Specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8783"/>
-    <author fullname="M. Boucadair"/>
-    <author fullname="T. Reddy.K"/>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
     <date year="2020" month="May"/>
     <workgroup>dots</workgroup>
-    <keyword>DOTS</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Security</keyword>
-    <keyword>Mitigation</keyword>
-    <keyword>Scrubbing</keyword>
-    <keyword>Anti-DDoS</keyword>
-    <keyword>Mitigator</keyword>
-    <keyword>Security Center</keyword>
-    <keyword>Filtering</keyword>
-    <keyword>Resilience</keyword>
-    <keyword>RESTCONF</keyword>
-    <abstract>The document specifies a Distributed Denial-of-Service Open Threat Signaling (DOTS) data channel used for bulk exchange of data that cannot easily or appropriately communicated through the DOTS signal channel under attack conditions. This is a companion document to "Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel Specification" (RFC 8782).</abstract>
+    <abstract>
+      <t>The document specifies a Distributed Denial-of-Service Open Threat Signaling (DOTS) data channel used for bulk exchange of data that cannot easily or appropriately communicated through the DOTS signal channel under attack conditions.</t>
+      <t>This is a companion document to "Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel Specification" (RFC 8782).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8783"/>
+  <seriesInfo name="RFC" value="8783"/>
 </reference>

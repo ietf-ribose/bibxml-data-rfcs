@@ -1,18 +1,21 @@
 <reference anchor="RFC7881" target="https://www.rfc-editor.org/info/rfc7881">
   <front>
     <title>Seamless Bidirectional Forwarding Detection (S-BFD) for IPv4, IPv6, and MPLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7881"/>
-    <author fullname="C. Pignataro"/>
-    <author fullname="D. Ward"/>
-    <author fullname="N. Akiya"/>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
+    <author fullname="N. Akiya" initials="N." surname="Akiya">
+      <organization/>
+    </author>
     <date year="2016" month="July"/>
     <workgroup>bfd</workgroup>
-    <keyword>BFD</keyword>
-    <keyword>seamless BFD</keyword>
-    <keyword>negotiation free</keyword>
-    <keyword>label verification</keyword>
-    <keyword>segment routing</keyword>
-    <keyword>IP</keyword>
-    <abstract>This document defines procedures for using Seamless Bidirectional Forwarding Detection (S-BFD) in IPv4, IPv6, and MPLS environments.</abstract>
+    <abstract>
+      <t>This document defines procedures for using Seamless Bidirectional Forwarding Detection (S-BFD) in IPv4, IPv6, and MPLS environments.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7881"/>
+  <seriesInfo name="RFC" value="7881"/>
 </reference>

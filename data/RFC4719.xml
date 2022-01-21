@@ -1,14 +1,21 @@
 <reference anchor="RFC4719" target="https://www.rfc-editor.org/info/rfc4719">
   <front>
     <title>Transport of Ethernet Frames over Layer 2 Tunneling Protocol Version 3 (L2TPv3)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4719"/>
-    <author fullname="R. Aggarwal"/>
-    <author fullname="M. Townsley"/>
-    <author fullname="M. Dos Santos"/>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
+    <author fullname="M. Townsley" initials="M." surname="Townsley">
+      <organization/>
+    </author>
+    <author fullname="M. Dos Santos" initials="M." surname="Dos">
+      <organization/>
+    </author>
     <date year="2006" month="November"/>
     <workgroup>l2tpext</workgroup>
-    <keyword>port-to-port</keyword>
-    <keyword>vlan</keyword>
-    <abstract>This document describes the transport of Ethernet frames over the Layer 2 Tunneling Protocol, Version 3 (L2TPv3).  This includes the transport of Ethernet port-to-port frames as well as the transport of Ethernet VLAN frames.  The mechanism described in this document can be used in the creation of Pseudowires to transport Ethernet frames over an IP network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the transport of Ethernet frames over the Layer 2 Tunneling Protocol, Version 3 (L2TPv3).  This includes the transport of Ethernet port-to-port frames as well as the transport of Ethernet VLAN frames.  The mechanism described in this document can be used in the creation of Pseudowires to transport Ethernet frames over an IP network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4719"/>
+  <seriesInfo name="RFC" value="4719"/>
 </reference>

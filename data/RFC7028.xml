@@ -1,20 +1,27 @@
 <reference anchor="RFC7028" target="https://www.rfc-editor.org/info/rfc7028">
   <front>
     <title>Multicast Mobility Routing Optimizations for Proxy Mobile IPv6</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7028"/>
-    <author fullname="JC. Zuniga"/>
-    <author fullname="LM. Contreras"/>
-    <author fullname="CJ. Bernardos"/>
-    <author fullname="S. Jeon"/>
-    <author fullname="Y. Kim"/>
+    <author fullname="JC. Zuniga" initials="JC." surname="Zuniga">
+      <organization/>
+    </author>
+    <author fullname="LM. Contreras" initials="LM." surname="Contreras">
+      <organization/>
+    </author>
+    <author fullname="CJ. Bernardos" initials="CJ." surname="Bernardos">
+      <organization/>
+    </author>
+    <author fullname="S. Jeon" initials="S." surname="Jeon">
+      <organization/>
+    </author>
+    <author fullname="Y. Kim" initials="Y." surname="Kim">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>multimob</workgroup>
-    <keyword>multimob</keyword>
-    <keyword>PMIPv6</keyword>
-    <keyword>MTMA</keyword>
-    <keyword>selector</keyword>
-    <keyword>MLD</keyword>
-    <keyword>IGMP</keyword>
-    <abstract>This document proposes some experimental enhancements to the base solution to support IP multicasting in a Proxy Mobile IPv6 (PMIPv6) domain.  These enhancements include the use of a multicast tree mobility anchor as the topological anchor point for multicast traffic, as well as a direct routing option where the Mobile Access Gateway can provide access to multicast content in the local network.  The goal of these enhancements is to provide benefits such as reducing multicast traffic replication and supporting different PMIPv6 deployment scenarios.</abstract>
+    <abstract>
+      <t>This document proposes some experimental enhancements to the base solution to support IP multicasting in a Proxy Mobile IPv6 (PMIPv6) domain.  These enhancements include the use of a multicast tree mobility anchor as the topological anchor point for multicast traffic, as well as a direct routing option where the Mobile Access Gateway can provide access to multicast content in the local network.  The goal of these enhancements is to provide benefits such as reducing multicast traffic replication and supporting different PMIPv6 deployment scenarios.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7028"/>
+  <seriesInfo name="RFC" value="7028"/>
 </reference>

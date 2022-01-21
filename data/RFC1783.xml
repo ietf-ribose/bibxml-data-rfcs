@@ -1,15 +1,18 @@
 <reference anchor="RFC1783" target="https://www.rfc-editor.org/info/rfc1783">
   <front>
     <title>TFTP Blocksize Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1783"/>
-    <author fullname="G. Malkin"/>
-    <author fullname="A. Harkin"/>
+    <author fullname="G. Malkin" initials="G." surname="Malkin">
+      <organization/>
+    </author>
+    <author fullname="A. Harkin" initials="A." surname="Harkin">
+      <organization/>
+    </author>
     <date year="1995" month="March"/>
     <workgroup>tftpexts</workgroup>
-    <keyword>trivial</keyword>
-    <keyword>file</keyword>
-    <keyword>transfer</keyword>
-    <keyword>booting</keyword>
-    <abstract>This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1783"/>
+  <seriesInfo name="RFC" value="1783"/>
 </reference>

@@ -1,15 +1,18 @@
 <reference anchor="RFC6143" target="https://www.rfc-editor.org/info/rfc6143">
   <front>
     <title>The Remote Framebuffer Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6143"/>
-    <author fullname="T. Richardson"/>
-    <author fullname="J. Levine"/>
+    <author fullname="T. Richardson" initials="T." surname="Richardson">
+      <organization/>
+    </author>
+    <author fullname="J. Levine" initials="J." surname="Levine">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>vnc</keyword>
-    <keyword>rfb</keyword>
-    <keyword>remote framebuffer</keyword>
-    <keyword>remote GUI</keyword>
-    <abstract>RFB ("remote framebuffer") is a simple protocol for remote access to graphical user interfaces that allows a client to view and control a window system on another computer.  Because it works at the framebuffer level, RFB is applicable to all windowing systems and applications.  This document describes the protocol used to communicate between an RFB client and RFB server.  RFB is the protocol used in VNC.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>RFB ("remote framebuffer") is a simple protocol for remote access to graphical user interfaces that allows a client to view and control a window system on another computer.  Because it works at the framebuffer level, RFB is applicable to all windowing systems and applications.  This document describes the protocol used to communicate between an RFB client and RFB server.  RFB is the protocol used in VNC.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6143"/>
+  <seriesInfo name="RFC" value="6143"/>
 </reference>

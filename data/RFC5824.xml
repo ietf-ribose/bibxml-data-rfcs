@@ -1,13 +1,22 @@
 <reference anchor="RFC5824" target="https://www.rfc-editor.org/info/rfc5824">
   <front>
     <title>Requirements for Supporting Customer Resource ReSerVation Protocol (RSVP) and RSVP Traffic Engineering (RSVP-TE) over a BGP/MPLS IP-VPN</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5824"/>
-    <author fullname="K. Kumaki"/>
-    <author fullname="R. Zhang"/>
-    <author fullname="Y. Kamite"/>
+    <author fullname="K. Kumaki" initials="K." surname="Kumaki">
+      <organization/>
+    </author>
+    <author fullname="R. Zhang" initials="R." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="Y. Kamite" initials="Y." surname="Kamite">
+      <organization/>
+    </author>
     <date year="2010" month="April"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>triple-play service</keyword>
-    <abstract>Today, customers expect to run triple-play services through BGP/MPLS IP-VPNs. Some service providers will deploy services that request Quality of Service (QoS) guarantees from a local Customer Edge (CE) to a remote CE across the network. As a result, the application (e.g., voice, video, bandwidth-guaranteed data pipe, etc.) requirements for an end-to-end QoS and reserving an adequate bandwidth continue to increase. Service providers can use both an MPLS and an MPLS Traffic Engineering (MPLS-TE) Label Switched Path (LSP) to meet their service objectives. This document describes service-provider requirements for supporting a customer Resource ReSerVation Protocol (RSVP) and RSVP-TE over a BGP/MPLS IP-VPN. This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Today, customers expect to run triple-play services through BGP/MPLS IP-VPNs. Some service providers will deploy services that request Quality of Service (QoS) guarantees from a local Customer Edge (CE) to a remote CE across the network. As a result, the application (e.g., voice, video, bandwidth-guaranteed data pipe, etc.) requirements for an end-to-end QoS and reserving an adequate bandwidth continue to increase.</t>
+      <t>Service providers can use both an MPLS and an MPLS Traffic Engineering (MPLS-TE) Label Switched Path (LSP) to meet their service objectives. This document describes service-provider requirements for supporting a customer Resource ReSerVation Protocol (RSVP) and RSVP-TE over a BGP/MPLS IP-VPN. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5824"/>
+  <seriesInfo name="RFC" value="5824"/>
 </reference>

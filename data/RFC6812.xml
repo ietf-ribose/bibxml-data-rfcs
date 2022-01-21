@@ -1,15 +1,29 @@
 <reference anchor="RFC6812" target="https://www.rfc-editor.org/info/rfc6812">
   <front>
     <title>Cisco Service-Level Assurance Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6812"/>
-    <author fullname="M. Chiba"/>
-    <author fullname="A. Clemm"/>
-    <author fullname="S. Medley"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="S. Thombare"/>
-    <author fullname="E. Yedavalli"/>
+    <author fullname="M. Chiba" initials="M." surname="Chiba">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A." surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="S. Medley" initials="S." surname="Medley">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="S. Thombare" initials="S." surname="Thombare">
+      <organization/>
+    </author>
+    <author fullname="E. Yedavalli" initials="E." surname="Yedavalli">
+      <organization/>
+    </author>
     <date year="2013" month="January"/>
-    <keyword>Cisco's SLA Protocol</keyword>
-    <abstract>Cisco's Service-Level Assurance Protocol (Cisco's SLA Protocol) is a Performance Measurement protocol that has been widely deployed.  The protocol is used to measure service-level parameters such as network latency, delay variation, and packet/frame loss.  This document describes the Cisco SLA Protocol Measurement-Type UDP-Measurement, to enable vendor interoperability.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>Cisco's Service-Level Assurance Protocol (Cisco's SLA Protocol) is a Performance Measurement protocol that has been widely deployed.  The protocol is used to measure service-level parameters such as network latency, delay variation, and packet/frame loss.  This document describes the Cisco SLA Protocol Measurement-Type UDP-Measurement, to enable vendor interoperability.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6812"/>
+  <seriesInfo name="RFC" value="6812"/>
 </reference>

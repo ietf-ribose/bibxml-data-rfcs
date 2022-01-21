@@ -1,14 +1,18 @@
 <reference anchor="RFC5789" target="https://www.rfc-editor.org/info/rfc5789">
   <front>
     <title>PATCH Method for HTTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5789"/>
-    <author fullname="L. Dusseault"/>
-    <author fullname="J. Snell"/>
+    <author fullname="L. Dusseault" initials="L." surname="Dusseault">
+      <organization/>
+    </author>
+    <author fullname="J. Snell" initials="J." surname="Snell">
+      <organization/>
+    </author>
     <date year="2010" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>HTTP</keyword>
-    <keyword>PATCH</keyword>
-    <keyword>Hypertext Transfer Protocol</keyword>
-    <abstract>Several applications extending the Hypertext Transfer Protocol (HTTP) require a feature to do partial resource modification.  The existing HTTP PUT method only allows a complete replacement of a document.  This proposal adds a new HTTP method, PATCH, to modify an existing HTTP resource. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Several applications extending the Hypertext Transfer Protocol (HTTP) require a feature to do partial resource modification.  The existing HTTP PUT method only allows a complete replacement of a document.  This proposal adds a new HTTP method, PATCH, to modify an existing HTTP resource. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5789"/>
+  <seriesInfo name="RFC" value="5789"/>
 </reference>

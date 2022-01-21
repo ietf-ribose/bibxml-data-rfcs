@@ -1,13 +1,15 @@
 <reference anchor="RFC4051" target="https://www.rfc-editor.org/info/rfc4051">
   <front>
     <title>Additional XML Security Uniform Resource Identifiers (URIs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4051"/>
-    <author fullname="D. Eastlake 3rd"/>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
     <date year="2005" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>digital signatures</keyword>
-    <keyword>encryption</keyword>
-    <keyword>canonicalization</keyword>
-    <abstract>A number of Uniform Resource Identifiers (URIs) intended for use with XML Digital Signatures, Encryption, and Canonicalization are defined.  These URIs identify algorithms and types of keying information. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A number of Uniform Resource Identifiers (URIs) intended for use with XML Digital Signatures, Encryption, and Canonicalization are defined.  These URIs identify algorithms and types of keying information. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4051"/>
+  <seriesInfo name="RFC" value="4051"/>
 </reference>

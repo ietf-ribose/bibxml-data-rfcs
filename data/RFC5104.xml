@@ -1,21 +1,25 @@
 <reference anchor="RFC5104" target="https://www.rfc-editor.org/info/rfc5104">
   <front>
     <title>Codec Control Messages in the RTP Audio-Visual Profile with Feedback (AVPF)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5104"/>
-    <author fullname="S. Wenger"/>
-    <author fullname="U. Chandra"/>
-    <author fullname="M. Westerlund"/>
-    <author fullname="B. Burman"/>
+    <author fullname="S. Wenger" initials="S." surname="Wenger">
+      <organization/>
+    </author>
+    <author fullname="U. Chandra" initials="U." surname="Chandra">
+      <organization/>
+    </author>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author fullname="B. Burman" initials="B." surname="Burman">
+      <organization/>
+    </author>
     <date year="2008" month="February"/>
     <workgroup>avt</workgroup>
-    <keyword>real time protocol</keyword>
-    <keyword>real-time protocol</keyword>
-    <keyword/>
-    <keyword>itu-t rec. h271</keyword>
-    <keyword>video back channel</keyword>
-    <keyword>full intra request</keyword>
-    <keyword>temporary maximum media stream bit rate</keyword>
-    <keyword>temporal-spatial trade-off</keyword>
-    <abstract>This document specifies a few extensions to the messages defined in the Audio-Visual Profile with Feedback (AVPF). They are helpful primarily in conversational multimedia scenarios where centralized multipoint functionalities are in use. However, some are also usable in smaller multicast environments and point-to-point calls. The extensions discussed are messages related to the ITU-T Rec. H.271 Video Back Channel, Full Intra Request, Temporary Maximum Media Stream Bit Rate, and Temporal-Spatial Trade-off. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a few extensions to the messages defined in the Audio-Visual Profile with Feedback (AVPF). They are helpful primarily in conversational multimedia scenarios where centralized multipoint functionalities are in use. However, some are also usable in smaller multicast environments and point-to-point calls.</t>
+      <t>The extensions discussed are messages related to the ITU-T Rec. H.271 Video Back Channel, Full Intra Request, Temporary Maximum Media Stream Bit Rate, and Temporal-Spatial Trade-off. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5104"/>
+  <seriesInfo name="RFC" value="5104"/>
 </reference>

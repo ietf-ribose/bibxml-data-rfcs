@@ -1,12 +1,21 @@
 <reference anchor="RFC7775" target="https://www.rfc-editor.org/info/rfc7775">
   <front>
     <title>IS-IS Route Preference for Extended IP and IPv6 Reachability</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7775"/>
-    <author fullname="L. Ginsberg"/>
-    <author fullname="S. Litkowski"/>
-    <author fullname="S. Previdi"/>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
     <date year="2016" month="February"/>
     <workgroup>isis</workgroup>
-    <abstract>In existing specifications, the route preferences for IPv4/IPv6 Extended Reachability TLVs are not explicitly stated.  There are also inconsistencies in the definition of how the up/down bit applies to route preference when the prefix advertisement appears in Level 2 Link State Protocol Data Units (LSPs).  This document addresses these issues.</abstract>
+    <abstract>
+      <t>In existing specifications, the route preferences for IPv4/IPv6 Extended Reachability TLVs are not explicitly stated.  There are also inconsistencies in the definition of how the up/down bit applies to route preference when the prefix advertisement appears in Level 2 Link State Protocol Data Units (LSPs).  This document addresses these issues.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7775"/>
+  <seriesInfo name="RFC" value="7775"/>
 </reference>

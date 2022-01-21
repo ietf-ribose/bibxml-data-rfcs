@@ -1,14 +1,18 @@
 <reference anchor="RFC1372" target="https://www.rfc-editor.org/info/rfc1372">
   <front>
     <title>Telnet Remote Flow Control Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1372"/>
-    <author fullname="C. Hedrick"/>
-    <author fullname="D. Borman"/>
+    <author fullname="C. Hedrick" initials="C." surname="Hedrick">
+      <organization/>
+    </author>
+    <author fullname="D. Borman" initials="D." surname="Borman">
+      <organization/>
+    </author>
     <date year="1992" month="October"/>
     <workgroup>telnet</workgroup>
-    <keyword>TOPT-RFC</keyword>
-    <keyword>terminal</keyword>
-    <keyword>access</keyword>
-    <abstract>This document specifies an extended version of the Telnet Remote Flow Control Option, RFC 1080, with the addition of the RESTART-ANY and RESTART-XON suboptions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies an extended version of the Telnet Remote Flow Control Option, RFC 1080, with the addition of the RESTART-ANY and RESTART-XON suboptions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1372"/>
+  <seriesInfo name="RFC" value="1372"/>
 </reference>

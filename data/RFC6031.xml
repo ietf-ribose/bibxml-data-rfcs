@@ -1,11 +1,18 @@
 <reference anchor="RFC6031" target="https://www.rfc-editor.org/info/rfc6031">
   <front>
     <title>Cryptographic Message Syntax (CMS) Symmetric Key Package Content Type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6031"/>
-    <author fullname="S. Turner"/>
-    <author fullname="R. Housley"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
     <date year="2010" month="December"/>
     <workgroup>keyprov</workgroup>
-    <abstract>This document defines the symmetric key format content type.  It is transport independent.  The Cryptographic Message Syntax (CMS) can be used to digitally sign, digest, authenticate, or encrypt this content type. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines the symmetric key format content type.  It is transport independent.  The Cryptographic Message Syntax (CMS) can be used to digitally sign, digest, authenticate, or encrypt this content type. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6031"/>
+  <seriesInfo name="RFC" value="6031"/>
 </reference>

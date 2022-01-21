@@ -1,17 +1,24 @@
 <reference anchor="RFC1848" target="https://www.rfc-editor.org/info/rfc1848">
   <front>
     <title>MIME Object Security Services</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1848"/>
-    <author fullname="S. Crocker"/>
-    <author fullname="N. Freed"/>
-    <author fullname="J. Galvin"/>
-    <author fullname="S. Murphy"/>
+    <author fullname="S. Crocker" initials="S." surname="Crocker">
+      <organization/>
+    </author>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="J. Galvin" initials="J." surname="Galvin">
+      <organization/>
+    </author>
+    <author fullname="S. Murphy" initials="S." surname="Murphy">
+      <organization/>
+    </author>
     <date year="1995" month="October"/>
     <workgroup>pem</workgroup>
-    <keyword>MIME-Sec</keyword>
-    <keyword>mail</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document defines MIME Object Security Services (MOSS), a protocol that uses the multipart/signed and multipart/encrypted framework [7] to apply digital signature and encryption services to MIME objects. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines MIME Object Security Services (MOSS), a protocol that uses the multipart/signed and multipart/encrypted framework [7] to apply digital signature and encryption services to MIME objects. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1848"/>
+  <seriesInfo name="RFC" value="1848"/>
 </reference>

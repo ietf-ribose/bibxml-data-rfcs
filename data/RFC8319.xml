@@ -1,14 +1,28 @@
 <reference anchor="RFC8319" target="https://www.rfc-editor.org/info/rfc8319">
   <front>
     <title>Support for Adjustable Maximum Router Lifetimes per Link</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8319"/>
-    <author fullname="S. Krishnan"/>
-    <author fullname="J. Korhonen"/>
-    <author fullname="S. Chakrabarti"/>
-    <author fullname="E. Nordmark"/>
-    <author fullname="A. Yourtchenko"/>
+    <author fullname="S. Krishnan" initials="S." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="J. Korhonen" initials="J." surname="Korhonen">
+      <organization/>
+    </author>
+    <author fullname="S. Chakrabarti" initials="S." surname="Chakrabarti">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
+    <author fullname="A. Yourtchenko" initials="A." surname="Yourtchenko">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>6man</workgroup>
-    <abstract>The IPv6 Neighbor Discovery protocol specifies the maximum time allowed between sending unsolicited multicast Router Advertisements (RAs) from a router interface as well as the maximum router lifetime. It also allows the limits to be overridden by documents that are specific to the link layer. This document allows for overriding these values on a per-link basis. This document specifies updates to the IPv6 Neighbor Discovery Protocol (RFC 4861) to increase the maximum time allowed between sending unsolicited multicast RAs from a router interface as well as to increase the maximum router lifetime.</abstract>
+    <abstract>
+      <t>The IPv6 Neighbor Discovery protocol specifies the maximum time allowed between sending unsolicited multicast Router Advertisements (RAs) from a router interface as well as the maximum router lifetime. It also allows the limits to be overridden by documents that are specific to the link layer. This document allows for overriding these values on a per-link basis.</t>
+      <t>This document specifies updates to the IPv6 Neighbor Discovery Protocol (RFC 4861) to increase the maximum time allowed between sending unsolicited multicast RAs from a router interface as well as to increase the maximum router lifetime.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8319"/>
+  <seriesInfo name="RFC" value="8319"/>
 </reference>

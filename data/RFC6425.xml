@@ -1,16 +1,33 @@
 <reference anchor="RFC6425" target="https://www.rfc-editor.org/info/rfc6425">
   <front>
     <title>Detecting Data-Plane Failures in Point-to-Multipoint MPLS - Extensions to LSP Ping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6425"/>
-    <author fullname="S. Saxena"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="Z. Ali"/>
-    <author fullname="A. Farrel"/>
-    <author fullname="S. Yasukawa"/>
-    <author fullname="T. Nadeau"/>
+    <author fullname="S. Saxena" initials="S." surname="Saxena">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
+    <author fullname="S. Yasukawa" initials="S." surname="Yasukawa">
+      <organization/>
+    </author>
+    <author fullname="T. Nadeau" initials="T." surname="Nadeau">
+      <organization/>
+    </author>
     <date year="2011" month="November"/>
     <workgroup>mpls</workgroup>
-    <keyword>p2mp</keyword>
-    <abstract>Recent proposals have extended the scope of Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) to encompass point-to-multipoint (P2MP) LSPs. The requirement for a simple and efficient mechanism that can be used to detect data-plane failures in point-to-point (P2P) MPLS LSPs has been recognized and has led to the development of techniques for fault detection and isolation commonly referred to as "LSP ping". The scope of this document is fault detection and isolation for P2MP MPLS LSPs. This documents does not replace any of the mechanisms of LSP ping, but clarifies their applicability to MPLS P2MP LSPs, and extends the techniques and mechanisms of LSP ping to the MPLS P2MP environment. This document updates RFC 4379. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Recent proposals have extended the scope of Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) to encompass point-to-multipoint (P2MP) LSPs.</t>
+      <t>The requirement for a simple and efficient mechanism that can be used to detect data-plane failures in point-to-point (P2P) MPLS LSPs has been recognized and has led to the development of techniques for fault detection and isolation commonly referred to as "LSP ping".</t>
+      <t>The scope of this document is fault detection and isolation for P2MP MPLS LSPs. This documents does not replace any of the mechanisms of LSP ping, but clarifies their applicability to MPLS P2MP LSPs, and extends the techniques and mechanisms of LSP ping to the MPLS P2MP environment.</t>
+      <t>This document updates RFC 4379. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6425"/>
+  <seriesInfo name="RFC" value="6425"/>
 </reference>

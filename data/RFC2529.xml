@@ -1,18 +1,18 @@
 <reference anchor="RFC2529" target="https://www.rfc-editor.org/info/rfc2529">
   <front>
     <title>Transmission of IPv6 over IPv4 Domains without Explicit Tunnels</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2529"/>
-    <author fullname="B. Carpenter"/>
-    <author fullname="C. Jung"/>
+    <author fullname="B. Carpenter" initials="B." surname="Carpenter">
+      <organization/>
+    </author>
+    <author fullname="C. Jung" initials="C." surname="Jung">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>link-local</keyword>
-    <keyword>link</keyword>
-    <keyword>local</keyword>
-    <keyword>addresses</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>ip</keyword>
-    <abstract>This memo specifies the frame format for transmission of IPv6 (IPV6) packets and the method of forming IPv6 link-local addresses over IPv4 domains.  It also specifies the content of the Source/Target Link-layer Address option used in the Router Solicitation, Router Advertisement, Neighbor Solicitation, and Neighbor Advertisement and Redirect messages, when those messages are transmitted on an IPv4 multicast network. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies the frame format for transmission of IPv6 (IPV6) packets and the method of forming IPv6 link-local addresses over IPv4 domains.  It also specifies the content of the Source/Target Link-layer Address option used in the Router Solicitation, Router Advertisement, Neighbor Solicitation, and Neighbor Advertisement and Redirect messages, when those messages are transmitted on an IPv4 multicast network. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2529"/>
+  <seriesInfo name="RFC" value="2529"/>
 </reference>

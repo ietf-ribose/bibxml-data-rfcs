@@ -1,15 +1,30 @@
 <reference anchor="RFC7449" target="https://www.rfc-editor.org/info/rfc7449">
   <front>
     <title>Path Computation Element Communication Protocol (PCEP) Requirements for Wavelength Switched Optical Network (WSON) Routing and Wavelength Assignment</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7449"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="G. Bernstein"/>
-    <author fullname="J. Martensson"/>
-    <author fullname="T. Takeda"/>
-    <author fullname="T. Tsuritani"/>
-    <author fullname="O. Gonzalez de Dios"/>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="G. Bernstein" initials="G." surname="Bernstein">
+      <organization/>
+    </author>
+    <author fullname="J. Martensson" initials="J." surname="Martensson">
+      <organization/>
+    </author>
+    <author fullname="T. Takeda" initials="T." surname="Takeda">
+      <organization/>
+    </author>
+    <author fullname="T. Tsuritani" initials="T." surname="Tsuritani">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
     <workgroup>pce</workgroup>
-    <abstract>This memo provides application-specific requirements for the Path Computation Element Communication Protocol (PCEP) for the support of Wavelength Switched Optical Networks (WSONs).  Lightpath provisioning in WSONs requires a Routing and Wavelength Assignment (RWA) process.  From a path computation perspective, wavelength assignment is the process of determining which wavelength can be used on each hop of a path and forms an additional routing constraint to optical light path computation.  Requirements for PCEP extensions in support of optical impairments will be addressed in a separate document.</abstract>
+    <abstract>
+      <t>This memo provides application-specific requirements for the Path Computation Element Communication Protocol (PCEP) for the support of Wavelength Switched Optical Networks (WSONs).  Lightpath provisioning in WSONs requires a Routing and Wavelength Assignment (RWA) process.  From a path computation perspective, wavelength assignment is the process of determining which wavelength can be used on each hop of a path and forms an additional routing constraint to optical light path computation.  Requirements for PCEP extensions in support of optical impairments will be addressed in a separate document.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7449"/>
+  <seriesInfo name="RFC" value="7449"/>
 </reference>

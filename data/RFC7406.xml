@@ -1,14 +1,27 @@
 <reference anchor="RFC7406" target="https://www.rfc-editor.org/info/rfc7406">
   <front>
     <title>Extensions to the Emergency Services Architecture for Dealing With Unauthenticated and Unauthorized Devices</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7406"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="S. McCann"/>
-    <author fullname="G. Bajko"/>
-    <author fullname="H. Tschofenig"/>
-    <author fullname="D. Kroeselberg"/>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="S. McCann" initials="S." surname="McCann">
+      <organization/>
+    </author>
+    <author fullname="G. Bajko" initials="G." surname="Bajko">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="D. Kroeselberg" initials="D." surname="Kroeselberg">
+      <organization/>
+    </author>
     <date year="2014" month="December"/>
     <workgroup>ecrit</workgroup>
-    <abstract>This document provides a problem statement, introduces terminology, and describes an extension for the base IETF emergency services architecture to address cases where an emergency caller is not authenticated, has no identifiable service provider, or has no remaining credit with which to pay for access to the network.</abstract>
+    <abstract>
+      <t>This document provides a problem statement, introduces terminology, and describes an extension for the base IETF emergency services architecture to address cases where an emergency caller is not authenticated, has no identifiable service provider, or has no remaining credit with which to pay for access to the network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7406"/>
+  <seriesInfo name="RFC" value="7406"/>
 </reference>

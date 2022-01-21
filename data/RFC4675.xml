@@ -1,14 +1,21 @@
 <reference anchor="RFC4675" target="https://www.rfc-editor.org/info/rfc4675">
   <front>
     <title>RADIUS Attributes for Virtual LAN and Priority Support</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4675"/>
-    <author fullname="P. Congdon"/>
-    <author fullname="M. Sanchez"/>
-    <author fullname="B. Aboba"/>
+    <author fullname="P. Congdon" initials="P." surname="Congdon">
+      <organization/>
+    </author>
+    <author fullname="M. Sanchez" initials="M." surname="Sanchez">
+      <organization/>
+    </author>
+    <author fullname="B. Aboba" initials="B." surname="Aboba">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>radext</workgroup>
-    <keyword>remote authentication dial-in user service</keyword>
-    <keyword>local area network</keyword>
-    <abstract>This document proposes additional Remote Authentication Dial-In User Service (RADIUS) attributes for dynamic Virtual LAN assignment and prioritization, for use in provisioning of access to IEEE 802 local area networks.  These attributes are usable within either RADIUS or Diameter. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes additional Remote Authentication Dial-In User Service (RADIUS) attributes for dynamic Virtual LAN assignment and prioritization, for use in provisioning of access to IEEE 802 local area networks.  These attributes are usable within either RADIUS or Diameter. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4675"/>
+  <seriesInfo name="RFC" value="4675"/>
 </reference>

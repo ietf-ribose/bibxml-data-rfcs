@@ -1,11 +1,18 @@
 <reference anchor="RFC3702" target="https://www.rfc-editor.org/info/rfc3702">
   <front>
     <title>Authentication, Authorization, and Accounting Requirements for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3702"/>
-    <author fullname="J. Loughney"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="J. Loughney" initials="J." surname="Loughney">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2004" month="February"/>
     <workgroup>sipping</workgroup>
-    <abstract>As Session Initiation Protocol (SIP) services are deployed on the Internet, there is a need for authentication, authorization, and accounting of SIP sessions.  This document sets out the basic requirements for this work.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>As Session Initiation Protocol (SIP) services are deployed on the Internet, there is a need for authentication, authorization, and accounting of SIP sessions.  This document sets out the basic requirements for this work.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3702"/>
+  <seriesInfo name="RFC" value="3702"/>
 </reference>

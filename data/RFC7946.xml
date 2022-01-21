@@ -1,18 +1,30 @@
 <reference anchor="RFC7946" target="https://www.rfc-editor.org/info/rfc7946">
   <front>
     <title>The GeoJSON Format</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7946"/>
-    <author fullname="H. Butler"/>
-    <author fullname="M. Daly"/>
-    <author fullname="A. Doyle"/>
-    <author fullname="S. Gillies"/>
-    <author fullname="S. Hagen"/>
-    <author fullname="T. Schaub"/>
+    <author fullname="H. Butler" initials="H." surname="Butler">
+      <organization/>
+    </author>
+    <author fullname="M. Daly" initials="M." surname="Daly">
+      <organization/>
+    </author>
+    <author fullname="A. Doyle" initials="A." surname="Doyle">
+      <organization/>
+    </author>
+    <author fullname="S. Gillies" initials="S." surname="Gillies">
+      <organization/>
+    </author>
+    <author fullname="S. Hagen" initials="S." surname="Hagen">
+      <organization/>
+    </author>
+    <author fullname="T. Schaub" initials="T." surname="Schaub">
+      <organization/>
+    </author>
     <date year="2016" month="August"/>
     <workgroup>geojson</workgroup>
-    <keyword>JSON</keyword>
-    <keyword>Geospatial</keyword>
-    <keyword>JavaScript Object Notation</keyword>
-    <abstract>GeoJSON is a geospatial data interchange format based on JavaScript Object Notation (JSON).  It defines several types of JSON objects and the manner in which they are combined to represent data about geographic features, their properties, and their spatial extents.  GeoJSON uses a geographic coordinate reference system, World Geodetic System 1984, and units of decimal degrees.</abstract>
+    <abstract>
+      <t>GeoJSON is a geospatial data interchange format based on JavaScript Object Notation (JSON).  It defines several types of JSON objects and the manner in which they are combined to represent data about geographic features, their properties, and their spatial extents.  GeoJSON uses a geographic coordinate reference system, World Geodetic System 1984, and units of decimal degrees.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7946"/>
+  <seriesInfo name="RFC" value="7946"/>
 </reference>

@@ -1,17 +1,30 @@
 <reference anchor="RFC8916" target="https://www.rfc-editor.org/info/rfc8916">
   <front>
     <title>A YANG Data Model for the Multicast Source Discovery Protocol (MSDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8916"/>
-    <author fullname="X. Liu"/>
-    <author fullname="Z. Zhang"/>
-    <author fullname="A. Peter"/>
-    <author fullname="M. Sivakumar"/>
-    <author fullname="F. Guo"/>
-    <author fullname="P. McAllister"/>
+    <author fullname="X. Liu" initials="X." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="A. Peter" initials="A." surname="Peter">
+      <organization/>
+    </author>
+    <author fullname="M. Sivakumar" initials="M." surname="Sivakumar">
+      <organization/>
+    </author>
+    <author fullname="F. Guo" initials="F." surname="Guo">
+      <organization/>
+    </author>
+    <author fullname="P. McAllister" initials="P." surname="McAllister">
+      <organization/>
+    </author>
     <date year="2020" month="October"/>
     <workgroup>pim</workgroup>
-    <keyword>MSDP</keyword>
-    <keyword>YANG</keyword>
-    <abstract>This document defines a YANG data model for the configuration and management of Multicast Source Discovery Protocol (MSDP) protocol operations.</abstract>
+    <abstract>
+      <t>This document defines a YANG data model for the configuration and management of Multicast Source Discovery Protocol (MSDP) protocol operations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8916"/>
+  <seriesInfo name="RFC" value="8916"/>
 </reference>

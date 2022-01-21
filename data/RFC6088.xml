@@ -1,15 +1,24 @@
 <reference anchor="RFC6088" target="https://www.rfc-editor.org/info/rfc6088">
   <front>
     <title>Traffic Selectors for Flow Bindings</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6088"/>
-    <author fullname="G. Tsirtsis"/>
-    <author fullname="G. Giarreta"/>
-    <author fullname="H. Soliman"/>
-    <author fullname="N. Montavont"/>
+    <author fullname="G. Tsirtsis" initials="G." surname="Tsirtsis">
+      <organization/>
+    </author>
+    <author fullname="G. Giarreta" initials="G." surname="Giarreta">
+      <organization/>
+    </author>
+    <author fullname="H. Soliman" initials="H." surname="Soliman">
+      <organization/>
+    </author>
+    <author fullname="N. Montavont" initials="N." surname="Montavont">
+      <organization/>
+    </author>
     <date year="2011" month="January"/>
     <workgroup>mext</workgroup>
-    <keyword>Mobile IPv6</keyword>
-    <keyword>Binary Traffic Selectors</keyword>
-    <abstract>This document defines binary formats for IPv4 and IPv6 traffic selectors to be used in conjunction with flow bindings for Mobile IPv6. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines binary formats for IPv4 and IPv6 traffic selectors to be used in conjunction with flow bindings for Mobile IPv6. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6088"/>
+  <seriesInfo name="RFC" value="6088"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="RFC1068" target="https://www.rfc-editor.org/info/rfc1068">
   <front>
     <title>Background File Transfer Program (BFTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1068"/>
-    <author fullname="A.L. DeSchon"/>
-    <author fullname="R.T. Braden"/>
+    <author fullname="A.L. DeSchon" initials="A.L." surname="DeSchon">
+      <organization/>
+    </author>
+    <author fullname="R.T. Braden" initials="R.T." surname="Braden">
+      <organization/>
+    </author>
     <date year="1988" month="August"/>
-    <keyword>FTP</keyword>
-    <abstract>This RFC describes an Internet background file transfer service that is built upon the third-party transfer model of FTP.  No new protocols are involved.  The purpose of this memo is to stimulate discussions on new Internet service modes.</abstract>
+    <abstract>
+      <t>This RFC describes an Internet background file transfer service that is built upon the third-party transfer model of FTP.  No new protocols are involved.  The purpose of this memo is to stimulate discussions on new Internet service modes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1068"/>
+  <seriesInfo name="RFC" value="1068"/>
 </reference>

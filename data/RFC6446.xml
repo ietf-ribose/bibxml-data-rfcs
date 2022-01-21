@@ -1,15 +1,21 @@
 <reference anchor="RFC6446" target="https://www.rfc-editor.org/info/rfc6446">
   <front>
     <title>Session Initiation Protocol (SIP) Event Notification Extension for Notification Rate Control</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6446"/>
-    <author fullname="A. Niemi"/>
-    <author fullname="K. Kiss"/>
-    <author fullname="S. Loreto"/>
+    <author fullname="A. Niemi" initials="A." surname="Niemi">
+      <organization/>
+    </author>
+    <author fullname="K. Kiss" initials="K." surname="Kiss">
+      <organization/>
+    </author>
+    <author fullname="S. Loreto" initials="S." surname="Loreto">
+      <organization/>
+    </author>
     <date year="2012" month="January"/>
     <workgroup>sipcore</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>events</keyword>
-    <keyword>rate control</keyword>
-    <abstract>This document specifies mechanisms for adjusting the rate of Session Initiation Protocol (SIP) event notifications.  These mechanisms can be applied in subscriptions to all SIP event packages.  This document updates RFC 3265. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies mechanisms for adjusting the rate of Session Initiation Protocol (SIP) event notifications.  These mechanisms can be applied in subscriptions to all SIP event packages.  This document updates RFC 3265. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6446"/>
+  <seriesInfo name="RFC" value="6446"/>
 </reference>

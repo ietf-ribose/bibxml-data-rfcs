@@ -1,16 +1,20 @@
 <reference anchor="RFC2449" target="https://www.rfc-editor.org/info/rfc2449">
   <front>
     <title>POP3 Extension Mechanism</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2449"/>
-    <author fullname="R. Gellens"/>
-    <author fullname="C. Newman"/>
-    <author fullname="L. Lundblade"/>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
+    <author fullname="C. Newman" initials="C." surname="Newman">
+      <organization/>
+    </author>
+    <author fullname="L. Lundblade" initials="L." surname="Lundblade">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
-    <keyword>POP3-EXT</keyword>
-    <keyword>post</keyword>
-    <keyword>office</keyword>
-    <keyword>protocol</keyword>
-    <keyword>server</keyword>
-    <abstract>This memo updates RFC 1939 to define a mechanism to announce support for optional commands, extensions, and unconditional server behavior. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo updates RFC 1939 to define a mechanism to announce support for optional commands, extensions, and unconditional server behavior. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2449"/>
+  <seriesInfo name="RFC" value="2449"/>
 </reference>

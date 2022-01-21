@@ -1,15 +1,19 @@
 <reference anchor="RFC6692" target="https://www.rfc-editor.org/info/rfc6692">
   <front>
     <title>Source Ports in Abuse Reporting Format (ARF) Reports</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6692"/>
-    <author fullname="R. Clayton"/>
-    <author fullname="M. Kucherawy"/>
+    <author fullname="R. Clayton" initials="R." surname="Clayton">
+      <organization/>
+    </author>
+    <author fullname="M. Kucherawy" initials="M." surname="Kucherawy">
+      <organization/>
+    </author>
     <date year="2012" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>ARF</keyword>
-    <keyword>ports</keyword>
-    <keyword>reporting</keyword>
-    <keyword>feedback</keyword>
-    <abstract>This document defines an additional header field for use in Abuse Reporting Format (ARF) reports to permit the identification of the source port of the connection involved in an abuse incident. This document updates RFC 6591. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines an additional header field for use in Abuse Reporting Format (ARF) reports to permit the identification of the source port of the connection involved in an abuse incident.</t>
+      <t>This document updates RFC 6591. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6692"/>
+  <seriesInfo name="RFC" value="6692"/>
 </reference>

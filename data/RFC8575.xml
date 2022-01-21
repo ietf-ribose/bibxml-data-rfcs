@@ -1,13 +1,24 @@
 <reference anchor="RFC8575" target="https://www.rfc-editor.org/info/rfc8575">
   <front>
     <title>YANG Data Model for the Precision Time Protocol (PTP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8575"/>
-    <author fullname="Y. Jiang"/>
-    <author fullname="X. Liu"/>
-    <author fullname="J. Xu"/>
-    <author fullname="R. Cummings"/>
+    <author fullname="Y. Jiang" initials="Y." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="X. Liu" initials="X." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="J. Xu" initials="J." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="R. Cummings" initials="R." surname="Cummings">
+      <organization/>
+    </author>
     <date year="2019" month="May"/>
     <workgroup>tictoc</workgroup>
-    <abstract>This document defines a YANG data model for the configuration of devices and clocks using the Precision Time Protocol (PTP) as specified in IEEE Std 1588-2008.  It also defines the retrieval of the configuration information, the data sets and the running states of PTP clocks.  The YANG module in this document conforms to the Network Management Datastore Architecture (NMDA).</abstract>
+    <abstract>
+      <t>This document defines a YANG data model for the configuration of devices and clocks using the Precision Time Protocol (PTP) as specified in IEEE Std 1588-2008.  It also defines the retrieval of the configuration information, the data sets and the running states of PTP clocks.  The YANG module in this document conforms to the Network Management Datastore Architecture (NMDA).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8575"/>
+  <seriesInfo name="RFC" value="8575"/>
 </reference>

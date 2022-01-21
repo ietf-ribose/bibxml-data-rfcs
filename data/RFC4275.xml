@@ -1,13 +1,18 @@
 <reference anchor="RFC4275" target="https://www.rfc-editor.org/info/rfc4275">
   <front>
     <title>BGP-4 MIB Implementation Survey</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4275"/>
-    <author fullname="S. Hares"/>
-    <author fullname="D. Hares"/>
+    <author fullname="S. Hares" initials="S." surname="Hares">
+      <organization/>
+    </author>
+    <author fullname="D. Hares" initials="D." surname="Hares">
+      <organization/>
+    </author>
     <date year="2006" month="January"/>
     <workgroup>idr</workgroup>
-    <keyword>border gateway protocol</keyword>
-    <keyword>management information base</keyword>
-    <abstract>This document provides a survey of implementations of BGP-4 that support RFC 1657 MIB agents according to the BGP-4 v1 MIB specification.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document provides a survey of implementations of BGP-4 that support RFC 1657 MIB agents according to the BGP-4 v1 MIB specification.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4275"/>
+  <seriesInfo name="RFC" value="4275"/>
 </reference>

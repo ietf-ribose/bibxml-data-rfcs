@@ -1,12 +1,20 @@
 <reference anchor="RFC1818" target="https://www.rfc-editor.org/info/rfc1818">
   <front>
     <title>Best Current Practices</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1818"/>
-    <author fullname="J. Postel"/>
-    <author fullname="T. Li"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1995" month="August"/>
-    <keyword>BCP</keyword>
-    <abstract>This document describes a new series of documents which describe best current practices for the Internet community.  Documents in this series carry the endorsement of the Internet Engineering Steering Group (IESG).</abstract>
+    <abstract>
+      <t>This document describes a new series of documents which describe best current practices for the Internet community.  Documents in this series carry the endorsement of the Internet Engineering Steering Group (IESG).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1818"/>
+  <seriesInfo name="RFC" value="1818"/>
 </reference>

@@ -1,11 +1,18 @@
 <reference anchor="RFC7428" target="https://www.rfc-editor.org/info/rfc7428">
   <front>
     <title>Transmission of IPv6 Packets over ITU-T G.9959 Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7428"/>
-    <author fullname="A. Brandt"/>
-    <author fullname="J. Buron"/>
+    <author fullname="A. Brandt" initials="A." surname="Brandt">
+      <organization/>
+    </author>
+    <author fullname="J. Buron" initials="J." surname="Buron">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
     <workgroup>6lo</workgroup>
-    <abstract>This document describes the frame format for transmission of IPv6 packets as well as a method of forming IPv6 link-local addresses and statelessly autoconfigured IPv6 addresses on ITU-T G.9959 networks.</abstract>
+    <abstract>
+      <t>This document describes the frame format for transmission of IPv6 packets as well as a method of forming IPv6 link-local addresses and statelessly autoconfigured IPv6 addresses on ITU-T G.9959 networks.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7428"/>
+  <seriesInfo name="RFC" value="7428"/>
 </reference>

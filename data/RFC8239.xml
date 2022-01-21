@@ -1,11 +1,18 @@
 <reference anchor="RFC8239" target="https://www.rfc-editor.org/info/rfc8239">
   <front>
     <title>Data Center Benchmarking Methodology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8239"/>
-    <author fullname="L. Avramov"/>
-    <author fullname="J. Rapp"/>
+    <author fullname="L. Avramov" initials="L." surname="Avramov">
+      <organization/>
+    </author>
+    <author fullname="J. Rapp" initials="J." surname="Rapp">
+      <organization/>
+    </author>
     <date year="2017" month="August"/>
     <workgroup>bmwg</workgroup>
-    <abstract>The purpose of this informational document is to establish test and evaluation methodology and measurement techniques for physical network equipment in the data center.  RFC 8238 is a prerequisite for this document, as it contains terminology that is considered normative.  Many of these terms and methods may be applicable beyond the scope of this document as the technologies originally applied in the data center are deployed elsewhere.</abstract>
+    <abstract>
+      <t>The purpose of this informational document is to establish test and evaluation methodology and measurement techniques for physical network equipment in the data center.  RFC 8238 is a prerequisite for this document, as it contains terminology that is considered normative.  Many of these terms and methods may be applicable beyond the scope of this document as the technologies originally applied in the data center are deployed elsewhere.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8239"/>
+  <seriesInfo name="RFC" value="8239"/>
 </reference>

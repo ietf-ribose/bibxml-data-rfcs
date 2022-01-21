@@ -1,12 +1,15 @@
 <reference anchor="RFC8823" target="https://www.rfc-editor.org/info/rfc8823">
   <front>
     <title>Extensions to Automatic Certificate Management Environment for End-User S/MIME Certificates</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8823"/>
-    <author fullname="A. Melnikov"/>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>acme</workgroup>
-    <keyword>ACME</keyword>
-    <keyword>S/MIME</keyword>
-    <abstract>This document specifies identifiers and challenges required to enable the Automated Certificate Management Environment (ACME) to issue certificates for use by email users that want to use S/MIME.</abstract>
+    <abstract>
+      <t>This document specifies identifiers and challenges required to enable the Automated Certificate Management Environment (ACME) to issue certificates for use by email users that want to use S/MIME.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8823"/>
+  <seriesInfo name="RFC" value="8823"/>
 </reference>

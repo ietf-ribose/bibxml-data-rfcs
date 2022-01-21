@@ -1,15 +1,21 @@
 <reference anchor="RFC8203" target="https://www.rfc-editor.org/info/rfc8203">
   <front>
     <title>BGP Administrative Shutdown Communication</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8203"/>
-    <author fullname="J. Snijders"/>
-    <author fullname="J. Heitz"/>
-    <author fullname="J. Scudder"/>
+    <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <organization/>
+    </author>
+    <author fullname="J. Heitz" initials="J." surname="Heitz">
+      <organization/>
+    </author>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
     <date year="2017" month="July"/>
     <workgroup>idr</workgroup>
-    <keyword>BGP</keyword>
-    <keyword>cease</keyword>
-    <keyword>shutdown</keyword>
-    <abstract>This document enhances the BGP Cease NOTIFICATION message "Administrative Shutdown" and "Administrative Reset" subcodes for operators to transmit a short freeform message to describe why a BGP session was shutdown or reset.  This document updates RFC 4486.</abstract>
+    <abstract>
+      <t>This document enhances the BGP Cease NOTIFICATION message "Administrative Shutdown" and "Administrative Reset" subcodes for operators to transmit a short freeform message to describe why a BGP session was shutdown or reset.  This document updates RFC 4486.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8203"/>
+  <seriesInfo name="RFC" value="8203"/>
 </reference>

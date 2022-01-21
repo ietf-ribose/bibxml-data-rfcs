@@ -1,15 +1,24 @@
 <reference anchor="RFC4535" target="https://www.rfc-editor.org/info/rfc4535">
   <front>
     <title>GSAKMP: Group Secure Association Key Management Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4535"/>
-    <author fullname="H. Harney"/>
-    <author fullname="U. Meth"/>
-    <author fullname="A. Colegrove"/>
-    <author fullname="G. Gross"/>
+    <author fullname="H. Harney" initials="H." surname="Harney">
+      <organization/>
+    </author>
+    <author fullname="U. Meth" initials="U." surname="Meth">
+      <organization/>
+    </author>
+    <author fullname="A. Colegrove" initials="A." surname="Colegrove">
+      <organization/>
+    </author>
+    <author fullname="G. Gross" initials="G." surname="Gross">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>msec</workgroup>
-    <keyword>security framework</keyword>
-    <keyword>cryptographic network</keyword>
-    <abstract>This document specifies the Group Secure Association Key Management Protocol (GSAKMP).  The GSAKMP provides a security framework for creating and managing cryptographic groups on a network.  It provides mechanisms to disseminate group policy and authenticate users, rules to perform access control decisions during group establishment and recovery, capabilities to recover from the compromise of group members, delegation of group security functions, and capabilities to destroy the group.  It also generates group keys. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the Group Secure Association Key Management Protocol (GSAKMP).  The GSAKMP provides a security framework for creating and managing cryptographic groups on a network.  It provides mechanisms to disseminate group policy and authenticate users, rules to perform access control decisions during group establishment and recovery, capabilities to recover from the compromise of group members, delegation of group security functions, and capabilities to destroy the group.  It also generates group keys. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4535"/>
+  <seriesInfo name="RFC" value="4535"/>
 </reference>

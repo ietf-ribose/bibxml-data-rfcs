@@ -1,15 +1,24 @@
 <reference anchor="RFC7823" target="https://www.rfc-editor.org/info/rfc7823">
   <front>
     <title>Performance-Based Path Selection for Explicitly Routed Label Switched Paths (LSPs) Using TE Metric Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7823"/>
-    <author fullname="A. Atlas"/>
-    <author fullname="J. Drake"/>
-    <author fullname="S. Giacalone"/>
-    <author fullname="S. Previdi"/>
+    <author fullname="A. Atlas" initials="A." surname="Atlas">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="S. Giacalone" initials="S." surname="Giacalone">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
     <date year="2016" month="May"/>
     <workgroup>teas</workgroup>
-    <keyword>Traffic Engineering</keyword>
-    <keyword> Path Computation</keyword>
-    <abstract>In certain networks, it is critical to consider network performance criteria when selecting the path for an explicitly routed RSVP-TE Label Switched Path (LSP).  Such performance criteria can include latency, jitter, and loss or other indications such as the conformance to link performance objectives and non-RSVP TE traffic load.  This specification describes how a path computation function may use network performance data, such as is advertised via the OSPF and IS-IS TE metric extensions (defined outside the scope of this document) to perform such path selections.</abstract>
+    <abstract>
+      <t>In certain networks, it is critical to consider network performance criteria when selecting the path for an explicitly routed RSVP-TE Label Switched Path (LSP).  Such performance criteria can include latency, jitter, and loss or other indications such as the conformance to link performance objectives and non-RSVP TE traffic load.  This specification describes how a path computation function may use network performance data, such as is advertised via the OSPF and IS-IS TE metric extensions (defined outside the scope of this document) to perform such path selections.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7823"/>
+  <seriesInfo name="RFC" value="7823"/>
 </reference>

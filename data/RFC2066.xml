@@ -1,13 +1,14 @@
 <reference anchor="RFC2066" target="https://www.rfc-editor.org/info/rfc2066">
   <front>
     <title>TELNET CHARSET Option</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2066"/>
-    <author fullname="R. Gellens"/>
+    <author fullname="R. Gellens" initials="R." surname="Gellens">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
-    <keyword>TOPT-CHARSET</keyword>
-    <keyword>character</keyword>
-    <keyword>set</keyword>
-    <keyword>application</keyword>
-    <abstract>This document specifies a mechanism for passing character set and translation information between a TELNET client and server.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This document specifies a mechanism for passing character set and translation information between a TELNET client and server.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2066"/>
+  <seriesInfo name="RFC" value="2066"/>
 </reference>

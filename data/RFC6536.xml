@@ -1,14 +1,18 @@
 <reference anchor="RFC6536" target="https://www.rfc-editor.org/info/rfc6536">
   <front>
     <title>Network Configuration Protocol (NETCONF) Access Control Model</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6536"/>
-    <author fullname="A. Bierman"/>
-    <author fullname="M. Bjorklund"/>
+    <author fullname="A. Bierman" initials="A." surname="Bierman">
+      <organization/>
+    </author>
+    <author fullname="M. Bjorklund" initials="M." surname="Bjorklund">
+      <organization/>
+    </author>
     <date year="2012" month="March"/>
     <workgroup>netconf</workgroup>
-    <keyword>NETCONF</keyword>
-    <keyword>YANG</keyword>
-    <keyword>XML</keyword>
-    <abstract>The standardization of network configuration interfaces for use with the Network Configuration Protocol (NETCONF) requires a structured and secure operating environment that promotes human usability and multi-vendor interoperability.  There is a need for standard mechanisms to restrict NETCONF protocol access for particular users to a pre-configured subset of all available NETCONF protocol operations and content.  This document defines such an access control model. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The standardization of network configuration interfaces for use with the Network Configuration Protocol (NETCONF) requires a structured and secure operating environment that promotes human usability and multi-vendor interoperability.  There is a need for standard mechanisms to restrict NETCONF protocol access for particular users to a pre-configured subset of all available NETCONF protocol operations and content.  This document defines such an access control model. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6536"/>
+  <seriesInfo name="RFC" value="6536"/>
 </reference>

@@ -1,11 +1,18 @@
 <reference anchor="RFC6795" target="https://www.rfc-editor.org/info/rfc6795">
   <front>
     <title>A Session Initiation Protocol (SIP) Event Package for Session-Specific Policies</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6795"/>
-    <author fullname="V. Hilt"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="V. Hilt" initials="V." surname="Hilt">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>sipping</workgroup>
-    <abstract>This specification defines a Session Initiation Protocol (SIP) event package for session-specific policies.  This event package enables user agents (UAs) to subscribe to session policies for a SIP session and to receive notifications if these policies change. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines a Session Initiation Protocol (SIP) event package for session-specific policies.  This event package enables user agents (UAs) to subscribe to session policies for a SIP session and to receive notifications if these policies change. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6795"/>
+  <seriesInfo name="RFC" value="6795"/>
 </reference>

@@ -1,14 +1,27 @@
 <reference anchor="RFC8408" target="https://www.rfc-editor.org/info/rfc8408">
   <front>
     <title>Conveying Path Setup Type in PCE Communication Protocol (PCEP) Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8408"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="J. Tantsura"/>
-    <author fullname="I. Minei"/>
-    <author fullname="R. Varga"/>
-    <author fullname="J. Hardwick"/>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="I. Minei" initials="I." surname="Minei">
+      <organization/>
+    </author>
+    <author fullname="R. Varga" initials="R." surname="Varga">
+      <organization/>
+    </author>
+    <author fullname="J. Hardwick" initials="J." surname="Hardwick">
+      <organization/>
+    </author>
     <date year="2018" month="July"/>
     <workgroup>pce</workgroup>
-    <abstract>A Path Computation Element (PCE) can compute Traffic Engineering (TE) paths through a network; these paths are subject to various constraints.  Currently, TE paths are Label Switched Paths (LSPs) that are set up using the RSVP-TE signaling protocol.  However, other TE path setup methods are possible within the PCE architecture.  This document proposes an extension to the PCE Communication Protocol (PCEP) to allow support for different path setup methods over a given PCEP session.</abstract>
+    <abstract>
+      <t>A Path Computation Element (PCE) can compute Traffic Engineering (TE) paths through a network; these paths are subject to various constraints.  Currently, TE paths are Label Switched Paths (LSPs) that are set up using the RSVP-TE signaling protocol.  However, other TE path setup methods are possible within the PCE architecture.  This document proposes an extension to the PCE Communication Protocol (PCEP) to allow support for different path setup methods over a given PCEP session.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8408"/>
+  <seriesInfo name="RFC" value="8408"/>
 </reference>

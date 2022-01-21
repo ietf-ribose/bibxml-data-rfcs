@@ -1,18 +1,17 @@
 <reference anchor="RFC2968" target="https://www.rfc-editor.org/info/rfc2968">
   <front>
     <title>Mesh of Multiple DAG servers - Results from TISDAG</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2968"/>
-    <author fullname="L. Daigle"/>
-    <author fullname="T. Eklof"/>
+    <author fullname="L. Daigle" initials="L." surname="Daigle">
+      <organization/>
+    </author>
+    <author fullname="T. Eklof" initials="T." surname="Eklof">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
-    <keyword>technical</keyword>
-    <keyword>infrastructure</keyword>
-    <keyword>swedish</keyword>
-    <keyword>directory</keyword>
-    <keyword>access</keyword>
-    <keyword>gateways</keyword>
-    <keyword>mesh</keyword>
-    <keyword>index</keyword>
-    <abstract>This document defines the basic principle for establishing a mesh, that interoperating services should exchange index objects, according to the architecture of the mesh (e.g., hierarchical, or graph-like, preferably without loops!).  The Common Indexing Protocol (CIP) is designed to facilitate the creation not only of query referral indexes, but also of meshes of (loosely) affiliated referral indexes.  The purpose of such a mesh of servers is to implement some kind of distributed sharing of indexing and/or searching tasks across different servers.  So far, the TISDAG (Technical Infrastructure for Swedish Directory Access Gateways) project has focused on creating a single referral index; the obvious next step is to integrate that into a larger set of interoperating services.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document defines the basic principle for establishing a mesh, that interoperating services should exchange index objects, according to the architecture of the mesh (e.g., hierarchical, or graph-like, preferably without loops!).  The Common Indexing Protocol (CIP) is designed to facilitate the creation not only of query referral indexes, but also of meshes of (loosely) affiliated referral indexes.  The purpose of such a mesh of servers is to implement some kind of distributed sharing of indexing and/or searching tasks across different servers.  So far, the TISDAG (Technical Infrastructure for Swedish Directory Access Gateways) project has focused on creating a single referral index; the obvious next step is to integrate that into a larger set of interoperating services.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2968"/>
+  <seriesInfo name="RFC" value="2968"/>
 </reference>

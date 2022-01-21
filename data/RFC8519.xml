@@ -1,18 +1,24 @@
 <reference anchor="RFC8519" target="https://www.rfc-editor.org/info/rfc8519">
   <front>
     <title>YANG Data Model for Network Access Control Lists (ACLs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8519"/>
-    <author fullname="M. Jethanandani"/>
-    <author fullname="S. Agarwal"/>
-    <author fullname="L. Huang"/>
-    <author fullname="D. Blair"/>
+    <author fullname="M. Jethanandani" initials="M." surname="Jethanandani">
+      <organization/>
+    </author>
+    <author fullname="S. Agarwal" initials="S." surname="Agarwal">
+      <organization/>
+    </author>
+    <author fullname="L. Huang" initials="L." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="D. Blair" initials="D." surname="Blair">
+      <organization/>
+    </author>
     <date year="2019" month="March"/>
     <workgroup>netmod</workgroup>
-    <keyword>ACE</keyword>
-    <keyword>ACL</keyword>
-    <keyword>Firewall</keyword>
-    <keyword>PBR</keyword>
-    <keyword>NMDA</keyword>
-    <abstract>This document defines a data model for Access Control Lists (ACLs).  An ACL is a user-ordered set of rules used to configure the forwarding behavior in a device.  Each rule is used to find a match on a packet and define actions that will be performed on the packet.</abstract>
+    <abstract>
+      <t>This document defines a data model for Access Control Lists (ACLs).  An ACL is a user-ordered set of rules used to configure the forwarding behavior in a device.  Each rule is used to find a match on a packet and define actions that will be performed on the packet.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8519"/>
+  <seriesInfo name="RFC" value="8519"/>
 </reference>

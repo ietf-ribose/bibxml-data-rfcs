@@ -1,17 +1,27 @@
 <reference anchor="RFC8957" target="https://www.rfc-editor.org/info/rfc8957">
   <front>
     <title>Synonymous Flow Label Framework</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8957"/>
-    <author fullname="S. Bryant"/>
-    <author fullname="M. Chen"/>
-    <author fullname="G. Swallow"/>
-    <author fullname="S. Sivabalan"/>
-    <author fullname="G. Mirsky"/>
+    <author fullname="S. Bryant" initials="S." surname="Bryant">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="G. Swallow" initials="G." surname="Swallow">
+      <organization/>
+    </author>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
     <date year="2021" month="January"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>Flow</keyword>
-    <keyword>Label</keyword>
-    <abstract>RFC 8372 ("MPLS Flow Identification Considerations") describes the requirement for introducing flow identities within the MPLS architecture.  This document describes a method of accomplishing this by using a technique called "Synonymous Flow Labels" in which labels that mimic the behavior of other labels provide the identification service.  These identifiers can be used to trigger per-flow operations on the packet at the receiving label switching router.</abstract>
+    <abstract>
+      <t>RFC 8372 ("MPLS Flow Identification Considerations") describes the requirement for introducing flow identities within the MPLS architecture.  This document describes a method of accomplishing this by using a technique called "Synonymous Flow Labels" in which labels that mimic the behavior of other labels provide the identification service.  These identifiers can be used to trigger per-flow operations on the packet at the receiving label switching router.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8957"/>
+  <seriesInfo name="RFC" value="8957"/>
 </reference>

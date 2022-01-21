@@ -1,11 +1,18 @@
 <reference anchor="RFC5880" target="https://www.rfc-editor.org/info/rfc5880">
   <front>
     <title>Bidirectional Forwarding Detection (BFD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5880"/>
-    <author fullname="D. Katz"/>
-    <author fullname="D. Ward"/>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>bfd</workgroup>
-    <abstract>This document describes a protocol intended to detect faults in the bidirectional path between two forwarding engines, including interfaces, data link(s), and to the extent possible the forwarding engines themselves, with potentially very low latency.  It operates independently of media, data protocols, and routing protocols. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a protocol intended to detect faults in the bidirectional path between two forwarding engines, including interfaces, data link(s), and to the extent possible the forwarding engines themselves, with potentially very low latency.  It operates independently of media, data protocols, and routing protocols. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5880"/>
+  <seriesInfo name="RFC" value="5880"/>
 </reference>

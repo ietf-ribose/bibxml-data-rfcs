@@ -1,19 +1,21 @@
 <reference anchor="RFC5932" target="https://www.rfc-editor.org/info/rfc5932">
   <front>
     <title>Camellia Cipher Suites for TLS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5932"/>
-    <author fullname="A. Kato"/>
-    <author fullname="M. Kanda"/>
-    <author fullname="S. Kanno"/>
+    <author fullname="A. Kato" initials="A." surname="Kato">
+      <organization/>
+    </author>
+    <author fullname="M. Kanda" initials="M." surname="Kanda">
+      <organization/>
+    </author>
+    <author fullname="S. Kanno" initials="S." surname="Kanno">
+      <organization/>
+    </author>
     <date year="2010" month="June"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>block cipher</keyword>
-    <keyword>security</keyword>
-    <keyword>camellia</keyword>
-    <keyword>tls</keyword>
-    <keyword>cbc</keyword>
-    <keyword>sha2</keyword>
-    <keyword>camellia encryption algorithm</keyword>
-    <abstract>This document specifies a set of cipher suites for the Transport Security Layer (TLS) protocol to support the Camellia encryption algorithm as a block cipher.  It amends the cipher suites originally specified in RFC 4132 by introducing counterparts using the newer cryptographic hash algorithms from the SHA-2 family.  This document obsoletes RFC 4132. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a set of cipher suites for the Transport Security Layer (TLS) protocol to support the Camellia encryption algorithm as a block cipher.  It amends the cipher suites originally specified in RFC 4132 by introducing counterparts using the newer cryptographic hash algorithms from the SHA-2 family.  This document obsoletes RFC 4132. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5932"/>
+  <seriesInfo name="RFC" value="5932"/>
 </reference>

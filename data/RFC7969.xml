@@ -1,18 +1,18 @@
 <reference anchor="RFC7969" target="https://www.rfc-editor.org/info/rfc7969">
   <front>
     <title>Customizing DHCP Configuration on the Basis of Network Topology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7969"/>
-    <author fullname="T. Lemon"/>
-    <author fullname="T. Mrugalski"/>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
+    <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+      <organization/>
+    </author>
     <date year="2016" month="October"/>
     <workgroup>dhc</workgroup>
-    <keyword>dhcpv4</keyword>
-    <keyword>dhcpv6</keyword>
-    <keyword>relay-agents (relay agents)</keyword>
-    <keyword>multiple subnets</keyword>
-    <keyword>subnets</keyword>
-    <keyword>links</keyword>
-    <keyword>prefixes</keyword>
-    <abstract>DHCP servers have evolved over the years to provide significant functionality beyond that described in the DHCP base specifications.  One aspect of this functionality is support for context-specific configuration information.  This memo describes some such features and explains their operation.</abstract>
+    <abstract>
+      <t>DHCP servers have evolved over the years to provide significant functionality beyond that described in the DHCP base specifications.  One aspect of this functionality is support for context-specific configuration information.  This memo describes some such features and explains their operation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7969"/>
+  <seriesInfo name="RFC" value="7969"/>
 </reference>

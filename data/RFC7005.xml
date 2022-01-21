@@ -1,12 +1,21 @@
 <reference anchor="RFC7005" target="https://www.rfc-editor.org/info/rfc7005">
   <front>
     <title>RTP Control Protocol (RTCP) Extended Report (XR) Block for De-Jitter Buffer Metric Reporting</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7005"/>
-    <author fullname="A. Clark"/>
-    <author fullname="V. Singh"/>
-    <author fullname="Q. Wu"/>
+    <author fullname="A. Clark" initials="A." surname="Clark">
+      <organization/>
+    </author>
+    <author fullname="V. Singh" initials="V." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
     <date year="2013" month="September"/>
     <workgroup>xrblock</workgroup>
-    <abstract>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of de-jitter buffer metrics for a range of RTP applications.</abstract>
+    <abstract>
+      <t>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows the reporting of de-jitter buffer metrics for a range of RTP applications.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7005"/>
+  <seriesInfo name="RFC" value="7005"/>
 </reference>

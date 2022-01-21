@@ -1,15 +1,31 @@
 <reference anchor="RFC7618" target="https://www.rfc-editor.org/info/rfc7618">
   <front>
     <title>Dynamic Allocation of Shared IPv4 Addresses</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7618"/>
-    <author fullname="Y. Cui"/>
-    <author fullname="Q. Sun"/>
-    <author fullname="I. Farrer"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="Q. Sun"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="Y. Cui" initials="Y." surname="Cui">
+      <organization/>
+    </author>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="I. Farrer" initials="I." surname="Farrer">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="Q. Sun" initials="Q." surname="Sun">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2015" month="August"/>
     <workgroup>dhc</workgroup>
-    <abstract>This memo describes the dynamic allocation of shared IPv4 addresses to clients using DHCPv4. Address sharing allows a single IPv4 address to be allocated to multiple active clients simultaneously, with each client being differentiated by a unique set of transport- layer source port numbers. The necessary changes to existing DHCPv4 client and server behavior are described, and a new DHCPv4 option for provisioning clients with shared IPv4 addresses is included. Due to the nature of IP address sharing, some limitations to its applicability are necessary. This memo describes these limitations and recommends suitable architectures and technologies where address sharing may be utilized.</abstract>
+    <abstract>
+      <t>This memo describes the dynamic allocation of shared IPv4 addresses to clients using DHCPv4. Address sharing allows a single IPv4 address to be allocated to multiple active clients simultaneously, with each client being differentiated by a unique set of transport- layer source port numbers. The necessary changes to existing DHCPv4 client and server behavior are described, and a new DHCPv4 option for provisioning clients with shared IPv4 addresses is included.</t>
+      <t>Due to the nature of IP address sharing, some limitations to its applicability are necessary. This memo describes these limitations and recommends suitable architectures and technologies where address sharing may be utilized.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7618"/>
+  <seriesInfo name="RFC" value="7618"/>
 </reference>

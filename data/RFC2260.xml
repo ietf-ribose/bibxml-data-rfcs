@@ -1,15 +1,17 @@
 <reference anchor="RFC2260" target="https://www.rfc-editor.org/info/rfc2260">
   <front>
     <title>Scalable Support for Multi-homed Multi-provider Connectivity</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2260"/>
-    <author fullname="T. Bates"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="T. Bates" initials="T." surname="Bates">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
-    <keyword>ISP</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Service</keyword>
-    <keyword>Provider</keyword>
-    <keyword>Routing</keyword>
-    <abstract>This document describes addressing and routing strategies for multi- homed enterprises attached to multiple Internet Service Providers (ISPs) that are intended to reduce the routing overhead due to these enterprises in the global Internet routing system.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</abstract>
+    <abstract>
+      <t>This document describes addressing and routing strategies for multi- homed enterprises attached to multiple Internet Service Providers (ISPs) that are intended to reduce the routing overhead due to these enterprises in the global Internet routing system.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2260"/>
+  <seriesInfo name="RFC" value="2260"/>
 </reference>

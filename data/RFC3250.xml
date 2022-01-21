@@ -1,22 +1,21 @@
 <reference anchor="RFC3250" target="https://www.rfc-editor.org/info/rfc3250">
   <front>
     <title>Tag Image File Format Fax eXtended (TIFF-FX) - image/tiff-fx MIME Sub-type Registration</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3250"/>
-    <author fullname="L. McIntyre"/>
-    <author fullname="G. Parsons"/>
-    <author fullname="J. Rafferty"/>
+    <author fullname="L. McIntyre" initials="L." surname="McIntyre">
+      <organization/>
+    </author>
+    <author fullname="G. Parsons" initials="G." surname="Parsons">
+      <organization/>
+    </author>
+    <author fullname="J. Rafferty" initials="J." surname="Rafferty">
+      <organization/>
+    </author>
     <date year="2002" month="September"/>
     <workgroup>fax</workgroup>
-    <keyword>FFIF</keyword>
-    <keyword>TIFF</keyword>
-    <keyword>Tag</keyword>
-    <keyword>Image</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>MIME</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>Internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <abstract>This document describes the registration of the MIME sub-type image/tiff-fx.  The encodings are defined by File Format for Internet Fax and its extensions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the registration of the MIME sub-type image/tiff-fx.  The encodings are defined by File Format for Internet Fax and its extensions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3250"/>
+  <seriesInfo name="RFC" value="3250"/>
 </reference>

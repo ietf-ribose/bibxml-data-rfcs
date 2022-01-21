@@ -1,13 +1,22 @@
 <reference anchor="RFC6520" target="https://www.rfc-editor.org/info/rfc6520">
   <front>
     <title>Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) Heartbeat Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6520"/>
-    <author fullname="R. Seggelmann"/>
-    <author fullname="M. Tuexen"/>
-    <author fullname="M. Williams"/>
+    <author fullname="R. Seggelmann" initials="R." surname="Seggelmann">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
+    <author fullname="M. Williams" initials="M." surname="Williams">
+      <organization/>
+    </author>
     <date year="2012" month="February"/>
     <workgroup>tls</workgroup>
-    <keyword>tls/dtls</keyword>
-    <abstract>This document describes the Heartbeat Extension for the Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) protocols. The Heartbeat Extension provides a new protocol for TLS/DTLS allowing the usage of keep-alive functionality without performing a renegotiation and a basis for path MTU (PMTU) discovery for DTLS. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the Heartbeat Extension for the Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) protocols.</t>
+      <t>The Heartbeat Extension provides a new protocol for TLS/DTLS allowing the usage of keep-alive functionality without performing a renegotiation and a basis for path MTU (PMTU) discovery for DTLS. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6520"/>
+  <seriesInfo name="RFC" value="6520"/>
 </reference>

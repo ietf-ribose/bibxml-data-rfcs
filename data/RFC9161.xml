@@ -1,14 +1,27 @@
 <reference anchor="RFC9161" target="https://www.rfc-editor.org/info/rfc9161">
   <front>
     <title>Operational Aspects of Proxy ARP/ND in Ethernet Virtual Private Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9161"/>
-    <author fullname="J. Rabadan"/>
-    <author fullname="S. Sathappan"/>
-    <author fullname="K. Nagaraj"/>
-    <author fullname="G. Hankins"/>
-    <author fullname="T. King"/>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author fullname="S. Sathappan" initials="S." surname="Sathappan">
+      <organization/>
+    </author>
+    <author fullname="K. Nagaraj" initials="K." surname="Nagaraj">
+      <organization/>
+    </author>
+    <author fullname="G. Hankins" initials="G." surname="Hankins">
+      <organization/>
+    </author>
+    <author fullname="T. King" initials="T." surname="King">
+      <organization/>
+    </author>
     <date year="2022" month="January"/>
     <workgroup>bess</workgroup>
-    <abstract>This document describes the Ethernet Virtual Private Network (EVPN) Proxy ARP/ND function augmented by the capability of the ARP/ND Extended Community.  From that perspective, this document updates the EVPN specification to provide more comprehensive documentation of the operation of the Proxy ARP/ND function.  The EVPN Proxy ARP/ND function and the ARP/ND Extended Community help operators of Internet Exchange Points, Data Centers, and other networks deal with IPv4 and IPv6 address resolution issues associated with large Broadcast Domains by reducing and even suppressing the flooding produced by address resolution in the EVPN network.</abstract>
+    <abstract>
+      <t>This document describes the Ethernet Virtual Private Network (EVPN) Proxy ARP/ND function augmented by the capability of the ARP/ND Extended Community.  From that perspective, this document updates the EVPN specification to provide more comprehensive documentation of the operation of the Proxy ARP/ND function.  The EVPN Proxy ARP/ND function and the ARP/ND Extended Community help operators of Internet Exchange Points, Data Centers, and other networks deal with IPv4 and IPv6 address resolution issues associated with large Broadcast Domains by reducing and even suppressing the flooding produced by address resolution in the EVPN network.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9161"/>
+  <seriesInfo name="RFC" value="9161"/>
 </reference>

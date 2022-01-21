@@ -1,15 +1,24 @@
 <reference anchor="RFC7650" target="https://www.rfc-editor.org/info/rfc7650">
   <front>
     <title>A Constrained Application Protocol (CoAP) Usage for REsource LOcation And Discovery (RELOAD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7650"/>
-    <author fullname="J. Jimenez"/>
-    <author fullname="J. Lopez-Vega"/>
-    <author fullname="J. Maenpaa"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="J. Jimenez" initials="J." surname="Jimenez">
+      <organization/>
+    </author>
+    <author fullname="J. Lopez-Vega" initials="J." surname="Lopez-Vega">
+      <organization/>
+    </author>
+    <author fullname="J. Maenpaa" initials="J." surname="Maenpaa">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2015" month="September"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>CoAP</keyword>
-    <keyword>RELOAD</keyword>
-    <abstract>This document defines a Constrained Application Protocol (CoAP) Usage for REsource LOcation And Discovery (RELOAD).  The CoAP Usage provides the functionality to federate Wireless Sensor Networks (WSNs) in a peer-to-peer fashion.  The CoAP Usage for RELOAD allows CoAP nodes to store resources in a RELOAD peer-to-peer overlay, provides a lookup service, and enables the use of RELOAD overlay as a cache for sensor data.  This functionality is implemented in the RELOAD overlay itself, without the use of centralized servers.  The RELOAD AppAttach method is used to establish a direct connection between nodes through which CoAP messages are exchanged.</abstract>
+    <abstract>
+      <t>This document defines a Constrained Application Protocol (CoAP) Usage for REsource LOcation And Discovery (RELOAD).  The CoAP Usage provides the functionality to federate Wireless Sensor Networks (WSNs) in a peer-to-peer fashion.  The CoAP Usage for RELOAD allows CoAP nodes to store resources in a RELOAD peer-to-peer overlay, provides a lookup service, and enables the use of RELOAD overlay as a cache for sensor data.  This functionality is implemented in the RELOAD overlay itself, without the use of centralized servers.  The RELOAD AppAttach method is used to establish a direct connection between nodes through which CoAP messages are exchanged.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7650"/>
+  <seriesInfo name="RFC" value="7650"/>
 </reference>

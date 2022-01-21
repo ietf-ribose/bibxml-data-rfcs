@@ -1,14 +1,21 @@
 <reference anchor="RFC4076" target="https://www.rfc-editor.org/info/rfc4076">
   <front>
     <title>Renumbering Requirements for Stateless Dynamic Host Configuration Protocol for IPv6 (DHCPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4076"/>
-    <author fullname="T. Chown"/>
-    <author fullname="S. Venaas"/>
-    <author fullname="A. Vijayabhaskar"/>
+    <author fullname="T. Chown" initials="T." surname="Chown">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
+    <author fullname="A. Vijayabhaskar" initials="A." surname="Vijayabhaskar">
+      <organization/>
+    </author>
     <date year="2005" month="May"/>
     <workgroup>dhc</workgroup>
-    <keyword>internet protocol</keyword>
-    <keyword>stateless address autoconfiguration</keyword>
-    <abstract>IPv6 hosts using Stateless Address Autoconfiguration are able to configure their IPv6 address and default router settings automatically.  However, further settings are not available.  If these hosts wish to configure their DNS, NTP, or other specific settings automatically, the stateless variant of the Dynamic Host Configuration Protocol for IPv6 (DHCPv6) could be used.  This combination of Stateless Address Autoconfiguration and stateless DHCPv6 could be used quite commonly in IPv6 networks.  However, hosts using this combination currently have no means by which to be informed of changes in stateless DHCPv6 option settings; e.g., the addition of a new NTP server address, a change in DNS search paths, or full site renumbering.  This document is presented as a problem statement from which a solution should be proposed in a subsequent document.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>IPv6 hosts using Stateless Address Autoconfiguration are able to configure their IPv6 address and default router settings automatically.  However, further settings are not available.  If these hosts wish to configure their DNS, NTP, or other specific settings automatically, the stateless variant of the Dynamic Host Configuration Protocol for IPv6 (DHCPv6) could be used.  This combination of Stateless Address Autoconfiguration and stateless DHCPv6 could be used quite commonly in IPv6 networks.  However, hosts using this combination currently have no means by which to be informed of changes in stateless DHCPv6 option settings; e.g., the addition of a new NTP server address, a change in DNS search paths, or full site renumbering.  This document is presented as a problem statement from which a solution should be proposed in a subsequent document.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4076"/>
+  <seriesInfo name="RFC" value="4076"/>
 </reference>

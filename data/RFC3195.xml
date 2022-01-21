@@ -1,18 +1,18 @@
 <reference anchor="RFC3195" target="https://www.rfc-editor.org/info/rfc3195">
   <front>
     <title>Reliable Delivery for syslog</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3195"/>
-    <author fullname="D. New"/>
-    <author fullname="M. Rose"/>
+    <author fullname="D. New" initials="D." surname="New">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
     <date year="2001" month="November"/>
     <workgroup>syslog</workgroup>
-    <keyword>mappings</keyword>
-    <keyword>encryption</keyword>
-    <keyword>authentication</keyword>
-    <keyword>beep</keyword>
-    <keyword>blocks</keyword>
-    <keyword>extensible</keyword>
-    <keyword>exchange</keyword>
-    <abstract>The BSD Syslog Protocol describes a number of service options related to propagating event messages.  This memo describes two mappings of the syslog protocol to TCP connections, both useful for reliable delivery of event messages. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The BSD Syslog Protocol describes a number of service options related to propagating event messages.  This memo describes two mappings of the syslog protocol to TCP connections, both useful for reliable delivery of event messages. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3195"/>
+  <seriesInfo name="RFC" value="3195"/>
 </reference>

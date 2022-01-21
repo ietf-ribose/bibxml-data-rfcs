@@ -1,15 +1,21 @@
 <reference anchor="RFC5217" target="https://www.rfc-editor.org/info/rfc5217">
   <front>
     <title>Memorandum for Multi-Domain Public Key Infrastructure Interoperability</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5217"/>
-    <author fullname="M. Shimaoka"/>
-    <author fullname="N. Hastings"/>
-    <author fullname="R. Nielsen"/>
+    <author fullname="M. Shimaoka" initials="M." surname="Shimaoka">
+      <organization/>
+    </author>
+    <author fullname="N. Hastings" initials="N." surname="Hastings">
+      <organization/>
+    </author>
+    <author fullname="R. Nielsen" initials="R." surname="Nielsen">
+      <organization/>
+    </author>
     <date year="2008" month="July"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>pki</keyword>
-    <keyword>multi-domain pki</keyword>
-    <keyword>pki domain</keyword>
-    <abstract>The objective of this document is to establish a terminology framework and to suggest the operational requirements of Public Key Infrastructure (PKI) domain for interoperability of multi-domain Public Key Infrastructure, where each PKI domain is operated under a distinct policy.  This document describes the relationships between Certification Authorities (CAs), provides the definition and requirements for PKI domains, and discusses typical models of multi-domain PKI.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The objective of this document is to establish a terminology framework and to suggest the operational requirements of Public Key Infrastructure (PKI) domain for interoperability of multi-domain Public Key Infrastructure, where each PKI domain is operated under a distinct policy.  This document describes the relationships between Certification Authorities (CAs), provides the definition and requirements for PKI domains, and discusses typical models of multi-domain PKI.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5217"/>
+  <seriesInfo name="RFC" value="5217"/>
 </reference>

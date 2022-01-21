@@ -1,12 +1,18 @@
 <reference anchor="RFC6712" target="https://www.rfc-editor.org/info/rfc6712">
   <front>
     <title>Internet X.509 Public Key Infrastructure -- HTTP Transfer for the Certificate Management Protocol (CMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6712"/>
-    <author fullname="T. Kause"/>
-    <author fullname="M. Peylo"/>
+    <author fullname="T. Kause" initials="T." surname="Kause">
+      <organization/>
+    </author>
+    <author fullname="M. Peylo" initials="M." surname="Peylo">
+      <organization/>
+    </author>
     <date year="2012" month="September"/>
     <workgroup>pkix</workgroup>
-    <keyword>CMPtrans</keyword>
-    <abstract>This document describes how to layer the Certificate Management Protocol (CMP) over HTTP.  It is the "CMPtrans" document referenced in RFC 4210; therefore, this document updates the reference given therein. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to layer the Certificate Management Protocol (CMP) over HTTP.  It is the "CMPtrans" document referenced in RFC 4210; therefore, this document updates the reference given therein. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6712"/>
+  <seriesInfo name="RFC" value="6712"/>
 </reference>

@@ -1,13 +1,18 @@
 <reference anchor="RFC4640" target="https://www.rfc-editor.org/info/rfc4640">
   <front>
     <title>Problem Statement for bootstrapping Mobile IPv6 (MIPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4640"/>
-    <author fullname="A. Patel"/>
-    <author fullname="G. Giaretta"/>
+    <author fullname="A. Patel" initials="A." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="G. Giaretta" initials="G." surname="Giaretta">
+      <organization/>
+    </author>
     <date year="2006" month="September"/>
     <workgroup>mip6</workgroup>
-    <keyword>internet protocol version 6</keyword>
-    <keyword>mobile node</keyword>
-    <abstract>A mobile node needs at least the following information: a home address, a home agent address, and a security association with home agent to register with the home agent.  The process of obtaining this information is called bootstrapping.  This document discusses issues involved with how the mobile node can be bootstrapped for Mobile IPv6 (MIPv6) and various potential deployment scenarios for mobile node bootstrapping.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>A mobile node needs at least the following information: a home address, a home agent address, and a security association with home agent to register with the home agent.  The process of obtaining this information is called bootstrapping.  This document discusses issues involved with how the mobile node can be bootstrapped for Mobile IPv6 (MIPv6) and various potential deployment scenarios for mobile node bootstrapping.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4640"/>
+  <seriesInfo name="RFC" value="4640"/>
 </reference>

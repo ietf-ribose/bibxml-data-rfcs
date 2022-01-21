@@ -1,14 +1,27 @@
 <reference anchor="RFC7206" target="https://www.rfc-editor.org/info/rfc7206">
   <front>
     <title>Requirements for an End-to-End Session Identification in IP-Based Multimedia Communication Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7206"/>
-    <author fullname="P. Jones"/>
-    <author fullname="G. Salgueiro"/>
-    <author fullname="J. Polk"/>
-    <author fullname="L. Liess"/>
-    <author fullname="H. Kaplan"/>
+    <author fullname="P. Jones" initials="P." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="L. Liess" initials="L." surname="Liess">
+      <organization/>
+    </author>
+    <author fullname="H. Kaplan" initials="H." surname="Kaplan">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>insipid</workgroup>
-    <abstract>This document specifies the requirements for an end-to-end session identifier in IP-based multimedia communication networks.  This identifier would enable endpoints, intermediate devices, and management and monitoring systems to identify a session end-to-end across multiple SIP devices, hops, and administrative domains.</abstract>
+    <abstract>
+      <t>This document specifies the requirements for an end-to-end session identifier in IP-based multimedia communication networks.  This identifier would enable endpoints, intermediate devices, and management and monitoring systems to identify a session end-to-end across multiple SIP devices, hops, and administrative domains.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7206"/>
+  <seriesInfo name="RFC" value="7206"/>
 </reference>

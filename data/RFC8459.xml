@@ -1,23 +1,25 @@
 <reference anchor="RFC8459" target="https://www.rfc-editor.org/info/rfc8459">
   <front>
     <title>Hierarchical Service Function Chaining (hSFC)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8459"/>
-    <author fullname="D. Dolson"/>
-    <author fullname="S. Homma"/>
-    <author fullname="D. Lopez"/>
-    <author fullname="M. Boucadair"/>
+    <author fullname="D. Dolson" initials="D." surname="Dolson">
+      <organization/>
+    </author>
+    <author fullname="S. Homma" initials="S." surname="Homma">
+      <organization/>
+    </author>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
     <date year="2018" month="September"/>
     <workgroup>sfc</workgroup>
-    <keyword>Scalability</keyword>
-    <keyword>SFC-enabled domain</keyword>
-    <keyword>multiple control domains</keyword>
-    <keyword>SFC complexity</keyword>
-    <keyword>Hierarchy</keyword>
-    <keyword>service delivery</keyword>
-    <keyword>service complications</keyword>
-    <keyword>service offering</keyword>
-    <keyword>differentiated services</keyword>
-    <keyword>large scale network</keyword>
-    <abstract>Hierarchical Service Function Chaining (hSFC) is a network architecture allowing an organization to decompose a large-scale network into multiple domains of administration. The goals of hSFC are to make a large-scale network easier to design, simpler to control, and supportive of independent functional groups within large network operators.</abstract>
+    <abstract>
+      <t>Hierarchical Service Function Chaining (hSFC) is a network architecture allowing an organization to decompose a large-scale network into multiple domains of administration.</t>
+      <t>The goals of hSFC are to make a large-scale network easier to design, simpler to control, and supportive of independent functional groups within large network operators.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8459"/>
+  <seriesInfo name="RFC" value="8459"/>
 </reference>

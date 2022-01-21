@@ -1,9 +1,14 @@
 <reference anchor="RFC1111" target="https://www.rfc-editor.org/info/rfc1111">
   <front>
     <title>Request for comments on Request for Comments: Instructions to RFC authors</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1111"/>
-    <author fullname="J. Postel"/>
+    <author fullname="J. Postel" initials="J." surname="Postel">
+      <organization/>
+    </author>
     <date year="1989" month="August"/>
-    <abstract>This RFC specifies a standard for the Internet community.  Authors of RFCs are expected to adopt and implement this standard.</abstract>
+    <abstract>
+      <t>This RFC specifies a standard for the Internet community.  Authors of RFCs are expected to adopt and implement this standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1111"/>
+  <seriesInfo name="RFC" value="1111"/>
 </reference>

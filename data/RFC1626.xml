@@ -1,20 +1,15 @@
 <reference anchor="RFC1626" target="https://www.rfc-editor.org/info/rfc1626">
   <front>
     <title>Default IP MTU for use over ATM AAL5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1626"/>
-    <author fullname="R. Atkinson"/>
+    <author fullname="R. Atkinson" initials="R." surname="Atkinson">
+      <organization/>
+    </author>
     <date year="1994" month="May"/>
     <workgroup>ipatm</workgroup>
-    <keyword>Maximum</keyword>
-    <keyword>Transmission</keyword>
-    <keyword>Unit</keyword>
-    <keyword>Asynchronous</keyword>
-    <keyword>Transfer</keyword>
-    <keyword>Mode</keyword>
-    <keyword>Adaptation</keyword>
-    <keyword>Layer</keyword>
-    <keyword>Size</keyword>
-    <keyword>Packet</keyword>
-    <abstract>There are a number of good reasons to have a reasonably large default MTU value for IP over ATM AAL5.  This paper presents the default IP MIU for use over ATM AAL5. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>There are a number of good reasons to have a reasonably large default MTU value for IP over ATM AAL5.  This paper presents the default IP MIU for use over ATM AAL5. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1626"/>
+  <seriesInfo name="RFC" value="1626"/>
 </reference>

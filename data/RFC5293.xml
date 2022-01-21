@@ -1,13 +1,18 @@
 <reference anchor="RFC5293" target="https://www.rfc-editor.org/info/rfc5293">
   <front>
     <title>Sieve Email Filtering: Editheader Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5293"/>
-    <author fullname="J. Degener"/>
-    <author fullname="P. Guenther"/>
+    <author fullname="J. Degener" initials="J." surname="Degener">
+      <organization/>
+    </author>
+    <author fullname="P. Guenther" initials="P." surname="Guenther">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>sieve</workgroup>
-    <keyword>addheadaer</keyword>
-    <keyword>deleteheader</keyword>
-    <abstract>This document defines two new actions for the "Sieve" email filtering language that add and delete email header fields. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines two new actions for the "Sieve" email filtering language that add and delete email header fields. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5293"/>
+  <seriesInfo name="RFC" value="5293"/>
 </reference>

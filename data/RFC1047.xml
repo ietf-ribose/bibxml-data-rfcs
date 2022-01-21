@@ -1,9 +1,14 @@
 <reference anchor="RFC1047" target="https://www.rfc-editor.org/info/rfc1047">
   <front>
     <title>Duplicate messages and SMTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1047"/>
-    <author fullname="C. Partridge"/>
+    <author fullname="C. Partridge" initials="C." surname="Partridge">
+      <organization/>
+    </author>
     <date year="1988" month="February"/>
-    <abstract>An examination of a synchronization problem in the Simple Mail Transfer Protocol (SMTP) is presented.  This synchronization problem can cause a message to be delivered multiple times.  A method for avoiding this problem is suggested.  Nodding familiarity with the SMTP specification, RFC-821, is required.</abstract>
+    <abstract>
+      <t>An examination of a synchronization problem in the Simple Mail Transfer Protocol (SMTP) is presented.  This synchronization problem can cause a message to be delivered multiple times.  A method for avoiding this problem is suggested.  Nodding familiarity with the SMTP specification, RFC-821, is required.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1047"/>
+  <seriesInfo name="RFC" value="1047"/>
 </reference>

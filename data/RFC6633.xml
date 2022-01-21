@@ -1,17 +1,15 @@
 <reference anchor="RFC6633" target="https://www.rfc-editor.org/info/rfc6633">
   <front>
     <title>Deprecation of ICMP Source Quench Messages</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6633"/>
-    <author fullname="F. Gont"/>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
     <date year="2012" month="May"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>congestion control</keyword>
-    <keyword>icmp attacks</keyword>
-    <keyword>tcp</keyword>
-    <keyword>tcp security</keyword>
-    <keyword>udp</keyword>
-    <keyword>dccp</keyword>
-    <keyword>sctp</keyword>
-    <abstract>This document formally deprecates the use of ICMP Source Quench messages by transport protocols, formally updating RFC 792, RFC 1122, and RFC 1812. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document formally deprecates the use of ICMP Source Quench messages by transport protocols, formally updating RFC 792, RFC 1122, and RFC 1812. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6633"/>
+  <seriesInfo name="RFC" value="6633"/>
 </reference>

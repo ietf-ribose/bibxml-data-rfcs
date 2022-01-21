@@ -1,10 +1,17 @@
 <reference anchor="RFC1136" target="https://www.rfc-editor.org/info/rfc1136">
   <front>
     <title>Administrative Domains and Routing Domains: A model for routing in the Internet</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1136"/>
-    <author fullname="S. Hares"/>
-    <author fullname="D. Katz"/>
+    <author fullname="S. Hares" initials="S." surname="Hares">
+      <organization/>
+    </author>
+    <author fullname="D. Katz" initials="D." surname="Katz">
+      <organization/>
+    </author>
     <date year="1989" month="December"/>
-    <abstract>This RFC proposes a model for describing routing within the Internet.  The model is an adaptation of the "OSI Routeing Framework".  This memo does not specify an Internet standard.</abstract>
+    <abstract>
+      <t>This RFC proposes a model for describing routing within the Internet.  The model is an adaptation of the "OSI Routeing Framework".  This memo does not specify an Internet standard.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1136"/>
+  <seriesInfo name="RFC" value="1136"/>
 </reference>

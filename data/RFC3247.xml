@@ -1,24 +1,42 @@
 <reference anchor="RFC3247" target="https://www.rfc-editor.org/info/rfc3247">
   <front>
     <title>Supplemental Information for the New Definition of the EF PHB (Expedited Forwarding Per-Hop Behavior)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3247"/>
-    <author fullname="A. Charny"/>
-    <author fullname="J. Bennet"/>
-    <author fullname="K. Benson"/>
-    <author fullname="J. Boudec"/>
-    <author fullname="A. Chiu"/>
-    <author fullname="W. Courtney"/>
-    <author fullname="S. Davari"/>
-    <author fullname="V. Firoiu"/>
-    <author fullname="C. Kalmanek"/>
-    <author fullname="K. Ramakrishnan"/>
+    <author fullname="A. Charny" initials="A." surname="Charny">
+      <organization/>
+    </author>
+    <author fullname="J. Bennet" initials="J." surname="Bennet">
+      <organization/>
+    </author>
+    <author fullname="K. Benson" initials="K." surname="Benson">
+      <organization/>
+    </author>
+    <author fullname="J. Boudec" initials="J." surname="Boudec">
+      <organization/>
+    </author>
+    <author fullname="A. Chiu" initials="A." surname="Chiu">
+      <organization/>
+    </author>
+    <author fullname="W. Courtney" initials="W." surname="Courtney">
+      <organization/>
+    </author>
+    <author fullname="S. Davari" initials="S." surname="Davari">
+      <organization/>
+    </author>
+    <author fullname="V. Firoiu" initials="V." surname="Firoiu">
+      <organization/>
+    </author>
+    <author fullname="C. Kalmanek" initials="C." surname="Kalmanek">
+      <organization/>
+    </author>
+    <author fullname="K. Ramakrishnan" initials="K." surname="Ramakrishnan">
+      <organization/>
+    </author>
     <date year="2002" month="March"/>
     <workgroup>diffserv</workgroup>
-    <keyword>differentiated services</keyword>
-    <keyword>fifo</keyword>
-    <keyword>fair queuing</keyword>
-    <keyword>delay</keyword>
-    <keyword>jitter</keyword>
-    <abstract>This document was written during the process of clarification of RFC2598 "An Expedited Forwarding PHB" that led to the publication of revised specification of EF "An Expedited Forwarding PHB".  Its primary motivation is providing additional explanation to the revised EF definition and its properties.  The document also provides additional implementation examples and gives some guidance for computation of the numerical parameters of the new definition for several well known schedulers and router architectures.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document was written during the process of clarification of RFC2598 "An Expedited Forwarding PHB" that led to the publication of revised specification of EF "An Expedited Forwarding PHB".  Its primary motivation is providing additional explanation to the revised EF definition and its properties.  The document also provides additional implementation examples and gives some guidance for computation of the numerical parameters of the new definition for several well known schedulers and router architectures.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3247"/>
+  <seriesInfo name="RFC" value="3247"/>
 </reference>

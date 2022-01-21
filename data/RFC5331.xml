@@ -1,13 +1,21 @@
 <reference anchor="RFC5331" target="https://www.rfc-editor.org/info/rfc5331">
   <front>
     <title>MPLS Upstream Label Assignment and Context-Specific Label Space</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5331"/>
-    <author fullname="R. Aggarwal"/>
-    <author fullname="Y. Rekhter"/>
-    <author fullname="E. Rosen"/>
+    <author fullname="R. Aggarwal" initials="R." surname="Aggarwal">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
+    <author fullname="E. Rosen" initials="E." surname="Rosen">
+      <organization/>
+    </author>
     <date year="2008" month="August"/>
     <workgroup>mpls</workgroup>
-    <keyword>upstream-assigned mpls labels</keyword>
-    <abstract>RFC 3031 limits the MPLS architecture to downstream-assigned MPLS labels.  This document introduces the notion of upstream-assigned MPLS labels.  It describes the procedures for upstream MPLS label assignment and introduces the concept of a "Context-Specific Label Space". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>RFC 3031 limits the MPLS architecture to downstream-assigned MPLS labels.  This document introduces the notion of upstream-assigned MPLS labels.  It describes the procedures for upstream MPLS label assignment and introduces the concept of a "Context-Specific Label Space". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5331"/>
+  <seriesInfo name="RFC" value="5331"/>
 </reference>

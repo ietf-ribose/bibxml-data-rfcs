@@ -1,19 +1,21 @@
 <reference anchor="RFC8322" target="https://www.rfc-editor.org/info/rfc8322">
   <front>
     <title>Resource-Oriented Lightweight Information Exchange (ROLIE)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8322"/>
-    <author fullname="J. Field"/>
-    <author fullname="S. Banghart"/>
-    <author fullname="D. Waltermire"/>
+    <author fullname="J. Field" initials="J." surname="Field">
+      <organization/>
+    </author>
+    <author fullname="S. Banghart" initials="S." surname="Banghart">
+      <organization/>
+    </author>
+    <author fullname="D. Waltermire" initials="D." surname="Waltermire">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>mile</workgroup>
-    <keyword>syndication</keyword>
-    <keyword>atom</keyword>
-    <keyword>atom publishing protocol</keyword>
-    <keyword>atom syndication format</keyword>
-    <keyword>rest</keyword>
-    <keyword>information sharing</keyword>
-    <keyword>security automation</keyword>
-    <abstract>This document defines a resource-oriented approach for security automation information publication, discovery, and sharing.  Using this approach, producers may publish, share, and exchange representations of software descriptors, security incidents, attack indicators, software vulnerabilities, configuration checklists, and other security automation information as web-addressable resources.  Furthermore, consumers and other stakeholders may access and search this security information as needed, establishing a rapid and on-demand information exchange network for restricted internal use or public access repositories.  This specification extends the Atom Publishing Protocol and Atom Syndication Format to transport and share security automation resource representations.</abstract>
+    <abstract>
+      <t>This document defines a resource-oriented approach for security automation information publication, discovery, and sharing.  Using this approach, producers may publish, share, and exchange representations of software descriptors, security incidents, attack indicators, software vulnerabilities, configuration checklists, and other security automation information as web-addressable resources.  Furthermore, consumers and other stakeholders may access and search this security information as needed, establishing a rapid and on-demand information exchange network for restricted internal use or public access repositories.  This specification extends the Atom Publishing Protocol and Atom Syndication Format to transport and share security automation resource representations.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8322"/>
+  <seriesInfo name="RFC" value="8322"/>
 </reference>

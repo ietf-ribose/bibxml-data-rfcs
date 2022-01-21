@@ -1,14 +1,26 @@
 <reference anchor="RFC7948" target="https://www.rfc-editor.org/info/rfc7948">
   <front>
     <title>Internet Exchange BGP Route Server Operations</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7948"/>
-    <author fullname="N. Hilliard"/>
-    <author fullname="E. Jasinska"/>
-    <author fullname="R. Raszuk"/>
-    <author fullname="N. Bakker"/>
+    <author fullname="N. Hilliard" initials="N." surname="Hilliard">
+      <organization/>
+    </author>
+    <author fullname="E. Jasinska" initials="E." surname="Jasinska">
+      <organization/>
+    </author>
+    <author fullname="R. Raszuk" initials="R." surname="Raszuk">
+      <organization/>
+    </author>
+    <author fullname="N. Bakker" initials="N." surname="Bakker">
+      <organization/>
+    </author>
     <date year="2016" month="September"/>
     <workgroup>grow</workgroup>
-    <keyword>GROW</keyword>
-    <abstract>The popularity of Internet Exchange Points (IXPs) brings new challenges to interconnecting networks. While bilateral External BGP (EBGP) sessions between exchange participants were historically the most common means of exchanging reachability information over an IXP, the overhead associated with this interconnection method causes serious operational and administrative scaling problems for IXP participants. Multilateral interconnection using Internet route servers can dramatically reduce the administrative and operational overhead associated with connecting to IXPs; in some cases, route servers are used by IXP participants as their preferred means of exchanging routing information. This document describes operational considerations for multilateral interconnections at IXPs.</abstract>
+    <abstract>
+      <t>The popularity of Internet Exchange Points (IXPs) brings new challenges to interconnecting networks. While bilateral External BGP (EBGP) sessions between exchange participants were historically the most common means of exchanging reachability information over an IXP, the overhead associated with this interconnection method causes serious operational and administrative scaling problems for IXP participants.</t>
+      <t>Multilateral interconnection using Internet route servers can dramatically reduce the administrative and operational overhead associated with connecting to IXPs; in some cases, route servers are used by IXP participants as their preferred means of exchanging routing information.</t>
+      <t>This document describes operational considerations for multilateral interconnections at IXPs.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7948"/>
+  <seriesInfo name="RFC" value="7948"/>
 </reference>

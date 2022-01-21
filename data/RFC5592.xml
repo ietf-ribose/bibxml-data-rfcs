@@ -1,17 +1,22 @@
 <reference anchor="RFC5592" target="https://www.rfc-editor.org/info/rfc5592">
   <front>
     <title>Secure Shell Transport Model for the Simple Network Management Protocol (SNMP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5592"/>
-    <author fullname="D. Harrington"/>
-    <author fullname="J. Salowey"/>
-    <author fullname="W. Hardaker"/>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="W. Hardaker" initials="W." surname="Hardaker">
+      <organization/>
+    </author>
     <date year="2009" month="June"/>
     <workgroup>isms</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Secure Shell</keyword>
-    <keyword>SSH</keyword>
-    <abstract>This memo describes a Transport Model for the Simple Network Management Protocol (SNMP), using the Secure Shell (SSH) protocol. This memo also defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for monitoring and managing the Secure Shell Transport Model for SNMP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a Transport Model for the Simple Network Management Protocol (SNMP), using the Secure Shell (SSH) protocol.</t>
+      <t>This memo also defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for monitoring and managing the Secure Shell Transport Model for SNMP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5592"/>
+  <seriesInfo name="RFC" value="5592"/>
 </reference>

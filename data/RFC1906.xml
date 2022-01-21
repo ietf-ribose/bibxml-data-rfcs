@@ -1,20 +1,24 @@
 <reference anchor="RFC1906" target="https://www.rfc-editor.org/info/rfc1906">
   <front>
     <title>Transport Mappings for Version 2 of the Simple Network Management Protocol (SNMPv2)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1906"/>
-    <author fullname="J. Case"/>
-    <author fullname="K. McCloghrie"/>
-    <author fullname="M. Rose"/>
-    <author fullname="S. Waldbusser"/>
+    <author fullname="J. Case" initials="J." surname="Case">
+      <organization/>
+    </author>
+    <author fullname="K. McCloghrie" initials="K." surname="McCloghrie">
+      <organization/>
+    </author>
+    <author fullname="M. Rose" initials="M." surname="Rose">
+      <organization/>
+    </author>
+    <author fullname="S. Waldbusser" initials="S." surname="Waldbusser">
+      <organization/>
+    </author>
     <date year="1996" month="January"/>
     <workgroup>snmpv2</workgroup>
-    <keyword>TRANS-MIB</keyword>
-    <keyword>Simple</keyword>
-    <keyword>Network</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Version</keyword>
-    <keyword>2</keyword>
-    <abstract>It is the purpose of this document to define how the SNMPv2 maps onto an initial set of transport domains. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>It is the purpose of this document to define how the SNMPv2 maps onto an initial set of transport domains. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1906"/>
+  <seriesInfo name="RFC" value="1906"/>
 </reference>

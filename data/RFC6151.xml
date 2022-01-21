@@ -1,16 +1,18 @@
 <reference anchor="RFC6151" target="https://www.rfc-editor.org/info/rfc6151">
   <front>
     <title>Updated Security Considerations for the MD5 Message-Digest and the HMAC-MD5 Algorithms</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6151"/>
-    <author fullname="S. Turner"/>
-    <author fullname="L. Chen"/>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="L. Chen" initials="L." surname="Chen">
+      <organization/>
+    </author>
     <date year="2011" month="March"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>signature</keyword>
-    <keyword>eneryption</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>Message Digest</keyword>
-    <keyword>encryption</keyword>
-    <abstract>This document updates the security considerations for the MD5 message digest algorithm.  It also updates the security considerations for HMAC-MD5.  This document is not an Internet Standards Track specification; it is published for informational purposes.</abstract>
+    <abstract>
+      <t>This document updates the security considerations for the MD5 message digest algorithm.  It also updates the security considerations for HMAC-MD5.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6151"/>
+  <seriesInfo name="RFC" value="6151"/>
 </reference>

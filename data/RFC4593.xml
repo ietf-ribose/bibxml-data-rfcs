@@ -1,16 +1,21 @@
 <reference anchor="RFC4593" target="https://www.rfc-editor.org/info/rfc4593">
   <front>
     <title>Generic Threats to Routing Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4593"/>
-    <author fullname="A. Barbir"/>
-    <author fullname="S. Murphy"/>
-    <author fullname="Y. Yang"/>
+    <author fullname="A. Barbir" initials="A." surname="Barbir">
+      <organization/>
+    </author>
+    <author fullname="S. Murphy" initials="S." surname="Murphy">
+      <organization/>
+    </author>
+    <author fullname="Y. Yang" initials="Y." surname="Yang">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>rpsec</workgroup>
-    <keyword>threat sources</keyword>
-    <keyword>threat capability</keyword>
-    <keyword>threat action</keyword>
-    <keyword>threat consequences</keyword>
-    <abstract>Routing protocols are subject to attacks that can harm individual users or network operations as a whole.  This document provides a description and a summary of generic threats that affect routing protocols in general.  This work describes threats, including threat sources and capabilities, threat actions, and threat consequences, as well as a breakdown of routing functions that might be attacked separately.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>Routing protocols are subject to attacks that can harm individual users or network operations as a whole.  This document provides a description and a summary of generic threats that affect routing protocols in general.  This work describes threats, including threat sources and capabilities, threat actions, and threat consequences, as well as a breakdown of routing functions that might be attacked separately.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4593"/>
+  <seriesInfo name="RFC" value="4593"/>
 </reference>

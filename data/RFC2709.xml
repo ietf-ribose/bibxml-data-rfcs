@@ -1,13 +1,15 @@
 <reference anchor="RFC2709" target="https://www.rfc-editor.org/info/rfc2709">
   <front>
     <title>Security Model with Tunnel-mode IPsec for NAT Domains</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2709"/>
-    <author fullname="P. Srisuresh"/>
+    <author fullname="P. Srisuresh" initials="P." surname="Srisuresh">
+      <organization/>
+    </author>
     <date year="1999" month="October"/>
     <workgroup>nat</workgroup>
-    <keyword>internet protocol</keyword>
-    <keyword>network address</keyword>
-    <keyword>translator</keyword>
-    <abstract>This document describes a security model by which tunnel-mode IPsec security can be architected on NAT devices.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes a security model by which tunnel-mode IPsec security can be architected on NAT devices.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2709"/>
+  <seriesInfo name="RFC" value="2709"/>
 </reference>

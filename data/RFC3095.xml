@@ -1,33 +1,60 @@
 <reference anchor="RFC3095" target="https://www.rfc-editor.org/info/rfc3095">
   <front>
     <title>RObust Header Compression (ROHC): Framework and four profiles: RTP, UDP, ESP, and uncompressed</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3095"/>
-    <author fullname="C. Bormann"/>
-    <author fullname="C. Burmeister"/>
-    <author fullname="M. Degermark"/>
-    <author fullname="H. Fukushima"/>
-    <author fullname="H. Hannu"/>
-    <author fullname="L-E. Jonsson"/>
-    <author fullname="R. Hakenberg"/>
-    <author fullname="T. Koren"/>
-    <author fullname="K. Le"/>
-    <author fullname="Z. Liu"/>
-    <author fullname="A. Martensson"/>
-    <author fullname="A. Miyazaki"/>
-    <author fullname="K. Svanbro"/>
-    <author fullname="T. Wiebke"/>
-    <author fullname="T. Yoshimura"/>
-    <author fullname="H. Zheng"/>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="C. Burmeister" initials="C." surname="Burmeister">
+      <organization/>
+    </author>
+    <author fullname="M. Degermark" initials="M." surname="Degermark">
+      <organization/>
+    </author>
+    <author fullname="H. Fukushima" initials="H." surname="Fukushima">
+      <organization/>
+    </author>
+    <author fullname="H. Hannu" initials="H." surname="Hannu">
+      <organization/>
+    </author>
+    <author fullname="L-E. Jonsson" initials="L-E." surname="Jonsson">
+      <organization/>
+    </author>
+    <author fullname="R. Hakenberg" initials="R." surname="Hakenberg">
+      <organization/>
+    </author>
+    <author fullname="T. Koren" initials="T." surname="Koren">
+      <organization/>
+    </author>
+    <author fullname="K. Le" initials="K." surname="Le">
+      <organization/>
+    </author>
+    <author fullname="Z. Liu" initials="Z." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="A. Martensson" initials="A." surname="Martensson">
+      <organization/>
+    </author>
+    <author fullname="A. Miyazaki" initials="A." surname="Miyazaki">
+      <organization/>
+    </author>
+    <author fullname="K. Svanbro" initials="K." surname="Svanbro">
+      <organization/>
+    </author>
+    <author fullname="T. Wiebke" initials="T." surname="Wiebke">
+      <organization/>
+    </author>
+    <author fullname="T. Yoshimura" initials="T." surname="Yoshimura">
+      <organization/>
+    </author>
+    <author fullname="H. Zheng" initials="H." surname="Zheng">
+      <organization/>
+    </author>
     <date year="2001" month="July"/>
     <workgroup>rohc</workgroup>
-    <keyword>encapsulating</keyword>
-    <keyword>security</keyword>
-    <keyword>payload</keyword>
-    <keyword>real-time</keyword>
-    <keyword>transport</keyword>
-    <keyword>protocol</keyword>
-    <keyword>user</keyword>
-    <keyword>datagram</keyword>
-    <abstract>This document specifies a highly robust and efficient header compression scheme for RTP/UDP/IP (Real-Time Transport Protocol, User Datagram Protocol, Internet Protocol), UDP/IP, and ESP/IP (Encapsulating Security Payload) headers. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a highly robust and efficient header compression scheme for RTP/UDP/IP (Real-Time Transport Protocol, User Datagram Protocol, Internet Protocol), UDP/IP, and ESP/IP (Encapsulating Security Payload) headers. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3095"/>
+  <seriesInfo name="RFC" value="3095"/>
 </reference>

@@ -1,14 +1,18 @@
 <reference anchor="RFC2787" target="https://www.rfc-editor.org/info/rfc2787">
   <front>
     <title>Definitions of Managed Objects for the Virtual Router Redundancy Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2787"/>
-    <author fullname="B. Jewell"/>
-    <author fullname="D. Chuang"/>
+    <author fullname="B. Jewell" initials="B." surname="Jewell">
+      <organization/>
+    </author>
+    <author fullname="D. Chuang" initials="D." surname="Chuang">
+      <organization/>
+    </author>
     <date year="2000" month="March"/>
     <workgroup>vrrp</workgroup>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <abstract>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling routers that employ the Virtual Router Redundancy Protocol (VRRP). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling routers that employ the Virtual Router Redundancy Protocol (VRRP). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2787"/>
+  <seriesInfo name="RFC" value="2787"/>
 </reference>

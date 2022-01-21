@@ -1,12 +1,21 @@
 <reference anchor="RFC8303" target="https://www.rfc-editor.org/info/rfc8303">
   <front>
     <title>On the Usage of Transport Features Provided by IETF Transport Protocols</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8303"/>
-    <author fullname="M. Welzl"/>
-    <author fullname="M. Tuexen"/>
-    <author fullname="N. Khademi"/>
+    <author fullname="M. Welzl" initials="M." surname="Welzl">
+      <organization/>
+    </author>
+    <author fullname="M. Tuexen" initials="M." surname="Tuexen">
+      <organization/>
+    </author>
+    <author fullname="N. Khademi" initials="N." surname="Khademi">
+      <organization/>
+    </author>
     <date year="2018" month="February"/>
     <workgroup>taps</workgroup>
-    <abstract>This document describes how the transport protocols Transmission Control Protocol (TCP), MultiPath TCP (MPTCP), Stream Control Transmission Protocol (SCTP), User Datagram Protocol (UDP), and Lightweight User Datagram Protocol (UDP-Lite) expose services to applications and how an application can configure and use the features that make up these services.  It also discusses the service provided by the Low Extra Delay Background Transport (LEDBAT) congestion control mechanism.  The description results in a set of transport abstractions that can be exported in a transport services (TAPS) API.</abstract>
+    <abstract>
+      <t>This document describes how the transport protocols Transmission Control Protocol (TCP), MultiPath TCP (MPTCP), Stream Control Transmission Protocol (SCTP), User Datagram Protocol (UDP), and Lightweight User Datagram Protocol (UDP-Lite) expose services to applications and how an application can configure and use the features that make up these services.  It also discusses the service provided by the Low Extra Delay Background Transport (LEDBAT) congestion control mechanism.  The description results in a set of transport abstractions that can be exported in a transport services (TAPS) API.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8303"/>
+  <seriesInfo name="RFC" value="8303"/>
 </reference>

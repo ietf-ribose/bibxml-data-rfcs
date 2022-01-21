@@ -1,18 +1,18 @@
 <reference anchor="RFC5607" target="https://www.rfc-editor.org/info/rfc5607">
   <front>
     <title>Remote Authentication Dial-In User Service (RADIUS) Authorization for Network Access Server (NAS) Management</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5607"/>
-    <author fullname="D. Nelson"/>
-    <author fullname="G. Weber"/>
+    <author fullname="D. Nelson" initials="D." surname="Nelson">
+      <organization/>
+    </author>
+    <author fullname="G. Weber" initials="G." surname="Weber">
+      <organization/>
+    </author>
     <date year="2009" month="July"/>
     <workgroup>radext</workgroup>
-    <keyword>Network Management</keyword>
-    <keyword>Device Management</keyword>
-    <keyword>Simple Network Management Protocol</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>Network Configuration Protocol</keyword>
-    <keyword>NETCONF</keyword>
-    <keyword>Access Control</keyword>
-    <abstract>This document specifies Remote Authentication Dial-In User Service (RADIUS) attributes for authorizing management access to a Network Access Server (NAS).  Both local and remote management are supported, with granular access rights and management privileges.  Specific provisions are made for remote management via Framed Management protocols and for management access over a secure transport protocol. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies Remote Authentication Dial-In User Service (RADIUS) attributes for authorizing management access to a Network Access Server (NAS).  Both local and remote management are supported, with granular access rights and management privileges.  Specific provisions are made for remote management via Framed Management protocols and for management access over a secure transport protocol. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5607"/>
+  <seriesInfo name="RFC" value="5607"/>
 </reference>

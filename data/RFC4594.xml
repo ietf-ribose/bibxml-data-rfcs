@@ -1,19 +1,21 @@
 <reference anchor="RFC4594" target="https://www.rfc-editor.org/info/rfc4594">
   <front>
     <title>Configuration Guidelines for DiffServ Service Classes</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4594"/>
-    <author fullname="J. Babiarz"/>
-    <author fullname="K. Chan"/>
-    <author fullname="F. Baker"/>
+    <author fullname="J. Babiarz" initials="J." surname="Babiarz">
+      <organization/>
+    </author>
+    <author fullname="K. Chan" initials="K." surname="Chan">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
     <date year="2006" month="August"/>
     <workgroup>tsvwg</workgroup>
-    <keyword>differentiated services code points</keyword>
-    <keyword>traffic conditioners</keyword>
-    <keyword>per-hop behaviors</keyword>
-    <keyword>phb</keyword>
-    <keyword>dscp</keyword>
-    <keyword>active queue management</keyword>
-    <keyword>aqm</keyword>
-    <abstract>This document describes service classes configured with Diffserv and recommends how they can be used and how to construct them using Differentiated Services Code Points (DSCPs), traffic conditioners, Per-Hop Behaviors (PHBs), and Active Queue Management (AQM) mechanisms.  There is no intrinsic requirement that particular DSCPs, traffic conditioners, PHBs, and AQM be used for a certain service class, but as a policy and for interoperability it is useful to apply them consistently.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This document describes service classes configured with Diffserv and recommends how they can be used and how to construct them using Differentiated Services Code Points (DSCPs), traffic conditioners, Per-Hop Behaviors (PHBs), and Active Queue Management (AQM) mechanisms.  There is no intrinsic requirement that particular DSCPs, traffic conditioners, PHBs, and AQM be used for a certain service class, but as a policy and for interoperability it is useful to apply them consistently.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4594"/>
+  <seriesInfo name="RFC" value="4594"/>
 </reference>

@@ -1,16 +1,21 @@
 <reference anchor="RFC2461" target="https://www.rfc-editor.org/info/rfc2461">
   <front>
     <title>Neighbor Discovery for IP Version 6 (IPv6)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2461"/>
-    <author fullname="T. Narten"/>
-    <author fullname="E. Nordmark"/>
-    <author fullname="W. Simpson"/>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="E. Nordmark" initials="E." surname="Nordmark">
+      <organization/>
+    </author>
+    <author fullname="W. Simpson" initials="W." surname="Simpson">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>IPV6-ND</keyword>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>link-layer</keyword>
-    <abstract>This document specifies the Neighbor Discovery protocol for IP Version 6. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies the Neighbor Discovery protocol for IP Version 6. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2461"/>
+  <seriesInfo name="RFC" value="2461"/>
 </reference>

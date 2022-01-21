@@ -1,16 +1,15 @@
 <reference anchor="RFC2847" target="https://www.rfc-editor.org/info/rfc2847">
   <front>
     <title>LIPKEY - A Low Infrastructure Public Key Mechanism Using SPKM</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2847"/>
-    <author fullname="M. Eisler"/>
+    <author fullname="M. Eisler" initials="M." surname="Eisler">
+      <organization/>
+    </author>
     <date year="2000" month="June"/>
     <workgroup>cat</workgroup>
-    <keyword>LIPKEY</keyword>
-    <keyword>client</keyword>
-    <keyword>server</keyword>
-    <keyword>simple pubilc</keyword>
-    <keyword>key mechanism</keyword>
-    <keyword>authentication</keyword>
-    <abstract>This memorandum describes a method whereby one can use GSS-API (Generic Security Service Application Program Interface) to supply a secure channel between a client and server, authenticating the client with a password, and a server with a public key certificate. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memorandum describes a method whereby one can use GSS-API (Generic Security Service Application Program Interface) to supply a secure channel between a client and server, authenticating the client with a password, and a server with a public key certificate. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2847"/>
+  <seriesInfo name="RFC" value="2847"/>
 </reference>

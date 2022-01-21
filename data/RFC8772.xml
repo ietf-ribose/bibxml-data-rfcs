@@ -1,17 +1,27 @@
 <reference anchor="RFC8772" target="https://www.rfc-editor.org/info/rfc8772">
   <front>
     <title>The China Mobile, Huawei, and ZTE Broadband Network Gateway (BNG) Simple Control and User Plane Separation Protocol (S-CUSP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8772"/>
-    <author fullname="S. Hu"/>
-    <author fullname="D. Eastlake"/>
-    <author fullname="F. Qin"/>
-    <author fullname="T. Chua"/>
-    <author fullname="D. Huang"/>
+    <author fullname="S. Hu" initials="S." surname="Hu">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake" initials="D." surname="Eastlake">
+      <organization/>
+    </author>
+    <author fullname="F. Qin" initials="F." surname="Qin">
+      <organization/>
+    </author>
+    <author fullname="T. Chua" initials="T." surname="Chua">
+      <organization/>
+    </author>
+    <author fullname="D. Huang" initials="D." surname="Huang">
+      <organization/>
+    </author>
     <date year="2020" month="May"/>
-    <keyword>CUPS</keyword>
-    <keyword>CUSP</keyword>
-    <keyword>BRAS</keyword>
-    <keyword>BBRAS</keyword>
-    <abstract>A Broadband Network Gateway (BNG) in a fixed wireline access network is an Ethernet-centric IP edge router and the aggregation point for subscriber traffic. Control and User Plane Separation (CUPS) for such a BNG improves flexibility and scalability but requires various communication between the User Plane (UP) and the Control Plane (CP). China Mobile, Huawei Technologies, and ZTE have developed a simple CUPS control channel protocol to support such communication: the Simple Control and User Plane Separation Protocol (S-CUSP). S-CUSP is defined in this document. This document is not an IETF standard and does not have IETF consensus. S-CUSP is presented here to make its specification conveniently available to the Internet community to enable diagnosis and interoperability.</abstract>
+    <abstract>
+      <t>A Broadband Network Gateway (BNG) in a fixed wireline access network is an Ethernet-centric IP edge router and the aggregation point for subscriber traffic. Control and User Plane Separation (CUPS) for such a BNG improves flexibility and scalability but requires various communication between the User Plane (UP) and the Control Plane (CP). China Mobile, Huawei Technologies, and ZTE have developed a simple CUPS control channel protocol to support such communication: the Simple Control and User Plane Separation Protocol (S-CUSP). S-CUSP is defined in this document.</t>
+      <t>This document is not an IETF standard and does not have IETF consensus. S-CUSP is presented here to make its specification conveniently available to the Internet community to enable diagnosis and interoperability.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8772"/>
+  <seriesInfo name="RFC" value="8772"/>
 </reference>

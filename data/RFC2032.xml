@@ -1,16 +1,18 @@
 <reference anchor="RFC2032" target="https://www.rfc-editor.org/info/rfc2032">
   <front>
     <title>RTP Payload Format for H.261 Video Streams</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2032"/>
-    <author fullname="T. Turletti"/>
-    <author fullname="C. Huitema"/>
+    <author fullname="T. Turletti" initials="T." surname="Turletti">
+      <organization/>
+    </author>
+    <author fullname="C. Huitema" initials="C." surname="Huitema">
+      <organization/>
+    </author>
     <date year="1996" month="October"/>
     <workgroup>avt</workgroup>
-    <keyword>RTP-H.261</keyword>
-    <keyword>Real</keyword>
-    <keyword>Time</keyword>
-    <keyword>Transport</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>This memo describes a scheme to packetize an H.261 video stream for transport using the Real-time Transport Protocol, RTP, with any of the underlying protocols that carry RTP. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo describes a scheme to packetize an H.261 video stream for transport using the Real-time Transport Protocol, RTP, with any of the underlying protocols that carry RTP. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2032"/>
+  <seriesInfo name="RFC" value="2032"/>
 </reference>

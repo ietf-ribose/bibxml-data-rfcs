@@ -1,17 +1,18 @@
 <reference anchor="RFC4515" target="https://www.rfc-editor.org/info/rfc4515">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP): String Representation of Search Filters</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4515"/>
-    <author fullname="M. Smith"/>
-    <author fullname="T. Howes"/>
+    <author fullname="M. Smith" initials="M." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="T. Howes" initials="T." surname="Howes">
+      <organization/>
+    </author>
     <date year="2006" month="June"/>
     <workgroup>ldapbis</workgroup>
-    <keyword>STR-LDAP</keyword>
-    <keyword>STRLDAP</keyword>
-    <keyword>LDAPv3</keyword>
-    <keyword>X.500</keyword>
-    <keyword>BER</keyword>
-    <keyword>ASN.1</keyword>
-    <abstract>Lightweight Directory Access Protocol (LDAP) search filters are transmitted in the LDAP protocol using a binary representation that is appropriate for use on the network.  This document defines a human-readable string representation of LDAP search filters that is appropriate for use in LDAP URLs (RFC 4516) and in other applications. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>Lightweight Directory Access Protocol (LDAP) search filters are transmitted in the LDAP protocol using a binary representation that is appropriate for use on the network.  This document defines a human-readable string representation of LDAP search filters that is appropriate for use in LDAP URLs (RFC 4516) and in other applications. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4515"/>
+  <seriesInfo name="RFC" value="4515"/>
 </reference>

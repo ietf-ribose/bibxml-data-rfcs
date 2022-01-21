@@ -1,15 +1,18 @@
 <reference anchor="RFC7529" target="https://www.rfc-editor.org/info/rfc7529">
   <front>
     <title>Non-Gregorian Recurrence Rules in the Internet Calendaring and Scheduling Core Object Specification (iCalendar)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7529"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="G. Yakushev"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="G. Yakushev" initials="G." surname="Yakushev">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>calext</workgroup>
-    <keyword>calendaring</keyword>
-    <keyword>iCalendar</keyword>
-    <keyword>iTIP</keyword>
-    <keyword>CalDAV</keyword>
-    <abstract>This document defines extensions to the Internet Calendaring and Scheduling Core Object Specification (iCalendar) (RFC 5545) to support use of non-Gregorian recurrence rules.  It also defines how Calendaring Extensions to WebDAV (CalDAV) (RFC 4791) servers and clients can be extended to support these new recurrence rules.</abstract>
+    <abstract>
+      <t>This document defines extensions to the Internet Calendaring and Scheduling Core Object Specification (iCalendar) (RFC 5545) to support use of non-Gregorian recurrence rules.  It also defines how Calendaring Extensions to WebDAV (CalDAV) (RFC 4791) servers and clients can be extended to support these new recurrence rules.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7529"/>
+  <seriesInfo name="RFC" value="7529"/>
 </reference>

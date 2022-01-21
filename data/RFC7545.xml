@@ -1,24 +1,28 @@
 <reference anchor="RFC7545" target="https://www.rfc-editor.org/info/rfc7545">
   <front>
     <title>Protocol to Access White-Space (PAWS) Databases</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7545"/>
-    <author fullname="V. Chen"/>
-    <author fullname="S. Das"/>
-    <author fullname="L. Zhu"/>
-    <author fullname="J. Malyar"/>
-    <author fullname="P. McCann"/>
+    <author fullname="V. Chen" initials="V." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="S. Das" initials="S." surname="Das">
+      <organization/>
+    </author>
+    <author fullname="L. Zhu" initials="L." surname="Zhu">
+      <organization/>
+    </author>
+    <author fullname="J. Malyar" initials="J." surname="Malyar">
+      <organization/>
+    </author>
+    <author fullname="P. McCann" initials="P." surname="McCann">
+      <organization/>
+    </author>
     <date year="2015" month="May"/>
     <workgroup>paws</workgroup>
-    <keyword>dynamic spectrum</keyword>
-    <keyword>radio spectrum</keyword>
-    <keyword>wireless spectrum</keyword>
-    <keyword>spectrum</keyword>
-    <keyword>spectrum database</keyword>
-    <keyword>TV white space</keyword>
-    <keyword>TVWS</keyword>
-    <keyword>TVBD</keyword>
-    <keyword>white space device</keyword>
-    <keyword>WSD</keyword>
-    <abstract>Portions of the radio spectrum that are allocated to licensees are available for non-interfering use. This available spectrum is called "white space". Allowing secondary users access to available spectrum "unlocks" existing spectrum to maximize its utilization and to provide opportunities for innovation, resulting in greater overall spectrum utilization. One approach to managing spectrum sharing uses databases to report spectrum availability to devices. To achieve interoperability among multiple devices and databases, a standardized protocol must be defined and implemented. This document defines such a protocol, the "Protocol to Access White-Space (PAWS) Databases".</abstract>
+    <abstract>
+      <t>Portions of the radio spectrum that are allocated to licensees are available for non-interfering use. This available spectrum is called "white space". Allowing secondary users access to available spectrum "unlocks" existing spectrum to maximize its utilization and to provide opportunities for innovation, resulting in greater overall spectrum utilization.</t>
+      <t>One approach to managing spectrum sharing uses databases to report spectrum availability to devices. To achieve interoperability among multiple devices and databases, a standardized protocol must be defined and implemented. This document defines such a protocol, the "Protocol to Access White-Space (PAWS) Databases".</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7545"/>
+  <seriesInfo name="RFC" value="7545"/>
 </reference>

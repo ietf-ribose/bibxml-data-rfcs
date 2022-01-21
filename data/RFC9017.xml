@@ -1,17 +1,23 @@
 <reference anchor="RFC9017" target="https://www.rfc-editor.org/info/rfc9017">
   <front>
     <title>Special-Purpose Label Terminology</title>
-    <seriesInfo name="DOI" value="10.17487/RFC9017"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="K. Kompella"/>
-    <author fullname="A. Farrel"/>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="K. Kompella" initials="K." surname="Kompella">
+      <organization/>
+    </author>
+    <author fullname="A. Farrel" initials="A." surname="Farrel">
+      <organization/>
+    </author>
     <date year="2021" month="April"/>
     <workgroup>mpls</workgroup>
-    <keyword>MPLS</keyword>
-    <keyword>Extended Special-Purpose Label</keyword>
-    <keyword>Base Special-Purpose Label</keyword>
-    <keyword>Reserved Label</keyword>
-    <keyword>Entropy Label Indicator</keyword>
-    <abstract>This document discusses and recommends terminology that may be used when MPLS Special-Purpose Labels (SPLs) are specified and documented. This document applies that terminology change to the relevant IANA registry and also clarifies the use of the Entropy Label Indicator (7) when immediately preceded by the Extension Label (15). This document updates RFCs 3032 and 7274.</abstract>
+    <abstract>
+      <t>This document discusses and recommends terminology that may be used when MPLS Special-Purpose Labels (SPLs) are specified and documented.</t>
+      <t>This document applies that terminology change to the relevant IANA registry and also clarifies the use of the Entropy Label Indicator (7) when immediately preceded by the Extension Label (15).</t>
+      <t>This document updates RFCs 3032 and 7274.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9017"/>
+  <seriesInfo name="RFC" value="9017"/>
 </reference>

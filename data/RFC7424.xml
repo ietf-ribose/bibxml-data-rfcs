@@ -1,14 +1,27 @@
 <reference anchor="RFC7424" target="https://www.rfc-editor.org/info/rfc7424">
   <front>
     <title>Mechanisms for Optimizing Link Aggregation Group (LAG) and Equal-Cost Multipath (ECMP) Component Link Utilization in Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7424"/>
-    <author fullname="R. Krishnan"/>
-    <author fullname="L. Yong"/>
-    <author fullname="A. Ghanwani"/>
-    <author fullname="N. So"/>
-    <author fullname="B. Khasnabish"/>
+    <author fullname="R. Krishnan" initials="R." surname="Krishnan">
+      <organization/>
+    </author>
+    <author fullname="L. Yong" initials="L." surname="Yong">
+      <organization/>
+    </author>
+    <author fullname="A. Ghanwani" initials="A." surname="Ghanwani">
+      <organization/>
+    </author>
+    <author fullname="N. So" initials="N." surname="So">
+      <organization/>
+    </author>
+    <author fullname="B. Khasnabish" initials="B." surname="Khasnabish">
+      <organization/>
+    </author>
     <date year="2015" month="January"/>
     <workgroup>opsawg</workgroup>
-    <abstract>Demands on networking infrastructure are growing exponentially due to bandwidth-hungry applications such as rich media applications and inter-data-center communications.  In this context, it is important to optimally use the bandwidth in wired networks that extensively use link aggregation groups and equal-cost multipaths as techniques for bandwidth scaling.  This document explores some of the mechanisms useful for achieving this.</abstract>
+    <abstract>
+      <t>Demands on networking infrastructure are growing exponentially due to bandwidth-hungry applications such as rich media applications and inter-data-center communications.  In this context, it is important to optimally use the bandwidth in wired networks that extensively use link aggregation groups and equal-cost multipaths as techniques for bandwidth scaling.  This document explores some of the mechanisms useful for achieving this.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7424"/>
+  <seriesInfo name="RFC" value="7424"/>
 </reference>

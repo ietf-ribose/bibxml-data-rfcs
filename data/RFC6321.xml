@@ -1,13 +1,21 @@
 <reference anchor="RFC6321" target="https://www.rfc-editor.org/info/rfc6321">
   <front>
     <title>xCal: The XML Format for iCalendar</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6321"/>
-    <author fullname="C. Daboo"/>
-    <author fullname="M. Douglass"/>
-    <author fullname="S. Lees"/>
+    <author fullname="C. Daboo" initials="C." surname="Daboo">
+      <organization/>
+    </author>
+    <author fullname="M. Douglass" initials="M." surname="Douglass">
+      <organization/>
+    </author>
+    <author fullname="S. Lees" initials="S." surname="Lees">
+      <organization/>
+    </author>
     <date year="2011" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>extensible markup language</keyword>
-    <abstract>This specification defines "xCal", an XML format for iCalendar data. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines "xCal", an XML format for iCalendar data. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6321"/>
+  <seriesInfo name="RFC" value="6321"/>
 </reference>

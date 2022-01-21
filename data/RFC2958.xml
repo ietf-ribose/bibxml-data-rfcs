@@ -1,16 +1,17 @@
 <reference anchor="RFC2958" target="https://www.rfc-editor.org/info/rfc2958">
   <front>
     <title>The application/whoispp-response Content-type</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2958"/>
-    <author fullname="L. Daigle"/>
-    <author fullname="P. Faltstrom"/>
+    <author fullname="L. Daigle" initials="L." surname="Daigle">
+      <organization/>
+    </author>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
     <date year="2000" month="October"/>
-    <keyword>mime</keyword>
-    <keyword>multipurpose</keyword>
-    <keyword>internet</keyword>
-    <keyword>mail</keyword>
-    <keyword>extensions</keyword>
-    <keyword>media-types</keyword>
-    <abstract>The intention of this document, in conjunction with RFC 2957, is to enable MIME-enabled mail software, and other systems using Internet media types, to carry out Whois++ transactions.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The intention of this document, in conjunction with RFC 2957, is to enable MIME-enabled mail software, and other systems using Internet media types, to carry out Whois++ transactions.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2958"/>
+  <seriesInfo name="RFC" value="2958"/>
 </reference>

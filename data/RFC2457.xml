@@ -1,17 +1,18 @@
 <reference anchor="RFC2457" target="https://www.rfc-editor.org/info/rfc2457">
   <front>
     <title>Definitions of Managed Objects for Extended Border Node</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2457"/>
-    <author fullname="B. Clouston"/>
-    <author fullname="B. Moore"/>
+    <author fullname="B. Clouston" initials="B." surname="Clouston">
+      <organization/>
+    </author>
+    <author fullname="B. Moore" initials="B." surname="Moore">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>snanau</workgroup>
-    <keyword>EBN-MIB</keyword>
-    <keyword>mib</keyword>
-    <keyword>management</keyword>
-    <keyword>information</keyword>
-    <keyword>base</keyword>
-    <keyword>ebn</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling network devices with APPN (Advanced Peer-to-Peer Network) EBN (Extended Border Node) capabilities.  This memo identifies managed objects for the EBN architecture. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling network devices with APPN (Advanced Peer-to-Peer Network) EBN (Extended Border Node) capabilities.  This memo identifies managed objects for the EBN architecture. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2457"/>
+  <seriesInfo name="RFC" value="2457"/>
 </reference>

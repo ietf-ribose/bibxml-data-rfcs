@@ -1,16 +1,24 @@
 <reference anchor="RFC6796" target="https://www.rfc-editor.org/info/rfc6796">
   <front>
     <title>A User Agent Profile Data Set for Media Policy</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6796"/>
-    <author fullname="V. Hilt"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="J. Rosenberg"/>
-    <author fullname="D. Worley"/>
+    <author fullname="V. Hilt" initials="V." surname="Hilt">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
+    <author fullname="D. Worley" initials="D." surname="Worley">
+      <organization/>
+    </author>
     <date year="2012" month="December"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>Session Policy</keyword>
-    <keyword>Data Set</keyword>
-    <abstract>This specification defines an XML document format to describe the media properties of Session Initiation Protocol (SIP) sessions.  Examples for media properties are the codecs or media types used in the session.  This document also defines an XML document format to describe policies that limit the media properties of SIP sessions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This specification defines an XML document format to describe the media properties of Session Initiation Protocol (SIP) sessions.  Examples for media properties are the codecs or media types used in the session.  This document also defines an XML document format to describe policies that limit the media properties of SIP sessions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6796"/>
+  <seriesInfo name="RFC" value="6796"/>
 </reference>

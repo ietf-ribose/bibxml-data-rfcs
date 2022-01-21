@@ -1,12 +1,18 @@
 <reference anchor="RFC8975" target="https://www.rfc-editor.org/info/rfc8975">
   <front>
     <title>Network Coding for Satellite Systems</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8975"/>
-    <author fullname="N. Kuhn"/>
-    <author fullname="E. Lochin"/>
+    <author fullname="N. Kuhn" initials="N." surname="Kuhn">
+      <organization/>
+    </author>
+    <author fullname="E. Lochin" initials="E." surname="Lochin">
+      <organization/>
+    </author>
     <date year="2021" month="January"/>
-    <keyword>SATCOM</keyword>
-    <keyword>coding techniques</keyword>
-    <abstract>This document is a product of the Coding for Efficient Network Communications Research Group (NWCRG). It conforms to the directions found in the NWCRG taxonomy (RFC 8406). The objective is to contribute to a larger deployment of Network Coding techniques in and above the network layer in satellite communication systems. This document also identifies open research issues related to the deployment of Network Coding in satellite communication systems.</abstract>
+    <abstract>
+      <t>This document is a product of the Coding for Efficient Network Communications Research Group (NWCRG). It conforms to the directions found in the NWCRG taxonomy (RFC 8406).</t>
+      <t>The objective is to contribute to a larger deployment of Network Coding techniques in and above the network layer in satellite communication systems. This document also identifies open research issues related to the deployment of Network Coding in satellite communication systems.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8975"/>
+  <seriesInfo name="RFC" value="8975"/>
 </reference>

@@ -1,20 +1,30 @@
 <reference anchor="RFC7487" target="https://www.rfc-editor.org/info/rfc7487">
   <front>
     <title>Configuration of Proactive Operations, Administration, and Maintenance (OAM) Functions for MPLS-Based Transport Networks Using RSVP-TE</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7487"/>
-    <author fullname="E. Bellagamba"/>
-    <author fullname="A. Takacs"/>
-    <author fullname="G. Mirsky"/>
-    <author fullname="L. Andersson"/>
-    <author fullname="P. Skoldstrom"/>
-    <author fullname="D. Ward"/>
+    <author fullname="E. Bellagamba" initials="E." surname="Bellagamba">
+      <organization/>
+    </author>
+    <author fullname="A. Takacs" initials="A." surname="Takacs">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="L. Andersson" initials="L." surname="Andersson">
+      <organization/>
+    </author>
+    <author fullname="P. Skoldstrom" initials="P." surname="Skoldstrom">
+      <organization/>
+    </author>
+    <author fullname="D. Ward" initials="D." surname="Ward">
+      <organization/>
+    </author>
     <date year="2015" month="March"/>
     <workgroup>ccamp</workgroup>
-    <keyword>RSVP-TE</keyword>
-    <keyword>GMPLS</keyword>
-    <keyword>MPLS</keyword>
-    <keyword>MPLS-TP</keyword>
-    <keyword>OAM</keyword>
-    <abstract>This specification describes the configuration of proactive MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance (OAM) functions for a given Label Switched Path (LSP) using a set of TLVs that are carried by the GMPLS RSVP-TE protocol based on the OAM Configuration Framework for GMPLS RSVP-TE.</abstract>
+    <abstract>
+      <t>This specification describes the configuration of proactive MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance (OAM) functions for a given Label Switched Path (LSP) using a set of TLVs that are carried by the GMPLS RSVP-TE protocol based on the OAM Configuration Framework for GMPLS RSVP-TE.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7487"/>
+  <seriesInfo name="RFC" value="7487"/>
 </reference>

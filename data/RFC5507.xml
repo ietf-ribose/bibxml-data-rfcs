@@ -1,14 +1,23 @@
 <reference anchor="RFC5507" target="https://www.rfc-editor.org/info/rfc5507">
   <front>
     <title>Design Choices When Expanding the DNS</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5507"/>
-    <author fullname="IAB"/>
-    <author fullname="P. Faltstrom"/>
-    <author fullname="R. Austein"/>
-    <author fullname="P. Koch"/>
+    <author fullname="IAB" initials="IAB" surname="">
+      <organization/>
+    </author>
+    <author fullname="P. Faltstrom" initials="P." surname="Faltstrom">
+      <organization/>
+    </author>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
+    <author fullname="P. Koch" initials="P." surname="Koch">
+      <organization/>
+    </author>
     <date year="2009" month="April"/>
-    <keyword>domain name system</keyword>
-    <keyword>resource record type</keyword>
-    <abstract>This note discusses how to extend the DNS with new data for a new application.  DNS extension discussions too often focus on reuse of the TXT Resource Record Type.  This document lists different mechanisms to extend the DNS, and concludes that the use of a new DNS Resource Record Type is the best solution.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This note discusses how to extend the DNS with new data for a new application.  DNS extension discussions too often focus on reuse of the TXT Resource Record Type.  This document lists different mechanisms to extend the DNS, and concludes that the use of a new DNS Resource Record Type is the best solution.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5507"/>
+  <seriesInfo name="RFC" value="5507"/>
 </reference>

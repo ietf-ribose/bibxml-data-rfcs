@@ -1,10 +1,15 @@
 <reference anchor="RFC5943" target="https://www.rfc-editor.org/info/rfc5943">
   <front>
     <title>A Dedicated Routing Policy Specification Language Interface Identifier for Operational Testing</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5943"/>
-    <author fullname="B. Haberman"/>
+    <author fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
     <date year="2010" month="August"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <abstract>The deployment of new IP connectivity typically results in intermittent reachability for numerous reasons that are outside the scope of this document.  In order to aid in the debugging of these persistent problems, this document proposes the creation of a new Routing Policy Specification Language attribute that allows a network to advertise an IP address that is reachable and can be used as a target for diagnostic tests (e.g., pings). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The deployment of new IP connectivity typically results in intermittent reachability for numerous reasons that are outside the scope of this document.  In order to aid in the debugging of these persistent problems, this document proposes the creation of a new Routing Policy Specification Language attribute that allows a network to advertise an IP address that is reachable and can be used as a target for diagnostic tests (e.g., pings). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5943"/>
+  <seriesInfo name="RFC" value="5943"/>
 </reference>

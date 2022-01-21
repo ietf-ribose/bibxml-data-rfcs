@@ -1,12 +1,14 @@
 <reference anchor="RFC3502" target="https://www.rfc-editor.org/info/rfc3502">
   <front>
     <title>Internet Message Access Protocol (IMAP) - MULTIAPPEND Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3502"/>
-    <author fullname="M. Crispin"/>
+    <author fullname="M. Crispin" initials="M." surname="Crispin">
+      <organization/>
+    </author>
     <date year="2003" month="March"/>
-    <keyword>IMAPv4</keyword>
-    <keyword>imap</keyword>
-    <keyword>imapv4rev1</keyword>
-    <abstract>This document describes the multiappending extension to the Internet Message Access Protocol (IMAP) (RFC 3501).  This extension provides substantial performance improvements for IMAP clients which upload multiple messages at a time to a mailbox on the server.  A server which supports this extension indicates this with a capability name of "MULTIAPPEND". [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the multiappending extension to the Internet Message Access Protocol (IMAP) (RFC 3501).  This extension provides substantial performance improvements for IMAP clients which upload multiple messages at a time to a mailbox on the server.  A server which supports this extension indicates this with a capability name of "MULTIAPPEND". [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3502"/>
+  <seriesInfo name="RFC" value="3502"/>
 </reference>

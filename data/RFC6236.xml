@@ -1,11 +1,18 @@
 <reference anchor="RFC6236" target="https://www.rfc-editor.org/info/rfc6236">
   <front>
     <title>Negotiation of Generic Image Attributes in the Session Description Protocol (SDP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6236"/>
-    <author fullname="I. Johansson"/>
-    <author fullname="K. Jung"/>
+    <author fullname="I. Johansson" initials="I." surname="Johansson">
+      <organization/>
+    </author>
+    <author fullname="K. Jung" initials="K." surname="Jung">
+      <organization/>
+    </author>
     <date year="2011" month="May"/>
     <workgroup>mmusic</workgroup>
-    <abstract>This document proposes a new generic session setup attribute to make it possible to negotiate different image attributes such as image size.  A possible use case is to make it possible for a \%low-end \%hand- held terminal to display video without the need to rescale the image, something that may consume large amounts of memory and processing power.  The document also helps to maintain an optimal bitrate for video as only the image size that is desired by the receiver is transmitted. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document proposes a new generic session setup attribute to make it possible to negotiate different image attributes such as image size.  A possible use case is to make it possible for a \%low-end \%hand- held terminal to display video without the need to rescale the image, something that may consume large amounts of memory and processing power.  The document also helps to maintain an optimal bitrate for video as only the image size that is desired by the receiver is transmitted. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6236"/>
+  <seriesInfo name="RFC" value="6236"/>
 </reference>

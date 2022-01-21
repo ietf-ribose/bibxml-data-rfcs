@@ -1,15 +1,15 @@
 <reference anchor="RFC8005" target="https://www.rfc-editor.org/info/rfc8005">
   <front>
     <title>Host Identity Protocol (HIP) Domain Name System (DNS) Extension</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8005"/>
-    <author fullname="J. Laganier"/>
+    <author fullname="J. Laganier" initials="J." surname="Laganier">
+      <organization/>
+    </author>
     <date year="2016" month="October"/>
     <workgroup>hip</workgroup>
-    <keyword>HIP</keyword>
-    <keyword>Host Identity Protocol</keyword>
-    <keyword>Host Identity Payload</keyword>
-    <keyword>DNS</keyword>
-    <keyword>Domain Name System</keyword>
-    <abstract>This document specifies a resource record (RR) for the Domain Name System (DNS) and how to use it with the Host Identity Protocol (HIP).  This RR allows a HIP node to store in the DNS its Host Identity (HI), the public component of the node public-private key pair; its Host Identity Tag (HIT), a truncated hash of its public key (PK); and the domain names of its rendezvous servers (RVSs).  This document obsoletes RFC 5205.</abstract>
+    <abstract>
+      <t>This document specifies a resource record (RR) for the Domain Name System (DNS) and how to use it with the Host Identity Protocol (HIP).  This RR allows a HIP node to store in the DNS its Host Identity (HI), the public component of the node public-private key pair; its Host Identity Tag (HIT), a truncated hash of its public key (PK); and the domain names of its rendezvous servers (RVSs).  This document obsoletes RFC 5205.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8005"/>
+  <seriesInfo name="RFC" value="8005"/>
 </reference>

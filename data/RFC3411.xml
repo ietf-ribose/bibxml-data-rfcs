@@ -1,17 +1,22 @@
 <reference anchor="RFC3411" target="https://www.rfc-editor.org/info/rfc3411">
   <front>
     <title>An Architecture for Describing Simple Network Management Protocol (SNMP) Management Frameworks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3411"/>
-    <author fullname="D. Harrington"/>
-    <author fullname="R. Presuhn"/>
-    <author fullname="B. Wijnen"/>
+    <author fullname="D. Harrington" initials="D." surname="Harrington">
+      <organization/>
+    </author>
+    <author fullname="R. Presuhn" initials="R." surname="Presuhn">
+      <organization/>
+    </author>
+    <author fullname="B. Wijnen" initials="B." surname="Wijnen">
+      <organization/>
+    </author>
     <date year="2002" month="December"/>
     <workgroup>snmpv3</workgroup>
-    <keyword>ARCH-SNMP</keyword>
-    <keyword>simple</keyword>
-    <keyword>protocol</keyword>
-    <keyword>network</keyword>
-    <keyword>management</keyword>
-    <abstract>This document describes an architecture for describing Simple Network Management Protocol (SNMP) Management Frameworks.  The architecture is designed to be modular to allow the evolution of the SNMP protocol standards over time.  The major portions of the architecture are an SNMP engine containing a Message Processing Subsystem, a Security Subsystem and an Access Control Subsystem, and possibly multiple SNMP applications which provide specific functional processing of management data.  This document obsoletes RFC 2571. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an architecture for describing Simple Network Management Protocol (SNMP) Management Frameworks.  The architecture is designed to be modular to allow the evolution of the SNMP protocol standards over time.  The major portions of the architecture are an SNMP engine containing a Message Processing Subsystem, a Security Subsystem and an Access Control Subsystem, and possibly multiple SNMP applications which provide specific functional processing of management data.  This document obsoletes RFC 2571. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3411"/>
+  <seriesInfo name="STD" value="62"/>
+  <seriesInfo name="RFC" value="3411"/>
 </reference>

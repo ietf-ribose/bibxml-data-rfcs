@@ -1,15 +1,21 @@
 <reference anchor="RFC3825" target="https://www.rfc-editor.org/info/rfc3825">
   <front>
     <title>Dynamic Host Configuration Protocol Option for Coordinate-based Location Configuration Information</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3825"/>
-    <author fullname="J. Polk"/>
-    <author fullname="J. Schnizlein"/>
-    <author fullname="M. Linsner"/>
+    <author fullname="J. Polk" initials="J." surname="Polk">
+      <organization/>
+    </author>
+    <author fullname="J. Schnizlein" initials="J." surname="Schnizlein">
+      <organization/>
+    </author>
+    <author fullname="M. Linsner" initials="M." surname="Linsner">
+      <organization/>
+    </author>
     <date year="2004" month="July"/>
     <workgroup>geopriv</workgroup>
-    <keyword>dhcp</keyword>
-    <keyword>lci</keyword>
-    <keyword>geographic location</keyword>
-    <abstract>This document specifies a Dynamic Host Configuration Protocol Option for the coordinate-based geographic location of the client.  The Location Configuration Information (LCI) includes latitude, longitude, and altitude, with resolution indicators for each.  The reference datum for these values is also included. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document specifies a Dynamic Host Configuration Protocol Option for the coordinate-based geographic location of the client.  The Location Configuration Information (LCI) includes latitude, longitude, and altitude, with resolution indicators for each.  The reference datum for these values is also included. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3825"/>
+  <seriesInfo name="RFC" value="3825"/>
 </reference>

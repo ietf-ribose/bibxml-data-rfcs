@@ -1,17 +1,21 @@
 <reference anchor="RFC2598" target="https://www.rfc-editor.org/info/rfc2598">
   <front>
     <title>An Expedited Forwarding PHB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2598"/>
-    <author fullname="V. Jacobson"/>
-    <author fullname="K. Nichols"/>
-    <author fullname="K. Poduri"/>
+    <author fullname="V. Jacobson" initials="V." surname="Jacobson">
+      <organization/>
+    </author>
+    <author fullname="K. Nichols" initials="K." surname="Nichols">
+      <organization/>
+    </author>
+    <author fullname="K. Poduri" initials="K." surname="Poduri">
+      <organization/>
+    </author>
     <date year="1999" month="June"/>
     <workgroup>diffserv</workgroup>
-    <keyword>per-hop-forwarding</keyword>
-    <keyword>behavior</keyword>
-    <keyword>differentiated</keyword>
-    <keyword>services</keyword>
-    <keyword>ef</keyword>
-    <abstract>The definition of PHBs (per-hop forwarding behaviors) is a critical part of the work of the Diffserv Working Group.  This document describes a PHB called Expedited Forwarding. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The definition of PHBs (per-hop forwarding behaviors) is a critical part of the work of the Diffserv Working Group.  This document describes a PHB called Expedited Forwarding. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2598"/>
+  <seriesInfo name="RFC" value="2598"/>
 </reference>

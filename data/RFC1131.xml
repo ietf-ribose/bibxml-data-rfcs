@@ -1,9 +1,14 @@
 <reference anchor="RFC1131" target="https://www.rfc-editor.org/info/rfc1131">
   <front>
     <title>OSPF specification</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1131"/>
-    <author fullname="J. Moy"/>
+    <author fullname="J. Moy" initials="J." surname="Moy">
+      <organization/>
+    </author>
     <date year="1989" month="October"/>
-    <abstract>This RFC is the specification of the Open Shortest Path First (OSPF) Internet routing protocol.  OSPF is in the class of Internal Gateway Protocols (IGPs) for distributing routing information between gateways of a single Autonomous System.  This routing protocol is based on the link-state approach (in contrast to the distance-vector approach).  This specification was developed by the OSPF Working Group of the Internet Engineering Task Force. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC is the specification of the Open Shortest Path First (OSPF) Internet routing protocol.  OSPF is in the class of Internal Gateway Protocols (IGPs) for distributing routing information between gateways of a single Autonomous System.  This routing protocol is based on the link-state approach (in contrast to the distance-vector approach).  This specification was developed by the OSPF Working Group of the Internet Engineering Task Force. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1131"/>
+  <seriesInfo name="RFC" value="1131"/>
 </reference>

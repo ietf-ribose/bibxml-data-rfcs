@@ -1,14 +1,15 @@
 <reference anchor="RFC2293" target="https://www.rfc-editor.org/info/rfc2293">
   <front>
     <title>Representing Tables and Subtrees in the X.500 Directory</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2293"/>
-    <author fullname="S. Kille"/>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1998" month="March"/>
     <workgroup>mixer</workgroup>
-    <keyword>SUBTABLE</keyword>
-    <keyword>mapping</keyword>
-    <keyword>distinguished</keyword>
-    <keyword>name</keyword>
-    <abstract>This document defines techniques for representing two types of information mapping in the OSI Directory: Mapping from a key to a value (or set of values), as might be done in a table lookup, and mapping from a distinguished name to an associated value (or values), where the values are not defined by the owner of the entry.  This is achieved by use of a directory subtree. [STANDARDS-TRCK]</abstract>
+    <abstract>
+      <t>This document defines techniques for representing two types of information mapping in the OSI Directory: Mapping from a key to a value (or set of values), as might be done in a table lookup, and mapping from a distinguished name to an associated value (or values), where the values are not defined by the owner of the entry.  This is achieved by use of a directory subtree. [STANDARDS-TRCK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2293"/>
+  <seriesInfo name="RFC" value="2293"/>
 </reference>

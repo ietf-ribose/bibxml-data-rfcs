@@ -1,16 +1,18 @@
 <reference anchor="RFC2433" target="https://www.rfc-editor.org/info/rfc2433">
   <front>
     <title>Microsoft PPP CHAP Extensions</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2433"/>
-    <author fullname="G. Zorn"/>
-    <author fullname="S. Cobb"/>
+    <author fullname="G. Zorn" initials="G." surname="Zorn">
+      <organization/>
+    </author>
+    <author fullname="S. Cobb" initials="S." surname="Cobb">
+      <organization/>
+    </author>
     <date year="1998" month="October"/>
     <workgroup>pppext</workgroup>
-    <keyword>point to point</keyword>
-    <keyword>protocol</keyword>
-    <keyword>challenge</keyword>
-    <keyword>handshake</keyword>
-    <keyword>authentication</keyword>
-    <abstract>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2433"/>
+  <seriesInfo name="RFC" value="2433"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC7086" target="https://www.rfc-editor.org/info/rfc7086">
   <front>
     <title>Host Identity Protocol-Based Overlay Networking Environment (HIP BONE) Instance Specification for REsource LOcation And Discovery (RELOAD)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7086"/>
-    <author fullname="A. Keranen"/>
-    <author fullname="G. Camarillo"/>
-    <author fullname="J. Maenpaa"/>
+    <author fullname="A. Keranen" initials="A." surname="Keranen">
+      <organization/>
+    </author>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="J. Maenpaa" initials="J." surname="Maenpaa">
+      <organization/>
+    </author>
     <date year="2014" month="January"/>
     <workgroup>hip</workgroup>
-    <keyword>HIP</keyword>
-    <keyword>overlay</keyword>
-    <keyword>P2P</keyword>
-    <abstract>This document is the HIP-Based Overlay Networking Environment (HIP BONE) instance specification for the REsource LOcation And Discovery (RELOAD) protocol.  The document provides the details needed to build a RELOAD-based overlay that uses HIP.</abstract>
+    <abstract>
+      <t>This document is the HIP-Based Overlay Networking Environment (HIP BONE) instance specification for the REsource LOcation And Discovery (RELOAD) protocol.  The document provides the details needed to build a RELOAD-based overlay that uses HIP.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7086"/>
+  <seriesInfo name="RFC" value="7086"/>
 </reference>

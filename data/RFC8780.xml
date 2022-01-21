@@ -1,14 +1,18 @@
 <reference anchor="RFC8780" target="https://www.rfc-editor.org/info/rfc8780">
   <front>
     <title>The Path Computation Element Communication Protocol (PCEP) Extension for Wavelength Switched Optical Network (WSON) Routing and Wavelength Assignment (RWA)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8780"/>
-    <author fullname="Y. Lee"/>
-    <author fullname="R. Casellas"/>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="R. Casellas" initials="R." surname="Casellas">
+      <organization/>
+    </author>
     <date year="2020" month="July"/>
     <workgroup>pce</workgroup>
-    <keyword>Wavelength Allocation</keyword>
-    <keyword>Transparent Optical Networks</keyword>
-    <keyword>Fixed DWDM Grid</keyword>
-    <abstract>This document provides Path Computation Element Communication Protocol (PCEP) extensions for the support of Routing and Wavelength Assignment (RWA) in Wavelength Switched Optical Networks (WSONs).  Path provisioning in WSONs requires an RWA process.  From a path computation perspective, wavelength assignment is the process of determining which wavelength can be used on each hop of a path and forms an additional routing constraint to optical path computation.</abstract>
+    <abstract>
+      <t>This document provides Path Computation Element Communication Protocol (PCEP) extensions for the support of Routing and Wavelength Assignment (RWA) in Wavelength Switched Optical Networks (WSONs).  Path provisioning in WSONs requires an RWA process.  From a path computation perspective, wavelength assignment is the process of determining which wavelength can be used on each hop of a path and forms an additional routing constraint to optical path computation.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8780"/>
+  <seriesInfo name="RFC" value="8780"/>
 </reference>

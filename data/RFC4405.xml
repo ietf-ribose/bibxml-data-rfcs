@@ -1,14 +1,18 @@
 <reference anchor="RFC4405" target="https://www.rfc-editor.org/info/rfc4405">
   <front>
     <title>SMTP Service Extension for Indicating the Responsible Submitter of an E-Mail Message</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4405"/>
-    <author fullname="E. Allman"/>
-    <author fullname="H. Katz"/>
+    <author fullname="E. Allman" initials="E." surname="Allman">
+      <organization/>
+    </author>
+    <author fullname="H. Katz" initials="H." surname="Katz">
+      <organization/>
+    </author>
     <date year="2006" month="April"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>spam</keyword>
-    <keyword>spoofing</keyword>
-    <keyword>phishing</keyword>
-    <abstract>This memo defines an extension to the Simple Mail Transfer Protocol (SMTP) service that allows an SMTP client to specify the responsible submitter of an e-mail message.  The responsible submitter is the e-mail address of the entity most recently responsible for introducing a message into the transport stream.  This extension helps receiving e-mail servers efficiently determine whether the SMTP client is authorized to transmit mail on behalf of the responsible submitter's domain.  This memo defines an Experimental Protocol for the Internet community.</abstract>
+    <abstract>
+      <t>This memo defines an extension to the Simple Mail Transfer Protocol (SMTP) service that allows an SMTP client to specify the responsible submitter of an e-mail message.  The responsible submitter is the e-mail address of the entity most recently responsible for introducing a message into the transport stream.  This extension helps receiving e-mail servers efficiently determine whether the SMTP client is authorized to transmit mail on behalf of the responsible submitter's domain.  This memo defines an Experimental Protocol for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4405"/>
+  <seriesInfo name="RFC" value="4405"/>
 </reference>

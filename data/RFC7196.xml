@@ -1,15 +1,27 @@
 <reference anchor="RFC7196" target="https://www.rfc-editor.org/info/rfc7196">
   <front>
     <title>Making Route Flap Damping Usable</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7196"/>
-    <author fullname="C. Pelsser"/>
-    <author fullname="R. Bush"/>
-    <author fullname="K. Patel"/>
-    <author fullname="P. Mohapatra"/>
-    <author fullname="O. Maennel"/>
+    <author fullname="C. Pelsser" initials="C." surname="Pelsser">
+      <organization/>
+    </author>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="P. Mohapatra" initials="P." surname="Mohapatra">
+      <organization/>
+    </author>
+    <author fullname="O. Maennel" initials="O." surname="Maennel">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>idr</workgroup>
-    <keyword>rfd</keyword>
-    <abstract>Route Flap Damping (RFD) was first proposed to reduce BGP churn in routers.  Unfortunately, RFD was found to severely penalize sites for being well connected because topological richness amplifies the number of update messages exchanged.  Many operators have turned RFD off.  Based on experimental measurement, this document recommends adjusting a few RFD algorithmic constants and limits in order to reduce the high risks with RFD.  The result is damping a non-trivial amount of long-term churn without penalizing well-behaved prefixes' normal convergence process.</abstract>
+    <abstract>
+      <t>Route Flap Damping (RFD) was first proposed to reduce BGP churn in routers.  Unfortunately, RFD was found to severely penalize sites for being well connected because topological richness amplifies the number of update messages exchanged.  Many operators have turned RFD off.  Based on experimental measurement, this document recommends adjusting a few RFD algorithmic constants and limits in order to reduce the high risks with RFD.  The result is damping a non-trivial amount of long-term churn without penalizing well-behaved prefixes' normal convergence process.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7196"/>
+  <seriesInfo name="RFC" value="7196"/>
 </reference>

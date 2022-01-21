@@ -1,20 +1,15 @@
 <reference anchor="RFC7255" target="https://www.rfc-editor.org/info/rfc7255">
   <front>
     <title>Using the International Mobile station Equipment Identity (IMEI) Uniform Resource Name (URN) as an Instance ID</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7255"/>
-    <author fullname="A. Allen"/>
+    <author fullname="A. Allen" initials="A." surname="Allen">
+      <organization/>
+    </author>
     <date year="2014" month="May"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>GSM</keyword>
-    <keyword>UMTS</keyword>
-    <keyword>LTE</keyword>
-    <keyword>3GPP</keyword>
-    <keyword>IMS</keyword>
-    <keyword>SIP</keyword>
-    <keyword>GRUU</keyword>
-    <keyword>Mobile</keyword>
-    <keyword>identifier</keyword>
-    <keyword>instance ID</keyword>
-    <abstract>This specification defines how the Uniform Resource Name (URN) reserved for the Global System for Mobile Communications Association (GSMA) identities and its sub-namespace for the International Mobile station Equipment Identity (IMEI) can be used as an instance-id.  Its purpose is to fulfill the requirements for defining how a specific URN needs to be constructed and used in the '+sip.instance' Contact header field parameter for outbound behavior.</abstract>
+    <abstract>
+      <t>This specification defines how the Uniform Resource Name (URN) reserved for the Global System for Mobile Communications Association (GSMA) identities and its sub-namespace for the International Mobile station Equipment Identity (IMEI) can be used as an instance-id.  Its purpose is to fulfill the requirements for defining how a specific URN needs to be constructed and used in the '+sip.instance' Contact header field parameter for outbound behavior.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7255"/>
+  <seriesInfo name="RFC" value="7255"/>
 </reference>

@@ -1,17 +1,27 @@
 <reference anchor="RFC8099" target="https://www.rfc-editor.org/info/rfc8099">
   <front>
     <title>OSPF Topology-Transparent Zone</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8099"/>
-    <author fullname="H. Chen"/>
-    <author fullname="R. Li"/>
-    <author fullname="A. Retana"/>
-    <author fullname="Y. Yang"/>
-    <author fullname="Z. Liu"/>
+    <author fullname="H. Chen" initials="H." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="R. Li" initials="R." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="A. Retana" initials="A." surname="Retana">
+      <organization/>
+    </author>
+    <author fullname="Y. Yang" initials="Y." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Z. Liu" initials="Z." surname="Liu">
+      <organization/>
+    </author>
     <date year="2017" month="February"/>
     <workgroup>ospf</workgroup>
-    <keyword>IGP</keyword>
-    <keyword>OSPF</keyword>
-    <keyword>TTZ</keyword>
-    <abstract>This document presents a Topology-Transparent Zone (TTZ) in an OSPF area.  A TTZ comprises a group of routers and a number of links connecting these routers.  Any router outside of the zone is not aware of the zone.  A TTZ hides the internal topology of the TTZ from the outside.  It does not directly advertise any internal information about the TTZ to a router outside of the TTZ.  The information about the links and routers such as a link down inside the TTZ is not advertised to any router outside of the TTZ.</abstract>
+    <abstract>
+      <t>This document presents a Topology-Transparent Zone (TTZ) in an OSPF area.  A TTZ comprises a group of routers and a number of links connecting these routers.  Any router outside of the zone is not aware of the zone.  A TTZ hides the internal topology of the TTZ from the outside.  It does not directly advertise any internal information about the TTZ to a router outside of the TTZ.  The information about the links and routers such as a link down inside the TTZ is not advertised to any router outside of the TTZ.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8099"/>
+  <seriesInfo name="RFC" value="8099"/>
 </reference>

@@ -1,22 +1,27 @@
 <reference anchor="RFC2364" target="https://www.rfc-editor.org/info/rfc2364">
   <front>
     <title>PPP Over AAL5</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2364"/>
-    <author fullname="G. Gross"/>
-    <author fullname="M. Kaycee"/>
-    <author fullname="A. Li"/>
-    <author fullname="A. Malis"/>
-    <author fullname="J. Stephens"/>
+    <author fullname="G. Gross" initials="G." surname="Gross">
+      <organization/>
+    </author>
+    <author fullname="M. Kaycee" initials="M." surname="Kaycee">
+      <organization/>
+    </author>
+    <author fullname="A. Li" initials="A." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="A. Malis" initials="A." surname="Malis">
+      <organization/>
+    </author>
+    <author fullname="J. Stephens" initials="J." surname="Stephens">
+      <organization/>
+    </author>
     <date year="1998" month="July"/>
     <workgroup>pppext</workgroup>
-    <keyword>PPP-AAL</keyword>
-    <keyword>point-to-point</keyword>
-    <keyword>protocol</keyword>
-    <keyword>link</keyword>
-    <keyword>control</keyword>
-    <keyword>network-layer</keyword>
-    <keyword>authentication</keyword>
-    <keyword>compression</keyword>
-    <abstract>This document describes the use of ATM Adaptation Layer 5 (AAL5) for framing PPP encapsulated packets. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes the use of ATM Adaptation Layer 5 (AAL5) for framing PPP encapsulated packets. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2364"/>
+  <seriesInfo name="RFC" value="2364"/>
 </reference>

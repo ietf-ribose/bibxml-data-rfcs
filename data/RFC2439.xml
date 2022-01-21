@@ -1,18 +1,21 @@
 <reference anchor="RFC2439" target="https://www.rfc-editor.org/info/rfc2439">
   <front>
     <title>BGP Route Flap Damping</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2439"/>
-    <author fullname="C. Villamizar"/>
-    <author fullname="R. Chandra"/>
-    <author fullname="R. Govindan"/>
+    <author fullname="C. Villamizar" initials="C." surname="Villamizar">
+      <organization/>
+    </author>
+    <author fullname="R. Chandra" initials="R." surname="Chandra">
+      <organization/>
+    </author>
+    <author fullname="R. Govindan" initials="R." surname="Govindan">
+      <organization/>
+    </author>
     <date year="1998" month="November"/>
     <workgroup>idr</workgroup>
-    <keyword>Border</keyword>
-    <keyword>Gateway</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>IDRP</keyword>
-    <keyword>Internet-Domain</keyword>
-    <keyword>Routing</keyword>
-    <abstract>A usage of the BGP routing protocol is described which is capable of reducing the routing traffic passed on to routing peers and therefore the load on these peers without adversely affecting route convergence time for relatively stable routes. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>A usage of the BGP routing protocol is described which is capable of reducing the routing traffic passed on to routing peers and therefore the load on these peers without adversely affecting route convergence time for relatively stable routes. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2439"/>
+  <seriesInfo name="RFC" value="2439"/>
 </reference>

@@ -1,12 +1,21 @@
 <reference anchor="RFC6953" target="https://www.rfc-editor.org/info/rfc6953">
   <front>
     <title>Protocol to Access White-Space (PAWS) Databases: Use Cases and Requirements</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6953"/>
-    <author fullname="A. Mancuso"/>
-    <author fullname="S. Probasco"/>
-    <author fullname="B. Patil"/>
+    <author fullname="A. Mancuso" initials="A." surname="Mancuso">
+      <organization/>
+    </author>
+    <author fullname="S. Probasco" initials="S." surname="Probasco">
+      <organization/>
+    </author>
+    <author fullname="B. Patil" initials="B." surname="Patil">
+      <organization/>
+    </author>
     <date year="2013" month="May"/>
     <workgroup>paws</workgroup>
-    <abstract>Portions of the radio spectrum that are assigned to a particular use but are unused or unoccupied at specific locations and times are defined as "white space".  The concept of allowing additional transmissions (which may or may not be licensed) in white space is a technique to "unlock" existing spectrum for new use.  This document includes the problem statement for the development of a protocol to access a database of white-space information followed by use cases and requirements for that protocol.  Finally, requirements associated with the protocol are presented.</abstract>
+    <abstract>
+      <t>Portions of the radio spectrum that are assigned to a particular use but are unused or unoccupied at specific locations and times are defined as "white space".  The concept of allowing additional transmissions (which may or may not be licensed) in white space is a technique to "unlock" existing spectrum for new use.  This document includes the problem statement for the development of a protocol to access a database of white-space information followed by use cases and requirements for that protocol.  Finally, requirements associated with the protocol are presented.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6953"/>
+  <seriesInfo name="RFC" value="6953"/>
 </reference>

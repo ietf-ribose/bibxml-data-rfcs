@@ -1,9 +1,14 @@
 <reference anchor="RFC0878" target="https://www.rfc-editor.org/info/rfc878">
   <front>
     <title>ARPANET 1822L Host Access Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC0878"/>
-    <author fullname="A.G. Malis"/>
+    <author fullname="A.G. Malis" initials="A.G." surname="Malis">
+      <organization/>
+    </author>
     <date year="1983" month="December"/>
-    <abstract>This RFC specifies the ARPANET 1822L Host Access Protocol, which is a successor to the existing 1822 Host Access Protocol.  The 1822L procedure allows ARPANET hosts to use logical identifiers as well as 1822 physical interface identifiers to address each other.</abstract>
+    <abstract>
+      <t>This RFC specifies the ARPANET 1822L Host Access Protocol, which is a successor to the existing 1822 Host Access Protocol.  The 1822L procedure allows ARPANET hosts to use logical identifiers as well as 1822 physical interface identifiers to address each other.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC0878"/>
+  <seriesInfo name="RFC" value="878"/>
 </reference>

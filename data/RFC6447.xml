@@ -1,14 +1,21 @@
 <reference anchor="RFC6447" target="https://www.rfc-editor.org/info/rfc6447">
   <front>
     <title>Filtering Location Notifications in the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC6447"/>
-    <author fullname="R. Mahy"/>
-    <author fullname="B. Rosen"/>
-    <author fullname="H. Tschofenig"/>
+    <author fullname="R. Mahy" initials="R." surname="Mahy">
+      <organization/>
+    </author>
+    <author fullname="B. Rosen" initials="B." surname="Rosen">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
     <date year="2012" month="January"/>
     <workgroup>geopriv</workgroup>
-    <keyword>geopriv</keyword>
-    <keyword>location</keyword>
-    <abstract>This document describes filters that limit asynchronous location notifications to compelling events.  These filters are designed as an extension to RFC 4661, an XML-based format for event notification filtering, and based on RFC 3856, the SIP presence event package.  The resulting location information is conveyed in existing location formats wrapped in the Presence Information Data Format Location Object (PIDF-LO). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes filters that limit asynchronous location notifications to compelling events.  These filters are designed as an extension to RFC 4661, an XML-based format for event notification filtering, and based on RFC 3856, the SIP presence event package.  The resulting location information is conveyed in existing location formats wrapped in the Presence Information Data Format Location Object (PIDF-LO). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC6447"/>
+  <seriesInfo name="RFC" value="6447"/>
 </reference>

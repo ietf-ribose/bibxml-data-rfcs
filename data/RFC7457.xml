@@ -1,19 +1,21 @@
 <reference anchor="RFC7457" target="https://www.rfc-editor.org/info/rfc7457">
   <front>
     <title>Summarizing Known Attacks on Transport Layer Security (TLS) and Datagram TLS (DTLS)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7457"/>
-    <author fullname="Y. Sheffer"/>
-    <author fullname="R. Holz"/>
-    <author fullname="P. Saint-Andre"/>
+    <author fullname="Y. Sheffer" initials="Y." surname="Sheffer">
+      <organization/>
+    </author>
+    <author fullname="R. Holz" initials="R." surname="Holz">
+      <organization/>
+    </author>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
     <date year="2015" month="February"/>
     <workgroup>uta</workgroup>
-    <keyword>Transport Layer Security</keyword>
-    <keyword>TLS</keyword>
-    <keyword>Datagram TLS</keyword>
-    <keyword>DTLS</keyword>
-    <keyword>Secure Sockets Layer</keyword>
-    <keyword>SSL</keyword>
-    <keyword>security attacks</keyword>
-    <abstract>Over the last few years, there have been several serious attacks on Transport Layer Security (TLS), including attacks on its most commonly used ciphers and modes of operation.  This document summarizes these attacks, with the goal of motivating generic and protocol-specific recommendations on the usage of TLS and Datagram TLS (DTLS).</abstract>
+    <abstract>
+      <t>Over the last few years, there have been several serious attacks on Transport Layer Security (TLS), including attacks on its most commonly used ciphers and modes of operation.  This document summarizes these attacks, with the goal of motivating generic and protocol-specific recommendations on the usage of TLS and Datagram TLS (DTLS).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7457"/>
+  <seriesInfo name="RFC" value="7457"/>
 </reference>

@@ -1,20 +1,24 @@
 <reference anchor="RFC2543" target="https://www.rfc-editor.org/info/rfc2543">
   <front>
     <title>SIP: Session Initiation Protocol</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2543"/>
-    <author fullname="M. Handley"/>
-    <author fullname="H. Schulzrinne"/>
-    <author fullname="E. Schooler"/>
-    <author fullname="J. Rosenberg"/>
+    <author fullname="M. Handley" initials="M." surname="Handley">
+      <organization/>
+    </author>
+    <author fullname="H. Schulzrinne" initials="H." surname="Schulzrinne">
+      <organization/>
+    </author>
+    <author fullname="E. Schooler" initials="E." surname="Schooler">
+      <organization/>
+    </author>
+    <author fullname="J. Rosenberg" initials="J." surname="Rosenberg">
+      <organization/>
+    </author>
     <date year="1999" month="March"/>
     <workgroup>mmusic</workgroup>
-    <keyword>SIP</keyword>
-    <keyword>application-layer</keyword>
-    <keyword>application</keyword>
-    <keyword>layer</keyword>
-    <keyword>multimedia</keyword>
-    <keyword>multicast</keyword>
-    <keyword>unicast</keyword>
-    <abstract>The Session Initiation Protocol (SIP) is an application-layer control (signaling) protocol for creating, modifying and terminating sessions with one or more participants. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>The Session Initiation Protocol (SIP) is an application-layer control (signaling) protocol for creating, modifying and terminating sessions with one or more participants. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2543"/>
+  <seriesInfo name="RFC" value="2543"/>
 </reference>

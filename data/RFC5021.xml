@@ -1,10 +1,15 @@
 <reference anchor="RFC5021" target="https://www.rfc-editor.org/info/rfc5021">
   <front>
     <title>Extended Kerberos Version 5 Key Distribution Center (KDC) Exchanges over TCP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5021"/>
-    <author fullname="S. Josefsson"/>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
     <date year="2007" month="August"/>
     <workgroup>krb-wg</workgroup>
-    <abstract>This document describes an extensibility mechanism for the Kerberos V5 protocol when used over TCP transports.  The mechanism uses the reserved high-bit in the length field.  It can be used to negotiate TCP-specific Kerberos extensions. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes an extensibility mechanism for the Kerberos V5 protocol when used over TCP transports.  The mechanism uses the reserved high-bit in the length field.  It can be used to negotiate TCP-specific Kerberos extensions. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5021"/>
+  <seriesInfo name="RFC" value="5021"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="RFC5701" target="https://www.rfc-editor.org/info/rfc5701">
   <front>
     <title>IPv6 Address Specific BGP Extended Community Attribute</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5701"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="2009" month="November"/>
     <workgroup>l3vpn</workgroup>
-    <keyword>border gateway protocol</keyword>
-    <abstract>Current specifications of BGP Extended Communities (RFC 4360) support the IPv4 Address Specific Extended Community, but do not support an IPv6 Address Specific Extended Community.  The lack of an IPv6 Address Specific Extended Community may be a problem when an application uses the IPv4 Address Specific Extended Community, and one wants to use this application in a pure IPv6 environment.  This document defines a new BGP attribute, the IPv6 Address Specific Extended Community, that addresses this problem.  The IPv6 Address Specific Extended Community is similar to the IPv4 Address Specific Extended Community, except that it carries an IPv6 address rather than an IPv4 address. [STANDARDS TRACK]</abstract>
+    <abstract>
+      <t>Current specifications of BGP Extended Communities (RFC 4360) support the IPv4 Address Specific Extended Community, but do not support an IPv6 Address Specific Extended Community.  The lack of an IPv6 Address Specific Extended Community may be a problem when an application uses the IPv4 Address Specific Extended Community, and one wants to use this application in a pure IPv6 environment.  This document defines a new BGP attribute, the IPv6 Address Specific Extended Community, that addresses this problem.  The IPv6 Address Specific Extended Community is similar to the IPv4 Address Specific Extended Community, except that it carries an IPv6 address rather than an IPv4 address. [STANDARDS TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5701"/>
+  <seriesInfo name="RFC" value="5701"/>
 </reference>

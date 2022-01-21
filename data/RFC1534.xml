@@ -1,15 +1,15 @@
 <reference anchor="RFC1534" target="https://www.rfc-editor.org/info/rfc1534">
   <front>
     <title>Interoperation Between DHCP and BOOTP</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1534"/>
-    <author fullname="R. Droms"/>
+    <author fullname="R. Droms" initials="R." surname="Droms">
+      <organization/>
+    </author>
     <date year="1993" month="October"/>
     <workgroup>dhc</workgroup>
-    <keyword>DHCP-BOOTP</keyword>
-    <keyword>Dynamic</keyword>
-    <keyword>Host</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Bootstrap</keyword>
-    <abstract>DHCP provides a superset of the functions provided by BOOTP.  This document describes the interactions between DHCP and BOOTP network participants. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>DHCP provides a superset of the functions provided by BOOTP.  This document describes the interactions between DHCP and BOOTP network participants. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1534"/>
+  <seriesInfo name="RFC" value="1534"/>
 </reference>

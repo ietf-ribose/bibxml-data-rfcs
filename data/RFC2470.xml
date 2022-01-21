@@ -1,18 +1,21 @@
 <reference anchor="RFC2470" target="https://www.rfc-editor.org/info/rfc2470">
   <front>
     <title>Transmission of IPv6 Packets over Token Ring Networks</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2470"/>
-    <author fullname="M. Crawford"/>
-    <author fullname="T. Narten"/>
-    <author fullname="S. Thomas"/>
+    <author fullname="M. Crawford" initials="M." surname="Crawford">
+      <organization/>
+    </author>
+    <author fullname="T. Narten" initials="T." surname="Narten">
+      <organization/>
+    </author>
+    <author fullname="S. Thomas" initials="S." surname="Thomas">
+      <organization/>
+    </author>
     <date year="1998" month="December"/>
     <workgroup>ipngwg</workgroup>
-    <keyword>internet</keyword>
-    <keyword>protocol</keyword>
-    <keyword>frame</keyword>
-    <keyword>format</keyword>
-    <keyword>link-local</keyword>
-    <keyword>addresses</keyword>
-    <abstract>This memo specifies the MTU and frame format for transmission of IPv6 packets on Token Ring networks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo specifies the MTU and frame format for transmission of IPv6 packets on Token Ring networks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2470"/>
+  <seriesInfo name="RFC" value="2470"/>
 </reference>

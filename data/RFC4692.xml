@@ -1,12 +1,15 @@
 <reference anchor="RFC4692" target="https://www.rfc-editor.org/info/rfc4692">
   <front>
     <title>Considerations on the IPv6 Host Density Metric</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4692"/>
-    <author fullname="G. Huston"/>
+    <author fullname="G. Huston" initials="G." surname="Huston">
+      <organization/>
+    </author>
     <date year="2006" month="October"/>
     <workgroup>NON WORKING GROUP</workgroup>
-    <keyword>internet protocol version 6</keyword>
-    <keyword>ipv6 unicast address blocks</keyword>
-    <abstract>This memo provides an analysis of the Host Density metric as it is currently used to guide registry allocations of IPv6 unicast address blocks.  This document contrasts the address efficiency as currently adopted in the allocation of IPv4 network addresses and that used by the IPv6 protocol.  Note that for large allocations there are very significant variations in the target efficiency metric between the two approaches.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This memo provides an analysis of the Host Density metric as it is currently used to guide registry allocations of IPv6 unicast address blocks.  This document contrasts the address efficiency as currently adopted in the allocation of IPv4 network addresses and that used by the IPv6 protocol.  Note that for large allocations there are very significant variations in the target efficiency metric between the two approaches.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4692"/>
+  <seriesInfo name="RFC" value="4692"/>
 </reference>

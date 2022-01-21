@@ -1,11 +1,18 @@
 <reference anchor="RFC7332" target="https://www.rfc-editor.org/info/rfc7332">
   <front>
     <title>Loop Detection Mechanisms for Session Initiation Protocol (SIP) Back-to-Back User Agents (B2BUAs)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7332"/>
-    <author fullname="H. Kaplan"/>
-    <author fullname="V. Pascual"/>
+    <author fullname="H. Kaplan" initials="H." surname="Kaplan">
+      <organization/>
+    </author>
+    <author fullname="V. Pascual" initials="V." surname="Pascual">
+      <organization/>
+    </author>
     <date year="2014" month="August"/>
     <workgroup>straw</workgroup>
-    <abstract>SIP Back-to-Back User Agents (B2BUAs) can cause unending SIP request routing loops because, as User Agent Clients, they can generate SIP requests with new Max-Forwards values.  This document discusses the difficulties associated with loop detection for B2BUAs and the requirements for them to prevent infinite loops.</abstract>
+    <abstract>
+      <t>SIP Back-to-Back User Agents (B2BUAs) can cause unending SIP request routing loops because, as User Agent Clients, they can generate SIP requests with new Max-Forwards values.  This document discusses the difficulties associated with loop detection for B2BUAs and the requirements for them to prevent infinite loops.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7332"/>
+  <seriesInfo name="RFC" value="7332"/>
 </reference>

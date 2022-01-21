@@ -1,14 +1,21 @@
 <reference anchor="RFC5933" target="https://www.rfc-editor.org/info/rfc5933">
   <front>
     <title>Use of GOST Signature Algorithms in DNSKEY and RRSIG Resource Records for DNSSEC</title>
-    <seriesInfo name="DOI" value="10.17487/RFC5933"/>
-    <author fullname="V. Dolmatov"/>
-    <author fullname="A. Chuprina"/>
-    <author fullname="I. Ustinov"/>
+    <author fullname="V. Dolmatov" initials="V." surname="Dolmatov">
+      <organization/>
+    </author>
+    <author fullname="A. Chuprina" initials="A." surname="Chuprina">
+      <organization/>
+    </author>
+    <author fullname="I. Ustinov" initials="I." surname="Ustinov">
+      <organization/>
+    </author>
     <date year="2010" month="July"/>
     <workgroup>dnsext</workgroup>
-    <keyword>domain name system security extensions</keyword>
-    <keyword>ECC</keyword>
-    <abstract>This document describes how to produce digital signatures and hash functions using the GOST R 34.10-2001 and GOST R 34.11-94 algorithms for DNSKEY, RRSIG, and DS resource records, for use in the Domain Name System Security Extensions (DNSSEC). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes how to produce digital signatures and hash functions using the GOST R 34.10-2001 and GOST R 34.11-94 algorithms for DNSKEY, RRSIG, and DS resource records, for use in the Domain Name System Security Extensions (DNSSEC). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC5933"/>
+  <seriesInfo name="RFC" value="5933"/>
 </reference>

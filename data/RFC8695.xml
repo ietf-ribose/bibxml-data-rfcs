@@ -1,19 +1,22 @@
 <reference anchor="RFC8695" target="https://www.rfc-editor.org/info/rfc8695">
   <front>
     <title>A YANG Data Model for the Routing Information Protocol (RIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC8695"/>
-    <author fullname="X. Liu"/>
-    <author fullname="P. Sarda"/>
-    <author fullname="V. Choudhary"/>
+    <author fullname="X. Liu" initials="X." surname="Liu">
+      <organization/>
+    </author>
+    <author fullname="P. Sarda" initials="P." surname="Sarda">
+      <organization/>
+    </author>
+    <author fullname="V. Choudhary" initials="V." surname="Choudhary">
+      <organization/>
+    </author>
     <date year="2020" month="February"/>
     <workgroup>rtgwg</workgroup>
-    <keyword>YANG</keyword>
-    <keyword>RIP</keyword>
-    <keyword>RIPng</keyword>
-    <keyword>data model</keyword>
-    <keyword>ietf-rip</keyword>
-    <keyword>network management</keyword>
-    <keyword>routing</keyword>
-    <abstract>This document describes a data model for the management of the Routing Information Protocol (RIP). Both RIP version 2 and RIPng are covered. The data model includes definitions for configuration, operational state, and Remote Procedure Calls (RPCs). The YANG data model in this document conforms to the Network Management Datastore Architecture (NMDA).</abstract>
+    <abstract>
+      <t>This document describes a data model for the management of the Routing Information Protocol (RIP). Both RIP version 2 and RIPng are covered. The data model includes definitions for configuration, operational state, and Remote Procedure Calls (RPCs).</t>
+      <t>The YANG data model in this document conforms to the Network Management Datastore Architecture (NMDA).</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8695"/>
+  <seriesInfo name="RFC" value="8695"/>
 </reference>

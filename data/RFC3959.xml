@@ -1,10 +1,15 @@
 <reference anchor="RFC3959" target="https://www.rfc-editor.org/info/rfc3959">
   <front>
     <title>The Early Session Disposition Type for the Session Initiation Protocol (SIP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3959"/>
-    <author fullname="G. Camarillo"/>
+    <author fullname="G. Camarillo" initials="G." surname="Camarillo">
+      <organization/>
+    </author>
     <date year="2004" month="December"/>
     <workgroup>sipping</workgroup>
-    <abstract>This document defines a new disposition type (early-session) for the Content-Disposition header field in the Session Initiation Protocol (SIP).  The treatment of "early-session" bodies is similar to the treatment of "session" bodies.  That is, they follow the offer/answer model.  Their only difference is that session descriptions whose disposition type is "early-session" are used to establish early media sessions within early dialogs, as opposed to regular sessions within regular dialogs. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document defines a new disposition type (early-session) for the Content-Disposition header field in the Session Initiation Protocol (SIP).  The treatment of "early-session" bodies is similar to the treatment of "session" bodies.  That is, they follow the offer/answer model.  Their only difference is that session descriptions whose disposition type is "early-session" are used to establish early media sessions within early dialogs, as opposed to regular sessions within regular dialogs. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3959"/>
+  <seriesInfo name="RFC" value="3959"/>
 </reference>

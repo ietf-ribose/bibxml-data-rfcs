@@ -1,15 +1,21 @@
 <reference anchor="RFC4002" target="https://www.rfc-editor.org/info/rfc4002">
   <front>
     <title>IANA Registration for Enumservice 'web' and 'ft'</title>
-    <seriesInfo name="DOI" value="10.17487/RFC4002"/>
-    <author fullname="R. Brandner"/>
-    <author fullname="L. Conroy"/>
-    <author fullname="R. Stastny"/>
+    <author fullname="R. Brandner" initials="R." surname="Brandner">
+      <organization/>
+    </author>
+    <author fullname="L. Conroy" initials="L." surname="Conroy">
+      <organization/>
+    </author>
+    <author fullname="R. Stastny" initials="R." surname="Stastny">
+      <organization/>
+    </author>
     <date year="2005" month="February"/>
     <workgroup>enum</workgroup>
-    <keyword>URI schemes</keyword>
-    <keyword>uniform resource identifier</keyword>
-    <keyword>enum</keyword>
-    <abstract>This document registers the Enumservices 'web' and 'ft' by using the URI schemes 'http:', 'https:' and 'ftp:' as per the IANA registration process defined in the ENUM specification (RFC 3761). [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document registers the Enumservices 'web' and 'ft' by using the URI schemes 'http:', 'https:' and 'ftp:' as per the IANA registration process defined in the ENUM specification (RFC 3761). [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC4002"/>
+  <seriesInfo name="RFC" value="4002"/>
 </reference>

@@ -1,19 +1,18 @@
 <reference anchor="RFC2085" target="https://www.rfc-editor.org/info/rfc2085">
   <front>
     <title>HMAC-MD5 IP Authentication with Replay Prevention</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2085"/>
-    <author fullname="M. Oehler"/>
-    <author fullname="R. Glenn"/>
+    <author fullname="M. Oehler" initials="M." surname="Oehler">
+      <organization/>
+    </author>
+    <author fullname="R. Glenn" initials="R." surname="Glenn">
+      <organization/>
+    </author>
     <date year="1997" month="February"/>
     <workgroup>ipsec</workgroup>
-    <keyword>HMAC-MD5</keyword>
-    <keyword>ipsec</keyword>
-    <keyword>Message</keyword>
-    <keyword>Digest</keyword>
-    <keyword>Security</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <keyword>Encryption</keyword>
-    <abstract>This document describes a keyed-MD5 transform to be used in conjunction with the IP Authentication Header [RFC-1826].  The particular transform is based on [HMAC-MD5].  An option is also specified to guard against replay attacks. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This document describes a keyed-MD5 transform to be used in conjunction with the IP Authentication Header [RFC-1826].  The particular transform is based on [HMAC-MD5].  An option is also specified to guard against replay attacks. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2085"/>
+  <seriesInfo name="RFC" value="2085"/>
 </reference>

@@ -1,15 +1,21 @@
 <reference anchor="RFC7922" target="https://www.rfc-editor.org/info/rfc7922">
   <front>
     <title>Interface to the Routing System (I2RS) Traceability: Framework and Information Model</title>
-    <seriesInfo name="DOI" value="10.17487/RFC7922"/>
-    <author fullname="J. Clarke"/>
-    <author fullname="G. Salgueiro"/>
-    <author fullname="C. Pignataro"/>
+    <author fullname="J. Clarke" initials="J." surname="Clarke">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
     <date year="2016" month="June"/>
     <workgroup>i2rs</workgroup>
-    <keyword>I2RS</keyword>
-    <keyword>I2RS Traceability</keyword>
-    <keyword>I2RS Traceability</keyword>
-    <abstract>This document describes a framework for traceability in the Interface to the Routing System (I2RS) and the information model for that framework.  It specifies the motivation, requirements, and use cases, and defines an information model for recording interactions between elements implementing the I2RS protocol.  This framework provides a consistent tracing interface for components implementing the I2RS architecture to record what was done, by which component, and when.  It aims to improve the management of I2RS implementations, and can be used for troubleshooting, auditing, forensics, and accounting purposes.</abstract>
+    <abstract>
+      <t>This document describes a framework for traceability in the Interface to the Routing System (I2RS) and the information model for that framework.  It specifies the motivation, requirements, and use cases, and defines an information model for recording interactions between elements implementing the I2RS protocol.  This framework provides a consistent tracing interface for components implementing the I2RS architecture to record what was done, by which component, and when.  It aims to improve the management of I2RS implementations, and can be used for troubleshooting, auditing, forensics, and accounting purposes.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC7922"/>
+  <seriesInfo name="RFC" value="7922"/>
 </reference>

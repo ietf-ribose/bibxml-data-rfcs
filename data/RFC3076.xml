@@ -1,13 +1,15 @@
 <reference anchor="RFC3076" target="https://www.rfc-editor.org/info/rfc3076">
   <front>
     <title>Canonical XML Version 1.0</title>
-    <seriesInfo name="DOI" value="10.17487/RFC3076"/>
-    <author fullname="J. Boyer"/>
+    <author fullname="J. Boyer" initials="J." surname="Boyer">
+      <organization/>
+    </author>
     <date year="2001" month="March"/>
     <workgroup>xmldsig</workgroup>
-    <keyword>extensible</keyword>
-    <keyword>markup</keyword>
-    <keyword>language</keyword>
-    <abstract>This specification describes a method for generating a physical representation, the canonical form, of an XML document that accounts for the permissible changes.  This memo provides information for the Internet community.</abstract>
+    <abstract>
+      <t>This specification describes a method for generating a physical representation, the canonical form, of an XML document that accounts for the permissible changes.  This memo provides information for the Internet community.</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC3076"/>
+  <seriesInfo name="RFC" value="3076"/>
 </reference>

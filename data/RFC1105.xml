@@ -1,11 +1,17 @@
 <reference anchor="RFC1105" target="https://www.rfc-editor.org/info/rfc1105">
   <front>
     <title>Border Gateway Protocol (BGP)</title>
-    <seriesInfo name="DOI" value="10.17487/RFC1105"/>
-    <author fullname="K. Lougheed"/>
-    <author fullname="Y. Rekhter"/>
+    <author fullname="K. Lougheed" initials="K." surname="Lougheed">
+      <organization/>
+    </author>
+    <author fullname="Y. Rekhter" initials="Y." surname="Rekhter">
+      <organization/>
+    </author>
     <date year="1989" month="June"/>
-    <keyword>BGP</keyword>
-    <abstract>This RFC outlines a specific approach for the exchange of network reachability information between Autonomous Systems.  Updated by RFCs 1163 and 1164. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This RFC outlines a specific approach for the exchange of network reachability information between Autonomous Systems.  Updated by RFCs 1163 and 1164. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC1105"/>
+  <seriesInfo name="RFC" value="1105"/>
 </reference>

@@ -1,16 +1,14 @@
 <reference anchor="RFC2067" target="https://www.rfc-editor.org/info/rfc2067">
   <front>
     <title>IP over HIPPI</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2067"/>
-    <author fullname="J. Renwick"/>
+    <author fullname="J. Renwick" initials="J." surname="Renwick">
+      <organization/>
+    </author>
     <date year="1997" month="January"/>
-    <keyword>IP-HIPPI</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>High-Performance</keyword>
-    <keyword>Parallel</keyword>
-    <keyword>Interface</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Protocol</keyword>
-    <abstract>ANSI Standard X3.218-1993 (HIPPI-LE[3]) defines the encapsulation of IEEE 802.2 LLC PDUs and, by implication, IP on HIPPI.  This memo is a revision of RFC 1374, "IP and ARP on HIPPI", and is intended to replace it in the Standards Track. [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>ANSI Standard X3.218-1993 (HIPPI-LE[3]) defines the encapsulation of IEEE 802.2 LLC PDUs and, by implication, IP on HIPPI.  This memo is a revision of RFC 1374, "IP and ARP on HIPPI", and is intended to replace it in the Standards Track. [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2067"/>
+  <seriesInfo name="RFC" value="2067"/>
 </reference>

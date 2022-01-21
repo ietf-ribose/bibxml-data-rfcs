@@ -1,18 +1,18 @@
 <reference anchor="RFC2249" target="https://www.rfc-editor.org/info/rfc2249">
   <front>
     <title>Mail Monitoring MIB</title>
-    <seriesInfo name="DOI" value="10.17487/RFC2249"/>
-    <author fullname="N. Freed"/>
-    <author fullname="S. Kille"/>
+    <author fullname="N. Freed" initials="N." surname="Freed">
+      <organization/>
+    </author>
+    <author fullname="S. Kille" initials="S." surname="Kille">
+      <organization/>
+    </author>
     <date year="1998" month="January"/>
     <workgroup>madman</workgroup>
-    <keyword>MAIL-MIB</keyword>
-    <keyword>Management</keyword>
-    <keyword>Information</keyword>
-    <keyword>Base</keyword>
-    <keyword>Message</keyword>
-    <keyword>Transfer</keyword>
-    <keyword>Agents</keyword>
-    <abstract>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  Specifically, this memo extends the basic Network Services Monitoring MIB [STANDARDS-TRACK]</abstract>
+    <abstract>
+      <t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  Specifically, this memo extends the basic Network Services Monitoring MIB [STANDARDS-TRACK]</t>
+    </abstract>
   </front>
+  <seriesInfo name="DOI" value="10.17487/RFC2249"/>
+  <seriesInfo name="RFC" value="2249"/>
 </reference>
