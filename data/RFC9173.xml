@@ -1,0 +1,24 @@
+<reference anchor="RFC9173" target="https://www.rfc-editor.org/info/rfc9173">
+  <front>
+    <title>Default Security Contexts for Bundle Protocol Security (BPSec)</title>
+    <author fullname="E. Birrane" initials="E" surname="Birrane">
+      <organization/>
+    </author>
+    <author fullname="III" surname="III">
+      <organization/>
+    </author>
+    <author fullname="A. White" initials="A" surname="White">
+      <organization/>
+    </author>
+    <author fullname="S. Heiner" initials="S" surname="Heiner">
+      <organization/>
+    </author>
+    <date year="2022" month="January"/>
+    <workgroup>dtn</workgroup>
+    <abstract>
+      <t>This document defines default integrity and confidentiality security contexts that can be used with Bundle Protocol Security (BPSec) implementations.  These security contexts are intended to be used both for testing the interoperability of BPSec implementations and for providing basic security operations when no other security contexts are defined or otherwise required for a network.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9173"/>
+  <seriesInfo name="RFC" value="9173"/>
+</reference>
