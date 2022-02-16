@@ -1,0 +1,28 @@
+<reference anchor="RFC9069" target="https://www.rfc-editor.org/info/rfc9069">
+  <front>
+    <title>Support for Local RIB in the BGP Monitoring Protocol (BMP)</title>
+    <author fullname="T. Evens" initials="T" surname="Evens">
+      <organization/>
+    </author>
+    <author fullname="S. Bayraktar" initials="S" surname="Bayraktar">
+      <organization/>
+    </author>
+    <author fullname="M. Bhardwaj" initials="M" surname="Bhardwaj">
+      <organization/>
+    </author>
+    <author fullname="P. Lucente" initials="P" surname="Lucente">
+      <organization/>
+    </author>
+    <date year="2022" month="February"/>
+    <workgroup>grow</workgroup>
+    <abstract>
+      <t>The BGP Monitoring Protocol (BMP) defines access to local Routing
+Information Bases (RIBs).  This document updates BMP (RFC 7854) by
+adding access to the Local Routing Information Base (Loc-RIB), as
+defined in RFC 4271.  The Loc-RIB contains the routes that have been
+selected by the local BGP speaker's Decision Process.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9069"/>
+  <seriesInfo name="RFC" value="9069"/>
+</reference>
