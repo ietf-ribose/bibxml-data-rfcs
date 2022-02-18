@@ -8,7 +8,6 @@
       <organization/>
     </author>
     <date year="2006" month="April"/>
-    <workgroup>NON WORKING GROUP</workgroup>
     <abstract>
       <t>This memo splits message submission from message relay, allowing each service to operate according to its own rules (for security, policy, etc.), and specifies what actions are to be taken by a submission server.</t>
       <t>Message relay and final delivery are unaffected, and continue to use SMTP over port 25.</t>

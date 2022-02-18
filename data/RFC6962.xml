@@ -11,7 +11,6 @@
       <organization/>
     </author>
     <date year="2013" month="June"/>
-    <workgroup>NON WORKING GROUP</workgroup>
     <abstract>
       <t>This document describes an experimental protocol for publicly logging the existence of Transport Layer Security (TLS) certificates as they are issued or observed, in a manner that allows anyone to audit certificate authority (CA) activity and notice the issuance of suspect certificates as well as to audit the certificate logs themselves. The intent is that eventually clients would refuse to honor certificates that do not appear in a log, effectively forcing CAs to add all issued certificates to the logs.</t>
       <t>Logs are network services that implement the protocol operations for submissions and queries that are defined in this document.</t>

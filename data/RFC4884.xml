@@ -14,7 +14,6 @@
       <organization/>
     </author>
     <date year="2007" month="April"/>
-    <workgroup>NON WORKING GROUP</workgroup>
     <abstract>
       <t>This document redefines selected ICMP messages to support multi-part operation. A multi-part ICMP message carries all of the information that ICMP messages carried previously, as well as additional information that applications may require.</t>
       <t>Multi-part messages are supported by an ICMP extension structure. The extension structure is situated at the end of the ICMP message. It includes an extension header followed by one or more extension objects. Each extension object contains an object header and object payload. All object headers share a common format.</t>

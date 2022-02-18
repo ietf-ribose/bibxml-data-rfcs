@@ -5,7 +5,6 @@
       <organization/>
     </author>
     <date year="2018" month="March"/>
-    <workgroup>NON WORKING GROUP</workgroup>
     <abstract>
       <t>RFC 5485 specifies the conventions for digital signatures on Internet-Drafts. The Cryptographic Message Syntax (CMS) is used to create a detached signature, which is stored in a separate companion file so that no existing utilities are impacted by the addition of the digital signature.</t>
       <t>The RFC Editor recently published the first RFC that includes non- ASCII characters in a text file. The conventions specified in RFC 7997 were followed. We assume that non-ASCII characters will soon start appearing in Internet-Drafts as well. This document updates the handling of digital signatures on Internet-Drafts that contain non-ASCII characters in a text file.</t>

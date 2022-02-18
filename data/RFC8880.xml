@@ -8,7 +8,6 @@
       <organization/>
     </author>
     <date year="2020" month="August"/>
-    <workgroup>NON WORKING GROUP</workgroup>
     <abstract>
       <t>NAT64 (Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers) allows client devices using IPv6 to communicate with servers that have only IPv4 connectivity.</t>
       <t>The specification for how a client discovers its local network's NAT64 prefix (RFC 7050) defines the special name 'ipv4only.arpa' for this purpose. However, in its Domain Name Reservation Considerations section (Section 8.1), that specification (RFC 7050) indicates that the name actually has no particularly special properties that would require special handling.</t>
