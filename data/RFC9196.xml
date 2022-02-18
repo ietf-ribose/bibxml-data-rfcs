@@ -1,0 +1,23 @@
+<reference anchor="RFC9196" target="https://www.rfc-editor.org/info/rfc9196">
+  <front>
+    <title>YANG Modules Describing Capabilities for Systems and Datastore Update Notifications</title>
+    <author fullname="B. Lengyel" initials="B" surname="Lengyel">
+      <organization/>
+    </author>
+    <author fullname="A. Clemm" initials="A" surname="Clemm">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B" surname="Claise">
+      <organization/>
+    </author>
+    <date year="2022" month="February"/>
+    <workgroup>netconf</workgroup>
+    <abstract>
+      <t>This document defines two YANG modules, "ietf-system-capabilities" and "ietf-notification-capabilities".</t>
+      <t>The module "ietf-system-capabilities" provides a placeholder structure that can be used to discover YANG-related system capabilities for servers. The module can be used to report capability information from the server at runtime or at implementation time by making use of the YANG instance data file format.</t>
+      <t>The module "ietf-notification-capabilities" augments "ietf-system-capabilities" to specify capabilities related to "Subscription to YANG Notifications for Datastore Updates" (RFC 8641).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9196"/>
+  <seriesInfo name="RFC" value="9196"/>
+</reference>
