@@ -1,0 +1,25 @@
+<reference anchor="RFC9199" target="https://www.rfc-editor.org/info/rfc9199">
+  <front>
+    <title>Considerations for Large Authoritative DNS Server Operators</title>
+    <author fullname="G. Moura" initials="G" surname="Moura">
+      <organization/>
+    </author>
+    <author fullname="W. Hardaker" initials="W" surname="Hardaker">
+      <organization/>
+    </author>
+    <author fullname="J. Heidemann" initials="J" surname="Heidemann">
+      <organization/>
+    </author>
+    <author fullname="M. Davids" initials="M" surname="Davids">
+      <organization/>
+    </author>
+    <date year="2022" month="March"/>
+    <abstract>
+      <t>Recent research work has explored the deployment characteristics and configuration of the Domain Name System (DNS). This document summarizes the conclusions from these research efforts and offers specific, tangible considerations or advice to authoritative DNS server operators. Authoritative server operators may wish to follow these considerations to improve their DNS services.</t>
+      <t>It is possible that the results presented in this document could be applicable in a wider context than just the DNS protocol, as some of the results may generically apply to any stateless/short-duration anycasted service.</t>
+      <t>This document is not an IETF consensus document: it is published for informational purposes.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9199"/>
+  <seriesInfo name="RFC" value="9199"/>
+</reference>
