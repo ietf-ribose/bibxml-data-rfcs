@@ -1,0 +1,18 @@
+<reference anchor="RFC9207" target="https://www.rfc-editor.org/info/rfc9207">
+  <front>
+    <title>OAuth 2.0 Authorization Server Issuer Identification</title>
+    <author fullname="K. Meyer zu Selhausen" initials="K" surname="Meyer zu Selhausen">
+      <organization/>
+    </author>
+    <author fullname="D. Fett" initials="D" surname="Fett">
+      <organization/>
+    </author>
+    <date year="2022" month="March"/>
+    <workgroup>oauth</workgroup>
+    <abstract>
+      <t>This document specifies a new parameter called iss.  This parameter is used to explicitly include the issuer identifier of the authorization server in the authorization response of an OAuth authorization flow.  The iss parameter serves as an effective countermeasure to "mix-up attacks".</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9207"/>
+  <seriesInfo name="RFC" value="9207"/>
+</reference>
