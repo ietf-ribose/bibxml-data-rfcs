@@ -1,0 +1,21 @@
+<reference anchor="RFC9204" target="https://www.rfc-editor.org/info/rfc9204">
+  <front>
+    <title>QPACK: Field Compression for HTTP/3</title>
+    <author fullname="C. Krasic" initials="C" surname="Krasic">
+      <organization/>
+    </author>
+    <author fullname="M. Bishop" initials="M" surname="Bishop">
+      <organization/>
+    </author>
+    <author fullname="A. Frindell" initials="A" surname="Frindell">
+      <organization/>
+    </author>
+    <date year="2022" month="June"/>
+    <workgroup>quic</workgroup>
+    <abstract>
+      <t>This specification defines QPACK: a compression format for efficiently representing HTTP fields that is to be used in HTTP/3.  This is a variation of HPACK compression that seeks to reduce head-of-line blocking.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9204"/>
+  <seriesInfo name="RFC" value="9204"/>
+</reference>
