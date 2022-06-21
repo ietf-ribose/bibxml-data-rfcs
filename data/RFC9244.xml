@@ -1,0 +1,28 @@
+<reference anchor="RFC9244" target="https://www.rfc-editor.org/info/rfc9244">
+  <front>
+    <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Telemetry</title>
+    <author fullname="M. Boucadair" initials="M" surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T" surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="E. Doron" initials="E" surname="Doron">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M" surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="J. Shallow" initials="J" surname="Shallow">
+      <organization/>
+    </author>
+    <date year="2022" month="June"/>
+    <workgroup>dots</workgroup>
+    <abstract>
+      <t>This document aims to enrich the Distributed Denial-of-Service Open Threat Signaling (DOTS) signal channel protocol with various telemetry attributes, allowing for optimal Distributed Denial-of-Service (DDoS) attack mitigation. It specifies the normal traffic baseline and attack traffic telemetry attributes a DOTS client can convey to its DOTS server in the mitigation request, the mitigation status telemetry attributes a DOTS server can communicate to a DOTS client, and the mitigation efficacy telemetry attributes a DOTS client can communicate to a DOTS server. The telemetry attributes can assist the mitigator in choosing the DDoS mitigation techniques and performing optimal DDoS attack mitigation.</t>
+      <t>This document specifies two YANG modules: one for representing DOTS telemetry message types and one for sharing the attack mapping details over the DOTS data channel.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9244"/>
+  <seriesInfo name="RFC" value="9244"/>
+</reference>
