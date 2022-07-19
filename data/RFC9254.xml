@@ -1,0 +1,28 @@
+<reference anchor="RFC9254" target="https://www.rfc-editor.org/info/rfc9254">
+  <front>
+    <title>Encoding of Data Modeled with YANG in the Concise Binary Object Representation (CBOR)</title>
+    <author fullname="M. Veillette" initials="M" surname="Veillette">
+      <organization/>
+    </author>
+    <author fullname="I. Petrov" initials="I" surname="Petrov">
+      <organization/>
+    </author>
+    <author fullname="A. Pelov" initials="A" surname="Pelov">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C" surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="M. Richardson" initials="M" surname="Richardson">
+      <organization/>
+    </author>
+    <date year="2022" month="July"/>
+    <workgroup>core</workgroup>
+    <abstract>
+      <t>YANG (RFC 7950) is a data modeling language used to model configuration data, state data, parameters and results of Remote Procedure Call (RPC) operations or actions, and notifications.</t>
+      <t>This document defines encoding rules for YANG in the Concise Binary Object Representation (CBOR) (RFC 8949).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9254"/>
+  <seriesInfo name="RFC" value="9254"/>
+</reference>
