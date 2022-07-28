@@ -1,0 +1,23 @@
+<reference anchor="RFC9267" target="https://www.rfc-editor.org/info/rfc9267">
+  <front>
+    <title>Common Implementation Anti-Patterns Related to Domain Name System (DNS) Resource Record (RR) Processing</title>
+    <author fullname="S. Dashevskyi" initials="S" surname="Dashevskyi">
+      <organization/>
+    </author>
+    <author fullname="D. dos Santos" initials="D" surname="dos Santos">
+      <organization/>
+    </author>
+    <author fullname="J. Wetzels" initials="J" surname="Wetzels">
+      <organization/>
+    </author>
+    <author fullname="A. Amri" initials="A" surname="Amri">
+      <organization/>
+    </author>
+    <date year="2022" month="July"/>
+    <abstract>
+      <t>This memo describes common vulnerabilities related to Domain Name System (DNS) resource record (RR) processing as seen in several DNS client implementations.  These vulnerabilities may lead to successful Denial-of-Service and Remote Code Execution attacks against the affected software.  Where applicable, violations of RFC 1035 are mentioned.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9267"/>
+  <seriesInfo name="RFC" value="9267"/>
+</reference>
