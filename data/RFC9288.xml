@@ -1,0 +1,18 @@
+<reference anchor="RFC.9288" target="https://www.rfc-editor.org/info/rfc9288">
+  <front>
+    <title>Recommendations on the Filtering of IPv6 Packets Containing IPv6 Extension Headers at Transit Routers</title>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="W. Liu" initials="W." surname="Liu">
+      <organization/>
+    </author>
+    <date year="2022" month="August"/>
+    <workgroup>opsec</workgroup>
+    <abstract>
+      <t>This document analyzes the security implications of IPv6 Extension Headers and associated IPv6 options.  Additionally, it discusses the operational and interoperability implications of discarding packets based on the IPv6 Extension Headers and IPv6 options they contain.  Finally, it provides advice on the filtering of such IPv6 packets at transit routers for traffic not directed to them, for those cases where such filtering is deemed as necessary.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9288"/>
+  <seriesInfo name="RFC" value="9288"/>
+</reference>
