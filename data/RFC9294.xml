@@ -1,0 +1,21 @@
+<reference anchor="RFC.9294" target="https://www.rfc-editor.org/info/rfc9294">
+  <front>
+    <title>Application-Specific Link Attributes Advertisement Using the Border Gateway Protocol - Link State (BGP-LS)</title>
+    <author role="editor" fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <date year="2022" month="August"/>
+    <workgroup>idr</workgroup>
+    <abstract>
+      <t>Extensions have been defined for link-state routing protocols that enable distribution of application-specific link attributes for existing as well as newer applications such as Segment Routing (SR).  This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) to enable the advertisement of these application-specific attributes as a part of the topology information from the network.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9294"/>
+  <seriesInfo name="RFC" value="9294"/>
+</reference>
