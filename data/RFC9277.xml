@@ -1,0 +1,18 @@
+<reference anchor="RFC.9277" target="https://www.rfc-editor.org/info/rfc9277">
+  <front>
+    <title>On Stable Storage for Items in Concise Binary Object Representation (CBOR)</title>
+    <author fullname="M. Richardson" initials="M." surname="Richardson">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <date year="2022" month="August"/>
+    <workgroup>cbor</workgroup>
+    <abstract>
+      <t>This document defines a stored ("file") format for Concise Binary Object Representation (CBOR) data items that is friendly to common systems that recognize file types, such as the Unix file(1) command.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9277"/>
+  <seriesInfo name="RFC" value="9277"/>
+</reference>
