@@ -1,0 +1,27 @@
+<reference anchor="RFC.9202" target="https://www.rfc-editor.org/info/rfc9202">
+  <front>
+    <title>Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)</title>
+    <author fullname="S. Gerdes" initials="S." surname="Gerdes">
+      <organization/>
+    </author>
+    <author fullname="O. Bergmann" initials="O." surname="Bergmann">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="G. Selander" initials="G." surname="Selander">
+      <organization/>
+    </author>
+    <author fullname="L. Seitz" initials="L." surname="Seitz">
+      <organization/>
+    </author>
+    <date year="2022" month="August"/>
+    <workgroup>ace</workgroup>
+    <abstract>
+      <t>This specification defines a profile of the Authentication and Authorization for Constrained Environments (ACE) framework that allows constrained servers to delegate client authentication and authorization.  The protocol relies on DTLS version 1.2 or later for communication security between entities in a constrained network using either raw public keys or pre-shared keys.  A resource-constrained server can use this protocol to delegate management of authorization information to a trusted host with less-severe limitations regarding processing power and memory.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9202"/>
+  <seriesInfo name="RFC" value="9202"/>
+</reference>

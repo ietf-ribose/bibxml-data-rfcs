@@ -1,0 +1,24 @@
+<reference anchor="RFC.9203" target="https://www.rfc-editor.org/info/rfc9203">
+  <front>
+    <title>The Object Security for Constrained RESTful Environments (OSCORE) Profile of the Authentication and Authorization for Constrained Environments (ACE) Framework</title>
+    <author fullname="F. Palombini" initials="F." surname="Palombini">
+      <organization/>
+    </author>
+    <author fullname="L. Seitz" initials="L." surname="Seitz">
+      <organization/>
+    </author>
+    <author fullname="G. Selander" initials="G." surname="Selander">
+      <organization/>
+    </author>
+    <author fullname="M. Gunnarsson" initials="M." surname="Gunnarsson">
+      <organization/>
+    </author>
+    <date year="2022" month="August"/>
+    <workgroup>ace</workgroup>
+    <abstract>
+      <t>This document specifies a profile for the Authentication and Authorization for Constrained Environments (ACE) framework.  It utilizes Object Security for Constrained RESTful Environments (OSCORE) to provide communication security and proof-of-possession for a key owned by the client and bound to an OAuth 2.0 access token.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9203"/>
+  <seriesInfo name="RFC" value="9203"/>
+</reference>
