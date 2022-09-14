@@ -1,0 +1,24 @@
+<reference anchor="RFC.9295" target="https://www.rfc-editor.org/info/rfc9295">
+  <front>
+    <title>Clarifications for Ed25519, Ed448, X25519, and X448 Algorithm Identifiers</title>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="S. Josefsson" initials="S." surname="Josefsson">
+      <organization/>
+    </author>
+    <author fullname="D. McCarney" initials="D." surname="McCarney">
+      <organization/>
+    </author>
+    <author fullname="T. Ito" initials="T." surname="Ito">
+      <organization/>
+    </author>
+    <date year="2022" month="September"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document updates RFC 8410 to clarify existing semantics, and specify missing semantics, for key usage bits when used in certificates that support the Ed25519, Ed448, X25519, and X448 Elliptic Curve Cryptography algorithms.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9295"/>
+  <seriesInfo name="RFC" value="9295"/>
+</reference>

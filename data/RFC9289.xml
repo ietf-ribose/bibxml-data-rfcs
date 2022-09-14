@@ -1,0 +1,18 @@
+<reference anchor="RFC.9289" target="https://www.rfc-editor.org/info/rfc9289">
+  <front>
+    <title>Towards Remote Procedure Call Encryption by Default</title>
+    <author fullname="T. Myklebust" initials="T." surname="Myklebust">
+      <organization/>
+    </author>
+    <author role="editor" fullname="C. Lever" initials="C." surname="Lever">
+      <organization/>
+    </author>
+    <date year="2022" month="September"/>
+    <workgroup>nfsv4</workgroup>
+    <abstract>
+      <t>This document describes a mechanism that, through the use of opportunistic Transport Layer Security (TLS), enables encryption of Remote Procedure Call (RPC) transactions while they are in transit.  The proposed mechanism interoperates with Open Network Computing (ONC) RPC implementations that do not support it.  This document updates RFC 5531.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9289"/>
+  <seriesInfo name="RFC" value="9289"/>
+</reference>
