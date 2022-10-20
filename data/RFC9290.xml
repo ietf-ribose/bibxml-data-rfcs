@@ -1,0 +1,18 @@
+<reference anchor="RFC.9290" target="https://www.rfc-editor.org/info/rfc9290">
+  <front>
+    <title>Concise Problem Details for Constrained Application Protocol (CoAP) APIs</title>
+    <author fullname="T. Fossati" initials="T." surname="Fossati">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <date year="2022" month="October"/>
+    <workgroup>core</workgroup>
+    <abstract>
+      <t>This document defines a concise "problem detail" as a way to carry machine-readable details of errors in a Representational State Transfer (REST) response to avoid the need to define new error response formats for REST APIs for constrained environments.  The format is inspired by, but intended to be more concise than, the problem details for HTTP APIs defined in RFC 7807.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9290"/>
+  <seriesInfo name="RFC" value="9290"/>
+</reference>
