@@ -1,0 +1,29 @@
+<reference anchor="RFC.9300" target="https://www.rfc-editor.org/info/rfc9300">
+  <front>
+    <title>The Locator/ID Separation Protocol (LISP)</title>
+    <author fullname="D. Farinacci" initials="D." surname="Farinacci">
+      <organization/>
+    </author>
+    <author fullname="V. Fuller" initials="V." surname="Fuller">
+      <organization/>
+    </author>
+    <author fullname="D. Meyer" initials="D." surname="Meyer">
+      <organization/>
+    </author>
+    <author fullname="D. Lewis" initials="D." surname="Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="A. Cabellos" initials="A." surname="Cabellos">
+      <organization/>
+    </author>
+    <date year="2022" month="October"/>
+    <workgroup>lisp</workgroup>
+    <abstract>
+      <t>This document describes the data plane protocol for the Locator/ID Separation Protocol (LISP). LISP defines two namespaces: Endpoint Identifiers (EIDs), which identify end hosts; and Routing Locators (RLOCs), which identify network attachment points. With this, LISP effectively separates control from data and allows routers to create overlay networks. LISP-capable routers exchange encapsulated packets according to EID-to-RLOC mappings stored in a local Map-Cache.</t>
+      <t>LISP requires no change to either host protocol stacks or underlay routers and offers Traffic Engineering (TE), multihoming, and mobility, among other features.</t>
+      <t>This document obsoletes RFC 6830.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9300"/>
+  <seriesInfo name="RFC" value="9300"/>
+</reference>
