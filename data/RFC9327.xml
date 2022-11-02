@@ -1,0 +1,16 @@
+<reference anchor="RFC.9327" target="https://www.rfc-editor.org/info/rfc9327">
+  <front>
+    <title>Control Messages Protocol for Use with Network Time Protocol Version 4</title>
+    <author role="editor" fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
+    <date year="2022" month="November"/>
+    <workgroup>ntp</workgroup>
+    <abstract>
+      <t>This document describes the structure of the control messages that were historically used with the Network Time Protocol (NTP) before the advent of more modern control and management approaches. These control messages have been used to monitor and control the NTP application running on any IP network attached computer. The information in this document was originally described in Appendix B of RFC 1305. The goal of this document is to provide an updated description of the control messages described in RFC 1305 in order to conform with the updated NTP specification documented in RFC 5905.</t>
+      <t>The publication of this document is not meant to encourage the development and deployment of these control messages. This document is only providing a current reference for these control messages given the current status of RFC 1305.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9327"/>
+  <seriesInfo name="RFC" value="9327"/>
+</reference>
