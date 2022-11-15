@@ -7,6 +7,12 @@
     <author fullname="R. McMurray" initials="R." surname="McMurray">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2014" month="March"/>
     <abstract>
       <t>The File Transfer Protocol, as defined in RFC 959, does not provide a way for FTP clients and servers to differentiate between multiple DNS names that are registered for a single IP address.  This document defines a new FTP command that provides a mechanism for FTP clients and servers to identify individual virtual hosts on an FTP server.</t>

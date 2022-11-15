@@ -10,6 +10,12 @@
     <author fullname="A. Rahman" initials="A." surname="Rahman">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2019" month="November"/>
     <abstract>
       <t>Adoption of cloud and fog technology allows operators to deploy a single "Service Function" (SF) to multiple "execution locations". The decision to steer traffic to a specific location may change frequently based on load, proximity, etc. Under the current Service Function Chaining (SFC) framework, steering traffic dynamically to the different execution endpoints requires a specific "rechaining", i.e., a change in the service function path reflecting the different IP endpoints to be used for the new execution points. This procedure may be complex and take time. In order to simplify rechaining and reduce the time to complete the procedure, we discuss separating the logical Service Function Path (SFP) from the specific execution endpoints. This can be done by identifying the SFs using a name rather than a routable IP endpoint (or Layer 2 address). This document describes the necessary extensions, additional functions, and protocol details in the Service Function Forwarder (SFF) to handle name-based relationships.</t>

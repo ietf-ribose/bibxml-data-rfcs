@@ -4,6 +4,12 @@
     <author fullname="D. Ovsienko" initials="D." surname="Ovsienko">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2014" month="July"/>
     <abstract>
       <t>This document describes a cryptographic authentication mechanism for the Babel routing protocol.  This document updates RFC 6126.  The mechanism allocates two new TLV types for the authentication data, uses Hashed Message Authentication Code (HMAC), and is both optional and backward compatible.</t>

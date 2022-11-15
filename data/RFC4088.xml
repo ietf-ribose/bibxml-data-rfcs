@@ -10,6 +10,12 @@
     <author fullname="J. Schoenwaelder" initials="J." surname="Schoenwaelder">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2005" month="June"/>
     <abstract>
       <t>The Simple Network Management Protocol (SNMP) and the Internet Standard Management Framework are widely used for the management of communication devices, creating a need to specify SNMP access (including access to SNMP MIB object instances) from non-SNMP management environments. For example, when out-of-band IP management is used via a separate management interface (e.g., for a device that does not support in-band IP access), a uniform way to indicate how to contact the device for management is needed. Uniform Resource Identifiers (URIs) fit this need well, as they allow a single text string to indicate a management access communication endpoint for a wide variety of IP-based protocols.</t>

@@ -7,6 +7,12 @@
     <author fullname="M. Krochmal" initials="M." surname="Krochmal">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2020" month="June"/>
     <abstract>
       <t>Apple's DNS Long-Lived Queries (LLQ) is a mechanism for extending the DNS protocol to support change notification, thus allowing clients to learn about changes to DNS data without polling the server. From 2005 onwards, LLQ was implemented in Apple products including Mac OS X, Bonjour for Windows, and AirPort wireless base stations. In 2020, the LLQ protocol was superseded by the IETF Standards Track RFC 8765, "DNS Push Notifications", which builds on experience gained with the LLQ protocol to create a superior replacement.</t>

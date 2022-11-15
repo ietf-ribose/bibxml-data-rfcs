@@ -16,6 +16,12 @@
     <author fullname="D. Ooms" initials="D." surname="Ooms">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2007" month="November"/>
     <abstract>
       <t>While traditional IP multicast schemes (RFC 1112) are scalable for very large multicast groups, they have scalability issues with a very large number of distinct multicast groups. This document describes Xcast (Explicit Multi-unicast), a new multicast scheme with complementary scaling properties: Xcast supports a very large number of small multicast sessions. Xcast achieves this by explicitly encoding the list of destinations in the data packets, instead of using a multicast group address.</t>

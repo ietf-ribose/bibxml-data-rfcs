@@ -4,6 +4,12 @@
     <author fullname="R. Housley" initials="R." surname="Housley">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2018" month="March"/>
     <abstract>
       <t>RFC 5485 specifies the conventions for digital signatures on Internet-Drafts. The Cryptographic Message Syntax (CMS) is used to create a detached signature, which is stored in a separate companion file so that no existing utilities are impacted by the addition of the digital signature.</t>

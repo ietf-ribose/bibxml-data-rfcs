@@ -16,6 +16,12 @@
     <author fullname="W. Kumari" initials="W." surname="Kumari">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2020" month="August"/>
     <abstract>
       <t>This document records a format whereby a network operator can publish a mapping of IP address prefixes to simplified geolocation information, colloquially termed a "geolocation feed". Interested parties can poll and parse these feeds to update or merge with other geolocation data sources and procedures. This format intentionally only allows specifying coarse-level location.</t>

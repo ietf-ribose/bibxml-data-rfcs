@@ -4,6 +4,12 @@
     <author fullname="E. Wilde" initials="E." surname="Wilde">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2013" month="March"/>
     <abstract>
       <t>This specification defines the 'describes' link relation type that allows resource representations to indicate that they are describing another resource.  In contexts where applications want to associate described resources and description resources, and want to build services based on these associations, the 'describes' link relation type provides the opposite direction of the 'describedby' link relation type, which already is a registered link relation type.</t>

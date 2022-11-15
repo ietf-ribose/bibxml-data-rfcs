@@ -4,6 +4,12 @@
     <author fullname="P. Frejborg" initials="P." surname="Frejborg">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2011" month="July"/>
     <abstract>
       <t>This document describes a framework for how the current IPv4 address space can be divided into two new address categories: a core address space (Area Locators, ALOCs) that is globally unique, and an edge address space (Endpoint Locators, ELOCs) that is regionally unique. In the future, the ELOC space will only be significant in a private network or in a service provider domain. Therefore, a 32x32 bit addressing scheme and a hierarchical routing architecture are achieved. The hierarchical IPv4 framework is backwards compatible with the current IPv4 Internet.</t>

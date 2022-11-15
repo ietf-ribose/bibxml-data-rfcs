@@ -7,6 +7,12 @@
     <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2007" month="September"/>
     <abstract>
       <t>To date, the Internet Message Access Protocol (IMAP) has used a Simple Authentication and Security Layer (SASL) profile which always required at least one complete round trip for an authentication, as it did not support an initial client response argument. This additional round trip at the beginning of the session is undesirable, especially when round-trip costs are high.</t>

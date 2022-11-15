@@ -4,6 +4,12 @@
     <author role="editor" fullname="D. Crocker" initials="D." surname="Crocker">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2022" month="April"/>
     <abstract>
       <t>The address to which email is delivered might be different than any of the addresses shown in any of the content header fields that were created by the email's author. For example, the address used by the email transport service is provided separately, such as through SMTP's "RCPT TO" command, and might not match any address in the To: or cc: fields. In addition, before final delivery, handling can entail a sequence of submission/delivery events, using a sequence of different destination addresses that (eventually) lead to the recipient. As well, a receiving system's delivery process can produce local address transformations.</t>

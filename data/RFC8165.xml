@@ -4,6 +4,12 @@
     <author fullname="T. Hardie" initials="T." surname="Hardie">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2017" month="May"/>
     <abstract>
       <t>The IAB published RFC 7624 in response to several revelations of pervasive attacks on Internet communications.  This document considers the implications of protocol designs that associate metadata with encrypted flows.  In particular, it asserts that designs that share metadata only by explicit actions at the host are preferable to designs in which middleboxes insert metadata.</t>

@@ -7,6 +7,12 @@
     <author role="editor" fullname="A. Melnikov" initials="A." surname="Melnikov">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2008" month="March"/>
     <abstract>
       <t>Most IMAP extensions are used by the client when it wants to and the server supports it.  However, a few extensions require the server to know whether a client supports that extension.  The ENABLE extension allows an IMAP client to say which extensions it supports. [STANDARDS-TRACK]</t>

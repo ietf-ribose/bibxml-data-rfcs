@@ -10,6 +10,12 @@
     <author fullname="Y. Dong" initials="Y." surname="Dong">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2006" month="January"/>
     <abstract>
       <t>The Lightweight Directory Access Protocol (LDAP) Bulk Update/Replication Protocol (LBURP) allows an LDAP client to perform a bulk update to an LDAP server. The protocol frames a sequenced set of update operations within a pair of LDAP extended operations to notify the server that the update operations in the framed set are related in such a way that the ordering of all operations can be preserved during processing even when they are sent asynchronously by the client. Update operations can be grouped within a single protocol message to maximize the efficiency of client-server communication.</t>

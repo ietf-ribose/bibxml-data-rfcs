@@ -4,6 +4,12 @@
     <author role="editor" fullname="T. Krovetz" initials="T." surname="Krovetz">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2006" month="March"/>
     <abstract>
       <t>This specification describes how to generate an authentication tag using the UMAC message authentication algorithm. UMAC is designed to be very fast to compute in software on contemporary uniprocessors. Measured speeds are as low as one cycle per byte. UMAC relies on addition of 32-bit and 64-bit numbers and multiplication of 32-bit numbers, operations well-supported by contemporary machines.</t>

@@ -10,6 +10,12 @@
     <author fullname="R. Sanderson" initials="R." surname="Sanderson">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2013" month="December"/>
     <abstract>
       <t>The HTTP-based Memento framework bridges the present and past Web.  It facilitates obtaining representations of prior states of a given resource by introducing datetime negotiation and TimeMaps.  Datetime negotiation is a variation on content negotiation that leverages the given resource's URI and a user agent's preferred datetime.  TimeMaps are lists that enumerate URIs of resources that encapsulate prior states of the given resource.  The framework also facilitates recognizing a resource that encapsulates a frozen prior state of another resource.</t>

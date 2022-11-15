@@ -4,6 +4,12 @@
     <author fullname="M. Crispin" initials="M." surname="Crispin">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2003" month="March"/>
     <abstract>
       <t>This document describes the multiappending extension to the Internet Message Access Protocol (IMAP) (RFC 3501).  This extension provides substantial performance improvements for IMAP clients which upload multiple messages at a time to a mailbox on the server.  A server which supports this extension indicates this with a capability name of "MULTIAPPEND". [STANDARDS-TRACK]</t>

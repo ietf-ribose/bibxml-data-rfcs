@@ -7,6 +7,12 @@
     <author fullname="I. McDonald" initials="I." surname="McDonald">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2017" month="January"/>
     <abstract>
       <t>The Internet Printing Protocol (IPP) is an application-level protocol for distributed printing using Internet tools and technologies.  This document defines the rules for encoding IPP operations, attributes, and values into the Internet MIME media type called "application/ipp".  It also defines the rules for transporting a message body whose Content-Type is "application/ipp" over HTTP and/or HTTPS.  The IPP data model and operation semantics are described in "Internet Printing Protocol/1.1: Model and Semantics" (RFC 8011).</t>

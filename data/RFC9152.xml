@@ -7,6 +7,12 @@
     <author fullname="S. Turner" initials="S." surname="Turner">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2022" month="April"/>
     <abstract>
       <t>This document specifies protocol interfaces profiled by the United States National Security Agency (NSA) for National Security System (NSS) servers that provide public key certificates, Certificate Revocation Lists (CRLs), and symmetric keys to NSS clients. Servers that support these interfaces are referred to as Secure Object Delivery Protocol (SODP) servers. The intended audience for this profile comprises developers of client devices that will obtain key management services from NSA-operated SODP servers. Interfaces supported by SODP servers include Enrollment over Secure Transport (EST) and its extensions as well as Certificate Management over CMS (CMC).</t>

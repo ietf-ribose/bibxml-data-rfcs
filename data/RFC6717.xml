@@ -7,6 +7,12 @@
     <author fullname="R. Allbery" initials="R." surname="Allbery">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2012" month="August"/>
     <abstract>
       <t>This document describes a protocol, called kx509, for using Kerberos tickets to acquire X.509 certificates. These certificates may be used for many of the same purposes as X.509 certificates acquired by other means, but if a Kerberos infrastructure already exists, then the overhead of using kx509 may be much less.</t>

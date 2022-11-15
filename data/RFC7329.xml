@@ -4,6 +4,12 @@
     <author fullname="H. Kaplan" initials="H." surname="Kaplan">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2014" month="August"/>
     <abstract>
       <t>There is a need for having a globally unique session identifier for the same SIP session that can be consistently maintained across SIP Proxies, Back-to-Back User Agents (B2BUAs), and other SIP middleboxes, for the purpose of troubleshooting. This document proposes a new SIP header to carry such a value: Session-ID.</t>

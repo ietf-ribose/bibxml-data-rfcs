@@ -4,6 +4,12 @@
     <author fullname="P. Savola" initials="P." surname="Savola">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2006" month="April"/>
     <abstract>
       <t>Tunneling techniques such as IP-in-IP when deployed in the middle of the network, typically between routers, have certain issues regarding how large packets can be handled: whether such packets would be fragmented and reassembled (and how), whether Path MTU Discovery would be used, or how this scenario could be operationally avoided.  This memo justifies why this is a common, non-trivial problem, and goes on to describe the different solutions and their characteristics at some length.  This memo provides information for the Internet community.</t>

@@ -4,6 +4,12 @@
     <author fullname="G. Huston" initials="G." surname="Huston">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2004" month="April"/>
     <abstract>
       <t>This document describes the use of a scope control Border Gateway Protocol (BGP) community.  This well-known advisory transitive community allows an origin AS to specify the extent to which a specific route should be externally propagated.  In particular this community, NOPEER, allows an origin AS to specify that a route with this attribute need not be advertised across bilateral peer connections.  This memo provides information for the Internet community.</t>

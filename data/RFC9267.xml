@@ -13,6 +13,12 @@
     <author fullname="A. Amri" initials="A." surname="Amri">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2022" month="July"/>
     <abstract>
       <t>This memo describes common vulnerabilities related to Domain Name System (DNS) resource record (RR) processing as seen in several DNS client implementations.  These vulnerabilities may lead to successful Denial-of-Service and Remote Code Execution attacks against the affected software.  Where applicable, violations of RFC 1035 are mentioned.</t>

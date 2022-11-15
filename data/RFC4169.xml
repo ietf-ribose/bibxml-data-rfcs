@@ -10,6 +10,12 @@
     <author fullname="M. Naslund" initials="M." surname="Naslund">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2005" month="November"/>
     <abstract>
       <t>HTTP Digest, as specified in RFC 2617, is known to be vulnerable to man-in-the-middle attacks if the client fails to authenticate the server in TLS, or if the same passwords are used for authentication in some other context without TLS.  This is a general problem that exists not just with HTTP Digest, but also with other IETF protocols that use tunneled authentication.  This document specifies version 2 of the HTTP Digest AKA algorithm (RFC 3310).  This algorithm can be implemented in a way that it is resistant to the man-in-the-middle attack.  This memo provides information for the Internet community.</t>

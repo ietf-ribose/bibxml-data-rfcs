@@ -4,6 +4,12 @@
     <author fullname="J. Degener" initials="J." surname="Degener">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2004" month="October"/>
     <abstract>
       <t>The Sieve scripting language allows users to control handling and disposal of their incoming e-mail. By default, an e-mail message that is processed by a Sieve script is saved in the owner's "inbox". Actions such as "fileinto" and "redirect" cancel this default behavior.</t>

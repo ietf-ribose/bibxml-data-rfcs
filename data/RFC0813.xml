@@ -4,6 +4,12 @@
     <author fullname="D.D. Clark" initials="D.D." surname="Clark">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="1982" month="July"/>
     <abstract>
       <t>This RFC describes implementation strategies to deal with two mechanisms in TCP, the window and the acknowledgement.  It also presents a particular set of algorithms which have received testing in the field, and which appear to work properly with each other.  With more experience, these algorithms may become part of the formal specification, until such time their use is recommended.</t>

@@ -7,6 +7,12 @@
     <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2007" month="February"/>
     <abstract>
       <t>While the Internet Key Exchange Protocol version 2 (IKEv2) supports public key based authentication, the corresponding use of in-band Certificate Revocation Lists (CRL) is problematic due to unbounded CRL size. The size of an Online Certificate Status Protocol (OCSP) response is however well-bounded and small. This document defines the "OCSP Content" extension to IKEv2. A CERTREQ payload with "OCSP Content" identifies zero or more trusted OCSP responders and is a request for inclusion of an OCSP response in the IKEv2 handshake. A cooperative recipient of such a request responds with a CERT payload containing the appropriate OCSP response. This content is recognizable via the same "OCSP Content" identifier.</t>

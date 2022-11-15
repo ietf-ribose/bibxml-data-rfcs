@@ -4,6 +4,12 @@
     <author fullname="R. Housley" initials="R." surname="Housley">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2014" month="April"/>
     <abstract>
       <t>This document defines the syntax for two Cryptographic Message Syntax (CMS) content types: one for key package receipts and another for key package errors.  The key package receipt content type is used to confirm receipt of an identified key package or collection of key packages.  The key package error content type is used to indicate an error occurred during the processing of a key package.  CMS can be used to digitally sign, digest, authenticate, or encrypt these content types.</t>

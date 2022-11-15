@@ -7,6 +7,12 @@
     <author fullname="C. Wallace" initials="C." surname="Wallace">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2010" month="August"/>
     <abstract>
       <t>This document describes how to use information associated with a trust anchor public key when validating certification paths.  This information can be used to constrain the usage of a trust anchor.  Typically, constraints are used to limit the certificate policies and names that can appear in certification paths validated using a trust anchor.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>

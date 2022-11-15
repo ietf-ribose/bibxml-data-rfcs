@@ -4,6 +4,12 @@
     <author fullname="M. Andrews" initials="M." surname="Andrews">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2014" month="July"/>
     <abstract>
       <t>This document specifies a method for secondary DNS servers to honour the SOA EXPIRE field as if they were always transferring from the primary, even when using other secondaries to perform indirect transfers and refresh queries.</t>

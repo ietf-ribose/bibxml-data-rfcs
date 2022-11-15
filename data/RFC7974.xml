@@ -10,6 +10,12 @@
     <author fullname="D. Wing" initials="D." surname="Wing">
       <organization/>
     </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
     <date year="2016" month="October"/>
     <abstract>
       <t>Recent RFCs have discussed issues with host identification in IP address-sharing systems, such as address/prefix-sharing devices and application-layer proxies.  Potential solutions for revealing a host identifier in shared address deployments have also been discussed.  This memo describes the design, deployment, and privacy considerations for one such solution in operational use on the Internet today that uses a TCP option to transmit a host identifier.</t>
