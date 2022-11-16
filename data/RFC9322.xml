@@ -1,0 +1,33 @@
+<reference anchor="RFC.9322" target="https://www.rfc-editor.org/info/rfc9322">
+  <front>
+    <title>In Situ Operations, Administration, and Maintenance (IOAM) Loopback and Active Flags</title>
+    <author fullname="T. Mizrahi" initials="T." surname="Mizrahi">
+      <organization/>
+    </author>
+    <author fullname="F. Brockners" initials="F." surname="Brockners">
+      <organization/>
+    </author>
+    <author fullname="S. Bhandari" initials="S." surname="Bhandari">
+      <organization/>
+    </author>
+    <author fullname="B. Gafni" initials="B." surname="Gafni">
+      <organization/>
+    </author>
+    <author fullname="M. Spiegel" initials="M." surname="Spiegel">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="November"/>
+    <workgroup>ippm</workgroup>
+    <abstract>
+      <t>In situ Operations, Administration, and Maintenance (IOAM) collects operational and telemetry information in packets while they traverse a path between two points in the network.  This document defines two new flags in the IOAM Trace Option headers, specifically the Loopback and Active flags.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9322"/>
+  <seriesInfo name="RFC" value="9322"/>
+</reference>
