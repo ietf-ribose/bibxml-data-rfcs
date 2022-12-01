@@ -1,0 +1,30 @@
+<reference anchor="RFC.9320" target="https://www.rfc-editor.org/info/rfc9320">
+  <front>
+    <title>Deterministic Networking (DetNet) Bounded Latency</title>
+    <author fullname="N. Finn" initials="N." surname="Finn">
+      <organization/>
+    </author>
+    <author fullname="J.-Y. Le Boudec" initials="J.-Y." surname="Le Boudec">
+      <organization/>
+    </author>
+    <author fullname="E. Mohammadpour" initials="E." surname="Mohammadpour">
+      <organization/>
+    </author>
+    <author fullname="J. Zhang" initials="J." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="B. Varga" initials="B." surname="Varga">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="November"/>
+    <workgroup>detnet</workgroup>
+    <abstract>
+      <t>This document presents a timing model for sources, destinations, and Deterministic Networking (DetNet) transit nodes.  Using the model, it provides a methodology to compute end-to-end latency and backlog bounds for various queuing methods.  The methodology can be used by the management and control planes and by resource reservation algorithms to provide bounded latency and zero congestion loss for the DetNet service.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9320"/>
+  <seriesInfo name="RFC" value="9320"/>
+</reference>
