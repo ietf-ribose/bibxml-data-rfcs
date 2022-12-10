@@ -1,0 +1,19 @@
+<reference anchor="RFC.9337" target="https://www.rfc-editor.org/info/rfc9337">
+  <front>
+    <title>Generating Password-Based Keys Using the GOST Algorithms</title>
+    <author role="editor" fullname="K. Ekaterina" initials="K." surname="Ekaterina">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="December"/>
+    <abstract>
+      <t>This document specifies how to use "PKCS #5: Password-Based Cryptography Specification Version 2.1" (RFC 8018) to generate a symmetric key from a password in conjunction with the Russian national standard GOST algorithms.</t>
+      <t>PKCS #5 applies a Pseudorandom Function (PRF) -- a cryptographic hash, cipher, or Hash-Based Message Authentication Code (HMAC) -- to the input password along with a salt value and repeats the process many times to produce a derived key.</t>
+      <t>This specification has been developed outside the IETF. The purpose of publication being to facilitate interoperable implementations that wish to support the GOST algorithms. This document does not imply IETF endorsement of the cryptographic algorithms used here.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9337"/>
+  <seriesInfo name="RFC" value="9337"/>
+</reference>
