@@ -1,0 +1,30 @@
+<reference anchor="RFC.9342" target="https://www.rfc-editor.org/info/rfc9342">
+  <front>
+    <title>Clustered Alternate-Marking Method</title>
+    <author role="editor" fullname="G. Fioccola" initials="G." surname="Fioccola">
+      <organization/>
+    </author>
+    <author fullname="M. Cociglio" initials="M." surname="Cociglio">
+      <organization/>
+    </author>
+    <author fullname="A. Sapio" initials="A." surname="Sapio">
+      <organization/>
+    </author>
+    <author fullname="R. Sisto" initials="R." surname="Sisto">
+      <organization/>
+    </author>
+    <author fullname="T. Zhou" initials="T." surname="Zhou">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="December"/>
+    <workgroup>ippm</workgroup>
+    <abstract>
+      <t>This document generalizes and expands the Alternate-Marking methodology to measure any kind of unicast flow whose packets can follow several different paths in the network; this can result in a multipoint-to-multipoint network.  The network clustering approach is presented and, for this reason, the technique described here is called "Clustered Alternate Marking".  This document obsoletes RFC 8889.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9342"/>
+  <seriesInfo name="RFC" value="9342"/>
+</reference>
