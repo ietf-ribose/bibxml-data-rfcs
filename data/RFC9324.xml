@@ -1,0 +1,27 @@
+<reference anchor="RFC.9324" target="https://www.rfc-editor.org/info/rfc9324">
+  <front>
+    <title>Policy Based on the Resource Public Key Infrastructure (RPKI) without Route Refresh</title>
+    <author fullname="R. Bush" initials="R." surname="Bush">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="P. Smith" initials="P." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="M. Tinka" initials="M." surname="Tinka">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="December"/>
+    <workgroup>sidrops</workgroup>
+    <abstract>
+      <t>A BGP speaker performing policy based on the Resource Public Key Infrastructure (RPKI) should not issue route refresh to its neighbors because it has received new RPKI data.  This document updates RFC 8481 by describing how to avoid doing so by either keeping a full Adj-RIB-In or saving paths dropped due to ROV (Route Origin Validation) so they may be reevaluated with respect to new RPKI data.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9324"/>
+  <seriesInfo name="RFC" value="9324"/>
+</reference>

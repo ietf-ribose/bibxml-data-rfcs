@@ -1,0 +1,30 @@
+<reference anchor="RFC.9328" target="https://www.rfc-editor.org/info/rfc9328">
+  <front>
+    <title>RTP Payload Format for Versatile Video Coding (VVC)</title>
+    <author fullname="S. Zhao" initials="S." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="S. Wenger" initials="S." surname="Wenger">
+      <organization/>
+    </author>
+    <author fullname="Y. Sanchez" initials="Y." surname="Sanchez">
+      <organization/>
+    </author>
+    <author fullname="Y.-K. Wang" initials="Y.-K." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="M. M Hannuksela" initials="M. M" surname="Hannuksela">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2022" month="December"/>
+    <workgroup>avtcore</workgroup>
+    <abstract>
+      <t>This memo describes an RTP payload format for the Versatile Video Coding (VVC) specification, which was published as both ITU-T Recommendation H.266 and ISO/IEC International Standard 23090-3.  VVC was developed by the Joint Video Experts Team (JVET).  The RTP payload format allows for packetization of one or more Network Abstraction Layer (NAL) units in each RTP packet payload, as well as fragmentation of a NAL unit into multiple RTP packets.  The payload format has wide applicability in videoconferencing, Internet video streaming, and high-bitrate entertainment-quality video, among other applications.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9328"/>
+  <seriesInfo name="RFC" value="9328"/>
+</reference>
