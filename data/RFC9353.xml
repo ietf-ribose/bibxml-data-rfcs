@@ -1,0 +1,31 @@
+<reference anchor="RFC.9353" target="https://www.rfc-editor.org/info/rfc9353">
+  <front>
+    <title>IGP Extension for Path Computation Element Communication Protocol (PCEP) Security Capability Support in PCE Discovery (PCED)</title>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
+    <author fullname="Q. Ma" initials="Q." surname="Ma">
+      <organization/>
+    </author>
+    <author fullname="D. King" initials="D." surname="King">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="January"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>When a Path Computation Element (PCE) is a Label Switching Router (LSR) or a server participating in the Interior Gateway Protocol (IGP), its presence and path computation capabilities can be advertised using IGP flooding. The IGP extensions for PCE Discovery (PCED) (RFCs 5088 and 5089) define a method to advertise path computation capabilities using IGP flooding for OSPF and IS-IS, respectively. However, these specifications lack a method to advertise Path Computation Element Communication Protocol (PCEP) security (e.g., Transport Layer Security (TLS) and TCP Authentication Option (TCP-AO)) support capability.</t>
+      <t>This document defines capability flag bits for the PCE-CAP-FLAGS sub-TLV that can be announced as an attribute in the IGP advertisement to distribute PCEP security support information. In addition, this document updates RFCs 5088 and 5089 to allow advertisement of a Key ID or KEY-CHAIN-NAME sub-TLV to support TCP-AO security capability. This document also updates RFCs 8231 and 8306.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9353"/>
+  <seriesInfo name="RFC" value="9353"/>
+</reference>
