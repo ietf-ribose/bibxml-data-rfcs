@@ -1,0 +1,25 @@
+<reference anchor="RFC.9332" target="https://www.rfc-editor.org/info/rfc9332">
+  <front>
+    <title>Dual-Queue Coupled Active Queue Management (AQM) for Low Latency, Low Loss, and Scalable Throughput (L4S)</title>
+    <author fullname="K. De Schepper" initials="K." surname="De Schepper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="B. Briscoe" initials="B." surname="Briscoe">
+      <organization/>
+    </author>
+    <author fullname="G. White" initials="G." surname="White">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="January"/>
+    <workgroup>tsvwg</workgroup>
+    <abstract>
+      <t>This specification defines a framework for coupling the Active Queue Management (AQM) algorithms in two queues intended for flows with different responses to congestion. This provides a way for the Internet to transition from the scaling problems of standard TCP-Reno-friendly ('Classic') congestion controls to the family of 'Scalable' congestion controls. These are designed for consistently very low queuing latency, very low congestion loss, and scaling of per-flow throughput by using Explicit Congestion Notification (ECN) in a modified way. Until the Coupled Dual Queue (DualQ), these Scalable L4S congestion controls could only be deployed where a clean-slate environment could be arranged, such as in private data centres.</t>
+      <t>This specification first explains how a Coupled DualQ works. It then gives the normative requirements that are necessary for it to work well. All this is independent of which two AQMs are used, but pseudocode examples of specific AQMs are given in appendices.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9332"/>
+  <seriesInfo name="RFC" value="9332"/>
+</reference>
