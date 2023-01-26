@@ -1,0 +1,22 @@
+<reference anchor="RFC.9356" target="https://www.rfc-editor.org/info/rfc9356">
+  <front>
+    <title>Advertising Layer 2 Bundle Member Link Attributes in OSPF</title>
+    <author role="editor" fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="January"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>There are deployments where the Layer 3 (L3) interface on which OSPF operates is a Layer 2 (L2) interface bundle. Existing OSPF advertisements only support advertising link attributes of the L3 interface. If entities external to OSPF wish to control traffic flows on the individual physical links that comprise the L2 interface bundle, link attribute information for the bundle members is required.</t>
+      <t>This document defines the protocol extensions for OSPF to advertise the link attributes of L2 bundle members. The document also specifies the advertisement of these OSPF extensions via the Border Gateway Protocol - Link State (BGP-LS) and thereby updates RFC 9085.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9356"/>
+  <seriesInfo name="RFC" value="9356"/>
+</reference>
