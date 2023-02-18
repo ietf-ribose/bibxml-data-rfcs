@@ -1,0 +1,30 @@
+<reference anchor="RFC.9367" target="https://www.rfc-editor.org/info/rfc9367">
+  <front>
+    <title>GOST Cipher Suites for Transport Layer Security (TLS) Protocol Version 1.3</title>
+    <author role="editor" fullname="S. Smyshlyaev" initials="S." surname="Smyshlyaev">
+      <organization/>
+    </author>
+    <author fullname="E. Alekseev" initials="E." surname="Alekseev">
+      <organization/>
+    </author>
+    <author fullname="E. Griboedova" initials="E." surname="Griboedova">
+      <organization/>
+    </author>
+    <author fullname="A. Babueva" initials="A." surname="Babueva">
+      <organization/>
+    </author>
+    <author fullname="L. Nikiforova" initials="L." surname="Nikiforova">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="February"/>
+    <abstract>
+      <t>The purpose of this document is to make the Russian cryptographic standards available to the Internet community for their implementation in the Transport Layer Security (TLS) Protocol Version 1.3.</t>
+      <t>This document defines the cipher suites, signature schemes, and key exchange mechanisms for using Russian cryptographic standards, called GOST algorithms, with TLS Version 1.3. Additionally, this document specifies a profile of TLS 1.3 with GOST algorithms to facilitate interoperable implementations. The IETF has not endorsed the cipher suites, signature schemes, or key exchange mechanisms described in this document.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9367"/>
+  <seriesInfo name="RFC" value="9367"/>
+</reference>
