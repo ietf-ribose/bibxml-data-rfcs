@@ -1,0 +1,30 @@
+<reference anchor="RFC.9350" target="https://www.rfc-editor.org/info/rfc9350">
+  <front>
+    <title>IGP Flexible Algorithm</title>
+    <author role="editor" fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="A. Gulko" initials="A." surname="Gulko">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="February"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>IGP protocols historically compute the best paths over the network based on the IGP metric assigned to the links.  Many network deployments use RSVP-TE or Segment Routing - Traffic Engineering (SR-TE) to steer traffic over a path that is computed using different metrics or constraints than the shortest IGP path.  This document specifies a solution that allows IGPs themselves to compute constraint-based paths over the network.  This document also specifies a way of using Segment Routing (SR) Prefix-SIDs and SRv6 locators to steer packets along the constraint-based paths.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9350"/>
+  <seriesInfo name="RFC" value="9350"/>
+</reference>

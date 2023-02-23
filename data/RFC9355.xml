@@ -1,0 +1,36 @@
+<reference anchor="RFC.9355" target="https://www.rfc-editor.org/info/rfc9355">
+  <front>
+    <title>OSPF Bidirectional Forwarding Detection (BFD) Strict-Mode</title>
+    <author role="editor" fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="A. Fu" initials="A." surname="Fu">
+      <organization/>
+    </author>
+    <author fullname="M. Rajesh" initials="M." surname="Rajesh">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="February"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>This document specifies the extensions to OSPF that enable an OSPF
+router to signal the requirement for a Bidirectional Forwarding
+Detection (BFD) session prior to adjacency formation. Link-Local
+Signaling (LLS) is used to advertise the requirement for strict-mode
+BFD session establishment for an OSPF adjacency. If both OSPF
+neighbors advertise BFD strict-mode, adjacency formation will be
+blocked until a BFD session has been successfully established.</t>
+      <t>This document updates RFC 2328 by augmenting the OSPF neighbor state
+machine with a check for BFD session up before progression from Init
+to 2-Way state when operating in OSPF BFD strict-mode.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9355"/>
+  <seriesInfo name="RFC" value="9355"/>
+</reference>

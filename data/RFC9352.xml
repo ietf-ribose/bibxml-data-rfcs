@@ -1,0 +1,31 @@
+<reference anchor="RFC.9352" target="https://www.rfc-editor.org/info/rfc9352">
+  <front>
+    <title>IS-IS Extensions to Support Segment Routing over the IPv6 Data Plane</title>
+    <author role="editor" fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="A. Bashandy" initials="A." surname="Bashandy">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="Z. Hu" initials="Z." surname="Hu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="February"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>The Segment Routing (SR) architecture allows a flexible definition of the end-to-end path by encoding it as a sequence of topological elements called "segments". It can be implemented over the MPLS or the IPv6 data plane. This document describes the IS-IS extensions required to support SR over the IPv6 data plane.</t>
+      <t>This document updates RFC 7370 by modifying an existing registry.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9352"/>
+  <seriesInfo name="RFC" value="9352"/>
+</reference>
