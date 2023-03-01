@@ -1,0 +1,22 @@
+<reference anchor="RFC.9362" target="https://www.rfc-editor.org/info/rfc9362">
+  <front>
+    <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel Configuration Attributes for Robust Block Transmission</title>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="J. Shallow" initials="J." surname="Shallow">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="February"/>
+    <workgroup>dots</workgroup>
+    <abstract>
+      <t>This document specifies new DDoS Open Threat Signaling (DOTS) signal channel configuration parameters that can be negotiated between DOTS peers to enable the use of Q-Block1 and Q-Block2 Constrained Application Protocol (CoAP) options. These options enable robust and faster transmission rates for large amounts of data with less packet interchanges as well as support for faster recovery should any of the blocks get lost in transmission (especially during DDoS attacks).</t>
+      <t>Also, this document defines a YANG data model for representing these new DOTS signal channel configuration parameters. This model augments the DOTS signal YANG module ("ietf-dots-signal-channel") defined in RFC 9132.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9362"/>
+  <seriesInfo name="RFC" value="9362"/>
+</reference>
