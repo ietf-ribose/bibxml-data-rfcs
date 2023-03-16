@@ -1,0 +1,30 @@
+<reference anchor="RFC.9374" target="https://www.rfc-editor.org/info/rfc9374">
+  <front>
+    <title>DRIP Entity Tag (DET) for Unmanned Aircraft System Remote ID (UAS RID)</title>
+    <author fullname="R. Moskowitz" initials="R." surname="Moskowitz">
+      <organization/>
+    </author>
+    <author fullname="S. Card" initials="S." surname="Card">
+      <organization/>
+    </author>
+    <author fullname="A. Wiethuechter" initials="A." surname="Wiethuechter">
+      <organization/>
+    </author>
+    <author fullname="A. Gurtov" initials="A." surname="Gurtov">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="March"/>
+    <workgroup>drip</workgroup>
+    <abstract>
+      <t>This document describes the use of Hierarchical Host Identity Tags (HHITs) as self-asserting IPv6 addresses, which makes them trustable identifiers for use in Unmanned Aircraft System Remote Identification (UAS RID) and tracking.</t>
+      <t>Within the context of RID, HHITs will be called DRIP Entity Tags (DETs). HHITs provide claims to the included explicit hierarchy that provides registry (via, for example, DNS, RDAP) discovery for third-party identifier endorsement.</t>
+      <t>This document updates RFCs 7401 and 7343.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9374"/>
+  <seriesInfo name="IETF"/>
+  <seriesInfo name="RFC" value="9374"/>
+</reference>
