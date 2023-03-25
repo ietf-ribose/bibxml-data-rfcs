@@ -1,0 +1,20 @@
+<reference anchor="RFC.9384" target="https://www.rfc-editor.org/info/rfc9384">
+  <front>
+    <title>A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding Detection (BFD)</title>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="March"/>
+    <workgroup>idr</workgroup>
+    <abstract>
+      <t>The Bidirectional Forwarding Detection (BFD) protocol (RFC 5880) is used to detect loss of connectivity between two forwarding engines, typically with low latency. BFD is leveraged by routing protocols, including the Border Gateway Protocol (BGP), to bring down routing protocol connections more quickly than the original protocol timers.</t>
+      <t>This document defines a subcode for the BGP Cease NOTIFICATION message (Section 6.7 of RFC 4271) for use when a BGP connection is being closed due to a BFD session going down.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9384"/>
+  <seriesInfo name="IETF"/>
+  <seriesInfo name="RFC" value="9384"/>
+</reference>
