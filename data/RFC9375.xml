@@ -1,0 +1,31 @@
+<reference anchor="RFC.9375" target="https://www.rfc-editor.org/info/rfc9375">
+  <front>
+    <title>A YANG Data Model for Network and VPN Service Performance Monitoring</title>
+    <author role="editor" fullname="B. Wu" initials="B." surname="Wu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez de Dios">
+      <organization/>
+    </author>
+    <author fullname="B. Wen" initials="B." surname="Wen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="April"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>The data model for network topologies defined in RFC 8345 introduces vertical layering relationships between networks that can be augmented to cover network and service topologies.  This document defines a YANG module for performance monitoring (PM) of both underlay networks and overlay VPN services that can be used to monitor and manage network performance on the topology of both layers.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9375"/>
+  <seriesInfo name="IETF"/>
+  <seriesInfo name="RFC" value="9375"/>
+</reference>
