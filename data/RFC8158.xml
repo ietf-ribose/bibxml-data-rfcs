@@ -12,7 +12,7 @@
     </author>
     <date year="2017" month="December"/>
     <abstract>
-      <t>Network operators require NAT devices to log events like creation and deletion of translations and information about the resources that the NAT device is managing.  In many cases, the logs are essential to identify an attacker or a host that was used to launch malicious attacks and for various other purposes of accounting.  Since there is no standard way of logging this information, different NAT devices use proprietary formats; hence, it is difficult to expect consistent behavior.  This lack of standardization makes it difficult to write the Collector applications that would receive this data and process it to present useful information.  This document describes the formats for logging NAT events.</t>
+      <t>Network operators require NAT devices to log events like creation and deletion of translations and information about the resources that the NAT device is managing. In many cases, the logs are essential to identify an attacker or a host that was used to launch malicious attacks and for various other purposes of accounting. Since there is no standard way of logging this information, different NAT devices use proprietary formats; hence, it is difficult to expect consistent behavior. This lack of standardization makes it difficult to write the Collector applications that would receive this data and process it to present useful information. This document describes the formats for logging NAT events.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8158"/>

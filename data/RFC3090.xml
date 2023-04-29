@@ -10,7 +10,7 @@
     <date year="2001" month="March"/>
     <workgroup>dnsext</workgroup>
     <abstract>
-      <t>The definition of a secured zone is presented, clarifying and updating sections of RFC 2535.  RFC 2535 defines a zone to be secured based on a per algorithm basis, e.g., a zone can be secured with RSA keys, and not secured with DSA keys.  This document changes this to define a zone to be secured or not secured regardless of the key algorithm used (or not used).  To further simplify the determination of a zone's status, "experimentally secure" status is deprecated. [STANDARDS-TRACK]</t>
+      <t>The definition of a secured zone is presented, clarifying and updating sections of RFC 2535. RFC 2535 defines a zone to be secured based on a per algorithm basis, e.g., a zone can be secured with RSA keys, and not secured with DSA keys. This document changes this to define a zone to be secured or not secured regardless of the key algorithm used (or not used). To further simplify the determination of a zone's status, "experimentally secure" status is deprecated. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC3090"/>

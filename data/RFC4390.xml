@@ -10,7 +10,7 @@
     <date year="2006" month="April"/>
     <workgroup>ipoib</workgroup>
     <abstract>
-      <t>IP over Infiniband (IPoIB) link-layer address is 20 octets long.  This is larger than the 16 octets reserved for the hardware address in a Dynamic Host Configuration Protocol/Bootstrap Protocol (DHCP/BOOTP) message.  The above inequality imposes restrictions on the use of the DHCP message fields when used over an IPoIB network.  This document describes the use of DHCP message fields when implementing DHCP over IPoIB. [STANDARDS-TRACK]</t>
+      <t>IP over Infiniband (IPoIB) link-layer address is 20 octets long. This is larger than the 16 octets reserved for the hardware address in a Dynamic Host Configuration Protocol/Bootstrap Protocol (DHCP/BOOTP) message. The above inequality imposes restrictions on the use of the DHCP message fields when used over an IPoIB network. This document describes the use of DHCP message fields when implementing DHCP over IPoIB. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC4390"/>

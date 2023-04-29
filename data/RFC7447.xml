@@ -13,7 +13,7 @@
     <date year="2015" month="February"/>
     <workgroup>mpls</workgroup>
     <abstract>
-      <t>The BGP Entropy Label Capability attribute is defined in RFC 6790.  Regrettably, it has a bug: although RFC 6790 mandates that routers incapable of processing Entropy Labels must remove the attribute, fulfillment of this requirement cannot be guaranteed in practice.  This specification deprecates the attribute.  A forthcoming document will propose a replacement.</t>
+      <t>The BGP Entropy Label Capability attribute is defined in RFC 6790. Regrettably, it has a bug: although RFC 6790 mandates that routers incapable of processing Entropy Labels must remove the attribute, fulfillment of this requirement cannot be guaranteed in practice. This specification deprecates the attribute. A forthcoming document will propose a replacement.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7447"/>

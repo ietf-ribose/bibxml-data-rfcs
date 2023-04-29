@@ -10,7 +10,7 @@
     <date year="2006" month="February"/>
     <workgroup>sipping</workgroup>
     <abstract>
-      <t>This document proposes an IANA Registration extension to the Session Initiation Protocol (SIP) Reason Header to be included in a BYE Method Request as a result of a session preemption event, either at a user agent (UA), or somewhere in the network involving a reservation-based protocol such as the Resource ReSerVation Protocol (RSVP) or Next Steps in Signaling (NSIS).  This document does not attempt to address routers failing in the packet path; instead, it addresses a deliberate tear down of a flow between UAs, and informs the terminated UA(s) with an indication of what occurred. [STANDARDS-TRACK]</t>
+      <t>This document proposes an IANA Registration extension to the Session Initiation Protocol (SIP) Reason Header to be included in a BYE Method Request as a result of a session preemption event, either at a user agent (UA), or somewhere in the network involving a reservation-based protocol such as the Resource ReSerVation Protocol (RSVP) or Next Steps in Signaling (NSIS). This document does not attempt to address routers failing in the packet path; instead, it addresses a deliberate tear down of a flow between UAs, and informs the terminated UA(s) with an indication of what occurred. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC4411"/>

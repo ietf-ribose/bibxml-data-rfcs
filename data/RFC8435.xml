@@ -13,7 +13,7 @@
     <date year="2018" month="August"/>
     <workgroup>nfsv4</workgroup>
     <abstract>
-      <t>Parallel NFS (pNFS) allows a separation between the metadata (onto a metadata server) and data (onto a storage device) for a file.  The flexible file layout type is defined in this document as an extension to pNFS that allows the use of storage devices that require only a limited degree of interaction with the metadata server and use already-existing protocols.  Client-side mirroring is also added to provide replication of files.</t>
+      <t>Parallel NFS (pNFS) allows a separation between the metadata (onto a metadata server) and data (onto a storage device) for a file. The flexible file layout type is defined in this document as an extension to pNFS that allows the use of storage devices that require only a limited degree of interaction with the metadata server and use already-existing protocols. Client-side mirroring is also added to provide replication of files.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8435"/>

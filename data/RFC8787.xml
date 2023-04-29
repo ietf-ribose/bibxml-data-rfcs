@@ -19,7 +19,7 @@
     <date year="2020" month="May"/>
     <workgroup>sipcore</workgroup>
     <abstract>
-      <t>There are some circumstances where a Geolocation header field may contain more than one locationValue.  Knowing the identity of the node adding the locationValue allows the recipient more freedom in selecting the value to look at first rather than relying solely on the order of the locationValues.  This document defines the "loc-src" parameter so that the entity adding the locationValue to the Geolocation header field can identify itself using its hostname.  This document updates RFC 6442.</t>
+      <t>There are some circumstances where a Geolocation header field may contain more than one locationValue. Knowing the identity of the node adding the locationValue allows the recipient more freedom in selecting the value to look at first rather than relying solely on the order of the locationValues. This document defines the "loc-src" parameter so that the entity adding the locationValue to the Geolocation header field can identify itself using its hostname. This document updates RFC 6442.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8787"/>

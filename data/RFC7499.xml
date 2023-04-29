@@ -25,7 +25,7 @@
     <date year="2015" month="April"/>
     <workgroup>radext</workgroup>
     <abstract>
-      <t>The Remote Authentication Dial-In User Service (RADIUS) protocol is limited to a total packet size of 4096 bytes.  Provisions exist for fragmenting large amounts of authentication data across multiple packets, via Access-Challenge packets.  No similar provisions exist for fragmenting large amounts of authorization data.  This document specifies how existing RADIUS mechanisms can be leveraged to provide that functionality.  These mechanisms are largely compatible with existing implementations, and they are designed to be invisible to proxies and "fail-safe" to legacy RADIUS Clients and Servers.</t>
+      <t>The Remote Authentication Dial-In User Service (RADIUS) protocol is limited to a total packet size of 4096 bytes. Provisions exist for fragmenting large amounts of authentication data across multiple packets, via Access-Challenge packets. No similar provisions exist for fragmenting large amounts of authorization data. This document specifies how existing RADIUS mechanisms can be leveraged to provide that functionality. These mechanisms are largely compatible with existing implementations, and they are designed to be invisible to proxies and "fail-safe" to legacy RADIUS Clients and Servers.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7499"/>

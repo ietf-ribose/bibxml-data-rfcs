@@ -10,7 +10,7 @@
     <date year="2022" month="August"/>
     <workgroup>cose</workgroup>
     <abstract>
-      <t>The CBOR Object Signing and Encryption (COSE) syntax (see RFC 9052) does not define any direct methods for using hash algorithms.  There are, however, circumstances where hash algorithms are used, such as indirect signatures, where the hash of one or more contents are signed, and identification of an X.509 certificate or other object by the use of a fingerprint.  This document defines hash algorithms that are identified by COSE algorithm identifiers.</t>
+      <t>The CBOR Object Signing and Encryption (COSE) syntax (see RFC 9052) does not define any direct methods for using hash algorithms. There are, however, circumstances where hash algorithms are used, such as indirect signatures, where the hash of one or more contents are signed, and identification of an X.509 certificate or other object by the use of a fingerprint. This document defines hash algorithms that are identified by COSE algorithm identifiers.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC9054"/>

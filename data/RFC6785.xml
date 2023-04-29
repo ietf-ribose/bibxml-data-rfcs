@@ -10,7 +10,7 @@
     <date year="2012" month="November"/>
     <workgroup>sieve</workgroup>
     <abstract>
-      <t>Sieve defines an email filtering language that can, in principle, plug into any point in the processing of an email message.  As defined in the base specification, it plugs into mail delivery.  This document defines how Sieve can plug into points in IMAP where messages are created or changed, adding the option of user-defined or installation-defined filtering (or, with Sieve extensions, features such as notifications).  Because this requires future Sieve extensions to specify their interactions with this one, this document updates the base Sieve specification, RFC 5228. [STANDARDS-TRACK]</t>
+      <t>Sieve defines an email filtering language that can, in principle, plug into any point in the processing of an email message. As defined in the base specification, it plugs into mail delivery. This document defines how Sieve can plug into points in IMAP where messages are created or changed, adding the option of user-defined or installation-defined filtering (or, with Sieve extensions, features such as notifications). Because this requires future Sieve extensions to specify their interactions with this one, this document updates the base Sieve specification, RFC 5228. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC6785"/>

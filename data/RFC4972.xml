@@ -25,7 +25,7 @@
     <date year="2007" month="July"/>
     <workgroup>ccamp</workgroup>
     <abstract>
-      <t>The setup of a full mesh of Multi-Protocol Label Switching (MPLS) Traffic Engineering (TE) Label Switched Paths (LSP) among a set of Label Switch Routers (LSR) is a common deployment scenario of MPLS Traffic Engineering either for bandwidth optimization, bandwidth guarantees or fast rerouting with MPLS Fast Reroute.  Such deployment may require the configuration of a potentially large number of TE LSPs (on the order of the square of the number of LSRs).  This document specifies Interior Gateway Protocol (IGP) routing extensions for Intermediate System-to-Intermediate System (IS-IS) and Open Shortest Path First (OSPF) so as to provide an automatic discovery of the set of LSRs members of a mesh in order to automate the creation of such mesh of TE LSPs. [STANDARDS-TRACK]</t>
+      <t>The setup of a full mesh of Multi-Protocol Label Switching (MPLS) Traffic Engineering (TE) Label Switched Paths (LSP) among a set of Label Switch Routers (LSR) is a common deployment scenario of MPLS Traffic Engineering either for bandwidth optimization, bandwidth guarantees or fast rerouting with MPLS Fast Reroute. Such deployment may require the configuration of a potentially large number of TE LSPs (on the order of the square of the number of LSRs). This document specifies Interior Gateway Protocol (IGP) routing extensions for Intermediate System-to-Intermediate System (IS-IS) and Open Shortest Path First (OSPF) so as to provide an automatic discovery of the set of LSRs members of a mesh in order to automate the creation of such mesh of TE LSPs. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC4972"/>

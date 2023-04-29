@@ -10,7 +10,7 @@
     <date year="2016" month="March"/>
     <workgroup>ntp</workgroup>
     <abstract>
-      <t>The Network Time Protocol (NTP) allows clients to synchronize to a time server using timestamped protocol messages.  To facilitate accurate timestamping, some implementations use hardware-based timestamping engines that integrate the accurate transmission time into every outgoing NTP packet during transmission.  Since these packets are transported over UDP, the UDP Checksum field is then updated to reflect this modification.  This document proposes an extension field that includes a 2-octet Checksum Complement, allowing timestamping engines to reflect the checksum modification in the last 2 octets of the packet rather than in the UDP Checksum field.  The behavior defined in this document is interoperable with existing NTP implementations.</t>
+      <t>The Network Time Protocol (NTP) allows clients to synchronize to a time server using timestamped protocol messages. To facilitate accurate timestamping, some implementations use hardware-based timestamping engines that integrate the accurate transmission time into every outgoing NTP packet during transmission. Since these packets are transported over UDP, the UDP Checksum field is then updated to reflect this modification. This document proposes an extension field that includes a 2-octet Checksum Complement, allowing timestamping engines to reflect the checksum modification in the last 2 octets of the packet rather than in the UDP Checksum field. The behavior defined in this document is interoperable with existing NTP implementations.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7821"/>

@@ -10,7 +10,7 @@
     <date year="2003" month="October"/>
     <workgroup>mmusic</workgroup>
     <abstract>
-      <t>The Session Description Protocol (SDP) is used to describe the parameters of media streams used in multimedia sessions.  When a session requires multiple ports, SDP assumes that these ports have consecutive numbers.  However, when the session crosses a network address translation device that also uses port mapping, the ordering of ports can be destroyed by the translation.  To handle this, we propose an extension attribute to SDP.</t>
+      <t>The Session Description Protocol (SDP) is used to describe the parameters of media streams used in multimedia sessions. When a session requires multiple ports, SDP assumes that these ports have consecutive numbers. However, when the session crosses a network address translation device that also uses port mapping, the ordering of ports can be destroyed by the translation. To handle this, we propose an extension attribute to SDP.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC3605"/>

@@ -10,7 +10,7 @@
     <date year="2014" month="September"/>
     <workgroup>radext</workgroup>
     <abstract>
-      <t>The RADIUS protocol defined in RFC 2865 has limited support for authentication and encryption of RADIUS packets.  The protocol transports data in the clear, although some parts of the packets can have obfuscated content.  Packets may be replayed verbatim by an attacker, and client-server authentication is based on fixed shared secrets.  This document specifies how the Datagram Transport Layer Security (DTLS) protocol may be used as a fix for these problems.  It also describes how implementations of this proposal can coexist with current RADIUS systems.</t>
+      <t>The RADIUS protocol defined in RFC 2865 has limited support for authentication and encryption of RADIUS packets. The protocol transports data in the clear, although some parts of the packets can have obfuscated content. Packets may be replayed verbatim by an attacker, and client-server authentication is based on fixed shared secrets. This document specifies how the Datagram Transport Layer Security (DTLS) protocol may be used as a fix for these problems. It also describes how implementations of this proposal can coexist with current RADIUS systems.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7360"/>

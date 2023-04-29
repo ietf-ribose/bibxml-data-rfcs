@@ -13,7 +13,7 @@
     <date year="2016" month="June"/>
     <workgroup>bess</workgroup>
     <abstract>
-      <t>The BGP-based control procedures for Multicast Virtual Private Networks (MVPNs) make use of a BGP attribute known as the "P-Multicast Service Interface (PMSI) Tunnel" attribute.  The attribute contains a one-octet "Flags" field.  The purpose of this document is to establish an IANA registry for the assignment of the bits in this field.  Since the "Flags" field contains only eight bits, this document also defines a new BGP Extended Community, "Additional PMSI Tunnel Attribute Flags", that can be used to carry additional flags for the "P-Multicast Service Interface (PMSI) Tunnel" attribute.  This document updates RFC 6514.</t>
+      <t>The BGP-based control procedures for Multicast Virtual Private Networks (MVPNs) make use of a BGP attribute known as the "P-Multicast Service Interface (PMSI) Tunnel" attribute. The attribute contains a one-octet "Flags" field. The purpose of this document is to establish an IANA registry for the assignment of the bits in this field. Since the "Flags" field contains only eight bits, this document also defines a new BGP Extended Community, "Additional PMSI Tunnel Attribute Flags", that can be used to carry additional flags for the "P-Multicast Service Interface (PMSI) Tunnel" attribute. This document updates RFC 6514.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7902"/>

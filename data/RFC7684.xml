@@ -25,7 +25,7 @@
     <date year="2015" month="November"/>
     <workgroup>ospf</workgroup>
     <abstract>
-      <t>OSPFv2 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisements (LSAs) as described in RFC 2328.  This document defines OSPFv2 Opaque LSAs based on Type-Length-Value (TLV) tuples that can be used to associate additional attributes with prefixes or links.  Depending on the application, these prefixes and links may or may not be advertised in the fixed-format LSAs.  The OSPFv2 Opaque LSAs are optional and fully backward compatible.</t>
+      <t>OSPFv2 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisements (LSAs) as described in RFC 2328. This document defines OSPFv2 Opaque LSAs based on Type-Length-Value (TLV) tuples that can be used to associate additional attributes with prefixes or links. Depending on the application, these prefixes and links may or may not be advertised in the fixed-format LSAs. The OSPFv2 Opaque LSAs are optional and fully backward compatible.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7684"/>

@@ -22,7 +22,7 @@
     <date year="2020" month="October"/>
     <workgroup>dnsop</workgroup>
     <abstract>
-      <t>This document defines an extensible method to return additional information about the cause of DNS errors.  Though created primarily to extend SERVFAIL to provide additional information about the cause of DNS and DNSSEC failures, the Extended DNS Errors option defined in this document allows all response types to contain extended error information.  Extended DNS Error information does not change the processing of RCODEs.</t>
+      <t>This document defines an extensible method to return additional information about the cause of DNS errors. Though created primarily to extend SERVFAIL to provide additional information about the cause of DNS and DNSSEC failures, the Extended DNS Errors option defined in this document allows all response types to contain extended error information. Extended DNS Error information does not change the processing of RCODEs.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8914"/>

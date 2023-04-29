@@ -16,7 +16,7 @@
     <date year="2010" month="June"/>
     <workgroup>sip</workgroup>
     <abstract>
-      <t>This document enables a pair of communicating proxies to reuse a congestion-controlled connection between themselves for sending requests in the forwards and backwards direction.  Because the connection is essentially aliased for requests going in the backwards direction, reuse is predicated upon both the communicating endpoints authenticating themselves using X.509 certificates through Transport Layer Security (TLS).  For this reason, we only consider connection reuse for TLS over TCP and TLS over Stream Control Transmission Protocol (SCTP).  This document also provides guidelines on connection reuse and virtual SIP servers and the interaction of connection reuse and DNS SRV lookups in SIP. [STANDARDS-TRACK]</t>
+      <t>This document enables a pair of communicating proxies to reuse a congestion-controlled connection between themselves for sending requests in the forwards and backwards direction. Because the connection is essentially aliased for requests going in the backwards direction, reuse is predicated upon both the communicating endpoints authenticating themselves using X.509 certificates through Transport Layer Security (TLS). For this reason, we only consider connection reuse for TLS over TCP and TLS over Stream Control Transmission Protocol (SCTP). This document also provides guidelines on connection reuse and virtual SIP servers and the interaction of connection reuse and DNS SRV lookups in SIP. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC5923"/>

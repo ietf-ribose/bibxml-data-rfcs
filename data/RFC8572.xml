@@ -16,7 +16,7 @@
     <date year="2019" month="April"/>
     <workgroup>netconf</workgroup>
     <abstract>
-      <t>This document presents a technique to securely provision a networking device when it is booting in a factory-default state.  Variations in the solution enable it to be used on both public and private networks.  The provisioning steps are able to update the boot image, commit an initial configuration, and execute arbitrary scripts to address auxiliary needs.  The updated device is subsequently able to establish secure connections with other systems.  For instance, a device may establish NETCONF (RFC 6241) and/or RESTCONF (RFC 8040) connections with deployment-specific network management systems.</t>
+      <t>This document presents a technique to securely provision a networking device when it is booting in a factory-default state. Variations in the solution enable it to be used on both public and private networks. The provisioning steps are able to update the boot image, commit an initial configuration, and execute arbitrary scripts to address auxiliary needs. The updated device is subsequently able to establish secure connections with other systems. For instance, a device may establish NETCONF (RFC 6241) and/or RESTCONF (RFC 8040) connections with deployment-specific network management systems.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8572"/>

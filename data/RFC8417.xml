@@ -19,7 +19,7 @@
     <date year="2018" month="July"/>
     <workgroup>secevent</workgroup>
     <abstract>
-      <t>This specification defines the Security Event Token (SET) data structure.  A SET describes statements of fact from the perspective of an issuer about a subject.  These statements of fact represent an event that occurred directly to or about a security subject, for example, a statement about the issuance or revocation of a token on behalf of a subject.  This specification is intended to enable representing security- and identity-related events.  A SET is a JSON Web Token (JWT), which can be optionally signed and/or encrypted.  SETs can be distributed via protocols such as HTTP.</t>
+      <t>This specification defines the Security Event Token (SET) data structure. A SET describes statements of fact from the perspective of an issuer about a subject. These statements of fact represent an event that occurred directly to or about a security subject, for example, a statement about the issuance or revocation of a token on behalf of a subject. This specification is intended to enable representing security- and identity-related events. A SET is a JSON Web Token (JWT), which can be optionally signed and/or encrypted. SETs can be distributed via protocols such as HTTP.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC8417"/>

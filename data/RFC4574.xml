@@ -13,7 +13,7 @@
     <date year="2006" month="August"/>
     <workgroup>mmusic</workgroup>
     <abstract>
-      <t>This document defines a new Session Description Protocol (SDP) media-level attribute: "label".  The "label" attribute carries a pointer to a media stream in the context of an arbitrary network application that uses SDP.  The sender of the SDP document can attach the "label" attribute to a particular media stream or streams.  The application can then use the provided pointer to refer to each particular media stream in its context. [STANDARDS-TRACK]</t>
+      <t>This document defines a new Session Description Protocol (SDP) media-level attribute: "label". The "label" attribute carries a pointer to a media stream in the context of an arbitrary network application that uses SDP. The sender of the SDP document can attach the "label" attribute to a particular media stream or streams. The application can then use the provided pointer to refer to each particular media stream in its context. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC4574"/>

@@ -13,7 +13,7 @@
     <date year="2005" month="January"/>
     <workgroup>mpls</workgroup>
     <abstract>
-      <t>Proper functioning of RFC 1191 path Maximum Transmission Unit (MTU) discovery requires that IP routers have knowledge of the MTU for each link to which they are connected.  As currently specified, the Label Distribution Protocol (LDP) does not have the ability to signal the MTU for a Label Switched Path (LSP) to the ingress Label Switching Router (LSR).  In the absence of this functionality, the MTU for each LSP must be statically configured by network operators or by equivalent off-line mechanisms.  This document specifies experimental extensions to LDP in support of LSP MTU discovery.  This memo defines an Experimental Protocol for the Internet community.</t>
+      <t>Proper functioning of RFC 1191 path Maximum Transmission Unit (MTU) discovery requires that IP routers have knowledge of the MTU for each link to which they are connected. As currently specified, the Label Distribution Protocol (LDP) does not have the ability to signal the MTU for a Label Switched Path (LSP) to the ingress Label Switching Router (LSR). In the absence of this functionality, the MTU for each LSP must be statically configured by network operators or by equivalent off-line mechanisms. This document specifies experimental extensions to LDP in support of LSP MTU discovery. This memo defines an Experimental Protocol for the Internet community.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC3988"/>

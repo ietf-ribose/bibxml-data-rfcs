@@ -10,7 +10,7 @@
     <date year="2022" month="June"/>
     <workgroup>httpbis</workgroup>
     <abstract>
-      <t>This document defines a new HTTP header field named "Expect-CT", which allows web host operators to instruct user agents (UAs) to expect valid Signed Certificate Timestamps (SCTs) to be served on connections to these hosts.  Expect-CT allows web host operators to discover misconfigurations in their Certificate Transparency (CT) deployments.  Further, web host operators can use Expect-CT to ensure that if a UA that supports Expect-CT accepts a misissued certificate, that certificate will be discoverable in Certificate Transparency logs.</t>
+      <t>This document defines a new HTTP header field named "Expect-CT", which allows web host operators to instruct user agents (UAs) to expect valid Signed Certificate Timestamps (SCTs) to be served on connections to these hosts. Expect-CT allows web host operators to discover misconfigurations in their Certificate Transparency (CT) deployments. Further, web host operators can use Expect-CT to ensure that if a UA that supports Expect-CT accepts a misissued certificate, that certificate will be discoverable in Certificate Transparency logs.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC9163"/>

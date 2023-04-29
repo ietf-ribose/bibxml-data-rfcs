@@ -16,7 +16,7 @@
     <date year="2015" month="June"/>
     <workgroup>mpls</workgroup>
     <abstract>
-      <t>This document defines a means of remotely initiating Multiprotocol Label Switched Protocol (MPLS) Pings on Label Switched Paths.  An MPLS Proxy Ping Request is sent to any Label Switching Router along a Label Switched Path.  The primary motivations for this facility are first to limit the number of messages and related processing when using LSP Ping in large Point-to-Multipoint LSPs, and second to enable tracing from leaf to leaf (or root).</t>
+      <t>This document defines a means of remotely initiating Multiprotocol Label Switched Protocol (MPLS) Pings on Label Switched Paths. An MPLS Proxy Ping Request is sent to any Label Switching Router along a Label Switched Path. The primary motivations for this facility are first to limit the number of messages and related processing when using LSP Ping in large Point-to-Multipoint LSPs, and second to enable tracing from leaf to leaf (or root).</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC7555"/>

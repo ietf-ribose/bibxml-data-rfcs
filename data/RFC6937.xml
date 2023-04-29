@@ -16,7 +16,7 @@
     <date year="2013" month="May"/>
     <workgroup>tcpm</workgroup>
     <abstract>
-      <t>This document describes an experimental Proportional Rate Reduction (PRR) algorithm as an alternative to the widely deployed Fast Recovery and Rate-Halving algorithms.  These algorithms determine the amount of data sent by TCP during loss recovery.  PRR minimizes excess window adjustments, and the actual window size at the end of recovery will be as close as possible to the ssthresh, as determined by the congestion control algorithm.</t>
+      <t>This document describes an experimental Proportional Rate Reduction (PRR) algorithm as an alternative to the widely deployed Fast Recovery and Rate-Halving algorithms. These algorithms determine the amount of data sent by TCP during loss recovery. PRR minimizes excess window adjustments, and the actual window size at the end of recovery will be as close as possible to the ssthresh, as determined by the congestion control algorithm.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC6937"/>
