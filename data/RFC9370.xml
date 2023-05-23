@@ -1,0 +1,39 @@
+<reference anchor="RFC.9370" target="https://www.rfc-editor.org/info/rfc9370">
+  <front>
+    <title>Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <author fullname="CJ. Tjhai" initials="CJ." surname="Tjhai">
+      <organization/>
+    </author>
+    <author fullname="M. Tomlinson" initials="M." surname="Tomlinson">
+      <organization/>
+    </author>
+    <author fullname="G. Bartlett" initials="G." surname="Bartlett">
+      <organization/>
+    </author>
+    <author fullname="S. Fluhrer" initials="S." surname="Fluhrer">
+      <organization/>
+    </author>
+    <author fullname="D. Van Geest" initials="D." surname="Van Geest">
+      <organization/>
+    </author>
+    <author fullname="O. Garcia-Morchon" initials="O." surname="Garcia-Morchon">
+      <organization/>
+    </author>
+    <author fullname="V. Smyslov" initials="V." surname="Smyslov">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="May"/>
+    <workgroup>ipsecme</workgroup>
+    <abstract>
+      <t>This document describes how to extend the Internet Key Exchange Protocol Version 2 (IKEv2) to allow multiple key exchanges to take place while computing a shared secret during a Security Association (SA) setup.</t>
+      <t>This document utilizes the IKE_INTERMEDIATE exchange, where multiple key exchanges are performed when an IKE SA is being established. It also introduces a new IKEv2 exchange, IKE_FOLLOWUP_KE, which is used for the same purpose when the IKE SA is being rekeyed or is creating additional Child SAs.</t>
+      <t>This document updates RFC 7296 by renaming a Transform Type 4 from "Diffie-Hellman Group (D-H)" to "Key Exchange Method (KE)" and renaming a field in the Key Exchange Payload from "Diffie-Hellman Group Num" to "Key Exchange Method". It also renames an IANA registry for this Transform Type from "Transform Type 4 - Diffie- Hellman Group Transform IDs" to "Transform Type 4 - Key Exchange Method Transform IDs". These changes generalize key exchange algorithms that can be used in IKEv2.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9370"/>
+  <seriesInfo name="IETF"/>
+  <seriesInfo name="RFC" value="9370"/>
+</reference>
