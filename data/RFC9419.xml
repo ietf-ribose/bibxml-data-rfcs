@@ -1,0 +1,27 @@
+<reference anchor="RFC.9419" target="https://www.rfc-editor.org/info/rfc9419">
+  <front>
+    <title>Considerations on Application - Network Collaboration Using Path Signals</title>
+    <author fullname="J. Arkko" initials="J." surname="Arkko">
+      <organization/>
+    </author>
+    <author fullname="T. Hardie" initials="T." surname="Hardie">
+      <organization/>
+    </author>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author fullname="M. Kühlewind" initials="M." surname="Kühlewind">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <abstract>
+      <t>This document discusses principles for designing mechanisms that use or provide path signals and calls for standards action in specific valuable cases. RFC 8558 describes path signals as messages to or from on-path elements and points out that visible information will be used whether or not it is intended as a signal. The principles in this document are intended as guidance for the design of explicit path signals, which are encouraged to be authenticated and include a minimal set of parties to minimize information sharing. These principles can be achieved through mechanisms like encryption of information and establishing trust relationships between entities on a path.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9419"/>
+  <seriesInfo name="RFC" value="9419"/>
+  <seriesInfo name="IAB"/>
+</reference>
