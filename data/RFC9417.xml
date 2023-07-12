@@ -1,0 +1,31 @@
+<reference anchor="RFC.9417" target="https://www.rfc-editor.org/info/rfc9417">
+  <front>
+    <title>Service Assurance for Intent-Based Networking Architecture</title>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="J. Quilbeuf" initials="J." surname="Quilbeuf">
+      <organization/>
+    </author>
+    <author fullname="D. Lopez" initials="D." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="D. Voyer" initials="D." surname="Voyer">
+      <organization/>
+    </author>
+    <author fullname="T. Arumugam" initials="T." surname="Arumugam">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>This document describes an architecture that provides some assurance that service instances are running as expected. As services rely upon multiple subservices provided by a variety of elements, including the underlying network devices and functions, getting the assurance of a healthy service is only possible with a holistic view of all involved elements. This architecture not only helps to correlate the service degradation with symptoms of a specific network component but, it also lists the services impacted by the failure or degradation of a specific network component.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9417"/>
+  <seriesInfo name="RFC" value="9417"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC.9431" target="https://www.rfc-editor.org/info/rfc9431">
+  <front>
+    <title>Message Queuing Telemetry Transport (MQTT) and Transport Layer Security (TLS) Profile of Authentication and Authorization for Constrained Environments (ACE) Framework</title>
+    <author fullname="C. Sengul" initials="C." surname="Sengul">
+      <organization/>
+    </author>
+    <author fullname="A. Kirby" initials="A." surname="Kirby">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>ace</workgroup>
+    <abstract>
+      <t>This document specifies a profile for the Authentication and Authorization for Constrained Environments (ACE) framework to enable authorization in a publish-subscribe messaging system based on Message Queuing Telemetry Transport (MQTT). Proof-of-Possession keys, bound to OAuth 2.0 access tokens, are used to authenticate and authorize MQTT Clients. The protocol relies on TLS for confidentiality and MQTT server (Broker) authentication.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9431"/>
+  <seriesInfo name="RFC" value="9431"/>
+  <seriesInfo name="IETF"/>
+</reference>
