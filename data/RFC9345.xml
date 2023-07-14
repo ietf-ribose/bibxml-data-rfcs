@@ -1,0 +1,28 @@
+<reference anchor="RFC.9345" target="https://www.rfc-editor.org/info/rfc9345">
+  <front>
+    <title>Delegated Credentials for TLS and DTLS</title>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="S. Iyengar" initials="S." surname="Iyengar">
+      <organization/>
+    </author>
+    <author fullname="N. Sullivan" initials="N." surname="Sullivan">
+      <organization/>
+    </author>
+    <author fullname="E. Rescorla" initials="E." surname="Rescorla">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>tls</workgroup>
+    <abstract>
+      <t>The organizational separation between operators of TLS and DTLS endpoints and the certification authority can create limitations. For example, the lifetime of certificates, how they may be used, and the algorithms they support are ultimately determined by the Certification Authority (CA). This document describes a mechanism to overcome some of these limitations by enabling operators to delegate their own credentials for use in TLS and DTLS without breaking compatibility with peers that do not support this specification.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9345"/>
+  <seriesInfo name="RFC" value="9345"/>
+  <seriesInfo name="IETF"/>
+</reference>
