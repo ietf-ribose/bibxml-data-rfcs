@@ -1,0 +1,34 @@
+<reference anchor="RFC.9409" target="https://www.rfc-editor.org/info/rfc9409">
+  <front>
+    <title>The 'sip-trunking-capability' Link Relation Type</title>
+    <author fullname="K. Inamdar" initials="K." surname="Inamdar">
+      <organization/>
+    </author>
+    <author fullname="S. Narayanan" initials="S." surname="Narayanan">
+      <organization/>
+    </author>
+    <author fullname="D. Engi" initials="D." surname="Engi">
+      <organization/>
+    </author>
+    <author fullname="G. Salgueiro" initials="G." surname="Salgueiro">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>asap</workgroup>
+    <abstract>
+      <t>This Informational document defines the 'sip-trunking-capability'
+link relation type that may be used by an enterprise telephony
+Session Initiation Protocol (SIP) network to retrieve a SIP trunking
+capability set document, which contains the capabilities and
+configuration requirements of an Internet Telephony Service Provider
+(ITSP). These technical requirements allow for seamless peering
+between SIP-based enterprise telephony networks and the ITSP.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9409"/>
+  <seriesInfo name="RFC" value="9409"/>
+  <seriesInfo name="IETF"/>
+</reference>
