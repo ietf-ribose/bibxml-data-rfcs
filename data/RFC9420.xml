@@ -1,0 +1,34 @@
+<reference anchor="RFC.9420" target="https://www.rfc-editor.org/info/rfc9420">
+  <front>
+    <title>The Messaging Layer Security (MLS) Protocol</title>
+    <author fullname="R. Barnes" initials="R." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="B. Beurdouche" initials="B." surname="Beurdouche">
+      <organization/>
+    </author>
+    <author fullname="R. Robert" initials="R." surname="Robert">
+      <organization/>
+    </author>
+    <author fullname="J. Millican" initials="J." surname="Millican">
+      <organization/>
+    </author>
+    <author fullname="E. Omara" initials="E." surname="Omara">
+      <organization/>
+    </author>
+    <author fullname="K. Cohn-Gordon" initials="K." surname="Cohn-Gordon">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>mls</workgroup>
+    <abstract>
+      <t>Messaging applications are increasingly making use of end-to-end security mechanisms to ensure that messages are only accessible to the communicating endpoints, and not to any servers involved in delivering messages. Establishing keys to provide such protections is challenging for group chat settings, in which more than two clients need to agree on a key but may not be online at the same time. In this document, we specify a key establishment protocol that provides efficient asynchronous group key establishment with forward secrecy (FS) and post-compromise security (PCS) for groups in size ranging from two to thousands.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9420"/>
+  <seriesInfo name="RFC" value="9420"/>
+  <seriesInfo name="IETF"/>
+</reference>
