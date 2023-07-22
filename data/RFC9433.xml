@@ -1,0 +1,32 @@
+<reference anchor="RFC.9433" target="https://www.rfc-editor.org/info/rfc9433">
+  <front>
+    <title>Segment Routing over IPv6 for the Mobile User Plane</title>
+    <author role="editor" fullname="S. Matsushima" initials="S." surname="Matsushima">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="M. Kohno" initials="M." surname="Kohno">
+      <organization/>
+    </author>
+    <author role="editor" fullname="P. Camarillo" initials="P." surname="Camarillo">
+      <organization/>
+    </author>
+    <author fullname="D. Voyer" initials="D." surname="Voyer">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>dmm</workgroup>
+    <abstract>
+      <t>This document discusses the applicability of Segment Routing over IPv6 (SRv6) to the user plane of mobile networks. The network programming nature of SRv6 accomplishes mobile user-plane functions in a simple manner. The statelessness of SRv6 and its ability to control both service layer path and underlying transport can be beneficial to the mobile user plane, providing flexibility, end-to-end network slicing, and Service Level Agreement (SLA) control for various applications.</t>
+      <t>This document discusses how SRv6 could be used as the user plane of mobile networks. This document also specifies the SRv6 Endpoint Behaviors required for mobility use cases.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9433"/>
+  <seriesInfo name="RFC" value="9433"/>
+  <seriesInfo name="IETF"/>
+</reference>

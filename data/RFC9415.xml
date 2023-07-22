@@ -1,0 +1,21 @@
+<reference anchor="RFC.9415" target="https://www.rfc-editor.org/info/rfc9415">
+  <front>
+    <title>On the Generation of Transient Numeric Identifiers</title>
+    <author fullname="F. Gont" initials="F." surname="Gont">
+      <organization/>
+    </author>
+    <author fullname="I. Arce" initials="I." surname="Arce">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <abstract>
+      <t>This document performs an analysis of the security and privacy implications of different types of "transient numeric identifiers" used in IETF protocols and tries to categorize them based on their interoperability requirements and their associated failure severity when such requirements are not met. Subsequently, it provides advice on possible algorithms that could be employed to satisfy the interoperability requirements of each identifier category while minimizing the negative security and privacy implications, thus providing guidance to protocol designers and protocol implementers. Finally, it describes a number of algorithms that have been employed in real implementations to generate transient numeric identifiers and analyzes their security and privacy properties. This document is a product of the Privacy Enhancements and Assessments Research Group (PEARG) in the IRTF.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9415"/>
+  <seriesInfo name="RFC" value="9415"/>
+  <seriesInfo name="IRTF"/>
+</reference>

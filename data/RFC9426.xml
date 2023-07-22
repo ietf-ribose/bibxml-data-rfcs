@@ -1,0 +1,27 @@
+<reference anchor="RFC.9426" target="https://www.rfc-editor.org/info/rfc9426">
+  <front>
+    <title>BATched Sparse (BATS) Coding Scheme for Multi-hop Data Transport</title>
+    <author fullname="S. Yang" initials="S." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="X. Huang" initials="X." surname="Huang">
+      <organization/>
+    </author>
+    <author fullname="R. Yeung" initials="R." surname="Yeung">
+      <organization/>
+    </author>
+    <author fullname="J. Zao" initials="J." surname="Zao">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <abstract>
+      <t>In general, linear network coding can improve the network communication performance in terms of throughput, latency, and reliability. BATched Sparse (BATS) code is a class of efficient linear network coding scheme with a matrix generalization of fountain codes as the outer code and batch-based linear network coding as the inner code. This document describes a baseline BATS coding scheme for communication through multi-hop networks and discusses the related research issues towards a more sophisticated BATS coding scheme. This document is a product of the Coding for Efficient Network Communications Research Group (NWCRG).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9426"/>
+  <seriesInfo name="RFC" value="9426"/>
+  <seriesInfo name="IRTF"/>
+</reference>

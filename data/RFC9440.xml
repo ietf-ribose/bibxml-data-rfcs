@@ -1,0 +1,22 @@
+<reference anchor="RFC.9440" target="https://www.rfc-editor.org/info/rfc9440">
+  <front>
+    <title>Client-Cert HTTP Header Field</title>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="M. Bishop" initials="M." surname="Bishop">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="July"/>
+    <workgroup>httpbis</workgroup>
+    <abstract>
+      <t>This document describes HTTP extension header fields that allow a TLS terminating reverse proxy (TTRP) to convey the client certificate information of a mutually authenticated TLS connection to the origin server in a common and predictable manner.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9440"/>
+  <seriesInfo name="RFC" value="9440"/>
+  <seriesInfo name="IETF"/>
+</reference>
