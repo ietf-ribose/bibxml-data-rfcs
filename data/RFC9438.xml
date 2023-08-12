@@ -1,0 +1,32 @@
+<reference anchor="RFC.9438" target="https://www.rfc-editor.org/info/rfc9438">
+  <front>
+    <title>CUBIC for Fast and Long-Distance Networks</title>
+    <author fullname="L. Xu" initials="L." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="S. Ha" initials="S." surname="Ha">
+      <organization/>
+    </author>
+    <author fullname="I. Rhee" initials="I." surname="Rhee">
+      <organization/>
+    </author>
+    <author fullname="V. Goel" initials="V." surname="Goel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="L. Eggert" initials="L." surname="Eggert">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="August"/>
+    <workgroup>tcpm</workgroup>
+    <abstract>
+      <t>CUBIC is a standard TCP congestion control algorithm that uses a cubic function instead of a linear congestion window increase function to improve scalability and stability over fast and long-distance networks. CUBIC has been adopted as the default TCP congestion control algorithm by the Linux, Windows, and Apple stacks.</t>
+      <t>This document updates the specification of CUBIC to include algorithmic improvements based on these implementations and recent academic work. Based on the extensive deployment experience with CUBIC, this document also moves the specification to the Standards Track and obsoletes RFC 8312. This document also updates RFC 5681, to allow for CUBIC's occasionally more aggressive sending behavior.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9438"/>
+  <seriesInfo name="RFC" value="9438"/>
+  <seriesInfo name="IETF"/>
+</reference>

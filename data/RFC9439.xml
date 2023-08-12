@@ -1,0 +1,50 @@
+<reference anchor="RFC.9439" target="https://www.rfc-editor.org/info/rfc9439">
+  <front>
+    <title>Application-Layer Traffic Optimization (ALTO) Performance Cost Metrics</title>
+    <author fullname="Q. Wu" initials="Q." surname="Wu">
+      <organization/>
+    </author>
+    <author fullname="Y. Yang" initials="Y." surname="Yang">
+      <organization/>
+    </author>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="D. Dhody" initials="D." surname="Dhody">
+      <organization/>
+    </author>
+    <author fullname="S. Randriamasy" initials="S." surname="Randriamasy">
+      <organization/>
+    </author>
+    <author fullname="L. Contreras" initials="L." surname="Contreras">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="August"/>
+    <workgroup>alto</workgroup>
+    <abstract>
+      <t>The cost metric is a basic concept in Application-Layer Traffic
+Optimization (ALTO), and different applications may use different
+types of cost metrics. Since the ALTO base protocol (RFC 7285)
+defines only a single cost metric (namely, the generic "routingcost"
+metric), if an application wants to issue a cost map or an endpoint
+cost request in order to identify a resource provider that offers
+better performance metrics (e.g., lower delay or loss rate), the base
+protocol does not define the cost metric to be used.</t>
+      <t>This document addresses this issue by extending the specification to
+provide a variety of network performance metrics, including network
+delay, delay variation (a.k.a. jitter), packet loss rate, hop count,
+and bandwidth.</t>
+      <t>There are multiple sources (e.g., estimations based on measurements
+or a Service Level Agreement) available for deriving a performance
+metric. This document introduces an additional "cost-context" field
+to the ALTO "cost-type" field to convey the source of a performance
+metric.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9439"/>
+  <seriesInfo name="RFC" value="9439"/>
+  <seriesInfo name="IETF"/>
+</reference>
