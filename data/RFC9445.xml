@@ -1,0 +1,26 @@
+<reference anchor="RFC.9445" target="https://www.rfc-editor.org/info/rfc9445">
+  <front>
+    <title>RADIUS Extensions for DHCP-Configured Services</title>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="A. DeKok" initials="A." surname="DeKok">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="August"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>This document specifies two new Remote Authentication Dial-In User Service (RADIUS) attributes that carry DHCP options. The specification is generic and can be applicable to any service that relies upon DHCP. Both DHCPv4- and DHCPv6-configured services are covered.</t>
+      <t>Also, this document updates RFC 4014 by relaxing a constraint on permitted RADIUS attributes in the RADIUS Attributes DHCP suboption.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9445"/>
+  <seriesInfo name="RFC" value="9445"/>
+  <seriesInfo name="IETF"/>
+</reference>

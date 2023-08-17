@@ -1,0 +1,21 @@
+<reference anchor="RFC.9404" target="https://www.rfc-editor.org/info/rfc9404">
+  <front>
+    <title>JSON Meta Application Protocol (JMAP) Blob Management Extension</title>
+    <author role="editor" fullname="B. Gondwana" initials="B." surname="Gondwana">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="August"/>
+    <workgroup>jmap</workgroup>
+    <abstract>
+      <t>The JSON Meta Application Protocol (JMAP) base protocol (RFC 8620) provides the ability to upload and download arbitrary binary data via HTTP POST and GET on a defined endpoint. This binary data is called a "blob".</t>
+      <t>This extension adds additional ways to create and access blobs by making inline method calls within a standard JMAP request.</t>
+      <t>This extension also adds a reverse lookup mechanism to discover where blobs are referenced within other data types.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9404"/>
+  <seriesInfo name="RFC" value="9404"/>
+  <seriesInfo name="IETF"/>
+</reference>
