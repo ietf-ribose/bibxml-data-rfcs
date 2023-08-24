@@ -1,0 +1,28 @@
+<reference anchor="RFC.9381" target="https://www.rfc-editor.org/info/rfc9381">
+  <front>
+    <title>Verifiable Random Functions (VRFs)</title>
+    <author fullname="S. Goldberg" initials="S." surname="Goldberg">
+      <organization/>
+    </author>
+    <author fullname="L. Reyzin" initials="L." surname="Reyzin">
+      <organization/>
+    </author>
+    <author fullname="D. Papadopoulos" initials="D." surname="Papadopoulos">
+      <organization/>
+    </author>
+    <author fullname="J. Včelák" initials="J." surname="Včelák">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="August"/>
+    <abstract>
+      <t>A Verifiable Random Function (VRF) is the public key version of a keyed cryptographic hash. Only the holder of the secret key can compute the hash, but anyone with the public key can verify the correctness of the hash. VRFs are useful for preventing enumeration of hash-based data structures. This document specifies VRF constructions based on RSA and elliptic curves that are secure in the cryptographic random oracle model.</t>
+      <t>This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9381"/>
+  <seriesInfo name="RFC" value="9381"/>
+  <seriesInfo name="IRTF"/>
+</reference>
