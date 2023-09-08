@@ -1,0 +1,34 @@
+<reference anchor="RFC.9449" target="https://www.rfc-editor.org/info/rfc9449">
+  <front>
+    <title>OAuth 2.0 Demonstrating Proof of Possession (DPoP)</title>
+    <author fullname="D. Fett" initials="D." surname="Fett">
+      <organization/>
+    </author>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author fullname="J. Bradley" initials="J." surname="Bradley">
+      <organization/>
+    </author>
+    <author fullname="T. Lodderstedt" initials="T." surname="Lodderstedt">
+      <organization/>
+    </author>
+    <author fullname="M. Jones" initials="M." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="D. Waite" initials="D." surname="Waite">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="September"/>
+    <workgroup>oauth</workgroup>
+    <abstract>
+      <t>This document describes a mechanism for sender-constraining OAuth 2.0 tokens via a proof-of-possession mechanism on the application level. This mechanism allows for the detection of replay attacks with access and refresh tokens.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9449"/>
+  <seriesInfo name="RFC" value="9449"/>
+  <seriesInfo name="IETF"/>
+</reference>
