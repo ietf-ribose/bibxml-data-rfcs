@@ -1,0 +1,22 @@
+<reference anchor="RFC.9470" target="https://www.rfc-editor.org/info/rfc9470">
+  <front>
+    <title>OAuth 2.0 Step Up Authentication Challenge Protocol</title>
+    <author fullname="V. Bertocci" initials="V." surname="Bertocci">
+      <organization/>
+    </author>
+    <author fullname="B. Campbell" initials="B." surname="Campbell">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="September"/>
+    <workgroup>oauth</workgroup>
+    <abstract>
+      <t>It is not uncommon for resource servers to require different authentication strengths or recentness according to the characteristics of a request. This document introduces a mechanism that resource servers can use to signal to a client that the authentication event associated with the access token of the current request does not meet its authentication requirements and, further, how to meet them. This document also codifies a mechanism for a client to request that an authorization server achieve a specific authentication strength or recentness when processing an authorization request.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9470"/>
+  <seriesInfo name="RFC" value="9470"/>
+  <seriesInfo name="IETF"/>
+</reference>
