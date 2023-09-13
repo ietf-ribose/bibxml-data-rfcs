@@ -1,0 +1,28 @@
+<reference anchor="RFC.9447" target="https://www.rfc-editor.org/info/rfc9447">
+  <front>
+    <title>Automated Certificate Management Environment (ACME) Challenges Using an Authority Token</title>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="M. Barnes" initials="M." surname="Barnes">
+      <organization/>
+    </author>
+    <author fullname="D. Hancock" initials="D." surname="Hancock">
+      <organization/>
+    </author>
+    <author fullname="C. Wendt" initials="C." surname="Wendt">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="September"/>
+    <workgroup>acme</workgroup>
+    <abstract>
+      <t>Some proposed extensions to the Automated Certificate Management Environment (ACME) rely on proving eligibility for certificates through consulting an external authority that issues a token according to a particular policy. This document specifies a generic Authority Token Challenge for ACME that supports subtype claims for different identifiers or namespaces that can be defined separately for specific applications.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9447"/>
+  <seriesInfo name="RFC" value="9447"/>
+  <seriesInfo name="IETF"/>
+</reference>
