@@ -1,0 +1,22 @@
+<reference anchor="RFC.9459" target="https://www.rfc-editor.org/info/rfc9459">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE): AES-CTR and AES-CBC</title>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="September"/>
+    <workgroup>cose</workgroup>
+    <abstract>
+      <t>The Concise Binary Object Representation (CBOR) data format is designed for small code size and small message size. CBOR Object Signing and Encryption (COSE) is specified in RFC 9052 to provide basic security services using the CBOR data format. This document specifies the conventions for using AES-CTR and AES-CBC as content encryption algorithms with COSE.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9459"/>
+  <seriesInfo name="RFC" value="9459"/>
+  <seriesInfo name="IETF"/>
+</reference>
