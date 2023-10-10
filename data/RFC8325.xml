@@ -1,0 +1,25 @@
+<reference anchor="RFC.8325" target="https://www.rfc-editor.org/info/rfc8325">
+  <front>
+    <title>Mapping Diffserv to IEEE 802.11</title>
+    <author fullname="T. Szigeti" initials="T." surname="Szigeti">
+      <organization/>
+    </author>
+    <author fullname="J. Henry" initials="J." surname="Henry">
+      <organization/>
+    </author>
+    <author fullname="F. Baker" initials="F." surname="Baker">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2018" month="February"/>
+    <workgroup>tsvwg</workgroup>
+    <abstract>
+      <t>As Internet traffic is increasingly sourced from and destined to wireless endpoints, it is crucial that Quality of Service (QoS) be aligned between wired and wireless networks; however, this is not always the case by default. This document specifies a set of mappings from Differentiated Services Code Point (DSCP) to IEEE 802.11 User Priority (UP) to reconcile the marking recommendations offered by the IETF and the IEEE so as to maintain consistent QoS treatment between wired and IEEE 802.11 wireless networks.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC8325"/>
+  <seriesInfo name="RFC" value="8325"/>
+  <seriesInfo name="IETF"/>
+</reference>
