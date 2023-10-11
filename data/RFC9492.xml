@@ -1,0 +1,32 @@
+<reference anchor="RFC.9492" target="https://www.rfc-editor.org/info/rfc9492">
+  <front>
+    <title>OSPF Application-Specific Link Attributes</title>
+    <author role="editor" fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>Existing traffic-engineering-related link attribute advertisements have been defined and are used in RSVP-TE deployments. Since the original RSVP-TE use case was defined, additional applications such as Segment Routing (SR) Policy and Loop-Free Alternates (LFAs) that also make use of the link attribute advertisements have been defined. In cases where multiple applications wish to make use of these link attributes, the current advertisements do not support application-specific values for a given attribute, nor do they support indication of which applications are using the advertised value for a given link. This document introduces link attribute advertisements in OSPFv2 and OSPFv3 that address both of these shortcomings.</t>
+      <t>This document obsoletes RFC 8920.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9492"/>
+  <seriesInfo name="RFC" value="9492"/>
+  <seriesInfo name="IETF"/>
+</reference>

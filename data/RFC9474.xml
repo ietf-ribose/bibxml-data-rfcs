@@ -1,0 +1,25 @@
+<reference anchor="RFC.9474" target="https://www.rfc-editor.org/info/rfc9474">
+  <front>
+    <title>RSA Blind Signatures</title>
+    <author fullname="F. Denis" initials="F." surname="Denis">
+      <organization/>
+    </author>
+    <author fullname="F. Jacobs" initials="F." surname="Jacobs">
+      <organization/>
+    </author>
+    <author fullname="C. A. Wood" initials="C. A." surname="Wood">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <abstract>
+      <t>This document specifies an RSA-based blind signature protocol. RSA blind signatures were first introduced by Chaum for untraceable payments. A signature that is output from this protocol can be verified as an RSA-PSS signature.</t>
+      <t>This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9474"/>
+  <seriesInfo name="RFC" value="9474"/>
+  <seriesInfo name="IRTF"/>
+</reference>
