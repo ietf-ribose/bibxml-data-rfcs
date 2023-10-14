@@ -1,0 +1,19 @@
+<reference anchor="RFC.9495" target="https://www.rfc-editor.org/info/rfc9495">
+  <front>
+    <title>Certification Authority Authorization (CAA) Processing for Email Addresses</title>
+    <author fullname="C. Bonnell" initials="C." surname="Bonnell">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>The Certification Authority Authorization (CAA) DNS resource record (RR) provides a mechanism for domains to express the allowed set of Certification Authorities that are authorized to issue certificates for the domain. RFC 8659 contains the core CAA specification, where Property Tags that restrict the issuance of certificates that certify domain names are defined. This specification defines a Property Tag that grants authorization to Certification Authorities to issue certificates that contain the key purpose in the extension and at least one value or value of type that includes the domain name in the extension.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9495"/>
+  <seriesInfo name="RFC" value="9495"/>
+  <seriesInfo name="IETF"/>
+</reference>

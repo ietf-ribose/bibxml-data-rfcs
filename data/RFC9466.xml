@@ -1,0 +1,29 @@
+<reference anchor="RFC.9466" target="https://www.rfc-editor.org/info/rfc9466">
+  <front>
+    <title>PIM Assert Message Packing</title>
+    <author role="editor" fullname="Y. Liu" initials="Y." surname="Liu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. Eckert" initials="T." surname="Eckert">
+      <organization/>
+    </author>
+    <author fullname="M. McBride" initials="M." surname="McBride">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <workgroup>pim</workgroup>
+    <abstract>
+      <t>When PIM Sparse Mode (PIM-SM), including PIM Source-Specific Multicast (PIM-SSM), is used in shared LAN networks, there is often more than one upstream router. This can lead to duplicate IP multicast packets being forwarded by these PIM routers. PIM Assert messages are used to elect a single forwarder for each IP multicast traffic flow between these routers.</t>
+      <t>This document defines a mechanism to send and receive information for multiple IP multicast flows in a single PackedAssert message. This optimization reduces the total number of PIM packets on the LAN and can therefore speed up the election of the single forwarder, reducing the number of duplicate IP multicast packets incurred.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9466"/>
+  <seriesInfo name="RFC" value="9466"/>
+  <seriesInfo name="IETF"/>
+</reference>
