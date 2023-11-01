@@ -1,0 +1,40 @@
+<reference anchor="RFC.9506" target="https://www.rfc-editor.org/info/rfc9506">
+  <front>
+    <title>Explicit Host-to-Network Flow Measurements Techniques</title>
+    <author fullname="M. Cociglio" initials="M." surname="Cociglio">
+      <organization/>
+    </author>
+    <author fullname="A. Ferrieux" initials="A." surname="Ferrieux">
+      <organization/>
+    </author>
+    <author fullname="G. Fioccola" initials="G." surname="Fioccola">
+      <organization/>
+    </author>
+    <author fullname="I. Lubashev" initials="I." surname="Lubashev">
+      <organization/>
+    </author>
+    <author fullname="F. Bulgarella" initials="F." surname="Bulgarella">
+      <organization/>
+    </author>
+    <author fullname="M. Nilo" initials="M." surname="Nilo">
+      <organization/>
+    </author>
+    <author fullname="I. Hamchaoui" initials="I." surname="Hamchaoui">
+      <organization/>
+    </author>
+    <author fullname="R. Sisto" initials="R." surname="Sisto">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <workgroup>ippm</workgroup>
+    <abstract>
+      <t>This document describes protocol-independent methods called Explicit Host-to-Network Flow Measurement Techniques that can be applicable to transport-layer protocols between the client and server. These methods employ just a few marking bits inside the header of each packet for performance measurements and require the client and server to collaborate. Both endpoints cooperate by marking packets and, possibly, mirroring the markings on the round-trip connection. The techniques are especially valuable when applied to protocols that encrypt transport headers since they enable loss and delay measurements by passive, on-path network devices. This document describes several methods that can be used separately or jointly depending of the availability of marking bits, desired measurements, and properties of the protocol to which the methods are applied.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9506"/>
+  <seriesInfo name="RFC" value="9506"/>
+  <seriesInfo name="IETF"/>
+</reference>

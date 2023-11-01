@@ -1,0 +1,31 @@
+<reference anchor="RFC.9503" target="https://www.rfc-editor.org/info/rfc9503">
+  <front>
+    <title>Simple Two-Way Active Measurement Protocol (STAMP) Extensions for Segment Routing Networks</title>
+    <author role="editor" fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="B. Janssens" initials="B." surname="Janssens">
+      <organization/>
+    </author>
+    <author fullname="R. Foote" initials="R." surname="Foote">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="October"/>
+    <workgroup>ippm</workgroup>
+    <abstract>
+      <t>Segment Routing (SR) leverages the source routing paradigm. SR is applicable to both Multiprotocol Label Switching (SR-MPLS) and IPv6 (SRv6) forwarding planes. This document specifies Simple Two-Way Active Measurement Protocol (STAMP) extensions (as described in RFC 8762) for SR networks, for both the SR-MPLS and SRv6 forwarding planes, by augmenting the optional extensions defined in RFC 8972.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9503"/>
+  <seriesInfo name="RFC" value="9503"/>
+  <seriesInfo name="IETF"/>
+</reference>
