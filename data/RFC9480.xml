@@ -1,0 +1,27 @@
+<reference anchor="RFC.9480" target="https://www.rfc-editor.org/info/rfc9480">
+  <front>
+    <title>Certificate Management Protocol (CMP) Updates</title>
+    <author fullname="H. Brockhaus" initials="H." surname="Brockhaus">
+      <organization/>
+    </author>
+    <author fullname="D. von Oheimb" initials="D." surname="von Oheimb">
+      <organization/>
+    </author>
+    <author fullname="J. Gray" initials="J." surname="Gray">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document contains a set of updates to the syntax of Certificate Management Protocol (CMP) version 2 and its HTTP transfer mechanism. This document updates RFCs 4210, 5912, and 6712.</t>
+      <t>The aspects of CMP updated in this document are using EnvelopedData instead of EncryptedValue, clarifying the handling of p10cr messages, improving the crypto agility, as well as adding new general message types, extended key usages to identify certificates for use with CMP, and well-known URI path segments.</t>
+      <t>CMP version 3 is introduced to enable signaling support of EnvelopedData instead of EncryptedValue and signal the use of an explicit hash AlgorithmIdentifier in certConf messages, as far as needed.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9480"/>
+  <seriesInfo name="RFC" value="9480"/>
+  <seriesInfo name="IETF"/>
+</reference>
