@@ -1,0 +1,28 @@
+<reference anchor="RFC.9464" target="https://www.rfc-editor.org/info/rfc9464">
+  <front>
+    <title>Internet Key Exchange Protocol Version 2 (IKEv2) Configuration for Encrypted DNS</title>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="V. Smyslov" initials="V." surname="Smyslov">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>ipsecme</workgroup>
+    <abstract>
+      <t>This document specifies new Internet Key Exchange Protocol Version 2 (IKEv2) Configuration Payload Attribute Types to assign DNS resolvers that support encrypted DNS protocols, such as DNS over HTTPS (DoH), DNS over TLS (DoT), and DNS over QUIC (DoQ).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9464"/>
+  <seriesInfo name="RFC" value="9464"/>
+  <seriesInfo name="IETF"/>
+</reference>
