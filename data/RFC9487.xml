@@ -1,0 +1,25 @@
+<reference anchor="RFC.9487" target="https://www.rfc-editor.org/info/rfc9487">
+  <front>
+    <title>Export of Segment Routing over IPv6 Information in IP Flow Information Export (IPFIX)</title>
+    <author fullname="T. Graf" initials="T." surname="Graf">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author fullname="P. Francois" initials="P." surname="Francois">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>This document introduces new IP Flow Information Export (IPFIX) Information Elements (IEs) to identify a set of information related to Segment Routing over IPv6 (SRv6) such as data contained in a Segment Routing Header (SRH), the SRv6 control plane, and the SRv6 Endpoint behavior that traffic is being forwarded with.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9487"/>
+  <seriesInfo name="RFC" value="9487"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC.9525" target="https://www.rfc-editor.org/info/rfc9525">
+  <front>
+    <title>Service Identity in TLS</title>
+    <author fullname="P. Saint-Andre" initials="P." surname="Saint-Andre">
+      <organization/>
+    </author>
+    <author fullname="R. Salz" initials="R." surname="Salz">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>uta</workgroup>
+    <abstract>
+      <t>Many application technologies enable secure communication between two entities by means of Transport Layer Security (TLS) with Internet Public Key Infrastructure using X.509 (PKIX) certificates. This document specifies procedures for representing and verifying the identity of application services in such interactions.</t>
+      <t>This document obsoletes RFC 6125.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9525"/>
+  <seriesInfo name="RFC" value="9525"/>
+  <seriesInfo name="IETF"/>
+</reference>
