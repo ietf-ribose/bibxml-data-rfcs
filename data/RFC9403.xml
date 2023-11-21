@@ -1,0 +1,23 @@
+<reference anchor="RFC.9403" target="https://www.rfc-editor.org/info/rfc9403">
+  <front>
+    <title>A YANG Data Model for RIB Extensions</title>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="Y. Qu" initials="Y." surname="Qu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>rtgwg</workgroup>
+    <abstract>
+      <t>A Routing Information Base (RIB) is a list of routes and their corresponding administrative data and operational state.</t>
+      <t>RFC 8349 defines the basic building blocks for the RIB data model, and this model augments it to support multiple next hops (aka paths) for each route as well as additional attributes.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9403"/>
+  <seriesInfo name="RFC" value="9403"/>
+  <seriesInfo name="IETF"/>
+</reference>

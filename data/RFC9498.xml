@@ -1,0 +1,26 @@
+<reference anchor="RFC.9498" target="https://www.rfc-editor.org/info/rfc9498">
+  <front>
+    <title>The GNU Name System</title>
+    <author fullname="M. Schanzenbach" initials="M." surname="Schanzenbach">
+      <organization/>
+    </author>
+    <author fullname="C. Grothoff" initials="C." surname="Grothoff">
+      <organization/>
+    </author>
+    <author fullname="B. Fix" initials="B." surname="Fix">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <abstract>
+      <t>This document provides the GNU Name System (GNS) technical specification. GNS is a decentralized and censorship-resistant domain name resolution protocol that provides a privacy-enhancing alternative to the Domain Name System (DNS) protocols.</t>
+      <t>This document defines the normative wire format of resource records, resolution processes, cryptographic routines, and security and privacy considerations for use by implementers.</t>
+      <t>This specification was developed outside the IETF and does not have IETF consensus. It is published here to inform readers about the function of GNS, guide future GNS implementations, and ensure interoperability among implementations (for example, pre-existing GNUnet implementations).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9498"/>
+  <seriesInfo name="RFC" value="9498"/>
+  <seriesInfo name="INDEPENDENT"/>
+</reference>
