@@ -1,0 +1,26 @@
+<reference anchor="RFC.9511" target="https://www.rfc-editor.org/info/rfc9511">
+  <front>
+    <title>Attribution of Internet Probes</title>
+    <author fullname="É. Vyncke" surname="É. Vyncke">
+      <organization/>
+    </author>
+    <author fullname="B. Donnet" initials="B." surname="Donnet">
+      <organization/>
+    </author>
+    <author fullname="J. Iurman" initials="J." surname="Iurman">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="November"/>
+    <workgroup>opsec</workgroup>
+    <abstract>
+      <t>Active measurements over the public Internet can target either collaborating parties or non-collaborating ones. Sometimes these measurements, also called "probes", are viewed as unwelcome or aggressive.</t>
+      <t>This document suggests some simple techniques for a source to identify its probes. This allows any party or organization to understand what an unsolicited probe packet is, what its purpose is, and, most importantly, who to contact. The technique relies on offline analysis of the probe; therefore, it does not require any change in the data or control plane. It has been designed mainly for layer 3 measurements.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9511"/>
+  <seriesInfo name="RFC" value="9511"/>
+  <seriesInfo name="IETF"/>
+</reference>
