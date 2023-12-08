@@ -1,0 +1,25 @@
+<reference anchor="RFC.9493" target="https://www.rfc-editor.org/info/rfc9493">
+  <front>
+    <title>Subject Identifiers for Security Event Tokens</title>
+    <author role="editor" fullname="A. Backman" initials="A." surname="Backman">
+      <organization/>
+    </author>
+    <author fullname="M. Scurtescu" initials="M." surname="Scurtescu">
+      <organization/>
+    </author>
+    <author fullname="P. Jain" initials="P." surname="Jain">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="December"/>
+    <workgroup>secevent</workgroup>
+    <abstract>
+      <t>Security events communicated within Security Event Tokens may support a variety of identifiers to identify subjects related to the event. This specification formalizes the notion of Subject Identifiers as structured information that describes a subject and named formats that define the syntax and semantics for encoding Subject Identifiers as JSON objects. It also establishes a registry for defining and allocating names for such formats as well as the JSON Web Token (JWT) "sub_id" Claim.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9493"/>
+  <seriesInfo name="RFC" value="9493"/>
+  <seriesInfo name="IETF"/>
+</reference>

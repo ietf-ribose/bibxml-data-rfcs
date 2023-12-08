@@ -1,0 +1,28 @@
+<reference anchor="RFC.9513" target="https://www.rfc-editor.org/info/rfc9513">
+  <front>
+    <title>OSPFv3 Extensions for Segment Routing over IPv6 (SRv6)</title>
+    <author fullname="Z. Li" initials="Z." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="Z. Hu" initials="Z." surname="Hu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="December"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>The Segment Routing (SR) architecture allows a flexible definition of the end-to-end path by encoding it as a sequence of topological elements called segments. It can be implemented over an MPLS or IPv6 data plane. This document describes the OSPFv3 extensions required to support SR over the IPv6 data plane.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9513"/>
+  <seriesInfo name="RFC" value="9513"/>
+  <seriesInfo name="IETF"/>
+</reference>

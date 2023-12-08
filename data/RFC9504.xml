@@ -1,0 +1,32 @@
+<reference anchor="RFC.9504" target="https://www.rfc-editor.org/info/rfc9504">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for Stateful PCE Usage in GMPLS-Controlled Networks</title>
+    <author fullname="Y. Lee" initials="Y." surname="Lee">
+      <organization/>
+    </author>
+    <author fullname="H. Zheng" initials="H." surname="Zheng">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez de Dios">
+      <organization/>
+    </author>
+    <author fullname="V. Lopez" initials="V." surname="Lopez">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="December"/>
+    <workgroup>pce</workgroup>
+    <abstract>
+      <t>The Path Computation Element Communication Protocol (PCEP) has been extended to support stateful PCE functions where the stateful PCE maintains information about paths and resource usage within a network; however, these extensions do not cover all requirements for GMPLS networks.</t>
+      <t>This document provides the extensions required for PCEP so as to enable the usage of a stateful PCE capability in GMPLS-controlled networks.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9504"/>
+  <seriesInfo name="RFC" value="9504"/>
+  <seriesInfo name="IETF"/>
+</reference>
