@@ -1,0 +1,19 @@
+<reference anchor="RFC.9515" target="https://www.rfc-editor.org/info/rfc9515">
+  <front>
+    <title>Revision to Registration Procedures for Multiple BMP Registries</title>
+    <author fullname="J. Scudder" initials="J." surname="Scudder">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="December"/>
+    <workgroup>grow</workgroup>
+    <abstract>
+      <t>This document updates RFC 7854, "BGP Monitoring Protocol (BMP)", by changing the registration procedures for several registries. Specifically, any BMP registry with a range of 32768-65530 designated "Specification Required" has that range redesignated as "First Come First Served".</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9515"/>
+  <seriesInfo name="RFC" value="9515"/>
+  <seriesInfo name="IETF"/>
+</reference>
