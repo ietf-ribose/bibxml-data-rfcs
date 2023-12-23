@@ -1,0 +1,34 @@
+<reference anchor="RFC.9496" target="https://www.rfc-editor.org/info/rfc9496">
+  <front>
+    <title>The ristretto255 and decaf448 Groups</title>
+    <author fullname="H. de Valence" initials="H." surname="de Valence">
+      <organization/>
+    </author>
+    <author fullname="J. Grigg" initials="J." surname="Grigg">
+      <organization/>
+    </author>
+    <author fullname="M. Hamburg" initials="M." surname="Hamburg">
+      <organization/>
+    </author>
+    <author fullname="I. Lovecruft" initials="I." surname="Lovecruft">
+      <organization/>
+    </author>
+    <author fullname="G. Tankersley" initials="G." surname="Tankersley">
+      <organization/>
+    </author>
+    <author fullname="F. Valsorda" initials="F." surname="Valsorda">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2023" month="December"/>
+    <abstract>
+      <t>This memo specifies two prime-order groups, ristretto255 and decaf448, suitable for safely implementing higher-level and complex cryptographic protocols. The ristretto255 group can be implemented using Curve25519, allowing existing Curve25519 implementations to be reused and extended to provide a prime-order group. Likewise, the decaf448 group can be implemented using edwards448.</t>
+      <t>This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9496"/>
+  <seriesInfo name="RFC" value="9496"/>
+  <seriesInfo name="IRTF"/>
+</reference>
