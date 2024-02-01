@@ -1,0 +1,31 @@
+<reference anchor="RFC.9534" target="https://www.rfc-editor.org/info/rfc9534">
+  <front>
+    <title>Simple Two-Way Active Measurement Protocol Extensions for Performance Measurement on a Link Aggregation Group</title>
+    <author fullname="Z. Li" initials="Z." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="T. Zhou" initials="T." surname="Zhou">
+      <organization/>
+    </author>
+    <author fullname="J. Guo" initials="J." surname="Guo">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="January"/>
+    <workgroup>ippm</workgroup>
+    <abstract>
+      <t>This document extends Simple Two-way Active Measurement Protocol (STAMP) to implement performance measurement on every member link of a Link Aggregation Group (LAG). Knowing the measured metrics of each member link of a LAG enables operators to enforce a performance-based traffic steering policy across the member links.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9534"/>
+  <seriesInfo name="RFC" value="9534"/>
+  <seriesInfo name="IETF"/>
+</reference>
