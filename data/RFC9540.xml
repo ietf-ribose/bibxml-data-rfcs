@@ -1,0 +1,22 @@
+<reference anchor="RFC.9540" target="https://www.rfc-editor.org/info/rfc9540">
+  <front>
+    <title>Discovery of Oblivious Services via Service Binding Records</title>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="February"/>
+    <workgroup>ohai</workgroup>
+    <abstract>
+      <t>This document defines a parameter that can be included in Service Binding (SVCB) and HTTPS DNS resource records to denote that a service is accessible using Oblivious HTTP, by offering an Oblivious Gateway Resource through which to access the target. This document also defines a mechanism for learning the key configuration of the discovered Oblivious Gateway Resource.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9540"/>
+  <seriesInfo name="RFC" value="9540"/>
+  <seriesInfo name="IETF"/>
+</reference>
