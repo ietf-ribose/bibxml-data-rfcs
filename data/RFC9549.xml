@@ -1,0 +1,19 @@
+<reference anchor="RFC.9549" target="https://www.rfc-editor.org/info/rfc9549">
+  <front>
+    <title>Internationalization Updates to RFC 5280</title>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>The updates to RFC 5280 described in this document provide alignment with the 2008 specification for Internationalized Domain Names (IDNs) and includes support for internationalized email addresses in X.509 certificates. The updates ensure that name constraints for email addresses that contain only ASCII characters and internationalized email addresses are handled in the same manner. This document obsoletes RFC 8399.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9549"/>
+  <seriesInfo name="RFC" value="9549"/>
+  <seriesInfo name="IETF"/>
+</reference>

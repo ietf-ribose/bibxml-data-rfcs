@@ -1,0 +1,21 @@
+<reference anchor="RFC.9565" target="https://www.rfc-editor.org/info/rfc9565">
+  <front>
+    <title>An Update to the tcpControlBits IP Flow Information Export (IPFIX) Information Element</title>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>RFC 7125 revised the tcpControlBits IP Flow Information Export (IPFIX) Information Element that was originally defined in RFC 5102 to reflect changes to the TCP header control bits since RFC 793. However, that update is still problematic for interoperability because some flag values have subsequently been deprecated.</t>
+      <t>This document removes stale information from the IANA "IPFIX Information Elements" registry and avoids future conflicts with the authoritative IANA "TCP Header Flags" registry.</t>
+      <t>This document obsoletes RFC 7125.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9565"/>
+  <seriesInfo name="RFC" value="9565"/>
+  <seriesInfo name="IETF"/>
+</reference>
