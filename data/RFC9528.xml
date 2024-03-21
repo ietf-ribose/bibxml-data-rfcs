@@ -1,0 +1,25 @@
+<reference anchor="RFC.9528" target="https://www.rfc-editor.org/info/rfc9528">
+  <front>
+    <title>Ephemeral Diffie-Hellman Over COSE (EDHOC)</title>
+    <author fullname="G. Selander" initials="G." surname="Selander">
+      <organization/>
+    </author>
+    <author fullname="J. Preuß Mattsson" initials="J." surname="Preuß Mattsson">
+      <organization/>
+    </author>
+    <author fullname="F. Palombini" initials="F." surname="Palombini">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>lake</workgroup>
+    <abstract>
+      <t>This document specifies Ephemeral Diffie-Hellman Over COSE (EDHOC), a very compact and lightweight authenticated Diffie-Hellman key exchange with ephemeral keys. EDHOC provides mutual authentication, forward secrecy, and identity protection. EDHOC is intended for usage in constrained scenarios, and a main use case is to establish an Object Security for Constrained RESTful Environments (OSCORE) security context. By reusing CBOR Object Signing and Encryption (COSE) for cryptography, Concise Binary Object Representation (CBOR) for encoding, and Constrained Application Protocol (CoAP) for transport, the additional code size can be kept very low.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9528"/>
+  <seriesInfo name="RFC" value="9528"/>
+  <seriesInfo name="IETF"/>
+</reference>

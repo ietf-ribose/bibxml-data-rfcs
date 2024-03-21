@@ -1,0 +1,28 @@
+<reference anchor="RFC.9550" target="https://www.rfc-editor.org/info/rfc9550">
+  <front>
+    <title>Deterministic Networking (DetNet): Packet Ordering Function</title>
+    <author role="editor" fullname="B. Varga" initials="B." surname="Varga">
+      <organization/>
+    </author>
+    <author fullname="J. Farkas" initials="J." surname="Farkas">
+      <organization/>
+    </author>
+    <author fullname="S. Kehrer" initials="S." surname="Kehrer">
+      <organization/>
+    </author>
+    <author fullname="T. Heer" initials="T." surname="Heer">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>detnet</workgroup>
+    <abstract>
+      <t>The replication and elimination functions of the Deterministic Networking (DetNet) architecture can result in out-of-order packets, which is not acceptable for some time-sensitive applications. The Packet Ordering Function (POF) algorithms described in this document enable restoration of the correct packet order when the replication and elimination functions are used in DetNet networks. The POF only provides ordering within the latency bound of a DetNet flow; it does not provide any additional reliability.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9550"/>
+  <seriesInfo name="RFC" value="9550"/>
+  <seriesInfo name="IETF"/>
+</reference>

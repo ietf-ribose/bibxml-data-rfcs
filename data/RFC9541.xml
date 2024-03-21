@@ -1,0 +1,31 @@
+<reference anchor="RFC.9541" target="https://www.rfc-editor.org/info/rfc9541">
+  <front>
+    <title>Flush Mechanism for Customer MAC Addresses Based on Service Instance Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN)</title>
+    <author role="editor" fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author fullname="S. Sathappan" initials="S." surname="Sathappan">
+      <organization/>
+    </author>
+    <author fullname="K. Nagaraj" initials="K." surname="Nagaraj">
+      <organization/>
+    </author>
+    <author fullname="M. Miyake" initials="M." surname="Miyake">
+      <organization/>
+    </author>
+    <author fullname="T. Matsuda" initials="T." surname="Matsuda">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>bess</workgroup>
+    <abstract>
+      <t>Provider Backbone Bridging (PBB) can be combined with Ethernet Virtual Private Networks (EVPNs) to deploy Ethernet Local Area Network (E-LAN) services in large Multiprotocol Label Switching (MPLS) networks. That combination is what we refer to as "PBB-EVPN." Single-Active multihoming and per Service Instance Identifier (I-SID) load-balancing can be provided to access devices and aggregation networks. In order to speed up the network convergence in case of failures on Single-Active multihomed Ethernet Segments (ESs), PBB-EVPN defines a flush mechanism for Customer MACs (C-MACs) called "C-MAC flush" that works for different Ethernet Segment Backbone MAC (B-MAC) address allocation models. This document complements those C-MAC flush procedures for cases in which no PBB-EVPN ESs are defined (i.e., the attachment circuit is associated with a zero Ethernet Segment Identifier (ESI)) and the C-MAC flush requires I-SID-level granularity.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9541"/>
+  <seriesInfo name="RFC" value="9541"/>
+  <seriesInfo name="IETF"/>
+</reference>
