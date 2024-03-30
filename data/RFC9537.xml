@@ -1,0 +1,28 @@
+<reference anchor="RFC.9537" target="https://www.rfc-editor.org/info/rfc9537">
+  <front>
+    <title>Redacted Fields in the Registration Data Access Protocol (RDAP) Response</title>
+    <author fullname="J. Gould" initials="J." surname="Gould">
+      <organization/>
+    </author>
+    <author fullname="D. Smith" initials="D." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="J. Kolker" initials="J." surname="Kolker">
+      <organization/>
+    </author>
+    <author fullname="R. Carney" initials="R." surname="Carney">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="March"/>
+    <workgroup>regext</workgroup>
+    <abstract>
+      <t>This document describes a Registration Data Access Protocol (RDAP) extension for specifying methods of redaction of RDAP responses and explicitly identifying redacted RDAP response fields, using JSONPath as the default expression language.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9537"/>
+  <seriesInfo name="RFC" value="9537"/>
+  <seriesInfo name="IETF"/>
+</reference>
