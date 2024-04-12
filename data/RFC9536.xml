@@ -1,0 +1,22 @@
+<reference anchor="RFC.9536" target="https://www.rfc-editor.org/info/rfc9536">
+  <front>
+    <title>Registration Data Access Protocol (RDAP) Reverse Search</title>
+    <author fullname="M. Loffredo" initials="M." surname="Loffredo">
+      <organization/>
+    </author>
+    <author fullname="M. Martinelli" initials="M." surname="Martinelli">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="April"/>
+    <workgroup>regext</workgroup>
+    <abstract>
+      <t>The Registration Data Access Protocol (RDAP) does not include query capabilities for finding the list of domains related to a set of entities matching a given search pattern. Considering that an RDAP entity can be associated with any defined object class and other relationships between RDAP object classes exist, a reverse search can be applied to other use cases besides the classic domain-entity scenario. This document describes an RDAP extension that allows servers to provide a reverse search feature based on the relationship defined in RDAP between an object class for search and any related object class. The reverse search based on the domain-entity relationship is treated as a particular case.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9536"/>
+  <seriesInfo name="RFC" value="9536"/>
+  <seriesInfo name="IETF"/>
+</reference>
