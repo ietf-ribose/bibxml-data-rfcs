@@ -1,0 +1,23 @@
+<reference anchor="RFC.9557" target="https://www.rfc-editor.org/info/rfc9557">
+  <front>
+    <title>Date and Time on the Internet: Timestamps with Additional Information</title>
+    <author fullname="U. Sharma" initials="U." surname="Sharma">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="April"/>
+    <workgroup>sedate</workgroup>
+    <abstract>
+      <t>This document defines an extension to the timestamp format defined in RFC 3339 for representing additional information, including a time zone.</t>
+      <t>It updates RFC 3339 in the specific interpretation of the local offset, which is no longer understood to "imply that UTC is the preferred reference point for the specified time".</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9557"/>
+  <seriesInfo name="RFC" value="9557"/>
+  <seriesInfo name="IETF"/>
+</reference>
