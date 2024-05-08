@@ -1,0 +1,22 @@
+<reference anchor="RFC.9553" target="https://www.rfc-editor.org/info/rfc9553">
+  <front>
+    <title>JSContact: A JSON Representation of Contact Data</title>
+    <author fullname="R. Stepanek" initials="R." surname="Stepanek">
+      <organization/>
+    </author>
+    <author fullname="M. Loffredo" initials="M." surname="Loffredo">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="May"/>
+    <workgroup>calext</workgroup>
+    <abstract>
+      <t>This specification defines a data model and JavaScript Object Notation (JSON) representation of contact card information that can be used for data storage and exchange in address book or directory applications. It aims to be an alternative to the vCard data format and to be unambiguous, extendable, and simple to process. In contrast to the JSON-based jCard format, it is not a direct mapping from the vCard data model and expands semantics where appropriate. Two additional specifications define new vCard elements and how to convert between JSContact and vCard.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9553"/>
+  <seriesInfo name="RFC" value="9553"/>
+  <seriesInfo name="IETF"/>
+</reference>
