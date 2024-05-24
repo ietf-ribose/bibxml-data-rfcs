@@ -1,0 +1,26 @@
+<reference anchor="RFC.9598" target="https://www.rfc-editor.org/info/rfc9598">
+  <front>
+    <title>Internationalized Email Addresses in X.509 Certificates</title>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="W. Chuang" initials="W." surname="Chuang">
+      <organization/>
+    </author>
+    <author fullname="C. Bonnell" initials="C." surname="Bonnell">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="May"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document defines a new name form for inclusion in the otherName field of an X.509 Subject Alternative Name and Issuer Alternative Name extension that allows a certificate subject to be associated with an internationalized email address.</t>
+      <t>This document updates RFC 5280 and obsoletes RFC 8398.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9598"/>
+  <seriesInfo name="RFC" value="9598"/>
+  <seriesInfo name="IETF"/>
+</reference>
