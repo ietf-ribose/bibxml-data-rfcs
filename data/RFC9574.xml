@@ -1,0 +1,31 @@
+<reference anchor="RFC.9574" target="https://www.rfc-editor.org/info/rfc9574">
+  <front>
+    <title>Optimized Ingress Replication Solution for Ethernet VPNs (EVPNs)</title>
+    <author role="editor" fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author fullname="S. Sathappan" initials="S." surname="Sathappan">
+      <organization/>
+    </author>
+    <author fullname="W. Lin" initials="W." surname="Lin">
+      <organization/>
+    </author>
+    <author fullname="M. Katiyar" initials="M." surname="Katiyar">
+      <organization/>
+    </author>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="May"/>
+    <workgroup>bess</workgroup>
+    <abstract>
+      <t>Network Virtualization Overlay (NVO) networks using Ethernet VPNs (EVPNs) as their control plane may use trees based on ingress replication or Protocol Independent Multicast (PIM) to convey the overlay Broadcast, Unknown Unicast, or Multicast (BUM) traffic. PIM provides an efficient solution that prevents sending multiple copies of the same packet over the same physical link; however, it may not always be deployed in the NVO network core. Ingress replication avoids the dependency on PIM in the NVO network core. While ingress replication provides a simple multicast transport, some NVO networks with demanding multicast applications require a more efficient solution without PIM in the core. This document describes a solution to optimize the efficiency of ingress replication trees.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9574"/>
+  <seriesInfo name="RFC" value="9574"/>
+  <seriesInfo name="IETF"/>
+</reference>
