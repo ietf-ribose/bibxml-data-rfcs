@@ -1,0 +1,32 @@
+<reference anchor="RFC.9586" target="https://www.rfc-editor.org/info/rfc9586">
+  <front>
+    <title>IMAP Extension for Using and Returning Unique Identifiers (UIDs) Only</title>
+    <author fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author fullname="A. P. Achuthan" initials="A. P." surname="Achuthan">
+      <organization/>
+    </author>
+    <author fullname="V. Nagulakonda" initials="V." surname="Nagulakonda">
+      <organization/>
+    </author>
+    <author fullname="A. Singh" initials="A." surname="Singh">
+      <organization/>
+    </author>
+    <author fullname="L. Alves" initials="L." surname="Alves">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="May"/>
+    <workgroup>extra</workgroup>
+    <abstract>
+      <t>The UIDONLY extension to the Internet Message Access Protocol (RFCs 3501 and 9051) allows clients to enable a mode in which information about mailbox changes is returned using only Unique Identifiers (UIDs). Message numbers are not returned in responses and cannot be used in requests once this extension is enabled. This helps both clients and servers to reduce resource usage required to maintain a map between message numbers and UIDs.</t>
+      <t>This document defines an experimental IMAP extension.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9586"/>
+  <seriesInfo name="RFC" value="9586"/>
+  <seriesInfo name="IETF"/>
+</reference>
