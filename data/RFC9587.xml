@@ -1,0 +1,25 @@
+<reference anchor="RFC.9587" target="https://www.rfc-editor.org/info/rfc9587">
+  <front>
+    <title>YANG Data Model for OSPFv3 Extended Link State Advertisements (LSAs)</title>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="S. Palani" initials="S." surname="Palani">
+      <organization/>
+    </author>
+    <author fullname="Y. Qu" initials="Y." surname="Qu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="June"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>This document defines a YANG data model augmenting the IETF OSPF YANG data model (RFC 9129) to provide support for OSPFv3 Link State Advertisement (LSA) Extensibility as defined in RFC 8362. OSPFv3 Extended LSAs provide extensible TLV-based LSAs for the base LSA types defined in RFC 5340.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9587"/>
+  <seriesInfo name="RFC" value="9587"/>
+  <seriesInfo name="IETF"/>
+</reference>
