@@ -1,0 +1,22 @@
+<reference anchor="RFC.9596" target="https://www.rfc-editor.org/info/rfc9596">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE) "typ" (type) Header Parameter</title>
+    <author fullname="M.B. Jones" initials="M.B." surname="Jones">
+      <organization/>
+    </author>
+    <author fullname="O. Steele" initials="O." surname="Steele">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="June"/>
+    <workgroup>cose</workgroup>
+    <abstract>
+      <t>This specification adds the equivalent of the JSON Object Signing and Encryption (JOSE) "typ" (type) header parameter to CBOR Object Signing and Encryption (COSE). This enables the benefits of explicit typing (as defined in RFC 8725, "JSON Web Token Best Current Practices") to be brought to COSE objects. The syntax of the COSE type header parameter value is the same as the existing COSE content type header parameter.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9596"/>
+  <seriesInfo name="RFC" value="9596"/>
+  <seriesInfo name="IETF"/>
+</reference>
