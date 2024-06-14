@@ -1,0 +1,25 @@
+<reference anchor="RFC.9577" target="https://www.rfc-editor.org/info/rfc9577">
+  <front>
+    <title>The Privacy Pass HTTP Authentication Scheme</title>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author fullname="S. Valdez" initials="S." surname="Valdez">
+      <organization/>
+    </author>
+    <author fullname="C. A. Wood" initials="C. A." surname="Wood">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="June"/>
+    <workgroup>privacypass</workgroup>
+    <abstract>
+      <t>This document defines an HTTP authentication scheme for Privacy Pass, a privacy-preserving authentication mechanism used for authorization. The authentication scheme specified in this document can be used by Clients to redeem Privacy Pass tokens with an Origin. It can also be used by Origins to challenge Clients to present Privacy Pass tokens.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9577"/>
+  <seriesInfo name="RFC" value="9577"/>
+  <seriesInfo name="IETF"/>
+</reference>
