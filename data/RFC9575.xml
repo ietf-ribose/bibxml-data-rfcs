@@ -1,0 +1,25 @@
+<reference anchor="RFC.9575" target="https://www.rfc-editor.org/info/rfc9575">
+  <front>
+    <title>DRIP Entity Tag (DET) Authentication Formats and Protocols for Broadcast Remote Identification (RID)</title>
+    <author role="editor" fullname="A. Wiethuechter" initials="A." surname="Wiethuechter">
+      <organization/>
+    </author>
+    <author fullname="S. Card" initials="S." surname="Card">
+      <organization/>
+    </author>
+    <author fullname="R. Moskowitz" initials="R." surname="Moskowitz">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="June"/>
+    <workgroup>drip</workgroup>
+    <abstract>
+      <t>The Drone Remote Identification Protocol (DRIP), plus trust policies and periodic access to registries, augments Unmanned Aircraft System (UAS) Remote Identification (RID), enabling local real-time assessment of trustworthiness of received RID messages and observed UAS, even by Observers lacking Internet access. This document defines DRIP message types and formats to be sent in Broadcast RID Authentication Messages to verify that attached and recently detached messages were signed by the registered owner of the DRIP Entity Tag (DET) claimed.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9575"/>
+  <seriesInfo name="RFC" value="9575"/>
+  <seriesInfo name="IETF"/>
+</reference>
