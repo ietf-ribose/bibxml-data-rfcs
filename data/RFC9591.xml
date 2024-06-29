@@ -1,0 +1,27 @@
+<reference anchor="RFC.9591" target="https://www.rfc-editor.org/info/rfc9591">
+  <front>
+    <title>The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two-Round Schnorr Signatures</title>
+    <author fullname="D. Connolly" initials="D." surname="Connolly">
+      <organization/>
+    </author>
+    <author fullname="C. Komlo" initials="C." surname="Komlo">
+      <organization/>
+    </author>
+    <author fullname="I. Goldberg" initials="I." surname="Goldberg">
+      <organization/>
+    </author>
+    <author fullname="C. A. Wood" initials="C. A." surname="Wood">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="June"/>
+    <abstract>
+      <t>This document specifies the Flexible Round-Optimized Schnorr Threshold (FROST) signing protocol. FROST signatures can be issued after a threshold number of entities cooperate to compute a signature, allowing for improved distribution of trust and redundancy with respect to a secret key. FROST depends only on a prime-order group and cryptographic hash function. This document specifies a number of ciphersuites to instantiate FROST using different prime-order groups and hash functions. This document is a product of the Crypto Forum Research Group (CFRG) in the IRTF.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9591"/>
+  <seriesInfo name="RFC" value="9591"/>
+  <seriesInfo name="IRTF"/>
+</reference>
