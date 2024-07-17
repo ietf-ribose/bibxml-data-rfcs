@@ -1,0 +1,24 @@
+<reference anchor="RFC.9615" target="https://www.rfc-editor.org/info/rfc9615">
+  <front>
+    <title>Automatic DNSSEC Bootstrapping Using Authenticated Signals from the Zone's Operator</title>
+    <author fullname="P. Thomassen" initials="P." surname="Thomassen">
+      <organization/>
+    </author>
+    <author fullname="N. Wisiol" initials="N." surname="Wisiol">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="July"/>
+    <workgroup>dnsop</workgroup>
+    <abstract>
+      <t>This document introduces an in-band method for DNS operators to publish arbitrary information about the zones for which they are authoritative, in an authenticated fashion and on a per-zone basis. The mechanism allows managed DNS operators to securely announce DNSSEC key parameters for zones under their management, including for zones that are not currently securely delegated.</t>
+      <t>Whenever DS records are absent for a zone's delegation, this signal enables the parent's registry or registrar to cryptographically validate the CDS/CDNSKEY records found at the child's apex. The parent can then provision DS records for the delegation without resorting to out-of-band validation or weaker types of cross-checks such as "Accept after Delay".</t>
+      <t>This document establishes the DS enrollment method described in Section 4 of this document as the preferred method over those from Section 3 of RFC 8078. It also updates RFC 7344.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9615"/>
+  <seriesInfo name="RFC" value="9615"/>
+  <seriesInfo name="IETF"/>
+</reference>
