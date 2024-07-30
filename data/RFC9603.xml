@@ -1,0 +1,33 @@
+<reference anchor="RFC.9603" target="https://www.rfc-editor.org/info/rfc9603">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for IPv6 Segment Routing</title>
+    <author role="editor" fullname="C. Li" initials="C." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="P. Kaladharan" initials="P." surname="Kaladharan">
+      <organization/>
+    </author>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="M. Koldychev" initials="M." surname="Koldychev">
+      <organization/>
+    </author>
+    <author fullname="Y. Zhu" initials="Y." surname="Zhu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="July"/>
+    <workgroup>pce</workgroup>
+    <abstract>
+      <t>Segment Routing (SR) can be used to steer packets through a network using the IPv6 or MPLS data plane, employing the source routing paradigm.</t>
+      <t>An SR Path can be derived from a variety of mechanisms, including an IGP Shortest Path Tree (SPT), explicit configuration, or a Path Computation Element (PCE).</t>
+      <t>Since SR can be applied to both MPLS and IPv6 data planes, a PCE should be able to compute an SR Path for both MPLS and IPv6 data planes. The Path Computation Element Communication Protocol (PCEP) extension and mechanisms to support SR-MPLS have been defined. This document outlines the necessary extensions to support SR for the IPv6 data plane within PCEP.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9603"/>
+  <seriesInfo name="RFC" value="9603"/>
+  <seriesInfo name="IETF"/>
+</reference>
