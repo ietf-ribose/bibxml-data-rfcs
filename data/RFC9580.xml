@@ -1,0 +1,30 @@
+<reference anchor="RFC.9580" target="https://www.rfc-editor.org/info/rfc9580">
+  <front>
+    <title>OpenPGP</title>
+    <author role="editor" fullname="P. Wouters" initials="P." surname="Wouters">
+      <organization/>
+    </author>
+    <author fullname="D. Huigens" initials="D." surname="Huigens">
+      <organization/>
+    </author>
+    <author fullname="J. Winter" initials="J." surname="Winter">
+      <organization/>
+    </author>
+    <author fullname="Y. Niibe" initials="Y." surname="Niibe">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="July"/>
+    <workgroup>openpgp</workgroup>
+    <abstract>
+      <t>This document specifies the message formats used in OpenPGP. OpenPGP provides encryption with public key or symmetric cryptographic algorithms, digital signatures, compression, and key management.</t>
+      <t>This document is maintained in order to publish all necessary information needed to develop interoperable applications based on the OpenPGP format. It is not a step-by-step cookbook for writing an application. It describes only the format and methods needed to read, check, generate, and write conforming packets crossing any network. It does not deal with storage and implementation questions. It does, however, discuss implementation issues necessary to avoid security flaws.</t>
+      <t>This document obsoletes RFCs 4880 ("OpenPGP Message Format"), 5581 ("The Camellia Cipher in OpenPGP"), and 6637 ("Elliptic Curve Cryptography (ECC) in OpenPGP").</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9580"/>
+  <seriesInfo name="RFC" value="9580"/>
+  <seriesInfo name="IETF"/>
+</reference>

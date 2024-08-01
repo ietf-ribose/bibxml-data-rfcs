@@ -1,0 +1,31 @@
+<reference anchor="RFC.9595" target="https://www.rfc-editor.org/info/rfc9595">
+  <front>
+    <title>YANG Schema Item iDentifier (YANG SID)</title>
+    <author role="editor" fullname="M. Veillette" initials="M." surname="Veillette">
+      <organization/>
+    </author>
+    <author role="editor" fullname="A. Pelov" initials="A." surname="Pelov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="I. Petrov" initials="I." surname="Petrov">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author fullname="M. Richardson" initials="M." surname="Richardson">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="July"/>
+    <workgroup>core</workgroup>
+    <abstract>
+      <t>YANG Schema Item iDentifiers (YANG SIDs) are globally unique 63-bit unsigned integers used to identify YANG items. SIDs provide a more compact method for identifying those YANG items that can be used efficiently, notably in constrained environments (RFC 7228). This document defines the semantics, registration processes, and assignment processes for YANG SIDs for IETF-managed YANG modules. To enable the implementation of these processes, this document also defines a file format used to persist and publish assigned YANG SIDs.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9595"/>
+  <seriesInfo name="RFC" value="9595"/>
+  <seriesInfo name="IETF"/>
+</reference>
