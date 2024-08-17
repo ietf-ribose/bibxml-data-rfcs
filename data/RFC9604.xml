@@ -1,0 +1,31 @@
+<reference anchor="RFC.9604" target="https://www.rfc-editor.org/info/rfc9604">
+  <front>
+    <title>Carrying Binding Label/SID in PCE-Based Networks</title>
+    <author fullname="S. Sivabalan" initials="S." surname="Sivabalan">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="C. Li" initials="C." surname="Li">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="August"/>
+    <workgroup>pce</workgroup>
+    <abstract>
+      <t>In order to provide greater scalability, network confidentiality, and service independence, Segment Routing (SR) utilizes a Binding Segment Identifier (BSID), as described in RFC 8402. It is possible to associate a BSID to an RSVP-TE-signaled Traffic Engineering (TE) Label Switched Path (LSP) or an SR TE path. The BSID can be used by an upstream node for steering traffic into the appropriate TE path to enforce SR policies. This document specifies the concept of binding value, which can be either an MPLS label or a Segment Identifier (SID). It further specifies an extension to Path Computation Element Communication Protocol (PCEP) for reporting the binding value by a Path Computation Client (PCC) to the Path Computation Element (PCE) to support PCE-based TE policies.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9604"/>
+  <seriesInfo name="RFC" value="9604"/>
+  <seriesInfo name="IETF"/>
+</reference>
