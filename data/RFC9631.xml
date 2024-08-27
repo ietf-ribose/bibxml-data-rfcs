@@ -1,0 +1,32 @@
+<reference anchor="RFC.9631" target="https://www.rfc-editor.org/info/rfc9631">
+  <front>
+    <title>The IPv6 Compact Routing Header (CRH)</title>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
+    <author fullname="Y. Kamite" initials="Y." surname="Kamite">
+      <organization/>
+    </author>
+    <author fullname="A. Alston" initials="A." surname="Alston">
+      <organization/>
+    </author>
+    <author fullname="D. Henriques" initials="D." surname="Henriques">
+      <organization/>
+    </author>
+    <author fullname="L. Jalil" initials="L." surname="Jalil">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="August"/>
+    <workgroup>6man</workgroup>
+    <abstract>
+      <t>This document describes an experiment in which two new IPv6 Routing headers are implemented and deployed. Collectively, they are called the Compact Routing Header (CRH). Individually, they are called CRH-16 and CRH-32.</t>
+      <t>One purpose of this experiment is to demonstrate that the CRH can be implemented and deployed in a production network. Another purpose is to demonstrate that the security considerations described in this document can be addressed with Access Control Lists (ACLs). Finally, this document encourages replication of the experiment.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9631"/>
+  <seriesInfo name="RFC" value="9631"/>
+  <seriesInfo name="IETF"/>
+</reference>
