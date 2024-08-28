@@ -1,0 +1,34 @@
+<reference anchor="RFC.9630" target="https://www.rfc-editor.org/info/rfc9630">
+  <front>
+    <title>Multicast On-Path Telemetry Using In Situ Operations, Administration, and Maintenance (IOAM)</title>
+    <author fullname="H. Song" initials="H." surname="Song">
+      <organization/>
+    </author>
+    <author fullname="M. McBride" initials="M." surname="McBride">
+      <organization/>
+    </author>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="H. Asaeda" initials="H." surname="Asaeda">
+      <organization/>
+    </author>
+    <author fullname="T. Zhou" initials="T." surname="Zhou">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="August"/>
+    <workgroup>mboned</workgroup>
+    <abstract>
+      <t>This document specifies two solutions to meet the requirements of on-path telemetry for multicast traffic using IOAM. While IOAM is advantageous for multicast traffic telemetry, some unique challenges are present. This document provides the solutions based on the IOAM trace option and direct export option to support the telemetry data correlation and the multicast tree reconstruction without incurring data redundancy.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9630"/>
+  <seriesInfo name="RFC" value="9630"/>
+  <seriesInfo name="IETF"/>
+</reference>
