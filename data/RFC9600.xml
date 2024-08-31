@@ -1,0 +1,22 @@
+<reference anchor="RFC.9600" target="https://www.rfc-editor.org/info/rfc9600">
+  <front>
+    <title>TRansparent Interconnection of Lots of Links (TRILL): Explicit Congestion Notification (ECN) Support</title>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd">
+      <organization/>
+    </author>
+    <author fullname="B. Briscoe" initials="B." surname="Briscoe">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="August"/>
+    <workgroup>trill</workgroup>
+    <abstract>
+      <t>Explicit Congestion Notification (ECN) allows a forwarding element to notify downstream devices, including the destination, of the onset of congestion without having to drop packets. This can improve network efficiency through better congestion control without packet drops. This document extends ECN to TRansparent Interconnection of Lots of Links (TRILL) switches, including integration with IP ECN, and provides for ECN marking in the TRILL header extension flags word (RFC 7179).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9600"/>
+  <seriesInfo name="RFC" value="9600"/>
+  <seriesInfo name="IETF"/>
+</reference>

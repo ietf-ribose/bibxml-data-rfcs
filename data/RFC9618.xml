@@ -1,0 +1,19 @@
+<reference anchor="RFC.9618" target="https://www.rfc-editor.org/info/rfc9618">
+  <front>
+    <title>Updates to X.509 Policy Validation</title>
+    <author fullname="D. Benjamin" initials="D." surname="Benjamin">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="August"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document updates RFC 5280 to replace the algorithm for X.509 policy validation with an equivalent, more efficient algorithm. The original algorithm built a structure that scaled exponentially in the worst case, leaving implementations vulnerable to denial-of-service attacks.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9618"/>
+  <seriesInfo name="RFC" value="9618"/>
+  <seriesInfo name="IETF"/>
+</reference>
