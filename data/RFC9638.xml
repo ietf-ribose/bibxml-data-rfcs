@@ -1,0 +1,24 @@
+<reference anchor="RFC.9638" target="https://www.rfc-editor.org/info/rfc9638">
+  <front>
+    <title>Network Virtualization over Layer 3 (NVO3) Encapsulation Considerations</title>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author role="editor" fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="September"/>
+    <workgroup>nvo3</workgroup>
+    <abstract>
+      <t>The IETF Network Virtualization Overlays (NVO3) Working Group developed considerations for a common encapsulation that addresses various network virtualization overlay technical concerns. This document provides a record, for the benefit of the IETF community, of the considerations arrived at by the NVO3 Working Group starting from the output of the NVO3 encapsulation Design Team. These considerations may be helpful with future deliberations by working groups over the choice of encapsulation formats.</t>
+      <t>There are implications of having different encapsulations in real environments consisting of both software and hardware implementations and within and spanning multiple data centers. For example, Operations, Administration, and Maintenance (OAM) functions such as path MTU discovery become challenging with multiple encapsulations along the data path.</t>
+      <t>Based on these considerations, the NVO3 Working Group determined that Generic Network Virtualization Encapsulation (Geneve) with a few modifications is the common encapsulation. This document provides more details, particularly in Section 7.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9638"/>
+  <seriesInfo name="RFC" value="9638"/>
+  <seriesInfo name="IETF"/>
+</reference>
