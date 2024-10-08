@@ -1,0 +1,25 @@
+<reference anchor="RFC.9662" target="https://www.rfc-editor.org/info/rfc9662">
+  <front>
+    <title>Updates to the Cipher Suites in Secure Syslog</title>
+    <author fullname="C. Lonvick" initials="C." surname="Lonvick">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="October"/>
+    <workgroup>uta</workgroup>
+    <abstract>
+      <t>RFCs 5425 and 6012 describe using TLS and DTLS to securely transport syslog messages. This document updates the cipher suites required by RFC 5245 (TLS Transport Mapping for Syslog) and RFC 6012 (DTLS Transport Mapping for Syslog). It also updates the protocol recommended by RFC 6012 for secure datagram transport.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9662"/>
+  <seriesInfo name="RFC" value="9662"/>
+  <seriesInfo name="IETF"/>
+</reference>
