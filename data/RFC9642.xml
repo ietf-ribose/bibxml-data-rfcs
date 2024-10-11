@@ -1,0 +1,19 @@
+<reference anchor="RFC.9642" target="https://www.rfc-editor.org/info/rfc9642">
+  <front>
+    <title>A YANG Data Model for a Keystore</title>
+    <author fullname="K. Watsen" initials="K." surname="Watsen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="October"/>
+    <workgroup>netconf</workgroup>
+    <abstract>
+      <t>This document presents a YANG module called "ietf-keystore" that enables centralized configuration of both symmetric and asymmetric keys. The secret value for both key types may be encrypted or hidden. Asymmetric keys may be associated with certificates. Notifications are sent when certificates are about to expire.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9642"/>
+  <seriesInfo name="RFC" value="9642"/>
+  <seriesInfo name="IETF"/>
+</reference>
