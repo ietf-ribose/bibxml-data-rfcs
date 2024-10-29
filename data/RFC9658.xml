@@ -1,0 +1,31 @@
+<reference anchor="RFC.9658" target="https://www.rfc-editor.org/info/rfc9658">
+  <front>
+    <title>Multipoint LDP Extensions for Multi-Topology Routing</title>
+    <author fullname="IJ. Wijnands" initials="IJ." surname="Wijnands">
+      <organization/>
+    </author>
+    <author role="editor" fullname="M. Mishra" initials="M." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="K. Raza" initials="K." surname="Raza">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="A. Gulko" initials="A." surname="Gulko">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="October"/>
+    <workgroup>mpls</workgroup>
+    <abstract>
+      <t>Multi-Topology Routing (MTR) is a technology that enables service differentiation within an IP network. The Flexible Algorithm (FA) is another mechanism for creating a sub-topology within a topology using defined topology constraints and computation algorithms. In order to deploy Multipoint LDP (mLDP) in a network that supports MTR, FA, or other methods of signaling non-default IGP Algorithms (IPAs), mLDP is required to become topology and algorithm aware. This document specifies extensions to mLDP to support the use of MTR/IPAs such that, when building multipoint Label Switched Paths (LSPs), the LSPs can follow a particular topology and algorithm. This document updates RFC 7307 by allocating eight bits from a previously reserved field to be used as the "IPA" field.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9658"/>
+  <seriesInfo name="RFC" value="9658"/>
+  <seriesInfo name="IETF"/>
+</reference>
