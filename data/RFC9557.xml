@@ -14,7 +14,7 @@
     <workgroup>sedate</workgroup>
     <abstract>
       <t>This document defines an extension to the timestamp format defined in RFC 3339 for representing additional information, including a time zone.</t>
-      <t>It updates RFC 3339 in the specific interpretation of the local offset, which is no longer understood to "imply that UTC is the preferred reference point for the specified time".</t>
+      <t>It updates RFC 3339 in the specific interpretation of the local offset Z, which is no longer understood to "imply that UTC is the preferred reference point for the specified time".</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC9557"/>

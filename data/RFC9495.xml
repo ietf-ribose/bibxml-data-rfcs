@@ -10,7 +10,7 @@
     <date year="2023" month="October"/>
     <workgroup>lamps</workgroup>
     <abstract>
-      <t>The Certification Authority Authorization (CAA) DNS resource record (RR) provides a mechanism for domains to express the allowed set of Certification Authorities that are authorized to issue certificates for the domain. RFC 8659 contains the core CAA specification, where Property Tags that restrict the issuance of certificates that certify domain names are defined. This specification defines a Property Tag that grants authorization to Certification Authorities to issue certificates that contain the key purpose in the extension and at least one value or value of type that includes the domain name in the extension.</t>
+      <t>The Certification Authority Authorization (CAA) DNS resource record (RR) provides a mechanism for domains to express the allowed set of Certification Authorities that are authorized to issue certificates for the domain. RFC 8659 contains the core CAA specification, where Property Tags that restrict the issuance of certificates that certify domain names are defined. This specification defines a Property Tag that grants authorization to Certification Authorities to issue certificates that contain the id-kp-emailProtection key purpose in the extendedKeyUsage extension and at least one rfc822Name value or otherName value of type id-on-SmtpUTF8Mailbox that includes the domain name in the subjectAltName extension.</t>
     </abstract>
   </front>
   <seriesInfo name="DOI" value="10.17487/RFC9495"/>
