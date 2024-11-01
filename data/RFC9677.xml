@@ -1,0 +1,28 @@
+<reference anchor="RFC.9677" target="https://www.rfc-editor.org/info/rfc9677">
+  <front>
+    <title>Content Delivery Network Interconnection (CDNI) Metadata for Delegated Credentials</title>
+    <author fullname="F. Fieau" initials="F." surname="Fieau">
+      <organization/>
+    </author>
+    <author fullname="E. Stephan" initials="E." surname="Stephan">
+      <organization/>
+    </author>
+    <author fullname="G. Bichot" initials="G." surname="Bichot">
+      <organization/>
+    </author>
+    <author fullname="C. Neumann" initials="C." surname="Neumann">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="October"/>
+    <workgroup>cdni</workgroup>
+    <abstract>
+      <t>The delivery of content over HTTPS involving multiple Content Delivery Networks (CDNs) raises credential management issues. This document defines metadata in the Content Delivery Network Interconnection (CDNI) Control and Metadata interface to set up HTTPS delegation using delegated credentials from an upstream CDN (uCDN) to a downstream CDN (dCDN).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9677"/>
+  <seriesInfo name="RFC" value="9677"/>
+  <seriesInfo name="IETF"/>
+</reference>

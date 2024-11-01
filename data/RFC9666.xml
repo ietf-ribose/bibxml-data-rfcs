@@ -1,0 +1,29 @@
+<reference anchor="RFC.9666" target="https://www.rfc-editor.org/info/rfc9666">
+  <front>
+    <title>Area Proxy for IS-IS</title>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="S. Chen" initials="S." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="V. Ilangovan" initials="V." surname="Ilangovan">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="October"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>Link-state routing protocols have hierarchical abstraction already built into them. However, when lower levels are used for transit, they must expose their internal topologies to each other, thereby leading to scaling issues.</t>
+      <t>To avoid such issues, this document discusses extensions to the IS-IS routing protocol that allow Level 1 (L1) areas to provide transit but only inject an abstraction of the Level 1 topology into Level 2 (L2). Each Level 1 area is represented as a single Level 2 node, thereby enabling a greater scale.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9666"/>
+  <seriesInfo name="RFC" value="9666"/>
+  <seriesInfo name="IETF"/>
+</reference>
