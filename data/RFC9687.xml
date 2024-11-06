@@ -1,0 +1,25 @@
+<reference anchor="RFC.9687" target="https://www.rfc-editor.org/info/rfc9687">
+  <front>
+    <title>Border Gateway Protocol 4 (BGP-4) Send Hold Timer</title>
+    <author fullname="J. Snijders" initials="J." surname="Snijders">
+      <organization/>
+    </author>
+    <author fullname="B. Cartwright-Cox" initials="B." surname="Cartwright-Cox">
+      <organization/>
+    </author>
+    <author fullname="Y. Qu" initials="Y." surname="Qu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="November"/>
+    <workgroup>idr</workgroup>
+    <abstract>
+      <t>This document defines the SendHoldTimer, along with the SendHoldTimer_Expires event, for the Border Gateway Protocol (BGP) Finite State Machine (FSM). Implementation of the SendHoldTimer helps overcome situations where a BGP connection is not terminated after the local system detects that the remote system is not processing BGP messages. This document specifies that the local system should close the BGP connection and not solely rely on the remote system for connection closure when the SendHoldTimer expires. This document updates RFC 4271.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9687"/>
+  <seriesInfo name="RFC" value="9687"/>
+  <seriesInfo name="IETF"/>
+</reference>
