@@ -1,0 +1,26 @@
+<reference anchor="RFC.9675" target="https://www.rfc-editor.org/info/rfc9675">
+  <front>
+    <title>Delay-Tolerant Networking Management Architecture (DTNMA)</title>
+    <author fullname="E. Birrane III" initials="E." surname="Birrane III">
+      <organization/>
+    </author>
+    <author fullname="S. Heiner" initials="S." surname="Heiner">
+      <organization/>
+    </author>
+    <author fullname="E. Annis" initials="E." surname="Annis">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="November"/>
+    <workgroup>dtn</workgroup>
+    <abstract>
+      <t>The Delay-Tolerant Networking (DTN) architecture describes a type of challenged network in which communications may be significantly affected by long signal propagation delays, frequent link disruptions, or both. The unique characteristics of this environment require a unique approach to network management that supports asynchronous transport, autonomous local control, and a small footprint (in both resources and dependencies) so as to deploy on constrained devices.</t>
+      <t>This document describes a DTN Management Architecture (DTNMA) suitable for managing devices in any challenged environment but, in particular, those communicating using the DTN Bundle Protocol (BP). Operating over BP requires an architecture that neither presumes synchronized transport behavior nor relies on query-response mechanisms. Implementations compliant with this DTNMA should expect to successfully operate in extremely challenging conditions, such as over unidirectional links and other places where BP is the preferred transport.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9675"/>
+  <seriesInfo name="RFC" value="9675"/>
+  <seriesInfo name="IETF"/>
+</reference>
