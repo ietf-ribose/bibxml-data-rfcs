@@ -1,0 +1,31 @@
+<reference anchor="RFC.9668" target="https://www.rfc-editor.org/info/rfc9668">
+  <front>
+    <title>Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the Constrained Application Protocol (CoAP) and Object Security for Constrained RESTful Environments (OSCORE)</title>
+    <author fullname="F. Palombini" initials="F." surname="Palombini">
+      <organization/>
+    </author>
+    <author fullname="M. Tiloca" initials="M." surname="Tiloca">
+      <organization/>
+    </author>
+    <author fullname="R. Höglund" initials="R." surname="Höglund">
+      <organization/>
+    </author>
+    <author fullname="S. Hristozov" initials="S." surname="Hristozov">
+      <organization/>
+    </author>
+    <author fullname="G. Selander" initials="G." surname="Selander">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="November"/>
+    <workgroup>core</workgroup>
+    <abstract>
+      <t>The lightweight authenticated key exchange protocol Ephemeral Diffie-Hellman Over COSE (EDHOC) can be run over the Constrained Application Protocol (CoAP) and used by two peers to establish a Security Context for the security protocol Object Security for Constrained RESTful Environments (OSCORE). This document details this use of the EDHOC protocol by specifying a number of additional and optional mechanisms, including an optimization approach for combining the execution of EDHOC with the first OSCORE transaction. This combination reduces the number of round trips required to set up an OSCORE Security Context and to complete an OSCORE transaction using that Security Context.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9668"/>
+  <seriesInfo name="RFC" value="9668"/>
+  <seriesInfo name="IETF"/>
+</reference>
