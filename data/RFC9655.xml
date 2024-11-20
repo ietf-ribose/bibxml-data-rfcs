@@ -1,0 +1,32 @@
+<reference anchor="RFC.9655" target="https://www.rfc-editor.org/info/rfc9655">
+  <front>
+    <title>Egress Validation in Label Switched Path Ping and Traceroute Mechanisms</title>
+    <author role="editor" fullname="D. Rathi" initials="D." surname="Rathi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="K. Arora" initials="K." surname="Arora">
+      <organization/>
+    </author>
+    <author fullname="Z. Ali" initials="Z." surname="Ali">
+      <organization/>
+    </author>
+    <author fullname="N. Nainar" initials="N." surname="Nainar">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="November"/>
+    <workgroup>mpls</workgroup>
+    <abstract>
+      <t>The MPLS ping and traceroute mechanisms described in RFC 8029 and the related extensions for Segment Routing (SR) defined in RFC 8287 are highly valuable for validating control plane and data plane synchronization. In certain environments, only some intermediate or transit nodes may have been upgraded to support these validation procedures. A straightforward MPLS ping and traceroute mechanism allows traversal of any path without validation of the control plane state. RFC 8029 supports this mechanism with the Nil Forwarding Equivalence Class (FEC). The procedures outlined in RFC 8029 are primarily applicable when the Nil FEC is used as an intermediate FEC in the FEC stack. However, challenges arise when all labels in the label stack are represented using the Nil FEC.</t>
+      <t>This document introduces a new Type-Length-Value (TLV) as an extension to the existing Nil FEC. It describes MPLS ping and traceroute procedures using the Nil FEC with this extension to address and overcome these challenges.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9655"/>
+  <seriesInfo name="RFC" value="9655"/>
+  <seriesInfo name="IETF"/>
+</reference>
