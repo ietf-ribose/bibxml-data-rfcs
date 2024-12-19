@@ -1,0 +1,22 @@
+<reference anchor="RFC.9639" target="https://www.rfc-editor.org/info/rfc9639">
+  <front>
+    <title>Free Lossless Audio Codec (FLAC)</title>
+    <author fullname="M.Q.C. van Beurden" initials="M.Q.C." surname="van Beurden">
+      <organization/>
+    </author>
+    <author fullname="A. Weaver" initials="A." surname="Weaver">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="December"/>
+    <workgroup>cellar</workgroup>
+    <abstract>
+      <t>This document defines the Free Lossless Audio Codec (FLAC) format and its streamable subset. FLAC is designed to reduce the amount of computer storage space needed to store digital audio signals. It does this losslessly, i.e., it does so without losing information. FLAC is free in the sense that its specification is open and its reference implementation is open source. Compared to other lossless audio coding formats, FLAC is a format with low complexity and can be encoded and decoded with little computing resources. Decoding of FLAC has been implemented independently for many different platforms, and both encoding and decoding can be implemented without needing floating-point arithmetic.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9639"/>
+  <seriesInfo name="RFC" value="9639"/>
+  <seriesInfo name="IETF"/>
+</reference>

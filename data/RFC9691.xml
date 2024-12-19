@@ -1,0 +1,31 @@
+<reference anchor="RFC.9691" target="https://www.rfc-editor.org/info/rfc9691">
+  <front>
+    <title>A Profile for Resource Public Key Infrastructure (RPKI) Trust Anchor Keys (TAKs)</title>
+    <author fullname="C. Martinez" initials="C." surname="Martinez">
+      <organization/>
+    </author>
+    <author fullname="G. Michaelson" initials="G." surname="Michaelson">
+      <organization/>
+    </author>
+    <author fullname="T. Harrison" initials="T." surname="Harrison">
+      <organization/>
+    </author>
+    <author fullname="T. Bruijnzeels" initials="T." surname="Bruijnzeels">
+      <organization/>
+    </author>
+    <author fullname="R. Austein" initials="R." surname="Austein">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="December"/>
+    <workgroup>sidrops</workgroup>
+    <abstract>
+      <t>A Trust Anchor Locator (TAL) is used by Relying Parties (RPs) in the Resource Public Key Infrastructure (RPKI) to locate and validate a Trust Anchor (TA) Certification Authority (CA) certificate used in RPKI validation. This document defines an RPKI signed object for a Trust Anchor Key (TAK). A TAK object can be used by a TA to signal to RPs the location(s) of the accompanying CA certificate for the current public key, as well as the successor public key and the location(s) of its CA certificate. This object helps to support planned key rollovers without impacting RPKI validation.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9691"/>
+  <seriesInfo name="RFC" value="9691"/>
+  <seriesInfo name="IETF"/>
+</reference>
