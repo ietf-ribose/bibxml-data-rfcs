@@ -1,0 +1,25 @@
+<reference anchor="RFC.9679" target="https://www.rfc-editor.org/info/rfc9679">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE) Key Thumbprint</title>
+    <author fullname="K. Isobe" initials="K." surname="Isobe">
+      <organization/>
+    </author>
+    <author fullname="H. Tschofenig" initials="H." surname="Tschofenig">
+      <organization/>
+    </author>
+    <author fullname="O. Steele" initials="O." surname="Steele">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="December"/>
+    <workgroup>cose</workgroup>
+    <abstract>
+      <t>This specification defines a method for computing a hash value over a CBOR Object Signing and Encryption (COSE) Key. It specifies which fields within the COSE Key structure are included in the cryptographic hash computation, the process for creating a canonical representation of these fields, and how to hash the resulting byte sequence. The resulting hash value, referred to as a "thumbprint", can be used to identify or select the corresponding key.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9679"/>
+  <seriesInfo name="RFC" value="9679"/>
+  <seriesInfo name="IETF"/>
+</reference>
