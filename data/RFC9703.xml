@@ -1,0 +1,31 @@
+<reference anchor="RFC.9703" target="https://www.rfc-editor.org/info/rfc9703">
+  <front>
+    <title>Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR) Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS Data Plane</title>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="M. Srivastava" initials="M." surname="Srivastava">
+      <organization/>
+    </author>
+    <author fullname="K. Arora" initials="K." surname="Arora">
+      <organization/>
+    </author>
+    <author fullname="S. Ninan" initials="S." surname="Ninan">
+      <organization/>
+    </author>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2024" month="December"/>
+    <workgroup>mpls</workgroup>
+    <abstract>
+      <t>Egress Peer Engineering (EPE) is an application of Segment Routing (SR) that solves the problem of egress peer selection. The SR-based BGP-EPE solution allows a centralized controller, e.g., a Software-Defined Network (SDN) controller, to program any egress peer. The EPE solution requires the node or the SDN controller to program 1) the PeerNode Segment Identifier (SID) describing a session between two nodes, 2) the PeerAdj SID describing the link or links that are used by the sessions between peer nodes, and 3) the PeerSet SID describing any connected interface to any peer in the related group. This document provides new sub-TLVs for EPE-SIDs that are used in the Target FEC Stack TLV (Type 1) in MPLS Ping and Traceroute procedures.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9703"/>
+  <seriesInfo name="RFC" value="9703"/>
+  <seriesInfo name="IETF"/>
+</reference>
