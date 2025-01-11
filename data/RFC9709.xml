@@ -1,0 +1,19 @@
+<reference anchor="RFC.9709" target="https://www.rfc-editor.org/info/rfc9709">
+  <front>
+    <title>Encryption Key Derivation in the Cryptographic Message Syntax (CMS) Using HKDF with SHA-256</title>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document specifies the derivation of the content-encryption key or the content-authenticated-encryption key in the Cryptographic Message Syntax (CMS) using the HMAC-based Extract-and-Expand Key Derivation Function (HKDF) with SHA-256. The use of this mechanism provides protection against an attacker that manipulates the content-encryption algorithm identifier or the content-authenticated-encryption algorithm identifier.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9709"/>
+  <seriesInfo name="RFC" value="9709"/>
+  <seriesInfo name="IETF"/>
+</reference>
