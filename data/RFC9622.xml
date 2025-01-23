@@ -1,0 +1,40 @@
+<reference anchor="RFC.9622" target="https://www.rfc-editor.org/info/rfc9622">
+  <front>
+    <title>An Abstract Application Programming Interface (API) for Transport Services</title>
+    <author role="editor" fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="M. Welzl" initials="M." surname="Welzl">
+      <organization/>
+    </author>
+    <author fullname="R. Enghardt" initials="R." surname="Enghardt">
+      <organization/>
+    </author>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
+    <author fullname="M. Kühlewind" initials="M." surname="Kühlewind">
+      <organization/>
+    </author>
+    <author fullname="C. S. Perkins" initials="C. S." surname="Perkins">
+      <organization/>
+    </author>
+    <author fullname="P.S. Tiesel" initials="P.S." surname="Tiesel">
+      <organization/>
+    </author>
+    <author fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>taps</workgroup>
+    <abstract>
+      <t>This document describes an abstract Application Programming Interface (API) to the transport layer that enables the selection of transport protocols and network paths dynamically at runtime. This API enables faster deployment of new protocols and protocol features without requiring changes to the applications. The specified API follows the Transport Services Architecture by providing asynchronous, atomic transmission of Messages. It is intended to replace the BSD Socket API as the common interface to the transport layer, in an environment where endpoints could select from multiple network paths and potential transport protocols.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9622"/>
+  <seriesInfo name="RFC" value="9622"/>
+  <seriesInfo name="IETF"/>
+</reference>

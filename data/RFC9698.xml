@@ -1,0 +1,22 @@
+<reference anchor="RFC.9698" target="https://www.rfc-editor.org/info/rfc9698">
+  <front>
+    <title>The JMAPACCESS Extension for IMAP</title>
+    <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
+    <author fullname="B. Gondwana" initials="B." surname="Gondwana">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>extra</workgroup>
+    <abstract>
+      <t>This document defines an IMAP extension to let clients know that the messages in this IMAP server are also available via the JSON Meta Application Protocol (JMAP), and how. It is intended for clients that want to migrate gradually to JMAP or use JMAP extensions within an IMAP client.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9698"/>
+  <seriesInfo name="RFC" value="9698"/>
+  <seriesInfo name="IETF"/>
+</reference>

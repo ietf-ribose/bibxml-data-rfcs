@@ -1,0 +1,31 @@
+<reference anchor="RFC.9621" target="https://www.rfc-editor.org/info/rfc9621">
+  <front>
+    <title>Architecture and Requirements for Transport Services</title>
+    <author role="editor" fullname="T. Pauly" initials="T." surname="Pauly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="B. Trammell" initials="B." surname="Trammell">
+      <organization/>
+    </author>
+    <author fullname="A. Brunstrom" initials="A." surname="Brunstrom">
+      <organization/>
+    </author>
+    <author fullname="G. Fairhurst" initials="G." surname="Fairhurst">
+      <organization/>
+    </author>
+    <author fullname="C. S. Perkins" initials="C. S." surname="Perkins">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>taps</workgroup>
+    <abstract>
+      <t>This document describes an architecture that exposes transport protocol features to applications for network communication. The Transport Services Application Programming Interface (API) is based on an asynchronous, event-driven interaction pattern. This API uses Messages for representing data transfer to applications and describes how a Transport Services Implementation can use multiple IP addresses, multiple protocols, and multiple paths and can provide multiple application streams. This document provides the architecture and requirements. It defines common terminology and concepts to be used in definitions of a Transport Services API and a Transport Services Implementation.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9621"/>
+  <seriesInfo name="RFC" value="9621"/>
+  <seriesInfo name="IETF"/>
+</reference>
