@@ -1,0 +1,30 @@
+<reference anchor="RFC.9718" target="https://www.rfc-editor.org/info/rfc9718">
+  <front>
+    <title>DNSSEC Trust Anchor Publication for the Root Zone</title>
+    <author fullname="J. Abley" initials="J." surname="Abley">
+      <organization/>
+    </author>
+    <author fullname="J. Schlyter" initials="J." surname="Schlyter">
+      <organization/>
+    </author>
+    <author fullname="G. Bailey" initials="G." surname="Bailey">
+      <organization/>
+    </author>
+    <author fullname="P. Hoffman" initials="P." surname="Hoffman">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>dnsop</workgroup>
+    <abstract>
+      <t>The root zone of the global Domain Name System (DNS) is cryptographically signed using DNS Security Extensions (DNSSEC).</t>
+      <t>In order to obtain secure answers from the root zone of the DNS using DNSSEC, a client must configure a suitable trust anchor. This document describes the format and publication mechanisms IANA uses to distribute the DNSSEC trust anchors.</t>
+      <t>This document obsoletes RFC 7958.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9718"/>
+  <seriesInfo name="RFC" value="9718"/>
+  <seriesInfo name="IETF"/>
+</reference>
