@@ -1,0 +1,20 @@
+<reference anchor="RFC.9717" target="https://www.rfc-editor.org/info/rfc9717">
+  <front>
+    <title>A Routing Architecture for Satellite Networks</title>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <abstract>
+      <t>Satellite networks present some interesting challenges for packet networking. The entire topology is continually in motion, with links far less reliable than what is common in terrestrial networks. Some changes to link connectivity can be anticipated due to orbital dynamics.</t>
+      <t>This document proposes a scalable routing architecture for satellite networks based on existing routing protocols and mechanisms that is enhanced with scheduled link connectivity change information. This document proposes no protocol changes.</t>
+      <t>This document presents the author's view and is neither the product of the IETF nor a consensus view of the community.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9717"/>
+  <seriesInfo name="RFC" value="9717"/>
+  <seriesInfo name="INDEPENDENT"/>
+</reference>
