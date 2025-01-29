@@ -1,0 +1,28 @@
+<reference anchor="RFC.9704" target="https://www.rfc-editor.org/info/rfc9704">
+  <front>
+    <title>Establishing Local DNS Authority in Validated Split-Horizon Environments</title>
+    <author fullname="T. Reddy.K" initials="T." surname="Reddy.K">
+      <organization/>
+    </author>
+    <author fullname="D. Wing" initials="D." surname="Wing">
+      <organization/>
+    </author>
+    <author fullname="K. Smith" initials="K." surname="Smith">
+      <organization/>
+    </author>
+    <author fullname="B. Schwartz" initials="B." surname="Schwartz">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="January"/>
+    <workgroup>add</workgroup>
+    <abstract>
+      <t>When split-horizon DNS is deployed by a network, certain domain names can be resolved authoritatively by a network-provided DNS resolver. DNS clients that are not configured to use this resolver by default can use it for these specific domains only. This specification defines a mechanism for domain owners to inform DNS clients about local resolvers that are authorized to answer authoritatively for certain subdomains.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9704"/>
+  <seriesInfo name="RFC" value="9704"/>
+  <seriesInfo name="IETF"/>
+</reference>
