@@ -1,0 +1,22 @@
+<reference anchor="RFC.9690" target="https://www.rfc-editor.org/info/rfc9690">
+  <front>
+    <title>Use of the RSA-KEM Algorithm in the Cryptographic Message Syntax (CMS)</title>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="February"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>The RSA Key Encapsulation Mechanism (RSA-KEM) algorithm is a one-pass (store-and-forward) cryptographic mechanism for an originator to securely send keying material to a recipient using the recipient's RSA public key. The RSA-KEM algorithm is specified in Clause 11.5 of ISO/IEC: 18033-2:2006. This document specifies the conventions for using the RSA-KEM algorithm as a standalone KEM algorithm and the conventions for using the RSA-KEM algorithm with the Cryptographic Message Syntax (CMS) using KEMRecipientInfo as specified in RFC 9629. This document obsoletes RFC 5990.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9690"/>
+  <seriesInfo name="RFC" value="9690"/>
+  <seriesInfo name="IETF"/>
+</reference>
