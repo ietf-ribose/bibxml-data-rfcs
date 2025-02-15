@@ -1,0 +1,25 @@
+<reference anchor="RFC.9729" target="https://www.rfc-editor.org/info/rfc9729">
+  <front>
+    <title>The Concealed HTTP Authentication Scheme</title>
+    <author fullname="D. Schinazi" initials="D." surname="Schinazi">
+      <organization/>
+    </author>
+    <author fullname="D. Oliver" initials="D." surname="Oliver">
+      <organization/>
+    </author>
+    <author fullname="J. Hoyland" initials="J." surname="Hoyland">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="February"/>
+    <workgroup>httpbis</workgroup>
+    <abstract>
+      <t>Most HTTP authentication schemes are probeable in the sense that it is possible for an unauthenticated client to probe whether an origin serves resources that require authentication. It is possible for an origin to hide the fact that it requires authentication by not generating Unauthorized status codes; however, that only works with non-cryptographic authentication schemes: cryptographic signatures require a fresh nonce to be signed. Prior to this document, there was no existing way for the origin to share such a nonce without exposing the fact that it serves resources that require authentication. This document defines a new non-probeable cryptographic authentication scheme.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9729"/>
+  <seriesInfo name="RFC" value="9729"/>
+  <seriesInfo name="IETF"/>
+</reference>
