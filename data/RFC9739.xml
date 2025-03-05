@@ -1,0 +1,31 @@
+<reference anchor="RFC.9739" target="https://www.rfc-editor.org/info/rfc9739">
+  <front>
+    <title>Protocol Independent Multicast Light (PIM Light)</title>
+    <author role="editor" fullname="H. Bidgoli" initials="H." surname="Bidgoli">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
+    <author fullname="M. Mishra" initials="M." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="M. McBride" initials="M." surname="McBride">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>pim</workgroup>
+    <abstract>
+      <t>This document specifies Protocol Independent Multicast Light (PIM Light) and the PIM Light Interface (PLI). A PLI does not need a PIM Hello message to accept PIM Join/Prune messages, and it can signal multicast states over networks that cannot support full PIM neighbor discovery, such as Bit Index Explicit Replication (BIER) networks that connect two or more PIM domains. This document outlines the PIM Light protocol and procedures to ensure loop-free multicast traffic between two or more PIM Light routers.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9739"/>
+  <seriesInfo name="RFC" value="9739"/>
+  <seriesInfo name="IETF"/>
+</reference>

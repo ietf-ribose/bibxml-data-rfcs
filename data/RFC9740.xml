@@ -1,0 +1,22 @@
+<reference anchor="RFC.9740" target="https://www.rfc-editor.org/info/rfc9740">
+  <front>
+    <title>New IPFIX Information Elements for TCP Options and IPv6 Extension Headers</title>
+    <author fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="B. Claise" initials="B." surname="Claise">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>This document specifies new IP Flow Information Export (IPFIX) Information Elements (IEs) to solve issues with existing ipv6ExtensionHeaders and tcpOptions IPFIX IEs, especially the ability to export any observed IPv6 extension headers or TCP options.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9740"/>
+  <seriesInfo name="RFC" value="9740"/>
+  <seriesInfo name="IETF"/>
+</reference>
