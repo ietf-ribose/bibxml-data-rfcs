@@ -1,0 +1,29 @@
+<reference anchor="RFC.9746" target="https://www.rfc-editor.org/info/rfc9746">
+  <front>
+    <title>BGP EVPN Multihoming Extensions for Split-Horizon Filtering</title>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author fullname="K. Nagaraj" initials="K." surname="Nagaraj">
+      <organization/>
+    </author>
+    <author fullname="W. Lin" initials="W." surname="Lin">
+      <organization/>
+    </author>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>bess</workgroup>
+    <abstract>
+      <t>An Ethernet Virtual Private Network (EVPN) is commonly used with Network Virtualization Overlay (NVO) tunnels as well as with MPLS and Segment Routing (SR) tunnels. The multihoming procedures in EVPN may vary based on the type of tunnel used within the EVPN Broadcast Domain. Specifically, there are two multihoming split-horizon procedures designed to prevent looped frames on multihomed Customer Edge (CE) devices: the Ethernet Segment Identifier (ESI) Label-based procedure and the local-bias procedure. The ESI Label-based split-horizon procedure is applied to MPLS-based tunnels such as MPLS over UDP (MPLSoUDP), while the local-bias procedure is used for other tunnels such as Virtual eXtensible Local Area Network (VXLAN) tunnels.</t>
+      <t>Current specifications do not allow operators to choose which split-horizon procedure to use for tunnel encapsulations that support both methods. Examples of tunnels that may support both procedures include MPLSoUDP, MPLS over GRE (MPLSoGRE), Generic Network Virtualization Encapsulation (Geneve), and Segment Routing over IPv6 (SRv6) tunnels. This document updates the EVPN multihoming procedures described in RFCs 7432 and 8365, enabling operators to select the split-horizon procedure that meets their specific requirements.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9746"/>
+  <seriesInfo name="RFC" value="9746"/>
+  <seriesInfo name="IETF"/>
+</reference>
