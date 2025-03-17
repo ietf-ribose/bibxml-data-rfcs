@@ -1,0 +1,25 @@
+<reference anchor="RFC.9755" target="https://www.rfc-editor.org/info/rfc9755">
+  <front>
+    <title>IMAP Support for UTF-8</title>
+    <author fullname="P. Resnick" initials="P." surname="Resnick">
+      <organization/>
+    </author>
+    <author fullname="J. Yao" initials="J." surname="Yao">
+      <organization/>
+    </author>
+    <author fullname="A. Gulbrandsen" initials="A." surname="Gulbrandsen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>extra</workgroup>
+    <abstract>
+      <t>This specification extends the Internet Message Access Protocol, specifically IMAP4rev1 (RFC 3501), to support UTF-8 encoded international characters in user names, mail addresses, and message headers. This specification replaces RFC 6855. This specification does not extend IMAP4rev2 (RFC 9051), since that protocol includes everything in this extension.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9755"/>
+  <seriesInfo name="RFC" value="9755"/>
+  <seriesInfo name="IETF"/>
+</reference>
