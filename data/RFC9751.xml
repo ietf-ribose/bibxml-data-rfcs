@@ -1,0 +1,19 @@
+<reference anchor="RFC.9751" target="https://www.rfc-editor.org/info/rfc9751">
+  <front>
+    <title>Closing the RTP Payload Format Media Types Registry</title>
+    <author fullname="M. Westerlund" initials="M." surname="Westerlund">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>avtcore</workgroup>
+    <abstract>
+      <t>The working group process and the authors of RTP payload formats have sometimes failed to ensure that the media types are registered in the IANA "RTP Payload Format Media Types" registry as recommended by RFC 8088. To simplify the process and rely only on the "Media Types" registry, this document closes the RTP payload- specific registry. In addition, it updates the instruction in RFC 8088 to reflect this change.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9751"/>
+  <seriesInfo name="RFC" value="9751"/>
+  <seriesInfo name="IETF"/>
+</reference>
