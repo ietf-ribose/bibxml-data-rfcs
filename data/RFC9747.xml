@@ -1,0 +1,32 @@
+<reference anchor="RFC.9747" target="https://www.rfc-editor.org/info/rfc9747">
+  <front>
+    <title>Unaffiliated Bidirectional Forwarding Detection (BFD) Echo</title>
+    <author fullname="W. Cheng" initials="W." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="R. Wang" initials="R." surname="Wang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="X. Min" initials="X." surname="Min">
+      <organization/>
+    </author>
+    <author fullname="R. Rahman" initials="R." surname="Rahman">
+      <organization/>
+    </author>
+    <author fullname="R. Boddireddy" initials="R." surname="Boddireddy">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>bfd</workgroup>
+    <abstract>
+      <t>This document specifies an extension to the Bidirectional Forwarding Detection (BFD) protocol that enables the use of the BFD Echo function without the need for an associated BFD control session. This "Unaffiliated BFD Echo" mechanism allows rapid detection of forwarding path failures in networks where establishing BFD control sessions is impractical or undesirable. By decoupling the Echo function from the control plane, network devices can utilize BFD's fast failure detection capabilities in a simplified manner, enhancing network resiliency and operational efficiency.</t>
+      <t>This document updates RFC 5880 by defining a new Unaffiliated BFD Echo mechanism.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9747"/>
+  <seriesInfo name="RFC" value="9747"/>
+  <seriesInfo name="IETF"/>
+</reference>
