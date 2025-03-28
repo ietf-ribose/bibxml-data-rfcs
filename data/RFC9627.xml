@@ -1,0 +1,31 @@
+<reference anchor="RFC.9627" target="https://www.rfc-editor.org/info/rfc9627">
+  <front>
+    <title>The Layer Refresh Request (LRR) RTCP Feedback Message</title>
+    <author fullname="J. Lennox" initials="J." surname="Lennox">
+      <organization/>
+    </author>
+    <author fullname="D. Hong" initials="D." surname="Hong">
+      <organization/>
+    </author>
+    <author fullname="J. Uberti" initials="J." surname="Uberti">
+      <organization/>
+    </author>
+    <author fullname="S. Holmer" initials="S." surname="Holmer">
+      <organization/>
+    </author>
+    <author fullname="M. Flodman" initials="M." surname="Flodman">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>avtext</workgroup>
+    <abstract>
+      <t>This memo describes the RTCP Payload-Specific Feedback Message Layer Refresh Request (LRR), which can be used to request a state refresh of one or more substreams of a layered media stream. This document also defines its use with several RTP payloads for scalable media formats.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9627"/>
+  <seriesInfo name="RFC" value="9627"/>
+  <seriesInfo name="IETF"/>
+</reference>
