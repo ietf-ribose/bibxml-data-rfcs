@@ -1,0 +1,21 @@
+<reference anchor="RFC.9777" target="https://www.rfc-editor.org/info/rfc9777">
+  <front>
+    <title>Multicast Listener Discovery Version 2 (MLDv2) for IPv6</title>
+    <author role="editor" fullname="B. Haberman" initials="B." surname="Haberman">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="March"/>
+    <workgroup>pim</workgroup>
+    <abstract>
+      <t>This document specifies the Multicast Listener Discovery version 2 (MLDv2) protocol. MLD is used by an IPv6 router to discover the presence of multicast listeners on directly attached links and to discover which multicast addresses are of interest to those neighboring nodes. MLDv2 is designed to be interoperable with MLDv1. MLDv2 adds the ability for a node to report interest in listening to packets with a particular multicast address only from specific source addresses or from all sources except for specific source addresses.</t>
+      <t>This document updates RFC 2710 and obsoletes RFC 3810.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9777"/>
+  <seriesInfo name="STD" value="101"/>
+  <seriesInfo name="RFC" value="9777"/>
+  <seriesInfo name="IETF"/>
+</reference>
