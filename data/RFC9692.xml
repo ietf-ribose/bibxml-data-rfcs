@@ -1,0 +1,34 @@
+<reference anchor="RFC.9692" target="https://www.rfc-editor.org/info/rfc9692">
+  <front>
+    <title>RIFT: Routing in Fat Trees</title>
+    <author role="editor" fullname="T. Przygienda" initials="T." surname="Przygienda">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J. Head" initials="J." surname="Head">
+      <organization/>
+    </author>
+    <author fullname="A. Sharma" initials="A." surname="Sharma">
+      <organization/>
+    </author>
+    <author fullname="P. Thubert" initials="P." surname="Thubert">
+      <organization/>
+    </author>
+    <author fullname="B. Rijsman" initials="B." surname="Rijsman">
+      <organization/>
+    </author>
+    <author fullname="D. Afanasiev" initials="D." surname="Afanasiev">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="April"/>
+    <workgroup>rift</workgroup>
+    <abstract>
+      <t>This document defines a specialized, dynamic routing protocol for Clos, fat tree, and variants thereof. These topologies were initially used within crossbar interconnects and consequently router and switch backplanes, but their characteristics make them ideal for constructing IP fabrics as well. The protocol specified by this document is optimized towards the minimization of control plane state to support very large substrates as well as the minimization of configuration and operational complexity to allow for a simplified deployment of said topologies.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9692"/>
+  <seriesInfo name="RFC" value="9692"/>
+  <seriesInfo name="IETF"/>
+</reference>
