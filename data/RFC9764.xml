@@ -1,0 +1,32 @@
+<reference anchor="RFC.9764" target="https://www.rfc-editor.org/info/rfc9764">
+  <front>
+    <title>Bidirectional Forwarding Detection (BFD) Encapsulated in Large Packets</title>
+    <author fullname="J. Haas" initials="J." surname="Haas">
+      <organization/>
+    </author>
+    <author fullname="A. Fu" initials="A." surname="Fu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="April"/>
+    <workgroup>bfd</workgroup>
+    <abstract>
+      <t>The Bidirectional Forwarding Detection (BFD) protocol is commonly
+used to verify connectivity between two systems. BFD packets are
+typically very small. It is desirable in some circumstances to know
+not only that the path between two systems is reachable, but also
+that it is capable of carrying a payload of a particular size. This
+document specifies how to implement such a mechanism using BFD in
+Asynchronous mode.</t>
+      <t>YANG modules for managing this mechanism are also defined in this
+document. These YANG modules augment the existing BFD YANG modules
+defined in RFC 9314. The YANG modules in this document conform to the
+Network Management Datastore Architecture (NMDA) (RFC 8342).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9764"/>
+  <seriesInfo name="RFC" value="9764"/>
+  <seriesInfo name="IETF"/>
+</reference>
