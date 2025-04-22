@@ -1,0 +1,25 @@
+<reference anchor="RFC.9753" target="https://www.rfc-editor.org/info/rfc9753">
+  <front>
+    <title>Extension for Stateful PCE to Allow Optional Processing of Path Computation Element Communication Protocol (PCEP) Objects</title>
+    <author fullname="C. Li" initials="C." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="H. Zheng" initials="H." surname="Zheng">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="April"/>
+    <workgroup>pce</workgroup>
+    <abstract>
+      <t>This document introduces a mechanism to mark some of the Path Computation Element Communication Protocol (PCEP) objects as optional during PCEP message exchange, so the stateful Path Computation Element (PCE) model can relax some constraints during path computation and setup. This document introduces this relaxation to stateful PCE, and it updates RFC 8231.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9753"/>
+  <seriesInfo name="RFC" value="9753"/>
+  <seriesInfo name="IETF"/>
+</reference>
