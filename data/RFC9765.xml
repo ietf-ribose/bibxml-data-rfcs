@@ -1,0 +1,20 @@
+<reference anchor="RFC.9765" target="https://www.rfc-editor.org/info/rfc9765">
+  <front>
+    <title>RADIUS/1.1: Leveraging Application-Layer Protocol Negotiation (ALPN) to Remove MD5</title>
+    <author fullname="A. DeKok" initials="A." surname="DeKok">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="April"/>
+    <workgroup>radext</workgroup>
+    <abstract>
+      <t>This document defines Application-Layer Protocol Negotiation (ALPN) extensions for use with RADIUS/TLS and RADIUS/DTLS. These extensions permit the negotiation of an application protocol variant of RADIUS called "RADIUS/1.1". No changes are made to RADIUS/UDP or RADIUS/TCP. The extensions allow the negotiation of a transport profile where the RADIUS shared secret is no longer used, and all MD5-based packet authentication and attribute obfuscation methods are removed.</t>
+      <t>This document updates RFCs 2865, 2866, 5176, 6613, 6614, and 7360.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9765"/>
+  <seriesInfo name="RFC" value="9765"/>
+  <seriesInfo name="IETF"/>
+</reference>
