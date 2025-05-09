@@ -1,0 +1,31 @@
+<reference anchor="RFC.9779" target="https://www.rfc-editor.org/info/rfc9779">
+  <front>
+    <title>Performance Measurement for Segment Routing Networks with the MPLS Data Plane</title>
+    <author role="editor" fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="D. Voyer" initials="D." surname="Voyer">
+      <organization/>
+    </author>
+    <author fullname="S. Salsano" initials="S." surname="Salsano">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="May"/>
+    <workgroup>mpls</workgroup>
+    <abstract>
+      <t>This document specifies the application of the MPLS loss and delay measurement techniques (originally defined in RFCs 6374, 7876, and 9341) within Segment Routing (SR) networks that utilize the MPLS data plane, also referred to as Segment Routing over MPLS (SR-MPLS). SR enables the forwarding of packets through an ordered list of instructions, known as segments, which are imposed at the ingress node. This document defines the procedures and extensions necessary to perform accurate measurement of packet loss and delay in SR-MPLS environments, ensuring that network operators can effectively measure and maintain the quality of service across their SR-based MPLS networks. This includes coverage of links and end-to-end SR-MPLS paths, as well as SR Policies.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9779"/>
+  <seriesInfo name="RFC" value="9779"/>
+  <seriesInfo name="IETF"/>
+</reference>
