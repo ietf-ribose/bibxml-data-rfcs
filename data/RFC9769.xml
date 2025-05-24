@@ -1,0 +1,22 @@
+<reference anchor="RFC.9769" target="https://www.rfc-editor.org/info/rfc9769">
+  <front>
+    <title>NTP Interleaved Modes</title>
+    <author fullname="M. Lichvar" initials="M." surname="Lichvar">
+      <organization/>
+    </author>
+    <author fullname="A. Malhotra" initials="A." surname="Malhotra">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="May"/>
+    <workgroup>ntp</workgroup>
+    <abstract>
+      <t>This document specifies interleaved modes for the Network Time Protocol (NTP). These new modes improve the accuracy of time synchronization by enabling the use of more accurate transmit timestamps that are available only after the transmission of NTP messages. These enhancements are intended to improve timekeeping in environments where high accuracy is critical. This document updates RFC 5905 by defining these new operational modes.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9769"/>
+  <seriesInfo name="RFC" value="9769"/>
+  <seriesInfo name="IETF"/>
+</reference>
