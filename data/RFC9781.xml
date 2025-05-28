@@ -1,0 +1,28 @@
+<reference anchor="RFC.9781" target="https://www.rfc-editor.org/info/rfc9781">
+  <front>
+    <title>A Concise Binary Object Representation (CBOR) Tag for Unprotected CBOR Web Token Claims Sets (UCCS)</title>
+    <author fullname="H. Birkholz" initials="H." surname="Birkholz">
+      <organization/>
+    </author>
+    <author fullname="J. O'Donoghue" initials="J." surname="O'Donoghue">
+      <organization/>
+    </author>
+    <author fullname="N. Cam-Winget" initials="N." surname="Cam-Winget">
+      <organization/>
+    </author>
+    <author fullname="C. Bormann" initials="C." surname="Bormann">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="May"/>
+    <workgroup>rats</workgroup>
+    <abstract>
+      <t>This document defines the Unprotected CWT Claims Set (UCCS), a data format for representing a CBOR Web Token (CWT) Claims Set without protecting it by a signature, Message Authentication Code (MAC), or encryption. UCCS enables the use of CWT claims in environments where protection is provided by other means, such as secure communication channels or trusted execution environments. This specification defines a CBOR tag for UCCS and describes the UCCS format, its encoding, and its processing considerations. It also discusses security implications of using unprotected claims sets.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9781"/>
+  <seriesInfo name="RFC" value="9781"/>
+  <seriesInfo name="IETF"/>
+</reference>
