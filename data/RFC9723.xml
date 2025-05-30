@@ -1,0 +1,32 @@
+<reference anchor="RFC.9723" target="https://www.rfc-editor.org/info/rfc9723">
+  <front>
+    <title>BGP Colored Prefix Routing (CPR) for Services Based on Segment Routing over IPv6 (SRv6)</title>
+    <author fullname="H. Wang" initials="H." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="T. Han" initials="T." surname="Han">
+      <organization/>
+    </author>
+    <author fullname="R. Chen" initials="R." surname="Chen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="May"/>
+    <workgroup>idr</workgroup>
+    <abstract>
+      <t>This document describes a mechanism to advertise IPv6 prefixes in BGP that are associated with Color Extended Communities to establish end-to-end intent-aware paths for Segment Routing over IPv6 (SRv6) services. Such IPv6 prefixes are called "Colored Prefixes", and this mechanism is called "Colored Prefix Routing" (CPR). In SRv6 networks, the Colored Prefixes are the SRv6 locators associated with different intents. SRv6 services (e.g., SRv6 VPN services) with a specific intent could be assigned with SRv6 Segment Identifiers (SIDs) under the corresponding SRv6 locators, which are advertised as Colored Prefixes.</t>
+      <t>This operational methodology allows the SRv6 service traffic to be steered into end-to-end intent-aware paths based on the longest prefix matching of SRv6 Service SIDs to the Colored Prefixes. The existing IPv6 Address Family and Color Extended Community are reused to advertise IPv6 Colored Prefixes without new BGP extensions; thus, this mechanism is easy to interoperate and can be deployed incrementally in multi-Autonomous System (AS) networks that belong to the same trusted domain.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9723"/>
+  <seriesInfo name="RFC" value="9723"/>
+  <seriesInfo name="IETF"/>
+</reference>
