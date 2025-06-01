@@ -1,0 +1,28 @@
+<reference anchor="RFC.9772" target="https://www.rfc-editor.org/info/rfc9772">
+  <front>
+    <title>Active Operations, Administration, and Maintenance (OAM) for Use in Generic Network Virtualization Encapsulation (Geneve)</title>
+    <author fullname="G. Mirsky" initials="G." surname="Mirsky">
+      <organization/>
+    </author>
+    <author fullname="S. Boutros" initials="S." surname="Boutros">
+      <organization/>
+    </author>
+    <author fullname="D. Black" initials="D." surname="Black">
+      <organization/>
+    </author>
+    <author fullname="S. Pallagatti" initials="S." surname="Pallagatti">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="May"/>
+    <workgroup>nvo3</workgroup>
+    <abstract>
+      <t>Geneve (Generic Network Virtualization Encapsulation) is a flexible and extensible network virtualization overlay protocol designed to encapsulate network packets for transport across underlying physical networks. This document specifies the requirements and provides a framework for Operations, Administration, and Maintenance (OAM) in Geneve networks. It outlines the OAM functions necessary to monitor, diagnose, and troubleshoot Geneve overlay networks to ensure proper operation and performance. The document aims to guide the implementation of OAM mechanisms within the Geneve protocol to support network operators in maintaining reliable and efficient virtualized network environments.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9772"/>
+  <seriesInfo name="RFC" value="9772"/>
+  <seriesInfo name="IETF"/>
+</reference>
