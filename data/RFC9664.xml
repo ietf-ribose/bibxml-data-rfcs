@@ -1,0 +1,22 @@
+<reference anchor="RFC.9664" target="https://www.rfc-editor.org/info/rfc9664">
+  <front>
+    <title>An EDNS(0) Option to Negotiate Leases on DNS Updates</title>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>dnssd</workgroup>
+    <abstract>
+      <t>This document describes an EDNS(0) option that can be used between DNS Update Requesters and authoritative DNS servers to include a lifetime (lease duration) in a DNS Update or DNS Update Response, allowing a server to garbage collect stale Resource Records that have been added by DNS Updates if they are not renewed.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9664"/>
+  <seriesInfo name="RFC" value="9664"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC.9665" target="https://www.rfc-editor.org/info/rfc9665">
+  <front>
+    <title>Service Registration Protocol for DNS-Based Service Discovery</title>
+    <author fullname="T. Lemon" initials="T." surname="Lemon">
+      <organization/>
+    </author>
+    <author fullname="S. Cheshire" initials="S." surname="Cheshire">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>dnssd</workgroup>
+    <abstract>
+      <t>The Service Registration Protocol (SRP) for DNS-based Service Discovery (DNS-SD) uses the standard DNS Update mechanism to enable DNS-SD using only unicast packets. This makes it possible to deploy DNS-SD without multicast, which greatly improves scalability and improves performance on networks where multicast service is not an optimal choice, particularly IEEE 802.11 (Wi-Fi) and IEEE 802.15.4 networks. DNS-SD Service registration uses public keys and SIG(0) to allow services to defend their registrations.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9665"/>
+  <seriesInfo name="RFC" value="9665"/>
+  <seriesInfo name="IETF"/>
+</reference>
