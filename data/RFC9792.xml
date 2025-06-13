@@ -1,0 +1,32 @@
+<reference anchor="RFC.9792" target="https://www.rfc-editor.org/info/rfc9792">
+  <front>
+    <title>Prefix Flag Extension for OSPFv2 and OSPFv3</title>
+    <author fullname="R. Chen" initials="R." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="D. Zhao" initials="D." surname="Zhao">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="L. Gong" initials="L." surname="Gong">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>Each OSPF prefix can be advertised with an 8-bit field to indicate specific properties of that prefix. However, all the OSPFv3 Prefix Options bits have already been assigned, and only a few bits remain unassigned in the Flags field of the OSPFv2 Extended Prefix TLV.</t>
+      <t>This document solves this problem by defining a variable-length Prefix Extended Flags sub-TLV for OSPF. This sub-TLV is applicable to OSPFv2 and OSPFv3.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9792"/>
+  <seriesInfo name="RFC" value="9792"/>
+  <seriesInfo name="IETF"/>
+</reference>
