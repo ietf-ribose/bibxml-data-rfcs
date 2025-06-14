@@ -1,0 +1,34 @@
+<reference anchor="RFC.9793" target="https://www.rfc-editor.org/info/rfc9793">
+  <front>
+    <title>BGP Extensions for Bit Index Explicit Replication (BIER)</title>
+    <author fullname="X. Xu" initials="X." surname="Xu">
+      <organization/>
+    </author>
+    <author fullname="M. Chen" initials="M." surname="Chen">
+      <organization/>
+    </author>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="IJ. Wijnands" initials="IJ." surname="Wijnands">
+      <organization/>
+    </author>
+    <author fullname="T. Przygienda" initials="T." surname="Przygienda">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>bier</workgroup>
+    <abstract>
+      <t>Bit Index Explicit Replication (BIER) is a multicast forwarding architecture that doesn't require an explicit tree-building protocol and doesn't require intermediate routers to maintain per-tree multicast states. Some BIER-specific information and states, which are only in proportion to the number of BIER routers but not per-tree, do need to be advertised, calculated, and maintained. This document describes BGP extensions for advertising the BIER information and methods for calculating BIER states based on the advertisements.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9793"/>
+  <seriesInfo name="RFC" value="9793"/>
+  <seriesInfo name="IETF"/>
+</reference>

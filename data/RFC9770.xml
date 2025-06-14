@@ -1,0 +1,28 @@
+<reference anchor="RFC.9770" target="https://www.rfc-editor.org/info/rfc9770">
+  <front>
+    <title>Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework</title>
+    <author fullname="M. Tiloca" initials="M." surname="Tiloca">
+      <organization/>
+    </author>
+    <author fullname="F. Palombini" initials="F." surname="Palombini">
+      <organization/>
+    </author>
+    <author fullname="S. Echeverria" initials="S." surname="Echeverria">
+      <organization/>
+    </author>
+    <author fullname="G. Lewis" initials="G." surname="Lewis">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>ace</workgroup>
+    <abstract>
+      <t>This document specifies a method of the Authentication and Authorization for Constrained Environments (ACE) framework, which allows an authorization server to notify clients and resource servers (i.e., registered devices) about revoked access tokens. As specified in this document, the method allows clients and resource servers (RSs) to access a Token Revocation List (TRL) on the authorization server by using the Constrained Application Protocol (CoAP), with the possible additional use of resource observation. Resulting (unsolicited) notifications of revoked access tokens complement alternative approaches such as token introspection, while not requiring additional endpoints on clients and RSs.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9770"/>
+  <seriesInfo name="RFC" value="9770"/>
+  <seriesInfo name="IETF"/>
+</reference>
