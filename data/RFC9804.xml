@@ -1,0 +1,21 @@
+<reference anchor="RFC.9804" target="https://www.rfc-editor.org/info/rfc9804">
+  <front>
+    <title>Simple Public Key Infrastructure (SPKI) S-Expressions</title>
+    <author fullname="R. Rivest" initials="R." surname="Rivest">
+      <organization/>
+    </author>
+    <author fullname="D. Eastlake 3rd" initials="D." surname="Eastlake 3rd">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <abstract>
+      <t>This memo specifies the data structure representation that was devised to support Simple Public Key Infrastructure (SPKI) certificates, as detailed in RFC 2692, with the intent that it be more widely applicable. It has been and is being used elsewhere. There are multiple implementations in a variety of programming languages. Uses of this representation are referred to in this document as "S-expressions". This memo makes precise the encodings of these SPKI S-expressions: It gives a "canonical form" for them, describes two "transport" representations, and also describes an "advanced" format for display to people.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9804"/>
+  <seriesInfo name="RFC" value="9804"/>
+  <seriesInfo name="IETF"/>
+</reference>
