@@ -1,0 +1,22 @@
+<reference anchor="RFC.9798" target="https://www.rfc-editor.org/info/rfc9798">
+  <front>
+    <title>PIM Join/Prune Attributes for Locator/ID Separation Protocol (LISP) Environments Using Underlay Multicast</title>
+    <author fullname="V. Govindan" initials="V." surname="Govindan">
+      <organization/>
+    </author>
+    <author fullname="S. Venaas" initials="S." surname="Venaas">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>pim</workgroup>
+    <abstract>
+      <t>This document specifies an update to the Receiver RLOC (Routing Locator) field of the PIM Join/Prune attribute that supports the construction of multicast distribution trees where the source and receivers are located in different Locator/ID Separation Protocol (LISP) sites and are connected using underlay IP multicast. This attribute allows the receiver site to signal the underlay multicast group to the control plane of the root Ingress Tunnel Router (ITR). This document updates RFC 8059.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9798"/>
+  <seriesInfo name="RFC" value="9798"/>
+  <seriesInfo name="IETF"/>
+</reference>

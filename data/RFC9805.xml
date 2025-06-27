@@ -1,0 +1,20 @@
+<reference anchor="RFC.9805" target="https://www.rfc-editor.org/info/rfc9805">
+  <front>
+    <title>Deprecation of the IPv6 Router Alert Option for New Protocols</title>
+    <author fullname="R. Bonica" initials="R." surname="Bonica">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>6man</workgroup>
+    <abstract>
+      <t>This document deprecates the IPv6 Router Alert option. Protocols that use the IPv6 Router Alert option may continue to do so, even in future versions. However, new protocols that are standardized in the future must not use the IPv6 Router Alert option.</t>
+      <t>This document updates RFC 2711.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9805"/>
+  <seriesInfo name="RFC" value="9805"/>
+  <seriesInfo name="IETF"/>
+</reference>
