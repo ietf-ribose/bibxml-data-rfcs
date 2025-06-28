@@ -1,0 +1,19 @@
+<reference anchor="RFC.9806" target="https://www.rfc-editor.org/info/rfc9806">
+  <front>
+    <title>Updates to SIP-Based Media Recording (SIPREC) to Correct Metadata Media Type</title>
+    <author fullname="D. Mongrain" initials="D." surname="Mongrain">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>sipcore</workgroup>
+    <abstract>
+      <t>The SIP-based Media Recording (SIPREC) protocol is defined by both "Session Initiation Protocol (SIP) Recording Metadata" (RFC 7865) and "Session Recording Protocol" (RFC 7866). Unfortunately, both RFCs contradict each other regarding how recording metadata is to be labeled. In addition, neither RFC registered the new media type. This document updates RFC 7866 to align with RFC 7865 when labeling recording metadata and also registers the media type.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9806"/>
+  <seriesInfo name="RFC" value="9806"/>
+  <seriesInfo name="IETF"/>
+</reference>

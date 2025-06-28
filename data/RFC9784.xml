@@ -1,0 +1,31 @@
+<reference anchor="RFC.9784" target="https://www.rfc-editor.org/info/rfc9784">
+  <front>
+    <title>Virtual Ethernet Segments for EVPN and Provider Backbone Bridge EVPN</title>
+    <author fullname="A. Sajassi" initials="A." surname="Sajassi">
+      <organization/>
+    </author>
+    <author fullname="P. Brissette" initials="P." surname="Brissette">
+      <organization/>
+    </author>
+    <author fullname="R. Schell" initials="R." surname="Schell">
+      <organization/>
+    </author>
+    <author fullname="J. Drake" initials="J." surname="Drake">
+      <organization/>
+    </author>
+    <author fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>bess</workgroup>
+    <abstract>
+      <t>Ethernet VPN (EVPN) and Provider Backbone Bridge EVPN (PBB-EVPN) introduce a comprehensive suite of solutions for delivering Ethernet services over MPLS/IP networks. These solutions offer advanced multihoming capabilities. Specifically, they support Single-Active and All-Active redundancy modes for an Ethernet Segment (ES), which is defined as a collection of physical links connecting a multihomed device or network to a set of Provider Edge (PE) devices. This document extends the concept of an ES by allowing an ES to be associated with a set of Ethernet Virtual Circuits (EVCs), such as VLANs, or other entities, including MPLS Label Switched Paths (LSPs) or pseudowires (PWs). This extended concept is referred to as virtual Ethernet Segments (vESes). This document lists the requirements and specifies the necessary extensions to support vES in both EVPN and PBB-EVPN.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9784"/>
+  <seriesInfo name="RFC" value="9784"/>
+  <seriesInfo name="IETF"/>
+</reference>
