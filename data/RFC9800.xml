@@ -1,0 +1,32 @@
+<reference anchor="RFC.9800" target="https://www.rfc-editor.org/info/rfc9800">
+  <front>
+    <title>Compressed SRv6 Segment List Encoding</title>
+    <author role="editor" fullname="W. Cheng" initials="W." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="Z. Li" initials="Z." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author role="editor" fullname="F. Clad" initials="F." surname="Clad">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="June"/>
+    <workgroup>spring</workgroup>
+    <abstract>
+      <t>Segment Routing over IPv6 (SRv6) is the instantiation of Segment Routing (SR) on the IPv6 data plane. This document specifies new flavors for the SRv6 endpoint behaviors defined in RFC 8986, which enable the compression of an SRv6 segment list. Such compression significantly reduces the size of the SRv6 encapsulation needed to steer packets over long segment lists.</t>
+      <t>This document updates RFC 8754 by allowing a Segment List entry in the Segment Routing Header (SRH) to be either an IPv6 address, as specified in RFC 8754, or a REPLACE-CSID container in packed format, as specified in this document.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9800"/>
+  <seriesInfo name="RFC" value="9800"/>
+  <seriesInfo name="IETF"/>
+</reference>
