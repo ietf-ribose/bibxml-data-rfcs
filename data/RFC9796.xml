@@ -1,0 +1,23 @@
+<reference anchor="RFC.9796" target="https://www.rfc-editor.org/info/rfc9796">
+  <front>
+    <title>SIP Call-Info Parameters for Rich Call Data</title>
+    <author fullname="C. Wendt" initials="C." surname="Wendt">
+      <organization/>
+    </author>
+    <author fullname="J. Peterson" initials="J." surname="Peterson">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>sipcore</workgroup>
+    <abstract>
+      <t>This document specifies a usage of the SIP Call-Info header field that incorporates Rich Call Data (RCD) associated with the identity of the originating party in order to provide to the terminating party a description of the caller (including details about the reason for the session). RCD includes information about the caller beyond the telephone number (such as a calling name, logo, photo, or jCard object representing the caller), which can help the called party decide how to handle the session request.</t>
+      <t>This document defines three new parameters 'call-reason', 'verified', and 'integrity' for the SIP Call-Info header field and also a new token ("jcard") for the 'purpose' parameter of the Call-Info header field. It also provides guidance on the use of the Call-Info 'purpose' parameter token, "icon".</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9796"/>
+  <seriesInfo name="RFC" value="9796"/>
+  <seriesInfo name="IETF"/>
+</reference>
