@@ -1,0 +1,22 @@
+<reference anchor="RFC.9809" target="https://www.rfc-editor.org/info/rfc9809">
+  <front>
+    <title>X.509 Certificate Extended Key Usage (EKU) for Configuration, Updates, and Safety-Critical Communication</title>
+    <author fullname="H. Brockhaus" initials="H." surname="Brockhaus">
+      <organization/>
+    </author>
+    <author fullname="D. Goltzsche" initials="D." surname="Goltzsche">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>RFC 5280 defines the Extended Key Usage (EKU) extension and specifies several extended key purpose identifiers (KeyPurposeIds) for use with that extension in X.509 certificates. This document defines KeyPurposeIds for general-purpose and trust anchor configuration files, for software and firmware update packages, and for safety-critical communication to be included in the EKU extension of X.509 v3 public key certificates.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9809"/>
+  <seriesInfo name="RFC" value="9809"/>
+  <seriesInfo name="IETF"/>
+</reference>
