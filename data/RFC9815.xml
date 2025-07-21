@@ -1,0 +1,28 @@
+<reference anchor="RFC.9815" target="https://www.rfc-editor.org/info/rfc9815">
+  <front>
+    <title>BGP Link State (BGP-LS) Shortest Path First (SPF) Routing</title>
+    <author fullname="K. Patel" initials="K." surname="Patel">
+      <organization/>
+    </author>
+    <author fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="S. Zandi" initials="S." surname="Zandi">
+      <organization/>
+    </author>
+    <author fullname="W. Henderickx" initials="W." surname="Henderickx">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>lsvr</workgroup>
+    <abstract>
+      <t>Many Massively Scaled Data Centers (MSDCs) have converged on simplified Layer 3 (L3) routing. Furthermore, requirements for operational simplicity have led many of these MSDCs to converge on BGP as their single routing protocol for both fabric routing and Data Center Interconnect (DCI) routing. This document describes extensions to BGP for use with BGP Link State (BGP-LS) distribution and the Shortest Path First (SPF) algorithm. In doing this, it allows BGP to be efficiently used as both the underlay protocol and the overlay protocol in MSDCs.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9815"/>
+  <seriesInfo name="RFC" value="9815"/>
+  <seriesInfo name="IETF"/>
+</reference>
