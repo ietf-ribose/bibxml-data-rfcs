@@ -1,0 +1,29 @@
+<reference anchor="RFC.9811" target="https://www.rfc-editor.org/info/rfc9811">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure -- HTTP Transfer for the Certificate Management Protocol (CMP)</title>
+    <author fullname="H. Brockhaus" initials="H." surname="Brockhaus">
+      <organization/>
+    </author>
+    <author fullname="D. von Oheimb" initials="D." surname="von Oheimb">
+      <organization/>
+    </author>
+    <author fullname="M. Ounsworth" initials="M." surname="Ounsworth">
+      <organization/>
+    </author>
+    <author fullname="J. Gray" initials="J." surname="Gray">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document describes how to layer the Certificate Management Protocol (CMP) over HTTP.</t>
+      <t>It includes the updates to RFC 6712 specified in Section 3 of RFC 9480; these updates introduce CMP URIs using a well-known prefix. It obsoletes RFC 6712; and, together with RFC 9810, it also obsoletes RFC 9480.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9811"/>
+  <seriesInfo name="RFC" value="9811"/>
+  <seriesInfo name="IETF"/>
+</reference>

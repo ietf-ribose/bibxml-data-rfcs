@@ -1,0 +1,30 @@
+<reference anchor="RFC.9810" target="https://www.rfc-editor.org/info/rfc9810">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure -- Certificate Management Protocol (CMP)</title>
+    <author fullname="H. Brockhaus" initials="H." surname="Brockhaus">
+      <organization/>
+    </author>
+    <author fullname="D. von Oheimb" initials="D." surname="von Oheimb">
+      <organization/>
+    </author>
+    <author fullname="M. Ounsworth" initials="M." surname="Ounsworth">
+      <organization/>
+    </author>
+    <author fullname="J. Gray" initials="J." surname="Gray">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document describes the Internet X.509 Public Key Infrastructure (PKI) Certificate Management Protocol (CMP). Protocol messages are defined for X.509v3 certificate creation and management. CMP provides interactions between client systems and PKI components such as a Registration Authority (RA) and a Certification Authority (CA).</t>
+      <t>This document adds support for management of certificates containing a Key Encapsulation Mechanism (KEM) public key and uses EnvelopedData instead of EncryptedValue. This document also includes the updates specified in Section 2 and Appendix A.2 of RFC 9480.</t>
+      <t>This document obsoletes RFC 4210, and together with RFC 9811, it also obsoletes RFC 9480. Appendix F of this document updates Section 9 of RFC 5912.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9810"/>
+  <seriesInfo name="RFC" value="9810"/>
+  <seriesInfo name="IETF"/>
+</reference>
