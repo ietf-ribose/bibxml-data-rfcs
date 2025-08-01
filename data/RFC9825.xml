@@ -1,0 +1,25 @@
+<reference anchor="RFC.9825" target="https://www.rfc-editor.org/info/rfc9825">
+  <front>
+    <title>Extensions to OSPF for Advertising Prefix Administrative Tags</title>
+    <author role="editor" fullname="A. Lindem" initials="A." surname="Lindem">
+      <organization/>
+    </author>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="Y. Qu" initials="Y." surname="Qu">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="July"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>It is useful for routers in OSPFv2 and OSPFv3 routing domains to be able to associate tags with prefixes. Previously, OSPFv2 and OSPFv3 were relegated to a single tag and only for Autonomous System (AS) External and Not-So-Stubby-Area (NSSA) prefixes. With the flexible encodings provided by OSPFv2 Prefix/Link Attribute Advertisement and OSPFv3 Extended Link State Advertisements (LSAs), multiple administrative tags may be advertised for all types of prefixes. These administrative tags can be used for many applications including route redistribution policy, selective prefix prioritization, selective IP Fast Reroute (IPFRR) prefix protection, and many others.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9825"/>
+  <seriesInfo name="RFC" value="9825"/>
+  <seriesInfo name="IETF"/>
+</reference>
