@@ -1,0 +1,37 @@
+<reference anchor="RFC.9817" target="https://www.rfc-editor.org/info/rfc9817">
+  <front>
+    <title>Use Cases for In-Network Computing</title>
+    <author fullname="I. Kunze" initials="I." surname="Kunze">
+      <organization/>
+    </author>
+    <author fullname="K. Wehrle" initials="K." surname="Wehrle">
+      <organization/>
+    </author>
+    <author fullname="D. Trossen" initials="D." surname="Trossen">
+      <organization/>
+    </author>
+    <author fullname="M-J. Montpetit" surname="M-J. Montpetit">
+      <organization/>
+    </author>
+    <author fullname="X. de Foy" initials="X." surname="de Foy">
+      <organization/>
+    </author>
+    <author fullname="D. Griffin" initials="D." surname="Griffin">
+      <organization/>
+    </author>
+    <author fullname="M. Rio" initials="M." surname="Rio">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="August"/>
+    <abstract>
+      <t>Computing in the Network (COIN) comes with the prospect of deploying processing functionality on networking devices such as switches and network interface cards. While such functionality can be beneficial, it has to be carefully placed into the context of the general Internet communication, and it needs to be clearly identified where and how those benefits apply.</t>
+      <t>This document presents some use cases to demonstrate how a number of salient COIN-related applications can benefit from COIN. Furthermore, to guide research on COIN, it identifies essential research questions and outlines desirable capabilities that COIN systems addressing these use cases may need to support. Finally, the document provides a preliminary categorization of the described research questions to source future work in this domain. This document is a product of the Computing in the Network Research Group (COINRG). It is not an IETF product and it is not a standard.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9817"/>
+  <seriesInfo name="RFC" value="9817"/>
+  <seriesInfo name="IRTF"/>
+</reference>
