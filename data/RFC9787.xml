@@ -1,0 +1,25 @@
+<reference anchor="RFC.9787" target="https://www.rfc-editor.org/info/rfc9787">
+  <front>
+    <title>Guidance on End-to-End Email Security</title>
+    <author role="editor" fullname="D. K. Gillmor" initials="D. K." surname="Gillmor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="A. Melnikov" initials="A." surname="Melnikov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="B. Hoeneisen" initials="B." surname="Hoeneisen">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="August"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>End-to-end cryptographic protections for email messages can provide useful security. However, the standards for providing cryptographic protection are extremely flexible. That flexibility can trap users and cause surprising failures. This document offers guidance for Mail User Agent (MUA) implementers to help mitigate those risks and to make end-to-end email simple and secure for the end user. It provides a useful set of vocabulary as well as recommendations to avoid common failures. It also identifies a number of currently unsolved usability and interoperability problems.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9787"/>
+  <seriesInfo name="RFC" value="9787"/>
+  <seriesInfo name="IETF"/>
+</reference>
