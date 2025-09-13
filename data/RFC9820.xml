@@ -1,0 +1,22 @@
+<reference anchor="RFC.9820" target="https://www.rfc-editor.org/info/rfc9820">
+  <front>
+    <title>Authentication Service Based on the Extensible Authentication Protocol (EAP) for Use with the Constrained Application Protocol (CoAP)</title>
+    <author fullname="R. Marin-Lopez" initials="R." surname="Marin-Lopez">
+      <organization/>
+    </author>
+    <author fullname="D. Garcia-Carrillo" initials="D." surname="Garcia-Carrillo">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="September"/>
+    <workgroup>ace</workgroup>
+    <abstract>
+      <t>This document specifies an authentication service that uses the Constrained Application Protocol (CoAP) as a transport method to carry the Extensible Authentication Protocol (EAP). As such, it defines an EAP lower layer based on CoAP called "CoAP-EAP". One of the main goals is to authenticate a CoAP-enabled Internet of Things (IoT) device (EAP peer) that intends to join a security domain managed by a Controller (EAP authenticator). Secondly, it allows deriving key material to protect CoAP messages exchanged between them based on Object Security for Constrained RESTful Environments (OSCORE), enabling the establishment of a security association between them.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9820"/>
+  <seriesInfo name="RFC" value="9820"/>
+  <seriesInfo name="IETF"/>
+</reference>
