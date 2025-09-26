@@ -1,0 +1,31 @@
+<reference anchor="RFC.9856" target="https://www.rfc-editor.org/info/rfc9856">
+  <front>
+    <title>Multicast Source Redundancy in EVPNs</title>
+    <author role="editor" fullname="J. Rabadan" initials="J." surname="Rabadan">
+      <organization/>
+    </author>
+    <author fullname="J. Kotalwar" initials="J." surname="Kotalwar">
+      <organization/>
+    </author>
+    <author fullname="S. Sathappan" initials="S." surname="Sathappan">
+      <organization/>
+    </author>
+    <author fullname="Z. Zhang" initials="Z." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="W. Lin" initials="W." surname="Lin">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="September"/>
+    <workgroup>bess</workgroup>
+    <abstract>
+      <t>In Ethernet Virtual Private Networks (EVPNs), IP multicast traffic replication and delivery play a crucial role in enabling efficient and scalable Layer 2 and Layer 3 services. A common deployment scenario involves redundant multicast sources that ensure high availability and resiliency. However, the presence of redundant sources can lead to duplicate IP multicast traffic in the network, causing inefficiencies and increased overhead. This document specifies extensions to the EVPN multicast procedures that allow for the suppression of duplicate IP multicast traffic from redundant sources. The proposed mechanisms enhance the EVPN's capability to deliver multicast traffic efficiently while maintaining high availability. These extensions are applicable to various EVPN deployment scenarios and provide guidelines to ensure consistent and predictable behavior across diverse network topologies.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9856"/>
+  <seriesInfo name="RFC" value="9856"/>
+  <seriesInfo name="IETF"/>
+</reference>
