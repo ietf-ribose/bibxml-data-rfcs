@@ -1,0 +1,26 @@
+<reference anchor="RFC.9859" target="https://www.rfc-editor.org/info/rfc9859">
+  <front>
+    <title>Generalized DNS Notifications</title>
+    <author fullname="J. Stenstam" initials="J." surname="Stenstam">
+      <organization/>
+    </author>
+    <author fullname="P. Thomassen" initials="P." surname="Thomassen">
+      <organization/>
+    </author>
+    <author fullname="J. Levine" initials="J." surname="Levine">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="September"/>
+    <workgroup>dnsop</workgroup>
+    <abstract>
+      <t>This document generalizes and extends the use of DNS NOTIFY (RFC 1996) beyond conventional zone transfer hints to allow other types of actions that were previously lacking a trigger mechanism to be triggered via the DNS. Notifications merely nudge the receiver to initiate a predefined action promptly (instead of on a schedule); they do not alter the action itself (including any security checks it might employ).</t>
+      <t>To enable this functionality, a method for discovering the receiver endpoint for such notification messages is introduced, via the new DSYNC record type. Notification types are recorded in a new registry, with initial support for parental NS and DS record updates including DNSSEC bootstrapping.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9859"/>
+  <seriesInfo name="RFC" value="9859"/>
+  <seriesInfo name="IETF"/>
+</reference>
