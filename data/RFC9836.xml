@@ -1,0 +1,38 @@
+<reference anchor="RFC.9836" target="https://www.rfc-editor.org/info/rfc9836">
+  <front>
+    <title>A YANG Data Model for Augmenting VPN Service and Network Models with Attachment Circuits</title>
+    <author role="editor" fullname="M. Boucadair" initials="M." surname="Boucadair">
+      <organization/>
+    </author>
+    <author fullname="R. Roberts" initials="R." surname="Roberts">
+      <organization/>
+    </author>
+    <author fullname="S. Barguil" initials="S." surname="Barguil">
+      <organization/>
+    </author>
+    <author fullname="O. Gonzalez de Dios" initials="O." surname="Gonzalez de Dios">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="September"/>
+    <workgroup>opsawg</workgroup>
+    <abstract>
+      <t>This document defines a YANG data model, referred to as the "AC Glue"
+model, to augment the LxVPN Service Model (LxSM) and LxVPN Network
+Model (LxNM) with references to attachment circuits (ACs). The AC
+Glue model enables a provider to associate Layer 2/3 VPN (LxVPN)
+services with the underlying AC infrastructure, thereby facilitating
+consistent provisioning and management of new or existing ACs in
+conjunction with LxVPN services. Specifically, by introducing an
+integrated approach to AC and LxVPN management, this model supports
+Attachment Circuit as a Service (ACaaS) and provides a standardized
+mechanism for aligning AC/VPN requests with the network
+configurations required to deliver them.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9836"/>
+  <seriesInfo name="RFC" value="9836"/>
+  <seriesInfo name="IETF"/>
+</reference>
