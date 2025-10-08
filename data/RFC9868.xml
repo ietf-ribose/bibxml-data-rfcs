@@ -1,0 +1,22 @@
+<reference anchor="RFC.9868" target="https://www.rfc-editor.org/info/rfc9868">
+  <front>
+    <title>Transport Options for UDP</title>
+    <author fullname="J. Touch" initials="J." surname="Touch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="C. Heard" initials="C." surname="Heard">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>tsvwg</workgroup>
+    <abstract>
+      <t>Transport protocols are extended through the use of transport header options. This document updates RFC 768 (UDP) by indicating the location, syntax, and semantics for UDP transport layer options within the surplus area after the end of the UDP user data but before the end of the IP datagram.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9868"/>
+  <seriesInfo name="RFC" value="9868"/>
+  <seriesInfo name="IETF"/>
+</reference>
