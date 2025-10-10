@@ -1,0 +1,25 @@
+<reference anchor="RFC.9865" target="https://www.rfc-editor.org/info/rfc9865">
+  <front>
+    <title>Cursor-Based Pagination of System of Cross-domain Identity Management (SCIM) Resources</title>
+    <author role="editor" fullname="M. Peterson" initials="M." surname="Peterson">
+      <organization/>
+    </author>
+    <author fullname="D. Zollner" initials="D." surname="Zollner">
+      <organization/>
+    </author>
+    <author fullname="A. Sehgal" initials="A." surname="Sehgal">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>scim</workgroup>
+    <abstract>
+      <t>This document updates RFCs 7643 and 7644 by defining additional System for Cross-Domain Identity Management (SCIM) query parameters and result attributes to allow use of cursor-based pagination in SCIM service providers that are implemented with existing codebases, databases, or APIs where cursor-based pagination is already well established.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9865"/>
+  <seriesInfo name="RFC" value="9865"/>
+  <seriesInfo name="IETF"/>
+</reference>
