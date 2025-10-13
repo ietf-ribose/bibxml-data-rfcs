@@ -1,0 +1,19 @@
+<reference anchor="RFC.9883" target="https://www.rfc-editor.org/info/rfc9883">
+  <front>
+    <title>An Attribute for Statement of Possession of a Private Key</title>
+    <author fullname="R. Housley" initials="R." surname="Housley">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document specifies an attribute for a statement of possession of a private key by a certificate subject. As part of X.509 certificate enrollment, a Certification Authority (CA) typically demands proof that the subject possesses the private key that corresponds to the to-be-certified public key. In some cases, a CA might accept a signed statement from the certificate subject. For example, when a certificate subject needs separate certificates for signature and key establishment, a statement that can be validated with the previously issued signature certificate for the same subject might be adequate for subsequent issuance of the key establishment certificate.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9883"/>
+  <seriesInfo name="RFC" value="9883"/>
+  <seriesInfo name="IETF"/>
+</reference>
