@@ -1,0 +1,34 @@
+<reference anchor="RFC.9855" target="https://www.rfc-editor.org/info/rfc9855">
+  <front>
+    <title>Topology Independent Fast Reroute Using Segment Routing</title>
+    <author fullname="A. Bashandy" initials="A." surname="Bashandy">
+      <organization/>
+    </author>
+    <author fullname="S. Litkowski" initials="S." surname="Litkowski">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="P. Francois" initials="P." surname="Francois">
+      <organization/>
+    </author>
+    <author fullname="B. Decraene" initials="B." surname="Decraene">
+      <organization/>
+    </author>
+    <author fullname="D. Voyer" initials="D." surname="Voyer">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>rtgwg</workgroup>
+    <abstract>
+      <t>This document presents Topology Independent Loop-Free Alternate (TI-LFA) Fast Reroute (FRR), which is aimed at providing protection of node and Adjacency segments within the Segment Routing (SR) framework. This FRR behavior builds on proven IP FRR concepts being LFAs, Remote LFAs (RLFAs), and Directed Loop-Free Alternates (DLFAs). It extends these concepts to provide guaranteed coverage in any two-connected networks using a link-state IGP. An important aspect of TI-LFA is the FRR path selection approach establishing protection over the expected post-convergence paths from the Point of Local Repair (PLR), reducing the operational need to control the tie-breaks among various FRR options.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9855"/>
+  <seriesInfo name="RFC" value="9855"/>
+  <seriesInfo name="IETF"/>
+</reference>
