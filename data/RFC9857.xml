@@ -1,0 +1,31 @@
+<reference anchor="RFC.9857" target="https://www.rfc-editor.org/info/rfc9857">
+  <front>
+    <title>Advertisement of Segment Routing Policies Using BGP - Link State</title>
+    <author fullname="S. Previdi" initials="S." surname="Previdi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="K. Talaulikar" initials="K." surname="Talaulikar">
+      <organization/>
+    </author>
+    <author fullname="J. Dong" initials="J." surname="Dong">
+      <organization/>
+    </author>
+    <author fullname="H. Gredler" initials="H." surname="Gredler">
+      <organization/>
+    </author>
+    <author fullname="J. Tantsura" initials="J." surname="Tantsura">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>idr</workgroup>
+    <abstract>
+      <t>This document describes a mechanism used to collect Segment Routing (SR) Policy information that is locally available in a node and advertise it into BGP - Link State (BGP-LS) updates. Such information can be used by external components for path computation, reoptimization, service placement, network visualization, etc.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9857"/>
+  <seriesInfo name="RFC" value="9857"/>
+  <seriesInfo name="IETF"/>
+</reference>

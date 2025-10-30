@@ -1,0 +1,31 @@
+<reference anchor="RFC.9885" target="https://www.rfc-editor.org/info/rfc9885">
+  <front>
+    <title>Multi-Part TLVs in IS-IS</title>
+    <author fullname="P. Kaneriya" initials="P." surname="Kaneriya">
+      <organization/>
+    </author>
+    <author fullname="T. Li" initials="T." surname="Li">
+      <organization/>
+    </author>
+    <author fullname="A. Przygienda" initials="A." surname="Przygienda">
+      <organization/>
+    </author>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="L. Ginsberg" initials="L." surname="Ginsberg">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>New technologies are adding new information into IS-IS while deployment scales are simultaneously increasing. This causes the contents of many critical TLVs to exceed the currently supported limit of 255 octets. This document codifies the common mechanism of extending the TLV content space through multiple TLVs.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9885"/>
+  <seriesInfo name="RFC" value="9885"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC.9863" target="https://www.rfc-editor.org/info/rfc9863">
+  <front>
+    <title>Path Computation Element Protocol (PCEP) Extension for Color</title>
+    <author fullname="B. Rajagopalan" initials="B." surname="Rajagopalan">
+      <organization/>
+    </author>
+    <author fullname="V. Beeram" initials="V." surname="Beeram">
+      <organization/>
+    </author>
+    <author fullname="S. Peng" initials="S." surname="Peng">
+      <organization/>
+    </author>
+    <author fullname="M. Koldychev" initials="M." surname="Koldychev">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>pce</workgroup>
+    <abstract>
+      <t>Color is a 32-bit numerical (unsigned integer) attribute used to associate a Traffic Engineering (TE) tunnel or policy with an intent or objective. For example, a TE Tunnel constructed to deliver low latency services and whose path is optimized for delay can be tagged with a color that represents "low latency." This document specifies extensions to the Path Computation Element Protocol (PCEP) to carry the color attribute.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9863"/>
+  <seriesInfo name="RFC" value="9863"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC.9884" target="https://www.rfc-editor.org/info/rfc9884">
+  <front>
+    <title>Label Switched Path Ping for Segment Routing Path Segment Identifier with MPLS Data Plane</title>
+    <author fullname="X. Min" initials="X." surname="Min">
+      <organization/>
+    </author>
+    <author fullname="S. Peng" initials="S." surname="Peng">
+      <organization/>
+    </author>
+    <author fullname="L. Gong" initials="L." surname="Gong">
+      <organization/>
+    </author>
+    <author fullname="R. Gandhi" initials="R." surname="Gandhi">
+      <organization/>
+    </author>
+    <author fullname="C. Pignataro" initials="C." surname="Pignataro">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="October"/>
+    <workgroup>mpls</workgroup>
+    <abstract>
+      <t>Segment Routing (SR) leverages source routing to steer packets through an ordered list of instructions called "segments". SR can be instantiated over the MPLS data plane. Path Segment Identifiers (PSIDs) are used to identify and correlate bidirectional or end-to-end paths in SR networks. This document defines procedures (i.e., six new Target Forwarding Equivalence Class (FEC) Stack sub-TLVs) for the use of LSP Ping to support connectivity verification and fault isolation for SR paths that include PSIDs. The mechanisms described enable the validation and tracing of SR paths with Path SIDs in MPLS networks, complementing existing SR-MPLS Operations, Administration, and Maintenance (OAM) capabilities.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9884"/>
+  <seriesInfo name="RFC" value="9884"/>
+  <seriesInfo name="IETF"/>
+</reference>
