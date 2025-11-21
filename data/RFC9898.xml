@@ -1,0 +1,46 @@
+<reference anchor="RFC.9898" target="https://www.rfc-editor.org/info/rfc9898">
+  <front>
+    <title>Neighbor Discovery Considerations in IPv6 Deployments</title>
+    <author fullname="X. Xiao" initials="X." surname="Xiao">
+      <organization/>
+    </author>
+    <author fullname="E. Vasilenko" initials="E." surname="Vasilenko">
+      <organization/>
+    </author>
+    <author fullname="E. Metz" initials="E." surname="Metz">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="N. Buraglio" initials="N." surname="Buraglio">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="November"/>
+    <workgroup>v6ops</workgroup>
+    <abstract>
+      <t>The Neighbor Discovery (ND) protocol is a critical component of the
+IPv6 architecture. The protocol uses multicast in many messages. It
+also assumes a security model where all nodes on a link are trusted.
+Such a design might be inefficient in some scenarios (e.g., use of
+multicast in wireless networks) or when nodes are not trustworthy
+(e.g., public access networks). These security and operational issues
+and the associated mitigation solutions are documented in more than
+twenty RFCs. There is a need to track these issues and solutions in a
+single document.</t>
+      <t>To that aim, this document summarizes the published ND issues and
+then describes how all these issues originate from three causes.
+Addressing the issues is made simpler by addressing the causes. This
+document also analyzes the mitigation solutions and demonstrates that
+isolating hosts into different subnets and links can help to address
+the three causes. Guidance is provided for selecting a suitable
+isolation method to prevent potential ND issues.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9898"/>
+  <seriesInfo name="RFC" value="9898"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="RFC.9891" target="https://www.rfc-editor.org/info/rfc9891">
+  <front>
+    <title>Automated Certificate Management Environment (ACME) Delay-Tolerant Networking (DTN) Node ID Validation Extension</title>
+    <author fullname="B. Sipos" initials="B." surname="Sipos">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="November"/>
+    <workgroup>acme</workgroup>
+    <abstract>
+      <t>This document specifies an extension to the Automated Certificate Management Environment (ACME) protocol that allows an ACME server to validate the Delay-Tolerant Networking (DTN) Node ID for an ACME client. A DTN Node ID is an identifier used in the Bundle Protocol (BP) to name a "singleton endpoint": an endpoint that is registered on a single BP Node. The DTN Node ID is encoded both as a certificate Subject Alternative Name (SAN) identity of type otherName with an Other Name form of BundleEID and as an ACME Identifier type "bundleEID".</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9891"/>
+  <seriesInfo name="RFC" value="9891"/>
+  <seriesInfo name="IETF"/>
+</reference>
