@@ -1,0 +1,28 @@
+<reference anchor="RFC.9937" target="https://www.rfc-editor.org/info/rfc9937">
+  <front>
+    <title>Proportional Rate Reduction (PRR)</title>
+    <author fullname="M. Mathis" initials="M." surname="Mathis">
+      <organization/>
+    </author>
+    <author fullname="N. Cardwell" initials="N." surname="Cardwell">
+      <organization/>
+    </author>
+    <author fullname="Y. Cheng" initials="Y." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="N. Dukkipati" initials="N." surname="Dukkipati">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="December"/>
+    <workgroup>tcpm</workgroup>
+    <abstract>
+      <t>This document specifies a Standards Track version of the Proportional Rate Reduction (PRR) algorithm that obsoletes the Experimental version described in RFC 6937. PRR regulates the amount of data sent by TCP or other transport protocols during fast recovery. PRR accurately regulates the actual flight size through recovery such that at the end of recovery it will be as close as possible to the slow start threshold (ssthresh), as determined by the congestion control algorithm.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9937"/>
+  <seriesInfo name="RFC" value="9937"/>
+  <seriesInfo name="IETF"/>
+</reference>
