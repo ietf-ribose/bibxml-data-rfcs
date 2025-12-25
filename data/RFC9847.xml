@@ -1,0 +1,23 @@
+<reference anchor="RFC.9847" target="https://www.rfc-editor.org/info/rfc9847">
+  <front>
+    <title>IANA Registry Updates for TLS and DTLS</title>
+    <author fullname="J. Salowey" initials="J." surname="Salowey">
+      <organization/>
+    </author>
+    <author fullname="S. Turner" initials="S." surname="Turner">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2025" month="December"/>
+    <workgroup>tls</workgroup>
+    <abstract>
+      <t>This document updates the changes to the TLS and DTLS IANA registries made in RFC 8447. It adds a new value, "D" for discouraged, to the "Recommended" column of the selected TLS registries and adds a "Comment" column to all active registries that do not already have a "Comment" column. Finally, it updates the registration request instructions.</t>
+      <t>This document updates RFC 8447.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9847"/>
+  <seriesInfo name="RFC" value="9847"/>
+  <seriesInfo name="IETF"/>
+</reference>
