@@ -1,0 +1,33 @@
+<reference anchor="RFC.9897" target="https://www.rfc-editor.org/info/rfc9897">
+  <front>
+    <title>Datagram Congestion Control Protocol (DCCP) Extensions for Multipath Operation with Multiple Addresses</title>
+    <author role="editor" fullname="M. Amend" initials="M." surname="Amend">
+      <organization/>
+    </author>
+    <author fullname="A. Brunstrom" initials="A." surname="Brunstrom">
+      <organization/>
+    </author>
+    <author fullname="A. Kassler" initials="A." surname="Kassler">
+      <organization/>
+    </author>
+    <author fullname="V. Rakocevic" initials="V." surname="Rakocevic">
+      <organization/>
+    </author>
+    <author fullname="S. Johnson" initials="S." surname="Johnson">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="January"/>
+    <workgroup>tsvwg</workgroup>
+    <abstract>
+      <t>Datagram Congestion Control Protocol (DCCP) communications, as defined in RFC 4340, are inherently restricted to a single path per connection, despite the availability of multiple network paths between peers. The ability to utilize multiple paths simultaneously for a DCCP session can enhance network resource utilization, improve throughput, and increase resilience to network failures, ultimately enhancing the user experience.</t>
+      <t>Use cases for Multipath DCCP (MP-DCCP) include mobile devices (e.g., handsets and vehicles) and residential home gateways that maintain simultaneous connections to distinct network types such as cellular and Wireless Local Area Networks (WLANs) or cellular and fixed access networks. Compared to existing multipath transport protocols, such as Multipath TCP (MPTCP), MP-DCCP is particularly suited for latency-sensitive applications with varying requirements for reliability and in-order delivery.</t>
+      <t>This document specifies a set of protocol extensions to DCCP that enable multipath operations. These extensions maintain the same service model as DCCP while introducing mechanisms to establish and utilize multiple concurrent DCCP flows across different network paths.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9897"/>
+  <seriesInfo name="RFC" value="9897"/>
+  <seriesInfo name="IETF"/>
+</reference>
