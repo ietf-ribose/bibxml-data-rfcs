@@ -1,0 +1,26 @@
+<reference anchor="RFC.9917" target="https://www.rfc-editor.org/info/rfc9917">
+  <front>
+    <title>IGP Flexible Algorithms Reverse Affinity Constraint</title>
+    <author fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="J. Horn" initials="J." surname="Horn">
+      <organization/>
+    </author>
+    <author fullname="A. Dhamija" initials="A." surname="Dhamija">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="January"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>An IGP Flexible Algorithm (Flex-Algorithm) enables the computation of constraint-based paths within an IGP domain, allowing operators to influence path selection according to administrative policies. This document defines an extension to Flex-Algorithm that allows the inclusion or exclusion of links from path computation based on Administrative Groups (also known as link affinities) associated with the reverse direction of the path under computation.</t>
+      <t>This document updates RFCs 9350 and 9843 by introducing the new IANA registry that specifies the ordered set of rules that are used to prune links from the topology during the Flex-Algorithm path computation.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9917"/>
+  <seriesInfo name="RFC" value="9917"/>
+  <seriesInfo name="IETF"/>
+</reference>
