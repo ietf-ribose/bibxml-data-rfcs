@@ -1,0 +1,33 @@
+<reference anchor="RFC.9915" target="https://www.rfc-editor.org/info/rfc9915">
+  <front>
+    <title>Dynamic Host Configuration Protocol for IPv6 (DHCPv6)</title>
+    <author fullname="T. Mrugalski" initials="T." surname="Mrugalski">
+      <organization/>
+    </author>
+    <author fullname="B. Volz" initials="B." surname="Volz">
+      <organization/>
+    </author>
+    <author fullname="M. Richardson" initials="M." surname="Richardson">
+      <organization/>
+    </author>
+    <author fullname="S. Jiang" initials="S." surname="Jiang">
+      <organization/>
+    </author>
+    <author fullname="T. Winters" initials="T." surname="Winters">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="January"/>
+    <workgroup>dhc</workgroup>
+    <abstract>
+      <t>This document specifies the Dynamic Host Configuration Protocol for IPv6 (DHCPv6), an extensible mechanism for configuring nodes with network configuration parameters, IP addresses, and prefixes. Parameters can be provided statelessly or in combination with stateful assignment of one or more IPv6 addresses and/or IPv6 prefixes. DHCPv6 can operate either in place of or in addition to stateless address autoconfiguration (SLAAC).</t>
+      <t>This document obsoletes RFC 8415. It incorporates verified errata and obsoletes the assignment of temporary addresses (the IA_TA option) and the server unicast capability (the Server Unicast option and UseMulticast status code).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9915"/>
+  <seriesInfo name="STD" value="102"/>
+  <seriesInfo name="RFC" value="9915"/>
+  <seriesInfo name="IETF"/>
+</reference>
