@@ -1,0 +1,28 @@
+<reference anchor="RFC.9892" target="https://www.rfc-editor.org/info/rfc9892">
+  <front>
+    <title>Dynamic Link Exchange Protocol (DLEP) Traffic Classification Data Item</title>
+    <author fullname="B. Cheng" initials="B." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="D. Wiggins" initials="D." surname="Wiggins">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="D. Fedyk" initials="D." surname="Fedyk">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="January"/>
+    <workgroup>manet</workgroup>
+    <abstract>
+      <t>This document defines a new Data Item for the Dynamic Link Exchange Protocol (DLEP) to support traffic classification. Traffic classification information identifies traffic flows based on frame/packet content such as a destination address. The Data Item is defined in an extensible and reusable fashion. Its use will be mandated in other documents defining specific DLEP extensions. This document also introduces DLEP Sub-Data Items and defines two new Sub-Data Items to support Diffserv and Ethernet traffic classification.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9892"/>
+  <seriesInfo name="RFC" value="9892"/>
+  <seriesInfo name="IETF"/>
+</reference>

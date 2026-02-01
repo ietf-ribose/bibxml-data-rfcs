@@ -1,0 +1,32 @@
+<reference anchor="RFC.9893" target="https://www.rfc-editor.org/info/rfc9893">
+  <front>
+    <title>Dynamic Link Exchange Protocol (DLEP) Credit-Based Flow Control Messages and Data Items</title>
+    <author fullname="B. Cheng" initials="B." surname="Cheng">
+      <organization/>
+    </author>
+    <author fullname="D. Wiggins" initials="D." surname="Wiggins">
+      <organization/>
+    </author>
+    <author fullname="S. Ratliff" initials="S." surname="Ratliff">
+      <organization/>
+    </author>
+    <author fullname="L. Berger" initials="L." surname="Berger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="E. Kinzie" initials="E." surname="Kinzie">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="January"/>
+    <workgroup>manet</workgroup>
+    <abstract>
+      <t>This document defines new Dynamic Link Exchange Protocol (DLEP) Data Items that are used to support credit-based flow control. Credit window flow control is used to regulate when data may be sent to an associated virtual or physical queue. These Data Items are extensible and reusable.</t>
+      <t>This document also defines new messages that support credit window flow control.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9893"/>
+  <seriesInfo name="RFC" value="9893"/>
+  <seriesInfo name="IETF"/>
+</reference>
