@@ -1,0 +1,19 @@
+<reference anchor="RFC.9925" target="https://www.rfc-editor.org/info/rfc9925">
+  <front>
+    <title>Unsigned X.509 Certificates</title>
+    <author fullname="D. Benjamin" initials="D." surname="Benjamin">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="February"/>
+    <workgroup>lamps</workgroup>
+    <abstract>
+      <t>This document defines a placeholder X.509 signature algorithm that may be used in contexts where the consumer of the certificate is not expected to verify the signature. As part of this, it updates RFC 5280.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9925"/>
+  <seriesInfo name="RFC" value="9925"/>
+  <seriesInfo name="IETF"/>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="RFC.9921" target="https://www.rfc-editor.org/info/rfc9921">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE) Header Parameter for Timestamp Tokens as Defined in RFC 3161</title>
+    <author fullname="H. Birkholz" initials="H." surname="Birkholz">
+      <organization/>
+    </author>
+    <author fullname="T. Fossati" initials="T." surname="Fossati">
+      <organization/>
+    </author>
+    <author fullname="M. Riechert" initials="M." surname="Riechert">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="February"/>
+    <workgroup>cose</workgroup>
+    <abstract>
+      <t>This document defines two CBOR Object Signing and Encryption (COSE) header parameters for incorporating timestamping based on RFC 3161 into COSE message structures (COSE_Sign and COSE_Sign1). This enables the use of established timestamping infrastructure per RFC 3161 in COSE-based protocols.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9921"/>
+  <seriesInfo name="RFC" value="9921"/>
+  <seriesInfo name="IETF"/>
+</reference>
