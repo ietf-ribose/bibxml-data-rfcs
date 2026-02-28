@@ -1,0 +1,33 @@
+<reference anchor="RFC.9929" target="https://www.rfc-editor.org/info/rfc9929">
+  <front>
+    <title>IGP Unreachable Prefix Announcement</title>
+    <author role="editor" fullname="P. Psenak" initials="P." surname="Psenak">
+      <organization/>
+    </author>
+    <author fullname="C. Filsfils" initials="C." surname="Filsfils">
+      <organization/>
+    </author>
+    <author fullname="D. Voyer" initials="D." surname="Voyer">
+      <organization/>
+    </author>
+    <author fullname="S. Hegde" initials="S." surname="Hegde">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="February"/>
+    <workgroup>lsr</workgroup>
+    <abstract>
+      <t>Summarization is often used in multi-area or multi-domain networks to improve network efficiency and scalability. With summarization in place, there is a need to signal loss of reachability to an individual prefix covered by the summary. This enables fast convergence by steering traffic, when applicable, away from the node which owns the prefix and is no longer reachable.</t>
+      <t>This document specifies protocol mechanisms in IS-IS and OSPF, together with two new flags, to advertise such prefix reachability loss.</t>
+      <t>The term "OSPF" in this document is used to refer to both OSPFv2 and OSPFv3.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9929"/>
+  <seriesInfo name="RFC" value="9929"/>
+  <seriesInfo name="IETF"/>
+</reference>

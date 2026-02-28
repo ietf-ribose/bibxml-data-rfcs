@@ -1,0 +1,19 @@
+<reference anchor="RFC.9930" target="https://www.rfc-editor.org/info/rfc9930">
+  <front>
+    <title>Tunnel Extensible Authentication Protocol (TEAP) Version 1</title>
+    <author role="editor" fullname="A. DeKok" initials="A." surname="DeKok">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="February"/>
+    <workgroup>emu</workgroup>
+    <abstract>
+      <t>This document defines the Tunnel Extensible Authentication Protocol (TEAP) version 1. TEAP is a tunnel-based EAP method that enables secure communication between a peer and a server by using the Transport Layer Security (TLS) protocol to establish a mutually authenticated tunnel. Within the tunnel, TLV objects are used to convey authentication-related data between the EAP peer and the EAP server. This document obsoletes RFC 7170 and updates RFC 9427 by moving all TEAP specifications from those documents to this one.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9930"/>
+  <seriesInfo name="RFC" value="9930"/>
+  <seriesInfo name="IETF"/>
+</reference>
