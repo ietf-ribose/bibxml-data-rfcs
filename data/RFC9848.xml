@@ -1,0 +1,25 @@
+<reference anchor="RFC.9848" target="https://www.rfc-editor.org/info/rfc9848">
+  <front>
+    <title>Bootstrapping TLS Encrypted ClientHello with DNS Service Bindings</title>
+    <author fullname="B. Schwartz" initials="B." surname="Schwartz">
+      <organization/>
+    </author>
+    <author fullname="M. Bishop" initials="M." surname="Bishop">
+      <organization/>
+    </author>
+    <author fullname="E. Nygren" initials="E." surname="Nygren">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="March"/>
+    <workgroup>tls</workgroup>
+    <abstract>
+      <t>To use TLS Encrypted ClientHello (ECH), the client needs to learn the ECH configuration for a server before it attempts a connection to the server. This specification provides a mechanism for conveying the ECH configuration information via DNS, using a SVCB or HTTPS resource record (RR).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9848"/>
+  <seriesInfo name="RFC" value="9848"/>
+  <seriesInfo name="IETF"/>
+</reference>
