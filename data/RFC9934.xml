@@ -1,0 +1,18 @@
+<reference anchor="RFC.9934" target="https://www.rfc-editor.org/info/rfc9934">
+  <front>
+    <title>Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello (ECH)</title>
+    <author fullname="S. Farrell" initials="S." surname="Farrell">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="March"/>
+    <abstract>
+      <t>Encrypted ClientHello (ECH) key pairs need to be configured into TLS servers, which can be built using different TLS libraries. This document specifies a standard file format for this purpose, similar to how RFC 7468 defines other Privacy-Enhanced Mail (PEM) file formats.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9934"/>
+  <seriesInfo name="RFC" value="9934"/>
+  <seriesInfo name="IETF"/>
+</reference>
