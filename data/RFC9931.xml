@@ -1,0 +1,19 @@
+<reference anchor="RFC.9931" target="https://www.rfc-editor.org/info/rfc9931">
+  <front>
+    <title>Security Considerations for Optimistic Protocol Transitions in HTTP/1.1</title>
+    <author fullname="B. Schwartz" initials="B." surname="Schwartz">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="March"/>
+    <workgroup>httpbis</workgroup>
+    <abstract>
+      <t>In HTTP/1.1, the client can request a change to a new protocol on the existing connection. This document discusses the security considerations that apply to data sent by the client before this request is confirmed and adds new requirements to RFCs 9112 and 9298 to avoid related security issues.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9931"/>
+  <seriesInfo name="RFC" value="9931"/>
+  <seriesInfo name="IETF"/>
+</reference>
