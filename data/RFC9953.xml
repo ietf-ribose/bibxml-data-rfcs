@@ -1,0 +1,31 @@
+<reference anchor="RFC.9953" target="https://www.rfc-editor.org/info/rfc9953">
+  <front>
+    <title>DNS over CoAP (DoC)</title>
+    <author fullname="M. S. Lenders" initials="M. S." surname="Lenders">
+      <organization/>
+    </author>
+    <author fullname="C. Amsüss" initials="C." surname="Amsüss">
+      <organization/>
+    </author>
+    <author fullname="C. Gündoğan" initials="C." surname="Gündoğan">
+      <organization/>
+    </author>
+    <author fullname="T. C. Schmidt" initials="T. C." surname="Schmidt">
+      <organization/>
+    </author>
+    <author fullname="M. Wählisch" initials="M." surname="Wählisch">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="March"/>
+    <workgroup>core</workgroup>
+    <abstract>
+      <t>This document defines a protocol for exchanging DNS queries (OPCODE 0) over the Constrained Application Protocol (CoAP). These CoAP messages can be protected by (D)TLS-Secured CoAP or Object Security for Constrained RESTful Environments (OSCORE) to provide encrypted DNS message exchange for constrained devices in the Internet of Things (IoT).</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9953"/>
+  <seriesInfo name="RFC" value="9953"/>
+  <seriesInfo name="IETF"/>
+</reference>

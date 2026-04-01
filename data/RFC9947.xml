@@ -1,0 +1,34 @@
+<reference anchor="RFC.9947" target="https://www.rfc-editor.org/info/rfc9947">
+  <front>
+    <title>Application of the Alternate-Marking Method to the Segment Routing Header</title>
+    <author fullname="G. Fioccola" initials="G." surname="Fioccola">
+      <organization/>
+    </author>
+    <author fullname="T. Zhou" initials="T." surname="Zhou">
+      <organization/>
+    </author>
+    <author fullname="G. Mishra" initials="G." surname="Mishra">
+      <organization/>
+    </author>
+    <author fullname="X. Wang" initials="X." surname="Wang">
+      <organization/>
+    </author>
+    <author fullname="G. Zhang" initials="G." surname="Zhang">
+      <organization/>
+    </author>
+    <author fullname="M. Cociglio" initials="M." surname="Cociglio">
+      <organization/>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date year="2026" month="March"/>
+    <abstract>
+      <t>This document describes an alternative experimental approach for the application of the Alternate-Marking Method to Segment Routing for IPv6 (SRv6). It uses an experimental TLV in the Segment Routing Header (SRH); thus, participation in this experiment should be between coordinating parties in a controlled domain. This approach has potential scaling and simplification benefits over the technique described in RFC 9343, and the scope of the experiment is to determine whether those are significant and attractive to the community.</t>
+      <t>This protocol extension has been developed outside the IETF as an alternative to the IETF's Standards Track specification RFC 9343 and it does not have IETF consensus. It is published here to guide experimental implementation and ensure interoperability among implementations to better determine the value of this approach. Researchers are invited to submit their evaluations of this work to the Independent Submissions Editor or to the IETF SPRING Working Group as Internet-Drafts.</t>
+    </abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.17487/RFC9947"/>
+  <seriesInfo name="RFC" value="9947"/>
+  <seriesInfo name="INDEPENDENT"/>
+</reference>
