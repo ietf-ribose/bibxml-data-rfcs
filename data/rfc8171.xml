@@ -1,0 +1,27 @@
+<reference anchor="RFC8171" target="https://www.rfc-editor.org/info/rfc8171">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): Edge Directory Assistance Mechanisms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8171"/>
+    <seriesInfo name="RFC" value="8171"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author initials="L." surname="Dunbar" fullname="L. Dunbar"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="Y." surname="Li" fullname="Y. Li"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2017"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <keyword>Push</keyword>
+    <keyword>Pull</keyword>
+    <keyword>ESADI</keyword>
+    <keyword>ES-IS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes mechanisms for providing directory service to TRILL (Transparent Interconnection of Lots of Links) edge switches.  The directory information provided can be used in reducing multi-destination traffic, particularly ARP / Neighbor Discovery (ND) and unknown unicast flooding.  It can also be used to detect traffic with forged source addresses.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

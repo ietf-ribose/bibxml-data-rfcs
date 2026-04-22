@@ -1,0 +1,25 @@
+<reference anchor="RFC7291" target="https://www.rfc-editor.org/info/rfc7291">
+  <front>
+    <title>DHCP Options for the Port Control Protocol (PCP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7291"/>
+    <seriesInfo name="RFC" value="7291"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="R." surname="Penno" fullname="R. Penno"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2014"></date>
+    <workgroup>Port Control Protocol</workgroup>
+    <keyword>PCP Server discovery</keyword>
+    <keyword>Port Mapping</keyword>
+    <keyword>Shared Address</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies DHCP (IPv4 and IPv6) options to configure hosts with Port Control Protocol (PCP) server IP addresses.  The use of DHCPv4 or DHCPv6 depends on the PCP deployment scenarios.  The set of deployment scenarios to which DHCPv4 or DHCPv6 can be applied is outside the scope of this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

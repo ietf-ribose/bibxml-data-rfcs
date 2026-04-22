@@ -1,0 +1,25 @@
+<reference anchor="RFC6391" target="https://www.rfc-editor.org/info/rfc6391">
+  <front>
+    <title>Flow-Aware Transport of Pseudowires over an MPLS Packet Switched Network</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6391"/>
+    <seriesInfo name="RFC" value="6391"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="U." surname="Drafz" fullname="U. Drafz"/>
+    <author initials="V." surname="Kompella" fullname="V. Kompella"/>
+    <author initials="J." surname="Regan" fullname="J. Regan"/>
+    <author initials="S." surname="Amante" fullname="S. Amante"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2011"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Where the payload of a pseudowire comprises a number of distinct flows, it can be desirable to carry those flows over the Equal Cost Multiple Paths (ECMPs) that exist in the packet switched network. Most forwarding engines are able to generate a hash of the MPLS label stack and use this mechanism to balance MPLS flows over ECMPs.&lt;/p&gt;&lt;p&gt;This document describes a method of identifying the flows, or flow groups, within pseudowires such that Label Switching Routers can balance flows at a finer granularity than individual pseudowires. The mechanism uses an additional label in the MPLS label stack. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

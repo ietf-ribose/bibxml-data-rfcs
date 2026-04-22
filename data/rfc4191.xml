@@ -1,0 +1,22 @@
+<reference anchor="RFC4191" target="https://www.rfc-editor.org/info/rfc4191">
+  <front>
+    <title>Default Router Preferences and More-Specific Routes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4191"/>
+    <seriesInfo name="RFC" value="4191"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Draves" fullname="R. Draves"/>
+    <author initials="D." surname="Thaler" fullname="D. Thaler"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2005"></date>
+    <workgroup>IP Version 6 Working Group</workgroup>
+    <keyword>router advertisement</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an optional extension to Router Advertisement messages for communicating default router preferences and more-specific routes from routers to hosts.  This improves the ability of hosts to pick an appropriate router, especially when the host is multi-homed and the routers are on different links.  The preference values and specific routes advertised to hosts require administrative configuration; they are not automatically derived from routing tables. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC4817" target="https://www.rfc-editor.org/info/rfc4817">
+  <front>
+    <title>Encapsulation of MPLS over Layer 2 Tunneling Protocol Version 3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4817"/>
+    <seriesInfo name="RFC" value="4817"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Townsley" fullname="M. Townsley"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="S." surname="Wainner" fullname="S. Wainner"/>
+    <author initials="T." surname="Seely" fullname="T. Seely"/>
+    <author initials="J." surname="Young" fullname="J. Young"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2007"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>l2tpv3</keyword>
+    <keyword>multiprotocol label switching label stack</keyword>
+    <keyword>label stack</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Layer 2 Tunneling Protocol, Version 3 (L2TPv3) defines a protocol for tunneling a variety of payload types over IP networks.  This document defines how to carry an MPLS label stack and its payload over the L2TPv3 data encapsulation.  This enables an application that traditionally requires an MPLS-enabled core network, to utilize an L2TPv3 encapsulation over an IP network instead. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

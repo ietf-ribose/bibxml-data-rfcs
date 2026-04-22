@@ -1,0 +1,25 @@
+<reference anchor="RFC1782" target="https://www.rfc-editor.org/info/rfc1782">
+  <front>
+    <title>TFTP Option Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1782"/>
+    <seriesInfo name="RFC" value="1782"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Malkin" fullname="G. Malkin"/>
+    <author initials="A." surname="Harkin" fullname="A. Harkin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="1995"></date>
+    <workgroup>TFTP Extensions</workgroup>
+    <keyword>trivial</keyword>
+    <keyword>file</keyword>
+    <keyword>transfer</keyword>
+    <keyword>booting</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Trivial File Transfer Protocol is a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.  This document describes a simple extension to TFTP to allow option negotiation prior to the file transfer.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

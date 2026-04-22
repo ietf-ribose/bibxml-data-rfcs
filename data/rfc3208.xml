@@ -1,0 +1,34 @@
+<reference anchor="RFC3208" target="https://www.rfc-editor.org/info/rfc3208">
+  <front>
+    <title>PGM Reliable Transport Protocol Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3208"/>
+    <seriesInfo name="RFC" value="3208"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="T." surname="Speakman" fullname="T. Speakman"/>
+    <author initials="J." surname="Crowcroft" fullname="J. Crowcroft"/>
+    <author initials="J." surname="Gemmell" fullname="J. Gemmell"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="S." surname="Lin" fullname="S. Lin"/>
+    <author initials="D." surname="Leshchiner" fullname="D. Leshchiner"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author initials="T." surname="Montgomery" fullname="T. Montgomery"/>
+    <author initials="L." surname="Rizzo" fullname="L. Rizzo"/>
+    <author initials="A." surname="Tweedly" fullname="A. Tweedly"/>
+    <author initials="N." surname="Bhaskar" fullname="N. Bhaskar"/>
+    <author initials="R." surname="Edmonstone" fullname="R. Edmonstone"/>
+    <author initials="R." surname="Sumanasekera" fullname="R. Sumanasekera"/>
+    <author initials="L." surname="Vicisano" fullname="L. Vicisano"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2001"></date>
+    <keyword>PGM</keyword>
+    <keyword>pragmatic general multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;Pragmatic General Multicast (PGM) is a reliable multicast transport protocol for applications that require ordered or unordered, duplicate- free, multicast data delivery from multiple sources to multiple receivers.  PGM guarantees that a receiver in the group either receives all data packets from transmissions and repairs, or is able to detect unrecoverable data packet loss.  PGM is specifically intended as a workable solution for multicast applications with basic reliability requirements.  Its central design goal is simplicity of operation with due regard for scalability and network efficiency.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

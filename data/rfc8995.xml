@@ -1,0 +1,35 @@
+<reference anchor="RFC8995" target="https://www.rfc-editor.org/info/rfc8995">
+  <front>
+    <title>Bootstrapping Remote Secure Key Infrastructure (BRSKI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8995"/>
+    <seriesInfo name="RFC" value="8995"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Pritikin" fullname="M. Pritikin"/>
+    <author initials="M." surname="Richardson" fullname="M. Richardson"/>
+    <author initials="T." surname="Eckert" fullname="T. Eckert"/>
+    <author initials="M." surname="Behringer" fullname="M. Behringer"/>
+    <author initials="K." surname="Watsen" fullname="K. Watsen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2021"></date>
+    <workgroup>Autonomic Networking Integrated Model and Approach</workgroup>
+    <keyword>Autonomic Networking</keyword>
+    <keyword>Autonomous Operation</keyword>
+    <keyword>Self-Management</keyword>
+    <keyword>voucher-request</keyword>
+    <keyword>onboarding</keyword>
+    <keyword>zero-touch</keyword>
+    <keyword>voucher</keyword>
+    <keyword>RFC8366 voucher</keyword>
+    <keyword>IoT-onboarding</keyword>
+    <keyword>IoT-zero-touch</keyword>
+    <keyword>network-join</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies automated bootstrapping of an Autonomic Control Plane.  To do this, a Secure Key Infrastructure is bootstrapped.  This is done using manufacturer-installed X.509 certificates, in combination with a manufacturer's authorizing service, both online and offline.  We call this process the Bootstrapping Remote Secure Key Infrastructure (BRSKI) protocol.  Bootstrapping a new device can occur when using a routable address and a cloud service, only link-local connectivity, or limited/disconnected networks.  Support for deployment models with less stringent security requirements is included.  Bootstrapping is complete when the cryptographic identity of the new key infrastructure is successfully deployed to the device.  The established secure connection can be used to deploy a locally issued certificate to the device as well.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

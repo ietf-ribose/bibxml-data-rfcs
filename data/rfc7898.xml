@@ -1,0 +1,26 @@
+<reference anchor="RFC7898" target="https://www.rfc-editor.org/info/rfc7898">
+  <front>
+    <title>Domain Subobjects for Resource Reservation Protocol - Traffic Engineering (RSVP-TE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7898"/>
+    <seriesInfo name="RFC" value="7898"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Dhody" fullname="D. Dhody"/>
+    <author initials="U." surname="Palle" fullname="U. Palle"/>
+    <author initials="V." surname="Kondreddy" fullname="V. Kondreddy"/>
+    <author initials="R." surname="Casellas" fullname="R. Casellas"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2016"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>RSVP-TE</keyword>
+    <keyword>domain</keyword>
+    <keyword>subobjects</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Resource Reservation Protocol - Traffic Engineering (RSVP-TE) specification and the Generalized Multiprotocol Label Switching (GMPLS) extensions to RSVP-TE allow abstract nodes and resources to be explicitly included in a path setup. Further, Exclude Route extensions to RSVP-TE allow abstract nodes and resources to be explicitly excluded in a path setup.&lt;/p&gt;&lt;p&gt;This document specifies new subobjects to include or exclude Autonomous Systems (ASes), which are identified by a 4-byte AS number, and Interior Gateway Protocol (IGP) areas during path setup.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

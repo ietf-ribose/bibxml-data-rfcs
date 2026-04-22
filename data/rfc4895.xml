@@ -1,0 +1,28 @@
+<reference anchor="RFC4895" target="https://www.rfc-editor.org/info/rfc4895">
+  <front>
+    <title>Authenticated Chunks for the Stream Control Transmission Protocol (SCTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4895"/>
+    <seriesInfo name="RFC" value="4895"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Tuexen" fullname="M. Tuexen"/>
+    <author initials="R." surname="Stewart" fullname="R. Stewart"/>
+    <author initials="P." surname="Lei" fullname="P. Lei"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2007"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>chunk type</keyword>
+    <keyword>shared keys</keyword>
+    <keyword>RANDOM</keyword>
+    <keyword>CHUNKS</keyword>
+    <keyword>HMAC-ALGO</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a new chunk type, several parameters, and procedures for the Stream Control Transmission Protocol (SCTP).  This new chunk type can be used to authenticate SCTP chunks by using shared keys between the sender and receiver.  The new parameters are used to establish the shared keys. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

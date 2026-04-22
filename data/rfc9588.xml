@@ -1,0 +1,23 @@
+<reference anchor="RFC9588" target="https://www.rfc-editor.org/info/rfc9588">
+  <front>
+    <title>Kerberos Simple Password-Authenticated Key Exchange (SPAKE) Pre-authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9588"/>
+    <seriesInfo name="RFC" value="9588"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="McCallum" fullname="N. McCallum"/>
+    <author initials="S." surname="Sorce" fullname="S. Sorce"/>
+    <author initials="R." surname="Harwood" fullname="R. Harwood"/>
+    <author initials="G." surname="Hudson" fullname="G. Hudson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Common Authentication Technology Next Generation</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new pre-authentication mechanism for the Kerberos protocol.  The mechanism uses a password-authenticated key exchange (PAKE) to prevent brute-force password attacks, and it may incorporate a second factor.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

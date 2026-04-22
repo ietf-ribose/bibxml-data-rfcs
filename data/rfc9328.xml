@@ -1,0 +1,29 @@
+<reference anchor="RFC9328" target="https://www.rfc-editor.org/info/rfc9328">
+  <front>
+    <title>RTP Payload Format for Versatile Video Coding (VVC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9328"/>
+    <seriesInfo name="RFC" value="9328"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Zhao" fullname="S. Zhao"/>
+    <author initials="S." surname="Wenger" fullname="S. Wenger"/>
+    <author initials="Y." surname="Sanchez" fullname="Y. Sanchez"/>
+    <author initials="Y.-K." surname="Wang" fullname="Y.-K. Wang"/>
+    <author initials="M. M" surname="Hannuksela" fullname="M. M Hannuksela"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2022"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>H.266</keyword>
+    <keyword>ISO/IEC 23090-3</keyword>
+    <keyword>MPEG-I Part 3</keyword>
+    <keyword>RTP Payload</keyword>
+    <keyword>Video</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes an RTP payload format for the Versatile Video Coding (VVC) specification, which was published as both ITU-T Recommendation H.266 and ISO/IEC International Standard 23090-3.  VVC was developed by the Joint Video Experts Team (JVET).  The RTP payload format allows for packetization of one or more Network Abstraction Layer (NAL) units in each RTP packet payload, as well as fragmentation of a NAL unit into multiple RTP packets.  The payload format has wide applicability in videoconferencing, Internet video streaming, and high-bitrate entertainment-quality video, among other applications.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

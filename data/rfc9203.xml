@@ -1,0 +1,28 @@
+<reference anchor="RFC9203" target="https://www.rfc-editor.org/info/rfc9203">
+  <front>
+    <title>The Object Security for Constrained RESTful Environments (OSCORE) Profile of the Authentication and Authorization for Constrained Environments (ACE) Framework</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9203"/>
+    <seriesInfo name="RFC" value="9203"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Palombini" fullname="F. Palombini"/>
+    <author initials="L." surname="Seitz" fullname="L. Seitz"/>
+    <author initials="G." surname="Selander" fullname="G. Selander"/>
+    <author initials="M." surname="Gunnarsson" fullname="M. Gunnarsson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>CoAP</keyword>
+    <keyword>OAuth 2.0</keyword>
+    <keyword>Access Control</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Internet of Things</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a profile for the Authentication and Authorization for Constrained Environments (ACE) framework.  It utilizes Object Security for Constrained RESTful Environments (OSCORE) to provide communication security and proof-of-possession for a key owned by the client and bound to an OAuth 2.0 access token.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

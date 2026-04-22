@@ -1,0 +1,24 @@
+<reference anchor="RFC7379" target="https://www.rfc-editor.org/info/rfc7379">
+  <front>
+    <title>Problem Statement and Goals for Active-Active Connection at the Transparent Interconnection of Lots of Links (TRILL) Edge</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7379"/>
+    <seriesInfo name="RFC" value="7379"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Li" fullname="Y. Li"/>
+    <author initials="W." surname="Hao" fullname="W. Hao"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="J." surname="Hudson" fullname="J. Hudson"/>
+    <author initials="H." surname="Zhai" fullname="H. Zhai"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2014"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The IETF TRILL (Transparent Interconnection of Lots of Links) protocol provides support for flow-level multipathing with rapid failover for both unicast and multi-destination traffic in networks with arbitrary topology.  Active-active connection at the TRILL edge is the extension of these characteristics to end stations that are multiply connected to a TRILL campus.  This informational document discusses the high-level problems and goals when providing active-active connection at the TRILL edge.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

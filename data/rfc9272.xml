@@ -1,0 +1,25 @@
+<reference anchor="RFC9272" target="https://www.rfc-editor.org/info/rfc9272">
+  <front>
+    <title>Underlay Path Calculation Algorithm and Constraints for Bit Index Explicit Replication (BIER)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9272"/>
+    <seriesInfo name="RFC" value="9272"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author initials="A." surname="Dolganow" fullname="A. Dolganow"/>
+    <author initials="H." surname="Bidgoli" fullname="H. Bidgoli"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands"/>
+    <author initials="A." surname="Gulko" fullname="A. Gulko"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2022"></date>
+    <workgroup>Bit Indexed Explicit Replication</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document specifies general rules for the interaction between the BIER Algorithm (BAR) and the IGP Algorithm (IPA) used for underlay path calculation within the Bit Index Explicit Replication (BIER) architecture.  The semantics defined in this document update RFC 8401 and RFC 8444.  This document also updates the "BIER Algorithm" registry established in RFC 8401.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

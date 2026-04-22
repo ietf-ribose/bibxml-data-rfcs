@@ -1,0 +1,31 @@
+<reference anchor="RFC7939" target="https://www.rfc-editor.org/info/rfc7939">
+  <front>
+    <title>Definition of Managed Objects for the Neighborhood Discovery Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7939"/>
+    <seriesInfo name="RFC" value="7939"/>
+    <seriesInfo name="IETF"/>
+    <author initials="U." surname="Herberg" fullname="U. Herberg"/>
+    <author initials="R." surname="Cole" fullname="R. Cole"/>
+    <author initials="I." surname="Chakeres" fullname="I. Chakeres"/>
+    <author initials="T." surname="Clausen" fullname="T. Clausen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2016"></date>
+    <workgroup>Mobile Ad-hoc Networks</workgroup>
+    <keyword>Network Management</keyword>
+    <keyword>Management Information Base</keyword>
+    <keyword>MIB</keyword>
+    <keyword>SMIv2</keyword>
+    <keyword>Routing</keyword>
+    <keyword>Neighbor Discovery</keyword>
+    <keyword>MANET</keyword>
+    <keyword>NHDP-MIB</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document replaces RFC 6779; it contains revisions and extensions to the original document.  It defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects for configuring parameters of the Neighborhood Discovery Protocol (NHDP) process on a router.  The extensions described in this document add objects and values to support the NHDP optimization specified in RFC 7466.  The MIB module defined in this document, denoted NHDP-MIB, also reports state, performance information, and notifications about NHDP.  This additional state and performance information is useful to troubleshoot problems and performance issues during neighbor discovery.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="RFC4939" target="https://www.rfc-editor.org/info/rfc4939">
+  <front>
+    <title>Definitions of Managed Objects for iSNS (Internet Storage Name Service)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4939"/>
+    <seriesInfo name="RFC" value="4939"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Gibbons" fullname="K. Gibbons"/>
+    <author initials="G." surname="Ramkumar" fullname="G. Ramkumar"/>
+    <author initials="S." surname="Kipp" fullname="S. Kipp"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <workgroup>IP Storage</workgroup>
+    <keyword>mib</keyword>
+    <keyword>management information base</keyword>
+    <keyword>iscsi</keyword>
+    <keyword>internet small computer system interface</keyword>
+    <keyword>ifcp</keyword>
+    <keyword>internet fibre channel protocol</keyword>
+    <keyword>ISNS-MIB</keyword>
+    <abstract>
+      <t>&lt;p&gt;The iSNS (Internet Storage Name Service) protocol provides storage name service functionality on an IP network that is being used for iSCSI (Internet Small Computer System Interface) or iFCP (Internet Fibre Channel Protocol) storage.  This document provides a mechanism to monitor multiple iSNS Servers, including information about registered objects in an iSNS Server. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

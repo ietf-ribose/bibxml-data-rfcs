@@ -1,0 +1,25 @@
+<reference anchor="RFC8133" target="https://www.rfc-editor.org/info/rfc8133">
+  <front>
+    <title>The Security Evaluated Standardized Password-Authenticated Key Exchange (SESPAKE) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8133"/>
+    <seriesInfo name="RFC" value="8133"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Smyshlyaev" fullname="S. Smyshlyaev" role="editor"/>
+    <author initials="E." surname="Alekseev" fullname="E. Alekseev"/>
+    <author initials="I." surname="Oshkin" fullname="I. Oshkin"/>
+    <author initials="V." surname="Popov" fullname="V. Popov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <keyword>cryptography</keyword>
+    <keyword>secure channel</keyword>
+    <keyword>elliptic curve</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Security Evaluated Standardized Password- Authenticated Key Exchange (SESPAKE) protocol.  The SESPAKE protocol provides password-authenticated key exchange for usage in systems for protection of sensitive information.  The security proofs of the protocol were made for situations involving an active adversary in the channel, including man-in-the-middle (MitM) attacks and attacks based on the impersonation of one of the subjects.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

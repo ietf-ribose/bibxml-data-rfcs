@@ -1,0 +1,32 @@
+<reference anchor="RFC8111" target="https://www.rfc-editor.org/info/rfc8111">
+  <front>
+    <title>Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8111"/>
+    <seriesInfo name="RFC" value="8111"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Fuller" fullname="V. Fuller"/>
+    <author initials="D." surname="Lewis" fullname="D. Lewis"/>
+    <author initials="V." surname="Ermagan" fullname="V. Ermagan"/>
+    <author initials="A." surname="Jain" fullname="A. Jain"/>
+    <author initials="A." surname="Smirnov" fullname="A. Smirnov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2017"></date>
+    <workgroup>Locator/ID Separation Protocol</workgroup>
+    <keyword>LISP</keyword>
+    <keyword>DDT</keyword>
+    <keyword>EID</keyword>
+    <keyword>Locator</keyword>
+    <keyword>Mapping System</keyword>
+    <keyword>Map-Server</keyword>
+    <keyword>Map-Referral</keyword>
+    <keyword>Referral</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT), a hierarchical distributed database that embodies the delegation of authority to provide mappings from LISP Endpoint Identifiers (EIDs) to Routing Locators (RLOCs).  It is a statically defined distribution of the EID namespace among a set of LISP-speaking servers called "DDT nodes".  Each DDT node is configured as "authoritative" for one or more EID-prefixes, along with the set of RLOCs for Map-Servers or "child" DDT nodes to which more-specific EID-prefixes are delegated.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC4432" target="https://www.rfc-editor.org/info/rfc4432">
+  <front>
+    <title>RSA Key Exchange for the Secure Shell (SSH) Transport Layer Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4432"/>
+    <seriesInfo name="RFC" value="4432"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Harris" fullname="B. Harris"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2006"></date>
+    <keyword>rivest-sharmir-adleman</keyword>
+    <keyword>public key encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes a key-exchange method for the Secure Shell (SSH) protocol based on Rivest-Shamir-Adleman (RSA) public-key encryption.  It uses much less client CPU time than the Diffie-Hellman algorithm specified as part of the core protocol, and hence is particularly suitable for slow client systems. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

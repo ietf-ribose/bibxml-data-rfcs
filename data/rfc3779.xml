@@ -1,0 +1,34 @@
+<reference anchor="RFC3779" target="https://www.rfc-editor.org/info/rfc3779">
+  <front>
+    <title>X.509 Extensions for IP Addresses and AS Identifiers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3779"/>
+    <seriesInfo name="RFC" value="3779"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Lynn" fullname="C. Lynn"/>
+    <author initials="S." surname="Kent" fullname="S. Kent"/>
+    <author initials="K." surname="Seo" fullname="K. Seo"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2004"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>X.509</keyword>
+    <keyword>allocation</keyword>
+    <keyword>atrribute certificate</keyword>
+    <keyword>authorization</keyword>
+    <keyword>autonomous system number authorization</keyword>
+    <keyword>certificate</keyword>
+    <keyword>delegation</keyword>
+    <keyword>internet registry</keyword>
+    <keyword>ip address authorization</keyword>
+    <keyword>public key infrastructure</keyword>
+    <keyword>right-to-use</keyword>
+    <keyword>secure allocation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines two X.509 v3 certificate extensions.  The first binds a list of IP address blocks, or prefixes, to the subject of a certificate.  The second binds a list of autonomous system identifiers to the subject of a certificate.  These extensions may be used to convey the authorization of the subject to use the IP addresses and autonomous system identifiers contained in the extensions. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

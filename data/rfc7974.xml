@@ -1,0 +1,26 @@
+<reference anchor="RFC7974" target="https://www.rfc-editor.org/info/rfc7974">
+  <front>
+    <title>An Experimental TCP Option for Host Identification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7974"/>
+    <seriesInfo name="RFC" value="7974"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="B." surname="Williams" fullname="B. Williams"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2016"></date>
+    <keyword>Policy enforcement</keyword>
+    <keyword>Address sharing</keyword>
+    <keyword>NAT</keyword>
+    <keyword>Host reveal</keyword>
+    <keyword>Host-ID</keyword>
+    <abstract>
+      <t>&lt;p&gt;Recent RFCs have discussed issues with host identification in IP address-sharing systems, such as address/prefix-sharing devices and application-layer proxies.  Potential solutions for revealing a host identifier in shared address deployments have also been discussed.  This memo describes the design, deployment, and privacy considerations for one such solution in operational use on the Internet today that uses a TCP option to transmit a host identifier.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

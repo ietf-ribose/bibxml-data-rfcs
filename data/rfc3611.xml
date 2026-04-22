@@ -1,0 +1,31 @@
+<reference anchor="RFC3611" target="https://www.rfc-editor.org/info/rfc3611">
+  <front>
+    <title>RTP Control Protocol Extended Reports (RTCP XR)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3611"/>
+    <seriesInfo name="RFC" value="3611"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Friedman" fullname="T. Friedman" role="editor"/>
+    <author initials="R." surname="Caceres" fullname="R. Caceres" role="editor"/>
+    <author initials="A." surname="Clark" fullname="A. Clark" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2003"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>RTP</keyword>
+    <keyword>real time transport protocol</keyword>
+    <keyword>packet</keyword>
+    <keyword>type</keyword>
+    <keyword>SDP</keyword>
+    <keyword>session description protocol</keyword>
+    <keyword>blocks</keyword>
+    <keyword>XR</keyword>
+    <keyword>Extended Report</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Extended Report (XR) packet type for the RTP Control Protocol (RTCP), and defines how the use of XR packets can be signaled by an application if it employs the Session Description Protocol (SDP).  XR packets are composed of report blocks, and seven block types are defined here.  The purpose of the extended reporting format is to convey information that supplements the six statistics that are contained in the report blocks used by RTCP's Sender Report (SR) and Receiver Report (RR) packets.  Some applications, such as multicast inference of network characteristics (MINC) or voice over IP (VoIP) monitoring, require other and more detailed statistics.  In addition to the block types defined here, additional block types may be defined in the future by adhering to the framework that this document provides.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

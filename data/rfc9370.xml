@@ -1,0 +1,36 @@
+<reference anchor="RFC9370" target="https://www.rfc-editor.org/info/rfc9370">
+  <front>
+    <title>Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9370"/>
+    <seriesInfo name="RFC" value="9370"/>
+    <seriesInfo name="IETF"/>
+    <author initials="CJ." surname="Tjhai" fullname="CJ. Tjhai"/>
+    <author initials="M." surname="Tomlinson" fullname="M. Tomlinson"/>
+    <author initials="G." surname="Bartlett" fullname="G. Bartlett"/>
+    <author initials="S." surname="Fluhrer" fullname="S. Fluhrer"/>
+    <author initials="D." surname="Van Geest" fullname="D. Van Geest"/>
+    <author initials="O." surname="Garcia-Morchon" fullname="O. Garcia-Morchon"/>
+    <author initials="V." surname="Smyslov" fullname="V. Smyslov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2023"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>post-quantum</keyword>
+    <keyword>PQC</keyword>
+    <keyword>hybrid</keyword>
+    <keyword>hybridization</keyword>
+    <keyword>hybrid key exchange</keyword>
+    <keyword>key encapsulation</keyword>
+    <keyword>quantum</keyword>
+    <keyword>quantum-safe</keyword>
+    <keyword>KEM</keyword>
+    <keyword>PQ</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how to extend the Internet Key Exchange Protocol Version 2 (IKEv2) to allow multiple key exchanges to take place while computing a shared secret during a Security Association (SA) setup.&lt;/p&gt;&lt;p&gt;This document utilizes the IKE_INTERMEDIATE exchange, where multiple key exchanges are performed when an IKE SA is being established. It also introduces a new IKEv2 exchange, IKE_FOLLOWUP_KE, which is used for the same purpose when the IKE SA is being rekeyed or is creating additional Child SAs.&lt;/p&gt;&lt;p&gt;This document updates RFC 7296 by renaming a Transform Type 4 from "Diffie-Hellman Group (D-H)" to "Key Exchange Method (KE)" and renaming a field in the Key Exchange Payload from "Diffie-Hellman Group Num" to "Key Exchange Method". It also renames an IANA registry for this Transform Type from "Transform Type 4 - Diffie- Hellman Group Transform IDs" to "Transform Type 4 - Key Exchange Method Transform IDs". These changes generalize key exchange algorithms that can be used in IKEv2.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

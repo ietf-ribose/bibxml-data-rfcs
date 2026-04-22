@@ -1,0 +1,30 @@
+<reference anchor="RFC9733" target="https://www.rfc-editor.org/info/rfc9733">
+  <front>
+    <title>BRSKI with Alternative Enrollment (BRSKI-AE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9733"/>
+    <seriesInfo name="RFC" value="9733"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="von Oheimb" fullname="D. von Oheimb" role="editor"/>
+    <author initials="S." surname="Fries" fullname="S. Fries"/>
+    <author initials="H." surname="Brockhaus" fullname="H. Brockhaus"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2025"></date>
+    <workgroup>Autonomic Networking Integrated Model and Approach</workgroup>
+    <keyword>BRSKI</keyword>
+    <keyword>IoT</keyword>
+    <keyword>zero-touch onboarding</keyword>
+    <keyword>alternative enrollment protocols</keyword>
+    <keyword>CMP</keyword>
+    <keyword>self-contained signed objects</keyword>
+    <keyword>end-to-end proof of origin</keyword>
+    <keyword>auditable source authentication</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines enhancements to the Bootstrapping Remote Secure Key Infrastructure (BRSKI) protocol, known as BRSKI with Alternative Enrollment (BRSKI-AE).  BRSKI-AE extends BRSKI to support certificate enrollment mechanisms instead of the originally specified use of Enrollment over Secure Transport (EST).  It supports certificate enrollment protocols such as the Certificate Management Protocol (CMP) that use authenticated self-contained signed objects for certification messages, allowing for flexibility in network device onboarding scenarios.  The enhancements address use cases where the existing enrollment mechanism may not be feasible or optimal, providing a framework for integrating suitable alternative enrollment protocols.  This document also updates the BRSKI reference architecture to accommodate these alternative methods, ensuring secure and scalable deployment across a range of network environments.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

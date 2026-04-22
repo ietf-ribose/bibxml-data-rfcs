@@ -1,0 +1,35 @@
+<reference anchor="RFC5846" target="https://www.rfc-editor.org/info/rfc5846">
+  <front>
+    <title>Binding Revocation for IPv6 Mobility</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5846"/>
+    <seriesInfo name="RFC" value="5846"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Muhanna" fullname="A. Muhanna"/>
+    <author initials="M." surname="Khalil" fullname="M. Khalil"/>
+    <author initials="S." surname="Gundavelli" fullname="S. Gundavelli"/>
+    <author initials="K." surname="Chowdhury" fullname="K. Chowdhury"/>
+    <author initials="P." surname="Yegani" fullname="P. Yegani"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2010"></date>
+    <workgroup>Mobility EXTensions for IPv6</workgroup>
+    <keyword>PMIP6</keyword>
+    <keyword>PMIPv6</keyword>
+    <keyword>Binding Revocation Indication</keyword>
+    <keyword>BRI</keyword>
+    <keyword>Binding Revocation Acknowledgement</keyword>
+    <keyword>BRA</keyword>
+    <keyword>MIP6</keyword>
+    <keyword>DSMIP6</keyword>
+    <keyword>Multiple Care-of Addresses</keyword>
+    <keyword>PMIPv6 Revocation</keyword>
+    <keyword>Bulk PMIPv6 Revocation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a binding revocation mechanism to terminate a mobile node's mobility session and the associated resources.  This mechanism can be used both with base Mobile IPv6 and its extensions, such as Proxy Mobile IPv6.  The mechanism allows the mobility entity which initiates the revocation procedure to request its peer to terminate either one, multiple or all specified Binding Cache entries. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

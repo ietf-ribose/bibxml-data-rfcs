@@ -1,0 +1,22 @@
+<reference anchor="RFC8904" target="https://www.rfc-editor.org/info/rfc8904">
+  <front>
+    <title>DNS Whitelist (DNSWL) Email Authentication Method Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8904"/>
+    <seriesInfo name="RFC" value="8904"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="A." surname="Vesely" fullname="A. Vesely"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2020"></date>
+    <keyword>DNSWL</keyword>
+    <keyword>EMAIL</keyword>
+    <keyword>Authentication-Results</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an email authentication method compliant with RFC 8601. The method consists of looking up the sender's IP address in a DNS whitelist. This document provides information in case the method is seen in the field, suggests a useful practice, and registers the relevant keywords.&lt;/p&gt;&lt;p&gt;This document does not consider blacklists.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="RFC9461" target="https://www.rfc-editor.org/info/rfc9461">
+  <front>
+    <title>Service Binding Mapping for DNS Servers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9461"/>
+    <seriesInfo name="RFC" value="9461"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Schwartz" fullname="B. Schwartz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Adaptive DNS Discovery</workgroup>
+    <keyword>DoH</keyword>
+    <keyword>DoT</keyword>
+    <keyword>DoQ</keyword>
+    <keyword>DDR</keyword>
+    <keyword>DNR</keyword>
+    <abstract>
+      <t>&lt;p&gt;The SVCB DNS resource record type expresses a bound collection of endpoint metadata, for use when establishing a connection to a named service.  DNS itself can be such a service, when the server is identified by a domain name.  This document provides the SVCB mapping for named DNS servers, allowing them to indicate support for encrypted transport protocols.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="RFC8392" target="https://www.rfc-editor.org/info/rfc8392">
+  <front>
+    <title>CBOR Web Token (CWT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8392"/>
+    <seriesInfo name="RFC" value="8392"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Jones" fullname="M. Jones"/>
+    <author initials="E." surname="Wahlstroem" fullname="E. Wahlstroem"/>
+    <author initials="S." surname="Erdtman" fullname="S. Erdtman"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2018"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>JSON Web Token</keyword>
+    <keyword>JWT</keyword>
+    <keyword>Claims</keyword>
+    <keyword>Concise Binary Object Representation</keyword>
+    <keyword>CBOR</keyword>
+    <keyword>CBOR Object Signing and Encryption</keyword>
+    <keyword>COSE</keyword>
+    <keyword>OAuth</keyword>
+    <keyword>ACE</keyword>
+    <abstract>
+      <t>&lt;p&gt;CBOR Web Token (CWT) is a compact means of representing claims to be transferred between two parties.  The claims in a CWT are encoded in the Concise Binary Object Representation (CBOR), and CBOR Object Signing and Encryption (COSE) is used for added application-layer security protection.  A claim is a piece of information asserted about a subject and is represented as a name/value pair consisting of a claim name and a claim value.  CWT is derived from JSON Web Token (JWT) but uses CBOR rather than JSON.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

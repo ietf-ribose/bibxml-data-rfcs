@@ -1,0 +1,24 @@
+<reference anchor="RFC8819" target="https://www.rfc-editor.org/info/rfc8819">
+  <front>
+    <title>YANG Module Tags</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8819"/>
+    <seriesInfo name="RFC" value="8819"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Hopps" fullname="C. Hopps"/>
+    <author initials="L." surname="Berger" fullname="L. Berger"/>
+    <author initials="D." surname="Bogdanovic" fullname="D. Bogdanovic"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>YANG</keyword>
+    <keyword>tags</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides for the association of tags with YANG modules.  The expectation is for such tags to be used to help classify and organize modules.  A method for defining, reading, and writing modules tags is provided.  Tags may be registered and assigned during module definition, assigned by implementations, or dynamically defined and set by users.  This document also provides guidance to future model writers; as such, this document updates RFC 8407.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

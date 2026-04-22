@@ -1,0 +1,26 @@
+<reference anchor="RFC9346" target="https://www.rfc-editor.org/info/rfc9346">
+  <front>
+    <title>IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and GMPLS Traffic Engineering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9346"/>
+    <seriesInfo name="RFC" value="9346"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="L." surname="Ginsberg" fullname="L. Ginsberg"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="D." surname="Xiaodong" fullname="D. Xiaodong"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2023"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>ISIS</keyword>
+    <keyword>Inter-AS</keyword>
+    <keyword>TE</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes extensions to the Intermediate System to Intermediate System (IS-IS) protocol to support Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering (TE) for multiple Autonomous Systems (ASes). It defines IS-IS extensions for the flooding of TE information about inter-AS links, which can be used to perform inter-AS TE path computation.&lt;/p&gt;&lt;p&gt;No support for flooding information from within one AS to another AS is proposed or defined in this document.&lt;/p&gt;&lt;p&gt;This document builds on RFC 5316 by adding support for IPv6-only operation.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 5316.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

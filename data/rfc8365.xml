@@ -1,0 +1,27 @@
+<reference anchor="RFC8365" target="https://www.rfc-editor.org/info/rfc8365">
+  <front>
+    <title>A Network Virtualization Overlay Solution Using Ethernet VPN (EVPN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8365"/>
+    <seriesInfo name="RFC" value="8365"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Sajassi" fullname="A. Sajassi" role="editor"/>
+    <author initials="J." surname="Drake" fullname="J. Drake" role="editor"/>
+    <author initials="N." surname="Bitar" fullname="N. Bitar"/>
+    <author initials="R." surname="Shekhar" fullname="R. Shekhar"/>
+    <author initials="J." surname="Uttaro" fullname="J. Uttaro"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2018"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>EVPN Control Plane with VxLAN Encapsulation</keyword>
+    <keyword>EVPN Control Plane with NvGRE Encapsulation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how Ethernet VPN (EVPN) can be used as a Network Virtualization Overlay (NVO) solution and explores the various tunnel encapsulation options over IP and their impact on the EVPN control plane and procedures.  In particular, the following encapsulation options are analyzed: Virtual Extensible LAN (VXLAN), Network Virtualization using Generic Routing Encapsulation (NVGRE), and MPLS over GRE.  This specification is also applicable to Generic Network Virtualization Encapsulation (GENEVE); however, some incremental work is required, which will be covered in a separate document.  This document also specifies new multihoming procedures for split-horizon filtering and mass withdrawal.  It also specifies EVPN route constructions for VXLAN/NVGRE encapsulations and Autonomous System Border Router (ASBR) procedures for multihoming of Network Virtualization Edge (NVE) devices.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

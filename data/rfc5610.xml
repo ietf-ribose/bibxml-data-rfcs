@@ -1,0 +1,27 @@
+<reference anchor="RFC5610" target="https://www.rfc-editor.org/info/rfc5610">
+  <front>
+    <title>Exporting Type Information for IP Flow Information Export (IPFIX) Information Elements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5610"/>
+    <seriesInfo name="RFC" value="5610"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Boschi" fullname="E. Boschi"/>
+    <author initials="B." surname="Trammell" fullname="B. Trammell"/>
+    <author initials="L." surname="Mark" fullname="L. Mark"/>
+    <author initials="T." surname="Zseby" fullname="T. Zseby"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2009"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>enterprise-specific Information Element</keyword>
+    <keyword>IPFIX Template</keyword>
+    <keyword>type record</keyword>
+    <keyword>type options template</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an extension to the IP Flow Information Export (IPFIX) protocol, which is used to represent and transmit data from IP flow measurement devices for collection, storage, and analysis, to allow the encoding of IPFIX Information Model properties within an IPFIX Message stream.  This enables the export of extended type information for enterprise-specific Information Elements and the storage of such information within IPFIX Files, facilitating interoperability and reusability among a wide variety of applications and tools. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="RFC1893" target="https://www.rfc-editor.org/info/rfc1893">
+  <front>
+    <title>Enhanced Mail System Status Codes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1893"/>
+    <seriesInfo name="RFC" value="1893"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Vaudreuil" fullname="G. Vaudreuil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1996"></date>
+    <workgroup>Notifications and Acknowledgements Requirements</workgroup>
+    <keyword>EMS-CODE</keyword>
+    <keyword>simple</keyword>
+    <keyword>mail</keyword>
+    <keyword>transfer</keyword>
+    <keyword>protocol</keyword>
+    <keyword>SMTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;There currently is not a standard mechanism for the reporting of mail system errors except for the limited set offered by SMTP and the system specific text descriptions sent in mail messages.  There is a pressing need for a rich machine readable status code for use in delivery status notifications [DSN].  This document proposes a new set of status codes for this purpose. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

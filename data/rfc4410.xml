@@ -1,0 +1,25 @@
+<reference anchor="RFC4410" target="https://www.rfc-editor.org/info/rfc4410">
+  <front>
+    <title>Selectively Reliable Multicast Protocol (SRMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4410"/>
+    <seriesInfo name="RFC" value="4410"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Pullen" fullname="M. Pullen"/>
+    <author initials="F." surname="Zhao" fullname="F. Zhao"/>
+    <author initials="D." surname="Cohen" fullname="D. Cohen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <keyword>transport</keyword>
+    <keyword>best-effort</keyword>
+    <keyword>srt</keyword>
+    <keyword>selectively reliable transport</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Selectively Reliable Multicast Protocol (SRMP) is a transport protocol, intended to deliver a mix of reliable and best-effort messages in an any-to-any multicast environment, where the best-effort traffic occurs in significantly greater volume than the reliable traffic and therefore can carry sequence numbers of reliable messages for loss detection.  SRMP is intended for use in a distributed simulation application environment, where only the latest value of reliable transmission for any particular data identifier requires delivery.  SRMP has two sublayers: a bundling sublayer handling message aggregation and congestion control, and a Selectively Reliable Transport (SRT) sublayer.  Selection between reliable and best-effort messages is performed by the application.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="RFC5044" target="https://www.rfc-editor.org/info/rfc5044">
+  <front>
+    <title>Marker PDU Aligned Framing for TCP Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5044"/>
+    <seriesInfo name="RFC" value="5044"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Culley" fullname="P. Culley"/>
+    <author initials="U." surname="Elzur" fullname="U. Elzur"/>
+    <author initials="R." surname="Recio" fullname="R. Recio"/>
+    <author initials="S." surname="Bailey" fullname="S. Bailey"/>
+    <author initials="J." surname="Carrier" fullname="J. Carrier"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2007"></date>
+    <workgroup>Remote Direct Data Placement</workgroup>
+    <keyword>mpa</keyword>
+    <keyword>adaaptation layer</keyword>
+    <keyword>ddp</keyword>
+    <keyword>direct data placement protocol</keyword>
+    <keyword>transmission</keyword>
+    <abstract>
+      <t>&lt;p&gt;Marker PDU Aligned Framing (MPA) is designed to work as an "adaptation layer" between TCP and the Direct Data Placement protocol (DDP) as described in RFC 5041.  It preserves the reliable, in-order delivery of TCP, while adding the preservation of higher-level protocol record boundaries that DDP requires.  MPA is fully compliant with applicable TCP RFCs and can be utilized with existing TCP implementations.  MPA also supports integrated implementations that combine TCP, MPA and DDP to reduce buffering requirements in the implementation and improve performance at the system level. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

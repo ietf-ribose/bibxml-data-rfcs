@@ -1,0 +1,26 @@
+<reference anchor="RFC4247" target="https://www.rfc-editor.org/info/rfc4247">
+  <front>
+    <title>Requirements for Header Compression over MPLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4247"/>
+    <seriesInfo name="RFC" value="4247"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Ash" fullname="J. Ash"/>
+    <author initials="B." surname="Goode" fullname="B. Goode"/>
+    <author initials="J." surname="Hand" fullname="J. Hand"/>
+    <author initials="R." surname="Zhang" fullname="R. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2005"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>multiprotocol label switching</keyword>
+    <keyword>voip</keyword>
+    <keyword>voice over ip</keyword>
+    <abstract>
+      <t>&lt;p&gt;Voice over IP (VoIP) typically uses the encapsulation voice/RTP/UDP/IP.  When MPLS labels are added, this becomes voice/RTP/UDP/IP/MPLS-labels.  For an MPLS VPN, the packet header is typically 48 bytes, while the voice payload is often no more than 30 bytes, for example.  Header compression can significantly reduce the overhead through various compression mechanisms, such as enhanced compressed RTP (ECRTP) and robust header compression (ROHC).  We consider using MPLS to route compressed packets over an MPLS Label Switched Path (LSP) without compression/decompression cycles at each router.  This approach can increase the bandwidth efficiency as well as processing scalability of the maximum number of simultaneous flows that use header compression at each router.  In this document, we give a problem statement, goals and requirements, and an example scenario.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

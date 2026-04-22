@@ -1,0 +1,23 @@
+<reference anchor="RFC4344" target="https://www.rfc-editor.org/info/rfc4344">
+  <front>
+    <title>The Secure Shell (SSH) Transport Layer Encryption Modes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4344"/>
+    <seriesInfo name="RFC" value="4344"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bellare" fullname="M. Bellare"/>
+    <author initials="T." surname="Kohno" fullname="T. Kohno"/>
+    <author initials="C." surname="Namprempre" fullname="C. Namprempre"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Secure Shell</workgroup>
+    <keyword>rekey</keyword>
+    <abstract>
+      <t>&lt;p&gt;Researchers have discovered that the authenticated encryption portion of the current SSH Transport Protocol is vulnerable to several attacks.&lt;/p&gt;&lt;p&gt;This document describes new symmetric encryption methods for the Secure Shell (SSH) Transport Protocol and gives specific recommendations on how frequently SSH implementations should rekey. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

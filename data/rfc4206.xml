@@ -1,0 +1,26 @@
+<reference anchor="RFC4206" target="https://www.rfc-editor.org/info/rfc4206">
+  <front>
+    <title>Label Switched Paths (LSP) Hierarchy with Generalized Multi-Protocol Label Switching (GMPLS) Traffic Engineering (TE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4206"/>
+    <seriesInfo name="RFC" value="4206"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kompella" fullname="K. Kompella"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2005"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>lsr</keyword>
+    <keyword>label switching router</keyword>
+    <keyword>te lsp</keyword>
+    <keyword>fa</keyword>
+    <keyword>forwarding adjacency</keyword>
+    <abstract>
+      <t>&lt;p&gt;To improve scalability of Generalized Multi-Protocol Label Switching (GMPLS) it may be useful to aggregate Label Switched Paths (LSPs) by creating a hierarchy of such LSPs. A way to create such a hierarchy is by (a) a Label Switching Router (LSR) creating a Traffic Engineering Label Switched Path (TE LSP), (b) the LSR forming a forwarding adjacency (FA) out of that LSP (by advertising this LSP as a Traffic Engineering (TE) link into the same instance of ISIS/OSPF as the one that was used to create the LSP), (c) allowing other LSRs to use FAs for their path computation, and (d) nesting of LSPs originated by other LSRs into that LSP (by using the label stack construct).&lt;/p&gt;&lt;p&gt;This document describes the mechanisms to accomplish this. [PROPOSED STANDARD]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

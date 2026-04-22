@@ -1,0 +1,20 @@
+<reference anchor="RFC6994" target="https://www.rfc-editor.org/info/rfc6994">
+  <front>
+    <title>Shared Use of Experimental TCP Options</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6994"/>
+    <seriesInfo name="RFC" value="6994"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Touch" fullname="J. Touch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2013"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes how the experimental TCP option codepoints can concurrently support multiple TCP extensions, even within the same connection, using a new IANA TCP experiment identifier.  This approach is robust to experiments that are not registered and to those that do not use this sharing mechanism.  It is recommended for all new TCP options that use these codepoints.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

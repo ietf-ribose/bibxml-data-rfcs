@@ -1,0 +1,24 @@
+<reference anchor="RFC6298" target="https://www.rfc-editor.org/info/rfc6298">
+  <front>
+    <title>Computing TCP's Retransmission Timer</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6298"/>
+    <seriesInfo name="RFC" value="6298"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Paxson" fullname="V. Paxson"/>
+    <author initials="M." surname="Allman" fullname="M. Allman"/>
+    <author initials="J." surname="Chu" fullname="J. Chu"/>
+    <author initials="M." surname="Sargent" fullname="M. Sargent"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2011"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>RTO</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the standard algorithm that Transmission Control Protocol (TCP) senders are required to use to compute and manage their retransmission timer.  It expands on the discussion in Section 4.2.3.1 of RFC 1122 and upgrades the requirement of supporting the algorithm from a SHOULD to a MUST.  This document obsoletes RFC 2988. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

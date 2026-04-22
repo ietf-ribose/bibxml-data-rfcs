@@ -1,0 +1,29 @@
+<reference anchor="RFC3841" target="https://www.rfc-editor.org/info/rfc3841">
+  <front>
+    <title>Caller Preferences for the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3841"/>
+    <seriesInfo name="RFC" value="3841"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="P." surname="Kyzivat" fullname="P. Kyzivat"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2004"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Session Initiation Protocol</keyword>
+    <keyword>Uniform Resource Identifiers</keyword>
+    <keyword>URI</keyword>
+    <keyword>Accept-Contact</keyword>
+    <keyword>Reject-Contact</keyword>
+    <keyword>Request-Disposition</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a set of extensions to the Session Initiation Protocol (SIP) which allow a caller to express preferences about request handling in servers.  These preferences include the ability to select which Uniform Resource Identifiers (URI) a request gets routed to, and to specify certain request handling directives in proxies and redirect servers.  It does so by defining three new request header fields, Accept-Contact, Reject-Contact, and Request-Disposition, which specify the caller's preferences. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

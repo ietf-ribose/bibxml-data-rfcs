@@ -1,0 +1,30 @@
+<reference anchor="RFC7323" target="https://www.rfc-editor.org/info/rfc7323">
+  <front>
+    <title>TCP Extensions for High Performance</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7323"/>
+    <seriesInfo name="RFC" value="7323"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Borman" fullname="D. Borman"/>
+    <author initials="B." surname="Braden" fullname="B. Braden"/>
+    <author initials="V." surname="Jacobson" fullname="V. Jacobson"/>
+    <author initials="R." surname="Scheffenegger" fullname="R. Scheffenegger" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2014"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>Timestamps</keyword>
+    <keyword>Timestamp</keyword>
+    <keyword>RTT</keyword>
+    <keyword>RTTM</keyword>
+    <keyword>Window Scale</keyword>
+    <keyword>PAWS</keyword>
+    <keyword>TCP options</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a set of TCP extensions to improve performance over paths with a large bandwidth * delay product and to provide reliable operation over very high-speed paths. It defines the TCP Window Scale (WS) option and the TCP Timestamps (TS) option and their semantics. The Window Scale option is used to support larger receive windows, while the Timestamps option can be used for at least two distinct mechanisms, Protection Against Wrapped Sequences (PAWS) and Round-Trip Time Measurement (RTTM), that are also described herein.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 1323 and describes changes from it.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC9843" target="https://www.rfc-editor.org/info/rfc9843">
+  <front>
+    <title>IGP Flexible Algorithms: Bandwidth, Delay, Metrics, and Constraints</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9843"/>
+    <seriesInfo name="RFC" value="9843"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Hegde" fullname="S. Hegde"/>
+    <author initials="W." surname="Britto" fullname="W. Britto"/>
+    <author initials="R." surname="Shetty" fullname="R. Shetty"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="T." surname="Li" fullname="T. Li"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>AS</keyword>
+    <keyword>IGP</keyword>
+    <abstract>
+      <t>&lt;p&gt;Many networks configure the IGP link metric relative to the link capacity, and high bandwidth traffic gets routed per the link capacity. Flexible Algorithms provide mechanisms to create constraint-based paths in an IGP. This specification documents a generic metric-type and a set of bandwidth-related constraints to be used in Flexible Algorithms.&lt;/p&gt;&lt;p&gt;This document updates RFC 9350.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

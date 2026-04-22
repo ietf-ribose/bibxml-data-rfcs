@@ -1,0 +1,40 @@
+<reference anchor="RFC9947" target="https://www.rfc-editor.org/info/rfc9947">
+  <front>
+    <title>Application of the Alternate-Marking Method to the Segment Routing Header</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9947"/>
+    <seriesInfo name="RFC" value="9947"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="G." surname="Fioccola" fullname="G. Fioccola"/>
+    <author initials="T." surname="Zhou" fullname="T. Zhou"/>
+    <author initials="G." surname="Mishra" fullname="G. Mishra"/>
+    <author initials="X." surname="Wang" fullname="X. Wang"/>
+    <author initials="G." surname="Zhang" fullname="G. Zhang"/>
+    <author initials="M." surname="Cociglio" fullname="M. Cociglio"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2026"></date>
+    <keyword>SRH</keyword>
+    <keyword>TLV</keyword>
+    <keyword>Extension</keyword>
+    <keyword>Header</keyword>
+    <keyword>Option</keyword>
+    <keyword>Performance</keyword>
+    <keyword>Measurement</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Passive</keyword>
+    <keyword>Hybrid</keyword>
+    <keyword>Loss</keyword>
+    <keyword>Delay</keyword>
+    <keyword>Delay Variation</keyword>
+    <keyword>Multipoint</keyword>
+    <keyword>Cluster</keyword>
+    <keyword>Closed-Loop</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an alternative experimental approach for the application of the Alternate-Marking Method to Segment Routing for IPv6 (SRv6). It uses an experimental TLV in the Segment Routing Header (SRH); thus, participation in this experiment should be between coordinating parties in a controlled domain. This approach has potential scaling and simplification benefits over the technique described in RFC 9343, and the scope of the experiment is to determine whether those are significant and attractive to the community.&lt;/p&gt;&lt;p&gt;This protocol extension has been developed outside the IETF as an alternative to the IETF's Standards Track specification RFC 9343 and it does not have IETF consensus. It is published here to guide experimental implementation and ensure interoperability among implementations to better determine the value of this approach. Researchers are invited to submit their evaluations of this work to the Independent Submissions Editor or to the IETF SPRING Working Group as Internet-Drafts.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

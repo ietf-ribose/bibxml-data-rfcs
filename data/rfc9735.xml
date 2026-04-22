@@ -1,0 +1,21 @@
+<reference anchor="RFC9735" target="https://www.rfc-editor.org/info/rfc9735">
+  <front>
+    <title>Locator/ID Separation Protocol (LISP) Distinguished Name Encoding</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9735"/>
+    <seriesInfo name="RFC" value="9735"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="L." surname="Iannone" fullname="L. Iannone" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2025"></date>
+    <workgroup>Locator/ID Separation Protocol</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines how to use the Address Family Identifier (AFI) 17 "Distinguished Name" in the Locator/ID Separation Protocol (LISP).  LISP introduces two new numbering spaces: Endpoint Identifiers (EIDs) and Routing Locators (RLOCs).  Distinguished Names (DNs) can be used in either EID-Records or RLOC-Records in LISP control messages to convey additional information.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

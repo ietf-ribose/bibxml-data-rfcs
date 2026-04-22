@@ -1,0 +1,25 @@
+<reference anchor="RFC8618" target="https://www.rfc-editor.org/info/rfc8618">
+  <front>
+    <title>Compacted-DNS (C-DNS): A Format for DNS Packet Capture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8618"/>
+    <seriesInfo name="RFC" value="8618"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Dickinson" fullname="J. Dickinson"/>
+    <author initials="J." surname="Hague" fullname="J. Hague"/>
+    <author initials="S." surname="Dickinson" fullname="S. Dickinson"/>
+    <author initials="T." surname="Manderson" fullname="T. Manderson"/>
+    <author initials="J." surname="Bond" fullname="J. Bond"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2019"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a data representation for collections of DNS messages.  The format is designed for efficient storage and transmission of large packet captures of DNS traffic; it attempts to minimize the size of such packet capture files but retain the full DNS message contents along with the most useful transport metadata.  It is intended to assist with the development of DNS traffic- monitoring applications.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

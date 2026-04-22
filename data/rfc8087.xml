@@ -1,0 +1,25 @@
+<reference anchor="RFC8087" target="https://www.rfc-editor.org/info/rfc8087">
+  <front>
+    <title>The Benefits of Using Explicit Congestion Notification (ECN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8087"/>
+    <seriesInfo name="RFC" value="8087"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+    <author initials="M." surname="Welzl" fullname="M. Welzl"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Active Queue Management and Packet Scheduling</workgroup>
+    <keyword>ecn</keyword>
+    <keyword>aqm</keyword>
+    <keyword>sctp</keyword>
+    <keyword>tcp</keyword>
+    <abstract>
+      <t>&lt;p&gt;The goal of this document is to describe the potential benefits of applications using a transport that enables Explicit Congestion Notification (ECN).  The document outlines the principal gains in terms of increased throughput, reduced delay, and other benefits when ECN is used over a network path that includes equipment that supports Congestion Experienced (CE) marking.  It also discusses challenges for successful deployment of ECN.  It does not propose new algorithms to use ECN nor does it describe the details of implementation of ECN in endpoint devices (Internet hosts), routers, or other network devices.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

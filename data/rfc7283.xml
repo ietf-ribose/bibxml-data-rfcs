@@ -1,0 +1,24 @@
+<reference anchor="RFC7283" target="https://www.rfc-editor.org/info/rfc7283">
+  <front>
+    <title>Handling Unknown DHCPv6 Messages</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7283"/>
+    <seriesInfo name="RFC" value="7283"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Cui" fullname="Y. Cui"/>
+    <author initials="Q." surname="Sun" fullname="Q. Sun"/>
+    <author initials="T." surname="Lemon" fullname="T. Lemon"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2014"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>DHCPv6</keyword>
+    <keyword>Unknown Messages</keyword>
+    <abstract>
+      <t>&lt;p&gt;DHCPv6 is not specific about handling messages with unknown types.  This memo describes the problems associated with receiving DHCPv6 messages with unknown types, and defines how a DHCPv6 server, client, or relay agent should behave when receiving unknown DHCPv6 messages.  This document also provides advice for authors of future documents that define new messages to be sent from DHCP servers to DHCP relay agents.  This document updates RFC 3315.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

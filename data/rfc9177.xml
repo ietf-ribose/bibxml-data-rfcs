@@ -1,0 +1,34 @@
+<reference anchor="RFC9177" target="https://www.rfc-editor.org/info/rfc9177">
+  <front>
+    <title>Constrained Application Protocol (CoAP) Block-Wise Transfer Options Supporting Robust Transmission</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9177"/>
+    <seriesInfo name="RFC" value="9177"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="J." surname="Shallow" fullname="J. Shallow"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2022"></date>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>Quick-Block</keyword>
+    <keyword>Robust-Block</keyword>
+    <keyword>R-Block</keyword>
+    <keyword>Tough-Block</keyword>
+    <keyword>Resilient-Block</keyword>
+    <keyword>Fast-Block</keyword>
+    <keyword>Resilience</keyword>
+    <keyword>Filtering</keyword>
+    <keyword>Faster transmission</keyword>
+    <keyword>Large amounts of data</keyword>
+    <keyword>Less packet interchange</keyword>
+    <keyword>Fast recovery</keyword>
+    <keyword>DOTS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies alternative Constrained Application Protocol (CoAP) block-wise transfer options: Q-Block1 and Q-Block2.&lt;/p&gt;&lt;p&gt;These options are similar to, but distinct from, the CoAP Block1 and Block2 options defined in RFC 7959. The Q-Block1 and Q-Block2 options are not intended to replace the Block1 and Block2 options but rather have the goal of supporting Non-confirmable (NON) messages for large amounts of data with fewer packet interchanges. Also, the Q-Block1 and Q-Block2 options support faster recovery should any of the blocks get lost in transmission.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

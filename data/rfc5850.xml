@@ -1,0 +1,34 @@
+<reference anchor="RFC5850" target="https://www.rfc-editor.org/info/rfc5850">
+  <front>
+    <title>A Call Control and Multi-Party Usage Framework for the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5850"/>
+    <seriesInfo name="RFC" value="5850"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Mahy" fullname="R. Mahy"/>
+    <author initials="R." surname="Sparks" fullname="R. Sparks"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="D." surname="Petrie" fullname="D. Petrie"/>
+    <author initials="A." surname="Johnston" fullname="A. Johnston" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2010"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>call control</keyword>
+    <keyword>multiparty</keyword>
+    <keyword>features</keyword>
+    <keyword>mixing</keyword>
+    <keyword>refer</keyword>
+    <keyword>3pcc</keyword>
+    <keyword>Refer method</keyword>
+    <keyword>Replaces header field</keyword>
+    <keyword>Join header field</keyword>
+    <keyword>conferencing</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a framework and the requirements for call control and multi-party usage of the Session Initiation Protocol (SIP).  To enable discussion of multi-party features and applications, we define an abstract call model for describing the media relationships required by many of these.  The model and actions described here are specifically chosen to be independent of the SIP signaling and/or mixing approach chosen to actually set up the media relationships.  In addition to its dialog manipulation aspect, this framework includes requirements for communicating related information and events such as conference and session state and session history.  This framework also describes other goals that embody the spirit of SIP applications as used on the Internet such as the definition of primitives (not services), invoker and participant oriented primitives, signaling and mixing model independence, and others.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

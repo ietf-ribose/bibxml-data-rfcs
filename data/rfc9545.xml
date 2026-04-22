@@ -1,0 +1,29 @@
+<reference anchor="RFC9545" target="https://www.rfc-editor.org/info/rfc9545">
+  <front>
+    <title>Path Segment Identifier in MPLS-Based Segment Routing Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9545"/>
+    <seriesInfo name="RFC" value="9545"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Cheng" fullname="W. Cheng" role="editor"/>
+    <author initials="H." surname="Li" fullname="H. Li"/>
+    <author initials="C." surname="Li" fullname="C. Li" role="editor"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi"/>
+    <author initials="R." surname="Zigler" fullname="R. Zigler"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2024"></date>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>Performance Measurement</keyword>
+    <keyword> Bidirectional SR Path </keyword>
+    <keyword>End-to-End Path Protection</keyword>
+    <keyword>SR Path Segment</keyword>
+    <keyword>Path Segment</keyword>
+    <abstract>
+      <t>&lt;p&gt;A Segment Routing (SR) path is identified by an SR segment list. A subset of segments from the segment list cannot be leveraged to distinguish one SR path from another as they may be partially congruent. SR path identification is a prerequisite for various use cases such as performance measurement and end-to-end 1+1 path protection.&lt;/p&gt;&lt;p&gt;In an SR over MPLS (SR-MPLS) data plane, an egress node cannot determine on which SR path a packet traversed the network from the label stack because the segment identifiers are removed from the label stack as the packet transits the network.&lt;/p&gt;&lt;p&gt;This document defines a Path Segment Identifier (PSID) to identify an SR path on the egress node of the path.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

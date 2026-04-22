@@ -1,0 +1,30 @@
+<reference anchor="RFC9145" target="https://www.rfc-editor.org/info/rfc9145">
+  <front>
+    <title>Integrity Protection for the Network Service Header (NSH) and Encryption of Sensitive Context Headers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9145"/>
+    <seriesInfo name="RFC" value="9145"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="T." surname="Reddy.K" fullname="T. Reddy.K"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2021"></date>
+    <workgroup>Service Function Chaining</workgroup>
+    <keyword>Security</keyword>
+    <keyword>Resilience</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Service delivery</keyword>
+    <keyword>Providers</keyword>
+    <keyword>Differentiated services</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <keyword>Attack mitigation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification presents an optional method to add integrity protection directly to the Network Service Header (NSH) used for Service Function Chaining (SFC).  Also, this specification allows for the encryption of sensitive metadata (MD) that is carried in the NSH.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

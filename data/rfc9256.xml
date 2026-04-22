@@ -1,0 +1,29 @@
+<reference anchor="RFC9256" target="https://www.rfc-editor.org/info/rfc9256">
+  <front>
+    <title>Segment Routing Policy Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9256"/>
+    <seriesInfo name="RFC" value="9256"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="D." surname="Voyer" fullname="D. Voyer"/>
+    <author initials="A." surname="Bogdanov" fullname="A. Bogdanov"/>
+    <author initials="P." surname="Mattes" fullname="P. Mattes"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2022"></date>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>Segment Routing</keyword>
+    <keyword>SR Policy</keyword>
+    <keyword>SR-MPLS</keyword>
+    <keyword>SRv6</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) allows a node to steer a packet flow along any path. Intermediate per-path states are eliminated thanks to source routing. SR Policy is an ordered list of segments (i.e., instructions) that represent a source-routed policy. Packet flows are steered into an SR Policy on a node where it is instantiated called a headend node. The packets steered into an SR Policy carry an ordered list of segments associated with that SR Policy.&lt;/p&gt;&lt;p&gt;This document updates RFC 8402 as it details the concepts of SR Policy and steering into an SR Policy.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

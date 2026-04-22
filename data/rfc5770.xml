@@ -1,0 +1,26 @@
+<reference anchor="RFC5770" target="https://www.rfc-editor.org/info/rfc5770">
+  <front>
+    <title>Basic Host Identity Protocol (HIP) Extensions for Traversal of Network Address Translators</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5770"/>
+    <seriesInfo name="RFC" value="5770"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Komu" fullname="M. Komu"/>
+    <author initials="T." surname="Henderson" fullname="T. Henderson"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="J." surname="Melen" fullname="J. Melen"/>
+    <author initials="A." surname="Keranen" fullname="A. Keranen" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2010"></date>
+    <workgroup>Host Identity Protocol</workgroup>
+    <keyword>ICE</keyword>
+    <keyword>HIP relay</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies extensions to the Host Identity Protocol (HIP) to facilitate Network Address Translator (NAT) traversal.  The extensions are based on the use of the Interactive Connectivity Establishment (ICE) methodology to discover a working path between two end-hosts, and on standard techniques for encapsulating Encapsulating Security Payload (ESP) packets within the User Datagram Protocol (UDP).  This document also defines elements of a procedure for NAT traversal, including the optional use of a HIP relay server.  With these extensions HIP is able to work in environments that have NATs and provides a generic NAT traversal solution to higher-layer networking applications.  This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

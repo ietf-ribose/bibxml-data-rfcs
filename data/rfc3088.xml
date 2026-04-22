@@ -1,0 +1,23 @@
+<reference anchor="RFC3088" target="https://www.rfc-editor.org/info/rfc3088">
+  <front>
+    <title>OpenLDAP Root Service An experimental LDAP referral service</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3088"/>
+    <seriesInfo name="RFC" value="3088"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="K." surname="Zeilenga" fullname="K. Zeilenga"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2001"></date>
+    <keyword>OpenLDAP</keyword>
+    <keyword>lightweight directory access protocol</keyword>
+    <keyword>dns</keyword>
+    <keyword>domain name system</keyword>
+    <abstract>
+      <t>&lt;p&gt;The OpenLDAP Project is operating an experimental LDAP (Lightweight Directory Access Protocol) referral service known as the "OpenLDAP Root Service".  The automated system generates referrals based upon service location information published in DNS SRV RRs (Domain Name System location of services resource records).  This document describes this service.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

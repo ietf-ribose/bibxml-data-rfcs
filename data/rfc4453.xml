@@ -1,0 +1,23 @@
+<reference anchor="RFC4453" target="https://www.rfc-editor.org/info/rfc4453">
+  <front>
+    <title>Requirements for Consent-Based Communications in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4453"/>
+    <seriesInfo name="RFC" value="4453"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="G." surname="Camarillo" fullname="G. Camarillo" role="editor"/>
+    <author initials="D." surname="Willis" fullname="D. Willis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2006"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>sip extensions</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Session Initiation Protocol (SIP) supports communications across many media types, including real-time audio, video, text, instant messaging, and presence.  In its current form, it allows session invitations, instant messages, and other requests to be delivered from one party to another without requiring explicit consent of the recipient.  Without such consent, it is possible for SIP to be used for malicious purposes, including spam and denial-of-service attacks.  This document identifies a set of requirements for extensions to SIP that add consent-based communications.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

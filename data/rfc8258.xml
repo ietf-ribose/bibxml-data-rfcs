@@ -1,0 +1,23 @@
+<reference anchor="RFC8258" target="https://www.rfc-editor.org/info/rfc8258">
+  <front>
+    <title>Generalized SCSI: A Generic Structure for Interface Switching Capability Descriptor (ISCD) Switching Capability Specific Information (SCSI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8258"/>
+    <seriesInfo name="RFC" value="8258"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Ceccarelli" fullname="D. Ceccarelli"/>
+    <author initials="L." surname="Berger" fullname="L. Berger"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2017"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>OSPF-TE</keyword>
+    <keyword>GMPLS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a generic information structure for information carried in routing protocol Interface Switching Capability Descriptor (ISCD) Switching Capability Specific Information (SCSI) fields.  This "Generalized SCSI" can be used with routing protocols that define GMPLS ISCDs and any specific technology.  This document does not modify any existing technology-specific formats and is defined for use in conjunction with new GMPLS Switching Capability types.  The context for this document is Generalized MPLS, and the reader is expected to be familiar with the GMPLS architecture and associated protocol standards.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC4456" target="https://www.rfc-editor.org/info/rfc4456">
+  <front>
+    <title>BGP Route Reflection: An Alternative to Full Mesh Internal BGP (IBGP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4456"/>
+    <seriesInfo name="RFC" value="4456"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Bates" fullname="T. Bates"/>
+    <author initials="E." surname="Chen" fullname="E. Chen"/>
+    <author initials="R." surname="Chandra" fullname="R. Chandra"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2006"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP-RR</keyword>
+    <keyword>Border</keyword>
+    <keyword>Gateway</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>autonomous</keyword>
+    <keyword>system</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Border Gateway Protocol (BGP) is an inter-autonomous system routing protocol designed for TCP/IP internets. Typically, all BGP speakers within a single AS must be fully meshed so that any external routing information must be re-distributed to all other routers within that Autonomous System (AS). This represents a serious scaling problem that has been well documented with several alternatives proposed.&lt;/p&gt;&lt;p&gt;This document describes the use and design of a method known as "route reflection" to alleviate the need for "full mesh" Internal BGP (IBGP).&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 2796 and RFC 1966. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

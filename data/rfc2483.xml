@@ -1,0 +1,27 @@
+<reference anchor="RFC2483" target="https://www.rfc-editor.org/info/rfc2483">
+  <front>
+    <title>URI Resolution Services Necessary for URN Resolution</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2483"/>
+    <seriesInfo name="RFC" value="2483"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Mealling" fullname="M. Mealling"/>
+    <author initials="R." surname="Daniel" fullname="R. Daniel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1999"></date>
+    <workgroup>Uniform Resource Names</workgroup>
+    <keyword>URI</keyword>
+    <keyword>uniform resource identifier</keyword>
+    <keyword>URN</keyword>
+    <keyword>uniform resource names</keyword>
+    <keyword>locators</keyword>
+    <keyword>characteristics</keyword>
+    <abstract>
+      <t>&lt;p&gt;Retrieving the resource identified by a Uniform Resource Identifier (URI) is only one of the operations that can be performed on a URI.  One might also ask for and get a list of other identifiers that are aliases for the original URI or a bibliographic description of the resource the URI denotes, for example.  This applies to both Uniform Resource Names (URNs) and Uniform Resource Locators (URLs).  Uniform Resource Characteristics (URCs) are discussed in this document but only as descriptions of resources rather than identifiers.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

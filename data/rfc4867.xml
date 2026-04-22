@@ -1,0 +1,25 @@
+<reference anchor="RFC4867" target="https://www.rfc-editor.org/info/rfc4867">
+  <front>
+    <title>RTP Payload Format and File Storage Format for the Adaptive Multi-Rate (AMR) and Adaptive Multi-Rate Wideband (AMR-WB) Audio Codecs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4867"/>
+    <seriesInfo name="RFC" value="4867"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Sjoberg" fullname="J. Sjoberg"/>
+    <author initials="M." surname="Westerlund" fullname="M. Westerlund"/>
+    <author initials="A." surname="Lakaniemi" fullname="A. Lakaniemi"/>
+    <author initials="Q." surname="Xie" fullname="Q. Xie"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2007"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>interoperate</keyword>
+    <keyword>applications</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a Real-time Transport Protocol (RTP) payload format to be used for Adaptive Multi-Rate (AMR) and Adaptive Multi-Rate Wideband (AMR-WB) encoded speech signals.  The payload format is designed to be able to interoperate with existing AMR and AMR-WB transport formats on non-IP networks.  In addition, a file format is specified for transport of AMR and AMR-WB speech data in storage mode applications such as email.  Two separate media type registrations are included, one for AMR and one for AMR-WB, specifying use of both the RTP payload format and the storage format.  This document obsoletes RFC 3267. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

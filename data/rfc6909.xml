@@ -1,0 +1,24 @@
+<reference anchor="RFC6909" target="https://www.rfc-editor.org/info/rfc6909">
+  <front>
+    <title>IPv4 Traffic Offload Selector Option for Proxy Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6909"/>
+    <seriesInfo name="RFC" value="6909"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Gundavelli" fullname="S. Gundavelli" role="editor"/>
+    <author initials="X." surname="Zhou" fullname="X. Zhou"/>
+    <author initials="J." surname="Korhonen" fullname="J. Korhonen"/>
+    <author initials="G." surname="Feige" fullname="G. Feige"/>
+    <author initials="R." surname="Koodli" fullname="R. Koodli"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2013"></date>
+    <workgroup>Network-Based Mobility Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a new mobility option, the IPv4 Traffic Offload Selector option, for Proxy Mobile IPv6.  This option can be used by the local mobility anchor and the mobile access gateway for negotiating IPv4 traffic offload policy for a mobility session.  Based on the negotiated IPv4 traffic offload policy, a mobile access gateway can selectively offload some of the IPv4 traffic flows in the access network instead of tunneling back to the local mobility anchor in the home network.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC8733" target="https://www.rfc-editor.org/info/rfc8733">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for MPLS-TE Label Switched Path (LSP) Auto-Bandwidth Adjustment with Stateful PCE</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8733"/>
+    <seriesInfo name="RFC" value="8733"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Dhody" fullname="D. Dhody" role="editor"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi" role="editor"/>
+    <author initials="U." surname="Palle" fullname="U. Palle"/>
+    <author initials="R." surname="Singh" fullname="R. Singh"/>
+    <author initials="L." surname="Fang" fullname="L. Fang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2020"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>Bandwidth optimization</keyword>
+    <keyword>PCEP Overwhelm</keyword>
+    <keyword>LSP re-optimization</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Path Computation Element Communication Protocol (PCEP) provides mechanisms for Path Computation Elements (PCEs) to perform path computations in response to Path Computation Client (PCC) requests. Stateful PCE extensions allow stateful control of MPLS-TE Label Switched Paths (LSPs) using PCEP.&lt;/p&gt;&lt;p&gt;The auto-bandwidth feature allows automatic and dynamic adjustment of the TE LSP bandwidth reservation based on the volume of traffic flowing through the LSP. This document describes PCEP extensions for auto-bandwidth adjustment when employing an active stateful PCE for both PCE-initiated and PCC-initiated LSPs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

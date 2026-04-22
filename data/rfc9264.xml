@@ -1,0 +1,25 @@
+<reference anchor="RFC9264" target="https://www.rfc-editor.org/info/rfc9264">
+  <front>
+    <title>Linkset: Media Types and a Link Relation Type for Link Sets</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9264"/>
+    <seriesInfo name="RFC" value="9264"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Wilde" fullname="E. Wilde"/>
+    <author initials="H." surname="Van de Sompel" fullname="H. Van de Sompel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2022"></date>
+    <workgroup>Building Blocks for HTTP APIs</workgroup>
+    <keyword>Web linking</keyword>
+    <keyword>Typed links</keyword>
+    <keyword>JSON</keyword>
+    <keyword>HTTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines two formats and associated media types for representing sets of links as standalone documents.  One format is based on JSON, and the other is aligned with the format for representing links in the HTTP "Link" header field.  This specification also introduces a link relation type to support the discovery of sets of links.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

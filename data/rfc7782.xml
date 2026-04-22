@@ -1,0 +1,28 @@
+<reference anchor="RFC7782" target="https://www.rfc-editor.org/info/rfc7782">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL) Active-Active Edge Using Multiple MAC Attachments</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7782"/>
+    <seriesInfo name="RFC" value="7782"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Zhang" fullname="M. Zhang"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="H." surname="Zhai" fullname="H. Zhai"/>
+    <author initials="M." surname="Durrani" fullname="M. Durrani"/>
+    <author initials="S." surname="Gupta" fullname="S. Gupta"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <keyword>LAALP</keyword>
+    <keyword>vSwitch</keyword>
+    <keyword>MC-LAG</keyword>
+    <keyword>DRNI</keyword>
+    <abstract>
+      <t>&lt;p&gt;TRILL (Transparent Interconnection of Lots of Links) active-active service provides end stations with flow-level load balance and resilience against link failures at the edge of TRILL campuses, as described in RFC 7379.&lt;/p&gt;&lt;p&gt;This document specifies a method by which member RBridges (also referred to as Routing Bridges or TRILL switches) in an active-active edge RBridge group use their own nicknames as ingress RBridge nicknames to encapsulate frames from attached end systems. Thus, remote edge RBridges (who are not in the group) will see one host Media Access Control (MAC) address being associated with the multiple RBridges in the group. Such remote edge RBridges are required to maintain all those associations (i.e., MAC attachments) and to not flip-flop among them (as would occur prior to the implementation of this specification). The design goals of this specification are discussed herein.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

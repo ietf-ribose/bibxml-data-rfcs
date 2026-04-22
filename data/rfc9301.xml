@@ -1,0 +1,23 @@
+<reference anchor="RFC9301" target="https://www.rfc-editor.org/info/rfc9301">
+  <front>
+    <title>Locator/ID Separation Protocol (LISP) Control Plane</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9301"/>
+    <seriesInfo name="RFC" value="9301"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="F." surname="Maino" fullname="F. Maino"/>
+    <author initials="V." surname="Fuller" fullname="V. Fuller"/>
+    <author initials="A." surname="Cabellos" fullname="A. Cabellos" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2022"></date>
+    <workgroup>Locator/ID Separation Protocol</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes the control plane and Mapping Service for the Locator/ID Separation Protocol (LISP), implemented by two types of LISP-speaking devices -- the LISP Map-Resolver and LISP Map-Server -- that provide a simplified "front end" for one or more Endpoint IDs (EIDs) to Routing Locator mapping databases.&lt;/p&gt;&lt;p&gt;By using this control plane service interface and communicating with Map-Resolvers and Map-Servers, LISP Ingress Tunnel Routers (ITRs) and Egress Tunnel Routers (ETRs) are not dependent on the details of mapping database systems; this behavior facilitates modularity with different database designs. Since these devices implement the "edge" of the LISP control plane infrastructure, connecting EID addressable nodes of a LISP site, the implementation and operational complexity of the overall cost and effort of deploying LISP is reduced.&lt;/p&gt;&lt;p&gt;This document obsoletes RFCs 6830 and 6833.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

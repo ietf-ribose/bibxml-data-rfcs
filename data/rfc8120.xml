@@ -1,0 +1,27 @@
+<reference anchor="RFC8120" target="https://www.rfc-editor.org/info/rfc8120">
+  <front>
+    <title>Mutual Authentication Protocol for HTTP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8120"/>
+    <seriesInfo name="RFC" value="8120"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Oiwa" fullname="Y. Oiwa"/>
+    <author initials="H." surname="Watanabe" fullname="H. Watanabe"/>
+    <author initials="H." surname="Takagi" fullname="H. Takagi"/>
+    <author initials="K." surname="Maeda" fullname="K. Maeda"/>
+    <author initials="T." surname="Hayashi" fullname="T. Hayashi"/>
+    <author initials="Y." surname="Ioku" fullname="Y. Ioku"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2017"></date>
+    <workgroup>Hypertext Transfer Protocol Authentication</workgroup>
+    <keyword>HTTP</keyword>
+    <keyword>authentication</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an authentication scheme for the Hypertext Transfer Protocol (HTTP) that is referred to as either the Mutual authentication scheme or the Mutual authentication protocol.  This scheme provides true mutual authentication between an HTTP client and an HTTP server using password-based authentication.  Unlike the Basic and Digest authentication schemes, the Mutual authentication scheme specified in this document assures the user that the server truly knows the user's encrypted password.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

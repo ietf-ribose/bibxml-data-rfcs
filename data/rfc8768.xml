@@ -1,0 +1,36 @@
+<reference anchor="RFC8768" target="https://www.rfc-editor.org/info/rfc8768">
+  <front>
+    <title>Constrained Application Protocol (CoAP) Hop-Limit Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8768"/>
+    <seriesInfo name="RFC" value="8768"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="T." surname="Reddy.K" fullname="T. Reddy.K"/>
+    <author initials="J." surname="Shallow" fullname="J. Shallow"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2020"></date>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>security</keyword>
+    <keyword>mitigation</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>connectivity</keyword>
+    <keyword>anti-DDoS</keyword>
+    <keyword>automation</keyword>
+    <keyword>cooperation</keyword>
+    <keyword>Resilience</keyword>
+    <keyword>Filtering</keyword>
+    <keyword>Security Center</keyword>
+    <keyword>Mitigator</keyword>
+    <keyword>Scrubbing</keyword>
+    <keyword>dynamic service protection</keyword>
+    <keyword>dynamic mitigation</keyword>
+    <abstract>
+      <t>&lt;p&gt;The presence of Constrained Application Protocol (CoAP) proxies may lead to infinite forwarding loops, which is undesirable.  To prevent and detect such loops, this document specifies the Hop-Limit CoAP option.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

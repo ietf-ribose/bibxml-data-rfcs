@@ -1,0 +1,30 @@
+<reference anchor="RFC9557" target="https://www.rfc-editor.org/info/rfc9557">
+  <front>
+    <title>Date and Time on the Internet: Timestamps with Additional Information</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9557"/>
+    <seriesInfo name="RFC" value="9557"/>
+    <seriesInfo name="IETF"/>
+    <author initials="U." surname="Sharma" fullname="U. Sharma"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2024"></date>
+    <workgroup>Serialising Extended Data About Times and Events</workgroup>
+    <keyword>Gregorian calendar</keyword>
+    <keyword>Calendar awareness</keyword>
+    <keyword>Time zone</keyword>
+    <keyword>ISO 8601</keyword>
+    <keyword>Temporal</keyword>
+    <keyword>RFC 3339</keyword>
+    <keyword>Extension</keyword>
+    <keyword>Internet Extended Date/Time Format</keyword>
+    <keyword>IXDTF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines an extension to the timestamp format defined in RFC 3339 for representing additional information, including a time zone.&lt;/p&gt;&lt;p&gt;It updates RFC 3339 in the specific interpretation of the local offset Z, which is no longer understood to "imply that UTC is the preferred reference point for the specified time".&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

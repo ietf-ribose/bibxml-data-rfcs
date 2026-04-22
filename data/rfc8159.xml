@@ -1,0 +1,25 @@
+<reference anchor="RFC8159" target="https://www.rfc-editor.org/info/rfc8159">
+  <front>
+    <title>Keyed IPv6 Tunnel</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8159"/>
+    <seriesInfo name="RFC" value="8159"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Konstantynowicz" fullname="M. Konstantynowicz" role="editor"/>
+    <author initials="G." surname="Heron" fullname="G. Heron" role="editor"/>
+    <author initials="R." surname="Schatzmayr" fullname="R. Schatzmayr"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2017"></date>
+    <workgroup>Layer Two Tunneling Protocol Extensions</workgroup>
+    <keyword>L2TPv3</keyword>
+    <keyword>pseudowire</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a tunnel encapsulation for Ethernet over IPv6 with a mandatory 64-bit cookie for connecting Layer 2 (L2) Ethernet attachment circuits identified by IPv6 addresses.  The encapsulation is based on the Layer 2 Tunneling Protocol Version 3 (L2TPv3) over IP and does not use the L2TPv3 control plane.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

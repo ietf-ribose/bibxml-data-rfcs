@@ -1,0 +1,31 @@
+<reference anchor="RFC9539" target="https://www.rfc-editor.org/info/rfc9539">
+  <front>
+    <title>Unilateral Opportunistic Deployment of Encrypted Recursive-to-Authoritative DNS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9539"/>
+    <seriesInfo name="RFC" value="9539"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D. K." surname="Gillmor" fullname="D. K. Gillmor" role="editor"/>
+    <author initials="J." surname="Salazar" fullname="J. Salazar" role="editor"/>
+    <author initials="P." surname="Hoffman" fullname="P. Hoffman" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2024"></date>
+    <workgroup>DNS PRIVate Exchange</workgroup>
+    <keyword>DNS over TLS</keyword>
+    <keyword>DNS over QUIC</keyword>
+    <keyword>ToT</keyword>
+    <keyword>DoQ</keyword>
+    <keyword>encryption</keyword>
+    <keyword>unilateral</keyword>
+    <keyword>recursive</keyword>
+    <keyword>authoritative</keyword>
+    <keyword>DNS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document sets out steps that DNS servers (recursive resolvers and authoritative servers) can take unilaterally (without any coordination with other peers) to defend DNS query privacy against a passive network monitor. The protections provided by the guidance in this document can be defeated by an active attacker, but they should be simpler and less risky to deploy than more powerful defenses.&lt;/p&gt;&lt;p&gt;The goal of this document is to simplify and speed up deployment of opportunistic encrypted transport in the recursive-to-authoritative hop of the DNS ecosystem. Wider easy deployment of the underlying encrypted transport on an opportunistic basis may facilitate the future specification of stronger cryptographic protections against more-powerful attacks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

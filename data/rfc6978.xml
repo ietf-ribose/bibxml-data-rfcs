@@ -1,0 +1,20 @@
+<reference anchor="RFC6978" target="https://www.rfc-editor.org/info/rfc6978">
+  <front>
+    <title>A TCP Authentication Option Extension for NAT Traversal</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6978"/>
+    <seriesInfo name="RFC" value="6978"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="J." surname="Touch" fullname="J. Touch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2013"></date>
+    <keyword>TCP-AO</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an extension to the TCP Authentication Option (TCP-AO) to support its use over connections that pass through Network Address Translators and/or Network Address and Port Translators (NATs/NAPTs).  This extension changes the data used to compute traffic keys, but it does not alter TCP-AO's packet processing or key generation algorithms.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

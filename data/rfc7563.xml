@@ -1,0 +1,24 @@
+<reference anchor="RFC7563" target="https://www.rfc-editor.org/info/rfc7563">
+  <front>
+    <title>Extensions to the Proxy Mobile IPv6 (PMIPv6) Access Network Identifier Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7563"/>
+    <seriesInfo name="RFC" value="7563"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Pazhyannur" fullname="R. Pazhyannur"/>
+    <author initials="S." surname="Speicher" fullname="S. Speicher"/>
+    <author initials="S." surname="Gundavelli" fullname="S. Gundavelli"/>
+    <author initials="J." surname="Korhonen" fullname="J. Korhonen"/>
+    <author initials="J." surname="Kaippallimalil" fullname="J. Kaippallimalil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2015"></date>
+    <workgroup>Network-Based Mobility Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Access Network Identifier (ANI) mobility option was introduced in RFC 6757, "Access Network Identifier (ANI) Option for Proxy Mobile IPv6".  This enables a Mobile Access Gateway (MAG) to convey identifiers like the network identifier, geolocation, and operator identifier.  This specification extends the Access Network Identifier mobility option with sub-options to carry the civic location and the MAG group identifier.  This specification also defines an ANI Update-Timer sub-option that determines when and how often the ANI option will be updated.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

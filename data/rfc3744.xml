@@ -1,0 +1,26 @@
+<reference anchor="RFC3744" target="https://www.rfc-editor.org/info/rfc3744">
+  <front>
+    <title>Web Distributed Authoring and Versioning (WebDAV) Access Control Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3744"/>
+    <seriesInfo name="RFC" value="3744"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Clemm" fullname="G. Clemm"/>
+    <author initials="J." surname="Reschke" fullname="J. Reschke"/>
+    <author initials="E." surname="Sedlar" fullname="E. Sedlar"/>
+    <author initials="J." surname="Whitehead" fullname="J. Whitehead"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2004"></date>
+    <workgroup>WWW Distributed Authoring and Versioning</workgroup>
+    <keyword>WebDAV</keyword>
+    <keyword>Web Distributed Authoring and Versioning</keyword>
+    <keyword>Access Control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a set of methods, headers, message bodies, properties, and reports that define Access Control extensions to the WebDAV Distributed Authoring Protocol.  This protocol permits a client to read and modify access control lists that instruct a server whether to allow or deny operations upon a resource (such as HyperText Transfer Protocol (HTTP) method invocations) by a given principal.  A lightweight representation of principals as Web resources supports integration of a wide range of user management repositories.  Search operations allow discovery and manipulation of principals using human names. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

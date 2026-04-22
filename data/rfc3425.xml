@@ -1,0 +1,22 @@
+<reference anchor="RFC3425" target="https://www.rfc-editor.org/info/rfc3425">
+  <front>
+    <title>Obsoleting IQUERY</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3425"/>
+    <seriesInfo name="RFC" value="3425"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Lawrence" fullname="D. Lawrence"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2002"></date>
+    <workgroup>DNS Extensions</workgroup>
+    <keyword>dns lookups</keyword>
+    <keyword>domain name system</keyword>
+    <abstract>
+      <t>&lt;p&gt;The IQUERY method of performing inverse DNS lookups, specified in RFC 1035, has not been generally implemented and has usually been operationally disabled where it has been implemented.  Both reflect a general view in the community that the concept was unwise and that the widely-used alternate approach of using pointer (PTR) queries and reverse-mapping records is preferable.  Consequently, this document deprecates the IQUERY operation, declaring it entirely obsolete.  This document updates RFC 1035. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

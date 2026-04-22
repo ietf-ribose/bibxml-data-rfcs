@@ -1,0 +1,24 @@
+<reference anchor="RFC7658" target="https://www.rfc-editor.org/info/rfc7658">
+  <front>
+    <title>Deprecation of MIB Module NAT-MIB: Managed Objects for Network Address Translators (NATs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7658"/>
+    <seriesInfo name="RFC" value="7658"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Perreault" fullname="S. Perreault"/>
+    <author initials="T." surname="Tsou" fullname="T. Tsou"/>
+    <author initials="S." surname="Sivakumar" fullname="S. Sivakumar"/>
+    <author initials="T." surname="Taylor" fullname="T. Taylor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2015"></date>
+    <keyword>NATV2-MIB</keyword>
+    <keyword>management information base</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo deprecates MIB module NAT-MIB, a portion of the Management Information Base (MIB) previously defined in RFC 4008 for devices implementing Network Address Translator (NAT) function. A companion document defines a new version, NATV2-MIB, which responds to deficiencies found in module NAT-MIB and adds new capabilities.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 4008. All MIB objects specified in RFC 4008 are included in this version unchanged with only the STATUS changed to deprecated.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

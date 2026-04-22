@@ -1,0 +1,24 @@
+<reference anchor="RFC8879" target="https://www.rfc-editor.org/info/rfc8879">
+  <front>
+    <title>TLS Certificate Compression</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8879"/>
+    <seriesInfo name="RFC" value="8879"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Ghedini" fullname="A. Ghedini"/>
+    <author initials="V." surname="Vasiliev" fullname="V. Vasiliev"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2020"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>zlib</keyword>
+    <keyword>brotli</keyword>
+    <keyword>zstd</keyword>
+    <abstract>
+      <t>&lt;p&gt;In TLS handshakes, certificate chains often take up the majority of the bytes transmitted.&lt;/p&gt;&lt;p&gt;This document describes how certificate chains can be compressed to reduce the amount of data transmitted and avoid some round trips.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

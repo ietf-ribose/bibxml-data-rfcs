@@ -1,0 +1,23 @@
+<reference anchor="RFC6506" target="https://www.rfc-editor.org/info/rfc6506">
+  <front>
+    <title>Supporting Authentication Trailer for OSPFv3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6506"/>
+    <seriesInfo name="RFC" value="6506"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bhatia" fullname="M. Bhatia"/>
+    <author initials="V." surname="Manral" fullname="V. Manral"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2012"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>Routing security</keyword>
+    <abstract>
+      <t>&lt;p&gt;Currently, OSPF for IPv6 (OSPFv3) uses IPsec as the only mechanism for authenticating protocol packets.  This behavior is different from authentication mechanisms present in other routing protocols (OSPFv2, Intermediate System to Intermediate System (IS-IS), RIP, and Routing Information Protocol Next Generation (RIPng)).  In some environments, it has been found that IPsec is difficult to configure and maintain and thus cannot be used.  This document defines an alternative mechanism to authenticate OSPFv3 protocol packets so that OSPFv3 does not only depend upon IPsec for authentication. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

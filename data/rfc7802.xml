@@ -1,0 +1,21 @@
+<reference anchor="RFC7802" target="https://www.rfc-editor.org/info/rfc7802">
+  <front>
+    <title>A Pseudo-Random Function (PRF) for the Kerberos V Generic Security Service Application Program Interface (GSS-API) Mechanism</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7802"/>
+    <seriesInfo name="RFC" value="7802"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Emery" fullname="S. Emery"/>
+    <author initials="N." surname="Williams" fullname="N. Williams"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2016"></date>
+    <workgroup>Common Authentication Technology Next Generation</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Pseudo-Random Function (PRF) for the Kerberos V mechanism for the Generic Security Service Application Program Interface (GSS-API), based on the PRF defined for the Kerberos V cryptographic framework, for keying application protocols given an established Kerberos V GSS-API security context.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 4402 and reclassifies that document as Historic. RFC 4402 starts the PRF+ counter at 1; however, a number of implementations start the counter at 0. As a result, the original specification would not be interoperable with existing implementations.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

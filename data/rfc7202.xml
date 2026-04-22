@@ -1,0 +1,24 @@
+<reference anchor="RFC7202" target="https://www.rfc-editor.org/info/rfc7202">
+  <front>
+    <title>Securing the RTP Framework: Why RTP Does Not Mandate a Single Media Security Solution</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7202"/>
+    <seriesInfo name="RFC" value="7202"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author initials="M." surname="Westerlund" fullname="M. Westerlund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2014"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>SRTP</keyword>
+    <keyword>RTP Profile</keyword>
+    <keyword>Payload Format</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo discusses the problem of securing real-time multimedia sessions.  It also explains why the Real-time Transport Protocol (RTP) and the associated RTP Control Protocol (RTCP) do not mandate a single media security mechanism.  This is relevant for designers and reviewers of future RTP extensions to ensure that appropriate security mechanisms are mandated and that any such mechanisms are specified in a manner that conforms with the RTP architecture.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

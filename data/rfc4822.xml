@@ -1,0 +1,23 @@
+<reference anchor="RFC4822" target="https://www.rfc-editor.org/info/rfc4822">
+  <front>
+    <title>RIPv2 Cryptographic Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4822"/>
+    <seriesInfo name="RFC" value="4822"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Atkinson" fullname="R. Atkinson"/>
+    <author initials="M." surname="Fanto" fullname="M. Fanto"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2007"></date>
+    <keyword>RIP2-MD5</keyword>
+    <keyword>Routing Information Protocol</keyword>
+    <keyword>Encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;This note describes a revision to the RIPv2 Cryptographic Authentication mechanism originally specified in RFC 2082.  This document obsoletes RFC 2082 and updates RFC 2453.  This document adds details of how the SHA family of hash algorithms can be used with RIPv2 Cryptographic Authentication, whereas the original document only specified the use of Keyed-MD5.  Also, this document clarifies a potential issue with an active attack on this mechanism and adds significant text to the Security Considerations section. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

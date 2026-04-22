@@ -1,0 +1,23 @@
+<reference anchor="RFC4413" target="https://www.rfc-editor.org/info/rfc4413">
+  <front>
+    <title>TCP/IP Field Behavior</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4413"/>
+    <seriesInfo name="RFC" value="4413"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="West" fullname="M. West"/>
+    <author initials="S." surname="McCann" fullname="S. McCann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2006"></date>
+    <workgroup>Robust Header Compression</workgroup>
+    <keyword>transmission control protocol</keyword>
+    <keyword>header compression</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes TCP/IP field behavior in the context of header compression.  Header compression is possible because most header fields do not vary randomly from packet to packet.  Many of the fields exhibit static behavior or change in a more or less predictable way.  When a header compression scheme is designed, it is of fundamental importance to understand the behavior of the fields in detail.  An example of this analysis can be seen in RFC 3095.  This memo performs a similar role for the compression of TCP/IP headers.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

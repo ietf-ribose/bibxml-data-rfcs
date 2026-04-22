@@ -1,0 +1,25 @@
+<reference anchor="RFC6135" target="https://www.rfc-editor.org/info/rfc6135">
+  <front>
+    <title>An Alternative Connection Model for the Message Session Relay Protocol (MSRP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6135"/>
+    <seriesInfo name="RFC" value="6135"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author initials="S." surname="Blau" fullname="S. Blau"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2011"></date>
+    <workgroup>SIP for Instant Messaging and Presence Leveraging Extensions</workgroup>
+    <keyword>comedia</keyword>
+    <keyword>comedia-tls</keyword>
+    <keyword>relay</keyword>
+    <keyword>SBC</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines an alternative connection model for Message Session Relay Protocol (MSRP) User Agents (UAs); this model uses the connection-oriented media (COMEDIA) mechanism in order to create the MSRP transport connection.  The model allows MSRP UAs behind Network Address Translators (NATs) to negotiate which endpoint initiates the establishment of the Transmission Control Protocol (TCP) connection, in order for MSRP messages to traverse the NAT. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

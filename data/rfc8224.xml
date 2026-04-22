@@ -1,0 +1,29 @@
+<reference anchor="RFC8224" target="https://www.rfc-editor.org/info/rfc8224">
+  <front>
+    <title>Authenticated Identity Management in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8224"/>
+    <seriesInfo name="RFC" value="8224"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Peterson" fullname="J. Peterson"/>
+    <author initials="C." surname="Jennings" fullname="C. Jennings"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author initials="C." surname="Wendt" fullname="C. Wendt"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2018"></date>
+    <workgroup>Secure Telephone Identity Revisited</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Secure Origin Identification</keyword>
+    <keyword>Communication Security</keyword>
+    <keyword>RTCWeb</keyword>
+    <keyword>Certificates</keyword>
+    <keyword>Real-Time Communication</keyword>
+    <abstract>
+      <t>&lt;p&gt;The baseline security mechanisms in the Session Initiation Protocol (SIP) are inadequate for cryptographically assuring the identity of the end users that originate SIP requests, especially in an interdomain context. This document defines a mechanism for securely identifying originators of SIP requests. It does so by defining a SIP header field for conveying a signature used for validating the identity and for conveying a reference to the credentials of the signer.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 4474.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

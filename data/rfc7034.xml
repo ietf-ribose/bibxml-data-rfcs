@@ -1,0 +1,24 @@
+<reference anchor="RFC7034" target="https://www.rfc-editor.org/info/rfc7034">
+  <front>
+    <title>HTTP Header Field X-Frame-Options</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7034"/>
+    <seriesInfo name="RFC" value="7034"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Ross" fullname="D. Ross"/>
+    <author initials="T." surname="Gondrom" fullname="T. Gondrom"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2013"></date>
+    <workgroup>Web Security</workgroup>
+    <keyword>frame-options</keyword>
+    <keyword>HTTP header</keyword>
+    <keyword>websec</keyword>
+    <abstract>
+      <t>&lt;p&gt;To improve the protection of web applications against clickjacking, this document describes the X-Frame-Options HTTP header field, which declares a policy, communicated from the server to the client browser, regarding whether the browser may display the transmitted content in frames that are part of other web pages.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

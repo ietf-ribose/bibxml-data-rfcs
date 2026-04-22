@@ -1,0 +1,22 @@
+<reference anchor="RFC6862" target="https://www.rfc-editor.org/info/rfc6862">
+  <front>
+    <title>Keying and Authentication for Routing Protocols (KARP) Overview, Threats, and Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6862"/>
+    <seriesInfo name="RFC" value="6862"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Lebovitz" fullname="G. Lebovitz"/>
+    <author initials="M." surname="Bhatia" fullname="M. Bhatia"/>
+    <author initials="B." surname="Weis" fullname="B. Weis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2013"></date>
+    <workgroup>Keying and Authentication for Routing Protocols</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Different routing protocols employ different mechanisms for securing protocol packets on the wire.  While most already have some method for accomplishing cryptographic message authentication, in many cases the existing methods are dated, vulnerable to attack, and employ cryptographic algorithms that have been deprecated.  The "Keying and Authentication for Routing Protocols" (KARP) effort aims to overhaul and improve these mechanisms.  This document does not contain protocol specifications.  Instead, it defines the areas where protocol specification work is needed.  This document is a companion document to RFC 6518, "Keying and Authentication for Routing Protocols (KARP) Design Guidelines"; together they form the guidance and instruction KARP design teams will use to review and overhaul routing protocol transport security.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

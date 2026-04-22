@@ -1,0 +1,28 @@
+<reference anchor="RFC7879" target="https://www.rfc-editor.org/info/rfc7879">
+  <front>
+    <title>DTLS-SRTP Handling in SIP Back-to-Back User Agents</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7879"/>
+    <seriesInfo name="RFC" value="7879"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Ravindranath" fullname="R. Ravindranath"/>
+    <author initials="T." surname="Reddy" fullname="T. Reddy"/>
+    <author initials="G." surname="Salgueiro" fullname="G. Salgueiro"/>
+    <author initials="V." surname="Pascual" fullname="V. Pascual"/>
+    <author initials="P." surname="Ravindran" fullname="P. Ravindran"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Sip Traversal Required for Applications to Work</workgroup>
+    <keyword>Session Initiation Protocol</keyword>
+    <keyword>B2BUA</keyword>
+    <keyword>Secure Real-time Transport</keyword>
+    <keyword>Datagram Transport Layer Security</keyword>
+    <abstract>
+      <t>&lt;p&gt;Session Initiation Protocol (SIP) Back-to-Back User Agents (B2BUAs) exist on the signaling and media paths between the endpoints.  This document describes the behavior of B2BUAs when Secure Real-time Transport (SRTP) security context is set up with the Datagram Transport Layer Security (DTLS) protocol.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

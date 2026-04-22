@@ -1,0 +1,32 @@
+<reference anchor="RFC8665" target="https://www.rfc-editor.org/info/rfc8665">
+  <front>
+    <title>OSPF Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8665"/>
+    <seriesInfo name="RFC" value="8665"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak" role="editor"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="R." surname="Shakir" fullname="R. Shakir"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2019"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>SID</keyword>
+    <keyword>IGP</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>Label advertisement</keyword>
+    <keyword>Segment Routing</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) allows a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological subpaths called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF).&lt;/p&gt;&lt;p&gt;This document describes the OSPFv2 extensions required for Segment Routing.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

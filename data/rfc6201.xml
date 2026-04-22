@@ -1,0 +1,24 @@
+<reference anchor="RFC6201" target="https://www.rfc-editor.org/info/rfc6201">
+  <front>
+    <title>Device Reset Characterization</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6201"/>
+    <seriesInfo name="RFC" value="6201"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Asati" fullname="R. Asati"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="F." surname="Calabria" fullname="F. Calabria"/>
+    <author initials="C." surname="Olvera" fullname="C. Olvera"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2011"></date>
+    <workgroup>Benchmarking Methodology</workgroup>
+    <keyword>operation redundancy failover</keyword>
+    <abstract>
+      <t>&lt;p&gt;An operational forwarding device may need to be restarted (automatically or manually) for a variety of reasons, an event called a "reset" in this document. Since there may be an interruption in the forwarding operation during a reset, it is useful to know how long a device takes to resume the forwarding operation.&lt;/p&gt;&lt;p&gt;This document specifies a methodology for characterizing reset (and reset time) during benchmarking of forwarding devices and provides clarity and consistency in reset test procedures beyond what is specified in RFC 2544. Therefore, it updates RFC 2544. This document also defines the benchmarking term "reset time" and, only in this, updates RFC 1242. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

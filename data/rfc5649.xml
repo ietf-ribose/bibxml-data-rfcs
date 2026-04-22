@@ -1,0 +1,20 @@
+<reference anchor="RFC5649" target="https://www.rfc-editor.org/info/rfc5649">
+  <front>
+    <title>Advanced Encryption Standard (AES) Key Wrap with Padding Algorithm</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5649"/>
+    <seriesInfo name="RFC" value="5649"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author initials="M." surname="Dworkin" fullname="M. Dworkin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2009"></date>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a padding convention for use with the AES Key Wrap algorithm specified in RFC 3394.  This convention eliminates the requirement that the length of the key to be wrapped be a multiple of 64 bits, allowing a key of any practical length to be wrapped.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

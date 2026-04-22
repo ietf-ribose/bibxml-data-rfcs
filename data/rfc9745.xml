@@ -1,0 +1,23 @@
+<reference anchor="RFC9745" target="https://www.rfc-editor.org/info/rfc9745">
+  <front>
+    <title>The Deprecation HTTP Response Header Field</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9745"/>
+    <seriesInfo name="RFC" value="9745"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Dalal" fullname="S. Dalal"/>
+    <author initials="E." surname="Wilde" fullname="E. Wilde"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2025"></date>
+    <workgroup>Building Blocks for HTTP APIs</workgroup>
+    <keyword>HTTP</keyword>
+    <keyword>deprecation</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Deprecation HTTP response header field is used to signal to consumers of a resource (identified by a URI) that the resource will be or has been deprecated.  Additionally, the deprecation link relation can be used to link to a resource that provides further information about planned or existing deprecation.  It may also provide ways in which client application developers can best manage deprecation.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

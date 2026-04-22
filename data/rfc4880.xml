@@ -1,0 +1,26 @@
+<reference anchor="RFC4880" target="https://www.rfc-editor.org/info/rfc4880">
+  <front>
+    <title>OpenPGP Message Format</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4880"/>
+    <seriesInfo name="RFC" value="4880"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Callas" fullname="J. Callas"/>
+    <author initials="L." surname="Donnerhacke" fullname="L. Donnerhacke"/>
+    <author initials="H." surname="Finney" fullname="H. Finney"/>
+    <author initials="D." surname="Shaw" fullname="D. Shaw"/>
+    <author initials="R." surname="Thayer" fullname="R. Thayer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2007"></date>
+    <workgroup>Open Specification for Pretty Good Privacy</workgroup>
+    <keyword>public-key cryptography</keyword>
+    <keyword>symmetric cryptography</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document is maintained in order to publish all necessary information needed to develop interoperable applications based on the OpenPGP format. It is not a step-by-step cookbook for writing an application. It describes only the format and methods needed to read, check, generate, and write conforming packets crossing any network. It does not deal with storage and implementation questions. It does, however, discuss implementation issues necessary to avoid security flaws.&lt;/p&gt;&lt;p&gt;OpenPGP software uses a combination of strong public-key and symmetric cryptography to provide security services for electronic communications and data storage. These services include confidentiality, key management, authentication, and digital signatures. This document specifies the message formats used in OpenPGP. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

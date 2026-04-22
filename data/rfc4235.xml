@@ -1,0 +1,24 @@
+<reference anchor="RFC4235" target="https://www.rfc-editor.org/info/rfc4235">
+  <front>
+    <title>An INVITE-Initiated Dialog Event Package for the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4235"/>
+    <seriesInfo name="RFC" value="4235"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="R." surname="Mahy" fullname="R. Mahy" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2005"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>sip events</keyword>
+    <keyword>dialog package</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a dialog event package for the SIP Events architecture, along with a data format used in notifications for this package.  The dialog package allows users to subscribe to another user and to receive notification of the changes in state of INVITE-initiated dialog usages in which the subscribed-to user is involved. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

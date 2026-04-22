@@ -1,0 +1,23 @@
+<reference anchor="RFC8043" target="https://www.rfc-editor.org/info/rfc8043">
+  <front>
+    <title>Source-Address-Dependent Routing and Source Address Selection for IPv6 Hosts: Overview of the Problem Space</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8043"/>
+    <seriesInfo name="RFC" value="8043"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="B." surname="Sarikaya" fullname="B. Sarikaya"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2017"></date>
+    <keyword>Neighbor Discovery</keyword>
+    <keyword>Duplicate Address Detection</keyword>
+    <keyword>ND Relay Agent</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents the source-address-dependent routing (SADR) problem space from the host's perspective. Both multihomed hosts and hosts with multiple interfaces are considered. Several network architectures are presented to illustrate why source address selection and next-hop resolution are needed in view of source-address-dependent routing.&lt;/p&gt;&lt;p&gt;The document is scoped on identifying a set of scenarios for source-address-dependent routing from the host's perspective and analyzing a set of solutions to mitigate encountered issues. The document does not make any solution recommendations.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

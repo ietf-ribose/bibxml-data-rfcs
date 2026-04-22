@@ -1,0 +1,24 @@
+<reference anchor="RFC6925" target="https://www.rfc-editor.org/info/rfc6925">
+  <front>
+    <title>The DHCPv4 Relay Agent Identifier Sub-Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6925"/>
+    <seriesInfo name="RFC" value="6925"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Joshi" fullname="B. Joshi"/>
+    <author initials="R." surname="Desetti" fullname="R. Desetti"/>
+    <author initials="M." surname="Stapp" fullname="M. Stapp"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2013"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>DHCP</keyword>
+    <keyword>relay</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new Relay Agent Identifier sub-option for the Dynamic Host Configuration Protocol (DHCP) Relay Agent Information option.  The sub-option carries a value that uniquely identifies the relay agent device within the administrative domain.  The value is normally administratively configured in the relay agent.  The sub-option allows a DHCP relay agent to include the identifier in the DHCP messages it sends.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

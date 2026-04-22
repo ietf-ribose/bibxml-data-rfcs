@@ -1,0 +1,22 @@
+<reference anchor="RFC8808" target="https://www.rfc-editor.org/info/rfc8808">
+  <front>
+    <title>A YANG Data Model for Factory Default Settings</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8808"/>
+    <seriesInfo name="RFC" value="8808"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author initials="B." surname="Lengyel" fullname="B. Lengyel"/>
+    <author initials="Y." surname="Niu" fullname="Y. Niu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2020"></date>
+    <workgroup>Network Modeling</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a YANG data model with the "factory-reset" RPC to allow clients to reset a server back to its factory default condition. It also defines an optional "factory-default" datastore to allow clients to read the factory default configuration for the device.&lt;/p&gt;&lt;p&gt;The YANG data model in this document conforms to the Network Management Datastore Architecture (NMDA) defined in RFC 8342.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

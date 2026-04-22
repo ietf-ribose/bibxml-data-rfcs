@@ -1,0 +1,57 @@
+<reference anchor="RFC5617" target="https://www.rfc-editor.org/info/rfc5617">
+  <front>
+    <title>DomainKeys Identified Mail (DKIM) Author Domain Signing Practices (ADSP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5617"/>
+    <seriesInfo name="RFC" value="5617"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Allman" fullname="E. Allman"/>
+    <author initials="J." surname="Fenton" fullname="J. Fenton"/>
+    <author initials="M." surname="Delany" fullname="M. Delany"/>
+    <author initials="J." surname="Levine" fullname="J. Levine"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2009"></date>
+    <workgroup>Domain Keys Identified Mail</workgroup>
+    <keyword>email</keyword>
+    <keyword>e-mail</keyword>
+    <keyword>rfc 5322</keyword>
+    <keyword>rfc 5322</keyword>
+    <keyword>rfc 822</keyword>
+    <keyword>rfc 822</keyword>
+    <keyword>rfc 5321</keyword>
+    <keyword>rfc 5321</keyword>
+    <keyword>rfc 821</keyword>
+    <keyword>rfc 821</keyword>
+    <keyword>rfc 4871</keyword>
+    <keyword>rfc 4871</keyword>
+    <keyword>DKIM</keyword>
+    <keyword>domain keys</keyword>
+    <keyword>domainkeys</keyword>
+    <keyword>ADSP</keyword>
+    <keyword>ADSP</keyword>
+    <keyword>SSP</keyword>
+    <keyword>architecture</keyword>
+    <keyword>mta</keyword>
+    <keyword>user</keyword>
+    <keyword>delivery</keyword>
+    <keyword>smtp</keyword>
+    <keyword>submission</keyword>
+    <keyword> email</keyword>
+    <keyword>e-mail</keyword>
+    <keyword>smtp</keyword>
+    <keyword>Internet</keyword>
+    <keyword>mailfrom</keyword>
+    <keyword>mail from</keyword>
+    <keyword>author</keyword>
+    <keyword>return address</keyword>
+    <keyword>sender signing</keyword>
+    <keyword>signing practices</keyword>
+    <abstract>
+      <t>&lt;p&gt;DomainKeys Identified Mail (DKIM) defines a domain-level authentication framework for email to permit verification of the source and contents of messages.  This document specifies an adjunct mechanism to aid in assessing messages that do not contain a DKIM signature for the domain used in the author's address.  It defines a record that can advertise whether a domain signs its outgoing mail as well as how other hosts can access that record. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

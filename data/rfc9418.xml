@@ -1,0 +1,29 @@
+<reference anchor="RFC9418" target="https://www.rfc-editor.org/info/rfc9418">
+  <front>
+    <title>A YANG Data Model for Service Assurance</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9418"/>
+    <seriesInfo name="RFC" value="9418"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author initials="J." surname="Quilbeuf" fullname="J. Quilbeuf"/>
+    <author initials="P." surname="Lucente" fullname="P. Lucente"/>
+    <author initials="P." surname="Fasano" fullname="P. Fasano"/>
+    <author initials="T." surname="Arumugam" fullname="T. Arumugam"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2023"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>health</keyword>
+    <keyword>SAIN</keyword>
+    <keyword>subservice</keyword>
+    <keyword>symptom</keyword>
+    <keyword>telemetry</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies YANG modules for representing assurance graphs. These graphs represent the assurance of a given service by decomposing it into atomic assurance elements called subservices. The companion document, "Service Assurance for Intent-Based Networking Architecture" (RFC 9417), presents an architecture for implementing the assurance of such services.&lt;/p&gt;&lt;p&gt;The YANG data models in this document conform to the Network Management Datastore Architecture (NMDA) defined in RFC 8342.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

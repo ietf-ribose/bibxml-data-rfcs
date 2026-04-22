@@ -1,0 +1,25 @@
+<reference anchor="RFC5263" target="https://www.rfc-editor.org/info/rfc5263">
+  <front>
+    <title>Session Initiation Protocol (SIP) Extension for Partial Notification of Presence Information</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5263"/>
+    <seriesInfo name="RFC" value="5263"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Lonnfors" fullname="M. Lonnfors"/>
+    <author initials="J." surname="Costa-Requena" fullname="J. Costa-Requena"/>
+    <author initials="E." surname="Leppanen" fullname="E. Leppanen"/>
+    <author initials="H." surname="Khartabil" fullname="H. Khartabil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2008"></date>
+    <workgroup>SIP for Instant Messaging and Presence Leveraging Extensions</workgroup>
+    <keyword>pidf</keyword>
+    <keyword>presence information data format</keyword>
+    <abstract>
+      <t>&lt;p&gt;By default, presence delivered using the presence event package for the Session Initiation Protocol (SIP) is represented in the Presence Information Data Format (PIDF).  A PIDF document contains a set of elements, each representing a different aspect of the presence being reported.  When any subset of the elements change, even just a single element, a new document containing the full set of elements is delivered.  This memo defines an extension allowing delivery of only the presence data that has actually changed. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

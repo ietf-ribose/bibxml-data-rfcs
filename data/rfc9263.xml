@@ -1,0 +1,25 @@
+<reference anchor="RFC9263" target="https://www.rfc-editor.org/info/rfc9263">
+  <front>
+    <title>Network Service Header (NSH) Metadata Type 2 Variable-Length Context Headers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9263"/>
+    <seriesInfo name="RFC" value="9263"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Wei" fullname="Y. Wei" role="editor"/>
+    <author initials="U." surname="Elzur" fullname="U. Elzur"/>
+    <author initials="S." surname="Majee" fullname="S. Majee"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>Service Function Chaining</workgroup>
+    <keyword>SFC metadata</keyword>
+    <abstract>
+      <t>&lt;p&gt;Service Function Chaining (SFC) uses the Network Service Header (NSH) (RFC 8300) to steer and provide context metadata (MD) with each packet.  Such metadata can be of various types, including MD Type 2, consisting of Variable-Length Context Headers.  This document specifies several such Context Headers that can be used within a Service Function Path (SFP).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

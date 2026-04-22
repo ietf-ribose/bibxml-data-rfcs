@@ -1,0 +1,27 @@
+<reference anchor="RFC4281" target="https://www.rfc-editor.org/info/rfc4281">
+  <front>
+    <title>The Codecs Parameter for "Bucket" Media Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4281"/>
+    <seriesInfo name="RFC" value="4281"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Gellens" fullname="R. Gellens"/>
+    <author initials="D." surname="Singer" fullname="D. Singer"/>
+    <author initials="P." surname="Frojdh" fullname="P. Frojdh"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2005"></date>
+    <keyword>codec</keyword>
+    <keyword>container</keyword>
+    <keyword>audio</keyword>
+    <keyword>video</keyword>
+    <keyword>3gpp</keyword>
+    <keyword>3gpp2</keyword>
+    <abstract>
+      <t>&lt;p&gt;Several MIME type/subtype combinations exist that can contain different media formats. A receiving agent thus needs to examine the details of such media content to determine if the specific elements can be rendered given an available set of codecs. Especially when the end system has limited resources, or the connection to the end system has limited bandwidth, it would be helpful to know from the Content-Type alone if the content can be rendered.&lt;/p&gt;&lt;p&gt;This document adds a new parameter, "codecs", to various type/subtype combinations to allow for unambiguous specification of the codecs indicated by the media formats contained within.&lt;/p&gt;&lt;p&gt;By labeling content with the specific codecs indicated to render the contained media, receiving systems can determine if the codecs are supported by the end system, and if not, can take appropriate action (such as rejecting the content, sending notification of the situation, transcoding the content to a supported type, fetching and installing the required codecs, further inspection to determine if it will be sufficient to support a subset of the indicated codecs, etc.) [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

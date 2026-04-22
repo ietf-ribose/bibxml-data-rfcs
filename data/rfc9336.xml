@@ -1,0 +1,26 @@
+<reference anchor="RFC9336" target="https://www.rfc-editor.org/info/rfc9336">
+  <front>
+    <title>X.509 Certificate General-Purpose Extended Key Usage (EKU) for Document Signing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9336"/>
+    <seriesInfo name="RFC" value="9336"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Ito" fullname="T. Ito"/>
+    <author initials="T." surname="Okubo" fullname="T. Okubo"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2022"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>X.509</keyword>
+    <keyword>KeyPurposeIds</keyword>
+    <keyword>Key Purpose Identifier</keyword>
+    <keyword>Document Signing</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds) for X.509 certificates.  This document defines a general-purpose Document-Signing KeyPurposeId for inclusion in the Extended Key Usage (EKU) extension of X.509 public key certificates.  Document-Signing applications may require that the EKU extension be present and that a Document-Signing KeyPurposeId be indicated in order for the certificate to be acceptable to that Document-Signing application.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC9585" target="https://www.rfc-editor.org/info/rfc9585">
+  <front>
+    <title>IMAP Response Code for Command Progress Notifications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9585"/>
+    <seriesInfo name="RFC" value="9585"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bettini" fullname="M. Bettini"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2024"></date>
+    <workgroup>Email mailstore and eXtensions To Revise or Amend</workgroup>
+    <keyword>IMAP</keyword>
+    <keyword>response code</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new IMAP untagged response code, "INPROGRESS", that provides progress notifications regarding the status of long-running commands.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

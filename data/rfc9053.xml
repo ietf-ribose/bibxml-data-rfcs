@@ -1,0 +1,35 @@
+<reference anchor="RFC9053" target="https://www.rfc-editor.org/info/rfc9053">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE): Initial Algorithms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9053"/>
+    <seriesInfo name="RFC" value="9053"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
+    <keyword>Object Security</keyword>
+    <keyword>COSE</keyword>
+    <keyword>Constrained Devices</keyword>
+    <keyword>AES</keyword>
+    <keyword>AES-GCM</keyword>
+    <keyword>AES-CCM</keyword>
+    <keyword>ECDSA</keyword>
+    <keyword>EdDSA</keyword>
+    <keyword>ECC</keyword>
+    <keyword>HSS-LMS</keyword>
+    <keyword>AES-KW</keyword>
+    <keyword>ECDH</keyword>
+    <keyword>HMAC</keyword>
+    <keyword>CMAC</keyword>
+    <keyword>Cryptography</keyword>
+    <abstract>
+      <t>&lt;p&gt;Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size. There is a need to be able to define basic security services for this data format. This document defines a set of algorithms that can be used with the CBOR Object Signing and Encryption (COSE) protocol (RFC 9052).&lt;/p&gt;&lt;p&gt;This document, along with RFC 9052, obsoletes RFC 8152.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

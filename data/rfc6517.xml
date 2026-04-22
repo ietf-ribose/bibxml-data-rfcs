@@ -1,0 +1,34 @@
+<reference anchor="RFC6517" target="https://www.rfc-editor.org/info/rfc6517">
+  <front>
+    <title>Mandatory Features in a Layer 3 Multicast BGP/MPLS VPN Solution</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6517"/>
+    <seriesInfo name="RFC" value="6517"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Morin" fullname="T. Morin" role="editor"/>
+    <author initials="B." surname="Niven-Jenkins" fullname="B. Niven-Jenkins" role="editor"/>
+    <author initials="Y." surname="Kamite" fullname="Y. Kamite"/>
+    <author initials="R." surname="Zhang" fullname="R. Zhang"/>
+    <author initials="N." surname="Leymann" fullname="N. Leymann"/>
+    <author initials="N." surname="Bitar" fullname="N. Bitar"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2012"></date>
+    <workgroup>Layer 3 Virtual Private Networks</workgroup>
+    <keyword>mpls</keyword>
+    <keyword>vpn</keyword>
+    <keyword>multicast</keyword>
+    <keyword>l3vpn</keyword>
+    <keyword>bgp</keyword>
+    <keyword>pim</keyword>
+    <keyword>p2mp</keyword>
+    <keyword>ldp</keyword>
+    <keyword>rsvp-te</keyword>
+    <abstract>
+      <t>&lt;p&gt;More that one set of mechanisms to support multicast in a layer 3 BGP/MPLS VPN has been defined. These are presented in the documents that define them as optional building blocks.&lt;/p&gt;&lt;p&gt;To enable interoperability between implementations, this document defines a subset of features that is considered mandatory for a multicast BGP/MPLS VPN implementation. This will help implementers and deployers understand which L3VPN multicast requirements are best satisfied by each option. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

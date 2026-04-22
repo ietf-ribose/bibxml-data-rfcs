@@ -1,0 +1,25 @@
+<reference anchor="RFC6698" target="https://www.rfc-editor.org/info/rfc6698">
+  <front>
+    <title>The DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS) Protocol: TLSA</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6698"/>
+    <seriesInfo name="RFC" value="6698"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Hoffman" fullname="P. Hoffman"/>
+    <author initials="J." surname="Schlyter" fullname="J. Schlyter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2012"></date>
+    <workgroup>DNS-based Authentication of Named Entities</workgroup>
+    <keyword>DNSSEC</keyword>
+    <keyword>certificates</keyword>
+    <keyword>public keys</keyword>
+    <keyword>PKI</keyword>
+    <abstract>
+      <t>&lt;p&gt;Encrypted communication on the Internet often uses Transport Layer Security (TLS), which depends on third parties to certify the keys used.  This document improves on that situation by enabling the administrators of domain names to specify the keys used in that domain's TLS servers.  This requires matching improvements in TLS client software, but no change in TLS server software. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

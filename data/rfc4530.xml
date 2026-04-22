@@ -1,0 +1,21 @@
+<reference anchor="RFC4530" target="https://www.rfc-editor.org/info/rfc4530">
+  <front>
+    <title>Lightweight Directory Access Protocol (LDAP) entryUUID Operational Attribute</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4530"/>
+    <seriesInfo name="RFC" value="4530"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Zeilenga" fullname="K. Zeilenga"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2006"></date>
+    <keyword>x.500</keyword>
+    <keyword>universally unique identifier</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the LDAP/X.500 \'entryUUID' operational attribute and associated matching rules and syntax.  The attribute holds a server-assigned Universally Unique Identifier (UUID) for the object.  Directory clients may use this attribute to distinguish objects identified by a distinguished name or to locate an object after renaming. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

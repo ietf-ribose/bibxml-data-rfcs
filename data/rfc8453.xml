@@ -1,0 +1,23 @@
+<reference anchor="RFC8453" target="https://www.rfc-editor.org/info/rfc8453">
+  <front>
+    <title>Framework for Abstraction and Control of TE Networks (ACTN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8453"/>
+    <seriesInfo name="RFC" value="8453"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Ceccarelli" fullname="D. Ceccarelli" role="editor"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2018"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>SDN</keyword>
+    <keyword>Orchestration</keyword>
+    <abstract>
+      <t>&lt;p&gt;Traffic Engineered (TE) networks have a variety of mechanisms to facilitate the separation of the data plane and control plane. They also have a range of management and provisioning protocols to configure and activate network resources. These mechanisms represent key technologies for enabling flexible and dynamic networking. The term "Traffic Engineered network" refers to a network that uses any connection-oriented technology under the control of a distributed or centralized control plane to support dynamic provisioning of end-to- end connectivity.&lt;/p&gt;&lt;p&gt;Abstraction of network resources is a technique that can be applied to a single network domain or across multiple domains to create a single virtualized network that is under the control of a network operator or the customer of the operator that actually owns the network resources.&lt;/p&gt;&lt;p&gt;This document provides a framework for Abstraction and Control of TE Networks (ACTN) to support virtual network services and connectivity services.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

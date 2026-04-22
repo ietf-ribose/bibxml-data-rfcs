@@ -1,0 +1,23 @@
+<reference anchor="RFC6980" target="https://www.rfc-editor.org/info/rfc6980">
+  <front>
+    <title>Security Implications of IPv6 Fragmentation with IPv6 Neighbor Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6980"/>
+    <seriesInfo name="RFC" value="6980"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Gont" fullname="F. Gont"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2013"></date>
+    <workgroup>IPv6 Maintenance</workgroup>
+    <keyword>vulnerabilities</keyword>
+    <keyword>evasion</keyword>
+    <keyword>monitoring</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document analyzes the security implications of employing IPv6 fragmentation with Neighbor Discovery (ND) messages.  It updates RFC 4861 such that use of the IPv6 Fragmentation Header is forbidden in all Neighbor Discovery messages, thus allowing for simple and effective countermeasures for Neighbor Discovery attacks.  Finally, it discusses the security implications of using IPv6 fragmentation with SEcure Neighbor Discovery (SEND) and formally updates RFC 3971 to provide advice regarding how the aforementioned security implications can be mitigated.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

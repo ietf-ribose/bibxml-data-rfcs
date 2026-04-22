@@ -1,0 +1,20 @@
+<reference anchor="RFC4320" target="https://www.rfc-editor.org/info/rfc4320">
+  <front>
+    <title>Actions Addressing Identified Issues with the Session Initiation Protocol's (SIP) Non-INVITE Transaction</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4320"/>
+    <seriesInfo name="RFC" value="4320"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Sparks" fullname="R. Sparks"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes modifications to the Session Initiation Protocol (SIP) to address problems that have been identified with the SIP non-INVITE transaction.  These modifications reduce the probability of messages losing the race condition inherent in the non-INVITE transaction and reduce useless network traffic.  They also improve the robustness of SIP networks when elements stop responding.  These changes update behavior defined in RFC 3261. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

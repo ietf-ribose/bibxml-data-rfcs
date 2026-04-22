@@ -1,0 +1,31 @@
+<reference anchor="RFC7021" target="https://www.rfc-editor.org/info/rfc7021">
+  <front>
+    <title>Assessing the Impact of Carrier-Grade NAT on Network Applications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7021"/>
+    <seriesInfo name="RFC" value="7021"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="C." surname="Donley" fullname="C. Donley" role="editor"/>
+    <author initials="L." surname="Howard" fullname="L. Howard"/>
+    <author initials="V." surname="Kuarsingh" fullname="V. Kuarsingh"/>
+    <author initials="J." surname="Berg" fullname="J. Berg"/>
+    <author initials="J." surname="Doshi" fullname="J. Doshi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2013"></date>
+    <keyword>CGN</keyword>
+    <keyword>NAT444</keyword>
+    <keyword>DS-Lite</keyword>
+    <keyword>Dual-Stack Lite</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>NAT</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>LSN transition</keyword>
+    <abstract>
+      <t>&lt;p&gt;NAT444 is an IPv4 extension technology being considered by Service Providers as a means to continue offering IPv4 service to customers while transitioning to IPv6.  This technology adds an extra Carrier- Grade NAT (CGN) in the Service Provider network, often resulting in two NATs.  CableLabs, Time Warner Cable, and Rogers Communications independently tested the impacts of NAT444 on many popular Internet services using a variety of test scenarios, network topologies, and vendor equipment.  This document identifies areas where adding a second layer of NAT disrupts the communication channel for common Internet applications.  This document was updated to include the Dual-Stack Lite (DS-Lite) impacts also.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

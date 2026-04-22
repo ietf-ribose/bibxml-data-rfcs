@@ -1,0 +1,25 @@
+<reference anchor="RFC8872" target="https://www.rfc-editor.org/info/rfc8872">
+  <front>
+    <title>Guidelines for Using the Multiplexing Features of RTP to Support Multiple Media Streams</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8872"/>
+    <seriesInfo name="RFC" value="8872"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Westerlund" fullname="M. Westerlund"/>
+    <author initials="B." surname="Burman" fullname="B. Burman"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author initials="H." surname="Alvestrand" fullname="H. Alvestrand"/>
+    <author initials="R." surname="Even" fullname="R. Even"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>Simulcast</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Real-time Transport Protocol (RTP) is a flexible protocol that can be used in a wide range of applications, networks, and system topologies.  That flexibility makes for wide applicability but can complicate the application design process.  One particular design question that has received much attention is how to support multiple media streams in RTP.  This memo discusses the available options and design trade-offs, and provides guidelines on how to use the multiplexing features of RTP to support multiple media streams.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC7068" target="https://www.rfc-editor.org/info/rfc7068">
+  <front>
+    <title>Diameter Overload Control Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7068"/>
+    <seriesInfo name="RFC" value="7068"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="McMurry" fullname="E. McMurry"/>
+    <author initials="B." surname="Campbell" fullname="B. Campbell"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2013"></date>
+    <workgroup>Diameter Maintenance and Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;When a Diameter server or agent becomes overloaded, it needs to be able to gracefully reduce its load, typically by advising clients to reduce traffic for some period of time.  Otherwise, it must continue to expend resources parsing and responding to Diameter messages, possibly resulting in a progressively severe overload condition.  The existing Diameter mechanisms are not sufficient for managing overload conditions.  This document describes the limitations of the existing mechanisms.  Requirements for new overload management mechanisms are also provided.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

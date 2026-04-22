@@ -1,0 +1,22 @@
+<reference anchor="RFC9246" target="https://www.rfc-editor.org/info/rfc9246">
+  <front>
+    <title>URI Signing for Content Delivery Network Interconnection (CDNI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9246"/>
+    <seriesInfo name="RFC" value="9246"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="van Brandenburg" fullname="R. van Brandenburg"/>
+    <author initials="K." surname="Leung" fullname="K. Leung"/>
+    <author initials="P." surname="Sorber" fullname="P. Sorber"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <workgroup>Content Delivery Networks Interconnection</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes how the concept of URI Signing supports the content access control requirements of Content Delivery Network Interconnection (CDNI) and proposes a URI Signing method as a JSON Web Token (JWT) profile.&lt;/p&gt;&lt;p&gt;The proposed URI Signing method specifies the information needed to be included in the URI to transmit the signed JWT, as well as the claims needed by the signed JWT to authorize a User Agent (UA). The mechanism described can be used both in CDNI and single Content Delivery Network (CDN) scenarios.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

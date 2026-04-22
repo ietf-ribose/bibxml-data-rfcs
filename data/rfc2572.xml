@@ -1,0 +1,27 @@
+<reference anchor="RFC2572" target="https://www.rfc-editor.org/info/rfc2572">
+  <front>
+    <title>Message Processing and Dispatching for the Simple Network Management Protocol (SNMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2572"/>
+    <seriesInfo name="RFC" value="2572"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Case" fullname="J. Case"/>
+    <author initials="D." surname="Harrington" fullname="D. Harrington"/>
+    <author initials="R." surname="Presuhn" fullname="R. Presuhn"/>
+    <author initials="B." surname="Wijnen" fullname="B. Wijnen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="1999"></date>
+    <workgroup>SNMP Version 3</workgroup>
+    <keyword>MPD-SNMP</keyword>
+    <keyword>processing</keyword>
+    <keyword>models</keyword>
+    <keyword>multiple</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Message Processing and Dispatching for SNMP messages within the SNMP architecture.  It defines the procedures for dispatching potentially multiple versions of SNMP messages to the proper SNMP Message Processing Models, and for dispatching PDUs to SNMP applications.  This document also describes one Message Processing Model - the SNMPv3 Message Processing Model. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

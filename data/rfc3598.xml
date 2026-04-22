@@ -1,0 +1,27 @@
+<reference anchor="RFC3598" target="https://www.rfc-editor.org/info/rfc3598">
+  <front>
+    <title>Sieve Email Filtering -- Subaddress Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3598"/>
+    <seriesInfo name="RFC" value="3598"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Murchison" fullname="K. Murchison"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2003"></date>
+    <keyword>users</keyword>
+    <keyword>detailed addressing language</keyword>
+    <keyword>address</keyword>
+    <keyword>part</keyword>
+    <keyword>test</keyword>
+    <keyword>detail</keyword>
+    <keyword>filter</keyword>
+    <keyword>mailbox</keyword>
+    <abstract>
+      <t>&lt;p&gt;On email systems that allow for "subaddressing" or "detailed addressing" (e.g., "ken+sieve@example.org"), it is sometimes desirable to make comparisons against these sub-parts of addresses.  This document defines an extension to the Sieve mail filtering language that allows users to compare against the user and detail parts of an address. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

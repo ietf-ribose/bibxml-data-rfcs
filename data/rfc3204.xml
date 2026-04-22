@@ -1,0 +1,28 @@
+<reference anchor="RFC3204" target="https://www.rfc-editor.org/info/rfc3204">
+  <front>
+    <title>MIME media types for ISUP and QSIG Objects</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3204"/>
+    <seriesInfo name="RFC" value="3204"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Zimmerer" fullname="E. Zimmerer"/>
+    <author initials="J." surname="Peterson" fullname="J. Peterson"/>
+    <author initials="A." surname="Vemuri" fullname="A. Vemuri"/>
+    <author initials="L." surname="Ong" fullname="L. Ong"/>
+    <author initials="F." surname="Audet" fullname="F. Audet"/>
+    <author initials="M." surname="Watson" fullname="M. Watson"/>
+    <author initials="M." surname="Zonoun" fullname="M. Zonoun"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2001"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <keyword>MIME</keyword>
+    <keyword>multipart internet mail extensions</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes MIME types for application/ISUP and application/QSIG objects for use in SIP applications, according to the rules defined in RFC 2048.  These types can be used to identify ISUP and QSIG objects within a SIP message such as INVITE or INFO, as might be implemented when using SIP in an environment where part of the call involves interworking to the PSTN. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

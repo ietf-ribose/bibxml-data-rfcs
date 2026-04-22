@@ -1,0 +1,29 @@
+<reference anchor="RFC9297" target="https://www.rfc-editor.org/info/rfc9297">
+  <front>
+    <title>HTTP Datagrams and the Capsule Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9297"/>
+    <seriesInfo name="RFC" value="9297"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Schinazi" fullname="D. Schinazi"/>
+    <author initials="L." surname="Pardue" fullname="L. Pardue"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>Multiplexed Application Substrate over QUIC Encryption</workgroup>
+    <keyword>quic</keyword>
+    <keyword>http</keyword>
+    <keyword>datagram</keyword>
+    <keyword>fast</keyword>
+    <keyword>tunnels</keyword>
+    <keyword>turtles all the way down</keyword>
+    <keyword>masque</keyword>
+    <keyword>http-ng</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes HTTP Datagrams, a convention for conveying multiplexed, potentially unreliable datagrams inside an HTTP connection.&lt;/p&gt;&lt;p&gt;In HTTP/3, HTTP Datagrams can be sent unreliably using the QUIC DATAGRAM extension. When the QUIC DATAGRAM frame is unavailable or undesirable, HTTP Datagrams can be sent using the Capsule Protocol, which is a more general convention for conveying data in HTTP connections.&lt;/p&gt;&lt;p&gt;HTTP Datagrams and the Capsule Protocol are intended for use by HTTP extensions, not applications.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

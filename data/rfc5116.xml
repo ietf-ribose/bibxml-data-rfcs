@@ -1,0 +1,23 @@
+<reference anchor="RFC5116" target="https://www.rfc-editor.org/info/rfc5116">
+  <front>
+    <title>An Interface and Algorithms for Authenticated Encryption</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5116"/>
+    <seriesInfo name="RFC" value="5116"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="McGrew" fullname="D. McGrew"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2008"></date>
+    <keyword>Encryption</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>AEAD</keyword>
+    <keyword>authenticated encryption with associated data</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines algorithms for Authenticated Encryption with Associated Data (AEAD), and defines a uniform interface and a registry for such algorithms.  The interface and registry can be used as an application-independent set of cryptoalgorithm suites.  This approach provides advantages in efficiency and security, and promotes the reuse of crypto implementations. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

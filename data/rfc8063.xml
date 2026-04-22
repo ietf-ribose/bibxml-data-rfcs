@@ -1,0 +1,24 @@
+<reference anchor="RFC8063" target="https://www.rfc-editor.org/info/rfc8063">
+  <front>
+    <title>Key Relay Mapping for the Extensible Provisioning Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8063"/>
+    <seriesInfo name="RFC" value="8063"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H.W." surname="Ribbers" fullname="H.W. Ribbers"/>
+    <author initials="M.W." surname="Groeneweg" fullname="M.W. Groeneweg"/>
+    <author initials="R." surname="Gieben" fullname="R. Gieben"/>
+    <author initials="A.L.J." surname="Verschuren" fullname="A.L.J. Verschuren"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2017"></date>
+    <workgroup>Registration Protocols Extensions</workgroup>
+    <keyword>Extensible Provisioning Protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an Extensible Provisioning Protocol (EPP) mapping for a key relay object that relays DNSSEC key material between EPP clients using the poll queue defined in RFC 5730.&lt;/p&gt;&lt;p&gt;This key relay mapping will help facilitate changing the DNS operator of a domain while keeping the DNSSEC chain of trust intact.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

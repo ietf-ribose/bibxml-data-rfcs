@@ -1,0 +1,28 @@
+<reference anchor="RFC4683" target="https://www.rfc-editor.org/info/rfc4683">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure Subject Identification Method (SIM)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4683"/>
+    <seriesInfo name="RFC" value="4683"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Park" fullname="J. Park"/>
+    <author initials="J." surname="Lee" fullname="J. Lee"/>
+    <author initials="H." surname="Lee" fullname="H. Lee"/>
+    <author initials="S." surname="Park" fullname="S. Park"/>
+    <author initials="T." surname="Polk" fullname="T. Polk"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2006"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>subjectaltname</keyword>
+    <keyword>privacy-sensitive</keyword>
+    <keyword>identifiers</keyword>
+    <keyword>pepsi</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Subject Identification Method (SIM) for including a privacy-sensitive identifier in the subjectAltName extension of a certificate.&lt;/p&gt;&lt;p&gt;The SIM is an optional feature that may be used by relying parties to determine whether the subject of a particular certificate is also the person corresponding to a particular sensitive identifier. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

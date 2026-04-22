@@ -1,0 +1,29 @@
+<reference anchor="RFC9533" target="https://www.rfc-editor.org/info/rfc9533">
+  <front>
+    <title>One-Way and Two-Way Active Measurement Protocol Extensions for Performance Measurement on a Link Aggregation Group</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9533"/>
+    <seriesInfo name="RFC" value="9533"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Li" fullname="Z. Li"/>
+    <author initials="T." surname="Zhou" fullname="T. Zhou"/>
+    <author initials="J." surname="Guo" fullname="J. Guo"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2024"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>TWAMP</keyword>
+    <keyword>OWAMP</keyword>
+    <keyword>Performance Measurement</keyword>
+    <keyword>LAG</keyword>
+    <keyword>Micro-session</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines extensions to the One-Way Active Measurement Protocol (OWAMP) and the Two-Way Active Measurement Protocol (TWAMP) to implement performance measurement on every member link of a Link Aggregation Group (LAG).  Knowing the measured metrics of each member link of a LAG enables operators to enforce the performance-based traffic steering policy across the member links.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

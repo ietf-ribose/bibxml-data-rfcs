@@ -1,0 +1,31 @@
+<reference anchor="RFC3421" target="https://www.rfc-editor.org/info/rfc3421">
+  <front>
+    <title>Select and Sort Extensions for the Service Location Protocol (SLP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3421"/>
+    <seriesInfo name="RFC" value="3421"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Zhao" fullname="W. Zhao"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="E." surname="Guttman" fullname="E. Guttman"/>
+    <author initials="C." surname="Bisdikian" fullname="C. Bisdikian"/>
+    <author initials="W." surname="Jerome" fullname="W. Jerome"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2002"></date>
+    <keyword>SLP</keyword>
+    <keyword>Service Location Protocol</keyword>
+    <keyword>UA</keyword>
+    <keyword>user agent</keyword>
+    <keyword>URL</keyword>
+    <keyword>Uniform Resource Locator</keyword>
+    <keyword>service reply</keyword>
+    <keyword>svrrply</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines two extensions (Select and Sort) for the Service Location Protocol (SLP).  These extensions allow a User Agent (UA) to request that the Uniform Resource Locator (URL) entries in a Service Reply (SrvRply) be limited to the specified number, or be sorted according to the specified sort key list.  Using these two extensions together can facilitate discovering the best match, such as finding a service that has the maximum speed or the minimum load.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC3290" target="https://www.rfc-editor.org/info/rfc3290">
+  <front>
+    <title>An Informal Management Model for Diffserv Routers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3290"/>
+    <seriesInfo name="RFC" value="3290"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Bernet" fullname="Y. Bernet"/>
+    <author initials="S." surname="Blake" fullname="S. Blake"/>
+    <author initials="D." surname="Grossman" fullname="D. Grossman"/>
+    <author initials="A." surname="Smith" fullname="A. Smith"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2002"></date>
+    <workgroup>Differentiated Services</workgroup>
+    <keyword>differentiated services</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document proposes an informal management model of Differentiated Services (Diffserv) routers for use in their management and configuration.  This model defines functional datapath elements (e.g., classifiers, meters, actions, marking, absolute dropping, counting, multiplexing), algorithmic droppers, queues and schedulers.  It describes possible configuration parameters for these elements and how they might be interconnected to realize the range of traffic conditioning and per-hop behavior (PHB) functionalities described in the Diffserv Architecture.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

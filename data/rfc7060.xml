@@ -1,0 +1,22 @@
+<reference anchor="RFC7060" target="https://www.rfc-editor.org/info/rfc7060">
+  <front>
+    <title>Using LDP Multipoint Extensions on Targeted LDP Sessions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7060"/>
+    <seriesInfo name="RFC" value="7060"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Napierala" fullname="M. Napierala"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2013"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Label Distribution Protocol (LDP) can be used to set up Point-to-Multipoint (P2MP) and Multipoint-to-Multipoint (MP2MP) Label Switched Paths.  However, the specification for the Multipoint Extensions to LDP presupposes that the two endpoints of an LDP session are directly connected.  The LDP base specification allows for the case where the two endpoints of an LDP session are not directly connected; such a session is known as a "Targeted LDP" session.  This document provides the specification for using the LDP Multipoint Extensions over a Targeted LDP session.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

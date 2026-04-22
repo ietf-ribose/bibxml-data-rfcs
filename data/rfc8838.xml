@@ -1,0 +1,22 @@
+<reference anchor="RFC8838" target="https://www.rfc-editor.org/info/rfc8838">
+  <front>
+    <title>Trickle ICE: Incremental Provisioning of Candidates for the Interactive Connectivity Establishment (ICE) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8838"/>
+    <seriesInfo name="RFC" value="8838"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Ivov" fullname="E. Ivov"/>
+    <author initials="J." surname="Uberti" fullname="J. Uberti"/>
+    <author initials="P." surname="Saint-Andre" fullname="P. Saint-Andre"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Interactive Connectivity Establishment</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes "Trickle ICE", an extension to the Interactive Connectivity Establishment (ICE) protocol that enables ICE agents to begin connectivity checks while they are still gathering candidates, by incrementally exchanging candidates over time instead of all at once.  This method can considerably accelerate the process of establishing a communication session.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

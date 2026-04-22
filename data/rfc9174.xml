@@ -1,0 +1,23 @@
+<reference anchor="RFC9174" target="https://www.rfc-editor.org/info/rfc9174">
+  <front>
+    <title>Delay-Tolerant Networking TCP Convergence-Layer Protocol Version 4</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9174"/>
+    <seriesInfo name="RFC" value="9174"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Sipos" fullname="B. Sipos"/>
+    <author initials="M." surname="Demmer" fullname="M. Demmer"/>
+    <author initials="J." surname="Ott" fullname="J. Ott"/>
+    <author initials="S." surname="Perreault" fullname="S. Perreault"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2022"></date>
+    <workgroup>Delay/Disruption Tolerant Networking</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes a TCP convergence layer (TCPCL) for Delay-Tolerant Networking (DTN).  This version of the TCPCL protocol resolves implementation issues in the earlier TCPCL version 3 as defined in RFC 7242 and provides updates to the Bundle Protocol (BP) contents, encodings, and convergence-layer requirements in BP version 7 (BPv7).  Specifically, TCPCLv4 uses BPv7 bundles encoded by the Concise Binary Object Representation (CBOR) as its service data unit being transported and provides a reliable transport of such bundles.  This TCPCL version also includes security and extensibility mechanisms.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

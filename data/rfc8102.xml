@@ -1,0 +1,28 @@
+<reference anchor="RFC8102" target="https://www.rfc-editor.org/info/rfc8102">
+  <front>
+    <title>Remote-LFA Node Protection and Manageability</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8102"/>
+    <seriesInfo name="RFC" value="8102"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Sarkar" fullname="P. Sarkar" role="editor"/>
+    <author initials="S." surname="Hegde" fullname="S. Hegde"/>
+    <author initials="C." surname="Bowers" fullname="C. Bowers"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Routing Area Working Group</workgroup>
+    <keyword>LFA</keyword>
+    <keyword>Remote-LFA</keyword>
+    <keyword>IGP</keyword>
+    <keyword>Node Protection</keyword>
+    <abstract>
+      <t>&lt;p&gt;The loop-free alternates (LFAs) computed following the current remote-LFA specification guarantees only link protection. The resulting remote-LFA next hops (also called "PQ-nodes") may not guarantee node protection for all destinations being protected by it.&lt;/p&gt;&lt;p&gt;This document describes an extension to the remote-loop-free-based IP fast reroute mechanisms that specifies procedures for determining whether or not a given PQ-node provides node protection for a specific destination. The document also shows how the same procedure can be utilized for the collection of complete characteristics for alternate paths. Knowledge about the characteristics of all alternate paths is a precursor to applying the operator-defined policy for eliminating paths not fitting the constraints.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

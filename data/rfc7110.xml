@@ -1,0 +1,26 @@
+<reference anchor="RFC7110" target="https://www.rfc-editor.org/info/rfc7110">
+  <front>
+    <title>Return Path Specified Label Switched Path (LSP) Ping</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7110"/>
+    <seriesInfo name="RFC" value="7110"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="W." surname="Cao" fullname="W. Cao"/>
+    <author initials="S." surname="Ning" fullname="S. Ning"/>
+    <author initials="F." surname="Jounay" fullname="F. Jounay"/>
+    <author initials="S." surname="Delord" fullname="S. Delord"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2014"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>Tunnel Stack</keyword>
+    <keyword>Reply TC</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines extensions to the data-plane failure-detection protocol for Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) known as "LSP ping".  These extensions allow a selection of the LSP to be used for the echo reply return path.  Enforcing a specific return path can be used to verify bidirectional connectivity and also increase LSP ping robustness.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

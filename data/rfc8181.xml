@@ -1,0 +1,23 @@
+<reference anchor="RFC8181" target="https://www.rfc-editor.org/info/rfc8181">
+  <front>
+    <title>A Publication Protocol for the Resource Public Key Infrastructure (RPKI)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8181"/>
+    <seriesInfo name="RFC" value="8181"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Weiler" fullname="S. Weiler"/>
+    <author initials="A." surname="Sonalker" fullname="A. Sonalker"/>
+    <author initials="R." surname="Austein" fullname="R. Austein"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2017"></date>
+    <workgroup>Secure Inter-Domain Routing</workgroup>
+    <keyword>SIDR</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a protocol for publishing Resource Public Key Infrastructure (RPKI) objects.  Even though the RPKI will have many participants issuing certificates and creating other objects, it is operationally useful to consolidate the publication of those objects.  Even in cases where a certificate issuer runs its own publication repository, it can be useful to run the certificate engine itself on a different machine from the publication repository.  This document defines a protocol which addresses these needs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

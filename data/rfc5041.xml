@@ -1,0 +1,25 @@
+<reference anchor="RFC5041" target="https://www.rfc-editor.org/info/rfc5041">
+  <front>
+    <title>Direct Data Placement over Reliable Transports</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5041"/>
+    <seriesInfo name="RFC" value="5041"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Shah" fullname="H. Shah"/>
+    <author initials="J." surname="Pinkerton" fullname="J. Pinkerton"/>
+    <author initials="R." surname="Recio" fullname="R. Recio"/>
+    <author initials="P." surname="Culley" fullname="P. Culley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2007"></date>
+    <workgroup>Remote Direct Data Placement</workgroup>
+    <keyword>ddp</keyword>
+    <keyword>cpu</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Direct Data Placement protocol provides information to Place the incoming data directly into an upper layer protocol's receive buffer without intermediate buffers.  This removes excess CPU and memory utilization associated with transferring data through the intermediate buffers. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

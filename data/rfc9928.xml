@@ -1,0 +1,24 @@
+<reference anchor="RFC9928" target="https://www.rfc-editor.org/info/rfc9928">
+  <front>
+    <title>DHCPv4 over DHCPv6 with Relay Agent Support</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9928"/>
+    <seriesInfo name="RFC" value="9928"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Porfiri" fullname="C. Porfiri"/>
+    <author initials="S." surname="Krishnan" fullname="S. Krishnan"/>
+    <author initials="J." surname="Arkko" fullname="J. Arkko"/>
+    <author initials="M." surname="Kühlewind" fullname="M. Kühlewind"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2026"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>dhcp</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a mechanism for networks with legacy IPv4-only clients to use services provided by DHCPv4 over DHCPv6 in a Relay Agent.  RFC 7341 specifies the use of DHCPv4 over DHCPv6 in the client only.  This document specifies an approach based on RFC 7341 that allows a Relay Agent to implement the DHCPv4-over-DHCPv6 encapsulation and decapsulation of DHCPv4 messages in DHCPv6 messages on behalf of a DHCPv4 client.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC3964" target="https://www.rfc-editor.org/info/rfc3964">
+  <front>
+    <title>Security Considerations for 6to4</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3964"/>
+    <seriesInfo name="RFC" value="3964"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Savola" fullname="P. Savola"/>
+    <author initials="C." surname="Patel" fullname="C. Patel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2004"></date>
+    <workgroup>IPv6 Operations</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The IPv6 interim mechanism 6to4 (RFC3056) uses automatic IPv6-over-IPv4 tunneling to interconnect IPv6 networks.  The architecture includes 6to4 routers and 6to4 relay routers, which accept and decapsulate IPv4 protocol-41 ("IPv6-in-IPv4") traffic from any node in the IPv4 internet.  This characteristic enables a number of security threats, mainly Denial of Service.  It also makes it easier for nodes to spoof IPv6 addresses.  This document discusses these issues in more detail and suggests enhancements to alleviate the problems.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

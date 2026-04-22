@@ -1,0 +1,24 @@
+<reference anchor="RFC9715" target="https://www.rfc-editor.org/info/rfc9715">
+  <front>
+    <title>IP Fragmentation Avoidance in DNS over UDP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9715"/>
+    <seriesInfo name="RFC" value="9715"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Fujiwara" fullname="K. Fujiwara"/>
+    <author initials="P." surname="Vixie" fullname="P. Vixie"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2025"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>IP Fragmentation</keyword>
+    <keyword>attack</keyword>
+    <abstract>
+      <t>&lt;p&gt;The widely deployed Extension Mechanisms for DNS (EDNS(0)) feature in the DNS enables a DNS receiver to indicate its received UDP message size capacity, which supports the sending of large UDP responses by a DNS server.  Large DNS/UDP messages are more likely to be fragmented, and IP fragmentation has exposed weaknesses in application protocols.  It is possible to avoid IP fragmentation in DNS by limiting the response size where possible and signaling the need to upgrade from UDP to TCP transport where necessary.  This document describes techniques to avoid IP fragmentation in DNS.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

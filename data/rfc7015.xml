@@ -1,0 +1,25 @@
+<reference anchor="RFC7015" target="https://www.rfc-editor.org/info/rfc7015">
+  <front>
+    <title>Flow Aggregation for the IP Flow Information Export (IPFIX) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7015"/>
+    <seriesInfo name="RFC" value="7015"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Trammell" fullname="B. Trammell"/>
+    <author initials="A." surname="Wagner" fullname="A. Wagner"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2013"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>Flow metering</keyword>
+    <keyword>Flow measurement</keyword>
+    <keyword>IPFIX mediator</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides a common implementation-independent basis for the interoperable application of the IP Flow Information Export (IPFIX) protocol to the handling of Aggregated Flows, which are IPFIX Flows representing packets from multiple Original Flows sharing some set of common properties.  It does this through a detailed terminology and a descriptive Intermediate Aggregation Process architecture, including a specification of methods for Original Flow counting and counter distribution across intervals.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

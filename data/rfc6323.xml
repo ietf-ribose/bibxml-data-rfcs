@@ -1,0 +1,25 @@
+<reference anchor="RFC6323" target="https://www.rfc-editor.org/info/rfc6323">
+  <front>
+    <title>Sender RTT Estimate Option for the Datagram Congestion Control Protocol (DCCP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6323"/>
+    <seriesInfo name="RFC" value="6323"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Renker" fullname="G. Renker"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2011"></date>
+    <workgroup>Datagram Congestion Control Protocol</workgroup>
+    <keyword>DCCP</keyword>
+    <keyword>TFRC</keyword>
+    <keyword>CCID-3</keyword>
+    <keyword>CCID-4</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an update to the round-trip time (RTT) estimation algorithm used for TFRC (TCP-Friendly Rate Control) congestion control by the Datagram Congestion Control Protocol (DCCP). It updates specifications for the CCID-3 and CCID-4 Congestion Control IDs of DCCP.&lt;/p&gt;&lt;p&gt;The update addresses parameter-estimation problems occurring with TFRC-based DCCP congestion control. It uses a recommendation made in the original TFRC specification to avoid the inherent problems of receiver-based RTT sampling, by utilising higher-accuracy RTT samples already available at the sender.&lt;/p&gt;&lt;p&gt;It is integrated into the feature set of DCCP as an end-to-end negotiable extension. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

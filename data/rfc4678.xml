@@ -1,0 +1,21 @@
+<reference anchor="RFC4678" target="https://www.rfc-editor.org/info/rfc4678">
+  <front>
+    <title>Server/Application State Protocol v1</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4678"/>
+    <seriesInfo name="RFC" value="4678"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="A." surname="Bivens" fullname="A. Bivens"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2006"></date>
+    <keyword>sasp</keyword>
+    <keyword>server/application state protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;Entities responsible for distributing work across a group of systems traditionally do not know a great deal about the ability of the applications on those systems to complete the work in a satisfactory fashion.  Workload management systems traditionally know a great deal about the health of applications, but have little control over the rate in which these applications receive work.  The Server/Application State Protocol (SASP) provides a mechanism for load balancers and workload management systems to communicate better ways of distributing the existing workload to the group members.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

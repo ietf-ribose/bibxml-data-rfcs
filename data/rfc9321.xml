@@ -1,0 +1,20 @@
+<reference anchor="RFC9321" target="https://www.rfc-editor.org/info/rfc9321">
+  <front>
+    <title>Signature Validation Token</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9321"/>
+    <seriesInfo name="RFC" value="9321"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Santesson" fullname="S. Santesson"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2022"></date>
+    <abstract>
+      <t>&lt;p&gt;Electronic signatures have a limited lifespan with respect to the time period that they can be validated and determined to be authentic.  The Signature Validation Token (SVT) defined in this specification provides evidence that asserts the validity of an electronic signature.  The SVT is provided by a trusted authority, which asserts that a particular signature was successfully validated according to defined procedures at a certain time.  Any future validation of that electronic signature can be satisfied by validating the SVT without any need to also validate the original electronic signature or the associated digital certificates.  The SVT supports electronic signatures in Cryptographic Message Syntax (CMS), XML, PDF, and JSON documents.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

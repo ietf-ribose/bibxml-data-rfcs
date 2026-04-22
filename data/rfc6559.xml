@@ -1,0 +1,23 @@
+<reference anchor="RFC6559" target="https://www.rfc-editor.org/info/rfc6559">
+  <front>
+    <title>A Reliable Transport Mechanism for PIM</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6559"/>
+    <seriesInfo name="RFC" value="6559"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands"/>
+    <author initials="S." surname="Venaas" fullname="S. Venaas"/>
+    <author initials="M." surname="Napierala" fullname="M. Napierala"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2012"></date>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a reliable transport mechanism for the PIM protocol for transmission of Join/Prune messages.  This eliminates the need for periodic Join/Prune message transmission and processing.  The reliable transport mechanism can use either TCP or SCTP as the transport protocol.  This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

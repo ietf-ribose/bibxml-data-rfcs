@@ -1,0 +1,23 @@
+<reference anchor="RFC7276" target="https://www.rfc-editor.org/info/rfc7276">
+  <front>
+    <title>An Overview of Operations, Administration, and Maintenance (OAM) Tools</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7276"/>
+    <seriesInfo name="RFC" value="7276"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+    <author initials="N." surname="Sprecher" fullname="N. Sprecher"/>
+    <author initials="E." surname="Bellagamba" fullname="E. Bellagamba"/>
+    <author initials="Y." surname="Weingarten" fullname="Y. Weingarten"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2014"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Operations, Administration, and Maintenance (OAM) is a general term that refers to a toolset for fault detection and isolation, and for performance measurement. Over the years, various OAM tools have been defined for various layers in the protocol stack.&lt;/p&gt;&lt;p&gt;This document summarizes some of the OAM tools defined in the IETF in the context of IP unicast, MPLS, MPLS Transport Profile (MPLS-TP), pseudowires, and Transparent Interconnection of Lots of Links (TRILL). This document focuses on tools for detecting and isolating failures in networks and for performance monitoring. Control and management aspects of OAM are outside the scope of this document. Network repair functions such as Fast Reroute (FRR) and protection switching, which are often triggered by OAM protocols, are also out of the scope of this document.&lt;/p&gt;&lt;p&gt;The target audience of this document includes network equipment vendors, network operators, and standards development organizations. This document can be used as an index to some of the main OAM tools defined in the IETF. At the end of the document, a list of the OAM toolsets and a list of the OAM functions are presented as a summary.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

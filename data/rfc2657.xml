@@ -1,0 +1,24 @@
+<reference anchor="RFC2657" target="https://www.rfc-editor.org/info/rfc2657">
+  <front>
+    <title>LDAPv2 Client vs. the Index Mesh</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2657"/>
+    <seriesInfo name="RFC" value="2657"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Hedberg" fullname="R. Hedberg"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="1999"></date>
+    <workgroup>Common Indexing Protocol</workgroup>
+    <keyword>LDAPv2</keyword>
+    <keyword>lightweight directory access protocol version 2</keyword>
+    <keyword>CIP</keyword>
+    <keyword>common indexing protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;LDAPv2 clients as implemented according to RFC 1777 have no notion on referral.  The integration between such a client and an Index Mesh, as defined by the Common Indexing Protocol, heavily depends on referrals and therefore needs to be handled in a special way.  This document defines one possible way of doing this.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

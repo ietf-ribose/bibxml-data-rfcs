@@ -1,0 +1,23 @@
+<reference anchor="RFC9268" target="https://www.rfc-editor.org/info/rfc9268">
+  <front>
+    <title>IPv6 Minimum Path MTU Hop-by-Hop Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9268"/>
+    <seriesInfo name="RFC" value="9268"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Hinden" fullname="R. Hinden"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>IPv6 Maintenance</workgroup>
+    <keyword>DPLPMTUD</keyword>
+    <keyword>PMTUD</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a new IPv6 Hop-by-Hop Option that is used to record the Minimum Path MTU (PMTU) along the forward path between a source host to a destination host.  The recorded value can then be communicated back to the source using the return Path MTU field in the Option.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

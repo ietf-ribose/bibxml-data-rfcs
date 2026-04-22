@@ -1,0 +1,19 @@
+<reference anchor="RFC7440" target="https://www.rfc-editor.org/info/rfc7440">
+  <front>
+    <title>TFTP Windowsize Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7440"/>
+    <seriesInfo name="RFC" value="7440"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Masotta" fullname="P. Masotta"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2015"></date>
+    <abstract>
+      <t>&lt;p&gt;The "Trivial File Transfer Protocol" (RFC 1350) is a simple, lockstep, file transfer protocol that allows a client to get or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a Local Area Network (LAN). TFTP has been used for this application because it is very simple to implement. The employment of a lockstep scheme limits throughput when used on a LAN.&lt;/p&gt;&lt;p&gt;This document describes a TFTP option that allows the client and server to negotiate a window size of consecutive blocks to send as an alternative for replacing the single-block lockstep schema. The TFTP option mechanism employed is described in "TFTP Option Extension" (RFC 2347).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

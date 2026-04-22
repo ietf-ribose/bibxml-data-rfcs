@@ -1,0 +1,24 @@
+<reference anchor="RFC2855" target="https://www.rfc-editor.org/info/rfc2855">
+  <front>
+    <title>DHCP for IEEE 1394</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2855"/>
+    <seriesInfo name="RFC" value="2855"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Fujisawa" fullname="K. Fujisawa"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2000"></date>
+    <workgroup>IP Over IEEE 1394</workgroup>
+    <keyword>DHCP</keyword>
+    <keyword>dynamic host configuration protocol</keyword>
+    <keyword>high performance</keyword>
+    <keyword>serial bus</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes specific usage of some fields of DHCP (Dynamic Host Configuration Protocol) messages.  IEEE Std 1394-1995 is a standard for a High Performance Serial Bus.  Since 1394 uses a different link-layer addressing method than conventional IEEE802/Ethernet, the usage of some fields must be clarified to achieve interoperability. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

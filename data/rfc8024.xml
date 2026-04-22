@@ -1,0 +1,25 @@
+<reference anchor="RFC8024" target="https://www.rfc-editor.org/info/rfc8024">
+  <front>
+    <title>Multi-Chassis Passive Optical Network (MC-PON) Protection in MPLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8024"/>
+    <seriesInfo name="RFC" value="8024"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Jiang" fullname="Y. Jiang" role="editor"/>
+    <author initials="Y." surname="Luo" fullname="Y. Luo"/>
+    <author initials="E." surname="Mallette" fullname="E. Mallette" role="editor"/>
+    <author initials="Y." surname="Shen" fullname="Y. Shen"/>
+    <author initials="W." surname="Cheng" fullname="W. Cheng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2016"></date>
+    <workgroup>Pseudowire And LDP-enabled Services</workgroup>
+    <keyword>PON Protection</keyword>
+    <abstract>
+      <t>&lt;p&gt;Multiprotocol Label Switching (MPLS) is being extended to the edge of operator networks including the network access nodes.  Separately, network access nodes such as Passive Optical Network (PON) Optical Line Terminations (OLTs) have evolved to support first-mile access protection, where one or more physical OLTs provide first-mile diversity to the customer edge.  Multihoming support is needed on the MPLS-enabled PON OLT to provide resiliency for provided services.  This document describes the Multi-Chassis PON (MC-PON) protection architecture in MPLS and also specifies the Inter-Chassis Communication Protocol (ICCP) extension to support it.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC3562" target="https://www.rfc-editor.org/info/rfc3562">
+  <front>
+    <title>Key Management Considerations for the TCP MD5 Signature Option</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3562"/>
+    <seriesInfo name="RFC" value="3562"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Leech" fullname="M. Leech"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2003"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>bgp</keyword>
+    <keyword>border gateway protocol</keyword>
+    <keyword>security</keyword>
+    <keyword>encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;The TCP MD5 Signature Option (RFC 2385), used predominantly by BGP, has seen significant deployment in critical areas of Internet infrastructure.  The security of this option relies heavily on the quality of the keying material used to compute the MD5 signature.  This document addresses the security requirements of that keying material.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

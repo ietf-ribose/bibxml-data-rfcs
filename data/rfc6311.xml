@@ -1,0 +1,28 @@
+<reference anchor="RFC6311" target="https://www.rfc-editor.org/info/rfc6311">
+  <front>
+    <title>Protocol Support for High Availability of IKEv2/IPsec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6311"/>
+    <seriesInfo name="RFC" value="6311"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Singh" fullname="R. Singh" role="editor"/>
+    <author initials="G." surname="Kalyani" fullname="G. Kalyani"/>
+    <author initials="Y." surname="Nir" fullname="Y. Nir"/>
+    <author initials="Y." surname="Sheffer" fullname="Y. Sheffer"/>
+    <author initials="D." surname="Zhang" fullname="D. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2011"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>IPsec high availability</keyword>
+    <keyword>load sharing</keyword>
+    <keyword>clustering</keyword>
+    <keyword>fail-over</keyword>
+    <abstract>
+      <t>&lt;p&gt;The IPsec protocol suite is widely used for business-critical network traffic. In order to make IPsec deployments highly available, more scalable, and failure-resistant, they are often implemented as IPsec High Availability (HA) clusters. However, there are many issues in IPsec HA clustering, and in particular in Internet Key Exchange Protocol version 2 (IKEv2) clustering. An earlier document, "IPsec Cluster Problem Statement", enumerates the issues encountered in the IKEv2/IPsec HA cluster environment. This document resolves these issues with the least possible change to the protocol.&lt;/p&gt;&lt;p&gt;This document defines an extension to the IKEv2 protocol to solve the main issues of "IPsec Cluster Problem Statement" in the commonly deployed hot standby cluster, and provides implementation advice for other issues. The main issues solved are the synchronization of IKEv2 Message ID counters, and of IPsec replay counters. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

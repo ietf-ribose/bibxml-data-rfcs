@@ -1,0 +1,25 @@
+<reference anchor="RFC7924" target="https://www.rfc-editor.org/info/rfc7924">
+  <front>
+    <title>Transport Layer Security (TLS) Cached Information Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7924"/>
+    <seriesInfo name="RFC" value="7924"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Santesson" fullname="S. Santesson"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2016"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>TLS Cached Information</keyword>
+    <keyword>TLS Cached Info</keyword>
+    <keyword>TLS Extension</keyword>
+    <keyword>TLS Optimization</keyword>
+    <abstract>
+      <t>&lt;p&gt;Transport Layer Security (TLS) handshakes often include fairly static information, such as the server certificate and a list of trusted certification authorities (CAs). This information can be of considerable size, particularly if the server certificate is bundled with a complete certificate chain (i.e., the certificates of intermediate CAs up to the root CA).&lt;/p&gt;&lt;p&gt;This document defines an extension that allows a TLS client to inform a server of cached information, thereby enabling the server to omit already available information.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

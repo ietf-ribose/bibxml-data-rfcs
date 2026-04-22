@@ -1,0 +1,31 @@
+<reference anchor="RFC9666" target="https://www.rfc-editor.org/info/rfc9666">
+  <front>
+    <title>Area Proxy for IS-IS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9666"/>
+    <seriesInfo name="RFC" value="9666"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Li" fullname="T. Li"/>
+    <author initials="S." surname="Chen" fullname="S. Chen"/>
+    <author initials="V." surname="Ilangovan" fullname="V. Ilangovan"/>
+    <author initials="G." surname="Mishra" fullname="G. Mishra"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2024"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>datacenter</keyword>
+    <keyword>IGP</keyword>
+    <keyword>routing</keyword>
+    <keyword>topology</keyword>
+    <keyword>level</keyword>
+    <keyword>abstraction</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>proxy</keyword>
+    <abstract>
+      <t>&lt;p&gt;Link-state routing protocols have hierarchical abstraction already built into them. However, when lower levels are used for transit, they must expose their internal topologies to each other, thereby leading to scaling issues.&lt;/p&gt;&lt;p&gt;To avoid such issues, this document discusses extensions to the IS-IS routing protocol that allow Level 1 (L1) areas to provide transit but only inject an abstraction of the Level 1 topology into Level 2 (L2). Each Level 1 area is represented as a single Level 2 node, thereby enabling a greater scale.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

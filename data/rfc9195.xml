@@ -1,0 +1,21 @@
+<reference anchor="RFC9195" target="https://www.rfc-editor.org/info/rfc9195">
+  <front>
+    <title>A File Format for YANG Instance Data</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9195"/>
+    <seriesInfo name="RFC" value="9195"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Lengyel" fullname="B. Lengyel"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2022"></date>
+    <workgroup>Network Modeling</workgroup>
+    <abstract>
+      <t>&lt;p&gt;There is a need to document data defined in YANG models at design time, implementation time, or when a live server is unavailable.  This document specifies a standard file format for YANG instance data, which follows the syntax and semantics of existing YANG models and annotates it with metadata.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

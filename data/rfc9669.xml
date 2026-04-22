@@ -1,0 +1,23 @@
+<reference anchor="RFC9669" target="https://www.rfc-editor.org/info/rfc9669">
+  <front>
+    <title>BPF Instruction Set Architecture (ISA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9669"/>
+    <seriesInfo name="RFC" value="9669"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Thaler" fullname="D. Thaler" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2024"></date>
+    <workgroup>BPF/eBPF</workgroup>
+    <keyword>eBPF</keyword>
+    <keyword>virtual machine</keyword>
+    <keyword>extensibility</keyword>
+    <abstract>
+      <t>&lt;p&gt;eBPF (which is no longer an acronym for anything), also commonly referred to as BPF, is a technology with origins in the Linux kernel that can run untrusted programs in a privileged context such as an operating system kernel.  This document specifies the BPF instruction set architecture (ISA).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

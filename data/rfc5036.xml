@@ -1,0 +1,25 @@
+<reference anchor="RFC5036" target="https://www.rfc-editor.org/info/rfc5036">
+  <front>
+    <title>LDP Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5036"/>
+    <seriesInfo name="RFC" value="5036"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Andersson" fullname="L. Andersson" role="editor"/>
+    <author initials="I." surname="Minei" fullname="I. Minei" role="editor"/>
+    <author initials="B." surname="Thomas" fullname="B. Thomas" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2007"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>label</keyword>
+    <keyword>distribution</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;The architecture for Multiprotocol Label Switching (MPLS) is described in RFC 3031.  A fundamental concept in MPLS is that two Label Switching Routers (LSRs) must agree on the meaning of the labels used to forward traffic between and through them.  This common understanding is achieved by using a set of procedures, called a label distribution protocol, by which one LSR informs another of label bindings it has made.  This document defines a set of such procedures called LDP (for Label Distribution Protocol) by which LSRs distribute labels to support MPLS forwarding along normally routed paths. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

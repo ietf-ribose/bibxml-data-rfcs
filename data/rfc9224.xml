@@ -1,0 +1,30 @@
+<reference anchor="RFC9224" target="https://www.rfc-editor.org/info/rfc9224">
+  <front>
+    <title>Finding the Authoritative Registration Data Access Protocol (RDAP) Service</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9224"/>
+    <seriesInfo name="STD" value="95"/>
+    <seriesInfo name="RFC" value="9224"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Blanchet" fullname="M. Blanchet"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2022"></date>
+    <workgroup>Registration Protocols Extensions</workgroup>
+    <keyword>whois</keyword>
+    <keyword>bootstrap</keyword>
+    <keyword>domain</keyword>
+    <keyword>IDN</keyword>
+    <keyword>DNS</keyword>
+    <keyword>AS</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>JSON</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a method to find which Registration Data Access Protocol (RDAP) server is authoritative to answer queries for a requested scope, such as domain names, IP addresses, or Autonomous System numbers.  This document obsoletes RFC 7484.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

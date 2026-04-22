@@ -1,0 +1,28 @@
+<reference anchor="RFC9901" target="https://www.rfc-editor.org/info/rfc9901">
+  <front>
+    <title>Selective Disclosure for JSON Web Tokens</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9901"/>
+    <seriesInfo name="RFC" value="9901"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Fett" fullname="D. Fett"/>
+    <author initials="K." surname="Yasuda" fullname="K. Yasuda"/>
+    <author initials="B." surname="Campbell" fullname="B. Campbell"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2025"></date>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <keyword>security</keyword>
+    <keyword>oauth2</keyword>
+    <keyword>SD-JWT</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a mechanism for the selective disclosure
+of individual elements of a JSON data structure used as the payload
+of a JSON Web Signature (JWS).  The primary use case is the selective
+disclosure of JSON Web Token (JWT) claims.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

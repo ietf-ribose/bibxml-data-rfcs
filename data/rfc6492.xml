@@ -1,0 +1,24 @@
+<reference anchor="RFC6492" target="https://www.rfc-editor.org/info/rfc6492">
+  <front>
+    <title>A Protocol for Provisioning Resource Certificates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6492"/>
+    <seriesInfo name="RFC" value="6492"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Huston" fullname="G. Huston"/>
+    <author initials="R." surname="Loomans" fullname="R. Loomans"/>
+    <author initials="B." surname="Ellacott" fullname="B. Ellacott"/>
+    <author initials="R." surname="Austein" fullname="R. Austein"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2012"></date>
+    <workgroup>Secure Inter-Domain Routing</workgroup>
+    <keyword>RPKI</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a framework for certificate management interactions between an Internet Number Resource issuer ("issuer") and an Internet Number Resource recipient ("subject") through the specification of a protocol for interaction between the two parties.  The protocol supports the transmission of requests from the subject, and corresponding responses from the issuer encompassing the actions of certificate issuance, certificate revocation, and certificate status information reports.  This protocol is intended to be limited to the application of Internet Number Resource Certificate management and is not intended to be used as part of a more general certificate management framework. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

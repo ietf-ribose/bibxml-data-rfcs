@@ -1,0 +1,21 @@
+<reference anchor="RFC6672" target="https://www.rfc-editor.org/info/rfc6672">
+  <front>
+    <title>DNAME Redirection in the DNS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6672"/>
+    <seriesInfo name="RFC" value="6672"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Rose" fullname="S. Rose"/>
+    <author initials="W." surname="Wijngaards" fullname="W. Wijngaards"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2012"></date>
+    <workgroup>DNS Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The DNAME record provides redirection for a subtree of the domain name tree in the DNS.  That is, all names that end with a particular suffix are redirected to another part of the DNS.  This document obsoletes the original specification in RFC 2672 as well as updates the document on representing IPv6 addresses in DNS (RFC 3363). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

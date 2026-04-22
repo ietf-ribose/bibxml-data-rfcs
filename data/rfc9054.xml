@@ -1,0 +1,23 @@
+<reference anchor="RFC9054" target="https://www.rfc-editor.org/info/rfc9054">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE): Hash Algorithms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9054"/>
+    <seriesInfo name="RFC" value="9054"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
+    <keyword>SHA-1 Hash Algorithm</keyword>
+    <keyword>SHA-2 Hash Algorithm</keyword>
+    <keyword>SHAKE Algorithm</keyword>
+    <abstract>
+      <t>&lt;p&gt;The CBOR Object Signing and Encryption (COSE) syntax (see RFC 9052) does not define any direct methods for using hash algorithms.  There are, however, circumstances where hash algorithms are used, such as indirect signatures, where the hash of one or more contents are signed, and identification of an X.509 certificate or other object by the use of a fingerprint.  This document defines hash algorithms that are identified by COSE algorithm identifiers.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

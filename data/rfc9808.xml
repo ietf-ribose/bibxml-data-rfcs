@@ -1,0 +1,22 @@
+<reference anchor="RFC9808" target="https://www.rfc-editor.org/info/rfc9808">
+  <front>
+    <title>Content Delivery Network Interconnection (CDNI) Capacity Capability Advertisement Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9808"/>
+    <seriesInfo name="RFC" value="9808"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Ryan" fullname="A. Ryan"/>
+    <author initials="B." surname="Rosenblum" fullname="B. Rosenblum"/>
+    <author initials="N." surname="Sopher" fullname="N. Sopher"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2025"></date>
+    <workgroup>Content Delivery Networks Interconnection</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a set of additional Capability Objects that provide information about current downstream CDN (dCDN) utilization and specified usage limits to the delegating upstream CDN (uCDN) in order to inform traffic delegation decisions.&lt;/p&gt;&lt;p&gt;This document supplements the CDNI Capability Objects, defined in RFC 8008 as part of the Footprint &amp; Capabilities Advertisement Interface (FCI), with two additional Capability Objects: FCI.CapacityLimits and FCI.Telemetry.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

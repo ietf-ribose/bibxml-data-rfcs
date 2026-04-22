@@ -1,0 +1,24 @@
+<reference anchor="RFC4689" target="https://www.rfc-editor.org/info/rfc4689">
+  <front>
+    <title>Terminology for Benchmarking Network-layer Traffic Control Mechanisms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4689"/>
+    <seriesInfo name="RFC" value="4689"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Poretsky" fullname="S. Poretsky"/>
+    <author initials="J." surname="Perser" fullname="J. Perser"/>
+    <author initials="S." surname="Erramilli" fullname="S. Erramilli"/>
+    <author initials="S." surname="Khurana" fullname="S. Khurana"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2006"></date>
+    <workgroup>Benchmarking Methodology</workgroup>
+    <keyword>packet classification</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes terminology for the benchmarking of devices that implement traffic control using packet classification based on defined criteria.  The terminology is to be applied to measurements made on the data plane to evaluate IP traffic control mechanisms.  Rules for packet classification can be based on any field in the IP header, such as the Differentiated Services Code Point (DSCP), or any field in the packet payload, such as port number.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

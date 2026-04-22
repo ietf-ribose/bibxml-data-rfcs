@@ -1,0 +1,24 @@
+<reference anchor="RFC7109" target="https://www.rfc-editor.org/info/rfc7109">
+  <front>
+    <title>Flow Bindings Initiated by Home Agents for Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7109"/>
+    <seriesInfo name="RFC" value="7109"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="H." surname="Yokota" fullname="H. Yokota"/>
+    <author initials="D." surname="Kim" fullname="D. Kim"/>
+    <author initials="B." surname="Sarikaya" fullname="B. Sarikaya"/>
+    <author initials="F." surname="Xia" fullname="F. Xia"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2014"></date>
+    <keyword>MIPv6</keyword>
+    <keyword>Flow mobility</keyword>
+    <abstract>
+      <t>&lt;p&gt;There are scenarios in which the home agent needs to trigger flow binding operations towards the mobile node, such as moving a flow from one access network to another based on network resource availability.  In order for the home agent to be able to initiate interactions for flow bindings with the mobile node, this document defines new signaling messages and sub-options for Mobile IPv6.  Flow bindings initiated by a home agent are supported for mobile nodes enabled by both IPv4 and IPv6.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

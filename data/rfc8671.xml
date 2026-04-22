@@ -1,0 +1,25 @@
+<reference anchor="RFC8671" target="https://www.rfc-editor.org/info/rfc8671">
+  <front>
+    <title>Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8671"/>
+    <seriesInfo name="RFC" value="8671"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Evens" fullname="T. Evens"/>
+    <author initials="S." surname="Bayraktar" fullname="S. Bayraktar"/>
+    <author initials="P." surname="Lucente" fullname="P. Lucente"/>
+    <author initials="P." surname="Mi" fullname="P. Mi"/>
+    <author initials="S." surname="Zhuang" fullname="S. Zhuang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2019"></date>
+    <workgroup>Global Routing Operations</workgroup>
+    <keyword>adj-rib-out</keyword>
+    <abstract>
+      <t>&lt;p&gt;The BGP Monitoring Protocol (BMP) only defines access to the Adj-RIB-In Routing Information Bases (RIBs).  This document updates BMP (RFC 7854) by adding access to the Adj-RIB-Out RIBs.  It also adds a new flag to the peer header to distinguish between Adj-RIB-In and Adj-RIB-Out.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC9605" target="https://www.rfc-editor.org/info/rfc9605">
+  <front>
+    <title>Secure Frame (SFrame): Lightweight Authenticated Encryption for Real-Time Media</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9605"/>
+    <seriesInfo name="RFC" value="9605"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Omara" fullname="E. Omara"/>
+    <author initials="J." surname="Uberti" fullname="J. Uberti"/>
+    <author initials="S. G." surname="Murillo" fullname="S. G. Murillo"/>
+    <author initials="R." surname="Barnes" fullname="R. Barnes" role="editor"/>
+    <author initials="Y." surname="Fablet" fullname="Y. Fablet"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Secure Media Frames</workgroup>
+    <keyword>security</keyword>
+    <keyword>real-time media encryption</keyword>
+    <keyword>end-to-end encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Secure Frame (SFrame) end-to-end encryption and authentication mechanism for media frames in a multiparty conference call, in which central media servers (Selective Forwarding Units or SFUs) can access the media metadata needed to make forwarding decisions without having access to the actual media.&lt;/p&gt;&lt;p&gt;This mechanism differs from the Secure Real-Time Protocol (SRTP) in that it is independent of RTP (thus compatible with non-RTP media transport) and can be applied to whole media frames in order to be more bandwidth efficient.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

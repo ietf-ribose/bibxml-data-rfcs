@@ -1,0 +1,25 @@
+<reference anchor="RFC9059" target="https://www.rfc-editor.org/info/rfc9059">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for Associated Bidirectional Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9059"/>
+    <seriesInfo name="RFC" value="9059"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi" role="editor"/>
+    <author initials="C." surname="Barth" fullname="C. Barth"/>
+    <author initials="B." surname="Wen" fullname="B. Wen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2021"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>RSVP-TE LSP</keyword>
+    <keyword>Co-routed LSP</keyword>
+    <keyword>Reverse LSP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines Path Computation Element Communication Protocol (PCEP) extensions for grouping two unidirectional MPLS-TE Label Switched Paths (LSPs), one in each direction in the network, into an associated bidirectional LSP.  These PCEP extensions can be applied either using a stateful PCE for both PCE-initiated and PCC-initiated LSPs or using a stateless PCE.  The PCEP procedures defined are applicable to the LSPs using RSVP-TE for signaling.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

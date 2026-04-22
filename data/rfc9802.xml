@@ -1,0 +1,32 @@
+<reference anchor="RFC9802" target="https://www.rfc-editor.org/info/rfc9802">
+  <front>
+    <title>Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet X.509 Public Key Infrastructure</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9802"/>
+    <seriesInfo name="RFC" value="9802"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Van Geest" fullname="D. Van Geest"/>
+    <author initials="K." surname="Bashiri" fullname="K. Bashiri"/>
+    <author initials="S." surname="Fluhrer" fullname="S. Fluhrer"/>
+    <author initials="S." surname="Gazdag" fullname="S. Gazdag"/>
+    <author initials="S." surname="Kousidis" fullname="S. Kousidis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>HSS</keyword>
+    <keyword>LMS</keyword>
+    <keyword>XMSS</keyword>
+    <keyword>certificate</keyword>
+    <keyword>X.509</keyword>
+    <keyword>PKIX</keyword>
+    <keyword>stateful</keyword>
+    <keyword>hash-based</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies algorithm identifiers and ASN.1 encoding formats for the following stateful Hash-Based Signature (HBS) schemes: Hierarchical Signature System (HSS), eXtended Merkle Signature Scheme (XMSS), and XMSS^MT (a multi-tree variant of XMSS).  This specification applies to the Internet X.509 Public Key Infrastructure (PKI) when digital signatures are used to sign certificates and certificate revocation lists (CRLs).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

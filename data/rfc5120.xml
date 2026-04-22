@@ -1,0 +1,23 @@
+<reference anchor="RFC5120" target="https://www.rfc-editor.org/info/rfc5120">
+  <front>
+    <title>M-ISIS: Multi Topology (MT) Routing in Intermediate System to Intermediate Systems (IS-ISs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5120"/>
+    <seriesInfo name="RFC" value="5120"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author initials="N." surname="Shen" fullname="N. Shen"/>
+    <author initials="N." surname="Sheth" fullname="N. Sheth"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2008"></date>
+    <workgroup>IS-IS for IP Internets</workgroup>
+    <keyword>is-is</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an optional mechanism within Intermediate System to Intermediate Systems (IS-ISs) used today by many ISPs for IGP routing within their clouds.  This document describes how to run, within a single IS-IS domain, a set of independent IP topologies that we call Multi-Topologies (MTs).  This MT extension can be used for a variety of purposes, such as an in-band management network "on top" of the original IGP topology, maintaining separate IGP routing domains for isolated multicast or IPv6 islands within the backbone, or forcing a subset of an address space to follow a different topology. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

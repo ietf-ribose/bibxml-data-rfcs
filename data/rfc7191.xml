@@ -1,0 +1,19 @@
+<reference anchor="RFC7191" target="https://www.rfc-editor.org/info/rfc7191">
+  <front>
+    <title>Cryptographic Message Syntax (CMS) Key Package Receipt and Error Content Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7191"/>
+    <seriesInfo name="RFC" value="7191"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2014"></date>
+    <abstract>
+      <t>&lt;p&gt;This document defines the syntax for two Cryptographic Message Syntax (CMS) content types: one for key package receipts and another for key package errors.  The key package receipt content type is used to confirm receipt of an identified key package or collection of key packages.  The key package error content type is used to indicate an error occurred during the processing of a key package.  CMS can be used to digitally sign, digest, authenticate, or encrypt these content types.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

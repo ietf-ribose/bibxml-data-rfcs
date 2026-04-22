@@ -1,0 +1,29 @@
+<reference anchor="RFC9223" target="https://www.rfc-editor.org/info/rfc9223">
+  <front>
+    <title>Real-Time Transport Object Delivery over Unidirectional Transport (ROUTE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9223"/>
+    <seriesInfo name="RFC" value="9223"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="W." surname="Zia" fullname="W. Zia"/>
+    <author initials="T." surname="Stockhammer" fullname="T. Stockhammer"/>
+    <author initials="L." surname="Chaponniere" fullname="L. Chaponniere"/>
+    <author initials="G." surname="Mandyam" fullname="G. Mandyam"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2022"></date>
+    <keyword>Multicast</keyword>
+    <keyword>Broadcast</keyword>
+    <keyword>FEC</keyword>
+    <keyword>DASH</keyword>
+    <keyword>HLS</keyword>
+    <keyword>FLUTE</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Real-time Transport Object delivery over Unidirectional Transport (ROUTE) protocol is specified for robust delivery of Application Objects, including Application Objects with real-time delivery constraints, to receivers over a unidirectional transport. Application Objects consist of data that has meaning to applications that use the ROUTE protocol for delivery of data to receivers; for example, it can be a file, a Dynamic Adaptive Streaming over HTTP (DASH) or HTTP Live Streaming (HLS) segment, a WAV audio clip, etc. The ROUTE protocol also supports low-latency streaming applications.&lt;/p&gt;&lt;p&gt;The ROUTE protocol is suitable for unicast, broadcast, and multicast transport. Therefore, it can be run over UDP/IP, including multicast IP. The ROUTE protocol can leverage the features of the underlying protocol layer, e.g., to provide security, it can leverage IP security protocols such as IPsec.&lt;/p&gt;&lt;p&gt;This document specifies the ROUTE protocol such that it could be used by a variety of services for delivery of Application Objects by specifying their own profiles of this protocol (e.g., by adding or constraining some features).&lt;/p&gt;&lt;p&gt;This is not an IETF specification and does not have IETF consensus.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

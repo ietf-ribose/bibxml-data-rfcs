@@ -1,0 +1,24 @@
+<reference anchor="RFC9702" target="https://www.rfc-editor.org/info/rfc9702">
+  <front>
+    <title>YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD) Types and MPLS MSD</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9702"/>
+    <seriesInfo name="RFC" value="9702"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Qu" fullname="Y. Qu"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2025"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>MSD Types</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines two YANG modules.  The first module is the initial version of the IANA-maintained YANG module for Maximum Segment Identifier (SID) Depth (MSD) Types, which includes identities for both the MPLS data plane and Segment Routing over IPv6 (SRv6) data plane.  The second module augments the IETF MPLS YANG data model to provide support for MPLS MSDs as defined in RFCs 8476 and 8491.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

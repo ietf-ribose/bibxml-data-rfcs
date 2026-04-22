@@ -1,0 +1,24 @@
+<reference anchor="RFC4823" target="https://www.rfc-editor.org/info/rfc4823">
+  <front>
+    <title>FTP Transport for Secure Peer-to-Peer Business Data Interchange over the Internet</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4823"/>
+    <seriesInfo name="RFC" value="4823"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Harding" fullname="T. Harding"/>
+    <author initials="R." surname="Scott" fullname="R. Scott"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2007"></date>
+    <workgroup>Electronic Data Interchange-Internet Integration</workgroup>
+    <keyword>applicability statement</keyword>
+    <keyword>as</keyword>
+    <keyword>business-to-business</keyword>
+    <abstract>
+      <t>&lt;p&gt;This Applicability Statement (AS) describes how to exchange structured business data securely using the File Transfer Protocol (FTP) for XML, Binary, Electronic Data Interchange (EDI - ANSI X12 or UN/EDIFACT), or other data used for business-to-business data interchange for which MIME packaging can be accomplished using standard MIME content types.  Authentication and data confidentiality are obtained by using Cryptographic Message Syntax (S/MIME) security body parts.  Authenticated acknowledgements employ multipart/signed replies to the original message.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

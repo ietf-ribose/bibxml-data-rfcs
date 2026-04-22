@@ -1,0 +1,26 @@
+<reference anchor="RFC8296" target="https://www.rfc-editor.org/info/rfc8296">
+  <front>
+    <title>Encapsulation for Bit Index Explicit Replication (BIER) in MPLS and Non-MPLS Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8296"/>
+    <seriesInfo name="RFC" value="8296"/>
+    <seriesInfo name="IETF"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands" role="editor"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen" role="editor"/>
+    <author initials="A." surname="Dolganow" fullname="A. Dolganow"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author initials="I." surname="Meilik" fullname="I. Meilik"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2018"></date>
+    <workgroup>Bit Indexed Explicit Replication</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;Bit Index Explicit Replication (BIER) is an architecture that provides optimal multicast forwarding through a "multicast domain", without requiring intermediate routers to maintain any per-flow state or to engage in an explicit tree-building protocol.  When a multicast data packet enters the domain, the ingress router determines the set of egress routers to which the packet needs to be sent.  The ingress router then encapsulates the packet in a BIER header.  The BIER header contains a bit string in which each bit represents exactly one egress router in the domain; to forward the packet to a given set of egress routers, the bits corresponding to those routers are set in the BIER header.  The details of the encapsulation depend on the type of network used to realize the multicast domain.  This document specifies a BIER encapsulation that can be used in an MPLS network or, with slight differences, in a non-MPLS network.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

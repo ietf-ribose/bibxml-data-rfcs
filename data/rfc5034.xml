@@ -1,0 +1,25 @@
+<reference anchor="RFC5034" target="https://www.rfc-editor.org/info/rfc5034">
+  <front>
+    <title>The Post Office Protocol (POP3) Simple Authentication and Security Layer (SASL) Authentication Mechanism</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5034"/>
+    <seriesInfo name="RFC" value="5034"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Siemborski" fullname="R. Siemborski"/>
+    <author initials="A." surname="Menon-Sen" fullname="A. Menon-Sen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <keyword>POP3-AUTH</keyword>
+    <keyword>Post</keyword>
+    <keyword>Office</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>Email</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a profile of the Simple Authentication and Security Layer (SASL) for the Post Office Protocol (POP3). This extension allows a POP3 client to indicate an authentication mechanism to the server, perform an authentication protocol exchange, and optionally negotiate a security layer for subsequent protocol interactions during this session.&lt;/p&gt;&lt;p&gt;This document seeks to consolidate the information related to POP3 AUTH into a single document. To this end, this document obsoletes and replaces RFC 1734, and updates the information contained in Section 6.3 of RFC 2449. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

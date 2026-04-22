@@ -1,0 +1,23 @@
+<reference anchor="RFC9156" target="https://www.rfc-editor.org/info/rfc9156">
+  <front>
+    <title>DNS Query Name Minimisation to Improve Privacy</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9156"/>
+    <seriesInfo name="RFC" value="9156"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bortzmeyer" fullname="S. Bortzmeyer"/>
+    <author initials="R." surname="Dolmans" fullname="R. Dolmans"/>
+    <author initials="P." surname="Hoffman" fullname="P. Hoffman"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2021"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>QNAME</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a technique called "QNAME minimisation" to improve DNS privacy, where the DNS resolver no longer always sends the full original QNAME and original QTYPE to the upstream name server.  This document obsoletes RFC 7816.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

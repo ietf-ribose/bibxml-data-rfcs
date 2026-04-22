@@ -1,0 +1,29 @@
+<reference anchor="RFC5927" target="https://www.rfc-editor.org/info/rfc5927">
+  <front>
+    <title>ICMP Attacks against TCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5927"/>
+    <seriesInfo name="RFC" value="5927"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Gont" fullname="F. Gont"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2010"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>vulnerability</keyword>
+    <keyword>blind attacks</keyword>
+    <keyword>connection-reset attack</keyword>
+    <keyword>performance-degrading attack</keyword>
+    <keyword>throughput-reduction attack</keyword>
+    <keyword>source quench</keyword>
+    <keyword>PMTUD</keyword>
+    <keyword>Path-MTU Discovery</keyword>
+    <keyword>ICMP Destination Unreachable</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document discusses the use of the Internet Control Message Protocol (ICMP) to perform a variety of attacks against the Transmission Control Protocol (TCP).  Additionally, this document describes a number of widely implemented modifications to TCP's handling of ICMP error messages that help to mitigate these issues.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

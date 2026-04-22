@@ -1,0 +1,31 @@
+<reference anchor="RFC9899" target="https://www.rfc-editor.org/info/rfc9899">
+  <front>
+    <title>Extensions to the YANG Data Model for Access Control Lists (ACLs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9899"/>
+    <seriesInfo name="RFC" value="9899"/>
+    <seriesInfo name="IETF"/>
+    <author initials="O." surname="Gonzalez de Dios" fullname="O. Gonzalez de Dios"/>
+    <author initials="S." surname="Barguil" fullname="S. Barguil"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2025"></date>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>filtering</keyword>
+    <keyword>security</keyword>
+    <keyword>authorization</keyword>
+    <keyword>match</keyword>
+    <keyword>packet identification</keyword>
+    <keyword>scrubbing</keyword>
+    <keyword>packet pattern</keyword>
+    <keyword>payload filtering</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 8519 defines a YANG data model for Access Control Lists (ACLs). This document specifies a set of extensions that fix many of the limitations of the ACL model as initially defined in RFC 8519. Specifically, it introduces augmentations to the ACL base model to enhance its functionality and applicability.&lt;/p&gt;&lt;p&gt;This document also creates initial versions of IANA-maintained modules for ICMP types and IPv6 extension headers.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

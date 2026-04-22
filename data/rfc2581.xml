@@ -1,0 +1,25 @@
+<reference anchor="RFC2581" target="https://www.rfc-editor.org/info/rfc2581">
+  <front>
+    <title>TCP Congestion Control</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2581"/>
+    <seriesInfo name="RFC" value="2581"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Allman" fullname="M. Allman"/>
+    <author initials="V." surname="Paxson" fullname="V. Paxson"/>
+    <author initials="W." surname="Stevens" fullname="W. Stevens"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="1999"></date>
+    <workgroup>TCP Implementation</workgroup>
+    <keyword>TCP-CC</keyword>
+    <keyword>Transmission Control Protocol</keyword>
+    <keyword>Congestion Control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines TCP's four intertwined congestion control algorithms: slow start, congestion avoidance, fast retransmit, and fast recovery.  In addition, the document specifies how TCP should begin transmission after a relatively long idle period, as well as discussing various acknowledgment generation methods. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

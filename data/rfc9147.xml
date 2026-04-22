@@ -1,0 +1,23 @@
+<reference anchor="RFC9147" target="https://www.rfc-editor.org/info/rfc9147">
+  <front>
+    <title>The Datagram Transport Layer Security (DTLS) Protocol Version 1.3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9147"/>
+    <seriesInfo name="RFC" value="9147"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="N." surname="Modadugu" fullname="N. Modadugu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2022"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>Communication Security</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies version 1.3 of the Datagram Transport Layer Security (DTLS) protocol. DTLS 1.3 allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery.&lt;/p&gt;&lt;p&gt;The DTLS 1.3 protocol is based on the Transport Layer Security (TLS) 1.3 protocol and provides equivalent security guarantees with the exception of order protection / non-replayability. Datagram semantics of the underlying transport are preserved by the DTLS protocol.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 6347.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

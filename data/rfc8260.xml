@@ -1,0 +1,23 @@
+<reference anchor="RFC8260" target="https://www.rfc-editor.org/info/rfc8260">
+  <front>
+    <title>Stream Schedulers and User Message Interleaving for the Stream Control Transmission Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8260"/>
+    <seriesInfo name="RFC" value="8260"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Stewart" fullname="R. Stewart"/>
+    <author initials="M." surname="Tuexen" fullname="M. Tuexen"/>
+    <author initials="S." surname="Loreto" fullname="S. Loreto"/>
+    <author initials="R." surname="Seggelmann" fullname="R. Seggelmann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2017"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Stream Control Transmission Protocol (SCTP) is a message-oriented transport protocol supporting arbitrarily large user messages. This document adds a new chunk to SCTP for carrying payload data. This allows a sender to interleave different user messages that would otherwise result in head-of-line blocking at the sender. The interleaving of user messages is required for WebRTC data channels.&lt;/p&gt;&lt;p&gt;Whenever an SCTP sender is allowed to send user data, it may choose from multiple outgoing SCTP streams. Multiple ways for performing this selection, called stream schedulers, are defined in this document. A stream scheduler can choose to either implement, or not implement, user message interleaving.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

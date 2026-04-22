@@ -1,0 +1,27 @@
+<reference anchor="RFC8042" target="https://www.rfc-editor.org/info/rfc8042">
+  <front>
+    <title>OSPF Two-Part Metric</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8042"/>
+    <seriesInfo name="RFC" value="8042"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="L." surname="Wang" fullname="L. Wang"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2016"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>OSPF</keyword>
+    <keyword>Broadcast</keyword>
+    <keyword>Interface</keyword>
+    <keyword>SPF metrics</keyword>
+    <keyword>Radio Networks</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an optional OSPF protocol extension to represent router metrics in a multi-access network in two parts: the metric from the router to the network and the metric from the network to the router.  For such networks, the router-to-router metric for OSPF route computation is the sum of the two parts.  This document updates RFC 2328.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

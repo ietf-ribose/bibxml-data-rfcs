@@ -1,0 +1,29 @@
+<reference anchor="RFC7306" target="https://www.rfc-editor.org/info/rfc7306">
+  <front>
+    <title>Remote Direct Memory Access (RDMA) Protocol Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7306"/>
+    <seriesInfo name="RFC" value="7306"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Shah" fullname="H. Shah"/>
+    <author initials="F." surname="Marti" fullname="F. Marti"/>
+    <author initials="W." surname="Noureddine" fullname="W. Noureddine"/>
+    <author initials="A." surname="Eiriksson" fullname="A. Eiriksson"/>
+    <author initials="R." surname="Sharp" fullname="R. Sharp"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2014"></date>
+    <workgroup>STORage Maintenance</workgroup>
+    <keyword>iWARP</keyword>
+    <keyword>RDMAP</keyword>
+    <keyword>DDP</keyword>
+    <keyword>RDMA</keyword>
+    <keyword>DMA</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies extensions to the IETF Remote Direct Memory Access Protocol (RDMAP) as specified in RFC 5040.  RDMAP provides read and write services directly to applications and enables data to be transferred directly into Upper-Layer Protocol (ULP) Buffers without intermediate data copies.  The extensions specified in this document provide the following capabilities and/or improvements: Atomic Operations and Immediate Data.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

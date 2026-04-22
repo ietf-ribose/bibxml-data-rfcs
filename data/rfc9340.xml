@@ -1,0 +1,30 @@
+<reference anchor="RFC9340" target="https://www.rfc-editor.org/info/rfc9340">
+  <front>
+    <title>Architectural Principles for a Quantum Internet</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9340"/>
+    <seriesInfo name="RFC" value="9340"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="W." surname="Kozlowski" fullname="W. Kozlowski"/>
+    <author initials="S." surname="Wehner" fullname="S. Wehner"/>
+    <author initials="R." surname="Van Meter" fullname="R. Van Meter"/>
+    <author initials="B." surname="Rijsman" fullname="B. Rijsman"/>
+    <author initials="A. S." surname="Cacciapuoti" fullname="A. S. Cacciapuoti"/>
+    <author initials="M." surname="Caleffi" fullname="M. Caleffi"/>
+    <author initials="S." surname="Nagayama" fullname="S. Nagayama"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2023"></date>
+    <keyword>Quantum Internet</keyword>
+    <keyword>Architecture</keyword>
+    <keyword>Repeater</keyword>
+    <keyword>Bell Pair</keyword>
+    <keyword>EPR Pair</keyword>
+    <abstract>
+      <t>&lt;p&gt;The vision of a quantum internet is to enhance existing Internet technology by enabling quantum communication between any two points on Earth.  To achieve this goal, a quantum network stack should be built from the ground up to account for the fundamentally new properties of quantum entanglement.  The first quantum entanglement networks have been realised, but there is no practical proposal for how to organise, utilise, and manage such networks.  In this document, we attempt to lay down the framework and introduce some basic architectural principles for a quantum internet.  This is intended for general guidance and general interest.  It is also intended to provide a foundation for discussion between physicists and network specialists.  This document is a product of the Quantum Internet Research Group (QIRG).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

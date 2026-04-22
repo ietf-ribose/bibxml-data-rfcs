@@ -1,0 +1,27 @@
+<reference anchor="RFC5447" target="https://www.rfc-editor.org/info/rfc5447">
+  <front>
+    <title>Diameter Mobile IPv6: Support for Network Access Server to Diameter Server Interaction</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5447"/>
+    <seriesInfo name="RFC" value="5447"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Korhonen" fullname="J. Korhonen" role="editor"/>
+    <author initials="J." surname="Bournelle" fullname="J. Bournelle"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author initials="K." surname="Chowdhury" fullname="K. Chowdhury"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2009"></date>
+    <workgroup>Diameter Maintenance and Extensions</workgroup>
+    <keyword>Diameter</keyword>
+    <keyword>Mobile IPv6</keyword>
+    <keyword>Integrated Scenario</keyword>
+    <abstract>
+      <t>&lt;p&gt;A Mobile IPv6 node requires a home agent address, a home address, and a security association with its home agent before it can start utilizing Mobile IPv6.  RFC 3775 requires that some or all of these parameters be statically configured.  Mobile IPv6 bootstrapping work aims to make this information dynamically available to the mobile node.  An important aspect of the Mobile IPv6 bootstrapping solution is to support interworking with existing Authentication, Authorization, and Accounting (AAA) infrastructures.  This document describes MIPv6 bootstrapping using the Diameter Network Access Server to home AAA server interface. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

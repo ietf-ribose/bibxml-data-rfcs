@@ -1,0 +1,28 @@
+<reference anchor="RFC9351" target="https://www.rfc-editor.org/info/rfc9351">
+  <front>
+    <title>Border Gateway Protocol - Link State (BGP-LS) Extensions for Flexible Algorithm Advertisement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9351"/>
+    <seriesInfo name="RFC" value="9351"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="S." surname="Zandi" fullname="S. Zandi"/>
+    <author initials="G." surname="Dawra" fullname="G. Dawra"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2023"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP-LS</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>OSPFv3</keyword>
+    <abstract>
+      <t>&lt;p&gt;Flexible Algorithm is a solution that allows some routing protocols (e.g., OSPF and IS-IS) to compute paths over a network based on user-defined (and hence, flexible) constraints and metrics. The computation is performed by routers participating in the specific network in a distributed manner using a Flexible Algorithm Definition (FAD). This definition is provisioned on one or more routers and propagated through the network by OSPF and IS-IS flooding.&lt;/p&gt;&lt;p&gt;Border Gateway Protocol - Link State (BGP-LS) enables the collection of various topology information from the network. This document defines extensions to the BGP-LS address family to advertise the FAD as a part of the topology information from the network.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

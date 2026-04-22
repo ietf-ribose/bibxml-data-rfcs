@@ -1,0 +1,27 @@
+<reference anchor="RFC8570" target="https://www.rfc-editor.org/info/rfc8570">
+  <front>
+    <title>IS-IS Traffic Engineering (TE) Metric Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8570"/>
+    <seriesInfo name="RFC" value="8570"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Ginsberg" fullname="L. Ginsberg" role="editor"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi" role="editor"/>
+    <author initials="S." surname="Giacalone" fullname="S. Giacalone"/>
+    <author initials="D." surname="Ward" fullname="D. Ward"/>
+    <author initials="J." surname="Drake" fullname="J. Drake"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2019"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>IGP</keyword>
+    <keyword>IS-IS</keyword>
+    <abstract>
+      <t>&lt;p&gt;In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network-performance criteria (e.g., latency) are becoming as critical to data-path selection as other metrics.&lt;/p&gt;&lt;p&gt;This document describes extensions to IS-IS Traffic Engineering Extensions (RFC 5305). These extensions provide a way to distribute and collect network-performance information in a scalable fashion. The information distributed using IS-IS TE Metric Extensions can then be used to make path-selection decisions based on network performance.&lt;/p&gt;&lt;p&gt;Note that this document only covers the mechanisms with which network-performance information is distributed. The mechanisms for measuring network performance or acting on that information, once distributed, are outside the scope of this document.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 7810.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

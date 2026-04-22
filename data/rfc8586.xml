@@ -1,0 +1,23 @@
+<reference anchor="RFC8586" target="https://www.rfc-editor.org/info/rfc8586">
+  <front>
+    <title>Loop Detection in Content Delivery Networks (CDNs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8586"/>
+    <seriesInfo name="RFC" value="8586"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Ludin" fullname="S. Ludin"/>
+    <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+    <author initials="N." surname="Sullivan" fullname="N. Sullivan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2019"></date>
+    <workgroup>HTTP</workgroup>
+    <keyword>CDN-Loop,</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the CDN-Loop request header field for HTTP.  CDN-Loop addresses an operational need that occurs when an HTTP request is intentionally forwarded between Content Delivery Networks (CDNs), but is then accidentally or maliciously re-routed back into the original CDN causing a non-terminating loop.  The new header field can be used to identify the error and terminate the loop.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

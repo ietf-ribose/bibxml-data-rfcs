@@ -1,0 +1,27 @@
+<reference anchor="RFC9872" target="https://www.rfc-editor.org/info/rfc9872">
+  <front>
+    <title>Recommendations for Discovering IPv6 Prefix Used for IPv6 Address Synthesis</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9872"/>
+    <seriesInfo name="RFC" value="9872"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Buraglio" fullname="N. Buraglio"/>
+    <author initials="T." surname="Jensen" fullname="T. Jensen"/>
+    <author initials="J." surname="Linkova" fullname="J. Linkova"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>IPv6 Operations</workgroup>
+    <keyword>IPv6</keyword>
+    <keyword>DNS64</keyword>
+    <keyword>PREF64</keyword>
+    <keyword>NAT64</keyword>
+    <keyword>CLAT</keyword>
+    <abstract>
+      <t>&lt;p&gt;On networks providing IPv4-IPv6 translation (RFC 7915), hosts and other endpoints need to know the IPv6 prefix(es) used for translation (the NAT64 prefix (RFC 6052)).  This document provides guidelines for NAT64 prefix discovery, specifically recommending obtaining the NAT64 prefix from the Router Advertisement option (RFC 8781) when available.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

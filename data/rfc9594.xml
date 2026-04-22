@@ -1,0 +1,25 @@
+<reference anchor="RFC9594" target="https://www.rfc-editor.org/info/rfc9594">
+  <front>
+    <title>Key Provisioning for Group Communication Using Authentication and Authorization for Constrained Environments (ACE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9594"/>
+    <seriesInfo name="RFC" value="9594"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Palombini" fullname="F. Palombini"/>
+    <author initials="M." surname="Tiloca" fullname="M. Tiloca"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2024"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>Key Management</keyword>
+    <keyword>Access Control</keyword>
+    <keyword>Constrained Application Protocol (CoAP)</keyword>
+    <keyword>Secure group communication</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines how to use the Authentication and Authorization for Constrained Environments (ACE) framework to distribute keying material and configuration parameters for secure group communication.  Candidate group members that act as Clients and are authorized to join a group can do so by interacting with a Key Distribution Center (KDC) acting as the Resource Server, from which they obtain the keying material to communicate with other group members.  While defining general message formats as well as the interface and operations available at the KDC, this document supports different approaches and protocols for secure group communication.  Therefore, details are delegated to separate application profiles of this document as specialized instances that target a particular group communication approach and define how communications in the group are protected.  Compliance requirements for such application profiles are also specified.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

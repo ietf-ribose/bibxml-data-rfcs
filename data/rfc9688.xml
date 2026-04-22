@@ -1,0 +1,23 @@
+<reference anchor="RFC9688" target="https://www.rfc-editor.org/info/rfc9688">
+  <front>
+    <title>Use of the SHA3 One-Way Hash Functions in the Cryptographic Message Syntax (CMS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9688"/>
+    <seriesInfo name="RFC" value="9688"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2024"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>HKDF</keyword>
+    <keyword>KMAC128-KDF</keyword>
+    <keyword>KMAC256-KDF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the conventions for using the one-way hash functions in the SHA3 family with the Cryptographic Message Syntax (CMS).  The SHA3 family can be used as a message digest algorithm, as part of a signature algorithm, as part of a message authentication code, or as part of a Key Derivation Function (KDF).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

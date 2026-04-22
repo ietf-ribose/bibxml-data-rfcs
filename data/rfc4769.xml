@@ -1,0 +1,25 @@
+<reference anchor="RFC4769" target="https://www.rfc-editor.org/info/rfc4769">
+  <front>
+    <title>IANA Registration for an Enumservice Containing Public Switched Telephone Network (PSTN) Signaling Information</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4769"/>
+    <seriesInfo name="RFC" value="4769"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Livingood" fullname="J. Livingood"/>
+    <author initials="R." surname="Shockey" fullname="R. Shockey"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2006"></date>
+    <workgroup>Telephone Number Mapping</workgroup>
+    <keyword>tel</keyword>
+    <keyword>uri</keyword>
+    <keyword>uri scheme</keyword>
+    <keyword>sip</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document registers the Enumservice type "pstn" and subtype "tel" using the URI scheme 'tel', as well as the subtype "sip" using the URI scheme 'sip' as per the IANA registration process defined in the ENUM specification, RFC 3761.  This Enumservice is used to facilitate the routing of telephone calls in those countries where number portability exists. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

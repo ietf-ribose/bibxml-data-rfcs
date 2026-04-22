@@ -1,0 +1,25 @@
+<reference anchor="RFC5782" target="https://www.rfc-editor.org/info/rfc5782">
+  <front>
+    <title>DNS Blacklists and Whitelists</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5782"/>
+    <seriesInfo name="RFC" value="5782"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="J." surname="Levine" fullname="J. Levine"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2010"></date>
+    <keyword>mail</keyword>
+    <keyword>electronic mail</keyword>
+    <keyword>DNS</keyword>
+    <keyword>spam</keyword>
+    <keyword>blacklist</keyword>
+    <keyword>whitelist</keyword>
+    <abstract>
+      <t>&lt;p&gt;The rise of spam and other anti-social behavior on the Internet has led to the creation of shared blacklists and whitelists of IP addresses or domains.  The DNS has become the de-facto standard method of distributing these blacklists and whitelists.  This memo documents the structure and usage of DNS-based blacklists and whitelists, and the protocol used to query them.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

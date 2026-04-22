@@ -1,0 +1,26 @@
+<reference anchor="RFC8394" target="https://www.rfc-editor.org/info/rfc8394">
+  <front>
+    <title>Split Network Virtualization Edge (Split-NVE) Control-Plane Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8394"/>
+    <seriesInfo name="RFC" value="8394"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Li" fullname="Y. Li"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author initials="L." surname="Kreeger" fullname="L. Kreeger"/>
+    <author initials="T." surname="Narten" fullname="T. Narten"/>
+    <author initials="D." surname="Black" fullname="D. Black"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2018"></date>
+    <workgroup>Network Virtualization Overlays</workgroup>
+    <keyword>NVO3</keyword>
+    <keyword>VDP</keyword>
+    <abstract>
+      <t>&lt;p&gt;In the Split Network Virtualization Edge (Split-NVE) architecture, the functions of the NVE are split across a server and a piece of external network equipment that is called an "External NVE". The server-resident control-plane functionality resides in control software, which may be part of hypervisor or container-management software; for simplicity, this document refers to the hypervisor as the "location" of this software.&lt;/p&gt;&lt;p&gt;One or more control-plane protocols between a hypervisor and its associated External NVE(s) are used by the hypervisor to distribute its virtual-machine networking state to the External NVE(s) for further handling. This document illustrates the functionality required by this type of control-plane signaling protocol and outlines the high-level requirements. Virtual-machine states as well as state transitioning are summarized to help clarify the protocol requirements.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

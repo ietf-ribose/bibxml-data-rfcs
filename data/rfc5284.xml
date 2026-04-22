@@ -1,0 +1,24 @@
+<reference anchor="RFC5284" target="https://www.rfc-editor.org/info/rfc5284">
+  <front>
+    <title>User-Defined Errors for RSVP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5284"/>
+    <seriesInfo name="RFC" value="5284"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2008"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>resource reservation protocol</keyword>
+    <keyword>user_error_spec</keyword>
+    <keyword>error_spec</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Resource ReserVation Protocol (RSVP) defines an ERROR_SPEC object for communicating errors. That object has a defined format that permits the definition of 256 error codes. As RSVP has been developed and extended, the convention has been to be conservative in defining new error codes. Further, no provision for user-defined errors exists in RSVP.&lt;/p&gt;&lt;p&gt;This document defines a USER_ERROR_SPEC to be used in addition to the ERROR_SPEC to carry additional user information related to errors. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

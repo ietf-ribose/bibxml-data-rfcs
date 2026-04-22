@@ -1,0 +1,27 @@
+<reference anchor="RFC2632" target="https://www.rfc-editor.org/info/rfc2632">
+  <front>
+    <title>S/MIME Version 3 Certificate Handling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2632"/>
+    <seriesInfo name="RFC" value="2632"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Ramsdell" fullname="B. Ramsdell" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="1999"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>encryption</keyword>
+    <keyword>certificate</keyword>
+    <keyword>multipurpose</keyword>
+    <keyword>internet</keyword>
+    <keyword>mail</keyword>
+    <keyword>extensions</keyword>
+    <keyword>secure</keyword>
+    <abstract>
+      <t>&lt;p&gt;S/MIME (Secure/Multipurpose Internet Mail Extensions), provides a method to send and receive secure MIME messages.  Before using a public key to provide security services, the S/MIME agent MUST certify that the public key is valid.  S/MIME agents MUST use PKIX certificates to validate public keys as described in the Internet X.509 Public Key Infrastructure (PKIX) Certificate and CRL Profile. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

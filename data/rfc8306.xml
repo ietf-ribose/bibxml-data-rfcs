@@ -1,0 +1,23 @@
+<reference anchor="RFC8306" target="https://www.rfc-editor.org/info/rfc8306">
+  <front>
+    <title>Extensions to the Path Computation Element Communication Protocol (PCEP) for Point-to-Multipoint Traffic Engineering Label Switched Paths</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8306"/>
+    <seriesInfo name="RFC" value="8306"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Zhao" fullname="Q. Zhao"/>
+    <author initials="D." surname="Dhody" fullname="D. Dhody" role="editor"/>
+    <author initials="R." surname="Palleti" fullname="R. Palleti"/>
+    <author initials="D." surname="King" fullname="D. King"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2017"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Point-to-point Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering Label Switched Paths (TE LSPs) may be established using signaling techniques, but their paths may first need to be determined. The Path Computation Element (PCE) has been identified as an appropriate technology for the determination of the paths of point-to-multipoint (P2MP) TE LSPs.&lt;/p&gt;&lt;p&gt;This document describes extensions to the PCE Communication Protocol (PCEP) to handle requests and responses for the computation of paths for P2MP TE LSPs.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 6006.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

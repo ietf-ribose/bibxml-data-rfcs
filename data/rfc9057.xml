@@ -1,0 +1,33 @@
+<reference anchor="RFC9057" target="https://www.rfc-editor.org/info/rfc9057">
+  <front>
+    <title>Email Author Header Field</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9057"/>
+    <seriesInfo name="RFC" value="9057"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="D." surname="Crocker" fullname="D. Crocker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2021"></date>
+    <keyword>domain</keyword>
+    <keyword>email</keyword>
+    <keyword>security</keyword>
+    <keyword>messaging</keyword>
+    <keyword>dkim</keyword>
+    <keyword>spf</keyword>
+    <keyword>authentication</keyword>
+    <keyword>reporting</keyword>
+    <keyword>conformance</keyword>
+    <keyword>author</keyword>
+    <keyword>origination</keyword>
+    <keyword>original</keyword>
+    <keyword>from</keyword>
+    <keyword>sender</keyword>
+    <abstract>
+      <t>&lt;p&gt;Internet mail defines the From: header field to indicate the author of the message's content and the Sender: field to indicate who initially handled the message on the author's behalf. The Sender: field is optional if it has the same information as the From: field. This was not a problem until development of stringent protections on use of the From: field. It has prompted Mediators, such as mailing lists, to modify the From: field to circumvent mail rejection caused by those protections. In effect, the From: field has become dominated by its role as a handling identifier.&lt;/p&gt;&lt;p&gt;The current specification augments the altered use of the From: field by specifying the Author: field, which ensures identification of the original author of the message and is not subject to modification by Mediators. This document is published as an Experimental RFC to assess community interest, functional efficacy, and technical adequacy.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC5236" target="https://www.rfc-editor.org/info/rfc5236">
+  <front>
+    <title>Improved Packet Reordering Metrics</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5236"/>
+    <seriesInfo name="RFC" value="5236"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="A." surname="Jayasumana" fullname="A. Jayasumana"/>
+    <author initials="N." surname="Piratla" fullname="N. Piratla"/>
+    <author initials="T." surname="Banka" fullname="T. Banka"/>
+    <author initials="A." surname="Bare" fullname="A. Bare"/>
+    <author initials="R." surname="Whitner" fullname="R. Whitner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2008"></date>
+    <keyword>reorder density</keyword>
+    <keyword>rd</keyword>
+    <keyword>reorder buffer-occupancy density</keyword>
+    <keyword>rbd</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents two improved metrics for packet reordering, namely, Reorder Density (RD) and Reorder Buffer-occupancy Density (RBD). A threshold is used to clearly define when a packet is considered lost, to bound computational complexity at O(N), and to keep the memory requirement for evaluation independent of N, where N is the length of the packet sequence. RD is a comprehensive metric that captures the characteristics of reordering, while RBD evaluates the sequences from the point of view of recovery from reordering.&lt;/p&gt;&lt;p&gt;These metrics are simple to compute yet comprehensive in their characterization of packet reordering. The measures are robust and orthogonal to packet loss and duplication. This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

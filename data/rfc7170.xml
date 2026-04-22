@@ -1,0 +1,25 @@
+<reference anchor="RFC7170" target="https://www.rfc-editor.org/info/rfc7170">
+  <front>
+    <title>Tunnel Extensible Authentication Protocol (TEAP) Version 1</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7170"/>
+    <seriesInfo name="RFC" value="7170"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Zhou" fullname="H. Zhou"/>
+    <author initials="N." surname="Cam-Winget" fullname="N. Cam-Winget"/>
+    <author initials="J." surname="Salowey" fullname="J. Salowey"/>
+    <author initials="S." surname="Hanna" fullname="S. Hanna"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2014"></date>
+    <workgroup>EAP Method Update</workgroup>
+    <keyword>EAP</keyword>
+    <keyword>Tunnel</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Tunnel Extensible Authentication Protocol (TEAP) version 1.  TEAP is a tunnel-based EAP method that enables secure communication between a peer and a server by using the Transport Layer Security (TLS) protocol to establish a mutually authenticated tunnel.  Within the tunnel, TLV objects are used to convey authentication-related data between the EAP peer and the EAP server.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

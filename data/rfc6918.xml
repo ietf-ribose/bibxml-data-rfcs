@@ -1,0 +1,22 @@
+<reference anchor="RFC6918" target="https://www.rfc-editor.org/info/rfc6918">
+  <front>
+    <title>Formally Deprecating Some ICMPv4 Message Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6918"/>
+    <seriesInfo name="RFC" value="6918"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Gont" fullname="F. Gont"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2013"></date>
+    <keyword>IANA</keyword>
+    <keyword>IPv4 Options</keyword>
+    <abstract>
+      <t>&lt;p&gt;A number of ICMPv4 message types have become obsolete in practice, but have never been formally deprecated.  This document deprecates such ICMPv4 message types, thus cleaning up the corresponding IANA registry.  Additionally, it updates RFC 792 and RFC 950, obsoletes RFC 1788, and requests the RFC Editor to change the status of RFC 1788 to Historic.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

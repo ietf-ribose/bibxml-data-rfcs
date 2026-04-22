@@ -1,0 +1,34 @@
+<reference anchor="RFC2622" target="https://www.rfc-editor.org/info/rfc2622">
+  <front>
+    <title>Routing Policy Specification Language (RPSL)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2622"/>
+    <seriesInfo name="RFC" value="2622"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Alaettinoglu" fullname="C. Alaettinoglu"/>
+    <author initials="C." surname="Villamizar" fullname="C. Villamizar"/>
+    <author initials="E." surname="Gerich" fullname="E. Gerich"/>
+    <author initials="D." surname="Kessens" fullname="D. Kessens"/>
+    <author initials="D." surname="Meyer" fullname="D. Meyer"/>
+    <author initials="T." surname="Bates" fullname="T. Bates"/>
+    <author initials="D." surname="Karrenberg" fullname="D. Karrenberg"/>
+    <author initials="M." surname="Terpstra" fullname="M. Terpstra"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="1999"></date>
+    <workgroup>Routing Policy System</workgroup>
+    <keyword>RPSL</keyword>
+    <keyword>Routing Policy Specification Language</keyword>
+    <keyword>internet</keyword>
+    <keyword>policy</keyword>
+    <keyword>hierarchy</keyword>
+    <keyword>network</keyword>
+    <keyword>configuration</keyword>
+    <abstract>
+      <t>&lt;p&gt;RPSL allows a network operator to be able to specify routing policies at various levels in the Internet hierarchy; for example at the Autonomous System (AS) level.  At the same time, policies can be specified with sufficient detail in RPSL so that low level router configurations can be generated from them.  RPSL is extensible; new routing protocols and new protocol features can be introduced at any time. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

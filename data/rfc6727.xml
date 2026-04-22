@@ -1,0 +1,28 @@
+<reference anchor="RFC6727" target="https://www.rfc-editor.org/info/rfc6727">
+  <front>
+    <title>Definitions of Managed Objects for Packet Sampling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6727"/>
+    <seriesInfo name="RFC" value="6727"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Dietz" fullname="T. Dietz" role="editor"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author initials="J." surname="Quittek" fullname="J. Quittek"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2012"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>PSAMP</keyword>
+    <keyword>IPFIX</keyword>
+    <keyword>MIB</keyword>
+    <keyword>Sampling</keyword>
+    <keyword>Filtering</keyword>
+    <keyword>Selection</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes extensions to the IPFIX-SELECTOR-MIB module.  For IP Flow Information eXport (IPFIX) implementations that use Packet Sampling (PSAMP) techniques, this memo defines the PSAMP- MIB module containing managed objects for providing information on applied packet selection functions and their parameters. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

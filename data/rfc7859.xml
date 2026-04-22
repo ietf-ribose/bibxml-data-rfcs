@@ -1,0 +1,32 @@
+<reference anchor="RFC7859" target="https://www.rfc-editor.org/info/rfc7859">
+  <front>
+    <title>Identity-Based Signatures for Mobile Ad Hoc Network (MANET) Routing Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7859"/>
+    <seriesInfo name="RFC" value="7859"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Dearlove" fullname="C. Dearlove"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Mobile Ad-hoc Networks</workgroup>
+    <keyword>Mobile Ad hoc Networking (MANET)</keyword>
+    <keyword>MANET</keyword>
+    <keyword>TLV</keyword>
+    <keyword>OLSRv2</keyword>
+    <keyword>integrity check value</keyword>
+    <keyword>ICV</keyword>
+    <keyword>ECCSI</keyword>
+    <keyword>elliptic curve</keyword>
+    <keyword>identity-based signature</keyword>
+    <keyword>IBS</keyword>
+    <keyword>identity-based encryption</keyword>
+    <keyword>IBE</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document extends RFC 7182, which specifies a framework for (and specific examples of) Integrity Check Values (ICVs) for packets and messages using the generalized packet/message format specified in RFC 5444.  It does so by defining an additional cryptographic function that allows the creation of an ICV that is an Identity-Based Signature (IBS), defined according to the Elliptic Curve-Based Certificateless Signatures for Identity-Based Encryption (ECCSI) algorithm specified in RFC 6507.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

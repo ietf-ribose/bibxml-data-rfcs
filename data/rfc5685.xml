@@ -1,0 +1,27 @@
+<reference anchor="RFC5685" target="https://www.rfc-editor.org/info/rfc5685">
+  <front>
+    <title>Redirect Mechanism for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5685"/>
+    <seriesInfo name="RFC" value="5685"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Devarapalli" fullname="V. Devarapalli"/>
+    <author initials="K." surname="Weniger" fullname="K. Weniger"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2009"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>IKEv2 Redirect</keyword>
+    <keyword>REDIRECT</keyword>
+    <keyword>REDIRECTED_FROM</keyword>
+    <keyword>anycast redirect</keyword>
+    <keyword>home agent redirect</keyword>
+    <keyword>VPN gateway direct</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Internet Key Exchange Protocol version 2 (IKEv2) is a protocol for setting up Virtual Private Network (VPN) tunnels from a remote location to a gateway so that the VPN client can access services in the network behind the gateway.  This document defines an IKEv2 extension that allows an overloaded VPN gateway or a VPN gateway that is being shut down for maintenance to redirect the VPN client to attach to another gateway.  The proposed mechanism can also be used in Mobile IPv6 to enable the home agent to redirect the mobile node to another home agent. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

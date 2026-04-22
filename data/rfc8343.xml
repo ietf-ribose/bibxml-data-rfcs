@@ -1,0 +1,20 @@
+<reference anchor="RFC8343" target="https://www.rfc-editor.org/info/rfc8343">
+  <front>
+    <title>A YANG Data Model for Interface Management</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8343"/>
+    <seriesInfo name="RFC" value="8343"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bjorklund" fullname="M. Bjorklund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2018"></date>
+    <workgroup>Network Modeling</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a YANG data model for the management of network interfaces. It is expected that interface-type-specific data models augment the generic interfaces data model defined in this document. The data model includes definitions for configuration and system state (status information and counters for the collection of statistics).&lt;/p&gt;&lt;p&gt;The YANG data model in this document conforms to the Network Management Datastore Architecture (NMDA) defined in RFC 8342.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 7223.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

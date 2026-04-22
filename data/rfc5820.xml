@@ -1,0 +1,28 @@
+<reference anchor="RFC5820" target="https://www.rfc-editor.org/info/rfc5820">
+  <front>
+    <title>Extensions to OSPF to Support Mobile Ad Hoc Networking</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5820"/>
+    <seriesInfo name="RFC" value="5820"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Roy" fullname="A. Roy" role="editor"/>
+    <author initials="M." surname="Chandra" fullname="M. Chandra" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2010"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>open shortest path first</keyword>
+    <keyword>manet</keyword>
+    <keyword>ospf-or</keyword>
+    <keyword>ospf-overlapping relay</keyword>
+    <keyword>link-local signaling</keyword>
+    <keyword>lls</keyword>
+    <keyword>ospf-manet</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes extensions to OSPF to support mobile ad hoc networks (MANETs).  The extensions, called OSPF-OR (OSPF-Overlapping Relay), include mechanisms for link-local signaling (LLS), an OSPF-MANET interface, a simple technique to reduce the size of Hello packets by only transmitting incremental state changes, and a method for optimized flooding of routing updates.  OSPF-OR also provides a means to reduce unnecessary adjacencies to support larger MANETs. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

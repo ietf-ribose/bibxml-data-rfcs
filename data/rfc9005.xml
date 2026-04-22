@@ -1,0 +1,26 @@
+<reference anchor="RFC9005" target="https://www.rfc-editor.org/info/rfc9005">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extension for Associating Policies and Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9005"/>
+    <seriesInfo name="RFC" value="9005"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="S." surname="Sivabalan" fullname="S. Sivabalan"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author initials="J." surname="Hardwick" fullname="J. Hardwick"/>
+    <author initials="C." surname="Li" fullname="C. Li"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2021"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>Association</keyword>
+    <keyword>Policy</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document introduces a simple mechanism to associate policies with a group of Label Switched Paths (LSPs) via an extension to the Path Computation Element Communication Protocol (PCEP).  The extension allows a PCEP speaker to advertise to a PCEP peer that a particular LSP belongs to a particular Policy Association Group (PAG).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

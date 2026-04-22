@@ -1,0 +1,21 @@
+<reference anchor="RFC8849" target="https://www.rfc-editor.org/info/rfc8849">
+  <front>
+    <title>Mapping RTP Streams to Controlling Multiple Streams for Telepresence (CLUE) Media Captures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8849"/>
+    <seriesInfo name="RFC" value="8849"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Even" fullname="R. Even"/>
+    <author initials="J." surname="Lennox" fullname="J. Lennox"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>ControLling mUltiple streams for tElepresence</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes how the Real-time Transport Protocol (RTP) is used in the context of the Controlling Multiple Streams for Telepresence (CLUE) protocol.  It also describes the mechanisms and recommended practice for mapping RTP media streams, as defined in the Session Description Protocol (SDP), to CLUE Media Captures and defines a new RTP header extension (CaptureID).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

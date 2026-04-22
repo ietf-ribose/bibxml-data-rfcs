@@ -1,0 +1,27 @@
+<reference anchor="RFC7852" target="https://www.rfc-editor.org/info/rfc7852">
+  <front>
+    <title>Additional Data Related to an Emergency Call</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7852"/>
+    <seriesInfo name="RFC" value="7852"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Gellens" fullname="R. Gellens"/>
+    <author initials="B." surname="Rosen" fullname="B. Rosen"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="R." surname="Marshall" fullname="R. Marshall"/>
+    <author initials="J." surname="Winterbottom" fullname="J. Winterbottom"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2016"></date>
+    <workgroup>Emergency Context Resolution with Internet Technologies</workgroup>
+    <keyword>Additional Call Data</keyword>
+    <keyword>Emergency Services</keyword>
+    <keyword>Call Information</keyword>
+    <abstract>
+      <t>&lt;p&gt;When an emergency call is sent to a Public Safety Answering Point (PSAP), the originating device, the access network provider to which the device is connected, and all service providers in the path of the call have information about the call, the caller, or the location, which is helpful for the PSAP to have in handling the emergency. This document describes data structures and mechanisms to convey such data to the PSAP. The intent is that every emergency call carry as much of the information described here as possible using the mechanisms described here.&lt;/p&gt;&lt;p&gt;The mechanisms permit the data to be conveyed by reference (as an external resource) or by value (within the body of a SIP message or a location object). This follows the tradition of prior emergency services standardization work where data can be conveyed by value within the call signaling (i.e., in the body of the SIP message) or by reference.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

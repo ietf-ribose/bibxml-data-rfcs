@@ -1,0 +1,21 @@
+<reference anchor="RFC9227" target="https://www.rfc-editor.org/info/rfc9227">
+  <front>
+    <title>Using GOST Ciphers in the Encapsulating Security Payload (ESP) and Internet Key Exchange Version 2 (IKEv2) Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9227"/>
+    <seriesInfo name="RFC" value="9227"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="V." surname="Smyslov" fullname="V. Smyslov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2022"></date>
+    <keyword>AEAD</keyword>
+    <keyword>MGM</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a set of encryption transforms for use in the Encapsulating Security Payload (ESP) and in the Internet Key Exchange version 2 (IKEv2) protocols, which are parts of the IP Security (IPsec) protocol suite. The transforms are based on the GOST R 34.12-2015 block ciphers (which are named "Magma" and "Kuznyechik") in Multilinear Galois Mode (MGM) and the external rekeying approach.&lt;/p&gt;&lt;p&gt;This specification was developed to facilitate implementations that wish to support the GOST algorithms. This document does not imply IETF endorsement of the cryptographic algorithms used in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

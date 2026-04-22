@@ -1,0 +1,22 @@
+<reference anchor="RFC4379" target="https://www.rfc-editor.org/info/rfc4379">
+  <front>
+    <title>Detecting Multi-Protocol Label Switched (MPLS) Data Plane Failures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4379"/>
+    <seriesInfo name="RFC" value="4379"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kompella" fullname="K. Kompella"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>data plane</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a simple and efficient mechanism that can be used to detect data plane failures in Multi-Protocol Label Switching (MPLS) Label Switched Paths (LSPs).  There are two parts to this document: information carried in an MPLS "echo request" and "echo reply" for the purposes of fault detection and isolation, and mechanisms for reliably sending the echo reply. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

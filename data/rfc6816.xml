@@ -1,0 +1,24 @@
+<reference anchor="RFC6816" target="https://www.rfc-editor.org/info/rfc6816">
+  <front>
+    <title>Simple Low-Density Parity Check (LDPC) Staircase Forward Error Correction (FEC) Scheme for FECFRAME</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6816"/>
+    <seriesInfo name="RFC" value="6816"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Roca" fullname="V. Roca"/>
+    <author initials="M." surname="Cunche" fullname="M. Cunche"/>
+    <author initials="J." surname="Lacan" fullname="J. Lacan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2012"></date>
+    <workgroup>FEC Framework</workgroup>
+    <keyword>Forward Error Correction</keyword>
+    <keyword>LDPC-Staircase</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a fully specified simple Forward Error Correction (FEC) scheme for Low-Density Parity Check (LDPC) Staircase codes that can be used to protect media streams along the lines defined by FECFRAME.  These codes have many interesting properties: they are systematic codes, they perform close to ideal codes in many use-cases, and they also feature very high encoding and decoding throughputs.  LDPC-Staircase codes are therefore a good solution to protect a single high bitrate source flow or to protect globally several mid-rate flows within a single FECFRAME instance.  They are also a good solution whenever the processing load of a software encoder or decoder must be kept to a minimum.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

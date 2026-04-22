@@ -1,0 +1,22 @@
+<reference anchor="RFC5886" target="https://www.rfc-editor.org/info/rfc5886">
+  <front>
+    <title>A Set of Monitoring Tools for Path Computation Element (PCE)-Based Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5886"/>
+    <seriesInfo name="RFC" value="5886"/>
+    <seriesInfo name="IETF"/>
+    <author initials="JP." surname="Vasseur" fullname="JP. Vasseur" role="editor"/>
+    <author initials="JL." surname="Le Roux" fullname="JL. Le Roux"/>
+    <author initials="Y." surname="Ikejiri" fullname="Y. Ikejiri"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2010"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <abstract>
+      <t>&lt;p&gt;A Path Computation Element (PCE)-based architecture has been specified for the computation of Traffic Engineering (TE) Label Switched Paths (LSPs) in Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) networks in the context of single or multiple domains (where a domain refers to a collection of network elements within a common sphere of address management or path computational responsibility such as Interior Gateway Protocol (IGP) areas and Autonomous Systems). Path Computation Clients (PCCs) send computation requests to PCEs, and these may forward the requests to and cooperate with other PCEs forming a "path computation chain".&lt;/p&gt;&lt;p&gt;In PCE-based environments, it is thus critical to monitor the state of the path computation chain for troubleshooting and performance monitoring purposes: liveness of each element (PCE) involved in the PCE chain and detection of potential resource contention states and statistics in terms of path computation times are examples of such metrics of interest. This document specifies procedures and extensions to the Path Computation Element Protocol (PCEP) in order to gather such information. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="RFC9413" target="https://www.rfc-editor.org/info/rfc9413">
+  <front>
+    <title>Maintaining Robust Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9413"/>
+    <seriesInfo name="RFC" value="9413"/>
+    <seriesInfo name="IAB"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author initials="D." surname="Schinazi" fullname="D. Schinazi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2023"></date>
+    <keyword>postel</keyword>
+    <keyword>law</keyword>
+    <keyword>robustness</keyword>
+    <keyword>principle</keyword>
+    <keyword>wrong</keyword>
+    <keyword>tolerance</keyword>
+    <abstract>
+      <t>&lt;p&gt;The main goal of the networking standards process is to enable the long-term interoperability of protocols. This document describes active protocol maintenance, a means to accomplish that goal. By evolving specifications and implementations, it is possible to reduce ambiguity over time and create a healthy ecosystem.&lt;/p&gt;&lt;p&gt;The robustness principle, often phrased as "be conservative in what you send, and liberal in what you accept", has long guided the design and implementation of Internet protocols. However, it has been interpreted in a variety of ways. While some interpretations help ensure the health of the Internet, others can negatively affect interoperability over time. When a protocol is actively maintained, protocol designers and implementers can avoid these pitfalls.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

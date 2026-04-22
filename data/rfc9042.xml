@@ -1,0 +1,22 @@
+<reference anchor="RFC9042" target="https://www.rfc-editor.org/info/rfc9042">
+  <front>
+    <title>Sieve Email Filtering: Delivery by MAILBOXID</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9042"/>
+    <seriesInfo name="RFC" value="9042"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Gondwana" fullname="B. Gondwana" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2021"></date>
+    <workgroup>Email mailstore and eXtensions To Revise or Amend</workgroup>
+    <keyword>sieve</keyword>
+    <keyword>email</keyword>
+    <abstract>
+      <t>&lt;p&gt;The OBJECTID capability of IMAP (RFC 8474) allows clients to identify mailboxes by a unique identifier that survives renaming.&lt;/p&gt;&lt;p&gt;This document extends the Sieve email filtering language (RFC 5228) to allow using that same unique identifier as a target for fileinto rules and for testing the existence of mailboxes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

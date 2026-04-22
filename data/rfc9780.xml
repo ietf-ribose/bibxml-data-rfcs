@@ -1,0 +1,24 @@
+<reference anchor="RFC9780" target="https://www.rfc-editor.org/info/rfc9780">
+  <front>
+    <title>Bidirectional Forwarding Detection (BFD) for Multipoint Networks over Point-to-Multipoint MPLS Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9780"/>
+    <seriesInfo name="RFC" value="9780"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author initials="G." surname="Mishra" fullname="G. Mishra"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2025"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>BFD</keyword>
+    <keyword>Multipoint LSP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes procedures for using Bidirectional Forwarding Detection (BFD) for multipoint networks to detect data plane failures in point-to-multipoint MPLS Label Switched Paths (LSPs) and Segment Routing (SR) point-to-multipoint policies with an SR over MPLS (SR-MPLS) data plane.&lt;/p&gt;&lt;p&gt;Furthermore, this document updates RFC 8562 by recommending the use of an IPv6 address from the Dummy IPv6 Prefix address block 100:0:0:1::/64 and discouraging the use of an IPv4 loopback address mapped to IPv6.&lt;/p&gt;&lt;p&gt;In addition, this document describes the applicability of LSP Ping (as an in-band solution) and the control plane (as an out-of-band solution) to bootstrap a BFD session. The document also describes the behavior of the active tail for head notification.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC9653" target="https://www.rfc-editor.org/info/rfc9653">
+  <front>
+    <title>Zero Checksum for the Stream Control Transmission Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9653"/>
+    <seriesInfo name="RFC" value="9653"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Tüxen" fullname="M. Tüxen"/>
+    <author initials="V." surname="Boivie" fullname="V. Boivie"/>
+    <author initials="F." surname="Castelli" fullname="F. Castelli"/>
+    <author initials="R." surname="Jesup" fullname="R. Jesup"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2024"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Stream Control Transmission Protocol (SCTP) uses a 32-bit checksum in the common header of each packet to provide some level of data integrity. If another method used by SCTP already provides the same or a higher level of data integrity, computing this checksum does not provide any additional protection but does consume computing resources.&lt;/p&gt;&lt;p&gt;This document provides a simple extension allowing SCTP to save these computing resources by using zero as the checksum in a backwards-compatible way. It also defines how this feature can be used when SCTP packets are encapsulated in Datagram Transport Layer Security (DTLS) packets.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

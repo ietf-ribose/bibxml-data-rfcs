@@ -1,0 +1,36 @@
+<reference anchor="RFC7753" target="https://www.rfc-editor.org/info/rfc7753">
+  <front>
+    <title>Port Control Protocol (PCP) Extension for Port-Set Allocation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7753"/>
+    <seriesInfo name="RFC" value="7753"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Sun" fullname="Q. Sun"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="S." surname="Sivakumar" fullname="S. Sivakumar"/>
+    <author initials="C." surname="Zhou" fullname="C. Zhou"/>
+    <author initials="T." surname="Tsou" fullname="T. Tsou"/>
+    <author initials="S." surname="Perreault" fullname="S. Perreault"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <workgroup>Port Control Protocol</workgroup>
+    <keyword>IPv4 service continuity</keyword>
+    <keyword>IPv4 address shortage</keyword>
+    <keyword>A+P</keyword>
+    <keyword>AplusP</keyword>
+    <keyword>address plus port</keyword>
+    <keyword>MAP</keyword>
+    <keyword>Port range</keyword>
+    <keyword>Port Range Router</keyword>
+    <keyword>MAP-E</keyword>
+    <keyword>port set mapping</keyword>
+    <keyword>port bulk</keyword>
+    <abstract>
+      <t>&lt;p&gt;In some use cases, e.g., Lightweight 4over6, the client may require not just one port, but a port set.  This document defines an extension to the Port Control Protocol (PCP) that allows clients to manipulate a set of ports as a whole.  This is accomplished using a new MAP option: PORT_SET.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="RFC0934" target="https://www.rfc-editor.org/info/rfc934">
+  <front>
+    <title>Proposed standard for message encapsulation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC0934"/>
+    <seriesInfo name="RFC" value="934"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="M.T." surname="Rose" fullname="M.T. Rose"/>
+    <author initials="E.A." surname="Stefferud" fullname="E.A. Stefferud"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1985"></date>
+    <abstract>
+      <t>&lt;p&gt;This memo concerns itself with message forwarding.  Forwarding can be thought of as encapsulating one or more messages inside another.  Although this is useful for transfer of past correspondence to new recipients, without a decapsulation process (which this memo terms "bursting"), the forwarded messages are of little use to the recipients because they can not be distributed, forwarded, replied-to, or otherwise processed as separate individual messages.  In order to burst a message it is necessary to know how the component messages were encapsulated in the draft.  At present there is no unambiguous standard for interest group digests.  This RFC proposes a proposed protocol for the ARPA-Internet community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

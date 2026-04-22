@@ -1,0 +1,27 @@
+<reference anchor="RFC9790" target="https://www.rfc-editor.org/info/rfc9790">
+  <front>
+    <title>IANA Registry and Processing Recommendations for the First Nibble Following a Label Stack</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9790"/>
+    <seriesInfo name="RFC" value="9790"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kompella" fullname="K. Kompella"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author initials="M." surname="Bocci" fullname="M. Bocci"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky" role="editor"/>
+    <author initials="L." surname="Andersson" fullname="L. Andersson"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2025"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>Post-stack header</keyword>
+    <keyword>Load-balancing</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document creates a new IANA registry (called the "Post-Stack First Nibble" registry) for the first nibble (4-bit field) immediately following an MPLS label stack. Furthermore, this document presents some requirements for registering new values and making the processing of MPLS packets easier and more robust.&lt;/p&gt;&lt;p&gt;The relationship between the IANA "Post-Stack First Nibble" registry and the "IP Version Numbers" registry (RFC 2780) is described in this document.&lt;/p&gt;&lt;p&gt;This document updates RFC 4928 by deprecating the heuristic method for identifying the type of packet encapsulated in MPLS.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC8342" target="https://www.rfc-editor.org/info/rfc8342">
+  <front>
+    <title>Network Management Datastore Architecture (NMDA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8342"/>
+    <seriesInfo name="RFC" value="8342"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bjorklund" fullname="M. Bjorklund"/>
+    <author initials="J." surname="Schoenwaelder" fullname="J. Schoenwaelder"/>
+    <author initials="P." surname="Shafer" fullname="P. Shafer"/>
+    <author initials="K." surname="Watsen" fullname="K. Watsen"/>
+    <author initials="R." surname="Wilton" fullname="R. Wilton"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2018"></date>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>YANG</keyword>
+    <keyword>NETCONF</keyword>
+    <keyword>RESTCONF</keyword>
+    <keyword>Network Management</keyword>
+    <abstract>
+      <t>&lt;p&gt;Datastores are a fundamental concept binding the data models written in the YANG data modeling language to network management protocols such as the Network Configuration Protocol (NETCONF) and RESTCONF.  This document defines an architectural framework for datastores based on the experience gained with the initial simpler model, addressing requirements that were not well supported in the initial model.  This document updates RFC 7950.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC8066" target="https://www.rfc-editor.org/info/rfc8066">
+  <front>
+    <title>IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) ESC Dispatch Code Points and Guidelines</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8066"/>
+    <seriesInfo name="RFC" value="8066"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Chakrabarti" fullname="S. Chakrabarti"/>
+    <author initials="G." surname="Montenegro" fullname="G. Montenegro"/>
+    <author initials="R." surname="Droms" fullname="R. Droms"/>
+    <author initials="J." surname="Woodyatt" fullname="J. Woodyatt"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2017"></date>
+    <workgroup>IPv6 over Networks of Resource-constrained Nodes</workgroup>
+    <abstract>
+      <t>&lt;p&gt;RFC 4944 defines the ESC dispatch type to allow additional dispatch octets in the 6LoWPAN header.  The value of the ESC dispatch type was updated by RFC 6282; however, its usage was not defined in either RFC 6282 or RFC 4944.  This document updates RFC 4944 and RFC 6282 by defining the ESC extension octet code points and listing registration entries for known use cases at the time of writing of this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

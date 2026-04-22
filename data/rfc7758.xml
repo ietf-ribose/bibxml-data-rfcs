@@ -1,0 +1,24 @@
+<reference anchor="RFC7758" target="https://www.rfc-editor.org/info/rfc7758">
+  <front>
+    <title>Time Capability in NETCONF</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7758"/>
+    <seriesInfo name="RFC" value="7758"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+    <author initials="Y." surname="Moses" fullname="Y. Moses"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <keyword>NETCONF</keyword>
+    <keyword>network management</keyword>
+    <keyword>time</keyword>
+    <keyword>clock synchronization</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a capability-based extension to the Network Configuration Protocol (NETCONF) that allows time-triggered configuration and management operations.  This extension allows NETCONF clients to invoke configuration updates according to scheduled times and allows NETCONF servers to attach timestamps to the data they send to NETCONF clients.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC3514" target="https://www.rfc-editor.org/info/rfc3514">
+  <front>
+    <title>The Security Flag in the IPv4 Header</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3514"/>
+    <seriesInfo name="RFC" value="3514"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Bellovin" fullname="S. Bellovin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2003"></date>
+    <keyword>evil</keyword>
+    <keyword>evil bit</keyword>
+    <abstract>
+      <t>&lt;p&gt;Firewalls, packet filters, intrusion detection systems, and the like often have difficulty distinguishing between packets that have malicious intent and those that are merely unusual.  We define a security flag in the IPv4 header as a means of distinguishing the two cases.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

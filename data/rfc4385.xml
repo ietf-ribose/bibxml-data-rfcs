@@ -1,0 +1,26 @@
+<reference anchor="RFC4385" target="https://www.rfc-editor.org/info/rfc4385">
+  <front>
+    <title>Pseudowire Emulation Edge-to-Edge (PWE3) Control Word for Use over an MPLS PSN</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4385"/>
+    <seriesInfo name="RFC" value="4385"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author initials="D." surname="McPherson" fullname="D. McPherson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <keyword>multiprotocol label switching</keyword>
+    <keyword>packet switched network</keyword>
+    <keyword>pseudowire associated channel header</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the preferred design of a Pseudowire Emulation Edge-to-Edge (PWE3) Control Word to be used over an MPLS packet switched network, and the Pseudowire Associated Channel Header.  The design of these fields is chosen so that an MPLS Label Switching Router performing MPLS payload inspection will not confuse a PWE3 payload with an IP payload. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

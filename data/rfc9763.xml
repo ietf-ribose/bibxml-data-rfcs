@@ -1,0 +1,30 @@
+<reference anchor="RFC9763" target="https://www.rfc-editor.org/info/rfc9763">
+  <front>
+    <title>Related Certificates for Use in Multiple Authentications within a Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9763"/>
+    <seriesInfo name="RFC" value="9763"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Becker" fullname="A. Becker"/>
+    <author initials="R." surname="Guthrie" fullname="R. Guthrie"/>
+    <author initials="M." surname="Jenkins" fullname="M. Jenkins"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>certificate</keyword>
+    <keyword>certificate request</keyword>
+    <keyword>hybrid</keyword>
+    <keyword>authentication</keyword>
+    <keyword>post-quantum</keyword>
+    <keyword>X.509</keyword>
+    <keyword>digital signature</keyword>
+    <keyword>quantum resistant</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new Certificate Signing Request (CSR) attribute, relatedCertRequest, and a new X.509 certificate extension, RelatedCertificate.  The use of the relatedCertRequest attribute in a CSR and the inclusion of the RelatedCertificate extension in the resulting certificate together provide additional assurance that two certificates each belong to the same end entity.  This mechanism is particularly useful in the context of non-composite hybrid authentication, which enables users to employ the same certificates in hybrid authentication as in authentication done with only traditional or post-quantum algorithms.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

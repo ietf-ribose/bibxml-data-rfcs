@@ -1,0 +1,22 @@
+<reference anchor="RFC6959" target="https://www.rfc-editor.org/info/rfc6959">
+  <front>
+    <title>Source Address Validation Improvement (SAVI) Threat Scope</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6959"/>
+    <seriesInfo name="RFC" value="6959"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="McPherson" fullname="D. McPherson"/>
+    <author initials="F." surname="Baker" fullname="F. Baker"/>
+    <author initials="J." surname="Halpern" fullname="J. Halpern"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2013"></date>
+    <workgroup>Source Address Validation Improvements</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Source Address Validation Improvement (SAVI) effort aims to complement ingress filtering with finer-grained, standardized IP source address validation.  This document describes threats enabled by IP source address spoofing both in the global and finer-grained context, describes currently available solutions and challenges, and provides a starting point analysis for finer-grained (host granularity) anti-spoofing work.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC8666" target="https://www.rfc-editor.org/info/rfc8666">
+  <front>
+    <title>OSPFv3 Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8666"/>
+    <seriesInfo name="RFC" value="8666"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak" role="editor"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2019"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>SID</keyword>
+    <keyword>IGP</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>Label advertisement</keyword>
+    <keyword>Segment Routing</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) allows a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological subpaths called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF).&lt;/p&gt;&lt;p&gt;This document describes the OSPFv3 extensions required for Segment Routing with the MPLS data plane.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC5127" target="https://www.rfc-editor.org/info/rfc5127">
+  <front>
+    <title>Aggregation of Diffserv Service Classes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5127"/>
+    <seriesInfo name="RFC" value="5127"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Chan" fullname="K. Chan"/>
+    <author initials="J." surname="Babiarz" fullname="J. Babiarz"/>
+    <author initials="F." surname="Baker" fullname="F. Baker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2008"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>Treatment Aggregate</keyword>
+    <keyword>forwarding treatment</keyword>
+    <abstract>
+      <t>&lt;p&gt;In the core of a high-capacity network, service differentiation may still be needed to support applications' utilization of the network.  Applications with similar traffic characteristics and performance requirements are mapped into Diffserv service classes based on end- to-end behavior requirements of the applications.  However, some network segments may be configured in such a way that a single forwarding treatment may satisfy the traffic characteristics and performance requirements of two or more service classes.  In these cases, it may be desirable to aggregate two or more Diffserv service classes into a single forwarding treatment.  This document provides guidelines for the aggregation of Diffserv service classes into forwarding treatments.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

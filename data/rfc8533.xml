@@ -1,0 +1,25 @@
+<reference anchor="RFC8533" target="https://www.rfc-editor.org/info/rfc8533">
+  <front>
+    <title>A YANG Data Model for Retrieval Methods for the Management of Operations, Administration, and Maintenance (OAM) Protocols That Use Connectionless Communications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8533"/>
+    <seriesInfo name="RFC" value="8533"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Kumar" fullname="D. Kumar"/>
+    <author initials="M." surname="Wang" fullname="M. Wang"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu" role="editor"/>
+    <author initials="R." surname="Rahman" fullname="R. Rahman"/>
+    <author initials="S." surname="Raghavan" fullname="S. Raghavan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2019"></date>
+    <workgroup>Layer Independent OAM Management in the Multi-Layer Environment</workgroup>
+    <keyword>CL OAM Retrieval Methods</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents a retrieval method YANG data model for connectionless Operations, Administration, and Maintenance (OAM) protocols.  It provides technology-independent RPC operations for OAM protocols that use connectionless communication.  The retrieval methods model herein presented can be extended to include technology- specific details.  There are two key benefits of this approach: First, it leads to uniformity between OAM protocols.  Second, it supports both nested OAM workflows (i.e., performing OAM functions at different or the same levels through a unified interface) as well as interactive OAM workflows (i.e., performing OAM functions at the same levels through a unified interface).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

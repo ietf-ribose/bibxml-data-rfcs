@@ -1,0 +1,27 @@
+<reference anchor="RFC6544" target="https://www.rfc-editor.org/info/rfc6544">
+  <front>
+    <title>TCP Candidates with Interactive Connectivity Establishment (ICE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6544"/>
+    <seriesInfo name="RFC" value="6544"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="A." surname="Keranen" fullname="A. Keranen"/>
+    <author initials="B. B." surname="Lowekamp" fullname="B. B. Lowekamp"/>
+    <author initials="A. B." surname="Roach" fullname="A. B. Roach"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2012"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>ICE</keyword>
+    <keyword>TCP</keyword>
+    <keyword>NAT</keyword>
+    <keyword>NAT traversal</keyword>
+    <abstract>
+      <t>&lt;p&gt;Interactive Connectivity Establishment (ICE) defines a mechanism for NAT traversal for multimedia communication protocols based on the offer/answer model of session negotiation.  ICE works by providing a set of candidate transport addresses for each media stream, which are then validated with peer-to-peer connectivity checks based on Session Traversal Utilities for NAT (STUN).  ICE provides a general framework for describing candidates but only defines UDP-based media streams.  This specification extends ICE to TCP-based media, including the ability to offer a mix of TCP and UDP-based candidates for a single stream. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

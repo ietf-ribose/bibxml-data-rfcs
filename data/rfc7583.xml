@@ -1,0 +1,23 @@
+<reference anchor="RFC7583" target="https://www.rfc-editor.org/info/rfc7583">
+  <front>
+    <title>DNSSEC Key Rollover Timing Considerations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7583"/>
+    <seriesInfo name="RFC" value="7583"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Morris" fullname="S. Morris"/>
+    <author initials="J." surname="Ihren" fullname="J. Ihren"/>
+    <author initials="J." surname="Dickinson" fullname="J. Dickinson"/>
+    <author initials="W." surname="Mekking" fullname="W. Mekking"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2015"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes the issues surrounding the timing of events in the rolling of a key in a DNSSEC-secured zone.  It presents timelines for the key rollover and explicitly identifies the relationships between the various parameters affecting the process.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

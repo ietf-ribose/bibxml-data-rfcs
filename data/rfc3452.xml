@@ -1,0 +1,32 @@
+<reference anchor="RFC3452" target="https://www.rfc-editor.org/info/rfc3452">
+  <front>
+    <title>Forward Error Correction (FEC) Building Block</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3452"/>
+    <seriesInfo name="RFC" value="3452"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author initials="L." surname="Vicisano" fullname="L. Vicisano"/>
+    <author initials="J." surname="Gemmell" fullname="J. Gemmell"/>
+    <author initials="L." surname="Rizzo" fullname="L. Rizzo"/>
+    <author initials="M." surname="Handley" fullname="M. Handley"/>
+    <author initials="J." surname="Crowcroft" fullname="J. Crowcroft"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2002"></date>
+    <workgroup>Reliable Multicast Transport</workgroup>
+    <keyword>FEC</keyword>
+    <keyword>Forward Error Correction</keyword>
+    <keyword>content</keyword>
+    <keyword>stream</keyword>
+    <keyword>delivery</keyword>
+    <keyword>multicast</keyword>
+    <keyword>internet protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document generally describes how to use Forward Error Correction (FEC) codes to efficiently provide and/or augment reliability for data transport.  The primary focus of this document is the application of FEC codes to one-to-many reliable data transport using IP multicast.  This document describes what information is needed to identify a specific FEC code, what information needs to be communicated out-of-band to use the FEC code, and what information is needed in data packets to identify the encoding symbols they carry.  The procedures for specifying FEC codes and registering them with the Internet Assigned Numbers Authority (IANA) are also described.  This document should be read in conjunction with and uses the terminology of the companion document titled, "The Use of Forward Error Correction (FEC) in Reliable Multicast".  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

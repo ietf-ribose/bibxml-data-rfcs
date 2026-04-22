@@ -1,0 +1,24 @@
+<reference anchor="RFC8037" target="https://www.rfc-editor.org/info/rfc8037">
+  <front>
+    <title>CFRG Elliptic Curve Diffie-Hellman (ECDH) and Signatures in JSON Object Signing and Encryption (JOSE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8037"/>
+    <seriesInfo name="RFC" value="8037"/>
+    <seriesInfo name="IETF"/>
+    <author initials="I." surname="Liusvaara" fullname="I. Liusvaara"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2017"></date>
+    <workgroup>Javascript Object Signing and Encryption</workgroup>
+    <keyword>Ed25519</keyword>
+    <keyword>Ed448</keyword>
+    <keyword>X25519</keyword>
+    <keyword>X448</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines how to use the Diffie-Hellman algorithms "X25519" and "X448" as well as the signature algorithms "Ed25519" and "Ed448" from the IRTF CFRG elliptic curves work in JSON Object Signing and Encryption (JOSE).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

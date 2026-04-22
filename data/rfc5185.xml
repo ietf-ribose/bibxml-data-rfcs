@@ -1,0 +1,26 @@
+<reference anchor="RFC5185" target="https://www.rfc-editor.org/info/rfc5185">
+  <front>
+    <title>OSPF Multi-Area Adjacency</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5185"/>
+    <seriesInfo name="RFC" value="5185"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Mirtorabi" fullname="S. Mirtorabi"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem" role="editor"/>
+    <author initials="A." surname="Oswal" fullname="A. Oswal"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2008"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>open shortest path first</keyword>
+    <keyword>inter-area</keyword>
+    <keyword>intra-area path</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an extension to the Open Shortest Path First (OSPF) protocol to allow a single physical link to be shared by multiple areas.  This is necessary to allow the link to be considered an intra-area link in multiple areas.  This would create an intra- area path in each of the corresponding areas sharing the same link. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC8885" target="https://www.rfc-editor.org/info/rfc8885">
+  <front>
+    <title>Proxy Mobile IPv6 Extensions for Distributed Mobility Management</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8885"/>
+    <seriesInfo name="RFC" value="8885"/>
+    <seriesInfo name="IETF"/>
+    <author initials="CJ." surname="Bernardos" fullname="CJ. Bernardos"/>
+    <author initials="A." surname="de la Oliva" fullname="A. de la Oliva"/>
+    <author initials="F." surname="Giust" fullname="F. Giust"/>
+    <author initials="JC." surname="Zúñiga" fullname="JC. Zúñiga"/>
+    <author initials="A." surname="Mourad" fullname="A. Mourad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2020"></date>
+    <workgroup>Distributed Mobility Management</workgroup>
+    <keyword>PMIPv6</keyword>
+    <keyword>anchor</keyword>
+    <keyword>session continuity</keyword>
+    <keyword>address reachability</keyword>
+    <keyword>HNP</keyword>
+    <keyword>CMD</keyword>
+    <keyword>MAAR</keyword>
+    <abstract>
+      <t>&lt;p&gt;Distributed Mobility Management solutions allow networks to be set up in such a way that traffic is distributed optimally and centrally deployed anchors are not relied upon to provide IP mobility support.&lt;/p&gt;&lt;p&gt;There are many different approaches to address Distributed Mobility Management -- for example, extending network-based mobility protocols (like Proxy Mobile IPv6) or client-based mobility protocols (like Mobile IPv6), among others. This document follows the former approach and proposes a solution based on Proxy Mobile IPv6, in which mobility sessions are anchored at the last IP hop router (called the mobility anchor and access router). The mobility anchor and access router is an enhanced access router that is also able to operate as a local mobility anchor or mobility access gateway on a per-prefix basis. The document focuses on the required extensions to effectively support the simultaneous anchoring several flows at different distributed gateways.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

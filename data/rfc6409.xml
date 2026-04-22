@@ -1,0 +1,27 @@
+<reference anchor="RFC6409" target="https://www.rfc-editor.org/info/rfc6409">
+  <front>
+    <title>Message Submission for Mail</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6409"/>
+    <seriesInfo name="STD" value="72"/>
+    <seriesInfo name="RFC" value="6409"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Gellens" fullname="R. Gellens"/>
+    <author initials="J." surname="Klensin" fullname="J. Klensin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2011"></date>
+    <workgroup>Yet Another Mail</workgroup>
+    <keyword>Text</keyword>
+    <keyword>Internationalization</keyword>
+    <keyword>ASCII</keyword>
+    <keyword>Unicode</keyword>
+    <keyword>UTF-8</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo splits message submission from message relay, allowing each service to operate according to its own rules (for security, policy, etc.), and specifies what actions are to be taken by a submission server.&lt;/p&gt;&lt;p&gt;Message relay is unaffected, and continues to use SMTP over port 25.&lt;/p&gt;&lt;p&gt;When conforming to this document, message submission uses the protocol specified here, normally over port 587.&lt;/p&gt;&lt;p&gt;This separation of function offers a number of benefits, including the ability to apply specific security or policy requirements. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,45 @@
+<reference anchor="RFC9692" target="https://www.rfc-editor.org/info/rfc9692">
+  <front>
+    <title>RIFT: Routing in Fat Trees</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9692"/>
+    <seriesInfo name="RFC" value="9692"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda" role="editor"/>
+    <author initials="J." surname="Head" fullname="J. Head" role="editor"/>
+    <author initials="A." surname="Sharma" fullname="A. Sharma"/>
+    <author initials="P." surname="Thubert" fullname="P. Thubert"/>
+    <author initials="B." surname="Rijsman" fullname="B. Rijsman"/>
+    <author initials="D." surname="Afanasiev" fullname="D. Afanasiev"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2025"></date>
+    <workgroup>Routing In Fat Trees</workgroup>
+    <keyword>Routing protocol</keyword>
+    <keyword>IGP</keyword>
+    <keyword>Anisotropic routing</keyword>
+    <keyword>Clos</keyword>
+    <keyword>Fat tree</keyword>
+    <keyword>Cloud</keyword>
+    <keyword>Distance vector</keyword>
+    <keyword>Link state</keyword>
+    <keyword>Optimized flooding</keyword>
+    <keyword>Zeroconf</keyword>
+    <keyword>disaggregation</keyword>
+    <keyword>fabric</keyword>
+    <keyword>ZTP</keyword>
+    <keyword>LIE</keyword>
+    <keyword>TIE</keyword>
+    <keyword>TIDE</keyword>
+    <keyword>TIRE</keyword>
+    <keyword>KV-TIE</keyword>
+    <keyword>multi-plane</keyword>
+    <keyword>ToF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a specialized, dynamic routing protocol for Clos, fat tree, and variants thereof.  These topologies were initially used within crossbar interconnects and consequently router and switch backplanes, but their characteristics make them ideal for constructing IP fabrics as well.  The protocol specified by this document is optimized towards the minimization of control plane state to support very large substrates as well as the minimization of configuration and operational complexity to allow for a simplified deployment of said topologies.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

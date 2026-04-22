@@ -1,0 +1,26 @@
+<reference anchor="RFC8844" target="https://www.rfc-editor.org/info/rfc8844">
+  <front>
+    <title>Unknown Key-Share Attacks on Uses of TLS with the Session Description Protocol (SDP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8844"/>
+    <seriesInfo name="RFC" value="8844"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>Unknown Key-Share Attack</keyword>
+    <keyword>SDP</keyword>
+    <keyword>DTLS-SRTP</keyword>
+    <keyword>WebRTC</keyword>
+    <keyword>SIP identity</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes unknown key-share attacks on the use of Datagram Transport Layer Security for the Secure Real-Time Transport Protocol (DTLS-SRTP).  Similar attacks are described on the use of DTLS-SRTP with the identity bindings used in Web Real-Time Communications (WebRTC) and SIP identity.  These attacks are difficult to mount, but they cause a victim to be misled about the identity of a communicating peer.  This document defines mitigation techniques that implementations of RFC 8122 are encouraged to deploy.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

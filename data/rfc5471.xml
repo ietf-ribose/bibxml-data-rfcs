@@ -1,0 +1,24 @@
+<reference anchor="RFC5471" target="https://www.rfc-editor.org/info/rfc5471">
+  <front>
+    <title>Guidelines for IP Flow Information Export (IPFIX) Testing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5471"/>
+    <seriesInfo name="RFC" value="5471"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Schmoll" fullname="C. Schmoll"/>
+    <author initials="P." surname="Aitken" fullname="P. Aitken"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2009"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>exporting process</keyword>
+    <keyword>collecting process</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents a list of tests for implementers of IP Flow Information eXport (IPFIX) compliant Exporting Processes and Collecting Processes.  This document specifies guidelines for a series of tests that can be run on the IPFIX Exporting Process and Collecting Process in order to probe the conformity and robustness of the IPFIX protocol implementations.  These tests cover all important functions, in order to gain a level of confidence in the IPFIX implementation.  Therefore, they allow the implementer to perform interoperability or plug tests with other IPFIX Exporting Processes and Collecting Processes.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

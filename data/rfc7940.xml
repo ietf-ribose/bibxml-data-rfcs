@@ -1,0 +1,25 @@
+<reference anchor="RFC7940" target="https://www.rfc-editor.org/info/rfc7940">
+  <front>
+    <title>Representing Label Generation Rulesets Using XML</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7940"/>
+    <seriesInfo name="RFC" value="7940"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Davies" fullname="K. Davies"/>
+    <author initials="A." surname="Freytag" fullname="A. Freytag"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2016"></date>
+    <workgroup>Label Generation Rules</workgroup>
+    <keyword>IDN</keyword>
+    <keyword>LGR</keyword>
+    <keyword>IDN table</keyword>
+    <keyword>variant table</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a method of representing rules for validating identifier labels and alternate representations of those labels using Extensible Markup Language (XML).  These policies, known as "Label Generation Rulesets" (LGRs), are used for the implementation of Internationalized Domain Names (IDNs), for example.  The rulesets are used to implement and share that aspect of policy defining which labels and Unicode code points are permitted for registrations, which alternative code points are considered variants, and what actions may be performed on labels containing those variants.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

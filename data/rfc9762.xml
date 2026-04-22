@@ -1,0 +1,27 @@
+<reference anchor="RFC9762" target="https://www.rfc-editor.org/info/rfc9762">
+  <front>
+    <title>Using Router Advertisements to Signal the Availability of DHCPv6 Prefix Delegation to Clients</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9762"/>
+    <seriesInfo name="RFC" value="9762"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Colitti" fullname="L. Colitti"/>
+    <author initials="J." surname="Linkova" fullname="J. Linkova"/>
+    <author initials="X." surname="Ma" fullname="X. Ma" role="editor"/>
+    <author initials="D." surname="Lamparter" fullname="D. Lamparter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>IPv6 Maintenance</workgroup>
+    <keyword>ipv6</keyword>
+    <keyword>slaac</keyword>
+    <keyword>pio</keyword>
+    <keyword>dhcpv6-pd</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the P flag in the Prefix Information Option (PIO) of IPv6 Router Advertisements (RAs). The flag is used to indicate that the network prefers that clients use the deployment model in RFC 9663 instead of using individual addresses in the on-link prefix assigned using Stateless Address Autoconfiguration (SLAAC) or DHCPv6 address assignment.&lt;/p&gt;&lt;p&gt;This document updates RFC 4862 to indicate that the Autonomous flag in a PIO needs to be ignored if the PIO has the P flag set. It also updates RFC 4861 to specify that the P flag indicates DHCPv6 prefix delegation support for clients.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

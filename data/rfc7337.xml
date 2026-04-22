@@ -1,0 +1,21 @@
+<reference anchor="RFC7337" target="https://www.rfc-editor.org/info/rfc7337">
+  <front>
+    <title>Content Distribution Network Interconnection (CDNI) Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7337"/>
+    <seriesInfo name="RFC" value="7337"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Leung" fullname="K. Leung" role="editor"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2014"></date>
+    <workgroup>Content Delivery Networks Interconnection</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Content delivery is frequently provided by specifically architected and provisioned Content Delivery Networks (CDNs). As a result of significant growth in content delivered over IP networks, existing CDN providers are scaling up their infrastructure. Many Network Service Providers (NSPs) and Enterprise Service Providers (ESPs) are also deploying their own CDNs. To deliver contents from the Content Service Provider (CSP) to end users, the contents may traverse across multiple CDNs. This creates a need for interconnecting (previously) standalone CDNs so that they can collectively act as a single delivery platform from the CSP to the end users.&lt;/p&gt;&lt;p&gt;The goal of the present document is to outline the requirements for the solution and interfaces to be specified by the CDNI working group.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

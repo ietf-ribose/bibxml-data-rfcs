@@ -1,0 +1,26 @@
+<reference anchor="RFC7956" target="https://www.rfc-editor.org/info/rfc7956">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL) Distributed Layer 3 Gateway</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7956"/>
+    <seriesInfo name="RFC" value="7956"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Hao" fullname="W. Hao"/>
+    <author initials="Y." surname="Li" fullname="Y. Li"/>
+    <author initials="A." surname="Qu" fullname="A. Qu"/>
+    <author initials="M." surname="Durrani" fullname="M. Durrani"/>
+    <author initials="P." surname="Sivamurugan" fullname="P. Sivamurugan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2016"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <keyword>tenant</keyword>
+    <keyword> data center</keyword>
+    <abstract>
+      <t>&lt;p&gt;The base TRILL (Transparent Interconnection of Lots of Links) protocol provides optimal pair-wise data frame forwarding for Layer 2 intra-subnet traffic but not for Layer 3 inter-subnet traffic. A centralized gateway solution is typically used for Layer 3 inter-subnet traffic forwarding but has the following issues:&lt;/p&gt;&lt;p&gt;1. Sub-optimum forwarding paths for inter-subnet traffic.&lt;/p&gt;&lt;p&gt;2. A centralized gateway that may need to support a very large number of gateway interfaces in a Data Center, one per tenant per Data Label used by that tenant, to provide interconnect functionality for all the Layer 2 Virtual Networks in a TRILL campus.&lt;/p&gt;&lt;p&gt;3. A traffic bottleneck at the gateway.&lt;/p&gt;&lt;p&gt;This document specifies an optional TRILL distributed gateway solution that resolves these centralized gateway issues.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

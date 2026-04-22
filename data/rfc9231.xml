@@ -1,0 +1,28 @@
+<reference anchor="RFC9231" target="https://www.rfc-editor.org/info/rfc9231">
+  <front>
+    <title>Additional XML Security Uniform Resource Identifiers (URIs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9231"/>
+    <seriesInfo name="RFC" value="9231"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2022"></date>
+    <keyword>XMLSEC</keyword>
+    <keyword>XMLDSIG</keyword>
+    <keyword>XMLENC</keyword>
+    <keyword>DigestMethod</keyword>
+    <keyword>SigntureMethod</keyword>
+    <keyword>EncryptionMethod</keyword>
+    <keyword>AgreementMethod</keyword>
+    <keyword>KeyDerivationMethod</keyword>
+    <keyword>KeyInfo</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document updates and corrects the IANA "XML Security URIs" registry that lists URIs intended for use with XML digital signatures, encryption, canonicalization, and key management.  These URIs identify algorithms and types of information.  This document also obsoletes and corrects three errata against RFC 6931.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

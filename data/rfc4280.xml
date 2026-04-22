@@ -1,0 +1,28 @@
+<reference anchor="RFC4280" target="https://www.rfc-editor.org/info/rfc4280">
+  <front>
+    <title>Dynamic Host Configuration Protocol (DHCP) Options for Broadcast and Multicast Control Servers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4280"/>
+    <seriesInfo name="RFC" value="4280"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Chowdhury" fullname="K. Chowdhury"/>
+    <author initials="P." surname="Yegani" fullname="P. Yegani"/>
+    <author initials="L." surname="Madour" fullname="L. Madour"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2005"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>bcmcs</keyword>
+    <keyword>3g</keyword>
+    <keyword>third generation</keyword>
+    <keyword>cellular telephone</keyword>
+    <keyword>mobile node</keyword>
+    <keyword>mn</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines new options to discover the Broadcast and Multicast Service (BCMCS) controller in an IP network.  BCMCS is being developed for Third generation (3G) cellular telephone networks.  Users of the service interact with a controller in the network via the Mobile Node (MN) to derive information required to receive Broadcast and Multicast Service.  Dynamic Host Configuration Protocol can be used to configure the MN to access a particular controller.  This document defines the related options and option codes. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

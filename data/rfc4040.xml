@@ -1,0 +1,21 @@
+<reference anchor="RFC4040" target="https://www.rfc-editor.org/info/rfc4040">
+  <front>
+    <title>RTP Payload Format for a 64 kbit/s Transparent Call</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4040"/>
+    <seriesInfo name="RFC" value="4040"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Kreuter" fullname="R. Kreuter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2005"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>realtime transport protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how to carry 64 kbit/s channel data transparently in RTP packets, using a pseudo-codec called "Clearmode". It also serves as registration for a related MIME type called "audio/clearmode".&lt;/p&gt;&lt;p&gt;"Clearmode" is a basic feature of VoIP Media Gateways. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

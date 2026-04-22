@@ -1,0 +1,24 @@
+<reference anchor="RFC5170" target="https://www.rfc-editor.org/info/rfc5170">
+  <front>
+    <title>Low Density Parity Check (LDPC) Staircase and Triangle Forward Error Correction (FEC) Schemes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5170"/>
+    <seriesInfo name="RFC" value="5170"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Roca" fullname="V. Roca"/>
+    <author initials="C." surname="Neumann" fullname="C. Neumann"/>
+    <author initials="D." surname="Furodet" fullname="D. Furodet"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2008"></date>
+    <workgroup>Reliable Multicast Transport</workgroup>
+    <keyword>LDPC</keyword>
+    <keyword>FEC</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes two Fully-Specified Forward Error Correction (FEC) Schemes, Low Density Parity Check (LDPC) Staircase and LDPC Triangle, and their application to the reliable delivery of data objects on the packet erasure channel (i.e., a communication path where packets are either received without any corruption or discarded during transmission).  These systematic FEC codes belong to the well- known class of "Low Density Parity Check" codes, and are large block FEC codes in the sense of RFC 3453. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

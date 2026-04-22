@@ -1,0 +1,23 @@
+<reference anchor="RFC8164" target="https://www.rfc-editor.org/info/rfc8164">
+  <front>
+    <title>Opportunistic Security for HTTP/2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8164"/>
+    <seriesInfo name="RFC" value="8164"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2017"></date>
+    <workgroup>HTTP</workgroup>
+    <keyword>Opportunistic Security</keyword>
+    <keyword>HTTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how "http" URIs can be accessed using Transport Layer Security (TLS) and HTTP/2 to mitigate pervasive monitoring attacks.  This mechanism not a replacement for "https" URIs; it is vulnerable to active attacks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

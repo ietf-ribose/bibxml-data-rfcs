@@ -1,0 +1,22 @@
+<reference anchor="RFC4785" target="https://www.rfc-editor.org/info/rfc4785">
+  <front>
+    <title>Pre-Shared Key (PSK) Ciphersuites with NULL Encryption for Transport Layer Security (TLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4785"/>
+    <seriesInfo name="RFC" value="4785"/>
+    <seriesInfo name="IETF"/>
+    <author initials="U." surname="Blumenthal" fullname="U. Blumenthal"/>
+    <author initials="P." surname="Goel" fullname="P. Goel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2007"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>cipher suite</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies authentication-only ciphersuites (with no encryption) for the Pre-Shared Key (PSK) based Transport Layer Security (TLS) protocol.  These ciphersuites are useful when authentication and integrity protection is desired, but confidentiality is not needed or not permitted. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

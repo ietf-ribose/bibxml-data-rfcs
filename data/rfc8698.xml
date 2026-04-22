@@ -1,0 +1,25 @@
+<reference anchor="RFC8698" target="https://www.rfc-editor.org/info/rfc8698">
+  <front>
+    <title>Network-Assisted Dynamic Adaptation (NADA): A Unified Congestion Control Scheme for Real-Time Media</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8698"/>
+    <seriesInfo name="RFC" value="8698"/>
+    <seriesInfo name="IETF"/>
+    <author initials="X." surname="Zhu" fullname="X. Zhu"/>
+    <author initials="R." surname="Pan" fullname="R. Pan"/>
+    <author initials="M." surname="Ramalho" fullname="M. Ramalho"/>
+    <author initials="S." surname="Mena" fullname="S. Mena"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2020"></date>
+    <workgroup>RTP Media Congestion Avoidance Techniques</workgroup>
+    <keyword>Multimedia</keyword>
+    <keyword>Congestion Control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes Network-Assisted Dynamic Adaptation (NADA), a novel congestion control scheme for interactive real-time media applications such as video conferencing.  In the proposed scheme, the sender regulates its sending rate, based on either implicit or explicit congestion signaling, in a unified approach.  The scheme can benefit from Explicit Congestion Notification (ECN) markings from network nodes.  It also maintains consistent sender behavior in the absence of such markings by reacting to queuing delays and packet losses instead.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

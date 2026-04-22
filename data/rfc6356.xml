@@ -1,0 +1,25 @@
+<reference anchor="RFC6356" target="https://www.rfc-editor.org/info/rfc6356">
+  <front>
+    <title>Coupled Congestion Control for Multipath Transport Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6356"/>
+    <seriesInfo name="RFC" value="6356"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Raiciu" fullname="C. Raiciu"/>
+    <author initials="M." surname="Handley" fullname="M. Handley"/>
+    <author initials="D." surname="Wischik" fullname="D. Wischik"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2011"></date>
+    <workgroup>Multipath TCP</workgroup>
+    <keyword>multipath</keyword>
+    <keyword>tcp</keyword>
+    <keyword>congestion control</keyword>
+    <abstract>
+      <t>&lt;p&gt;Often endpoints are connected by multiple paths, but communications are usually restricted to a single path per connection. Resource usage within the network would be more efficient were it possible for these multiple paths to be used concurrently. Multipath TCP is a proposal to achieve multipath transport in TCP.&lt;/p&gt;&lt;p&gt;New congestion control algorithms are needed for multipath transport protocols such as Multipath TCP, as single path algorithms have a series of issues in the multipath context. One of the prominent problems is that running existing algorithms such as standard TCP independently on each path would give the multipath flow more than its fair share at a bottleneck link traversed by more than one of its subflows. Further, it is desirable that a source with multiple paths available will transfer more traffic using the least congested of the paths, achieving a property called "resource pooling" where a bundle of links effectively behaves like one shared link with bigger capacity. This would increase the overall efficiency of the network and also its robustness to failure.&lt;/p&gt;&lt;p&gt;This document presents a congestion control algorithm that couples the congestion control algorithms running on different subflows by linking their increase functions, and dynamically controls the overall aggressiveness of the multipath flow. The result is a practical algorithm that is fair to TCP at bottlenecks while moving traffic away from congested links. This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

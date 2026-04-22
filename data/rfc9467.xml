@@ -1,0 +1,27 @@
+<reference anchor="RFC9467" target="https://www.rfc-editor.org/info/rfc9467">
+  <front>
+    <title>Relaxed Packet Counter Verification for Babel MAC Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9467"/>
+    <seriesInfo name="RFC" value="9467"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Chroboczek" fullname="J. Chroboczek"/>
+    <author initials="T." surname="Høiland-Jørgensen" fullname="T. Høiland-Jørgensen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2024"></date>
+    <workgroup>Babel routing protocol</workgroup>
+    <keyword>multicast</keyword>
+    <keyword>wi-fi</keyword>
+    <keyword>security</keyword>
+    <keyword>authentication</keyword>
+    <keyword>packet reordering</keyword>
+    <keyword>wifi</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document relaxes the packet verification rules defined in "MAC Authentication for the Babel Routing Protocol" (RFC 8967) in order to make the protocol more robust in the presence of packet reordering.  This document updates RFC 8967.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

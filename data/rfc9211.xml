@@ -1,0 +1,24 @@
+<reference anchor="RFC9211" target="https://www.rfc-editor.org/info/rfc9211">
+  <front>
+    <title>The Cache-Status HTTP Response Header Field</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9211"/>
+    <seriesInfo name="RFC" value="9211"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <workgroup>HTTP</workgroup>
+    <keyword>http</keyword>
+    <keyword>cache</keyword>
+    <keyword>debugging</keyword>
+    <keyword>x-cache</keyword>
+    <abstract>
+      <t>&lt;p&gt;To aid debugging, HTTP caches often append header fields to a response, explaining how they handled the request in an ad hoc manner.  This specification defines a standard mechanism to do so that is aligned with HTTP's caching model.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

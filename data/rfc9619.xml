@@ -1,0 +1,21 @@
+<reference anchor="RFC9619" target="https://www.rfc-editor.org/info/rfc9619">
+  <front>
+    <title>In the DNS, QDCOUNT Is (Usually) One</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9619"/>
+    <seriesInfo name="RFC" value="9619"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Bellis" fullname="R. Bellis"/>
+    <author initials="J." surname="Abley" fullname="J. Abley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2024"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document updates RFC 1035 by constraining the allowed value of the QDCOUNT parameter in DNS messages with OPCODE = 0 (QUERY) to a maximum of one, and it specifies the required behavior when values that are not allowed are encountered.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

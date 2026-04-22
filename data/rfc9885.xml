@@ -1,0 +1,24 @@
+<reference anchor="RFC9885" target="https://www.rfc-editor.org/info/rfc9885">
+  <front>
+    <title>Multi-Part TLVs in IS-IS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9885"/>
+    <seriesInfo name="RFC" value="9885"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Kaneriya" fullname="P. Kaneriya"/>
+    <author initials="T." surname="Li" fullname="T. Li"/>
+    <author initials="A." surname="Przygienda" fullname="A. Przygienda"/>
+    <author initials="S." surname="Hegde" fullname="S. Hegde"/>
+    <author initials="L." surname="Ginsberg" fullname="L. Ginsberg"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <workgroup>Link State Routing</workgroup>
+    <abstract>
+      <t>&lt;p&gt;New technologies are adding new information into IS-IS while deployment scales are simultaneously increasing.  This causes the contents of many critical TLVs to exceed the currently supported limit of 255 octets.  This document codifies the common mechanism of extending the TLV content space through multiple TLVs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC4970" target="https://www.rfc-editor.org/info/rfc4970">
+  <front>
+    <title>Extensions to OSPF for Advertising Optional Router Capabilities</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4970"/>
+    <seriesInfo name="RFC" value="4970"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem" role="editor"/>
+    <author initials="N." surname="Shen" fullname="N. Shen"/>
+    <author initials="JP." surname="Vasseur" fullname="JP. Vasseur"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal"/>
+    <author initials="S." surname="Shaffer" fullname="S. Shaffer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>ospfv2</keyword>
+    <keyword>ospfv3</keyword>
+    <keyword>open shortest path first</keyword>
+    <keyword>ri</keyword>
+    <keyword>router information</keyword>
+    <keyword>lsa</keyword>
+    <keyword>link state advertisement</keyword>
+    <abstract>
+      <t>&lt;p&gt;It is useful for routers in an OSPFv2 or OSPFv3 routing domain to know the capabilities of their neighbors and other routers in the routing domain.  This document proposes extensions to OSPFv2 and OSPFv3 for advertising optional router capabilities.  A new Router Information (RI) Link State Advertisement (LSA) is proposed for this purpose.  In OSPFv2, the RI LSA will be implemented with a new opaque LSA type ID.  In OSPFv3, the RI LSA will be implemented with a new LSA type function code.  In both protocols, the RI LSA can be advertised at any of the defined flooding scopes (link, area, or autonomous system (AS)). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

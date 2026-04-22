@@ -1,0 +1,25 @@
+<reference anchor="RFC2310" target="https://www.rfc-editor.org/info/rfc2310">
+  <front>
+    <title>The Safe Response Header Field</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2310"/>
+    <seriesInfo name="RFC" value="2310"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Holtman" fullname="K. Holtman"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="1998"></date>
+    <workgroup>HyperText Transfer Protocol</workgroup>
+    <keyword>http</keyword>
+    <keyword>hyper</keyword>
+    <keyword>text</keyword>
+    <keyword>transfer</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a HTTP response header field called Safe, which can be used to indicate that repeating a HTTP request is safe.  Such an indication will allow user agents to handle retries of some safe requests, in particular safe POST requests, in a more user-friendly way.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

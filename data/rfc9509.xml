@@ -1,0 +1,23 @@
+<reference anchor="RFC9509" target="https://www.rfc-editor.org/info/rfc9509">
+  <front>
+    <title>X.509 Certificate Extended Key Usage (EKU) for 5G Network Functions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9509"/>
+    <seriesInfo name="RFC" value="9509"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Reddy.K" fullname="T. Reddy.K"/>
+    <author initials="J." surname="Ekman" fullname="J. Ekman"/>
+    <author initials="D." surname="Migault" fullname="D. Migault"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2024"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>3GPP</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 5280 specifies several extended key purpose identifiers (KeyPurposeIds) for X.509 certificates.  This document defines encrypting JSON objects in HTTP messages, using JSON Web Tokens (JWTs), and signing the OAuth 2.0 access tokens KeyPurposeIds for inclusion in the Extended Key Usage (EKU) extension of X.509 v3 public key certificates used by Network Functions (NFs) for the 5G System.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

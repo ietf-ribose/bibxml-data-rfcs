@@ -1,0 +1,25 @@
+<reference anchor="RFC6627" target="https://www.rfc-editor.org/info/rfc6627">
+  <front>
+    <title>Overview of Pre-Congestion Notification Encoding</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6627"/>
+    <seriesInfo name="RFC" value="6627"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Karagiannis" fullname="G. Karagiannis"/>
+    <author initials="K." surname="Chan" fullname="K. Chan"/>
+    <author initials="T." surname="Moncaster" fullname="T. Moncaster"/>
+    <author initials="M." surname="Menth" fullname="M. Menth"/>
+    <author initials="P." surname="Eardley" fullname="P. Eardley"/>
+    <author initials="B." surname="Briscoe" fullname="B. Briscoe"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2012"></date>
+    <workgroup>Congestion and Pre-Congestion Notification</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The objective of Pre-Congestion Notification (PCN) is to protect the quality of service (QoS) of inelastic flows within a Diffserv domain. On every link in the PCN-domain, the overall rate of PCN-traffic is metered, and PCN-packets are appropriately marked when certain configured rates are exceeded. Egress nodes provide decision points with information about the PCN-marks of PCN-packets that allows them to take decisions about whether to admit or block a new flow request, and to terminate some already admitted flows during serious \%pre-congestion.&lt;/p&gt;&lt;p&gt;The PCN working group explored a number of approaches for encoding this pre-congestion information into the IP header. This document provides details of those approaches along with an explanation of the constraints that apply to any solution. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

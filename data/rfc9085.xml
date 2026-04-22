@@ -1,0 +1,32 @@
+<reference anchor="RFC9085" target="https://www.rfc-editor.org/info/rfc9085">
+  <front>
+    <title>Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9085"/>
+    <seriesInfo name="RFC" value="9085"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2021"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP-LS</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>SID</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>Label advertisement</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>OSPFv3</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) allows for a flexible definition of end-to-end paths by encoding paths as sequences of topological subpaths, called "segments". These segments are advertised by routing protocols, e.g., by the link-state routing protocols (IS-IS, OSPFv2, and OSPFv3) within IGP topologies.&lt;/p&gt;&lt;p&gt;This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) address family in order to carry SR information via BGP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

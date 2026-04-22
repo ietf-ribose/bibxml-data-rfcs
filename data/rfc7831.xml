@@ -1,0 +1,30 @@
+<reference anchor="RFC7831" target="https://www.rfc-editor.org/info/rfc7831">
+  <front>
+    <title>Application Bridging for Federated Access Beyond Web (ABFAB) Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7831"/>
+    <seriesInfo name="RFC" value="7831"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Howlett" fullname="J. Howlett"/>
+    <author initials="S." surname="Hartman" fullname="S. Hartman"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Application Bridging for Federated Access Beyond web</workgroup>
+    <keyword>Federated Authentication</keyword>
+    <keyword>AAA</keyword>
+    <keyword>RADIUS</keyword>
+    <keyword>Diameter</keyword>
+    <keyword>GSS-API</keyword>
+    <keyword>EAP</keyword>
+    <keyword>SAML</keyword>
+    <abstract>
+      <t>&lt;p&gt;Over the last decade, a substantial amount of work has occurred in the space of federated access management. Most of this effort has focused on two use cases: network access and web-based access. However, the solutions to these use cases that have been proposed and deployed tend to have few building blocks in common.&lt;/p&gt;&lt;p&gt;This memo describes an architecture that makes use of extensions to the commonly used security mechanisms for both federated and non-federated access management, including the Remote Authentication Dial-In User Service (RADIUS), the Generic Security Service Application Program Interface (GSS-API), the Extensible Authentication Protocol (EAP), and the Security Assertion Markup Language (SAML). The architecture addresses the problem of federated access management to primarily non-web-based services, in a manner that will scale to large numbers of Identity Providers, Relying Parties, and federations.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

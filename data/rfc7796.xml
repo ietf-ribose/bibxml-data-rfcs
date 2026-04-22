@@ -1,0 +1,23 @@
+<reference anchor="RFC7796" target="https://www.rfc-editor.org/info/rfc7796">
+  <front>
+    <title>Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7796"/>
+    <seriesInfo name="RFC" value="7796"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Jiang" fullname="Y. Jiang" role="editor"/>
+    <author initials="L." surname="Yong" fullname="L. Yong"/>
+    <author initials="M." surname="Paul" fullname="M. Paul"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2016"></date>
+    <workgroup>Pseudowire And LDP-enabled Services</workgroup>
+    <keyword>Etree</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a generic Virtual Private LAN Service (VPLS) solution, which uses VLANs to indicate root or leaf traffic to support Ethernet-Tree (E-Tree) services.  A VPLS Provider Edge (PE) model is illustrated as an example for the solution.  In the solution, E-Tree VPLS PEs are interconnected by Pseudowires (PWs), which carry the VLAN indicating the E-Tree attribute.  The MAC address-based Ethernet forwarding engine and the PW work in the same way as specified in RFC 4762 and RFC 4448, respectively.  A signaling mechanism is described to support E-Tree capability and VLAN mapping negotiation.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

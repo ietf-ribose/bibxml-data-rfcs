@@ -1,0 +1,31 @@
+<reference anchor="RFC8417" target="https://www.rfc-editor.org/info/rfc8417">
+  <front>
+    <title>Security Event Token (SET)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8417"/>
+    <seriesInfo name="RFC" value="8417"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Hunt" fullname="P. Hunt" role="editor"/>
+    <author initials="M." surname="Jones" fullname="M. Jones"/>
+    <author initials="W." surname="Denniss" fullname="W. Denniss"/>
+    <author initials="M." surname="Ansari" fullname="M. Ansari"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2018"></date>
+    <workgroup>Security Events</workgroup>
+    <keyword>Identity</keyword>
+    <keyword>Security</keyword>
+    <keyword>Event</keyword>
+    <keyword>Token</keyword>
+    <keyword>Claims</keyword>
+    <keyword>JSON</keyword>
+    <keyword>JSON Web Token</keyword>
+    <keyword>JWT</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines the Security Event Token (SET) data structure.  A SET describes statements of fact from the perspective of an issuer about a subject.  These statements of fact represent an event that occurred directly to or about a security subject, for example, a statement about the issuance or revocation of a token on behalf of a subject.  This specification is intended to enable representing security- and identity-related events.  A SET is a JSON Web Token (JWT), which can be optionally signed and/or encrypted.  SETs can be distributed via protocols such as HTTP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

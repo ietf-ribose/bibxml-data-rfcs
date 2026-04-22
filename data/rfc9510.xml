@@ -1,0 +1,26 @@
+<reference anchor="RFC9510" target="https://www.rfc-editor.org/info/rfc9510">
+  <front>
+    <title>Alternative Delta Time Encoding for Content-Centric Networking (CCNx) Using Compact Floating-Point Arithmetic</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9510"/>
+    <seriesInfo name="RFC" value="9510"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="C." surname="Gündoğan" fullname="C. Gündoğan"/>
+    <author initials="T." surname="Schmidt" fullname="T. Schmidt"/>
+    <author initials="D." surname="Oran" fullname="D. Oran"/>
+    <author initials="M." surname="Wählisch" fullname="M. Wählisch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2024"></date>
+    <keyword>CCNx</keyword>
+    <keyword>constrained networks</keyword>
+    <keyword>compressed delta time</keyword>
+    <keyword>IoT</keyword>
+    <abstract>
+      <t>&lt;p&gt;Content-Centric Networking (CCNx) utilizes delta time for a number of functions. When using CCNx in environments with constrained nodes or bandwidth constrained networks, it is valuable to have a compressed representation of delta time. In order to do so, either accuracy or dynamic range has to be sacrificed. Since the current uses of delta time do not require both simultaneously, one can consider a logarithmic encoding. This document updates RFC 8609 ("CCNx messages in TLV Format") to specify this alternative encoding.&lt;/p&gt;&lt;p&gt;This document is a product of the IRTF Information-Centric Networking Research Group (ICNRG).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

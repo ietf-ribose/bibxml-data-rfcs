@@ -1,0 +1,22 @@
+<reference anchor="RFC1535" target="https://www.rfc-editor.org/info/rfc1535">
+  <front>
+    <title>A Security Problem and Proposed Correction With Widely Deployed DNS Software</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1535"/>
+    <seriesInfo name="RFC" value="1535"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="E." surname="Gavron" fullname="E. Gavron"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="1993"></date>
+    <keyword>Domain</keyword>
+    <keyword>Name</keyword>
+    <keyword>System</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document discusses a flaw in some of the currently distributed name resolver clients.  The flaw exposes a security weakness related to the search heuristic invoked by these same resolvers when users provide a partial domain name, and which is easy to exploit.  This document points out the flaw, a case in point, and a solution.  This memo provides information for the Internet community.  It does not specify an Internet standard.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="RFC7001" target="https://www.rfc-editor.org/info/rfc7001">
+  <front>
+    <title>Message Header Field for Indicating Message Authentication Status</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7001"/>
+    <seriesInfo name="RFC" value="7001"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Kucherawy" fullname="M. Kucherawy"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2013"></date>
+    <workgroup>ART Area General Applications Working Group</workgroup>
+    <keyword>DKIM</keyword>
+    <keyword>DomainKeys</keyword>
+    <keyword>SenderID</keyword>
+    <keyword>SPF</keyword>
+    <keyword>ADSP</keyword>
+    <keyword>ATPS</keyword>
+    <keyword>VBR</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Reputation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a message header field called Authentication- Results for use with electronic mail messages to indicate the results of message authentication efforts.  Any receiver-side software, such as mail filters or Mail User Agents (MUAs), can use this header field to relay that information in a convenient and meaningful way to users or to make sorting and filtering decisions.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

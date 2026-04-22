@@ -1,0 +1,24 @@
+<reference anchor="RFC8580" target="https://www.rfc-editor.org/info/rfc8580">
+  <front>
+    <title>Sieve Extension: File Carbon Copy (FCC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8580"/>
+    <seriesInfo name="RFC" value="8580"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Murchison" fullname="K. Murchison"/>
+    <author initials="B." surname="Gondwana" fullname="B. Gondwana"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2019"></date>
+    <workgroup>Email mailstore and eXtensions To Revise or Amend</workgroup>
+    <keyword>Sieve</keyword>
+    <keyword>Vacation</keyword>
+    <keyword>Notify</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Sieve email filtering language provides a number of action commands, some of which can generate additional messages on behalf of the user. This document defines an extension to such commands to allow a copy of any generated message to be filed into a target mailbox.&lt;/p&gt;&lt;p&gt;This document updates RFCs 5230 and 5435 by adding a new tagged argument to the Vacation and Notify actions, respectively.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

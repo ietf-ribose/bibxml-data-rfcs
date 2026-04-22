@@ -1,0 +1,31 @@
+<reference anchor="RFC8509" target="https://www.rfc-editor.org/info/rfc8509">
+  <front>
+    <title>A Root Key Trust Anchor Sentinel for DNSSEC</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8509"/>
+    <seriesInfo name="RFC" value="8509"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Huston" fullname="G. Huston"/>
+    <author initials="J." surname="Damas" fullname="J. Damas"/>
+    <author initials="W." surname="Kumari" fullname="W. Kumari"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2018"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNSSEC</keyword>
+    <keyword>KSK</keyword>
+    <keyword>RFC5011</keyword>
+    <keyword>DNS</keyword>
+    <keyword>rollover</keyword>
+    <keyword>root-key-sentinel-is-ta-</keyword>
+    <keyword>root-key-sentinel-not-ta-</keyword>
+    <keyword>root key</keyword>
+    <keyword>security</keyword>
+    <abstract>
+      <t>&lt;p&gt;The DNS Security Extensions (DNSSEC) were developed to provide origin authentication and integrity protection for DNS data by using digital signatures.  These digital signatures can be verified by building a chain of trust starting from a trust anchor and proceeding down to a particular node in the DNS.  This document specifies a mechanism that will allow an end user and third parties to determine the trusted key state for the root key of the resolvers that handle that user's DNS queries.  Note that this method is only applicable for determining which keys are in the trust store for the root key.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

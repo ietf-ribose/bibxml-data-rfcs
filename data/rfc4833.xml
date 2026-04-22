@@ -1,0 +1,25 @@
+<reference anchor="RFC4833" target="https://www.rfc-editor.org/info/rfc4833">
+  <front>
+    <title>Timezone Options for DHCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4833"/>
+    <seriesInfo name="RFC" value="4833"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Lear" fullname="E. Lear"/>
+    <author initials="P." surname="Eggert" fullname="P. Eggert"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2007"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>time offset</keyword>
+    <keyword>posix</keyword>
+    <keyword>tz database</keyword>
+    <keyword>tz</keyword>
+    <abstract>
+      <t>&lt;p&gt;Two common ways to communicate timezone information are POSIX 1003.1 timezone strings and timezone database names.  This memo specifies DHCP options for each of those methods.  The DHCPv4 time offset option is deprecated. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

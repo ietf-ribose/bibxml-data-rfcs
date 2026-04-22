@@ -1,0 +1,32 @@
+<reference anchor="RFC9134" target="https://www.rfc-editor.org/info/rfc9134">
+  <front>
+    <title>RTP Payload Format for ISO/IEC 21122 (JPEG XS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9134"/>
+    <seriesInfo name="RFC" value="9134"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Bruylants" fullname="T. Bruylants"/>
+    <author initials="A." surname="Descampe" fullname="A. Descampe"/>
+    <author initials="C." surname="Damman" fullname="C. Damman"/>
+    <author initials="T." surname="Richter" fullname="T. Richter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2021"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>video</keyword>
+    <keyword>transport</keyword>
+    <keyword>protocol</keyword>
+    <keyword>joint</keyword>
+    <keyword>photographic</keyword>
+    <keyword>experts</keyword>
+    <keyword>group</keyword>
+    <keyword>real-time</keyword>
+    <keyword>stream</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a Real-Time Transport Protocol (RTP) payload format to be used for transporting video encoded with JPEG XS (ISO/IEC 21122).  JPEG XS is a low-latency, lightweight image coding system.  Compared to an uncompressed video use case, it allows higher resolutions and video frame rates while offering visually lossless quality, reduced power consumption, and encoding-decoding latency confined to a fraction of a video frame.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

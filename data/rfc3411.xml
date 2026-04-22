@@ -1,0 +1,26 @@
+<reference anchor="RFC3411" target="https://www.rfc-editor.org/info/rfc3411">
+  <front>
+    <title>An Architecture for Describing Simple Network Management Protocol (SNMP) Management Frameworks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3411"/>
+    <seriesInfo name="STD" value="62"/>
+    <seriesInfo name="RFC" value="3411"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Harrington" fullname="D. Harrington"/>
+    <author initials="R." surname="Presuhn" fullname="R. Presuhn"/>
+    <author initials="B." surname="Wijnen" fullname="B. Wijnen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2002"></date>
+    <workgroup>SNMP Version 3</workgroup>
+    <keyword>ARCH-SNMP</keyword>
+    <keyword>Architecture</keyword>
+    <keyword>simple network management protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an architecture for describing Simple Network Management Protocol (SNMP) Management Frameworks.  The architecture is designed to be modular to allow the evolution of the SNMP protocol standards over time.  The major portions of the architecture are an SNMP engine containing a Message Processing Subsystem, a Security Subsystem and an Access Control Subsystem, and possibly multiple SNMP applications which provide specific functional processing of management data.  This document obsoletes RFC 2571. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

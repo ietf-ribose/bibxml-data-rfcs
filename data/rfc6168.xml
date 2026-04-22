@@ -1,0 +1,23 @@
+<reference anchor="RFC6168" target="https://www.rfc-editor.org/info/rfc6168">
+  <front>
+    <title>Requirements for Management of Name Servers for the DNS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6168"/>
+    <seriesInfo name="RFC" value="6168"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Hardaker" fullname="W. Hardaker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2011"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>Domain Name System</keyword>
+    <keyword>Management</keyword>
+    <abstract>
+      <t>&lt;p&gt;Management of name servers for the Domain Name System (DNS) has traditionally been done using vendor-specific monitoring, configuration, and control methods. Although some service monitoring platforms can test the functionality of the DNS itself, there is not an interoperable way to manage (monitor, control, and configure) the internal aspects of a name server itself.&lt;/p&gt;&lt;p&gt;This document discusses the requirements of a management system for name servers and can be used as a shopping list of needed features for such a system. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

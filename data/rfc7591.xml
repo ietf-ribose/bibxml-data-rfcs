@@ -1,0 +1,32 @@
+<reference anchor="RFC7591" target="https://www.rfc-editor.org/info/rfc7591">
+  <front>
+    <title>OAuth 2.0 Dynamic Client Registration Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7591"/>
+    <seriesInfo name="RFC" value="7591"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Richer" fullname="J. Richer" role="editor"/>
+    <author initials="M." surname="Jones" fullname="M. Jones"/>
+    <author initials="J." surname="Bradley" fullname="J. Bradley"/>
+    <author initials="M." surname="Machulak" fullname="M. Machulak"/>
+    <author initials="P." surname="Hunt" fullname="P. Hunt"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2015"></date>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <keyword>OpenID Connect Dynamic Client Registration</keyword>
+    <keyword>OpenID Connect</keyword>
+    <keyword>oidc</keyword>
+    <keyword>openid</keyword>
+    <keyword>user managed access</keyword>
+    <keyword>uma</keyword>
+    <keyword>Dynamic Registration</keyword>
+    <keyword>Dynamic Client Registration</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines mechanisms for dynamically registering OAuth 2.0 clients with authorization servers.  Registration requests send a set of desired client metadata values to the authorization server.  The resulting registration responses return a client identifier to use at the authorization server and the client metadata values registered for the client.  The client can then use this registration information to communicate with the authorization server using the OAuth 2.0 protocol.  This specification also defines a set of common client metadata fields and values for clients to use during registration.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

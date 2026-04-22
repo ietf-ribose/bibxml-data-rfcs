@@ -1,0 +1,23 @@
+<reference anchor="RFC5588" target="https://www.rfc-editor.org/info/rfc5588">
+  <front>
+    <title>Generic Security Service Application Program Interface (GSS-API) Extension for Storing Delegated Credentials</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5588"/>
+    <seriesInfo name="RFC" value="5588"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Williams" fullname="N. Williams"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2009"></date>
+    <workgroup>Common Authentication Technology Next Generation</workgroup>
+    <keyword>GSS-API</keyword>
+    <keyword>credential</keyword>
+    <keyword>gss_store_cred</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new function for the Generic Security Service Application Program Interface (GSS-API), which allows applications to store delegated (and other) credentials in the implicit GSS-API credential store.  This is needed for GSS-API applications to use delegated credentials as they would use other credentials. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

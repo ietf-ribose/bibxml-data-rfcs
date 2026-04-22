@@ -1,0 +1,26 @@
+<reference anchor="RFC5838" target="https://www.rfc-editor.org/info/rfc5838">
+  <front>
+    <title>Support of Address Families in OSPFv3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5838"/>
+    <seriesInfo name="RFC" value="5838"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem" role="editor"/>
+    <author initials="S." surname="Mirtorabi" fullname="S. Mirtorabi"/>
+    <author initials="A." surname="Roy" fullname="A. Roy"/>
+    <author initials="M." surname="Barnes" fullname="M. Barnes"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2010"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>af</keyword>
+    <keyword>instance id</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a mechanism for supporting multiple address families (AFs) in OSPFv3 using multiple instances.  It maps an AF to an OSPFv3 instance using the Instance ID field in the OSPFv3 packet header.  This approach is fairly simple and minimizes extensions to OSPFv3 for supporting multiple AFs. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

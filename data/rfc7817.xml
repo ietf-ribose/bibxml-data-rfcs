@@ -1,0 +1,25 @@
+<reference anchor="RFC7817" target="https://www.rfc-editor.org/info/rfc7817">
+  <front>
+    <title>Updated Transport Layer Security (TLS) Server Identity Check Procedure for Email-Related Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7817"/>
+    <seriesInfo name="RFC" value="7817"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2016"></date>
+    <workgroup>Using TLS in Applications</workgroup>
+    <keyword>SMTP</keyword>
+    <keyword>Submission</keyword>
+    <keyword>IMAP</keyword>
+    <keyword>POP</keyword>
+    <keyword>ManageSieve</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Transport Layer Security (TLS) server identity verification procedure for SMTP Submission, IMAP, POP, and ManageSieve clients.  It replaces Section 2.4 (Server Identity Check) of RFC 2595 and updates Section 4.1 (Processing After the STARTTLS Command) of RFC 3207, Section 11.1 (STARTTLS Security Considerations) of RFC 3501, and Section 2.2.1 (Server Identity Check) of RFC 5804.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC4731" target="https://www.rfc-editor.org/info/rfc4731">
+  <front>
+    <title>IMAP4 Extension to SEARCH Command for Controlling What Kind of Information Is Returned</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4731"/>
+    <seriesInfo name="RFC" value="4731"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov"/>
+    <author initials="D." surname="Cridland" fullname="D. Cridland"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2006"></date>
+    <keyword>uid search</keyword>
+    <keyword>uid</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document extends IMAP (RFC 3501) SEARCH and UID SEARCH commands with several result options, which can control what kind of information is returned.  The following result options are defined: minimal value, maximal value, all found messages, and number of found messages. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

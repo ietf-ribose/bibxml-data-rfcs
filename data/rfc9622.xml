@@ -1,0 +1,29 @@
+<reference anchor="RFC9622" target="https://www.rfc-editor.org/info/rfc9622">
+  <front>
+    <title>An Abstract Application Programming Interface (API) for Transport Services</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9622"/>
+    <seriesInfo name="RFC" value="9622"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Trammell" fullname="B. Trammell" role="editor"/>
+    <author initials="M." surname="Welzl" fullname="M. Welzl" role="editor"/>
+    <author initials="R." surname="Enghardt" fullname="R. Enghardt"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+    <author initials="M." surname="Kühlewind" fullname="M. Kühlewind"/>
+    <author initials="C. S." surname="Perkins" fullname="C. S. Perkins"/>
+    <author initials="P.S." surname="Tiesel" fullname="P.S. Tiesel"/>
+    <author initials="T." surname="Pauly" fullname="T. Pauly"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2025"></date>
+    <workgroup>Transport Services</workgroup>
+    <keyword>Happy Eyeballs</keyword>
+    <keyword>Transport Selection</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an abstract Application Programming Interface (API) to the transport layer that enables the selection of transport protocols and network paths dynamically at runtime.  This API enables faster deployment of new protocols and protocol features without requiring changes to the applications.  The specified API follows the Transport Services Architecture by providing asynchronous, atomic transmission of Messages.  It is intended to replace the BSD Socket API as the common interface to the transport layer, in an environment where endpoints could select from multiple network paths and potential transport protocols.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

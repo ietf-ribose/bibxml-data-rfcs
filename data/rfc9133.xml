@@ -1,0 +1,33 @@
+<reference anchor="RFC9133" target="https://www.rfc-editor.org/info/rfc9133">
+  <front>
+    <title>Controlling Filtering Rules Using Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9133"/>
+    <seriesInfo name="RFC" value="9133"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Nishizuka" fullname="K. Nishizuka"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="T." surname="Reddy.K" fullname="T. Reddy.K"/>
+    <author initials="T." surname="Nagata" fullname="T. Nagata"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2021"></date>
+    <workgroup>DDoS Open Threat Signaling</workgroup>
+    <keyword>Mitigation</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Filtering</keyword>
+    <keyword>Protective Networking</keyword>
+    <keyword>Protected Networks</keyword>
+    <keyword>Security</keyword>
+    <keyword>Anti-DDoS</keyword>
+    <keyword>Reactive</keyword>
+    <keyword>Collaborative Networking</keyword>
+    <keyword>Collaborative Security</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an extension to the Distributed Denial-of-Service Open Threat Signaling (DOTS) signal channel protocol so that DOTS clients can control their filtering rules when an attack mitigation is active.&lt;/p&gt;&lt;p&gt;Particularly, this extension allows a DOTS client to activate or deactivate existing filtering rules during a Distributed Denial-of-Service (DDoS) attack. The characterization of these filtering rules is conveyed by a DOTS client during an 'idle' time (i.e., no mitigation is active) by means of the DOTS data channel protocol.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

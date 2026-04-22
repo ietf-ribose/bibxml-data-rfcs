@@ -1,0 +1,26 @@
+<reference anchor="RFC8869" target="https://www.rfc-editor.org/info/rfc8869">
+  <front>
+    <title>Evaluation Test Cases for Interactive Real-Time Media over Wireless Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8869"/>
+    <seriesInfo name="RFC" value="8869"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Sarker" fullname="Z. Sarker"/>
+    <author initials="X." surname="Zhu" fullname="X. Zhu"/>
+    <author initials="J." surname="Fu" fullname="J. Fu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>RTP Media Congestion Avoidance Techniques</workgroup>
+    <keyword>Cellular Network</keyword>
+    <keyword>Wi-Fi Network</keyword>
+    <keyword>Congestion Control</keyword>
+    <keyword>RTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Real-time Transport Protocol (RTP) is a common transport choice for interactive multimedia communication applications.  The performance of these applications typically depends on a well-functioning congestion control algorithm.  To ensure a seamless and robust user experience, a well-designed RTP-based congestion control algorithm should work well across all access network types.  This document describes test cases for evaluating performances of candidate congestion control algorithms over cellular and Wi-Fi networks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

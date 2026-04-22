@@ -1,0 +1,26 @@
+<reference anchor="RFC4788" target="https://www.rfc-editor.org/info/rfc4788">
+  <front>
+    <title>Enhancements to RTP Payload Formats for EVRC Family Codecs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4788"/>
+    <seriesInfo name="RFC" value="4788"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Xie" fullname="Q. Xie"/>
+    <author initials="R." surname="Kapoor" fullname="R. Kapoor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2007"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>enhanced variable rate codec</keyword>
+    <keyword>real time transmission protocol</keyword>
+    <keyword>evrc-b</keyword>
+    <keyword>dtx</keyword>
+    <keyword>discontinuous transmission</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document updates the Enhanced Variable Rate Codec (EVRC) RTP payload formats defined in RFC 3558 with several enhancements and extensions.  In particular, it defines support for the header-free and interleaved/bundled packet formats for the EVRC-B codec, a new compact bundled format for the EVRC and EVRC-B codecs, as well as discontinuous transmission (DTX) support for EVRC and EVRC-B-encoded speech transported via RTP.  Voice over IP (VoIP) applications operating over low bandwidth dial-up and wireless networks require such enhancements for efficient use of the bandwidth. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="RFC8556" target="https://www.rfc-editor.org/info/rfc8556">
+  <front>
+    <title>Multicast VPN Using Bit Index Explicit Replication (BIER)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8556"/>
+    <seriesInfo name="RFC" value="8556"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen" role="editor"/>
+    <author initials="M." surname="Sivakumar" fullname="M. Sivakumar"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author initials="A." surname="Dolganow" fullname="A. Dolganow"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2019"></date>
+    <workgroup>Bit Indexed Explicit Replication</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Multicast Virtual Private Network (MVPN) specifications require the use of multicast tunnels ("P-tunnels") that traverse a service provider's backbone network.  The P-tunnels are used for carrying multicast traffic across the backbone.  A variety of P-tunnel types are supported.  Bit Index Explicit Replication (BIER) is a new architecture that provides optimal multicast forwarding through a "multicast domain", without requiring intermediate routers to maintain any per-flow state or to engage in an explicit tree-building protocol.  This document specifies the protocol and procedures that allow MVPN to use BIER as the method of carrying multicast traffic over a service provider's backbone network.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

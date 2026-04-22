@@ -1,0 +1,43 @@
+<reference anchor="RFC9797" target="https://www.rfc-editor.org/info/rfc9797">
+  <front>
+    <title>Randomized and Changing Media Access Control (MAC) Addresses: Context, Network Impacts, and Use Cases</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9797"/>
+    <seriesInfo name="RFC" value="9797"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Henry" fullname="J. Henry"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>MAC Address Device Identification for Network and Application Services</workgroup>
+    <keyword>RCM</keyword>
+    <keyword>Universal MAC address</keyword>
+    <keyword>Local MAC address</keyword>
+    <keyword>Locally Administered MAC address</keyword>
+    <keyword>Personal Device</keyword>
+    <keyword>Shared Service Device</keyword>
+    <keyword>Network Functional Entities</keyword>
+    <keyword>Human-Related Entities</keyword>
+    <keyword>Over-the-Air (OTA) observers</keyword>
+    <keyword>Wireless access network operators</keyword>
+    <keyword>Network access providers</keyword>
+    <keyword>Over-the-Wired internal (OTWi) observers</keyword>
+    <keyword>Over-the-Wired external (OTWe) observers</keyword>
+    <keyword>full trust</keyword>
+    <keyword>selective trust</keyword>
+    <keyword>zero trust</keyword>
+    <keyword>privacy</keyword>
+    <keyword>Residential settings</keyword>
+    <keyword>Managed residential settings</keyword>
+    <keyword>public guest network</keyword>
+    <keyword>Enterprises with Bring-Your-Own-Device (BYOD)</keyword>
+    <keyword>Managed Enterprises</keyword>
+    <abstract>
+      <t>&lt;p&gt;To limit the privacy issues created by the association between a device, its traffic, its location, and its user in IEEE 802 networks, client vendors and client OS vendors have started implementing Media Access Control (MAC) address randomization. This technology is particularly important in Wi-Fi networks (defined in IEEE 802.11) due to the over-the-air medium and device mobility. When such randomization happens, some in-network states may break, which may affect network connectivity and user experience. At the same time, devices may continue using other stable identifiers, defeating the purpose of MAC address randomization.&lt;/p&gt;&lt;p&gt;This document lists various network environments and a range of network services that may be affected by such randomization. This document then examines settings where the user experience may be affected by in-network state disruption. Last, this document examines some existing frameworks that maintain user privacy while preserving user quality of experience and network operation efficiency.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

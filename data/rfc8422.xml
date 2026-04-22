@@ -1,0 +1,24 @@
+<reference anchor="RFC8422" target="https://www.rfc-editor.org/info/rfc8422">
+  <front>
+    <title>Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS) Versions 1.2 and Earlier</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8422"/>
+    <seriesInfo name="RFC" value="8422"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Nir" fullname="Y. Nir"/>
+    <author initials="S." surname="Josefsson" fullname="S. Josefsson"/>
+    <author initials="M." surname="Pegourie-Gonnard" fullname="M. Pegourie-Gonnard"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2018"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>ECDSA</keyword>
+    <keyword>EdDSA</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes key exchange algorithms based on Elliptic Curve Cryptography (ECC) for the Transport Layer Security (TLS) protocol. In particular, it specifies the use of Ephemeral Elliptic Curve Diffie-Hellman (ECDHE) key agreement in a TLS handshake and the use of the Elliptic Curve Digital Signature Algorithm (ECDSA) and Edwards-curve Digital Signature Algorithm (EdDSA) as authentication mechanisms.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 4492.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

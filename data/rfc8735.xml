@@ -1,0 +1,26 @@
+<reference anchor="RFC8735" target="https://www.rfc-editor.org/info/rfc8735">
+  <front>
+    <title>Scenarios and Simulation Results of PCE in a Native IP Network</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8735"/>
+    <seriesInfo name="RFC" value="8735"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Wang" fullname="A. Wang"/>
+    <author initials="X." surname="Huang" fullname="X. Huang"/>
+    <author initials="C." surname="Kou" fullname="C. Kou"/>
+    <author initials="Z." surname="Li" fullname="Z. Li"/>
+    <author initials="P." surname="Mi" fullname="P. Mi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2020"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>CCDR</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <abstract>
+      <t>&lt;p&gt;Requirements for providing the End-to-End (E2E) performance assurance are emerging within the service provider networks. While there are various technology solutions, there is no single solution that can fulfill these requirements for a native IP network. In particular, there is a need for a universal E2E solution that can cover both intra- and inter-domain scenarios.&lt;/p&gt;&lt;p&gt;One feasible E2E traffic-engineering solution is the addition of central control in a native IP network. This document describes various complex scenarios and simulation results when applying the Path Computation Element (PCE) in a native IP network. This solution, referred to as Centralized Control Dynamic Routing (CCDR), integrates the advantage of using distributed protocols and the power of a centralized control technology, providing traffic engineering for native IP networks in a manner that applies equally to intra- and inter-domain scenarios.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

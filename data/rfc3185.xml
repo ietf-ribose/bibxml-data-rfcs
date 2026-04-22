@@ -1,0 +1,28 @@
+<reference anchor="RFC3185" target="https://www.rfc-editor.org/info/rfc3185">
+  <front>
+    <title>Reuse of CMS Content Encryption Keys</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3185"/>
+    <seriesInfo name="RFC" value="3185"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Farrell" fullname="S. Farrell"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2001"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>CMS</keyword>
+    <keyword>Content Encryption Keys</keyword>
+    <keyword>cryptographic</keyword>
+    <keyword>message</keyword>
+    <keyword>syntax</keyword>
+    <keyword>data</keyword>
+    <keyword>packets</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a way to include a key identifier in a CMS (Cryptographic Message Syntax) enveloped data structure, so that the content encryption key can be re-used for further enveloped data packets. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

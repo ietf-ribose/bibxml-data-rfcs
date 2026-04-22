@@ -1,0 +1,34 @@
+<reference anchor="RFC5754" target="https://www.rfc-editor.org/info/rfc5754">
+  <front>
+    <title>Using SHA2 Algorithms with Cryptographic Message Syntax</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5754"/>
+    <seriesInfo name="RFC" value="5754"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2010"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>secure hash algorithm</keyword>
+    <keyword>message digest algorithm</keyword>
+    <keyword>sha-224</keyword>
+    <keyword>sha-256</keyword>
+    <keyword>sha-384</keyword>
+    <keyword>sha-512</keyword>
+    <keyword>cms</keyword>
+    <keyword>dsa</keyword>
+    <keyword>digital signature algorithm</keyword>
+    <keyword>rsa</keyword>
+    <keyword>rivest sharmi adleman</keyword>
+    <keyword>ecdsa</keyword>
+    <keyword>elliptic curve dsa</keyword>
+    <keyword>smimecapabilities</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the conventions for using the Secure Hash Algorithm (SHA) message digest algorithms (SHA-224, SHA-256, SHA-384, SHA-512) with the Cryptographic Message Syntax (CMS).  It also describes the conventions for using these algorithms with the CMS and the Digital Signature Algorithm (DSA), Rivest Shamir Adleman (RSA), and Elliptic Curve DSA (ECDSA) signature algorithms.  Further, it provides SMIMECapabilities attribute values for each algorithm. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

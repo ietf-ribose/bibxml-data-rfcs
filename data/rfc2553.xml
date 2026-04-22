@@ -1,0 +1,31 @@
+<reference anchor="RFC2553" target="https://www.rfc-editor.org/info/rfc2553">
+  <front>
+    <title>Basic Socket Interface Extensions for IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2553"/>
+    <seriesInfo name="RFC" value="2553"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Gilligan" fullname="R. Gilligan"/>
+    <author initials="S." surname="Thomson" fullname="S. Thomson"/>
+    <author initials="J." surname="Bound" fullname="J. Bound"/>
+    <author initials="W." surname="Stevens" fullname="W. Stevens"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="1999"></date>
+    <workgroup>IPNG</workgroup>
+    <keyword>internet</keyword>
+    <keyword>protocol</keyword>
+    <keyword>api</keyword>
+    <keyword>application</keyword>
+    <keyword>program</keyword>
+    <keyword>interface</keyword>
+    <keyword>tcp</keyword>
+    <keyword>transmission control</keyword>
+    <abstract>
+      <t>&lt;p&gt;TCP/IP applications written using the sockets API have in the past enjoyed a high degree of portability and we would like the same portability with IPv6 applications.  But changes are required to the sockets API to support IPv6 and this memo describes these changes.  These include a new socket address structure to carry IPv6 addresses, new address conversion functions, and some new socket options.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

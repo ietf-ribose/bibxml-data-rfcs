@@ -1,0 +1,21 @@
+<reference anchor="RFC7145" target="https://www.rfc-editor.org/info/rfc7145">
+  <front>
+    <title>Internet Small Computer System Interface (iSCSI) Extensions for the Remote Direct Memory Access (RDMA) Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7145"/>
+    <seriesInfo name="RFC" value="7145"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Ko" fullname="M. Ko"/>
+    <author initials="A." surname="Nezhinsky" fullname="A. Nezhinsky"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2014"></date>
+    <workgroup>STORage Maintenance</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Internet Small Computer System Interface (iSCSI) Extensions for Remote Direct Memory Access (RDMA) provides the RDMA data transfer capability to iSCSI by layering iSCSI on top of an RDMA-Capable Protocol. An RDMA-Capable Protocol provides RDMA Read and Write services, which enable data to be transferred directly into SCSI I/O Buffers without intermediate data copies. This document describes the extensions to the iSCSI protocol to support RDMA services as provided by an RDMA-Capable Protocol.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 5046.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

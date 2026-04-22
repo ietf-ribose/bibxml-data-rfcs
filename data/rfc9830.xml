@@ -1,0 +1,24 @@
+<reference anchor="RFC9830" target="https://www.rfc-editor.org/info/rfc9830">
+  <front>
+    <title>Advertising Segment Routing Policies in BGP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9830"/>
+    <seriesInfo name="RFC" value="9830"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="P." surname="Mattes" fullname="P. Mattes"/>
+    <author initials="D." surname="Jain" fullname="D. Jain"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <abstract>
+      <t>&lt;p&gt;A Segment Routing (SR) Policy is an ordered list of segments (also referred to as "instructions") that define a source-routed policy. An SR Policy consists of one or more Candidate Paths (CPs), each comprising one or more segment lists. A headend can be provisioned with these CPs using various mechanisms such as Command-Line Interface (CLI), Network Configuration Protocol (NETCONF), Path Computation Element Communication Protocol (PCEP), or BGP.&lt;/p&gt;&lt;p&gt;This document specifies how BGP can be used to distribute SR Policy CPs. It introduces a BGP SAFI for advertising a CP of an SR Policy and defines sub-TLVs for the Tunnel Encapsulation Attribute to signal information related to these CPs.&lt;/p&gt;&lt;p&gt;Furthermore, this document updates RFC 9012 by extending the Color Extended Community to support additional steering modes over SR Policy.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

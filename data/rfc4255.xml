@@ -1,0 +1,24 @@
+<reference anchor="RFC4255" target="https://www.rfc-editor.org/info/rfc4255">
+  <front>
+    <title>Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4255"/>
+    <seriesInfo name="RFC" value="4255"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schlyter" fullname="J. Schlyter"/>
+    <author initials="W." surname="Griffin" fullname="W. Griffin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Secure Shell</workgroup>
+    <keyword>domain name system</keyword>
+    <keyword>dnssec</keyword>
+    <keyword>domain name system security</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a method of verifying Secure Shell (SSH) host keys using Domain Name System Security (DNSSEC).  The document defines a new DNS resource record that contains a standard SSH key fingerprint. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

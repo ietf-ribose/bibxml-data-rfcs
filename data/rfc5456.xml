@@ -1,0 +1,27 @@
+<reference anchor="RFC5456" target="https://www.rfc-editor.org/info/rfc5456">
+  <front>
+    <title>IAX: Inter-Asterisk eXchange Version 2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5456"/>
+    <seriesInfo name="RFC" value="5456"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="M." surname="Spencer" fullname="M. Spencer"/>
+    <author initials="B." surname="Capouch" fullname="B. Capouch"/>
+    <author initials="E." surname="Guy" fullname="E. Guy" role="editor"/>
+    <author initials="F." surname="Miller" fullname="F. Miller"/>
+    <author initials="K." surname="Shumard" fullname="K. Shumard"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2010"></date>
+    <keyword>asterisk private branch exchange</keyword>
+    <keyword>pbx</keyword>
+    <keyword>voip</keyword>
+    <keyword>voice over internet protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes IAX, the Inter-Asterisk eXchange protocol, an application-layer control and media protocol for creating, modifying, and terminating multimedia sessions over Internet Protocol (IP) networks. IAX was developed by the open source community for the Asterisk Private Branch Exchange (PBX) and is targeted primarily at Voice over Internet Protocol (VoIP) call control, but it can be used with streaming video or any other type of multimedia.&lt;/p&gt;&lt;p&gt;IAX is an "all in one" protocol for handling multimedia in IP networks. It combines both control and media services in the same protocol. In addition, IAX uses a single UDP data stream on a static port greatly simplifying Network Address Translation (NAT) gateway traversal, eliminating the need for other protocols to work around NAT, and simplifying network and firewall management. IAX employs a compact encoding that decreases bandwidth usage and is well suited for Internet telephony service. In addition, its open nature permits new payload type additions needed to support additional services. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

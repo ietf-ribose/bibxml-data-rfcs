@@ -1,0 +1,25 @@
+<reference anchor="RFC6022" target="https://www.rfc-editor.org/info/rfc6022">
+  <front>
+    <title>YANG Module for NETCONF Monitoring</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6022"/>
+    <seriesInfo name="RFC" value="6022"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Scott" fullname="M. Scott"/>
+    <author initials="M." surname="Bjorklund" fullname="M. Bjorklund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2010"></date>
+    <workgroup>Network Configuration</workgroup>
+    <keyword>XML</keyword>
+    <keyword>NETCONF</keyword>
+    <keyword>YANG</keyword>
+    <keyword>monitoring</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a Network Configuration Protocol (NETCONF) data model to be used to monitor the NETCONF protocol.  The monitoring data model includes information about NETCONF datastores, sessions, locks, and statistics.  This data facilitates the management of a NETCONF server.  This document also defines methods for NETCONF clients to discover data models supported by a NETCONF server and defines a new NETCONF &lt;get-schema&gt; operation to retrieve them. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

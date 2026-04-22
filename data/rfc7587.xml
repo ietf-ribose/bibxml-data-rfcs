@@ -1,0 +1,23 @@
+<reference anchor="RFC7587" target="https://www.rfc-editor.org/info/rfc7587">
+  <front>
+    <title>RTP Payload Format for the Opus Speech and Audio Codec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7587"/>
+    <seriesInfo name="RFC" value="7587"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Spittka" fullname="J. Spittka"/>
+    <author initials="K." surname="Vos" fullname="K. Vos"/>
+    <author initials="JM." surname="Valin" fullname="JM. Valin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2015"></date>
+    <workgroup>Audio/Video Transport Payloads</workgroup>
+    <keyword>audio codec</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Real-time Transport Protocol (RTP) payload format for packetization of Opus-encoded speech and audio data necessary to integrate the codec in the most compatible way.  It also provides an applicability statement for the use of Opus over RTP.  Further, it describes media type registrations for the RTP payload format.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

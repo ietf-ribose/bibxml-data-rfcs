@@ -1,0 +1,31 @@
+<reference anchor="RFC9667" target="https://www.rfc-editor.org/info/rfc9667">
+  <front>
+    <title>Dynamic Flooding on Dense Graphs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9667"/>
+    <seriesInfo name="RFC" value="9667"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Li" fullname="T. Li" role="editor"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak" role="editor"/>
+    <author initials="H." surname="Chen" fullname="H. Chen"/>
+    <author initials="L." surname="Jalil" fullname="L. Jalil"/>
+    <author initials="S." surname="Dontula" fullname="S. Dontula"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2024"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>datacenter</keyword>
+    <keyword>IGP</keyword>
+    <keyword>routing</keyword>
+    <keyword>flooding</keyword>
+    <keyword>dense</keyword>
+    <keyword>graph</keyword>
+    <keyword>topology</keyword>
+    <abstract>
+      <t>&lt;p&gt;Routing with link-state protocols in dense network topologies can result in suboptimal convergence times due to the overhead associated with flooding. This can be addressed by decreasing the flooding topology so that it is less dense.&lt;/p&gt;&lt;p&gt;This document discusses the problem in some depth and an architectural solution. Specific protocol changes for IS-IS, OSPFv2, and OSPFv3 are described in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

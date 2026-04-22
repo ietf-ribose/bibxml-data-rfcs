@@ -1,0 +1,29 @@
+<reference anchor="RFC9135" target="https://www.rfc-editor.org/info/rfc9135">
+  <front>
+    <title>Integrated Routing and Bridging in Ethernet VPN (EVPN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9135"/>
+    <seriesInfo name="RFC" value="9135"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Sajassi" fullname="A. Sajassi"/>
+    <author initials="S." surname="Salam" fullname="S. Salam"/>
+    <author initials="S." surname="Thoria" fullname="S. Thoria"/>
+    <author initials="J." surname="Drake" fullname="J. Drake"/>
+    <author initials="J." surname="Rabadan" fullname="J. Rabadan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2021"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>IRB</keyword>
+    <keyword>inter-subnet-forwarding</keyword>
+    <keyword>symmetric</keyword>
+    <keyword>asymmetric</keyword>
+    <keyword>mobility</keyword>
+    <abstract>
+      <t>&lt;p&gt;Ethernet VPN (EVPN) provides an extensible and flexible multihoming VPN solution over an MPLS/IP network for intra-subnet connectivity among Tenant Systems and end devices that can be physical or virtual.  However, there are scenarios for which there is a need for a dynamic and efficient inter-subnet connectivity among these Tenant Systems and end devices while maintaining the multihoming capabilities of EVPN.  This document describes an Integrated Routing and Bridging (IRB) solution based on EVPN to address such requirements.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC7807" target="https://www.rfc-editor.org/info/rfc7807">
+  <front>
+    <title>Problem Details for HTTP APIs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7807"/>
+    <seriesInfo name="RFC" value="7807"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+    <author initials="E." surname="Wilde" fullname="E. Wilde"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2016"></date>
+    <workgroup>ART Area General Applications Working Group</workgroup>
+    <keyword>status</keyword>
+    <keyword>HTTP</keyword>
+    <keyword>error</keyword>
+    <keyword>problem</keyword>
+    <keyword>API</keyword>
+    <keyword>JSON</keyword>
+    <keyword>XML</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a "problem detail" as a way to carry machine- readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

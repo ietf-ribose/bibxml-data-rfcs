@@ -1,0 +1,25 @@
+<reference anchor="RFC5609" target="https://www.rfc-editor.org/info/rfc5609">
+  <front>
+    <title>State Machines for the Protocol for Carrying Authentication for Network Access (PANA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5609"/>
+    <seriesInfo name="RFC" value="5609"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Fajardo" fullname="V. Fajardo" role="editor"/>
+    <author initials="Y." surname="Ohba" fullname="Y. Ohba"/>
+    <author initials="R." surname="Marin-Lopez" fullname="R. Marin-Lopez"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2009"></date>
+    <workgroup>Protocol for carrying Authentication for Network Access</workgroup>
+    <keyword>PANA</keyword>
+    <keyword>State Machine</keyword>
+    <keyword>EAP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the conceptual state machines for the Protocol for Carrying Authentication for Network Access (PANA).  The state machines consist of the PANA Client (PaC) state machine and the PANA Authentication Agent (PAA) state machine.  The two state machines show how PANA can interface with the Extensible Authentication Protocol (EAP) state machines.  The state machines and associated models are informative only.  Implementations may achieve the same results using different methods.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

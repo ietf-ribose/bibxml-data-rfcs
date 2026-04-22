@@ -1,0 +1,25 @@
+<reference anchor="RFC9458" target="https://www.rfc-editor.org/info/rfc9458">
+  <front>
+    <title>Oblivious HTTP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9458"/>
+    <seriesInfo name="RFC" value="9458"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author initials="C. A." surname="Wood" fullname="C. A. Wood"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2024"></date>
+    <workgroup>Oblivious HTTP Application Intermediation</workgroup>
+    <keyword>privacy</keyword>
+    <keyword>proxy</keyword>
+    <keyword>partitioning</keyword>
+    <keyword>tunnel</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes Oblivious HTTP, a protocol for forwarding encrypted HTTP messages.  Oblivious HTTP allows a client to make multiple requests to an origin server without that server being able to link those requests to the client or to identify the requests as having come from the same client, while placing only limited trust in the nodes used to forward the messages.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

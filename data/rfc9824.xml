@@ -1,0 +1,31 @@
+<reference anchor="RFC9824" target="https://www.rfc-editor.org/info/rfc9824">
+  <front>
+    <title>Compact Denial of Existence in DNSSEC</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9824"/>
+    <seriesInfo name="RFC" value="9824"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Huque" fullname="S. Huque"/>
+    <author initials="C." surname="Elmerot" fullname="C. Elmerot"/>
+    <author initials="O." surname="Gudmundsson" fullname="O. Gudmundsson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>DNSSEC</keyword>
+    <keyword>Denial of Existence</keyword>
+    <keyword>Compact Denial of Existence</keyword>
+    <keyword>Compact Answers</keyword>
+    <keyword>Black Lies</keyword>
+    <keyword>NXDOMAIN</keyword>
+    <keyword>NODATA</keyword>
+    <keyword>Empty Non-Terminal</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a technique to generate a signed DNS response on demand for a nonexistent name by claiming that the name exists but doesn't have any data for the queried record type. Such responses require only one minimally covering NSEC or NSEC3 record, allow online signing servers to minimize signing operations and response sizes, and prevent zone content disclosure.&lt;/p&gt;&lt;p&gt;This document updates RFCs 4034 and 4035.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

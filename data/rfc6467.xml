@@ -1,0 +1,24 @@
+<reference anchor="RFC6467" target="https://www.rfc-editor.org/info/rfc6467">
+  <front>
+    <title>Secure Password Framework for Internet Key Exchange Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6467"/>
+    <seriesInfo name="RFC" value="6467"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Kivinen" fullname="T. Kivinen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2011"></date>
+    <keyword>IPsec</keyword>
+    <keyword>IKE</keyword>
+    <keyword>mutual authentication</keyword>
+    <keyword>credentials</keyword>
+    <keyword>VPN gateway</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a generic way for Internet Key Exchange version 2 (IKEv2) to use any of the symmetric secure password authentication methods.  Multiple methods are already specified in other documents, and this document does not add any new one.  This document specifies a way to agree on which method is to be used in the current connection.  This document also provides a common way to transmit, between peers, payloads that are specific to secure password authentication methods.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

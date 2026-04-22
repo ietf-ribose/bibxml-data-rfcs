@@ -1,0 +1,20 @@
+<reference anchor="RFC4967" target="https://www.rfc-editor.org/info/rfc4967">
+  <front>
+    <title>Dial String Parameter for the Session Initiation Protocol Uniform Resource Identifier</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4967"/>
+    <seriesInfo name="RFC" value="4967"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Rosen" fullname="B. Rosen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <keyword>dialstring</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 3966 explicitly states that 'tel' URIs may not represent a dial string.  That leaves no way specify a dial string in a standardized way.  Great confusion exists with the SIP URI parameter "user=phone", and specifically, if it can represent a dial string.  This memo creates a new value for the user parameter "dialstring", so that one may specify "user=dialstring" to encode a dial string as a 'sip:' or 'sips:' URI. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

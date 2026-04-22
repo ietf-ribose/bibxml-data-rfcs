@@ -1,0 +1,24 @@
+<reference anchor="RFC8914" target="https://www.rfc-editor.org/info/rfc8914">
+  <front>
+    <title>Extended DNS Errors</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8914"/>
+    <seriesInfo name="RFC" value="8914"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Kumari" fullname="W. Kumari"/>
+    <author initials="E." surname="Hunt" fullname="E. Hunt"/>
+    <author initials="R." surname="Arends" fullname="R. Arends"/>
+    <author initials="W." surname="Hardaker" fullname="W. Hardaker"/>
+    <author initials="D." surname="Lawrence" fullname="D. Lawrence"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2020"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines an extensible method to return additional information about the cause of DNS errors.  Though created primarily to extend SERVFAIL to provide additional information about the cause of DNS and DNSSEC failures, the Extended DNS Errors option defined in this document allows all response types to contain extended error information.  Extended DNS Error information does not change the processing of RCODEs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

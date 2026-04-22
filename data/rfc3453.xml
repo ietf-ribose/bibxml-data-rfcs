@@ -1,0 +1,28 @@
+<reference anchor="RFC3453" target="https://www.rfc-editor.org/info/rfc3453">
+  <front>
+    <title>The Use of Forward Error Correction (FEC) in Reliable Multicast</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3453"/>
+    <seriesInfo name="RFC" value="3453"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author initials="L." surname="Vicisano" fullname="L. Vicisano"/>
+    <author initials="J." surname="Gemmell" fullname="J. Gemmell"/>
+    <author initials="L." surname="Rizzo" fullname="L. Rizzo"/>
+    <author initials="M." surname="Handley" fullname="M. Handley"/>
+    <author initials="J." surname="Crowcroft" fullname="J. Crowcroft"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2002"></date>
+    <workgroup>Reliable Multicast Transport</workgroup>
+    <keyword>ip</keyword>
+    <keyword>internet protocol</keyword>
+    <keyword>data transport</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes the use of Forward Error Correction (FEC) codes to efficiently provide and/or augment reliability for one-to-many reliable data transport using IP multicast.  One of the key properties of FEC codes in this context is the ability to use the same packets containing FEC data to simultaneously repair different packet loss patterns at multiple receivers.  Different classes of FEC codes and some of their basic properties are described and terminology relevant to implementing FEC in a reliable multicast protocol is introduced.  Examples are provided of possible abstract formats for packets carrying FEC.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

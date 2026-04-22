@@ -1,0 +1,25 @@
+<reference anchor="RFC7246" target="https://www.rfc-editor.org/info/rfc7246">
+  <front>
+    <title>Multipoint Label Distribution Protocol In-Band Signaling in a Virtual Routing and Forwarding (VRF) Table Context</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7246"/>
+    <seriesInfo name="RFC" value="7246"/>
+    <seriesInfo name="IETF"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands" role="editor"/>
+    <author initials="P." surname="Hitchen" fullname="P. Hitchen"/>
+    <author initials="N." surname="Leymann" fullname="N. Leymann"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author initials="A." surname="Gulko" fullname="A. Gulko"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2014"></date>
+    <workgroup>Layer 3 Virtual Private Networks</workgroup>
+    <abstract>
+      <t>&lt;p&gt;An IP Multicast Distribution Tree (MDT) may traverse both label switching (i.e., Multiprotocol Label Switching, or MPLS) and non-label switching regions of a network.  Typically, the MDT begins and ends in non-MPLS regions, but travels through an MPLS region.  In such cases, it can be useful to begin building the MDT as a pure IP MDT, then convert it to an MPLS Multipoint Label Switched Path (MP-LSP) when it enters an MPLS-enabled region, and then convert it back to a pure IP MDT when it enters a non-MPLS-enabled region.  Other documents specify the procedures for building such a hybrid MDT, using Protocol Independent Multicast (PIM) in the non-MPLS region of the network, and using Multipoint Label Distribution Protocol (mLDP) in the MPLS region.  This document extends those procedures to handle the case where the link connecting the two regions is a Virtual Routing and Forwarding (VRF) table link, as defined in the "BGP IP/MPLS VPN" specification.  However, this document is primarily aimed at particular use cases where VRFs are used to support multicast applications other than multicast VPN.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

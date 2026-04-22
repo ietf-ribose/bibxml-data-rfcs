@@ -1,0 +1,26 @@
+<reference anchor="RFC5842" target="https://www.rfc-editor.org/info/rfc5842">
+  <front>
+    <title>Binding Extensions to Web Distributed Authoring and Versioning (WebDAV)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5842"/>
+    <seriesInfo name="RFC" value="5842"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Clemm" fullname="G. Clemm"/>
+    <author initials="J." surname="Crawford" fullname="J. Crawford"/>
+    <author initials="J." surname="Reschke" fullname="J. Reschke" role="editor"/>
+    <author initials="J." surname="Whitehead" fullname="J. Whitehead"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2010"></date>
+    <keyword>HTTP</keyword>
+    <keyword>WebDAV</keyword>
+    <keyword>collections</keyword>
+    <keyword>hard link</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines bindings, and the BIND method for creating multiple bindings to the same resource.  Creating a new binding to a resource causes at least one new URI to be mapped to that resource.  Servers are required to ensure the integrity of any bindings that they allow to be created.  This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC8974" target="https://www.rfc-editor.org/info/rfc8974">
+  <front>
+    <title>Extended Tokens and Stateless Clients in the Constrained Application Protocol (CoAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8974"/>
+    <seriesInfo name="RFC" value="8974"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Hartke" fullname="K. Hartke"/>
+    <author initials="M." surname="Richardson" fullname="M. Richardson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>6tisch</keyword>
+    <keyword>minimal-security</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides considerations for alleviating Constrained Application Protocol (CoAP) clients and intermediaries of keeping per-request state. To facilitate this, this document additionally introduces a new, optional CoAP protocol extension for extended token lengths.&lt;/p&gt;&lt;p&gt;This document updates RFCs 7252 and 8323 with an extended definition of the "TKL" field in the CoAP message header.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

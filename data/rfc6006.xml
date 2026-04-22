@@ -1,0 +1,27 @@
+<reference anchor="RFC6006" target="https://www.rfc-editor.org/info/rfc6006">
+  <front>
+    <title>Extensions to the Path Computation Element Communication Protocol (PCEP) for Point-to-Multipoint Traffic Engineering Label Switched Paths</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6006"/>
+    <seriesInfo name="RFC" value="6006"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Zhao" fullname="Q. Zhao" role="editor"/>
+    <author initials="D." surname="King" fullname="D. King" role="editor"/>
+    <author initials="F." surname="Verhaeghe" fullname="F. Verhaeghe"/>
+    <author initials="T." surname="Takeda" fullname="T. Takeda"/>
+    <author initials="Z." surname="Ali" fullname="Z. Ali"/>
+    <author initials="J." surname="Meuric" fullname="J. Meuric"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2010"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>END-POINTS</keyword>
+    <keyword>fragmentation</keyword>
+    <abstract>
+      <t>&lt;p&gt;Point-to-point Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering Label Switched Paths (TE LSPs) may be established using signaling techniques, but their paths may first need to be determined. The Path Computation Element (PCE) has been identified as an appropriate technology for the determination of the paths of point-to-multipoint (P2MP) TE LSPs.&lt;/p&gt;&lt;p&gt;This document describes extensions to the PCE communication Protocol (PCEP) to handle requests and responses for the computation of paths for P2MP TE LSPs. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

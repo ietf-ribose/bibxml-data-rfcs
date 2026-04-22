@@ -1,0 +1,24 @@
+<reference anchor="RFC5252" target="https://www.rfc-editor.org/info/rfc5252">
+  <front>
+    <title>OSPF-Based Layer 1 VPN Auto-Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5252"/>
+    <seriesInfo name="RFC" value="5252"/>
+    <seriesInfo name="IETF"/>
+    <author initials="I." surname="Bryskin" fullname="I. Bryskin"/>
+    <author initials="L." surname="Berger" fullname="L. Berger"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2008"></date>
+    <workgroup>Layer 1 Virtual Private Networks</workgroup>
+    <keyword>open shortest path first</keyword>
+    <keyword>l1vpn</keyword>
+    <keyword>layer 1 virtual private network</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines an Open Shortest Path First (OSPF) based Layer 1 Virtual Private Network (L1VPN) auto-discovery mechanism.  This mechanism enables provider edge (PE) devices using OSPF to dynamically learn about the existence of each other, and attributes of configured customer edge (CE) links and their associations with L1VPNs.  This document builds on the L1VPN framework and requirements and provides a L1VPN basic mode auto-discovery mechanism. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

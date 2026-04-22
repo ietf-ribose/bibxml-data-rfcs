@@ -1,0 +1,20 @@
+<reference anchor="RFC7556" target="https://www.rfc-editor.org/info/rfc7556">
+  <front>
+    <title>Multiple Provisioning Domain Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7556"/>
+    <seriesInfo name="RFC" value="7556"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Anipko" fullname="D. Anipko" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2015"></date>
+    <workgroup>Multiple Interfaces</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document is a product of the work of the Multiple Interfaces Architecture Design team.  It outlines a solution framework for some of the issues experienced by nodes that can be attached to multiple networks simultaneously.  The framework defines the concept of a Provisioning Domain (PvD), which is a consistent set of network configuration information.  PvD-aware nodes learn PvD-specific information from the networks they are attached to and/or other sources.  PvDs are used to enable separation and configuration consistency in the presence of multiple concurrent connections.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

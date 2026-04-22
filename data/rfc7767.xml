@@ -1,0 +1,31 @@
+<reference anchor="RFC7767" target="https://www.rfc-editor.org/info/rfc7767">
+  <front>
+    <title>Application-Initiated Check-Pointing via the Port Control Protocol (PCP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7767"/>
+    <seriesInfo name="RFC" value="7767"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Vinapamula" fullname="S. Vinapamula"/>
+    <author initials="S." surname="Sivakumar" fullname="S. Sivakumar"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="T." surname="Reddy" fullname="T. Reddy"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <keyword>serviceability</keyword>
+    <keyword>SDN</keyword>
+    <keyword>resilience</keyword>
+    <keyword>robustness</keyword>
+    <keyword>network programmability</keyword>
+    <keyword>network API</keyword>
+    <keyword>application control</keyword>
+    <keyword>service-aware networking</keyword>
+    <keyword>automation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a mechanism for a host to indicate via the Port Control Protocol (PCP) which connections should be protected against network failures. These connections will then be subject to high-availability mechanisms enabled on the network side.&lt;/p&gt;&lt;p&gt;This approach assumes that applications and/or users have more visibility about sensitive connections than any heuristic that can be enabled on the network side to guess which connections should be check-pointed.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

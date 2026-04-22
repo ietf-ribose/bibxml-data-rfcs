@@ -1,0 +1,28 @@
+<reference anchor="RFC4363" target="https://www.rfc-editor.org/info/rfc4363">
+  <front>
+    <title>Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering, and Virtual LAN Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4363"/>
+    <seriesInfo name="RFC" value="4363"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Levi" fullname="D. Levi"/>
+    <author initials="D." surname="Harrington" fullname="D. Harrington"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Bridge MIB</workgroup>
+    <keyword>mib</keyword>
+    <keyword>management information base</keyword>
+    <keyword>mac bridges</keyword>
+    <keyword>traffic classes</keyword>
+    <keyword>enhanced multicast filtering</keyword>
+    <keyword>p-bridge-mib</keyword>
+    <keyword>q-bridge-mib</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines two MIB modules for managing the capabilities of MAC bridges defined by the IEEE 802.1D-1998 (TM) MAC Bridges and the IEEE 802.1Q-2003 (TM) Virtual LAN (VLAN) standards for bridging between Local Area Network (LAN) segments. One MIB module defines objects for managing the 'Traffic Classes' and 'Enhanced Multicast Filtering' components of IEEE 802.1D-1998 and P802.1t-2001 (TM). The other MIB module defines objects for managing VLANs, as specified in IEEE 802.1Q-2003, P802.1u (TM), and P802.1v (TM).&lt;/p&gt;&lt;p&gt;Provisions are made for support of transparent bridging. Provisions are also made so that these objects apply to bridges connected by subnetworks other than LAN segments.&lt;/p&gt;&lt;p&gt;This memo supplements RFC 4188 and obsoletes RFC 2674. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC9616" target="https://www.rfc-editor.org/info/rfc9616">
+  <front>
+    <title>Delay-Based Metric Extension for the Babel Routing Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9616"/>
+    <seriesInfo name="RFC" value="9616"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Jonglez" fullname="B. Jonglez"/>
+    <author initials="J." surname="Chroboczek" fullname="J. Chroboczek"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2024"></date>
+    <workgroup>Babel routing protocol</workgroup>
+    <keyword>Timestamp</keyword>
+    <keyword>clock</keyword>
+    <keyword>NTP</keyword>
+    <keyword>Mills</keyword>
+    <keyword>Hello</keyword>
+    <keyword>Fuzzball</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines an extension to the Babel routing protocol that measures the round-trip time (RTT) between routers and makes it possible to prefer lower-latency links over higher-latency ones.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

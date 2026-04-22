@@ -1,0 +1,28 @@
+<reference anchor="RFC6073" target="https://www.rfc-editor.org/info/rfc6073">
+  <front>
+    <title>Segmented Pseudowire</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6073"/>
+    <seriesInfo name="RFC" value="6073"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author initials="C." surname="Metz" fullname="C. Metz"/>
+    <author initials="T." surname="Nadeau" fullname="T. Nadeau"/>
+    <author initials="M." surname="Bocci" fullname="M. Bocci"/>
+    <author initials="M." surname="Aissaoui" fullname="M. Aissaoui"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2011"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <keyword>pws</keyword>
+    <keyword>psn</keyword>
+    <keyword>packet switched network</keyword>
+    <keyword>pw control plane domain</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how to connect pseudowires (PWs) between different Packet Switched Network (PSN) domains or between two or more distinct PW control plane domains, where a control plane domain uses a common control plane protocol or instance of that protocol for a given PW.  The different PW control plane domains may belong to independent autonomous systems, or the PSN technology is heterogeneous, or a PW might need to be aggregated at a specific PSN point.  The PW packet data units are simply switched from one PW to another without changing the PW payload. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC7888" target="https://www.rfc-editor.org/info/rfc7888">
+  <front>
+    <title>IMAP4 Non-synchronizing Literals</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7888"/>
+    <seriesInfo name="RFC" value="7888"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>IMAP APPEND Extensions</workgroup>
+    <keyword>IMAP</keyword>
+    <keyword>LITERAL+</keyword>
+    <keyword>LITERAL-</keyword>
+    <keyword>APPENDLIMIT</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Internet Message Access Protocol (RFC 3501) contains the "literal" syntactic construct for communicating strings. When sending a literal from client to server, IMAP requires the client to wait for the server to send a command continuation request between sending the octet count and the string data. This document specifies an alternate form of literal that does not require this network round trip.&lt;/p&gt;&lt;p&gt;This document specifies 2 IMAP extensions: LITERAL+ and LITERAL-. LITERAL+ allows the alternate form of literals in all IMAP commands. LITERAL- is the same as LITERAL+, but it disallows the alternate form of literals unless they are 4096 bytes or less.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 2088.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

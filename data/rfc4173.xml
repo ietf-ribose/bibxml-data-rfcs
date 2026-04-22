@@ -1,0 +1,26 @@
+<reference anchor="RFC4173" target="https://www.rfc-editor.org/info/rfc4173">
+  <front>
+    <title>Bootstrapping Clients using the Internet Small Computer System Interface (iSCSI) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4173"/>
+    <seriesInfo name="RFC" value="4173"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Sarkar" fullname="P. Sarkar"/>
+    <author initials="D." surname="Missimer" fullname="D. Missimer"/>
+    <author initials="C." surname="Sapuntzakis" fullname="C. Sapuntzakis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2005"></date>
+    <workgroup>IP Storage</workgroup>
+    <keyword>scsi</keyword>
+    <keyword>tcp</keyword>
+    <keyword>transport control protocol</keyword>
+    <keyword>boot server</keyword>
+    <abstract>
+      <t>&lt;p&gt;Internet Small Computer System Interface (iSCSI) is a proposed transport protocol for Small Computer Systems Interface (SCSI) that operates on top of TCP.  This memo describes a standard mechanism for enabling clients to bootstrap themselves using the iSCSI protocol.  The goal of this standard is to enable iSCSI boot clients to obtain the information to open an iSCSI session with the iSCSI boot server. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

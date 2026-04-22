@@ -1,0 +1,27 @@
+<reference anchor="RFC2136" target="https://www.rfc-editor.org/info/rfc2136">
+  <front>
+    <title>Dynamic Updates in the Domain Name System (DNS UPDATE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2136"/>
+    <seriesInfo name="RFC" value="2136"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Vixie" fullname="P. Vixie" role="editor"/>
+    <author initials="S." surname="Thomson" fullname="S. Thomson"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author initials="J." surname="Bound" fullname="J. Bound"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="1997"></date>
+    <workgroup>DNS IXFR, Notification, and Dynamic Update</workgroup>
+    <keyword>DNS-UPDATE</keyword>
+    <keyword>database</keyword>
+    <keyword>opcode</keyword>
+    <keyword>zone</keyword>
+    <abstract>
+      <t>&lt;p&gt;Using this specification of the UPDATE opcode, it is possible to add or delete RRs or RRsets from a specified zone.  Prerequisites are specified separately from update operations, and can specify a dependency upon either the previous existence or nonexistence of an RRset, or the existence of a single RR. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

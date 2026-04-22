@@ -1,0 +1,24 @@
+<reference anchor="RFC8231" target="https://www.rfc-editor.org/info/rfc8231">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extensions for Stateful PCE</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8231"/>
+    <seriesInfo name="RFC" value="8231"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Crabbe" fullname="E. Crabbe"/>
+    <author initials="I." surname="Minei" fullname="I. Minei"/>
+    <author initials="J." surname="Medved" fullname="J. Medved"/>
+    <author initials="R." surname="Varga" fullname="R. Varga"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2017"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>Stateful PCE</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Path Computation Element Communication Protocol (PCEP) provides mechanisms for Path Computation Elements (PCEs) to perform path computations in response to Path Computation Client (PCC) requests.&lt;/p&gt;&lt;p&gt;Although PCEP explicitly makes no assumptions regarding the information available to the PCE, it also makes no provisions for PCE control of timing and sequence of path computations within and across PCEP sessions. This document describes a set of extensions to PCEP to enable stateful control of MPLS-TE and GMPLS Label Switched Paths (LSPs) via PCEP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

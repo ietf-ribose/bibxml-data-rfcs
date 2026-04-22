@@ -1,0 +1,19 @@
+<reference anchor="RFC4527" target="https://www.rfc-editor.org/info/rfc4527">
+  <front>
+    <title>Lightweight Directory Access Protocol (LDAP) Read Entry Controls</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4527"/>
+    <seriesInfo name="RFC" value="4527"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Zeilenga" fullname="K. Zeilenga"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2006"></date>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an extension to the Lightweight Directory Access Protocol (LDAP) to allow the client to read the target entry of an update operation.  The client may request to read the entry before and/or after the modifications are applied.  These reads are done as an atomic part of the update operation. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC9183" target="https://www.rfc-editor.org/info/rfc9183">
+  <front>
+    <title>Single Nickname for an Area Border RBridge in Multilevel Transparent Interconnection of Lots of Links (TRILL)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9183"/>
+    <seriesInfo name="RFC" value="9183"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Zhang" fullname="M. Zhang"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="M." surname="Cullen" fullname="M. Cullen"/>
+    <author initials="H." surname="Zhai" fullname="H. Zhai"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2022"></date>
+    <keyword>aggregated</keyword>
+    <abstract>
+      <t>&lt;p&gt;A major issue in multilevel TRILL is how to manage RBridge nicknames.  In this document, area border RBridges use a single nickname in both Level 1 and Level 2.  RBridges in Level 2 must obtain unique nicknames but RBridges in different Level 1 areas may have the same nicknames.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

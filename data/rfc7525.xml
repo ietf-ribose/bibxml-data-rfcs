@@ -1,0 +1,27 @@
+<reference anchor="RFC7525" target="https://www.rfc-editor.org/info/rfc7525">
+  <front>
+    <title>Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7525"/>
+    <seriesInfo name="RFC" value="7525"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Sheffer" fullname="Y. Sheffer"/>
+    <author initials="R." surname="Holz" fullname="R. Holz"/>
+    <author initials="P." surname="Saint-Andre" fullname="P. Saint-Andre"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2015"></date>
+    <workgroup>Using TLS in Applications</workgroup>
+    <keyword>Transport Layer Security</keyword>
+    <keyword>TLS</keyword>
+    <keyword>DTLS</keyword>
+    <keyword>Secure Sockets Layer</keyword>
+    <keyword>SSL</keyword>
+    <abstract>
+      <t>&lt;p&gt;Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) are widely used to protect data exchanged over application protocols such as HTTP, SMTP, IMAP, POP, SIP, and XMPP.  Over the last few years, several serious attacks on TLS have emerged, including attacks on its most commonly used cipher suites and their modes of operation.  This document provides recommendations for improving the security of deployed services that use TLS and DTLS.  The recommendations are applicable to the majority of use cases.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

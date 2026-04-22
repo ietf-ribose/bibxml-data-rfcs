@@ -1,0 +1,25 @@
+<reference anchor="RFC4730" target="https://www.rfc-editor.org/info/rfc4730">
+  <front>
+    <title>A Session Initiation Protocol (SIP) Event Package for Key Press Stimulus (KPML)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4730"/>
+    <seriesInfo name="RFC" value="4730"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Burger" fullname="E. Burger"/>
+    <author initials="M." surname="Dolly" fullname="M. Dolly"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2006"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>ua</keyword>
+    <keyword>user agent</keyword>
+    <keyword>dtmf</keyword>
+    <keyword>dual tone multi-frequency</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a SIP Event Package "kpml" that enables monitoring of Dual Tone Multi-Frequency (DTMF) signals and uses Extensible Markup Language (XML) documents referred to as Key Press Markup Language (KPML).  The kpml Event Package may be used to support applications consistent with the principles defined in the document titled "A Framework for Application Interaction in the Session Initiation Protocol (SIP)".  The event package uses SUBSCRIBE messages and allows for XML documents that define and describe filter specifications for capturing key presses (DTMF Tones) entered at a presentation-free User Interface SIP User Agent (UA).  The event package uses NOTIFY messages and allows for XML documents to report the captured key presses (DTMF tones), consistent with the filter specifications, to an Application Server.  The scope of this package is for collecting supplemental key presses or mid-call key presses (triggers). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

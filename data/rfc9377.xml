@@ -1,0 +1,24 @@
+<reference anchor="RFC9377" target="https://www.rfc-editor.org/info/rfc9377">
+  <front>
+    <title>IS-IS Flood Reflection</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9377"/>
+    <seriesInfo name="RFC" value="9377"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda" role="editor"/>
+    <author initials="C." surname="Bowers" fullname="C. Bowers"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee"/>
+    <author initials="A." surname="Sharma" fullname="A. Sharma"/>
+    <author initials="R." surname="White" fullname="R. White"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2023"></date>
+    <workgroup>Link State Routing</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes a backward-compatible, optional IS-IS extension that allows the creation of IS-IS flood reflection topologies.  Flood reflection permits topologies in which IS-IS Level 1 (L1) areas provide transit-forwarding for IS-IS Level 2 (L2) areas using all available L1 nodes internally.  It accomplishes this by creating L2 flood reflection adjacencies within each L1 area.  Those adjacencies are used to flood L2 Link State Protocol Data Units (LSPs) and are used in the L2 Shortest Path First (SPF) computation.  However, they are not ordinarily utilized for forwarding within the flood reflection cluster.  This arrangement gives the L2 topology significantly better scaling properties than prevalently used flat designs.  As an additional benefit, only those routers directly participating in flood reflection are required to support the feature.  This allows for incremental deployment of scalable L1 transit areas in an existing, previously flat network design, without the necessity of upgrading all routers in the network.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

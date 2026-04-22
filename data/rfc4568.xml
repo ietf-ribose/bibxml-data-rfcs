@@ -1,0 +1,24 @@
+<reference anchor="RFC4568" target="https://www.rfc-editor.org/info/rfc4568">
+  <front>
+    <title>Session Description Protocol (SDP) Security Descriptions for Media Streams</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4568"/>
+    <seriesInfo name="RFC" value="4568"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Andreasen" fullname="F. Andreasen"/>
+    <author initials="M." surname="Baugher" fullname="M. Baugher"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2006"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>srtp</keyword>
+    <keyword>secure real-time transport protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a Session Description Protocol (SDP) cryptographic attribute for unicast media streams.  The attribute describes a cryptographic key and other parameters that serve to configure security for a unicast media stream in either a single message or a roundtrip exchange.  The attribute can be used with a variety of SDP media transports, and this document defines how to use it for the Secure Real-time Transport Protocol (SRTP) unicast media streams.  The SDP crypto attribute requires the services of a data security protocol to secure the SDP message. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

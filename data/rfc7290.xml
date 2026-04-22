@@ -1,0 +1,30 @@
+<reference anchor="RFC7290" target="https://www.rfc-editor.org/info/rfc7290">
+  <front>
+    <title>Test Plan and Results for Advancing RFC 2680 on the Standards Track</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7290"/>
+    <seriesInfo name="RFC" value="7290"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Ciavattone" fullname="L. Ciavattone"/>
+    <author initials="R." surname="Geib" fullname="R. Geib"/>
+    <author initials="A." surname="Morton" fullname="A. Morton"/>
+    <author initials="M." surname="Wieser" fullname="M. Wieser"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2014"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>packet loss</keyword>
+    <keyword>IPPM implementation comparison</keyword>
+    <keyword>perfas+</keyword>
+    <keyword>netem</keyword>
+    <keyword>IPPM comparison</keyword>
+    <keyword>metric test, WIPM</keyword>
+    <keyword>NetProbe</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo provides the supporting test plan and results to advance RFC 2680, a performance metric RFC defining one-way packet loss metrics, along the Standards Track.  Observing that the metric definitions themselves should be the primary focus rather than the implementations of metrics, this memo describes the test procedures to evaluate specific metric requirement clauses to determine if the requirement has been interpreted and implemented as intended.  Two completely independent implementations have been tested against the key specifications of RFC 2680.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

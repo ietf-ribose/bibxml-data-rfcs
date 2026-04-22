@@ -1,0 +1,26 @@
+<reference anchor="RFC1653" target="https://www.rfc-editor.org/info/rfc1653">
+  <front>
+    <title>SMTP Service Extension for Message Size Declaration</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1653"/>
+    <seriesInfo name="RFC" value="1653"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Klensin" fullname="J. Klensin"/>
+    <author initials="N." surname="Freed" fullname="N. Freed"/>
+    <author initials="K." surname="Moore" fullname="K. Moore"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="1994"></date>
+    <workgroup>Internet Mail Extensions</workgroup>
+    <keyword>Mail</keyword>
+    <keyword>Simple</keyword>
+    <keyword>Transfer</keyword>
+    <keyword>Protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to decline to accept a message (perhaps temporarily) based on the client's estimate of the message size. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

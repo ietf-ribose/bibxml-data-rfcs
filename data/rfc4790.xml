@@ -1,0 +1,23 @@
+<reference anchor="RFC4790" target="https://www.rfc-editor.org/info/rfc4790">
+  <front>
+    <title>Internet Application Protocol Collation Registry</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4790"/>
+    <seriesInfo name="RFC" value="4790"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Newman" fullname="C. Newman"/>
+    <author initials="M." surname="Duerst" fullname="M. Duerst"/>
+    <author initials="A." surname="Gulbrandsen" fullname="A. Gulbrandsen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2007"></date>
+    <keyword>collation</keyword>
+    <keyword>sorting</keyword>
+    <abstract>
+      <t>&lt;p&gt;Many Internet application protocols include string-based lookup, searching, or sorting operations.  However, the problem space for searching and sorting international strings is large, not fully explored, and is outside the area of expertise for the Internet Engineering Task Force (IETF).  Rather than attempt to solve such a large problem, this specification creates an abstraction framework so that application protocols can precisely identify a comparison function, and the repertoire of comparison functions can be extended in the future. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

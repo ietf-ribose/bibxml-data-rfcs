@@ -1,0 +1,31 @@
+<reference anchor="RFC7899" target="https://www.rfc-editor.org/info/rfc7899">
+  <front>
+    <title>Multicast VPN State Damping</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7899"/>
+    <seriesInfo name="RFC" value="7899"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Morin" fullname="T. Morin" role="editor"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="K." surname="Patel" fullname="K. Patel"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="R." surname="Kebler" fullname="R. Kebler"/>
+    <author initials="J." surname="Haas" fullname="J. Haas"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2016"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>dampening</keyword>
+    <keyword>multicast</keyword>
+    <keyword>vpn</keyword>
+    <keyword>damping</keyword>
+    <keyword>bgp</keyword>
+    <keyword>pim</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes procedures to damp Multicast VPN (MVPN) routing state changes and control the effect of the churn due to the multicast dynamicity in customer sites.  The procedures described in this document are applicable to BGP-based multicast VPN and help avoid uncontrolled control-plane load increase in the core routing infrastructure.  The new procedures proposed were inspired by BGP unicast route damping principles that have been adapted to multicast.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

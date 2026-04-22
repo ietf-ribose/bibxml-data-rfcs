@@ -1,0 +1,26 @@
+<reference anchor="RFC5088" target="https://www.rfc-editor.org/info/rfc5088">
+  <front>
+    <title>OSPF Protocol Extensions for Path Computation Element (PCE) Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5088"/>
+    <seriesInfo name="RFC" value="5088"/>
+    <seriesInfo name="IETF"/>
+    <author initials="JL." surname="Le Roux" fullname="JL. Le Roux" role="editor"/>
+    <author initials="JP." surname="Vasseur" fullname="JP. Vasseur" role="editor"/>
+    <author initials="Y." surname="Ikejiri" fullname="Y. Ikejiri"/>
+    <author initials="R." surname="Zhang" fullname="R. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2008"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>pcc</keyword>
+    <keyword>path computation client</keyword>
+    <keyword>open shortest path first</keyword>
+    <abstract>
+      <t>&lt;p&gt;There are various circumstances where it is highly desirable for a Path Computation Client (PCC) to be able to dynamically and automatically discover a set of Path Computation Elements (PCEs), along with information that can be used by the PCC for PCE selection.  When the PCE is a Label Switching Router (LSR) participating in the Interior Gateway Protocol (IGP), or even a server participating passively in the IGP, a simple and efficient way to announce PCEs consists of using IGP flooding.  For that purpose, this document defines extensions to the Open Shortest Path First (OSPF) routing protocol for the advertisement of PCE Discovery information within an OSPF area or within the entire OSPF routing domain. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

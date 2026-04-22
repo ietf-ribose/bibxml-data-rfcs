@@ -1,0 +1,24 @@
+<reference anchor="RFC4121" target="https://www.rfc-editor.org/info/rfc4121">
+  <front>
+    <title>The Kerberos Version 5 Generic Security Service Application Program Interface (GSS-API) Mechanism: Version 2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4121"/>
+    <seriesInfo name="RFC" value="4121"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Zhu" fullname="L. Zhu"/>
+    <author initials="K." surname="Jaganathan" fullname="K. Jaganathan"/>
+    <author initials="S." surname="Hartman" fullname="S. Hartman"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2005"></date>
+    <workgroup>Kerberos</workgroup>
+    <keyword>GSSAPI-KER</keyword>
+    <keyword>cryptosystem</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines protocols, procedures, and conventions to be employed by peers implementing the Generic Security Service Application Program Interface (GSS-API) when using the Kerberos Version 5 mechanism.&lt;/p&gt;&lt;p&gt;RFC 1964 is updated and incremental changes are proposed in response to recent developments such as the introduction of Kerberos cryptosystem framework. These changes support the inclusion of new cryptosystems, by defining new per-message tokens along with their encryption and checksum algorithms based on the cryptosystem profiles. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

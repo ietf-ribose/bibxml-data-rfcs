@@ -1,0 +1,23 @@
+<reference anchor="RFC4168" target="https://www.rfc-editor.org/info/rfc4168">
+  <front>
+    <title>The Stream Control Transmission Protocol (SCTP) as a Transport for the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4168"/>
+    <seriesInfo name="RFC" value="4168"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="G." surname="Camarillo" fullname="G. Camarillo"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2005"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <keyword>transport mechanism</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a mechanism for usage of SCTP (the Stream Control Transmission Protocol) as the transport mechanism between SIP (Session Initiation Protocol) entities.  SCTP is a new protocol that provides several features that may prove beneficial for transport between SIP entities that exchange a large amount of messages, including gateways and proxies.  As SIP is transport-independent, support of SCTP is a relatively straightforward process, nearly identical to support for TCP. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

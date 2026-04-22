@@ -1,0 +1,20 @@
+<reference anchor="RFC9618" target="https://www.rfc-editor.org/info/rfc9618">
+  <front>
+    <title>Updates to X.509 Policy Validation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9618"/>
+    <seriesInfo name="RFC" value="9618"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Benjamin" fullname="D. Benjamin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document updates RFC 5280 to replace the algorithm for X.509 policy validation with an equivalent, more efficient algorithm.  The original algorithm built a structure that scaled exponentially in the worst case, leaving implementations vulnerable to denial-of-service attacks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

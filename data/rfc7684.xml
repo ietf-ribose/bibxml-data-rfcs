@@ -1,0 +1,29 @@
+<reference anchor="RFC7684" target="https://www.rfc-editor.org/info/rfc7684">
+  <front>
+    <title>OSPFv2 Prefix/Link Attribute Advertisement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7684"/>
+    <seriesInfo name="RFC" value="7684"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="R." surname="Shakir" fullname="R. Shakir"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2015"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>OSPF-LSA</keyword>
+    <keyword>open shortest path first</keyword>
+    <keyword>link state advertisement</keyword>
+    <keyword>Opaque LSA</keyword>
+    <abstract>
+      <t>&lt;p&gt;OSPFv2 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisements (LSAs) as described in RFC 2328.  This document defines OSPFv2 Opaque LSAs based on Type-Length-Value (TLV) tuples that can be used to associate additional attributes with prefixes or links.  Depending on the application, these prefixes and links may or may not be advertised in the fixed-format LSAs.  The OSPFv2 Opaque LSAs are optional and fully backward compatible.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

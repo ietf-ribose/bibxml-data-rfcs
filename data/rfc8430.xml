@@ -1,0 +1,24 @@
+<reference anchor="RFC8430" target="https://www.rfc-editor.org/info/rfc8430">
+  <front>
+    <title>RIB Information Model</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8430"/>
+    <seriesInfo name="RFC" value="8430"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Bahadur" fullname="N. Bahadur" role="editor"/>
+    <author initials="S." surname="Kini" fullname="S. Kini" role="editor"/>
+    <author initials="J." surname="Medved" fullname="J. Medved"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2018"></date>
+    <workgroup>Interface to the Routing System</workgroup>
+    <keyword>RIB</keyword>
+    <keyword>info model</keyword>
+    <abstract>
+      <t>&lt;p&gt;Routing and routing functions in enterprise and carrier networks are typically performed by network devices (routers and switches) using a Routing Information Base (RIB).  Protocols and configurations push data into the RIB, and the RIB manager installs state into the hardware for packet forwarding.  This document specifies an information model for the RIB to enable defining a standardized data model.  The IETF's I2RS WG used this document to design the I2RS RIB data model.  This document is being published to record the higher- level information model decisions for RIBs so that other developers of RIBs may benefit from the design concepts.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

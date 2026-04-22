@@ -1,0 +1,31 @@
+<reference anchor="RFC7510" target="https://www.rfc-editor.org/info/rfc7510">
+  <front>
+    <title>Encapsulating MPLS in UDP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7510"/>
+    <seriesInfo name="RFC" value="7510"/>
+    <seriesInfo name="IETF"/>
+    <author initials="X." surname="Xu" fullname="X. Xu"/>
+    <author initials="N." surname="Sheth" fullname="N. Sheth"/>
+    <author initials="L." surname="Yong" fullname="L. Yong"/>
+    <author initials="R." surname="Callon" fullname="R. Callon"/>
+    <author initials="D." surname="Black" fullname="D. Black"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2015"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>UDP</keyword>
+    <keyword>Tunnel</keyword>
+    <keyword>Checksum</keyword>
+    <keyword>encapsulation</keyword>
+    <keyword>multipath</keyword>
+    <keyword>ECMP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an IP-based encapsulation for MPLS, called MPLS-in-UDP for situations where UDP (User Datagram Protocol) encapsulation is preferred to direct use of MPLS, e.g., to enable UDP-based ECMP (Equal-Cost Multipath) or link aggregation.  The MPLS- in-UDP encapsulation technology must only be deployed within a single network (with a single network operator) or networks of an adjacent set of cooperating network operators where traffic is managed to avoid congestion, rather than over the Internet where congestion control is required.  Usage restrictions apply to MPLS-in-UDP usage for traffic that is not congestion controlled and to UDP zero checksum usage with IPv6.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

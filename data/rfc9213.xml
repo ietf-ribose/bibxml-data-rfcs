@@ -1,0 +1,25 @@
+<reference anchor="RFC9213" target="https://www.rfc-editor.org/info/rfc9213">
+  <front>
+    <title>Targeted HTTP Cache Control</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9213"/>
+    <seriesInfo name="RFC" value="9213"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Ludin" fullname="S. Ludin"/>
+    <author initials="M." surname="Nottingham" fullname="M. Nottingham"/>
+    <author initials="Y." surname="Wu" fullname="Y. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <workgroup>HTTP</workgroup>
+    <keyword>CDN</keyword>
+    <keyword>Content Delivery Network</keyword>
+    <keyword>Caching</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a convention for HTTP response header fields that allow cache directives to be targeted at specific caches or classes of caches.  It also defines one such header field, the CDN-Cache-Control response header field, which is targeted at content delivery network (CDN) caches.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

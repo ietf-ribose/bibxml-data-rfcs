@@ -1,0 +1,23 @@
+<reference anchor="RFC3909" target="https://www.rfc-editor.org/info/rfc3909">
+  <front>
+    <title>Lightweight Directory Access Protocol (LDAP) Cancel Operation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3909"/>
+    <seriesInfo name="RFC" value="3909"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Zeilenga" fullname="K. Zeilenga"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2004"></date>
+    <keyword>LDAP</keyword>
+    <keyword>Lightweight Directory Access Protocol</keyword>
+    <keyword>abandon operation</keyword>
+    <keyword>outstanding operation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification describes a Lightweight Directory Access Protocol (LDAP) extended operation to cancel (or abandon) an outstanding operation.  Unlike the LDAP Abandon operation, but like the X.511 Directory Access Protocol (DAP) Abandon operation, this operation has a response which provides an indication of its outcome. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

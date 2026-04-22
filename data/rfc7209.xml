@@ -1,0 +1,26 @@
+<reference anchor="RFC7209" target="https://www.rfc-editor.org/info/rfc7209">
+  <front>
+    <title>Requirements for Ethernet VPN (EVPN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7209"/>
+    <seriesInfo name="RFC" value="7209"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Sajassi" fullname="A. Sajassi"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal"/>
+    <author initials="J." surname="Uttaro" fullname="J. Uttaro"/>
+    <author initials="N." surname="Bitar" fullname="N. Bitar"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author initials="A." surname="Isaac" fullname="A. Isaac"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2014"></date>
+    <workgroup>Layer 2 Virtual Private Networks</workgroup>
+    <keyword>ethernet l2vpn</keyword>
+    <abstract>
+      <t>&lt;p&gt;The widespread adoption of Ethernet L2VPN services and the advent of new applications for the technology (e.g., data center interconnect) have culminated in a new set of requirements that are not readily addressable by the current Virtual Private LAN Service (VPLS) solution.  In particular, multihoming with all-active forwarding is not supported, and there's no existing solution to leverage Multipoint-to-Multipoint (MP2MP) Label Switched Paths (LSPs) for optimizing the delivery of multi-destination frames.  Furthermore, the provisioning of VPLS, even in the context of BGP-based auto-discovery, requires network operators to specify various network parameters on top of the access configuration.  This document specifies the requirements for an Ethernet VPN (EVPN) solution, which addresses the above issues.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

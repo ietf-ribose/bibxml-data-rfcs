@@ -1,0 +1,35 @@
+<reference anchor="RFC7600" target="https://www.rfc-editor.org/info/rfc7600">
+  <front>
+    <title>IPv4 Residual Deployment via IPv6 - A Stateless Solution (4rd)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7600"/>
+    <seriesInfo name="RFC" value="7600"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Despres" fullname="R. Despres"/>
+    <author initials="S." surname="Jiang" fullname="S. Jiang" role="editor"/>
+    <author initials="R." surname="Penno" fullname="R. Penno"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee"/>
+    <author initials="G." surname="Chen" fullname="G. Chen"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2015"></date>
+    <workgroup>Softwires</workgroup>
+    <keyword>Coexistence</keyword>
+    <keyword>Transition</keyword>
+    <keyword>Interworking</keyword>
+    <keyword>Tunneling</keyword>
+    <keyword>Stateless</keyword>
+    <keyword>4rd</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>Mapping</keyword>
+    <keyword>Global Addressing</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a stateless solution for service providers to progressively deploy IPv6-only network domains while still offering IPv4 service to customers.  The solution's distinctive properties are that TCP/UDP IPv4 packets are valid TCP/UDP IPv6 packets during domain traversal and that IPv4 fragmentation rules are fully preserved end to end.  Each customer can be assigned one public IPv4 address, several public IPv4 addresses, or a shared address with a restricted port set.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

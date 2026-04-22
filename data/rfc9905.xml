@@ -1,0 +1,30 @@
+<reference anchor="RFC9905" target="https://www.rfc-editor.org/info/rfc9905">
+  <front>
+    <title>Deprecating the Use of SHA-1 in DNSSEC Signature Algorithms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9905"/>
+    <seriesInfo name="RFC" value="9905"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Hardaker" fullname="W. Hardaker"/>
+    <author initials="W." surname="Kumari" fullname="W. Kumari"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2025"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>DNSSEC</keyword>
+    <keyword>rollover</keyword>
+    <keyword>agility</keyword>
+    <keyword>algorithm</keyword>
+    <keyword>SHA1</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document deprecates the use of the RSASHA1 and
+RSASHA1-NSEC3-SHA1 algorithms for the creation of DNS Public Key
+(DNSKEY) and Resource Record Signature (RRSIG) records.&lt;/p&gt;&lt;p&gt;It updates RFCs 4034 and 5155 as it deprecates the use of these
+algorithms.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC7450" target="https://www.rfc-editor.org/info/rfc7450">
+  <front>
+    <title>Automatic Multicast Tunneling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7450"/>
+    <seriesInfo name="RFC" value="7450"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Bumgardner" fullname="G. Bumgardner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2015"></date>
+    <workgroup>MBONE Deployment</workgroup>
+    <keyword>AMT</keyword>
+    <keyword>IGMPv2</keyword>
+    <keyword>IGMPv3</keyword>
+    <keyword>MLDv1</keyword>
+    <keyword>MLDv2</keyword>
+    <keyword>ASM</keyword>
+    <keyword>SSM</keyword>
+    <keyword>amt gateway</keyword>
+    <keyword>amt relay</keyword>
+    <keyword>multicast replication</keyword>
+    <keyword>multicast encapsulation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes Automatic Multicast Tunneling (AMT), a protocol for delivering multicast traffic from sources in a multicast-enabled network to receivers that lack multicast connectivity to the source network. The protocol uses UDP encapsulation and unicast replication to provide this functionality.&lt;/p&gt;&lt;p&gt;The AMT protocol is specifically designed to support rapid deployment by requiring minimal changes to existing network infrastructure.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

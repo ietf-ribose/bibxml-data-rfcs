@@ -1,0 +1,26 @@
+<reference anchor="RFC7875" target="https://www.rfc-editor.org/info/rfc7875">
+  <front>
+    <title>Additional WebRTC Audio Codecs for Interoperability</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7875"/>
+    <seriesInfo name="RFC" value="7875"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Proust" fullname="S. Proust" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Real-Time Communication in WEB-browsers</workgroup>
+    <keyword>WebRTC</keyword>
+    <keyword>audio</keyword>
+    <keyword>codec</keyword>
+    <keyword>G.722</keyword>
+    <keyword>AMR</keyword>
+    <keyword>AMR-WB</keyword>
+    <abstract>
+      <t>&lt;p&gt;To ensure a baseline of interoperability between WebRTC endpoints, a minimum set of required codecs is specified. However, to maximize the possibility of establishing the session without the need for audio transcoding, it is also recommended to include in the offer other suitable audio codecs that are available to the browser.&lt;/p&gt;&lt;p&gt;This document provides some guidelines on the suitable codecs to be considered for WebRTC endpoints to address the use cases most relevant to interoperability.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC4863" target="https://www.rfc-editor.org/info/rfc4863">
+  <front>
+    <title>Wildcard Pseudowire Type</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4863"/>
+    <seriesInfo name="RFC" value="4863"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2007"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <keyword>pw type</keyword>
+    <keyword>pw</keyword>
+    <abstract>
+      <t>&lt;p&gt;Pseudowire signaling requires that the Pseudowire Type (PW Type) be identical in both directions.  For certain applications the configuration of the PW Type is most easily accomplished by configuring this information at just one PW endpoint.  In any form of LDP-based signaling, each PW endpoint must initiate the creation of a unidirectional LSP.  In order to allow the initiation of these two LSPs to remain independent, a means is needed for allowing the PW endpoint (lacking a priori knowledge of the PW Type) to initiate the creation of an LSP.  This document defines a Wildcard PW Type to satisfy this need. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

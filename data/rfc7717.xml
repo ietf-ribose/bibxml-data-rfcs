@@ -1,0 +1,22 @@
+<reference anchor="RFC7717" target="https://www.rfc-editor.org/info/rfc7717">
+  <front>
+    <title>IKEv2-Derived Shared Secret Key for the One-Way Active Measurement Protocol (OWAMP) and Two-Way Active Measurement Protocol (TWAMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7717"/>
+    <seriesInfo name="RFC" value="7717"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Pentikousis" fullname="K. Pentikousis" role="editor"/>
+    <author initials="E." surname="Zhang" fullname="E. Zhang"/>
+    <author initials="Y." surname="Cui" fullname="Y. Cui"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2015"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The One-Way Active Measurement Protocol (OWAMP) and Two-Way Active Measurement Protocol (TWAMP) security mechanisms require that both the client and server endpoints possess a shared secret.  This document describes the use of keys derived from an IKEv2 security association (SA) as the shared key in OWAMP or TWAMP.  If the shared key can be derived from the IKEv2 SA, OWAMP or TWAMP can support certificate-based key exchange; this would allow for more operational flexibility and efficiency.  The key derivation presented in this document can also facilitate automatic key management.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

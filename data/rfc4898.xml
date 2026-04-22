@@ -1,0 +1,25 @@
+<reference anchor="RFC4898" target="https://www.rfc-editor.org/info/rfc4898">
+  <front>
+    <title>TCP Extended Statistics MIB</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4898"/>
+    <seriesInfo name="RFC" value="4898"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Mathis" fullname="M. Mathis"/>
+    <author initials="J." surname="Heffner" fullname="J. Heffner"/>
+    <author initials="R." surname="Raghunarayan" fullname="R. Raghunarayan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2007"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>transmission control protocol</keyword>
+    <keyword>management information base</keyword>
+    <keyword>TCP-ESTATS-MIB</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes extended performance statistics for TCP.  They are designed to use TCP's ideal vantage point to diagnose performance problems in both the network and the application.  If a network-based application is performing poorly, TCP can determine if the bottleneck is in the sender, the receiver, or the network itself.  If the bottleneck is in the network, TCP can provide specific information about its nature. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

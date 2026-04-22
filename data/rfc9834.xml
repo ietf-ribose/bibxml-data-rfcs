@@ -1,0 +1,45 @@
+<reference anchor="RFC9834" target="https://www.rfc-editor.org/info/rfc9834">
+  <front>
+    <title>YANG Data Models for Bearers and Attachment Circuits as a Service (ACaaS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9834"/>
+    <seriesInfo name="RFC" value="9834"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="R." surname="Roberts" fullname="R. Roberts" role="editor"/>
+    <author initials="O." surname="Gonzalez de Dios" fullname="O. Gonzalez de Dios"/>
+    <author initials="S." surname="Barguil" fullname="S. Barguil"/>
+    <author initials="B." surname="Wu" fullname="B. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>Slice Service</keyword>
+    <keyword>L3VPN</keyword>
+    <keyword>L2VPN</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Network Automation</keyword>
+    <keyword>Orchestration</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>Service provisioning</keyword>
+    <keyword>service segmentation</keyword>
+    <keyword>service flexibility</keyword>
+    <keyword>service simplification</keyword>
+    <keyword>Network Service</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>Network Slicing</keyword>
+    <abstract>
+      <t>&lt;p&gt;Delivery of network services assumes that appropriate setup is
+provisioned over the links that connect customer termination points
+and a provider network. The required setup to allow successful data
+exchange over these links is referred to as an attachment circuit
+(AC), while the underlying link is referred to as a "bearer".&lt;/p&gt;&lt;p&gt;This document specifies a YANG service data model for ACs. This model
+can be used for the provisioning of ACs before or during service
+provisioning (e.g., RFC 9543 Network Slice Service).&lt;/p&gt;&lt;p&gt;The document also specifies a YANG service data model for managing
+bearers over which ACs are established.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

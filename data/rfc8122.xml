@@ -1,0 +1,26 @@
+<reference anchor="RFC8122" target="https://www.rfc-editor.org/info/rfc8122">
+  <front>
+    <title>Connection-Oriented Media Transport over the Transport Layer Security (TLS) Protocol in the Session Description Protocol (SDP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8122"/>
+    <seriesInfo name="RFC" value="8122"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Lennox" fullname="J. Lennox"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>SDP</keyword>
+    <keyword>TLS</keyword>
+    <keyword>Fingerprint</keyword>
+    <keyword>Offer</keyword>
+    <keyword>Answer</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how to establish secure connection-oriented media transport sessions over the Transport Layer Security (TLS) protocol using the Session Description Protocol (SDP). It defines the SDP protocol identifier, 'TCP/TLS'. It also defines the syntax and semantics for an SDP 'fingerprint' attribute that identifies the certificate that will be presented for the TLS session. This mechanism allows media transport over TLS connections to be established securely, so long as the integrity of session descriptions is assured.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 4572 by clarifying the usage of multiple fingerprints.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

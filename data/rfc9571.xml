@@ -1,0 +1,24 @@
+<reference anchor="RFC9571" target="https://www.rfc-editor.org/info/rfc9571">
+  <front>
+    <title>Extension of RFC 6374-Based Performance Measurement Using Synonymous Flow Labels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9571"/>
+    <seriesInfo name="RFC" value="9571"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant" role="editor"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="G." surname="Fioccola" fullname="G. Fioccola"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2024"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;RFC 6374 describes methods of making loss and delay measurements on Label Switched Paths (LSPs) primarily as they are used in MPLS Transport Profile (MPLS-TP) networks.  This document describes a method of extending the performance measurements (specified in RFC 6374) from flows carried over MPLS-TP to flows carried over generic MPLS LSPs.  In particular, it extends the technique to allow loss and delay measurements to be made on multipoint-to-point LSPs and introduces some additional techniques to allow more sophisticated measurements to be made in both MPLS-TP and generic MPLS networks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

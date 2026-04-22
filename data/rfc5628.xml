@@ -1,0 +1,21 @@
+<reference anchor="RFC5628" target="https://www.rfc-editor.org/info/rfc5628">
+  <front>
+    <title>Registration Event Package Extension for Session Initiation Protocol (SIP) Globally Routable User Agent URIs (GRUUs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5628"/>
+    <seriesInfo name="RFC" value="5628"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Kyzivat" fullname="P. Kyzivat"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2009"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>registration</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 3680 defines a Session Initiation Protocol (SIP) event package for registration state. This package allows a watcher to learn about information stored by a SIP registrar, including its registered contact.&lt;/p&gt;&lt;p&gt;However, the registered contact is frequently unreachable and thus not useful for watchers. The Globally Routable User Agent URI (GRUU), defined in RFC 5627, is a URI that is capable of reaching a particular contact. However this URI is not included in the document format defined in RFC 3680. This specification defines an extension to the registration event package to include GRUUs assigned by the registrar. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

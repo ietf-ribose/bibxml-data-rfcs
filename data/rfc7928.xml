@@ -1,0 +1,23 @@
+<reference anchor="RFC7928" target="https://www.rfc-editor.org/info/rfc7928">
+  <front>
+    <title>Characterization Guidelines for Active Queue Management (AQM)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7928"/>
+    <seriesInfo name="RFC" value="7928"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Kuhn" fullname="N. Kuhn" role="editor"/>
+    <author initials="P." surname="Natarajan" fullname="P. Natarajan" role="editor"/>
+    <author initials="N." surname="Khademi" fullname="N. Khademi" role="editor"/>
+    <author initials="D." surname="Ros" fullname="D. Ros"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2016"></date>
+    <workgroup>Active Queue Management and Packet Scheduling</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Unmanaged large buffers in today's networks have given rise to a slew of performance issues.  These performance issues can be addressed by some form of Active Queue Management (AQM) mechanism, optionally in combination with a packet-scheduling scheme such as fair queuing.  This document describes various criteria for performing characterizations of AQM schemes that can be used in lab testing during development, prior to deployment.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

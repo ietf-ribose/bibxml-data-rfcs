@@ -1,0 +1,25 @@
+<reference anchor="RFC9523" target="https://www.rfc-editor.org/info/rfc9523">
+  <front>
+    <title>A Secure Selection and Filtering Mechanism for the Network Time Protocol with Khronos</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9523"/>
+    <seriesInfo name="RFC" value="9523"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Rozen-Schiff" fullname="N. Rozen-Schiff"/>
+    <author initials="D." surname="Dolev" fullname="D. Dolev"/>
+    <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+    <author initials="M." surname="Schapira" fullname="M. Schapira"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2024"></date>
+    <workgroup>Network Time Protocols</workgroup>
+    <keyword>NTP</keyword>
+    <keyword>NTPv4</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Network Time Protocol version 4 (NTPv4), as defined in RFC 5905, is the mechanism used by NTP clients to synchronize with NTP servers across the Internet.  This document describes a companion application to the NTPv4 client, named "Khronos", that is used as a "watchdog" alongside NTPv4 and that provides improved security against time-shifting attacks.  Khronos involves changes to the NTP client's system process only.  Since it does not affect the wire protocol, the Khronos mechanism is applicable to current and future time protocols.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

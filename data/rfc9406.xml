@@ -1,0 +1,24 @@
+<reference anchor="RFC9406" target="https://www.rfc-editor.org/info/rfc9406">
+  <front>
+    <title>HyStart++: Modified Slow Start for TCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9406"/>
+    <seriesInfo name="RFC" value="9406"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Balasubramanian" fullname="P. Balasubramanian"/>
+    <author initials="Y." surname="Huang" fullname="Y. Huang"/>
+    <author initials="M." surname="Olson" fullname="M. Olson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2023"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>TCP</keyword>
+    <keyword>congestion control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes HyStart++, a simple modification to the slow start phase of congestion control algorithms.  Slow start can overshoot the ideal send rate in many cases, causing high packet loss and poor performance.  HyStart++ uses increase in round-trip delay as a heuristic to find an exit point before possible overshoot.  It also adds a mitigation to prevent jitter from causing premature slow start exit.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

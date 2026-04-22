@@ -1,0 +1,32 @@
+<reference anchor="RFC8803" target="https://www.rfc-editor.org/info/rfc8803">
+  <front>
+    <title>0-RTT TCP Convert Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8803"/>
+    <seriesInfo name="RFC" value="8803"/>
+    <seriesInfo name="IETF"/>
+    <author initials="O." surname="Bonaventure" fullname="O. Bonaventure" role="editor"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="S." surname="Gundavelli" fullname="S. Gundavelli"/>
+    <author initials="S." surname="Seo" fullname="S. Seo"/>
+    <author initials="B." surname="Hesmans" fullname="B. Hesmans"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2020"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>Hybrid access</keyword>
+    <keyword>aggregation</keyword>
+    <keyword>transport evolution</keyword>
+    <keyword>future internet</keyword>
+    <keyword>extension</keyword>
+    <keyword>Trafic Steering</keyword>
+    <keyword>ATSSS</keyword>
+    <keyword>Multipath TCP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies an application proxy, called Transport Converter, to assist the deployment of TCP extensions such as Multipath TCP. A Transport Converter may provide conversion service for one or more TCP extensions. The conversion service is provided by means of the 0-RTT TCP Convert Protocol (Convert).&lt;/p&gt;&lt;p&gt;This protocol provides 0-RTT (Zero Round-Trip Time) conversion service since no extra delay is induced by the protocol compared to connections that are not proxied. Also, the Convert Protocol does not require any encapsulation (no tunnels whatsoever).&lt;/p&gt;&lt;p&gt;This specification assumes an explicit model, where the Transport Converter is explicitly configured on hosts. As a sample applicability use case, this document specifies how the Convert Protocol applies for Multipath TCP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

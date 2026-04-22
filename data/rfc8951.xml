@@ -1,0 +1,25 @@
+<reference anchor="RFC8951" target="https://www.rfc-editor.org/info/rfc8951">
+  <front>
+    <title>Clarification of Enrollment over Secure Transport (EST): Transfer Encodings and ASN.1</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8951"/>
+    <seriesInfo name="RFC" value="8951"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Richardson" fullname="M. Richardson"/>
+    <author initials="T." surname="Werner" fullname="T. Werner"/>
+    <author initials="W." surname="Pan" fullname="W. Pan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2020"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>CSRattributes</keyword>
+    <keyword>BRSKI</keyword>
+    <keyword>RFC7030</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document updates RFC 7030: Enrollment over Secure Transport to resolve some errata that were reported and that have proven to cause interoperability issues when RFC 7030 was extended.&lt;/p&gt;&lt;p&gt;This document deprecates the specification of "Content-Transfer-Encoding" headers for Enrollment over Secure Transport (EST) endpoints. This document fixes some syntactical errors in ASN.1 that were present.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

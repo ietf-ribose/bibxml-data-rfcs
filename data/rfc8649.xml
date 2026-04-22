@@ -1,0 +1,21 @@
+<reference anchor="RFC8649" target="https://www.rfc-editor.org/info/rfc8649">
+  <front>
+    <title>Hash Of Root Key Certificate Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8649"/>
+    <seriesInfo name="RFC" value="8649"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2019"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>trust anchor</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the Hash Of Root Key certificate extension.  This certificate extension is carried in the self-signed certificate for a trust anchor, which is often called a Root Certification Authority (CA) certificate.  This certificate extension unambiguously identifies the next public key that will be used at some point in the future as the next Root CA certificate, eventually replacing the current one.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

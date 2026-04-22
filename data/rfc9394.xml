@@ -1,0 +1,23 @@
+<reference anchor="RFC9394" target="https://www.rfc-editor.org/info/rfc9394">
+  <front>
+    <title>IMAP PARTIAL Extension for Paged SEARCH and FETCH</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9394"/>
+    <seriesInfo name="RFC" value="9394"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov"/>
+    <author initials="A. P." surname="Achuthan" fullname="A. P. Achuthan"/>
+    <author initials="V." surname="Nagulakonda" fullname="V. Nagulakonda"/>
+    <author initials="L." surname="Alves" fullname="L. Alves"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2023"></date>
+    <workgroup>Email mailstore and eXtensions To Revise or Amend</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The PARTIAL extension of the Internet Message Access Protocol (see RFCs 3501 and 9051) allows clients to limit the number of SEARCH results returned, as well as to perform incremental (paged) searches. This also helps servers to optimize resource usage when performing searches.&lt;/p&gt;&lt;p&gt;This document extends the PARTIAL SEARCH return option originally specified in RFC 5267. It also clarifies some interactions between RFC 5267 and RFCs 4731 and 9051.&lt;/p&gt;&lt;p&gt;This document updates RFCs 4731 and 5267.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

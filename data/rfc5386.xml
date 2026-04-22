@@ -1,0 +1,31 @@
+<reference anchor="RFC5386" target="https://www.rfc-editor.org/info/rfc5386">
+  <front>
+    <title>Better-Than-Nothing Security: An Unauthenticated Mode of IPsec</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5386"/>
+    <seriesInfo name="RFC" value="5386"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Williams" fullname="N. Williams"/>
+    <author initials="M." surname="Richardson" fullname="M. Richardson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2008"></date>
+    <workgroup>Better-Than-Nothing Security</workgroup>
+    <keyword>internet protocol security</keyword>
+    <keyword>ikev1</keyword>
+    <keyword>ikev2</keyword>
+    <keyword>sas</keyword>
+    <keyword>esp</keyword>
+    <keyword>ah</keyword>
+    <keyword>pad</keyword>
+    <keyword>spd</keyword>
+    <keyword>btns</keyword>
+    <keyword>unauthenticated ipsec</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how to use the Internet Key Exchange (IKE) protocols, such as IKEv1 and IKEv2, to setup "unauthenticated" security associations (SAs) for use with the IPsec Encapsulating Security Payload (ESP) and the IPsec Authentication Header (AH).  No changes to IKEv2 bits-on-the-wire are required, but Peer Authorization Database (PAD) and Security Policy Database (SPD) extensions are specified.  Unauthenticated IPsec is herein referred to by its popular acronym, "BTNS" (Better-Than-Nothing Security). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

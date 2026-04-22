@@ -1,0 +1,25 @@
+<reference anchor="RFC5818" target="https://www.rfc-editor.org/info/rfc5818">
+  <front>
+    <title>Data Channel Status Confirmation Extensions for the Link Management Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5818"/>
+    <seriesInfo name="RFC" value="5818"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Li" fullname="D. Li"/>
+    <author initials="H." surname="Xu" fullname="H. Xu"/>
+    <author initials="S." surname="Bardalai" fullname="S. Bardalai"/>
+    <author initials="J." surname="Meuric" fullname="J. Meuric"/>
+    <author initials="D." surname="Caviglia" fullname="D. Caviglia"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2010"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>LMP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines simple additions to the Link Management Protocol (LMP) to provide a control plane tool that can assist in the location of stranded resources by allowing adjacent Label-Switching Routers (LSRs) to confirm data channel statuses and provide triggers for notifying the management plane if any discrepancies are found.  As LMP is already used to verify data plane connectivity, it is considered to be an appropriate candidate to support this feature. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

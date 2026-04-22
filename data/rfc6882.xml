@@ -1,0 +1,23 @@
+<reference anchor="RFC6882" target="https://www.rfc-editor.org/info/rfc6882">
+  <front>
+    <title>Support for Resource Reservation Protocol Traffic Engineering (RSVP-TE) in Layer 3 Virtual Private Networks (L3VPNs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6882"/>
+    <seriesInfo name="RFC" value="6882"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kumaki" fullname="K. Kumaki" role="editor"/>
+    <author initials="T." surname="Murai" fullname="T. Murai"/>
+    <author initials="D." surname="Cheng" fullname="D. Cheng"/>
+    <author initials="S." surname="Matsushima" fullname="S. Matsushima"/>
+    <author initials="P." surname="Jiang" fullname="P. Jiang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2013"></date>
+    <abstract>
+      <t>&lt;p&gt;IP Virtual Private Networks (VPNs) provide connectivity between sites across an IP/MPLS backbone. These VPNs can be operated using BGP/MPLS, and a single Provider Edge (PE) node may provide access to multiple customer sites belonging to different VPNs.&lt;/p&gt;&lt;p&gt;The VPNs may support a number of customer services, including RSVP and Resource Reservation Protocol Traffic Engineering (RSVP-TE) traffic. This document describes how to support RSVP-TE between customer sites when a single PE supports multiple VPNs and labels are not used to identify VPNs between PEs.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

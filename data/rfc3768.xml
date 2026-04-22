@@ -1,0 +1,29 @@
+<reference anchor="RFC3768" target="https://www.rfc-editor.org/info/rfc3768">
+  <front>
+    <title>Virtual Router Redundancy Protocol (VRRP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3768"/>
+    <seriesInfo name="RFC" value="3768"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Hinden" fullname="R. Hinden" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2004"></date>
+    <workgroup>Virtual Router Redundancy Protocol</workgroup>
+    <keyword>VRRP</keyword>
+    <keyword>Virtual Router Redundancy Protocol</keyword>
+    <keyword>lan</keyword>
+    <keyword>local</keyword>
+    <keyword>area</keyword>
+    <keyword>network</keyword>
+    <keyword>ip</keyword>
+    <keyword>internet</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines the Virtual Router Redundancy Protocol (VRRP).  VRRP specifies an election protocol that dynamically assigns responsibility for a virtual router to one of the VRRP routers on a LAN.  The VRRP router controlling the IP address(es) associated with a virtual router is called the Master, and forwards packets sent to these IP addresses.  The election process provides dynamic fail over in the forwarding responsibility should the Master become unavailable.  This allows any of the virtual router IP addresses on the LAN to be used as the default first hop router by end-hosts.  The advantage gained from using VRRP is a higher availability default path without requiring configuration of dynamic routing or router discovery protocols on every end-host. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

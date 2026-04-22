@@ -1,0 +1,30 @@
+<reference anchor="RFC8149" target="https://www.rfc-editor.org/info/rfc8149">
+  <front>
+    <title>RSVP Extensions for Reoptimization of Loosely Routed Point-to-Multipoint Traffic Engineering Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8149"/>
+    <seriesInfo name="RFC" value="8149"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Saad" fullname="T. Saad" role="editor"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi" role="editor"/>
+    <author initials="Z." surname="Ali" fullname="Z. Ali"/>
+    <author initials="R." surname="Venator" fullname="R. Venator"/>
+    <author initials="Y." surname="Kamite" fullname="Y. Kamite"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2017"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>RSVP fragmentation</keyword>
+    <keyword>RSVP fragment identifier</keyword>
+    <keyword>P2MP-TE tree reoptimization</keyword>
+    <keyword>P2MP-TE tree re-evaluation</keyword>
+    <keyword>Preferable P2MP-TE tree</keyword>
+    <keyword>Inter-domain P2MP-TE</keyword>
+    <abstract>
+      <t>&lt;p&gt;The reoptimization of a Point-to-Multipoint (P2MP) Traffic Engineering (TE) Label Switched Path (LSP) may be triggered based on the need to reoptimize an individual source-to-leaf (S2L) sub-LSP or a set of S2L sub-LSPs, both using the Sub-Group-based reoptimization method, or the entire P2MP-TE LSP tree using the Make-Before-Break (MBB) method.  This document discusses the application of the existing mechanisms for path reoptimization of loosely routed Point-to-Point (P2P) TE LSPs to the P2MP-TE LSPs, identifies issues in doing so, and defines procedures to address them.  When reoptimizing a large number of S2L sub-LSPs in a tree using the Sub-Group-based reoptimization method, the S2L sub-LSP descriptor list may need to be semantically fragmented.  This document defines the notion of a fragment identifier to help recipient nodes unambiguously reconstruct the fragmented S2L sub-LSP descriptor list.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

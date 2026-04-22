@@ -1,0 +1,27 @@
+<reference anchor="RFC8957" target="https://www.rfc-editor.org/info/rfc8957">
+  <front>
+    <title>Synonymous Flow Label Framework</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8957"/>
+    <seriesInfo name="RFC" value="8957"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="S." surname="Sivabalan" fullname="S. Sivabalan"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>Flow</keyword>
+    <keyword>Label</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 8372 ("MPLS Flow Identification Considerations") describes the requirement for introducing flow identities within the MPLS architecture.  This document describes a method of accomplishing this by using a technique called "Synonymous Flow Labels" in which labels that mimic the behavior of other labels provide the identification service.  These identifiers can be used to trigger per-flow operations on the packet at the receiving label switching router.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

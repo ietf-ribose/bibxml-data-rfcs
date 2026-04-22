@@ -1,0 +1,26 @@
+<reference anchor="RFC8349" target="https://www.rfc-editor.org/info/rfc8349">
+  <front>
+    <title>A YANG Data Model for Routing Management (NMDA Version)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8349"/>
+    <seriesInfo name="RFC" value="8349"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Lhotka" fullname="L. Lhotka"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author initials="Y." surname="Qu" fullname="Y. Qu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2018"></date>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>configuration</keyword>
+    <keyword>IPv6 Router Advertisements</keyword>
+    <keyword>NETCONF</keyword>
+    <keyword>RESTCONF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies three YANG modules and one submodule. Together, they form the core routing data model that serves as a framework for configuring and managing a routing subsystem. It is expected that these modules will be augmented by additional YANG modules defining data models for control-plane protocols, route filters, and other functions. The core routing data model provides common building blocks for such extensions -- routes, Routing Information Bases (RIBs), and control-plane protocols.&lt;/p&gt;&lt;p&gt;The YANG modules in this document conform to the Network Management Datastore Architecture (NMDA). This document obsoletes RFC 8022.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

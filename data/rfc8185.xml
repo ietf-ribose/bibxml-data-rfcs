@@ -1,0 +1,26 @@
+<reference anchor="RFC8185" target="https://www.rfc-editor.org/info/rfc8185">
+  <front>
+    <title>Dual-Homing Coordination for MPLS Transport Profile (MPLS-TP) Pseudowires Protection</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8185"/>
+    <seriesInfo name="RFC" value="8185"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Cheng" fullname="W. Cheng"/>
+    <author initials="L." surname="Wang" fullname="L. Wang"/>
+    <author initials="H." surname="Li" fullname="H. Li"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author initials="A." surname="D'Alessandro" fullname="A. D'Alessandro"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2017"></date>
+    <workgroup>Pseudowire And LDP-enabled Services</workgroup>
+    <keyword>mpls</keyword>
+    <keyword>mpls-tp</keyword>
+    <abstract>
+      <t>&lt;p&gt;In some scenarios, MPLS Transport Profile (MPLS-TP) pseudowires (PWs) (RFC 5921) may be statically configured when a dynamic control plane is not available.  A fast protection mechanism for MPLS-TP PWs is needed to protect against the failure of an Attachment Circuit (AC), the failure of a Provider Edge (PE), or a failure in the Packet Switched Network (PSN).  The framework and typical scenarios of dual- homing PW local protection are described in RFC 8184.  This document proposes a dual-homing coordination mechanism for MPLS-TP PWs that is used for state exchange and switchover coordination between the dual- homing PEs for dual-homing PW local protection.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

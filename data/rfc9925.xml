@@ -1,0 +1,21 @@
+<reference anchor="RFC9925" target="https://www.rfc-editor.org/info/rfc9925">
+  <front>
+    <title>Unsigned X.509 Certificates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9925"/>
+    <seriesInfo name="RFC" value="9925"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Benjamin" fullname="D. Benjamin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2026"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>self-signed certificate</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a placeholder X.509 signature algorithm that may be used in contexts where the consumer of the certificate is not expected to verify the signature.  As part of this, it updates RFC 5280.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

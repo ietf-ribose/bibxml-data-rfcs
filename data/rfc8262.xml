@@ -1,0 +1,22 @@
+<reference anchor="RFC8262" target="https://www.rfc-editor.org/info/rfc8262">
+  <front>
+    <title>Content-ID Header Field in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8262"/>
+    <seriesInfo name="RFC" value="8262"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author initials="I." surname="Sedlacek" fullname="I. Sedlacek"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2017"></date>
+    <workgroup>Session Initiation Protocol Core</workgroup>
+    <keyword>SIP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the Content-ID header field for usage in the Session Initiation Protocol (SIP). This document also updates RFC 5621, which only allows a Content-ID URL to reference a body part that is part of a multipart message-body. This update enables a Content-ID URL to reference a complete message-body and metadata provided by some additional SIP header fields.&lt;/p&gt;&lt;p&gt;This document updates RFC 5368 and RFC 6442 by clarifying their usage of the SIP Content-ID header field.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

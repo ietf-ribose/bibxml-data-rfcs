@@ -1,0 +1,30 @@
+<reference anchor="RFC7357" target="https://www.rfc-editor.org/info/rfc7357">
+  <front>
+    <title>Transparent Interconnection of Lots of Links (TRILL): End Station Address Distribution Information (ESADI) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7357"/>
+    <seriesInfo name="RFC" value="7357"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Zhai" fullname="H. Zhai"/>
+    <author initials="F." surname="Hu" fullname="F. Hu"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author initials="O." surname="Stokes" fullname="O. Stokes"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2014"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <keyword>ESADI</keyword>
+    <keyword>TRILL</keyword>
+    <keyword>RBridge</keyword>
+    <keyword>Address Learning</keyword>
+    <keyword>Reachability</keyword>
+    <keyword>MAC Addresses</keyword>
+    <abstract>
+      <t>&lt;p&gt;The IETF TRILL (Transparent Interconnection of Lots of Links) protocol provides least-cost pair-wise data forwarding without configuration in multi-hop networks with arbitrary topologies and link technologies. TRILL supports multipathing of both unicast and multicast traffic. Devices that implement the TRILL protocol are called TRILL switches or RBridges (Routing Bridges).&lt;/p&gt;&lt;p&gt;ESADI (End Station Address Distribution Information) is an optional protocol by which a TRILL switch can communicate, in a Data Label (VLAN or fine-grained label) scoped way, end station address and reachability information to TRILL switches participating in ESADI for the relevant Data Label. This document updates RFC 6325, specifically the documentation of the ESADI protocol, and is not backwards compatible.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,34 @@
+<reference anchor="RFC7825" target="https://www.rfc-editor.org/info/rfc7825">
+  <front>
+    <title>A Network Address Translator (NAT) Traversal Mechanism for Media Controlled by the Real-Time Streaming Protocol (RTSP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7825"/>
+    <seriesInfo name="RFC" value="7825"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Goldberg" fullname="J. Goldberg"/>
+    <author initials="M." surname="Westerlund" fullname="M. Westerlund"/>
+    <author initials="T." surname="Zeng" fullname="T. Zeng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2016"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>ICE</keyword>
+    <keyword>Media Delivery</keyword>
+    <keyword>RTP</keyword>
+    <keyword>RTCP</keyword>
+    <keyword>D-ICE</keyword>
+    <keyword>AVP</keyword>
+    <keyword>AVPF</keyword>
+    <keyword>SAVP</keyword>
+    <keyword>SAVPF</keyword>
+    <keyword>setup.ice-d-m</keyword>
+    <keyword>rtsp-ice-d-m</keyword>
+    <keyword>SDP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a solution for Network Address Translation (NAT) traversal for datagram-based media streams set up and controlled with the Real-Time Streaming Protocol version 2 (RTSP 2.0).  It uses Interactive Connectivity Establishment (ICE) adapted to use RTSP as a signaling channel, defining the necessary RTSP extensions and procedures.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

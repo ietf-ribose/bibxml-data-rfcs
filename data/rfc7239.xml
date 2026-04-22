@@ -1,0 +1,27 @@
+<reference anchor="RFC7239" target="https://www.rfc-editor.org/info/rfc7239">
+  <front>
+    <title>Forwarded HTTP Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7239"/>
+    <seriesInfo name="RFC" value="7239"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Petersson" fullname="A. Petersson"/>
+    <author initials="M." surname="Nilsson" fullname="M. Nilsson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2014"></date>
+    <workgroup>ART Area General Applications Working Group</workgroup>
+    <keyword>proxy</keyword>
+    <keyword>x-forwarded-for</keyword>
+    <keyword>x-forwarded-by</keyword>
+    <keyword>x-forwarded-host</keyword>
+    <keyword>x-forwarded-proto</keyword>
+    <keyword>via</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines an HTTP extension header field that allows proxy components to disclose information lost in the proxying process, for example, the originating IP address of a request or IP address of the proxy on the user-agent-facing interface. In a path of proxying components, this makes it possible to arrange it so that each subsequent component will have access to, for example, all IP addresses used in the chain of proxied HTTP requests.&lt;/p&gt;&lt;p&gt;This document also specifies guidelines for a proxy administrator to anonymize the origin of a request.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

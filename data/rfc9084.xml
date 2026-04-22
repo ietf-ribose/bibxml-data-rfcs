@@ -1,0 +1,25 @@
+<reference anchor="RFC9084" target="https://www.rfc-editor.org/info/rfc9084">
+  <front>
+    <title>OSPF Prefix Originator Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9084"/>
+    <seriesInfo name="RFC" value="9084"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Wang" fullname="A. Wang"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2021"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>OSPF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines OSPF extensions to include information associated with the node originating a prefix along with the prefix advertisement.  These extensions do not change the core OSPF route computation functionality but provide useful information for network analysis, troubleshooting, and use cases like traffic engineering.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

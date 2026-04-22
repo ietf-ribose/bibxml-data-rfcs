@@ -1,0 +1,25 @@
+<reference anchor="RFC8019" target="https://www.rfc-editor.org/info/rfc8019">
+  <front>
+    <title>Protecting Internet Key Exchange Protocol Version 2 (IKEv2) Implementations from Distributed Denial-of-Service Attacks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8019"/>
+    <seriesInfo name="RFC" value="8019"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Nir" fullname="Y. Nir"/>
+    <author initials="V." surname="Smyslov" fullname="V. Smyslov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2016"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>puzzle</keyword>
+    <keyword>dos</keyword>
+    <keyword>ddos</keyword>
+    <keyword>bitcoin</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document recommends implementation and configuration best practices for Internet Key Exchange Protocol version 2 (IKEv2) Responders, to allow them to resist Denial-of-Service and Distributed Denial-of-Service attacks.  Additionally, the document introduces a new mechanism called "Client Puzzles" that helps accomplish this task.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

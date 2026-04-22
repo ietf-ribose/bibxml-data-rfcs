@@ -1,0 +1,27 @@
+<reference anchor="RFC3537" target="https://www.rfc-editor.org/info/rfc3537">
+  <front>
+    <title>Wrapping a Hashed Message Authentication Code (HMAC) key with a Triple-Data Encryption Standard (DES) Key or an Advanced Encryption Standard (AES) Key</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3537"/>
+    <seriesInfo name="RFC" value="3537"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2003"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>HMAC</keyword>
+    <keyword>Hashed Message Authentication Code</keyword>
+    <keyword>DES</keyword>
+    <keyword>Data Encryption Standard</keyword>
+    <keyword>AES</keyword>
+    <keyword>Advanced Encryption Standard</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines two methods for wrapping an HMAC (Hashed Message Authentication Code) key.  The first method defined uses a Triple DES (Data Encryption Standard) key to encrypt the HMAC key.  The second method defined uses an AES (Advanced Encryption Standard) key to encrypt the HMAC key.  One place that such an algorithm is used is for the Authenticated Data type in CMS (Cryptographic Message Syntax). [PROPOSED STANDARD]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

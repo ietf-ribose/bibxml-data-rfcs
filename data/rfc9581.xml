@@ -1,0 +1,33 @@
+<reference anchor="RFC9581" target="https://www.rfc-editor.org/info/rfc9581">
+  <front>
+    <title>Concise Binary Object Representation (CBOR) Tags for Time, Duration, and Period</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9581"/>
+    <seriesInfo name="RFC" value="9581"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author initials="B." surname="Gamari" fullname="B. Gamari"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Concise Binary Object Representation Maintenance and Extensions</workgroup>
+    <keyword>Point in time</keyword>
+    <keyword>Duration</keyword>
+    <keyword>Period in time</keyword>
+    <keyword>Clock accuracy</keyword>
+    <keyword>Timescale</keyword>
+    <keyword>TAI</keyword>
+    <keyword>UTC</keyword>
+    <keyword>NTP</keyword>
+    <keyword>Network Time Protocol</keyword>
+    <keyword>PTP</keyword>
+    <keyword>Precision Time Protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Concise Binary Object Representation (CBOR, RFC 8949) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.&lt;/p&gt;&lt;p&gt;In CBOR, one point of extensibility is the definition of CBOR tags. RFC 8949 defines two tags for time: CBOR tag 0 (RFC 3339 time as a string) and tag 1 (POSIX time as int or float). Since then, additional requirements have become known. The present document defines a CBOR tag for time that allows a more elaborate representation of time, as well as related CBOR tags for duration and time period. This document is intended as the reference document for the IANA registration of the CBOR tags defined.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

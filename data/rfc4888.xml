@@ -1,0 +1,24 @@
+<reference anchor="RFC4888" target="https://www.rfc-editor.org/info/rfc4888">
+  <front>
+    <title>Network Mobility Route Optimization Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4888"/>
+    <seriesInfo name="RFC" value="4888"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Ng" fullname="C. Ng"/>
+    <author initials="P." surname="Thubert" fullname="P. Thubert"/>
+    <author initials="M." surname="Watari" fullname="M. Watari"/>
+    <author initials="F." surname="Zhao" fullname="F. Zhao"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <workgroup>Network Mobility</workgroup>
+    <keyword>nemo</keyword>
+    <abstract>
+      <t>&lt;p&gt;With current Network Mobility (NEMO) Basic Support, all communications to and from Mobile Network Nodes must go through the bi-directional tunnel established between the Mobile Router and Home Agent when the mobile network is away.  This sub-optimal routing results in various inefficiencies associated with packet delivery, such as increased delay and bottleneck links leading to traffic congestion, which can ultimately disrupt all communications to and from the Mobile Network Nodes.  Additionally, with nesting of Mobile Networks, these inefficiencies get compounded, and stalemate conditions may occur in specific dispositions.  This document investigates such problems and provides the motivation behind Route Optimization (RO) for NEMO.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

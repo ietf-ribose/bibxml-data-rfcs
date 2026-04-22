@@ -1,0 +1,24 @@
+<reference anchor="RFC7286" target="https://www.rfc-editor.org/info/rfc7286">
+  <front>
+    <title>Application-Layer Traffic Optimization (ALTO) Server Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7286"/>
+    <seriesInfo name="RFC" value="7286"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Kiesel" fullname="S. Kiesel"/>
+    <author initials="M." surname="Stiemerling" fullname="M. Stiemerling"/>
+    <author initials="N." surname="Schwan" fullname="N. Schwan"/>
+    <author initials="M." surname="Scharf" fullname="M. Scharf"/>
+    <author initials="H." surname="Song" fullname="H. Song"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2014"></date>
+    <workgroup>Application-Layer Traffic Optimization</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The goal of Application-Layer Traffic Optimization (ALTO) is to provide guidance to applications that have to select one or several hosts from a set of candidates capable of providing a desired resource. ALTO is realized by a client-server protocol. Before an ALTO client can ask for guidance, it needs to discover one or more ALTO servers.&lt;/p&gt;&lt;p&gt;This document specifies a procedure for resource-consumer-initiated ALTO server discovery, which can be used if the ALTO client is embedded in the resource consumer.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

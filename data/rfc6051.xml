@@ -1,0 +1,27 @@
+<reference anchor="RFC6051" target="https://www.rfc-editor.org/info/rfc6051">
+  <front>
+    <title>Rapid Synchronisation of RTP Flows</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6051"/>
+    <seriesInfo name="RFC" value="6051"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author initials="T." surname="Schierl" fullname="T. Schierl"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2010"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>rtcp</keyword>
+    <keyword>rtp control protocol</keyword>
+    <keyword>mcu</keyword>
+    <keyword>multipoint conference units</keyword>
+    <keyword>ssm</keyword>
+    <keyword>source-specific multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo outlines how RTP sessions are synchronised, and discusses how rapidly such synchronisation can occur. We show that most RTP sessions can be synchronised immediately, but that the use of video switching multipoint conference units (MCUs) or large source-specific multicast (SSM) groups can greatly increase the synchronisation delay. This increase in delay can be unacceptable to some applications that use layered and/or multi-description codecs.&lt;/p&gt;&lt;p&gt;This memo introduces three mechanisms to reduce the synchronisation delay for such sessions. First, it updates the RTP Control Protocol (RTCP) timing rules to reduce the initial synchronisation delay for SSM sessions. Second, a new feedback packet is defined for use with the extended RTP profile for RTCP-based feedback (RTP/AVPF), allowing video switching MCUs to rapidly request resynchronisation. Finally, new RTP header extensions are defined to allow rapid synchronisation of late joiners, and guarantee correct timestamp-based decoding order recovery for layered codecs in the presence of clock skew. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

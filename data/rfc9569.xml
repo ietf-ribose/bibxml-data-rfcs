@@ -1,0 +1,25 @@
+<reference anchor="RFC9569" target="https://www.rfc-editor.org/info/rfc9569">
+  <front>
+    <title>The Application-Layer Traffic Optimization (ALTO) Transport Information Publication Service (TIPS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9569"/>
+    <seriesInfo name="RFC" value="9569"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Gao" fullname="K. Gao"/>
+    <author initials="R." surname="Schott" fullname="R. Schott"/>
+    <author initials="Y. R." surname="Yang" fullname="Y. R. Yang"/>
+    <author initials="L." surname="Delwiche" fullname="L. Delwiche"/>
+    <author initials="L." surname="Keller" fullname="L. Keller"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2024"></date>
+    <workgroup>Application-Layer Traffic Optimization</workgroup>
+    <keyword>incremental update</keyword>
+    <abstract>
+      <t>&lt;p&gt;"Application-Layer Traffic Optimization (ALTO) Protocol" (RFC 7285) leverages HTTP/1.1 and is designed for the simple, sequential request-reply use case, in which an ALTO client requests a sequence of information resources and the server responds with the complete content of each resource, one at a time.&lt;/p&gt;&lt;p&gt;RFC 8895, which describes ALTO incremental updates using Server-Sent Events (SSE), defines a multiplexing protocol on top of HTTP/1.x, so that an ALTO server can incrementally push resource updates to clients whenever monitored network information resources change, allowing the clients to monitor multiple resources at the same time. However, HTTP/2 and later versions already support concurrent, non-blocking transport of multiple streams in the same HTTP connection.&lt;/p&gt;&lt;p&gt;To take advantage of newer HTTP features, this document introduces the ALTO Transport Information Publication Service (TIPS). TIPS uses an incremental RESTful design to give an ALTO client the new capability to explicitly and concurrently (in a non-blocking manner) request (or pull) specific incremental updates using HTTP/2 or HTTP/3, while still functioning for HTTP/1.1.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

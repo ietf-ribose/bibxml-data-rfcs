@@ -1,0 +1,27 @@
+<reference anchor="RFC5169" target="https://www.rfc-editor.org/info/rfc5169">
+  <front>
+    <title>Handover Key Management and Re-Authentication Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5169"/>
+    <seriesInfo name="RFC" value="5169"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Clancy" fullname="T. Clancy"/>
+    <author initials="M." surname="Nakhjiri" fullname="M. Nakhjiri"/>
+    <author initials="V." surname="Narayanan" fullname="V. Narayanan"/>
+    <author initials="L." surname="Dondeti" fullname="L. Dondeti"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2008"></date>
+    <workgroup>Handover Keying</workgroup>
+    <keyword>hokey</keyword>
+    <keyword>handover key management</keyword>
+    <keyword>fast re-authentication</keyword>
+    <keyword>mobility</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Handover Keying (HOKEY) re-authentication problem statement.  The current Extensible Authentication Protocol (EAP) keying framework is not designed to support re-authentication and handovers without re-executing an EAP method.  This often causes unacceptable latency in various mobile wireless environments.  This document details the problem and defines design goals for a generic mechanism to reuse derived EAP keying material for handover.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

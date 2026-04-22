@@ -1,0 +1,38 @@
+<reference anchor="RFC9835" target="https://www.rfc-editor.org/info/rfc9835">
+  <front>
+    <title>A Network YANG Data Model for Attachment Circuits</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9835"/>
+    <seriesInfo name="RFC" value="9835"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="R." surname="Roberts" fullname="R. Roberts"/>
+    <author initials="O." surname="Gonzalez de Dios" fullname="O. Gonzalez de Dios"/>
+    <author initials="S." surname="Barguil" fullname="S. Barguil"/>
+    <author initials="B." surname="Wu" fullname="B. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>Slice Service</keyword>
+    <keyword>L3VPN</keyword>
+    <keyword>L2VPN</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Network Automation</keyword>
+    <keyword>Orchestration</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>Service provisioning</keyword>
+    <keyword>service segmentation</keyword>
+    <keyword>service flexibility</keyword>
+    <keyword>service simplification</keyword>
+    <keyword>Network Service</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>Network Slicing</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a network model for attachment circuits. The model can be used for the provisioning of attachment circuits prior or during service provisioning (e.g., VPN, Network Slice Service). A companion service model is specified in the YANG Data Models for Bearers and 'Attachment Circuits'-as-a-Service (ACaaS) (I-D.ietf- opsawg-teas-attachment-circuit).&lt;/p&gt;&lt;p&gt;The module augments the base network ('ietf-network') and the Service Attachment Point (SAP) models with the detailed information for the provisioning of attachment circuits in Provider Edges (PEs).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

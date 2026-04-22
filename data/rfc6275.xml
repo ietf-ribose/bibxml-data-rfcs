@@ -1,0 +1,27 @@
+<reference anchor="RFC6275" target="https://www.rfc-editor.org/info/rfc6275">
+  <front>
+    <title>Mobility Support in IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6275"/>
+    <seriesInfo name="RFC" value="6275"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins" role="editor"/>
+    <author initials="D." surname="Johnson" fullname="D. Johnson"/>
+    <author initials="J." surname="Arkko" fullname="J. Arkko"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2011"></date>
+    <workgroup>Mobility EXTensions for IPv6</workgroup>
+    <keyword>MIPv6</keyword>
+    <keyword>mobility</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>internet protocol</keyword>
+    <keyword>nodes</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies Mobile IPv6, a protocol that allows nodes to remain reachable while moving around in the IPv6 Internet.  Each mobile node is always identified by its home address, regardless of its current point of attachment to the Internet.  While situated away from its home, a mobile node is also associated with a care-of address, which provides information about the mobile node's current location.  IPv6 packets addressed to a mobile node's home address are transparently routed to its care-of address.  The protocol enables IPv6 nodes to cache the binding of a mobile node's home address with its care-of address, and to then send any packets destined for the mobile node directly to it at this care-of address.  To support this operation, Mobile IPv6 defines a new IPv6 protocol and a new destination option.  All IPv6 nodes, whether mobile or stationary, can communicate with mobile nodes.  This document obsoletes RFC 3775. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="RFC7844" target="https://www.rfc-editor.org/info/rfc7844">
+  <front>
+    <title>Anonymity Profiles for DHCP Clients</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7844"/>
+    <seriesInfo name="RFC" value="7844"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author initials="T." surname="Mrugalski" fullname="T. Mrugalski"/>
+    <author initials="S." surname="Krishnan" fullname="S. Krishnan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>DHCP</keyword>
+    <keyword>DHCPv4</keyword>
+    <keyword>DHCPv6</keyword>
+    <keyword>pervasive monitoring</keyword>
+    <keyword>fingerprinting</keyword>
+    <keyword>privacy</keyword>
+    <keyword>Anonymity</keyword>
+    <keyword>MAC Address Randomization</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>Surveillance</keyword>
+    <abstract>
+      <t>&lt;p&gt;Some DHCP options carry unique identifiers.  These identifiers can enable device tracking even if the device administrator takes care of randomizing other potential identifications like link-layer addresses or IPv6 addresses.  The anonymity profiles are designed for clients that wish to remain anonymous to the visited network.  The profiles provide guidelines on the composition of DHCP or DHCPv6 messages, designed to minimize disclosure of identifying information.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

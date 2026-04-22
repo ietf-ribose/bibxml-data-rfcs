@@ -1,0 +1,22 @@
+<reference anchor="RFC8303" target="https://www.rfc-editor.org/info/rfc8303">
+  <front>
+    <title>On the Usage of Transport Features Provided by IETF Transport Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8303"/>
+    <seriesInfo name="RFC" value="8303"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Welzl" fullname="M. Welzl"/>
+    <author initials="M." surname="Tuexen" fullname="M. Tuexen"/>
+    <author initials="N." surname="Khademi" fullname="N. Khademi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2018"></date>
+    <workgroup>Transport Services</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes how the transport protocols Transmission Control Protocol (TCP), MultiPath TCP (MPTCP), Stream Control Transmission Protocol (SCTP), User Datagram Protocol (UDP), and Lightweight User Datagram Protocol (UDP-Lite) expose services to applications and how an application can configure and use the features that make up these services.  It also discusses the service provided by the Low Extra Delay Background Transport (LEDBAT) congestion control mechanism.  The description results in a set of transport abstractions that can be exported in a transport services (TAPS) API.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

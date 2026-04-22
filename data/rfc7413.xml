@@ -1,0 +1,23 @@
+<reference anchor="RFC7413" target="https://www.rfc-editor.org/info/rfc7413">
+  <front>
+    <title>TCP Fast Open</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7413"/>
+    <seriesInfo name="RFC" value="7413"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Cheng" fullname="Y. Cheng"/>
+    <author initials="J." surname="Chu" fullname="J. Chu"/>
+    <author initials="S." surname="Radhakrishnan" fullname="S. Radhakrishnan"/>
+    <author initials="A." surname="Jain" fullname="A. Jain"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2014"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes an experimental TCP mechanism called TCP Fast Open (TFO).  TFO allows data to be carried in the SYN and SYN-ACK packets and consumed by the receiving end during the initial connection handshake, and saves up to one full round-trip time (RTT) compared to the standard TCP, which requires a three-way handshake (3WHS) to complete before data can be exchanged.  However, TFO deviates from the standard TCP semantics, since the data in the SYN could be replayed to an application in some rare circumstances.  Applications should not use TFO unless they can tolerate this issue, as detailed in the Applicability section.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

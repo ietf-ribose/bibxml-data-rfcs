@@ -1,0 +1,28 @@
+<reference anchor="RFC2595" target="https://www.rfc-editor.org/info/rfc2595">
+  <front>
+    <title>Using TLS with IMAP, POP3 and ACAP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2595"/>
+    <seriesInfo name="RFC" value="2595"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="C." surname="Newman" fullname="C. Newman"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="1999"></date>
+    <keyword>ACAP</keyword>
+    <keyword>application configuration access protocol</keyword>
+    <keyword>POP3</keyword>
+    <keyword>post office protocol</keyword>
+    <keyword>IMAP</keyword>
+    <keyword>internet message access protocol</keyword>
+    <keyword>transport</keyword>
+    <keyword>layer</keyword>
+    <keyword>security</keyword>
+    <abstract>
+      <t>&lt;p&gt;Recognizing that such sites will desire simple password authentication in combination with TLS encryption, this specification defines the PLAIN SASL mechanism for use with protocols which lack a simple password authentication command such as ACAP and SMTP. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

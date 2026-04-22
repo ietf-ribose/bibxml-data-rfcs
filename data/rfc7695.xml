@@ -1,0 +1,27 @@
+<reference anchor="RFC7695" target="https://www.rfc-editor.org/info/rfc7695">
+  <front>
+    <title>Distributed Prefix Assignment Algorithm</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7695"/>
+    <seriesInfo name="RFC" value="7695"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Pfister" fullname="P. Pfister"/>
+    <author initials="B." surname="Paterson" fullname="B. Paterson"/>
+    <author initials="J." surname="Arkko" fullname="J. Arkko"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2015"></date>
+    <workgroup>Home Networking</workgroup>
+    <keyword>distributed</keyword>
+    <keyword>prefix</keyword>
+    <keyword>address</keyword>
+    <keyword>assignment</keyword>
+    <keyword>homenet</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a distributed algorithm for dividing a set of prefixes in a manner that allows for automatic assignment of sub-prefixes that are unique and non-overlapping.  Used in conjunction with a protocol that provides flooding of information among a set of participating nodes, prefix configuration within a network may be automated.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

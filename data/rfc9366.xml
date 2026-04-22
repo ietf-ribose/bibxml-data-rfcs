@@ -1,0 +1,20 @@
+<reference anchor="RFC9366" target="https://www.rfc-editor.org/info/rfc9366">
+  <front>
+    <title>Multiple SIP Reason Header Field Values</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9366"/>
+    <seriesInfo name="RFC" value="9366"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Sparks" fullname="R. Sparks"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2023"></date>
+    <workgroup>Session Initiation Protocol Core</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The SIP Reason header field as defined in RFC 3326 allows only one Reason value per protocol value.  Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value.  This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

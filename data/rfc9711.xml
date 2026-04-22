@@ -1,0 +1,26 @@
+<reference anchor="RFC9711" target="https://www.rfc-editor.org/info/rfc9711">
+  <front>
+    <title>The Entity Attestation Token (EAT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9711"/>
+    <seriesInfo name="RFC" value="9711"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Lundblade" fullname="L. Lundblade"/>
+    <author initials="G." surname="Mandyam" fullname="G. Mandyam"/>
+    <author initials="J." surname="O'Donoghue" fullname="J. O'Donoghue"/>
+    <author initials="C." surname="Wallace" fullname="C. Wallace"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2025"></date>
+    <workgroup>Remote ATtestation ProcedureS</workgroup>
+    <keyword>signing</keyword>
+    <keyword>attestation</keyword>
+    <keyword>cbor</keyword>
+    <abstract>
+      <t>&lt;p&gt;An Entity Attestation Token (EAT) provides an attested claims set that describes the state and characteristics of an entity, a device such as a smartphone, an Internet of Things (IoT) device, network equipment, or such. This claims set is used by a relying party, server, or service to determine the type and degree of trust placed in the entity.&lt;/p&gt;&lt;p&gt;An EAT is either a CBOR Web Token (CWT) or a JSON Web Token (JWT) with attestation-oriented claims.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

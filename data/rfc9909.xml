@@ -1,0 +1,28 @@
+<reference anchor="RFC9909" target="https://www.rfc-editor.org/info/rfc9909">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9909"/>
+    <seriesInfo name="RFC" value="9909"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Bashiri" fullname="K. Bashiri"/>
+    <author initials="S." surname="Fluhrer" fullname="S. Fluhrer"/>
+    <author initials="S." surname="Gazdag" fullname="S. Gazdag"/>
+    <author initials="D." surname="Van Geest" fullname="D. Van Geest"/>
+    <author initials="S." surname="Kousidis" fullname="S. Kousidis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>SLH-DSA</keyword>
+    <keyword>SPHINCS+</keyword>
+    <keyword>PQ Signatures</keyword>
+    <keyword>post-quantum X.509</keyword>
+    <abstract>
+      <t>&lt;p&gt;Digital signatures are used within the X.509 Public Key Infrastructure, such as X.509 certificates and Certificate Revocation Lists (CRLs), as well as to sign messages.  This document specifies the conventions for using the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA) in the X.509 Public Key Infrastructure.  The conventions for the associated signatures, subject public keys, and private keys are also specified.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

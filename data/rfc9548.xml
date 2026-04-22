@@ -1,0 +1,25 @@
+<reference anchor="RFC9548" target="https://www.rfc-editor.org/info/rfc9548">
+  <front>
+    <title>Generating Transport Key Containers (PFX) Using the GOST Algorithms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9548"/>
+    <seriesInfo name="RFC" value="9548"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="E." surname="Karelina" fullname="E. Karelina" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2024"></date>
+    <keyword>transport key containers</keyword>
+    <keyword>certificates</keyword>
+    <keyword>GOST algorithms</keyword>
+    <keyword>pkcs12</keyword>
+    <keyword>gost</keyword>
+    <keyword>PFX</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how to use "PKCS #12: Personal Information Exchange Syntax v1.1" (RFC 7292) to transport key containers (PFX) for storing keys and certificates in conjunction with the Russian national standard GOST algorithms.&lt;/p&gt;&lt;p&gt;This specification has been developed outside the IETF. The purpose of publication is to facilitate interoperable implementations that wish to support the GOST algorithms. This document does not imply IETF endorsement of the cryptographic algorithms used here.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

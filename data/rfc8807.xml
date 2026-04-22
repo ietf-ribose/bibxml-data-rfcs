@@ -1,0 +1,21 @@
+<reference anchor="RFC8807" target="https://www.rfc-editor.org/info/rfc8807">
+  <front>
+    <title>Login Security Extension for the Extensible Provisioning Protocol (EPP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8807"/>
+    <seriesInfo name="RFC" value="8807"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Gould" fullname="J. Gould"/>
+    <author initials="M." surname="Pozun" fullname="M. Pozun"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2020"></date>
+    <workgroup>Registration Protocols Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Extensible Provisioning Protocol (EPP) includes a client authentication scheme that is based on a user identifier and password.  The structure of the password field is defined by an XML Schema data type that specifies minimum and maximum password length values, but there are no other provisions for password management other than changing the password.  This document describes an EPP extension that allows longer passwords to be created and adds additional security features to the EPP login command and response.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

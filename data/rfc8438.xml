@@ -1,0 +1,23 @@
+<reference anchor="RFC8438" target="https://www.rfc-editor.org/info/rfc8438">
+  <front>
+    <title>IMAP Extension for STATUS=SIZE</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8438"/>
+    <seriesInfo name="RFC" value="8438"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bosch" fullname="S. Bosch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2018"></date>
+    <workgroup>Email mailstore and eXtensions To Revise or Amend</workgroup>
+    <keyword>imap</keyword>
+    <keyword>status</keyword>
+    <keyword>size</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document adds a new capability called "STATUS=SIZE" to the Internet Message Access Protocol (IMAP).  It allows retrieving the total storage size of a mailbox with a single STATUS command rather than retrieving and summing the sizes of all individual messages in that mailbox.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

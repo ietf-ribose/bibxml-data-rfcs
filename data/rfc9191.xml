@@ -1,0 +1,28 @@
+<reference anchor="RFC9191" target="https://www.rfc-editor.org/info/rfc9191">
+  <front>
+    <title>Handling Large Certificates and Long Certificate Chains in TLS-Based EAP Methods</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9191"/>
+    <seriesInfo name="RFC" value="9191"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Sethi" fullname="M. Sethi"/>
+    <author initials="J." surname="Preuß Mattsson" fullname="J. Preuß Mattsson"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2022"></date>
+    <workgroup>EAP Method Update</workgroup>
+    <keyword>EAP-TLS</keyword>
+    <keyword>X.509</keyword>
+    <keyword>EAP</keyword>
+    <keyword>authenticator</keyword>
+    <keyword>Maximum Transmission Unit</keyword>
+    <keyword>(MTU)</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Extensible Authentication Protocol (EAP), defined in RFC 3748, provides a standard mechanism for support of multiple authentication methods.  EAP-TLS and other TLS-based EAP methods are widely deployed and used for network access authentication.  Large certificates and long certificate chains combined with authenticators that drop an EAP session after only 40 - 50 round trips is a major deployment problem.  This document looks at this problem in detail and describes the potential solutions available.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

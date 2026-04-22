@@ -1,0 +1,31 @@
+<reference anchor="RFC8936" target="https://www.rfc-editor.org/info/rfc8936">
+  <front>
+    <title>Poll-Based Security Event Token (SET) Delivery Using HTTP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8936"/>
+    <seriesInfo name="RFC" value="8936"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Backman" fullname="A. Backman" role="editor"/>
+    <author initials="M." surname="Jones" fullname="M. Jones" role="editor"/>
+    <author initials="M." surname="Scurtescu" fullname="M. Scurtescu"/>
+    <author initials="M." surname="Ansari" fullname="M. Ansari"/>
+    <author initials="A." surname="Nadalin" fullname="A. Nadalin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2020"></date>
+    <workgroup>Security Events</workgroup>
+    <keyword>JSON Web Token</keyword>
+    <keyword>JWT</keyword>
+    <keyword>Security Event Token</keyword>
+    <keyword>SET</keyword>
+    <keyword>Delivery</keyword>
+    <keyword>JavaScript Object Notation</keyword>
+    <keyword>JSON</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines how a series of Security Event Tokens (SETs) can be delivered to an intended recipient using HTTP POST over TLS initiated as a poll by the recipient.  The specification also defines how delivery can be assured, subject to the SET Recipient's need for assurance.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

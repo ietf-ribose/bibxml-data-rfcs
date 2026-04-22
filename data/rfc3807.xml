@@ -1,0 +1,40 @@
+<reference anchor="RFC3807" target="https://www.rfc-editor.org/info/rfc3807">
+  <front>
+    <title>V5.2-User Adaptation Layer (V5UA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3807"/>
+    <seriesInfo name="RFC" value="3807"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Weilandt" fullname="E. Weilandt"/>
+    <author initials="N." surname="Khanchandani" fullname="N. Khanchandani"/>
+    <author initials="S." surname="Rao" fullname="S. Rao"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2004"></date>
+    <workgroup>Signaling Transport</workgroup>
+    <keyword>v5</keyword>
+    <keyword>v5.1</keyword>
+    <keyword>v5.2</keyword>
+    <keyword>backhauling</keyword>
+    <keyword>imap</keyword>
+    <keyword>sctp</keyword>
+    <keyword>isdn</keyword>
+    <keyword>access network</keyword>
+    <keyword>c-path</keyword>
+    <keyword>c-channel</keyword>
+    <keyword>efa</keyword>
+    <keyword>envelope function address</keyword>
+    <keyword>lapv5</keyword>
+    <keyword>pstn</keyword>
+    <keyword>v5ptm</keyword>
+    <keyword>mgc</keyword>
+    <keyword>gateway controller</keyword>
+    <keyword>gateway</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a mechanism for the backhauling of V5.2 messages over IP using the Stream Control Transmission Protocol (SCTP).  This protocol may be used between a Signaling Gateway (SG) and a Media Gateway controller (MGC).  It is assumed that the SG receives V5.2 signaling over a standard V5.2 interface.  This document builds on the ISDN User Adaptation Layer Protocol (RFC 3057).  It defines all necessary extensions to the IUA Protocol needed for the V5UA protocol implementation. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

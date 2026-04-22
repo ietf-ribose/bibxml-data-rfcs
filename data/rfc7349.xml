@@ -1,0 +1,22 @@
+<reference anchor="RFC7349" target="https://www.rfc-editor.org/info/rfc7349">
+  <front>
+    <title>LDP Hello Cryptographic Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7349"/>
+    <seriesInfo name="RFC" value="7349"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Zheng" fullname="L. Zheng"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="M." surname="Bhatia" fullname="M. Bhatia"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2014"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document introduces a new optional Cryptographic Authentication TLV that LDP can use to secure its Hello messages.  It secures the Hello messages against spoofing attacks and some well-known attacks against the IP header.  This document describes a mechanism to secure the LDP Hello messages using Hashed Message Authentication Code (HMAC) with the National Institute of Standards and Technology (NIST) Secure Hash Standard family of algorithms.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

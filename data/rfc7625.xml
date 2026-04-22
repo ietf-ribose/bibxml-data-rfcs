@@ -1,0 +1,23 @@
+<reference anchor="RFC7625" target="https://www.rfc-editor.org/info/rfc7625">
+  <front>
+    <title>Architecture of an IP/MPLS Network with Hardened Pipes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7625"/>
+    <seriesInfo name="RFC" value="7625"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="J. T." surname="Hao" fullname="J. T. Hao"/>
+    <author initials="P." surname="Maheshwari" fullname="P. Maheshwari"/>
+    <author initials="R." surname="Huang" fullname="R. Huang"/>
+    <author initials="L." surname="Andersson" fullname="L. Andersson"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2015"></date>
+    <abstract>
+      <t>&lt;p&gt;This document describes an IP/MPLS network that has an infrastructure that can be separated into two or more strata. For the implementation described in this document, the infrastructure has been separated into two strata: one for the "Hard Pipes", called the "Hard Pipe Stratum", and one for the normal IP/MPLS traffic, called the "Normal IP/MPLS Stratum".&lt;/p&gt;&lt;p&gt;This document introduces the concept of a Hard Pipe -- an MPLS Label Switched Path (LSP) or a pseudowire (PW) with a bandwidth that is guaranteed and can neither be exceeded nor infringed upon.&lt;/p&gt;&lt;p&gt;The Hard Pipe stratum does not use statistical multiplexing; for the LSPs and PWs set up within this stratum, the bandwidth is guaranteed end to end.&lt;/p&gt;&lt;p&gt;The document does not specify any new protocol or procedures. It does explain how the MPLS standards implementation has been deployed and operated to meet the requirements from operators that offer traditional Virtual Leased Line (VLL) services.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

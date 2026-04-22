@@ -1,0 +1,26 @@
+<reference anchor="RFC4209" target="https://www.rfc-editor.org/info/rfc4209">
+  <front>
+    <title>Link Management Protocol (LMP) for Dense Wavelength Division Multiplexing (DWDM) Optical Line Systems</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4209"/>
+    <seriesInfo name="RFC" value="4209"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Fredette" fullname="A. Fredette" role="editor"/>
+    <author initials="J." surname="Lang" fullname="J. Lang" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2005"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>te</keyword>
+    <keyword>traffic engineering</keyword>
+    <keyword>peer nodes</keyword>
+    <keyword>ols</keyword>
+    <keyword>optical link interface requirements</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Link Management Protocol (LMP) is defined to manage traffic engineering (TE) links.  In its present form, LMP focuses on peer nodes, i.e., nodes that peer in signaling and/or routing.  This document proposes extensions to LMP to allow it to be used between a peer node and an adjacent optical line system (OLS).  These extensions are intended to satisfy the "Optical Link Interface Requirements" described in a companion document. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="RFC9114" target="https://www.rfc-editor.org/info/rfc9114">
+  <front>
+    <title>HTTP/3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9114"/>
+    <seriesInfo name="RFC" value="9114"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bishop" fullname="M. Bishop" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <workgroup>QUIC</workgroup>
+    <keyword>Transport</keyword>
+    <keyword>QUIC</keyword>
+    <keyword>HTTP/2</keyword>
+    <keyword>HPACK</keyword>
+    <keyword>QPACK</keyword>
+    <keyword>Web</keyword>
+    <abstract>
+      <t>&lt;p&gt;The QUIC transport protocol has several features that are desirable in a transport for HTTP, such as stream multiplexing, per-stream flow control, and low-latency connection establishment.  This document describes a mapping of HTTP semantics over QUIC.  This document also identifies HTTP/2 features that are subsumed by QUIC and describes how HTTP/2 extensions can be ported to HTTP/3.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

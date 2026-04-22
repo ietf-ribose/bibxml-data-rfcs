@@ -1,0 +1,21 @@
+<reference anchor="RFC8467" target="https://www.rfc-editor.org/info/rfc8467">
+  <front>
+    <title>Padding Policies for Extension Mechanisms for DNS (EDNS(0))</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8467"/>
+    <seriesInfo name="RFC" value="8467"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Mayrhofer" fullname="A. Mayrhofer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2018"></date>
+    <workgroup>DNS PRIVate Exchange</workgroup>
+    <keyword>security</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 7830 specifies the "Padding" option for Extension Mechanisms for DNS (EDNS(0)) but does not specify the actual padding length for specific applications.  This memo lists the possible options ("padding policies"), discusses the implications of each option, and provides a recommended (experimental) option.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

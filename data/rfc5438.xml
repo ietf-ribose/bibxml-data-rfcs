@@ -1,0 +1,25 @@
+<reference anchor="RFC5438" target="https://www.rfc-editor.org/info/rfc5438">
+  <front>
+    <title>Instant Message Disposition Notification (IMDN)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5438"/>
+    <seriesInfo name="RFC" value="5438"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Burger" fullname="E. Burger"/>
+    <author initials="H." surname="Khartabil" fullname="H. Khartabil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2009"></date>
+    <workgroup>SIP for Instant Messaging and Presence Leveraging Extensions</workgroup>
+    <keyword>im</keyword>
+    <keyword>instant messaging</keyword>
+    <keyword>cpim</keyword>
+    <keyword>common presence and instant messaging</keyword>
+    <abstract>
+      <t>&lt;p&gt;Instant Messaging (IM) refers to the transfer of messages between users in real-time. This document provides a mechanism whereby endpoints can request Instant Message Disposition Notifications (IMDN), including delivery, processing, and display notifications, for page-mode instant messages.&lt;/p&gt;&lt;p&gt;The Common Presence and Instant Messaging (CPIM) data format specified in RFC 3862 is extended with new header fields that enable endpoints to request IMDNs. A new message format is also defined to convey IMDNs.&lt;/p&gt;&lt;p&gt;This document also describes how SIP entities behave using this extension. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

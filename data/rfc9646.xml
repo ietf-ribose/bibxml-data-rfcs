@@ -1,0 +1,32 @@
+<reference anchor="RFC9646" target="https://www.rfc-editor.org/info/rfc9646">
+  <front>
+    <title>Conveying a Certificate Signing Request (CSR) in a Secure Zero-Touch Provisioning (SZTP) Bootstrapping Request</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9646"/>
+    <seriesInfo name="RFC" value="9646"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Watsen" fullname="K. Watsen"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2024"></date>
+    <workgroup>Network Configuration</workgroup>
+    <keyword>zerotouch</keyword>
+    <keyword>bootstrap</keyword>
+    <keyword>sztp</keyword>
+    <keyword>ztp</keyword>
+    <keyword>csr</keyword>
+    <keyword>pkcs#10</keyword>
+    <keyword>p10</keyword>
+    <keyword>p10cr</keyword>
+    <keyword>cmc</keyword>
+    <keyword>cmp</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document extends the input to the "get-bootstrapping-data" RPC defined in RFC 8572 to include an optional certificate signing request (CSR), enabling a bootstrapping device to additionally obtain an identity certificate (e.g., a Local Device Identifier (LDevID) from IEEE 802.1AR) as part of the "onboarding information" response provided in the RPC-reply.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

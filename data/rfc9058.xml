@@ -1,0 +1,25 @@
+<reference anchor="RFC9058" target="https://www.rfc-editor.org/info/rfc9058">
+  <front>
+    <title>Multilinear Galois Mode (MGM)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9058"/>
+    <seriesInfo name="RFC" value="9058"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Smyshlyaev" fullname="S. Smyshlyaev" role="editor"/>
+    <author initials="V." surname="Nozdrunov" fullname="V. Nozdrunov"/>
+    <author initials="V." surname="Shishkin" fullname="V. Shishkin"/>
+    <author initials="E." surname="Griboedova" fullname="E. Griboedova"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2021"></date>
+    <keyword>authenticated encryption</keyword>
+    <keyword>mode of operation</keyword>
+    <keyword>AEAD</keyword>
+    <abstract>
+      <t>&lt;p&gt;Multilinear Galois Mode (MGM) is an Authenticated Encryption with Associated Data (AEAD) block cipher mode based on the Encrypt-then-MAC (EtM) principle. MGM is defined for use with 64-bit and 128-bit block ciphers.&lt;/p&gt;&lt;p&gt;MGM has been standardized in Russia. It is used as an AEAD mode for the GOST block cipher algorithms in many protocols, e.g., TLS 1.3 and IPsec. This document provides a reference for MGM to enable review of the mechanisms in use and to make MGM available for use with any block cipher.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

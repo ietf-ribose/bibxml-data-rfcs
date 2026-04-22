@@ -1,0 +1,21 @@
+<reference anchor="RFC6402" target="https://www.rfc-editor.org/info/rfc6402">
+  <front>
+    <title>Certificate Management over CMS (CMC) Updates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6402"/>
+    <seriesInfo name="RFC" value="6402"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2011"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>cyrptographic message syntax</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document contains a set of updates to the base syntax for CMC, a Certificate Management protocol using the Cryptographic Message Syntax (CMS). This document updates RFC 5272, RFC 5273, and RFC 5274.&lt;/p&gt;&lt;p&gt;The new items in this document are: new controls for future work in doing server side key generation, definition of a Subject Information Access value to identify CMC servers, and the registration of a port number for TCP/IP for the CMC service to run on. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

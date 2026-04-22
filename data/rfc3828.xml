@@ -1,0 +1,26 @@
+<reference anchor="RFC3828" target="https://www.rfc-editor.org/info/rfc3828">
+  <front>
+    <title>The Lightweight User Datagram Protocol (UDP-Lite)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3828"/>
+    <seriesInfo name="RFC" value="3828"/>
+    <seriesInfo name="IETF"/>
+    <author surname="L-A. Larzon" fullname="L-A. Larzon"/>
+    <author initials="M." surname="Degermark" fullname="M. Degermark"/>
+    <author initials="S." surname="Pink" fullname="S. Pink"/>
+    <author surname="L-E. Jonsson" fullname="L-E. Jonsson" role="editor"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2004"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>UDP-Lite</keyword>
+    <keyword>Lightweight User Datagram Protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the Lightweight User Datagram Protocol (UDP-Lite), which is similar to the User Datagram Protocol (UDP) (RFC 768), but can also serve applications in error-prone network environments that prefer to have partially damaged payloads delivered rather than discarded.  If this feature is not used, UDP-Lite is semantically identical to UDP. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

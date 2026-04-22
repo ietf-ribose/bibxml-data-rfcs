@@ -1,0 +1,26 @@
+<reference anchor="RFC3123" target="https://www.rfc-editor.org/info/rfc3123">
+  <front>
+    <title>A DNS RR Type for Lists of Address Prefixes (APL RR)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3123"/>
+    <seriesInfo name="RFC" value="3123"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Koch" fullname="P. Koch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2001"></date>
+    <workgroup>DNS Extensions</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>domain name system</keyword>
+    <keyword>RR</keyword>
+    <keyword>resource record</keyword>
+    <keyword>APL</keyword>
+    <keyword>address prefix lists</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Domain Name System (DNS) is primarily used to translate domain names into IPv4 addresses using A RRs (Resource Records).  Several approaches exist to describe networks or address ranges.  This document specifies a new DNS RR type "APL" for address prefix lists.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC3765" target="https://www.rfc-editor.org/info/rfc3765">
+  <front>
+    <title>NOPEER Community for Border Gateway Protocol (BGP) Route Scope Control</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3765"/>
+    <seriesInfo name="RFC" value="3765"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="G." surname="Huston" fullname="G. Huston"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2004"></date>
+    <keyword>peer connections</keyword>
+    <keyword>propagated</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the use of a scope control Border Gateway Protocol (BGP) community.  This well-known advisory transitive community allows an origin AS to specify the extent to which a specific route should be externally propagated.  In particular this community, NOPEER, allows an origin AS to specify that a route with this attribute need not be advertised across bilateral peer connections.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

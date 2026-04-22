@@ -1,0 +1,32 @@
+<reference anchor="RFC9860" target="https://www.rfc-editor.org/info/rfc9860">
+  <front>
+    <title>Multicast-Only Fast Reroute (MoFRR) Based on Topology Independent Loop-Free Alternate (TI-LFA) Fast Reroute</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9860"/>
+    <seriesInfo name="RFC" value="9860"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Liu" fullname="Y. Liu"/>
+    <author initials="M." surname="McBride" fullname="M. McBride"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="J." surname="Xie" fullname="J. Xie"/>
+    <author initials="C." surname="Lin" fullname="C. Lin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>PIM</keyword>
+    <keyword>MoFRR</keyword>
+    <keyword>LFA</keyword>
+    <keyword>TI-LFA</keyword>
+    <keyword>SR-MPLS</keyword>
+    <keyword>SRv6</keyword>
+    <keyword>RPF Vector</keyword>
+    <keyword>Join attribute</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the use of Topology Independent Loop-Free Alternate (TI-LFA) mechanisms with Multicast-only Fast Reroute (MoFRR) for Protocol Independent Multicast (PIM).  The TI-LFA provides Fast Reroute (FRR) protection for unicast traffic in IP networks by precomputing backup paths that avoid potential failures.  By integrating TI-LFA with MoFRR, this document extends the benefits of FRR mechanisms to multicast traffic, enabling enhanced resilience and minimized packet loss in multicast networks.  The document outlines an optional approach to implement TI-LFA in conjunction with MoFRR for PIM, ensuring that multicast traffic is rapidly rerouted in the event of a failure.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

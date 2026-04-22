@@ -1,0 +1,25 @@
+<reference anchor="RFC5348" target="https://www.rfc-editor.org/info/rfc5348">
+  <front>
+    <title>TCP Friendly Rate Control (TFRC): Protocol Specification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5348"/>
+    <seriesInfo name="RFC" value="5348"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Floyd" fullname="S. Floyd"/>
+    <author initials="M." surname="Handley" fullname="M. Handley"/>
+    <author initials="J." surname="Padhye" fullname="J. Padhye"/>
+    <author initials="J." surname="Widmer" fullname="J. Widmer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2008"></date>
+    <workgroup>Datagram Congestion Control Protocol</workgroup>
+    <keyword>tcp-friendly rate control</keyword>
+    <keyword>congestion control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies TCP Friendly Rate Control (TFRC). TFRC is a congestion control mechanism for unicast flows operating in a best-effort Internet environment. It is reasonably fair when competing for bandwidth with TCP flows, but has a much lower variation of throughput over time compared with TCP, making it more suitable for applications such as streaming media where a relatively smooth sending rate is of importance.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 3448 and updates RFC 4342. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

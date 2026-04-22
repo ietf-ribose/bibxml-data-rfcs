@@ -1,0 +1,23 @@
+<reference anchor="RFC4821" target="https://www.rfc-editor.org/info/rfc4821">
+  <front>
+    <title>Packetization Layer Path MTU Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4821"/>
+    <seriesInfo name="RFC" value="4821"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Mathis" fullname="M. Mathis"/>
+    <author initials="J." surname="Heffner" fullname="J. Heffner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2007"></date>
+    <workgroup>Path MTU Discovery</workgroup>
+    <keyword>maximum transmission unit</keyword>
+    <keyword>pmtud</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a robust method for Path MTU Discovery (PMTUD) that relies on TCP or some other Packetization Layer to probe an Internet path with progressively larger packets.  This method is described as an extension to RFC 1191 and RFC 1981, which specify ICMP-based Path MTU Discovery for IP versions 4 and 6, respectively. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

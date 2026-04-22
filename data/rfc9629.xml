@@ -1,0 +1,24 @@
+<reference anchor="RFC9629" target="https://www.rfc-editor.org/info/rfc9629">
+  <front>
+    <title>Using Key Encapsulation Mechanism (KEM) Algorithms in the Cryptographic Message Syntax (CMS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9629"/>
+    <seriesInfo name="RFC" value="9629"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author initials="J." surname="Gray" fullname="J. Gray"/>
+    <author initials="T." surname="Okubo" fullname="T. Okubo"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>kemri</keyword>
+    <keyword>KEMRecipientInfo</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Cryptographic Message Syntax (CMS) supports key transport and key agreement algorithms.  In recent years, cryptographers have been specifying Key Encapsulation Mechanism (KEM) algorithms, including quantum-secure KEM algorithms.  This document defines conventions for the use of KEM algorithms by the originator and recipients to encrypt and decrypt CMS content.  This document updates RFC 5652.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

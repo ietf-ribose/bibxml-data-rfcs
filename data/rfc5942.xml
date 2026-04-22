@@ -1,0 +1,22 @@
+<reference anchor="RFC5942" target="https://www.rfc-editor.org/info/rfc5942">
+  <front>
+    <title>IPv6 Subnet Model: The Relationship between Links and Subnet Prefixes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5942"/>
+    <seriesInfo name="RFC" value="5942"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Singh" fullname="H. Singh"/>
+    <author initials="W." surname="Beebee" fullname="W. Beebee"/>
+    <author initials="E." surname="Nordmark" fullname="E. Nordmark"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2010"></date>
+    <workgroup>IPv6 Maintenance</workgroup>
+    <abstract>
+      <t>&lt;p&gt;IPv6 specifies a model of a subnet that is different than the IPv4 subnet model.  The subtlety of the differences has resulted in incorrect implementations that do not interoperate.  This document spells out the most important difference: that an IPv6 address isn't automatically associated with an IPv6 on-link prefix.  This document also updates (partially due to security concerns caused by incorrect implementations) a part of the definition of "on-link" from RFC 4861. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

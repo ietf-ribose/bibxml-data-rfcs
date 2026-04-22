@@ -1,0 +1,22 @@
+<reference anchor="RFC7551" target="https://www.rfc-editor.org/info/rfc7551">
+  <front>
+    <title>RSVP-TE Extensions for Associated Bidirectional Label Switched Paths (LSPs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7551"/>
+    <seriesInfo name="RFC" value="7551"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Zhang" fullname="F. Zhang" role="editor"/>
+    <author initials="R." surname="Jing" fullname="R. Jing"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2015"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

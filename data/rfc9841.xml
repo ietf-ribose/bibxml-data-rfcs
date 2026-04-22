@@ -1,0 +1,24 @@
+<reference anchor="RFC9841" target="https://www.rfc-editor.org/info/rfc9841">
+  <front>
+    <title>Shared Brotli Compressed Data Format</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9841"/>
+    <seriesInfo name="RFC" value="9841"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Alakuijala" fullname="J. Alakuijala"/>
+    <author initials="T." surname="Duong" fullname="T. Duong"/>
+    <author initials="E." surname="Kliuchnikov" fullname="E. Kliuchnikov"/>
+    <author initials="Z." surname="Szabadka" fullname="Z. Szabadka"/>
+    <author initials="L." surname="Vandevenne" fullname="L. Vandevenne" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <keyword>dictionary compression lz77</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a data format for shared brotli compression, which adds support for shared dictionaries, large window, and a container format to brotli (RFC 7932).  Shared dictionaries and large window support allow significant compression gains compared to regular brotli.  This document specifies an extension to the method defined in RFC 7932.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

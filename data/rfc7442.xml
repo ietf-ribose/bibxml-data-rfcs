@@ -1,0 +1,25 @@
+<reference anchor="RFC7442" target="https://www.rfc-editor.org/info/rfc7442">
+  <front>
+    <title>Carrying Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source Multicast (ASM) Mode Trees over Multipoint LDP (mLDP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7442"/>
+    <seriesInfo name="RFC" value="7442"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal"/>
+    <author initials="N." surname="Leymann" fullname="N. Leymann"/>
+    <author initials="W." surname="Henderickx" fullname="W. Henderickx"/>
+    <author initials="Q." surname="Zhao" fullname="Q. Zhao"/>
+    <author initials="R." surname="Li" fullname="R. Li"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2015"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;When IP multicast trees created by Protocol Independent Multicast - Sparse Mode (PIM-SM) in Any-Source Multicast (ASM) mode need to pass through an MPLS domain, it may be desirable to map such trees to Point-to-Multipoint Label Switched Paths (P2MP LSPs).  This document describes how to accomplish this in the case where such P2MP LSPs are established using Label Distribution Protocol (LDP) Extensions for P2MP and Multipoint-to-Multipoint LSPs: Multipoint LDP (mLDP).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

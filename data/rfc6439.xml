@@ -1,0 +1,26 @@
+<reference anchor="RFC6439" target="https://www.rfc-editor.org/info/rfc6439">
+  <front>
+    <title>Routing Bridges (RBridges): Appointed Forwarders</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6439"/>
+    <seriesInfo name="RFC" value="6439"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Perlman" fullname="R. Perlman"/>
+    <author initials="D." surname="Eastlake" fullname="D. Eastlake"/>
+    <author initials="Y." surname="Li" fullname="Y. Li"/>
+    <author initials="A." surname="Banerjee" fullname="A. Banerjee"/>
+    <author initials="F." surname="Hu" fullname="F. Hu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2011"></date>
+    <workgroup>Transparent Interconnection of Lots of Links</workgroup>
+    <keyword>trill</keyword>
+    <keyword>TRansparent Interconnection of Lots of Links</keyword>
+    <abstract>
+      <t>&lt;p&gt;The IETF TRILL (TRansparent Interconnection of Lots of Links) protocol provides least cost pair-wise data forwarding without configuration in multi-hop networks with arbitrary topology, safe forwarding even during periods of temporary loops, and support for multipathing of both unicast and multicast traffic. TRILL accomplishes this by using IS-IS (Intermediate System to Intermediate System) link state routing and by encapsulating traffic using a header that includes a hop count. Devices that implement TRILL are called "RBridges" (Routing Bridges).&lt;/p&gt;&lt;p&gt;TRILL supports multi-access LAN (Local Area Network) links that can have multiple end stations and RBridges attached. Where multiple RBridges are attached to a link, native traffic to and from end stations on that link is handled by a subset of those RBridges called "Appointed Forwarders", with the intent that native traffic in each VLAN (Virtual LAN) be handled by at most one RBridge. The purpose of this document is to improve the documentation of the Appointed Forwarder mechanism; thus, it updates RFC 6325. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

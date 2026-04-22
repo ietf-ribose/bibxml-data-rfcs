@@ -1,0 +1,45 @@
+<reference anchor="RFC7648" target="https://www.rfc-editor.org/info/rfc7648">
+  <front>
+    <title>Port Control Protocol (PCP) Proxy Function</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7648"/>
+    <seriesInfo name="RFC" value="7648"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Perreault" fullname="S. Perreault"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="R." surname="Penno" fullname="R. Penno"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author initials="S." surname="Cheshire" fullname="S. Cheshire"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2015"></date>
+    <workgroup>Port Control Protocol</workgroup>
+    <keyword>NAT</keyword>
+    <keyword>firewall</keyword>
+    <keyword>CGN</keyword>
+    <keyword>AFTR</keyword>
+    <keyword>NAT64</keyword>
+    <keyword>port forwarding</keyword>
+    <keyword>pinholing</keyword>
+    <keyword>port mapping</keyword>
+    <keyword>external IP address</keyword>
+    <keyword>discover port number</keyword>
+    <keyword>running a server behind NAT</keyword>
+    <keyword>NAT control</keyword>
+    <keyword>NAT cascading</keyword>
+    <keyword>DS-Lite</keyword>
+    <keyword>incoming connection</keyword>
+    <keyword>control outbound connection</keyword>
+    <keyword>referral</keyword>
+    <keyword>address referral</keyword>
+    <keyword>ALG offload</keyword>
+    <keyword>PCP client</keyword>
+    <keyword>PCP server</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a new Port Control Protocol (PCP) functional element: the PCP proxy.  The PCP proxy relays PCP requests received from PCP clients to upstream PCP server(s).  A typical deployment usage of this function is to help establish successful PCP communications for PCP clients that cannot be configured with the address of a PCP server located more than one hop away.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

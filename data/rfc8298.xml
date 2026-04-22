@@ -1,0 +1,24 @@
+<reference anchor="RFC8298" target="https://www.rfc-editor.org/info/rfc8298">
+  <front>
+    <title>Self-Clocked Rate Adaptation for Multimedia</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8298"/>
+    <seriesInfo name="RFC" value="8298"/>
+    <seriesInfo name="IETF"/>
+    <author initials="I." surname="Johansson" fullname="I. Johansson"/>
+    <author initials="Z." surname="Sarker" fullname="Z. Sarker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2017"></date>
+    <workgroup>RTP Media Congestion Avoidance Techniques</workgroup>
+    <keyword>Cellular Network</keyword>
+    <keyword>Congestion Control</keyword>
+    <keyword>RTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes a rate adaptation algorithm for conversational media services such as interactive video.  The solution conforms to the packet conservation principle and uses a hybrid loss-and-delay- based congestion control algorithm.  The algorithm is evaluated over both simulated Internet bottleneck scenarios as well as in a Long Term Evolution (LTE) system simulator and is shown to achieve both low latency and high video throughput in these scenarios.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

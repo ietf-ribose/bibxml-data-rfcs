@@ -1,0 +1,28 @@
+<reference anchor="RFC5750" target="https://www.rfc-editor.org/info/rfc5750">
+  <front>
+    <title>Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 3.2 Certificate Handling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5750"/>
+    <seriesInfo name="RFC" value="5750"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Ramsdell" fullname="B. Ramsdell"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2010"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>encryption</keyword>
+    <keyword>certificate</keyword>
+    <keyword>multipurpose</keyword>
+    <keyword>internet</keyword>
+    <keyword>mail </keyword>
+    <keyword>extensions</keyword>
+    <keyword>secure</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies conventions for X.509 certificate usage by Secure/Multipurpose Internet Mail Extensions (S/MIME) v3.2 agents.  S/MIME provides a method to send and receive secure MIME messages, and certificates are an integral part of S/MIME agent processing.  S/MIME agents validate certificates as described in RFC 5280, the Internet X.509 Public Key Infrastructure Certificate and CRL Profile.  S/MIME agents must meet the certificate processing requirements in this document as well as those in RFC 5280.  This document obsoletes RFC 3850. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

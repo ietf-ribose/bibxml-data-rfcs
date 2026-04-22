@@ -1,0 +1,24 @@
+<reference anchor="RFC7606" target="https://www.rfc-editor.org/info/rfc7606">
+  <front>
+    <title>Revised Error Handling for BGP UPDATE Messages</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7606"/>
+    <seriesInfo name="RFC" value="7606"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Chen" fullname="E. Chen" role="editor"/>
+    <author initials="J." surname="Scudder" fullname="J. Scudder" role="editor"/>
+    <author initials="P." surname="Mohapatra" fullname="P. Mohapatra"/>
+    <author initials="K." surname="Patel" fullname="K. Patel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2015"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP</keyword>
+    <abstract>
+      <t>&lt;p&gt;According to the base BGP specification, a BGP speaker that receives an UPDATE message containing a malformed attribute is required to reset the session over which the offending attribute was received. This behavior is undesirable because a session reset would impact not only routes with the offending attribute but also other valid routes exchanged over the session. This document partially revises the error handling for UPDATE messages and provides guidelines for the authors of documents defining new attributes. Finally, it revises the error handling procedures for a number of existing attributes.&lt;/p&gt;&lt;p&gt;This document updates error handling for RFCs 1997, 4271, 4360, 4456, 4760, 5543, 5701, and 6368.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

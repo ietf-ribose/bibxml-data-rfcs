@@ -1,0 +1,25 @@
+<reference anchor="RFC2056" target="https://www.rfc-editor.org/info/rfc2056">
+  <front>
+    <title>Uniform Resource Locators for Z39.50</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2056"/>
+    <seriesInfo name="RFC" value="2056"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="R." surname="Denenberg" fullname="R. Denenberg"/>
+    <author initials="J." surname="Kunze" fullname="J. Kunze"/>
+    <author initials="D." surname="Lynch" fullname="D. Lynch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="1996"></date>
+    <keyword>URLZ39.50</keyword>
+    <keyword>URL</keyword>
+    <keyword>information</keyword>
+    <keyword>retrieval</keyword>
+    <abstract>
+      <t>&lt;p&gt;Z39.50 is an information retrieval protocol that does not fit neatly into a retrieval model designed primarily around the stateless fetch of data.  Instead, it models a general user inquiry as a session-oriented, multi-step task, any step of which may be suspended temporarily while the server requests additional parameters from the client before continuing. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC2492" target="https://www.rfc-editor.org/info/rfc2492">
+  <front>
+    <title>IPv6 over ATM Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2492"/>
+    <seriesInfo name="RFC" value="2492"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Armitage" fullname="G. Armitage"/>
+    <author initials="P." surname="Schulter" fullname="P. Schulter"/>
+    <author initials="M." surname="Jork" fullname="M. Jork"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1999"></date>
+    <workgroup>Internetworking Over NBMA</workgroup>
+    <keyword>IPv6ATMNET</keyword>
+    <keyword>internet protocol</keyword>
+    <keyword>ATM</keyword>
+    <keyword>asynchronous transfer mode</keyword>
+    <keyword>host</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document is a companion to the ION working group's architecture document, "IPv6 over Non Broadcast Multiple Access (NBMA) networks".  It provides specific details on how to apply the IPv6 over NBMA architecture to ATM networks.  This architecture allows conventional host-side operation of the IPv6 Neighbor Discovery protocol, while also supporting the establishment of 'shortcut' ATM forwarding paths (when using SVCs).  Operation over administratively configured Point to Point PVCs is also supported. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC4567" target="https://www.rfc-editor.org/info/rfc4567">
+  <front>
+    <title>Key Management Extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4567"/>
+    <seriesInfo name="RFC" value="4567"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Arkko" fullname="J. Arkko"/>
+    <author initials="F." surname="Lindholm" fullname="F. Lindholm"/>
+    <author initials="M." surname="Naslund" fullname="M. Naslund"/>
+    <author initials="K." surname="Norrman" fullname="K. Norrman"/>
+    <author initials="E." surname="Carrara" fullname="E. Carrara"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2006"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>key management protocol</keyword>
+    <keyword>multimedia internet keying</keyword>
+    <keyword>mikey</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines general extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP) to carry messages, as specified by a key management protocol, in order to secure the media. These extensions are presented as a framework, to be used by one or more key management protocols. As such, their use is meaningful only when complemented by an appropriate key management protocol.&lt;/p&gt;&lt;p&gt;General guidelines are also given on how the framework should be used together with SIP and RTSP. The usage with the Multimedia Internet KEYing (MIKEY) key management protocol is also defined. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

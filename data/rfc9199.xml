@@ -1,0 +1,29 @@
+<reference anchor="RFC9199" target="https://www.rfc-editor.org/info/rfc9199">
+  <front>
+    <title>Considerations for Large Authoritative DNS Server Operators</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9199"/>
+    <seriesInfo name="RFC" value="9199"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="G." surname="Moura" fullname="G. Moura"/>
+    <author initials="W." surname="Hardaker" fullname="W. Hardaker"/>
+    <author initials="J." surname="Heidemann" fullname="J. Heidemann"/>
+    <author initials="M." surname="Davids" fullname="M. Davids"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2022"></date>
+    <keyword>Routing</keyword>
+    <keyword>DNS</keyword>
+    <keyword>Anycast</keyword>
+    <keyword>Domain</keyword>
+    <keyword>Name</keyword>
+    <keyword>System</keyword>
+    <keyword>BGP</keyword>
+    <abstract>
+      <t>&lt;p&gt;Recent research work has explored the deployment characteristics and configuration of the Domain Name System (DNS). This document summarizes the conclusions from these research efforts and offers specific, tangible considerations or advice to authoritative DNS server operators. Authoritative server operators may wish to follow these considerations to improve their DNS services.&lt;/p&gt;&lt;p&gt;It is possible that the results presented in this document could be applicable in a wider context than just the DNS protocol, as some of the results may generically apply to any stateless/short-duration anycasted service.&lt;/p&gt;&lt;p&gt;This document is not an IETF consensus document: it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

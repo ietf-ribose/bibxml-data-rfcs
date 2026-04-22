@@ -1,0 +1,27 @@
+<reference anchor="RFC9922" target="https://www.rfc-editor.org/info/rfc9922">
+  <front>
+    <title>A Common YANG Data Model for Scheduling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9922"/>
+    <seriesInfo name="RFC" value="9922"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Ma" fullname="Q. Ma" role="editor"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="D." surname="King" fullname="D. King"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2026"></date>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>calendaring</keyword>
+    <keyword>scheduling</keyword>
+    <keyword>YANG</keyword>
+    <keyword>groupings</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines common types and groupings that are meant to be used for scheduling purposes, such as events, policies, services, or resources based on date and time.  For the sake of better modularity, the YANG module includes a set of recurrence-related groupings with varying levels of representation (i.e., from basic to advanced) to accommodate a variety of requirements.  It also defines groupings for validating requested schedules and reporting scheduling statuses.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

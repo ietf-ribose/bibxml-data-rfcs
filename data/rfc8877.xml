@@ -1,0 +1,23 @@
+<reference anchor="RFC8877" target="https://www.rfc-editor.org/info/rfc8877">
+  <front>
+    <title>Guidelines for Defining Packet Timestamps</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8877"/>
+    <seriesInfo name="RFC" value="8877"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+    <author initials="J." surname="Fabini" fullname="J. Fabini"/>
+    <author initials="A." surname="Morton" fullname="A. Morton"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2020"></date>
+    <workgroup>Network Time Protocols</workgroup>
+    <keyword>Timestamps</keyword>
+    <abstract>
+      <t>&lt;p&gt;Various network protocols make use of binary-encoded timestamps that are incorporated in the protocol packet format, referred to as "packet timestamps" for short.  This document specifies guidelines for defining packet timestamp formats in networking protocols at various layers.  It also presents three recommended timestamp formats.  The target audience of this document includes network protocol designers.  It is expected that a new network protocol that requires a packet timestamp will, in most cases, use one of the recommended timestamp formats.  If none of the recommended formats fits the protocol requirements, the new protocol specification should specify the format of the packet timestamp according to the guidelines in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

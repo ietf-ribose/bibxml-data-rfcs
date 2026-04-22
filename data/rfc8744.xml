@@ -1,0 +1,20 @@
+<reference anchor="RFC8744" target="https://www.rfc-editor.org/info/rfc8744">
+  <front>
+    <title>Issues and Requirements for Server Name Identification (SNI) Encryption in TLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8744"/>
+    <seriesInfo name="RFC" value="8744"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2020"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes the general problem of encrypting the Server Name Identification (SNI) TLS parameter. The proposed solutions hide a hidden service behind a fronting service, only disclosing the SNI of the fronting service to external observers. This document lists known attacks against SNI encryption, discusses the current "HTTP co-tenancy" solution, and presents requirements for future TLS-layer solutions.&lt;/p&gt;&lt;p&gt;In practice, it may well be that no solution can meet every requirement and that practical solutions will have to make some compromises.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="RFC9460" target="https://www.rfc-editor.org/info/rfc9460">
+  <front>
+    <title>Service Binding and Parameter Specification via the DNS (SVCB and HTTPS Resource Records)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9460"/>
+    <seriesInfo name="RFC" value="9460"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Schwartz" fullname="B. Schwartz"/>
+    <author initials="M." surname="Bishop" fullname="M. Bishop"/>
+    <author initials="E." surname="Nygren" fullname="E. Nygren"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>multi-CDN</keyword>
+    <keyword>HSTS</keyword>
+    <keyword>ECH</keyword>
+    <keyword>CNAME</keyword>
+    <keyword>apex</keyword>
+    <keyword>ALPN</keyword>
+    <keyword>HTTP/3</keyword>
+    <keyword>alias</keyword>
+    <keyword>SvcParam</keyword>
+    <keyword>AliasMode</keyword>
+    <keyword>ServiceMode</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the "SVCB" ("Service Binding") and "HTTPS" DNS resource record (RR) types to facilitate the lookup of information needed to make connections to network services, such as for HTTP origins.  SVCB records allow a service to be provided from multiple alternative endpoints, each with associated parameters (such as transport protocol configuration), and are extensible to support future uses (such as keys for encrypting the TLS ClientHello).  They also enable aliasing of apex domains, which is not possible with CNAME.  The HTTPS RR is a variation of SVCB for use with HTTP (see RFC 9110, "HTTP Semantics").  By providing more information to the client before it attempts to establish a connection, these records offer potential benefits to both performance and privacy.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

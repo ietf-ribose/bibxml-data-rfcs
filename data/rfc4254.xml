@@ -1,0 +1,25 @@
+<reference anchor="RFC4254" target="https://www.rfc-editor.org/info/rfc4254">
+  <front>
+    <title>The Secure Shell (SSH) Connection Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4254"/>
+    <seriesInfo name="RFC" value="4254"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Ylonen" fullname="T. Ylonen"/>
+    <author initials="C." surname="Lonvick" fullname="C. Lonvick" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Secure Shell</workgroup>
+    <keyword>remote login</keyword>
+    <keyword>interactive login</keyword>
+    <keyword>remote execution</keyword>
+    <keyword>encrypted tunnel</keyword>
+    <abstract>
+      <t>&lt;p&gt;Secure Shell (SSH) is a protocol for secure remote login and other secure network services over an insecure network.&lt;/p&gt;&lt;p&gt;This document describes the SSH Connection Protocol. It provides interactive login sessions, remote execution of commands, forwarded TCP/IP connections, and forwarded X11 connections. All of these channels are multiplexed into a single encrypted tunnel.&lt;/p&gt;&lt;p&gt;The SSH Connection Protocol has been designed to run on top of the SSH transport layer and user authentication protocols. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

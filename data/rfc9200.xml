@@ -1,0 +1,29 @@
+<reference anchor="RFC9200" target="https://www.rfc-editor.org/info/rfc9200">
+  <front>
+    <title>Authentication and Authorization for Constrained Environments Using the OAuth 2.0 Framework (ACE-OAuth)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9200"/>
+    <seriesInfo name="RFC" value="9200"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Seitz" fullname="L. Seitz"/>
+    <author initials="G." surname="Selander" fullname="G. Selander"/>
+    <author initials="E." surname="Wahlstroem" fullname="E. Wahlstroem"/>
+    <author initials="S." surname="Erdtman" fullname="S. Erdtman"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>CoAP</keyword>
+    <keyword>OAuth 2.0</keyword>
+    <keyword>Access Control</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Internet of Things</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a framework for authentication and authorization in Internet of Things (IoT) environments called ACE-OAuth.  The framework is based on a set of building blocks including OAuth 2.0 and the Constrained Application Protocol (CoAP), thus transforming a well-known and widely used authorization solution into a form suitable for IoT devices.  Existing specifications are used where possible, but extensions are added and profiles are defined to better serve the IoT use cases.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

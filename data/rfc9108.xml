@@ -1,0 +1,23 @@
+<reference anchor="RFC9108" target="https://www.rfc-editor.org/info/rfc9108">
+  <front>
+    <title>YANG Types for DNS Classes and Resource Record Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9108"/>
+    <seriesInfo name="RFC" value="9108"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Lhotka" fullname="L. Lhotka"/>
+    <author initials="P." surname="Špaček" fullname="P. Špaček"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2021"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>IANA registry</keyword>
+    <keyword>DNS Parameters</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document introduces the YANG module "iana-dns-class-rr-type", which contains derived types reflecting two IANA registries: DNS CLASSes and Resource Record (RR) TYPEs.  These YANG types are intended as the minimum basis for future data modeling work.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

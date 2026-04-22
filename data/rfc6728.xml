@@ -1,0 +1,25 @@
+<reference anchor="RFC6728" target="https://www.rfc-editor.org/info/rfc6728">
+  <front>
+    <title>Configuration Data Model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6728"/>
+    <seriesInfo name="RFC" value="6728"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Muenz" fullname="G. Muenz"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author initials="P." surname="Aitken" fullname="P. Aitken"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2012"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>IPFIX</keyword>
+    <keyword>PSAMP</keyword>
+    <keyword>YANG</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a data model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) protocols.  It is for configuring and monitoring Selection Processes, Caches, Exporting Processes, and Collecting Processes of IPFIX- and PSAMP-compliant Monitoring Devices using the Network Configuration Protocol (NETCONF).  The data model is defined using UML (Unified Modeling Language) class diagrams and formally specified using YANG.  The configuration data is encoded in Extensible Markup Language (XML). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

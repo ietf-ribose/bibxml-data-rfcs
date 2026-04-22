@@ -1,0 +1,25 @@
+<reference anchor="RFC9028" target="https://www.rfc-editor.org/info/rfc9028">
+  <front>
+    <title>Native NAT Traversal Mode for the Host Identity Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9028"/>
+    <seriesInfo name="RFC" value="9028"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Keränen" fullname="A. Keränen"/>
+    <author initials="J." surname="Melén" fullname="J. Melén"/>
+    <author initials="M." surname="Komu" fullname="M. Komu" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2021"></date>
+    <workgroup>Host Identity Protocol</workgroup>
+    <keyword>HIP</keyword>
+    <keyword>NAT</keyword>
+    <keyword>NAT traversal</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a new Network Address Translator (NAT) traversal mode for the Host Identity Protocol (HIP).  The new mode is based on the Interactive Connectivity Establishment (ICE) methodology and UDP encapsulation of data and signaling traffic.  The main difference from the previously specified modes is the use of HIP messages instead of ICE for all NAT traversal procedures due to the kernel-space dependencies of HIP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

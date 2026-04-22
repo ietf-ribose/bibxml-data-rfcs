@@ -1,0 +1,23 @@
+<reference anchor="RFC2243" target="https://www.rfc-editor.org/info/rfc2243">
+  <front>
+    <title>OTP Extended Responses</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2243"/>
+    <seriesInfo name="RFC" value="2243"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Metz" fullname="C. Metz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="1997"></date>
+    <workgroup>One Time Password Authentication</workgroup>
+    <keyword>OTP-ER</keyword>
+    <keyword>One Time Password</keyword>
+    <keyword>Extended Responses</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides a specification for a type of response to an OTP [RFC 1938] challenge that carries explicit indication of the response's encoding.  This document also provides a specification for a response that allows an OTP generator to request that a server re-initialize a sequence and change parameters such as the secret pass phrase. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC9551" target="https://www.rfc-editor.org/info/rfc9551">
+  <front>
+    <title>Framework of Operations, Administration, and Maintenance (OAM) for Deterministic Networking (DetNet)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9551"/>
+    <seriesInfo name="RFC" value="9551"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author initials="F." surname="Theoleyre" fullname="F. Theoleyre"/>
+    <author initials="G." surname="Papadopoulos" fullname="G. Papadopoulos"/>
+    <author initials="CJ." surname="Bernardos" fullname="CJ. Bernardos"/>
+    <author initials="B." surname="Varga" fullname="B. Varga"/>
+    <author initials="J." surname="Farkas" fullname="J. Farkas"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2024"></date>
+    <workgroup>Deterministic Networking</workgroup>
+    <keyword>Metrics</keyword>
+    <keyword>Tracing</keyword>
+    <abstract>
+      <t>&lt;p&gt;Deterministic Networking (DetNet), as defined in RFC 8655, aims to provide bounded end-to-end latency on top of the network infrastructure, comprising both Layer 2 bridged and Layer 3 routed segments.  This document's primary purpose is to detail the specific requirements of the Operations, Administration, and Maintenance (OAM) recommended to maintain a deterministic network.  The document will be used in future work that defines the applicability of and extension of OAM protocols for a deterministic network.  With the implementation of the OAM framework in DetNet, an operator will have a real-time view of the network infrastructure regarding the network's ability to respect the Service Level Objective (SLO), such as packet delay, delay variation, and packet-loss ratio, assigned to each DetNet flow.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

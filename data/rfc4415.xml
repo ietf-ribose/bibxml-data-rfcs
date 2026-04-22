@@ -1,0 +1,26 @@
+<reference anchor="RFC4415" target="https://www.rfc-editor.org/info/rfc4415">
+  <front>
+    <title>IANA Registration for Enumservice Voice</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4415"/>
+    <seriesInfo name="RFC" value="4415"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Brandner" fullname="R. Brandner"/>
+    <author initials="L." surname="Conroy" fullname="L. Conroy"/>
+    <author initials="R." surname="Stastny" fullname="R. Stastny"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <workgroup>Telephone Number Mapping</workgroup>
+    <keyword>uniform resource identifier</keyword>
+    <keyword>uri</keyword>
+    <keyword>voice call</keyword>
+    <keyword>audio call</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document registers the Enumservice "voice" (which has a defined subtype "tel"), as per the IANA registration process defined in the ENUM specification RFC 3761.  This service indicates that the contact held in the generated Uniform Resource Identifier (URI) can be used to initiate an interactive voice (audio) call. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

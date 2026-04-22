@@ -1,0 +1,22 @@
+<reference anchor="RFC7009" target="https://www.rfc-editor.org/info/rfc7009">
+  <front>
+    <title>OAuth 2.0 Token Revocation</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7009"/>
+    <seriesInfo name="RFC" value="7009"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Lodderstedt" fullname="T. Lodderstedt" role="editor"/>
+    <author initials="S." surname="Dronia" fullname="S. Dronia"/>
+    <author initials="M." surname="Scurtescu" fullname="M. Scurtescu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2013"></date>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document proposes an additional endpoint for OAuth authorization servers, which allows clients to notify the authorization server that a previously obtained refresh or access token is no longer needed.  This allows the authorization server to clean up security credentials.  A revocation request will invalidate the actual token and, if applicable, other tokens based on the same authorization grant.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

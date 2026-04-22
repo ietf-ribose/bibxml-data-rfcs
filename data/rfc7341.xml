@@ -1,0 +1,34 @@
+<reference anchor="RFC7341" target="https://www.rfc-editor.org/info/rfc7341">
+  <front>
+    <title>DHCPv4-over-DHCPv6 (DHCP 4o6) Transport</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7341"/>
+    <seriesInfo name="RFC" value="7341"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Sun" fullname="Q. Sun"/>
+    <author initials="Y." surname="Cui" fullname="Y. Cui"/>
+    <author initials="M." surname="Siodelski" fullname="M. Siodelski"/>
+    <author initials="S." surname="Krishnan" fullname="S. Krishnan"/>
+    <author initials="I." surname="Farrer" fullname="I. Farrer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2014"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>ipv6</keyword>
+    <keyword>transition</keyword>
+    <keyword>softwire</keyword>
+    <keyword>migration</keyword>
+    <keyword>tunnel</keyword>
+    <keyword>residual</keyword>
+    <keyword>ipv4</keyword>
+    <keyword>dhcpv6</keyword>
+    <keyword>relay</keyword>
+    <keyword>ipv6-only</keyword>
+    <abstract>
+      <t>&lt;p&gt;IPv4 connectivity is still needed as networks migrate towards IPv6.  Users require IPv4 configuration even if the uplink to their service provider supports IPv6 only.  This document describes a mechanism for obtaining IPv4 configuration information dynamically in IPv6 networks by carrying DHCPv4 messages over DHCPv6 transport.  Two new DHCPv6 messages and two new DHCPv6 options are defined for this purpose.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

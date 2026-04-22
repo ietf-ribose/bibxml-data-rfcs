@@ -1,0 +1,23 @@
+<reference anchor="RFC4954" target="https://www.rfc-editor.org/info/rfc4954">
+  <front>
+    <title>SMTP Service Extension for Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4954"/>
+    <seriesInfo name="RFC" value="4954"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Siemborski" fullname="R. Siemborski" role="editor"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2007"></date>
+    <keyword>simple mail transport protocol</keyword>
+    <keyword>security layer</keyword>
+    <keyword>sasl</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a Simple Mail Transport Protocol (SMTP) extension whereby an SMTP client may indicate an authentication mechanism to the server, perform an authentication protocol exchange, and optionally negotiate a security layer for subsequent protocol interactions during this session. This extension includes a profile of the Simple Authentication and Security Layer (SASL) for SMTP.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 2554. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

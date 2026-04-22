@@ -1,0 +1,26 @@
+<reference anchor="RFC3215" target="https://www.rfc-editor.org/info/rfc3215">
+  <front>
+    <title>LDP State Machine</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3215"/>
+    <seriesInfo name="RFC" value="3215"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Boscher" fullname="C. Boscher"/>
+    <author initials="P." surname="Cheval" fullname="P. Cheval"/>
+    <author initials="L." surname="Wu" fullname="L. Wu"/>
+    <author initials="E." surname="Gray" fullname="E. Gray"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2002"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>label</keyword>
+    <keyword>distribution</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides state machine tables for ATM (Asynchronous Transfer Mode) switch LSRs.  In the current LDP specification, there is no state machine specified for processing LDP messages.  We think that defining a common state machine is very important for interoperability between different LDP and CR-LDP implementations.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

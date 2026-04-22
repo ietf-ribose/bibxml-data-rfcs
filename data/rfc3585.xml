@@ -1,0 +1,30 @@
+<reference anchor="RFC3585" target="https://www.rfc-editor.org/info/rfc3585">
+  <front>
+    <title>IPsec Configuration Policy Information Model</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3585"/>
+    <seriesInfo name="RFC" value="3585"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Jason" fullname="J. Jason"/>
+    <author initials="L." surname="Rafalow" fullname="L. Rafalow"/>
+    <author initials="E." surname="Vyncke" fullname="E. Vyncke"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2003"></date>
+    <workgroup>IP Security Policy</workgroup>
+    <keyword>IPsec</keyword>
+    <keyword>Internet Protocol Security</keyword>
+    <keyword>ike</keyword>
+    <keyword>internet key exchange protocol</keyword>
+    <keyword>core</keyword>
+    <keyword>Constrained RESTful Environments</keyword>
+    <keyword>pcim</keyword>
+    <keyword>Policy Core Information Model</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents an object-oriented information model of IP Security (IPsec) policy designed to facilitate agreement about the content and semantics of IPsec policy, and enable derivations of task- specific representations of IPsec policy such as storage schema, distribution representations, and policy specification languages used to configure IPsec-enabled endpoints.  The information model described in this document models the configuration parameters defined by IPSec.  The information model also covers the parameters found by the Internet Key Exchange protocol (IKE).  Other key exchange protocols could easily be added to the information model by a simple extension.  Further extensions can further be added easily due to the object-oriented nature of the model.  This information model is based upon the core policy classes as defined in the Policy Core Information Model (PCIM) and in the Policy Core Information Model Extensions (PCIMe). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

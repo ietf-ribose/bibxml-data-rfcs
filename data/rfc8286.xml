@@ -1,0 +1,23 @@
+<reference anchor="RFC8286" target="https://www.rfc-editor.org/info/rfc8286">
+  <front>
+    <title>RTP/RTCP Extension for RTP Splicing Notification</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8286"/>
+    <seriesInfo name="RFC" value="8286"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Xia" fullname="J. Xia"/>
+    <author initials="R." surname="Even" fullname="R. Even"/>
+    <author initials="R." surname="Huang" fullname="R. Huang"/>
+    <author initials="L." surname="Deng" fullname="L. Deng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2017"></date>
+    <workgroup>Audio/Video Transport Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Content splicing is a process that replaces the content of a main multimedia stream with other multimedia content and that delivers the substitutive multimedia content to the receivers for a period of time. The splicer is designed to handle RTP splicing and needs to know when to start and end the splicing.&lt;/p&gt;&lt;p&gt;This memo defines two RTP/RTCP extensions to indicate the splicing-related information to the splicer: an RTP header extension that conveys the information "in band" and an RTP Control Protocol (RTCP) packet that conveys the information out of band.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

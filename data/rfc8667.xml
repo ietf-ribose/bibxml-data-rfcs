@@ -1,0 +1,31 @@
+<reference anchor="RFC8667" target="https://www.rfc-editor.org/info/rfc8667">
+  <front>
+    <title>IS-IS Extensions for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8667"/>
+    <seriesInfo name="RFC" value="8667"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi" role="editor"/>
+    <author initials="L." surname="Ginsberg" fullname="L. Ginsberg" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="A." surname="Bashandy" fullname="A. Bashandy"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2019"></date>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>MPLS</keyword>
+    <keyword>SID</keyword>
+    <keyword>IGP</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>Label advertisement</keyword>
+    <keyword>Segment Routing</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) allows for a flexible definition of end-to-end paths within IGP topologies by encoding paths as sequences of topological sub-paths, called "segments". These segments are advertised by the link-state routing protocols (IS-IS and OSPF).&lt;/p&gt;&lt;p&gt;This document describes the IS-IS extensions that need to be introduced for Segment Routing operating on an MPLS data plane.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

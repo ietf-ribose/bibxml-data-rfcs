@@ -1,0 +1,23 @@
+<reference anchor="RFC7358" target="https://www.rfc-editor.org/info/rfc7358">
+  <front>
+    <title>Label Advertisement Discipline for LDP Forwarding Equivalence Classes (FECs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7358"/>
+    <seriesInfo name="RFC" value="7358"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Raza" fullname="K. Raza"/>
+    <author initials="S." surname="Boutros" fullname="S. Boutros"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author initials="N." surname="Leymann" fullname="N. Leymann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2014"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The label advertising behavior of an LDP speaker for a given Forwarding Equivalence Class (FEC) is governed by the FEC type and not necessarily by the LDP session's negotiated label advertisement mode.  This document updates RFC 5036 to make that fact clear.  It also updates RFCs 3212, 4447, 5918, 6388, and 7140 by specifying the label advertisement mode for all currently defined LDP FEC types.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

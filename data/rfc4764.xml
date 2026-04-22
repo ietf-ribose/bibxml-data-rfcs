@@ -1,0 +1,21 @@
+<reference anchor="RFC4764" target="https://www.rfc-editor.org/info/rfc4764">
+  <front>
+    <title>The EAP-PSK Protocol: A Pre-Shared Key Extensible Authentication Protocol (EAP) Method</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4764"/>
+    <seriesInfo name="RFC" value="4764"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="F." surname="Bersani" fullname="F. Bersani"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2007"></date>
+    <keyword>pre-shared key</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies EAP-PSK, an Extensible Authentication Protocol (EAP) method for mutual authentication and session key derivation using a Pre-Shared Key (PSK).  EAP-PSK provides a protected communication channel when mutual authentication is successful for both parties to communicate over.  This document describes the use of this channel only for protected exchange of result indications, but future EAP-PSK extensions may use the channel for other purposes.  EAP-PSK is designed for authentication over insecure networks such as IEEE 802.11.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

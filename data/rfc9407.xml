@@ -1,0 +1,23 @@
+<reference anchor="RFC9407" target="https://www.rfc-editor.org/info/rfc9407">
+  <front>
+    <title>Tetrys: An On-the-Fly Network Coding Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9407"/>
+    <seriesInfo name="RFC" value="9407"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="J." surname="Detchart" fullname="J. Detchart"/>
+    <author initials="E." surname="Lochin" fullname="E. Lochin"/>
+    <author initials="J." surname="Lacan" fullname="J. Lacan"/>
+    <author initials="V." surname="Roca" fullname="V. Roca"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2023"></date>
+    <keyword>Network Coding</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes Tetrys, which is an on-the-fly network coding protocol that can be used to transport delay-sensitive and loss-sensitive data over a lossy network. Tetrys may recover from erasures within an RTT-independent delay thanks to the transmission of coded packets. This document is a record of the experience gained by the authors while developing and testing the Tetrys protocol in real conditions.&lt;/p&gt;&lt;p&gt;This document is a product of the Coding for Efficient NetWork Communications Research Group (NWCRG). It conforms to the NWCRG taxonomy described in RFC 8406.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

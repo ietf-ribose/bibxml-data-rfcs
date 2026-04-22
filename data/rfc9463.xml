@@ -1,0 +1,34 @@
+<reference anchor="RFC9463" target="https://www.rfc-editor.org/info/rfc9463">
+  <front>
+    <title>DHCP and Router Advertisement Options for the Discovery of Network-designated Resolvers (DNR)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9463"/>
+    <seriesInfo name="RFC" value="9463"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="T." surname="Reddy.K" fullname="T. Reddy.K" role="editor"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author initials="N." surname="Cook" fullname="N. Cook"/>
+    <author initials="T." surname="Jensen" fullname="T. Jensen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Adaptive DNS Discovery</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>service resolution</keyword>
+    <keyword>encryption</keyword>
+    <keyword>service discovery</keyword>
+    <keyword>service provider</keyword>
+    <keyword>network provider</keyword>
+    <keyword>automation</keyword>
+    <keyword>DoH</keyword>
+    <keyword>DoT</keyword>
+    <keyword>DoQ</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies new DHCP and IPv6 Router Advertisement options to discover encrypted DNS resolvers (e.g., DNS over HTTPS, DNS over TLS, and DNS over QUIC).  Particularly, it allows a host to learn an Authentication Domain Name together with a list of IP addresses and a set of service parameters to reach such encrypted DNS resolvers.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

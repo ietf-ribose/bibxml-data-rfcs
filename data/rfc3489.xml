@@ -1,0 +1,31 @@
+<reference anchor="RFC3489" target="https://www.rfc-editor.org/info/rfc3489">
+  <front>
+    <title>STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3489"/>
+    <seriesInfo name="RFC" value="3489"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="J." surname="Weinberger" fullname="J. Weinberger"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author initials="R." surname="Mahy" fullname="R. Mahy"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2003"></date>
+    <workgroup>Middlebox Communication</workgroup>
+    <keyword>STUN</keyword>
+    <keyword>Simple Traversal of User Datagram Protocol</keyword>
+    <keyword>UDP</keyword>
+    <keyword>NATs</keyword>
+    <keyword>Network Address Translators</keyword>
+    <keyword>lightweight</keyword>
+    <keyword>applications</keyword>
+    <keyword>firewalls</keyword>
+    <abstract>
+      <t>&lt;p&gt;Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs) (STUN) is a lightweight protocol that allows applications to discover the presence and types of NATs and firewalls between them and the public Internet.  It also provides the ability for applications to determine the public Internet Protocol (IP) addresses allocated to them by the NAT.  STUN works with many existing NATs, and does not require any special behavior from them.  As a result, it allows a wide variety of applications to work through existing NAT infrastructure. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

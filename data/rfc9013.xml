@@ -1,0 +1,25 @@
+<reference anchor="RFC9013" target="https://www.rfc-editor.org/info/rfc9013">
+  <front>
+    <title>OSPF Advertisement of Tunnel Encapsulations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9013"/>
+    <seriesInfo name="RFC" value="9013"/>
+    <seriesInfo name="IETF"/>
+    <author initials="X." surname="Xu" fullname="X. Xu" role="editor"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene" role="editor"/>
+    <author initials="R." surname="Raszuk" fullname="R. Raszuk"/>
+    <author initials="L." surname="Contreras" fullname="L. Contreras"/>
+    <author initials="L." surname="Jalil" fullname="L. Jalil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2021"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>BGP</keyword>
+    <abstract>
+      <t>&lt;p&gt;Networks use tunnels for a variety of reasons.  A large variety of tunnel types are defined, and the tunnel encapsulator router needs to select a type of tunnel that is supported by the tunnel decapsulator router.  This document defines how to advertise, in OSPF Router Information Link State Advertisements (LSAs), the list of tunnel encapsulations supported by the tunnel decapsulator.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

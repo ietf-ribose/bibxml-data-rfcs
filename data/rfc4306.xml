@@ -1,0 +1,33 @@
+<reference anchor="RFC4306" target="https://www.rfc-editor.org/info/rfc4306">
+  <front>
+    <title>Internet Key Exchange (IKEv2) Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4306"/>
+    <seriesInfo name="RFC" value="4306"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Kaufman" fullname="C. Kaufman" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2005"></date>
+    <workgroup>IP Security Protocol</workgroup>
+    <keyword>ISAKMPSEC</keyword>
+    <keyword>ipsec</keyword>
+    <keyword>internet</keyword>
+    <keyword>protocol</keyword>
+    <keyword>security</keyword>
+    <keyword>association</keyword>
+    <keyword>key</keyword>
+    <keyword>management</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>authentication</keyword>
+    <keyword>IKE</keyword>
+    <keyword>oakley</keyword>
+    <keyword>isakmp</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes version 2 of the Internet Key Exchange (IKE) protocol. IKE is a component of IPsec used for performing mutual authentication and establishing and maintaining security associations (SAs).&lt;/p&gt;&lt;p&gt;This version of the IKE specification combines the contents of what were previously separate documents, including Internet Security Association and Key Management Protocol (ISAKMP, RFC 2408), IKE (RFC 2409), the Internet Domain of Interpretation (DOI, RFC 2407), Network Address Translation (NAT) Traversal, Legacy authentication, and remote address acquisition.&lt;/p&gt;&lt;p&gt;Version 2 of IKE does not interoperate with version 1, but it has enough of the header format in common that both versions can unambiguously run over the same UDP port. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC7344" target="https://www.rfc-editor.org/info/rfc7344">
+  <front>
+    <title>Automating DNSSEC Delegation Trust Maintenance</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7344"/>
+    <seriesInfo name="RFC" value="7344"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Kumari" fullname="W. Kumari"/>
+    <author initials="O." surname="Gudmundsson" fullname="O. Gudmundsson"/>
+    <author initials="G." surname="Barwood" fullname="G. Barwood"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2014"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>key roll</keyword>
+    <keyword>trust anchor</keyword>
+    <keyword>CDS</keyword>
+    <keyword>CDNSKEY</keyword>
+    <keyword>DNSSEC</keyword>
+    <keyword>DNS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a method to allow DNS Operators to more easily update DNSSEC Key Signing Keys using the DNS as a communication channel.  The technique described is aimed at delegations in which it is currently hard to move information from the Child to Parent.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

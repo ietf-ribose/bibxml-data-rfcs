@@ -1,0 +1,46 @@
+<reference anchor="RFC9506" target="https://www.rfc-editor.org/info/rfc9506">
+  <front>
+    <title>Explicit Host-to-Network Flow Measurements Techniques</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9506"/>
+    <seriesInfo name="RFC" value="9506"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Cociglio" fullname="M. Cociglio"/>
+    <author initials="A." surname="Ferrieux" fullname="A. Ferrieux"/>
+    <author initials="G." surname="Fioccola" fullname="G. Fioccola"/>
+    <author initials="I." surname="Lubashev" fullname="I. Lubashev"/>
+    <author initials="F." surname="Bulgarella" fullname="F. Bulgarella"/>
+    <author initials="M." surname="Nilo" fullname="M. Nilo"/>
+    <author initials="I." surname="Hamchaoui" fullname="I. Hamchaoui"/>
+    <author initials="R." surname="Sisto" fullname="R. Sisto"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2023"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>Performance</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Passive</keyword>
+    <keyword>Hybrid</keyword>
+    <keyword>Loss</keyword>
+    <keyword>Delay</keyword>
+    <keyword>Client</keyword>
+    <keyword>Server</keyword>
+    <keyword>On-path</keyword>
+    <keyword>Observer</keyword>
+    <keyword>Probe</keyword>
+    <keyword>Alternate</keyword>
+    <keyword>Marking</keyword>
+    <keyword>Round</keyword>
+    <keyword>Trip</keyword>
+    <keyword>Latency</keyword>
+    <keyword>Encrypted</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>Bits</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes protocol-independent methods called Explicit Host-to-Network Flow Measurement Techniques that can be applicable to transport-layer protocols between the client and server.  These methods employ just a few marking bits inside the header of each packet for performance measurements and require the client and server to collaborate.  Both endpoints cooperate by marking packets and, possibly, mirroring the markings on the round-trip connection.  The techniques are especially valuable when applied to protocols that encrypt transport headers since they enable loss and delay measurements by passive, on-path network devices.  This document describes several methods that can be used separately or jointly depending of the availability of marking bits, desired measurements, and properties of the protocol to which the methods are applied.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC8593" target="https://www.rfc-editor.org/info/rfc8593">
+  <front>
+    <title>Video Traffic Models for RTP Congestion Control Evaluations</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8593"/>
+    <seriesInfo name="RFC" value="8593"/>
+    <seriesInfo name="IETF"/>
+    <author initials="X." surname="Zhu" fullname="X. Zhu"/>
+    <author initials="S." surname="Mena" fullname="S. Mena"/>
+    <author initials="Z." surname="Sarker" fullname="Z. Sarker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2019"></date>
+    <workgroup>RTP Media Congestion Avoidance Techniques</workgroup>
+    <keyword>Multimedia</keyword>
+    <keyword>Congestion Control</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes two reference video traffic models for evaluating RTP congestion control algorithms.  The first model statistically characterizes the behavior of a live video encoder in response to changing requests on the target video rate.  The second model is trace-driven and emulates the output of actual encoded video frame sizes from a high-resolution test sequence.  Both models are designed to strike a balance between simplicity, repeatability, and authenticity in modeling the interactions between a live video traffic source and the congestion control module.  Finally, the document describes how both approaches can be combined into a hybrid model.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

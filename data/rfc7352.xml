@@ -1,0 +1,22 @@
+<reference anchor="RFC7352" target="https://www.rfc-editor.org/info/rfc7352">
+  <front>
+    <title>Sieve Email Filtering: Detecting Duplicate Deliveries</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7352"/>
+    <seriesInfo name="RFC" value="7352"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bosch" fullname="S. Bosch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2014"></date>
+    <workgroup>ART Area General Applications Working Group</workgroup>
+    <keyword>sieve</keyword>
+    <keyword>duplicate deliveries</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new test command, "duplicate", for the Sieve email filtering language.  This test adds the ability to detect duplications.  The main application for this new test is handling duplicate deliveries commonly caused by mailing list subscriptions or redirected mail addresses.  The detection is normally performed by matching the message ID to an internal list of message IDs from previously delivered messages.  For more complex applications, the "duplicate" test can also use the content of a specific header field or other parts of the message.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

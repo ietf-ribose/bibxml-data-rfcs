@@ -1,0 +1,21 @@
+<reference anchor="RFC3939" target="https://www.rfc-editor.org/info/rfc3939">
+  <front>
+    <title>Calling Line Identification for Voice Mail Messages</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3939"/>
+    <seriesInfo name="RFC" value="3939"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Parsons" fullname="G. Parsons"/>
+    <author initials="J." surname="Maruszak" fullname="J. Maruszak"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2004"></date>
+    <keyword>Voice Mail</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a method for identifying the originating calling party in the headers of a stored voice mail message.  Two new header fields are defined for this purpose: Caller_ID and Called_Name.  Caller_id is used to store sufficient information for the recipient to callback, or reply to, the sender of the message.  Caller-name provides the name of the person sending the message. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

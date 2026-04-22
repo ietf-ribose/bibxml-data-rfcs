@@ -1,0 +1,26 @@
+<reference anchor="RFC9491" target="https://www.rfc-editor.org/info/rfc9491">
+  <front>
+    <title>Integration of the Network Service Header (NSH) and Segment Routing for Service Function Chaining (SFC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9491"/>
+    <seriesInfo name="RFC" value="9491"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Guichard" fullname="J. Guichard" role="editor"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>NSH</keyword>
+    <keyword>SR</keyword>
+    <keyword>MPLS-SR</keyword>
+    <keyword>SRv6</keyword>
+    <keyword>SFC</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the integration of the Network Service Header (NSH) and Segment Routing (SR), as well as encapsulation details, to efficiently support Service Function Chaining (SFC) while maintaining separation of the service and transport planes as originally intended by the SFC architecture.&lt;/p&gt;&lt;p&gt;Combining these technologies allows SR to be used for steering packets between Service Function Forwarders (SFFs) along a given Service Function Path (SFP), whereas the NSH is responsible for maintaining the integrity of the service plane, the SFC instance context, and any associated metadata.&lt;/p&gt;&lt;p&gt;This integration demonstrates that the NSH and SR can work cooperatively and provide a network operator with the flexibility to use whichever transport technology makes sense in specific areas of their network infrastructure while still maintaining an end-to-end service plane using the NSH.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

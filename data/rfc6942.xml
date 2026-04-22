@@ -1,0 +1,24 @@
+<reference anchor="RFC6942" target="https://www.rfc-editor.org/info/rfc6942">
+  <front>
+    <title>Diameter Support for the EAP Re-authentication Protocol (ERP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6942"/>
+    <seriesInfo name="RFC" value="6942"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Bournelle" fullname="J. Bournelle"/>
+    <author initials="L." surname="Morand" fullname="L. Morand"/>
+    <author initials="S." surname="Decugis" fullname="S. Decugis"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author initials="G." surname="Zorn" fullname="G. Zorn"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2013"></date>
+    <workgroup>Diameter Maintenance and Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The EAP Re-authentication Protocol (ERP) defines extensions to the Extensible Authentication Protocol (EAP) to support efficient re-authentication between the peer and an EAP Re-authentication (ER) server through a compatible authenticator.  This document specifies Diameter support for ERP.  It defines a new Diameter ERP application to transport ERP messages between an ER authenticator and the ER server, and a set of new Attribute-Value Pairs (AVPs) that can be used to transport the cryptographic material needed by the re-authentication server.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="RFC8850" target="https://www.rfc-editor.org/info/rfc8850">
+  <front>
+    <title>Controlling Multiple Streams for Telepresence (CLUE) Protocol Data Channel</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8850"/>
+    <seriesInfo name="RFC" value="8850"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>ControLling mUltiple streams for tElepresence</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>SDP</keyword>
+    <keyword>DTLS</keyword>
+    <keyword>SCTP</keyword>
+    <keyword>DATA</keyword>
+    <keyword>CHANNEL</keyword>
+    <keyword>DCEP</keyword>
+    <keyword>DATA_CHANNEL_OPEN</keyword>
+    <keyword>DATA_CHANNEL_ACK</keyword>
+    <keyword>PPID</keyword>
+    <keyword>TELEPRESENCE</keyword>
+    <keyword>RTCWEB</keyword>
+    <keyword>WEBRTC</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines how to use the WebRTC data channel mechanism to realize a data channel, referred to as a Controlling Multiple Streams for Telepresence (CLUE) data channel, for transporting CLUE protocol messages between two CLUE entities.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

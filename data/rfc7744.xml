@@ -1,0 +1,28 @@
+<reference anchor="RFC7744" target="https://www.rfc-editor.org/info/rfc7744">
+  <front>
+    <title>Use Cases for Authentication and Authorization in Constrained Environments</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7744"/>
+    <seriesInfo name="RFC" value="7744"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Seitz" fullname="L. Seitz" role="editor"/>
+    <author initials="S." surname="Gerdes" fullname="S. Gerdes" role="editor"/>
+    <author initials="G." surname="Selander" fullname="G. Selander"/>
+    <author initials="M." surname="Mani" fullname="M. Mani"/>
+    <author initials="S." surname="Kumar" fullname="S. Kumar"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2016"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>Internet of Things</keyword>
+    <keyword>IoT</keyword>
+    <keyword>Smart Object</keyword>
+    <keyword>Security</keyword>
+    <abstract>
+      <t>&lt;p&gt;Constrained devices are nodes with limited processing power, storage space, and transmission capacities. In many cases, these devices do not provide user interfaces, and they are often intended to interact without human intervention.&lt;/p&gt;&lt;p&gt;This document includes a collection of representative use cases for authentication and authorization in constrained environments. These use cases aim at identifying authorization problems that arise during the life cycle of a constrained device and are intended to provide a guideline for developing a comprehensive authentication and authorization solution for this class of scenarios.&lt;/p&gt;&lt;p&gt;Where specific details are relevant, it is assumed that the devices use the Constrained Application Protocol (CoAP) as a communication protocol. However, most conclusions apply generally.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

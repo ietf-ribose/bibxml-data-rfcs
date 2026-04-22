@@ -1,0 +1,27 @@
+<reference anchor="RFC8548" target="https://www.rfc-editor.org/info/rfc8548">
+  <front>
+    <title>Cryptographic Protection of TCP Streams (tcpcrypt)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8548"/>
+    <seriesInfo name="RFC" value="8548"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Bittau" fullname="A. Bittau"/>
+    <author initials="D." surname="Giffin" fullname="D. Giffin"/>
+    <author initials="M." surname="Handley" fullname="M. Handley"/>
+    <author initials="D." surname="Mazieres" fullname="D. Mazieres"/>
+    <author initials="Q." surname="Slack" fullname="Q. Slack"/>
+    <author initials="E." surname="Smith" fullname="E. Smith"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2019"></date>
+    <workgroup>TCP Increased Security</workgroup>
+    <keyword>tcp</keyword>
+    <keyword>encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies "tcpcrypt", a TCP encryption protocol designed for use in conjunction with the TCP Encryption Negotiation Option (TCP-ENO).  Tcpcrypt coexists with middleboxes by tolerating resegmentation, NATs, and other manipulations of the TCP header.  The protocol is self-contained and specifically tailored to TCP implementations, which often reside in kernels or other environments in which large external software dependencies can be undesirable.  Because the size of TCP options is limited, the protocol requires one additional one-way message latency to perform key exchange before application data can be transmitted.  However, the extra latency can be avoided between two hosts that have recently established a previous tcpcrypt connection.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

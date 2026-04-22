@@ -1,0 +1,30 @@
+<reference anchor="RFC8969" target="https://www.rfc-editor.org/info/rfc8969">
+  <front>
+    <title>A Framework for Automating Service and Network Management with YANG</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8969"/>
+    <seriesInfo name="RFC" value="8969"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu" role="editor"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="D." surname="Lopez" fullname="D. Lopez"/>
+    <author initials="C." surname="Xie" fullname="C. Xie"/>
+    <author initials="L." surname="Geng" fullname="L. Geng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>Model Driven</keyword>
+    <keyword>YANG Data Model</keyword>
+    <keyword>automation</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>notification</keyword>
+    <keyword>SDN</keyword>
+    <abstract>
+      <t>&lt;p&gt;Data models provide a programmatic approach to represent services and networks. Concretely, they can be used to derive configuration information for network and service components, and state information that will be monitored and tracked. Data models can be used during the service and network management life cycle (e.g., service instantiation, service provisioning, service optimization, service monitoring, service diagnosing, and service assurance). Data models are also instrumental in the automation of network management, and they can provide closed-loop control for adaptive and deterministic service creation, delivery, and maintenance.&lt;/p&gt;&lt;p&gt;This document describes a framework for service and network management automation that takes advantage of YANG modeling technologies. This framework is drawn from a network operator perspective irrespective of the origin of a data model; thus, it can accommodate YANG modules that are developed outside the IETF.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

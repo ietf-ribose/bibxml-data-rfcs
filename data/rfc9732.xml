@@ -1,0 +1,27 @@
+<reference anchor="RFC9732" target="https://www.rfc-editor.org/info/rfc9732">
+  <front>
+    <title>A Framework for NRP-Based Enhanced Virtual Private Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9732"/>
+    <seriesInfo name="RFC" value="9732"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author initials="Z." surname="Li" fullname="Z. Li"/>
+    <author initials="T." surname="Miyasaka" fullname="T. Miyasaka"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2025"></date>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>network slicing</keyword>
+    <keyword>traffic engineering</keyword>
+    <keyword>performance guarantee</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a framework for Enhanced Virtual Private Networks (VPNs) based on Network Resource Partitions (NRPs) in order to support the needs of applications with specific traffic performance requirements (e.g., low latency, bounded jitter).  NRP-based enhanced VPNs leverage the VPN and Traffic Engineering (TE) technologies and add characteristics that specific services require beyond those provided by conventional VPNs.  Typically, an NRP-based enhanced VPN will be used to underpin network slicing, but it could also be of use in its own right providing enhanced connectivity services between customer sites.  This document also provides an overview of relevant technologies in different network layers and identifies some areas for potential new work.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

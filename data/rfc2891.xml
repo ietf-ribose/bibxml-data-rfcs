@@ -1,0 +1,24 @@
+<reference anchor="RFC2891" target="https://www.rfc-editor.org/info/rfc2891">
+  <front>
+    <title>LDAP Control Extension for Server Side Sorting of Search Results</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2891"/>
+    <seriesInfo name="RFC" value="2891"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Howes" fullname="T. Howes"/>
+    <author initials="M." surname="Wahl" fullname="M. Wahl"/>
+    <author initials="A." surname="Anantha" fullname="A. Anantha"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2000"></date>
+    <workgroup>LDAP Extension</workgroup>
+    <keyword>LDAP</keyword>
+    <keyword>lightweight directory access protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes two LDAPv3 control extensions for server side sorting of search results.  These controls allows a client to specify the attribute types and matching rules a server should use when returning the results to an LDAP search request. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

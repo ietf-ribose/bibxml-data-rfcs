@@ -1,0 +1,21 @@
+<reference anchor="RFC9645" target="https://www.rfc-editor.org/info/rfc9645">
+  <front>
+    <title>YANG Groupings for TLS Clients and TLS Servers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9645"/>
+    <seriesInfo name="RFC" value="9645"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Watsen" fullname="K. Watsen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2024"></date>
+    <workgroup>Network Configuration</workgroup>
+    <keyword>IETF</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document presents four YANG 1.1 modules -- three IETF modules and one supporting IANA module.&lt;/p&gt;&lt;p&gt;The three IETF modules are "ietf-tls-common", "ietf-tls-client", and "ietf-tls-server". The "ietf-tls-client" and "ietf-tls-server" modules are the primary productions of this work, supporting the configuration and monitoring of TLS clients and servers.&lt;/p&gt;&lt;p&gt;The IANA module is "iana-tls-cipher-suite-algs". This module defines YANG enumerations that provide support for an IANA-maintained algorithm registry.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

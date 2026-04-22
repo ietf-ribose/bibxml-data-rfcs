@@ -1,0 +1,27 @@
+<reference anchor="RFC3951" target="https://www.rfc-editor.org/info/rfc3951">
+  <front>
+    <title>Internet Low Bit Rate Codec (iLBC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3951"/>
+    <seriesInfo name="RFC" value="3951"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Andersen" fullname="S. Andersen"/>
+    <author initials="A." surname="Duric" fullname="A. Duric"/>
+    <author initials="H." surname="Astrom" fullname="H. Astrom"/>
+    <author initials="R." surname="Hagen" fullname="R. Hagen"/>
+    <author initials="W." surname="Kleijn" fullname="W. Kleijn"/>
+    <author initials="J." surname="Linden" fullname="J. Linden"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2004"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <keyword>iLBC</keyword>
+    <keyword>Internet Low Bit Rate Codec</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a speech codec suitable for robust voice communication over IP.  The codec is developed by Global IP Sound (GIPS).  It is designed for narrow band speech and results in a payload bit rate of 13.33 kbit/s for 30 ms frames and 15.20 kbit/s for 20 ms frames.  The codec enables graceful speech quality degradation in the case of lost frames, which occurs in connection with lost or delayed IP packets.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

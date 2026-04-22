@@ -1,0 +1,22 @@
+<reference anchor="RFC8285" target="https://www.rfc-editor.org/info/rfc8285">
+  <front>
+    <title>A General Mechanism for RTP Header Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8285"/>
+    <seriesInfo name="RFC" value="8285"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Singer" fullname="D. Singer"/>
+    <author initials="H." surname="Desineni" fullname="H. Desineni"/>
+    <author initials="R." surname="Even" fullname="R. Even" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2017"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document provides a general mechanism to use the header extension feature of RTP (the Real-time Transport Protocol).  It provides the option to use a small number of small extensions in each RTP packet, where the universe of possible extensions is large and registration is decentralized.  The actual extensions in use in a session are signaled in the setup information for that session.  This document obsoletes RFC 5285.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

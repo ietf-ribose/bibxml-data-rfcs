@@ -1,0 +1,20 @@
+<reference anchor="RFC9369" target="https://www.rfc-editor.org/info/rfc9369">
+  <front>
+    <title>QUIC Version 2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9369"/>
+    <seriesInfo name="RFC" value="9369"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Duke" fullname="M. Duke"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2023"></date>
+    <workgroup>QUIC</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document specifies QUIC version 2, which is identical to QUIC version 1 except for some trivial details. Its purpose is to combat various ossification vectors and exercise the version negotiation framework. It also serves as a template for the minimum changes in any future version of QUIC.&lt;/p&gt;&lt;p&gt;Note that "version 2" is an informal name for this proposal that indicates it is the second version of QUIC to be published as a Standards Track document. The protocol specified here uses a version number other than 2 in the wire image, in order to minimize ossification risks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

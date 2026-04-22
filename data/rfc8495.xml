@@ -1,0 +1,21 @@
+<reference anchor="RFC8495" target="https://www.rfc-editor.org/info/rfc8495">
+  <front>
+    <title>Allocation Token Extension for the Extensible Provisioning Protocol (EPP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8495"/>
+    <seriesInfo name="RFC" value="8495"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Gould" fullname="J. Gould"/>
+    <author initials="K." surname="Feher" fullname="K. Feher"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2018"></date>
+    <workgroup>Registration Protocols Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document describes an Extensible Provisioning Protocol (EPP) extension for including an Allocation Token in "query" and "transform" commands.  The Allocation Token is used as a credential that authorizes a client to request the allocation of a specific object from the server using one of the EPP transform commands, including "create" and "transfer".&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="RFC3747" target="https://www.rfc-editor.org/info/rfc3747">
+  <front>
+    <title>The Differentiated Services Configuration MIB</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3747"/>
+    <seriesInfo name="RFC" value="3747"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Hazewinkel" fullname="H. Hazewinkel" role="editor"/>
+    <author initials="D." surname="Partain" fullname="D. Partain" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2004"></date>
+    <workgroup>Configuration Management with SNMP</workgroup>
+    <keyword>MIB</keyword>
+    <keyword>management information base</keyword>
+    <keyword>diffserv</keyword>
+    <keyword>differentiated services</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes a MIB module that provides a conceptual layer between high-level "network-wide" policy definitions that effect configuration of the Differentiated Services (diffserv) subsystem and the instance-specific information that would include such details as the parameters for all the queues associated with each interface in a system.  This essentially provides an interface for configuring differentiated services at a conceptually higher layer than that of the Differentiated Services MIB. [PROPOSED STANDARD]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

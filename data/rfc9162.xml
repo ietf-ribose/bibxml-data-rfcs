@@ -1,0 +1,28 @@
+<reference anchor="RFC9162" target="https://www.rfc-editor.org/info/rfc9162">
+  <front>
+    <title>Certificate Transparency Version 2.0</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9162"/>
+    <seriesInfo name="RFC" value="9162"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Laurie" fullname="B. Laurie"/>
+    <author initials="E." surname="Messeri" fullname="E. Messeri"/>
+    <author initials="R." surname="Stradling" fullname="R. Stradling"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2021"></date>
+    <workgroup>Public Notary Transparency</workgroup>
+    <keyword>certificates</keyword>
+    <keyword>pkix</keyword>
+    <keyword>tls</keyword>
+    <keyword>website</keyword>
+    <keyword>webpki</keyword>
+    <keyword>browsers</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes version 2.0 of the Certificate Transparency (CT) protocol for publicly logging the existence of Transport Layer Security (TLS) server certificates as they are issued or observed, in a manner that allows anyone to audit certification authority (CA) activity and notice the issuance of suspect certificates as well as to audit the certificate logs themselves. The intent is that eventually clients would refuse to honor certificates that do not appear in a log, effectively forcing CAs to add all issued certificates to the logs.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 6962. It also specifies a new TLS extension that is used to send various CT log artifacts.&lt;/p&gt;&lt;p&gt;Logs are network services that implement the protocol operations for submissions and queries that are defined in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC6269" target="https://www.rfc-editor.org/info/rfc6269">
+  <front>
+    <title>Issues with IP Address Sharing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6269"/>
+    <seriesInfo name="RFC" value="6269"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Ford" fullname="M. Ford" role="editor"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author initials="A." surname="Durand" fullname="A. Durand"/>
+    <author initials="P." surname="Levis" fullname="P. Levis"/>
+    <author initials="P." surname="Roberts" fullname="P. Roberts"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2011"></date>
+    <workgroup>Internet Area Working Group</workgroup>
+    <keyword>IPv4 address exhaustion</keyword>
+    <keyword>completion</keyword>
+    <keyword>shared</keyword>
+    <keyword>sharing issues</keyword>
+    <abstract>
+      <t>&lt;p&gt;The completion of IPv4 address allocations from IANA and the Regional Internet Registries (RIRs) is causing service providers around the world to question how they will continue providing IPv4 connectivity service to their subscribers when there are no longer sufficient IPv4 addresses to allocate them one per subscriber. Several possible solutions to this problem are now emerging based around the idea of shared IPv4 addressing. These solutions give rise to a number of issues, and this memo identifies those common to all such address sharing approaches. Such issues include application failures, additional service monitoring complexity, new security vulnerabilities, and so on. Solution-specific discussions are out of scope.&lt;/p&gt;&lt;p&gt;Deploying IPv6 is the only perennial way to ease pressure on the public IPv4 address pool without the need for address sharing mechanisms that give rise to the issues identified herein. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

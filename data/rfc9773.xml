@@ -1,0 +1,27 @@
+<reference anchor="RFC9773" target="https://www.rfc-editor.org/info/rfc9773">
+  <front>
+    <title>ACME Renewal Information (ARI) Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9773"/>
+    <seriesInfo name="RFC" value="9773"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Gable" fullname="A. Gable"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>Automated Certificate Management Environment</workgroup>
+    <keyword>certificate</keyword>
+    <keyword>CA</keyword>
+    <keyword>x509</keyword>
+    <keyword>pki</keyword>
+    <keyword>webpki</keyword>
+    <keyword>renew</keyword>
+    <keyword>replace</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how an Automated Certificate Management Environment (ACME) server may provide suggestions to ACME clients as to when they should attempt to renew their certificates.  This allows servers to mitigate load spikes and ensures that clients do not make false assumptions about appropriate certificate renewal periods.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

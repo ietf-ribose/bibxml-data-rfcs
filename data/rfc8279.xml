@@ -1,0 +1,25 @@
+<reference anchor="RFC8279" target="https://www.rfc-editor.org/info/rfc8279">
+  <front>
+    <title>Multicast Using Bit Index Explicit Replication (BIER)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8279"/>
+    <seriesInfo name="RFC" value="8279"/>
+    <seriesInfo name="IETF"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands" role="editor"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen" role="editor"/>
+    <author initials="A." surname="Dolganow" fullname="A. Dolganow"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2017"></date>
+    <workgroup>Bit Indexed Explicit Replication</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a new architecture for the forwarding of multicast data packets.  It provides optimal forwarding of multicast packets through a "multicast domain".  However, it does not require a protocol for explicitly building multicast distribution trees, nor does it require intermediate nodes to maintain any per-flow state.  This architecture is known as "Bit Index Explicit Replication" (BIER).  When a multicast data packet enters the domain, the ingress router determines the set of egress routers to which the packet needs to be sent.  The ingress router then encapsulates the packet in a BIER header.  The BIER header contains a bit string in which each bit represents exactly one egress router in the domain; to forward the packet to a given set of egress routers, the bits corresponding to those routers are set in the BIER header.  The procedures for forwarding a packet based on its BIER header are specified in this document.  Elimination of the per-flow state and the explicit tree-building protocols results in a considerable simplification.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

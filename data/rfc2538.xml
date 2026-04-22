@@ -1,0 +1,24 @@
+<reference anchor="RFC2538" target="https://www.rfc-editor.org/info/rfc2538">
+  <front>
+    <title>Storing Certificates in the Domain Name System (DNS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2538"/>
+    <seriesInfo name="RFC" value="2538"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Eastlake 3rd" fullname="D. Eastlake 3rd"/>
+    <author initials="O." surname="Gudmundsson" fullname="O. Gudmundsson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="1999"></date>
+    <workgroup>Domain Name System Security</workgroup>
+    <keyword>SC-DNS</keyword>
+    <keyword>cryptology</keyword>
+    <keyword>authenticity</keyword>
+    <abstract>
+      <t>&lt;p&gt;Cryptographic public key are frequently published and their authenticity demonstrated by certificates.  A CERT resource record (RR) is defined so that such certificates and related certificate revocation lists can be stored in the Domain Name System (DNS). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

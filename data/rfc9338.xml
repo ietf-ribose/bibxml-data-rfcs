@@ -1,0 +1,22 @@
+<reference anchor="RFC9338" target="https://www.rfc-editor.org/info/rfc9338">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE): Countersignatures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9338"/>
+    <seriesInfo name="STD" value="96"/>
+    <seriesInfo name="RFC" value="9338"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2022"></date>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
+    <keyword>digital signature</keyword>
+    <abstract>
+      <t>&lt;p&gt;Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size.  CBOR Object Signing and Encryption (COSE) defines a set of security services for CBOR.  This document defines a countersignature algorithm along with the needed header parameters and CBOR tags for COSE.  This document updates RFC 9052.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC9873" target="https://www.rfc-editor.org/info/rfc9873">
+  <front>
+    <title>Additional Email Address Extension for the Extensible Provisioning Protocol (EPP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9873"/>
+    <seriesInfo name="RFC" value="9873"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Belyavsky" fullname="D. Belyavsky"/>
+    <author initials="J." surname="Gould" fullname="J. Gould"/>
+    <author initials="S." surname="Hollenbeck" fullname="S. Hollenbeck"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <workgroup>Registration Protocols Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Extensible Provisioning Protocol (EPP) does not inherently support internationalized email addresses because the specifications for these addresses did not exist when EPP was developed.  This document describes a command-response extension that adds support for associating an additional email address with an EPP contact object.  That additional email address can be either an internationalized email address or an ASCII-only address.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

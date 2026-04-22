@@ -1,0 +1,29 @@
+<reference anchor="RFC9861" target="https://www.rfc-editor.org/info/rfc9861">
+  <front>
+    <title>KangarooTwelve and TurboSHAKE</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9861"/>
+    <seriesInfo name="RFC" value="9861"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="B." surname="Viguier" fullname="B. Viguier"/>
+    <author initials="D." surname="Wong" fullname="D. Wong" role="editor"/>
+    <author initials="G." surname="Van Assche" fullname="G. Van Assche" role="editor"/>
+    <author initials="Q." surname="Dang" fullname="Q. Dang" role="editor"/>
+    <author initials="J." surname="Daemen" fullname="J. Daemen" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <keyword>Keccak</keyword>
+    <keyword>Sakura</keyword>
+    <keyword>KangarooTwelve</keyword>
+    <keyword>TurboSHAKE</keyword>
+    <keyword>Cryptographic Hash</keyword>
+    <keyword>eXtendable Output Function</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines four eXtendable-Output Functions (XOFs), hash functions with output of arbitrary length, named TurboSHAKE128, TurboSHAKE256, KT128, and KT256.&lt;/p&gt;&lt;p&gt;All four functions provide efficient and secure hashing primitives, and the last two are able to exploit the parallelism of the implementation in a scalable way.&lt;/p&gt;&lt;p&gt;This document is a product of the Crypto Forum Research Group. It builds up on the definitions of the permutations and of the sponge construction in NIST FIPS 202 and is meant to serve as a stable reference and an implementation guide.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

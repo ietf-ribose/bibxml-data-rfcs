@@ -1,0 +1,37 @@
+<reference anchor="RFC7636" target="https://www.rfc-editor.org/info/rfc7636">
+  <front>
+    <title>Proof Key for Code Exchange by OAuth Public Clients</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7636"/>
+    <seriesInfo name="RFC" value="7636"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Sakimura" fullname="N. Sakimura" role="editor"/>
+    <author initials="J." surname="Bradley" fullname="J. Bradley"/>
+    <author initials="N." surname="Agarwal" fullname="N. Agarwal"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2015"></date>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <keyword>smart phones</keyword>
+    <keyword>apps</keyword>
+    <keyword>XARA</keyword>
+    <keyword>authorization</keyword>
+    <keyword>custom scheme</keyword>
+    <keyword>intent</keyword>
+    <keyword>man-in-the-middle</keyword>
+    <keyword>eavesdropping</keyword>
+    <keyword>user agent swap</keyword>
+    <keyword>spop</keyword>
+    <keyword>pop</keyword>
+    <keyword>openid</keyword>
+    <keyword>connect </keyword>
+    <keyword>pkce</keyword>
+    <keyword>pixie</keyword>
+    <abstract>
+      <t>&lt;p&gt;OAuth 2.0 public clients utilizing the Authorization Code Grant are susceptible to the authorization code interception attack.  This specification describes the attack as well as a technique to mitigate against the threat through the use of Proof Key for Code Exchange (PKCE, pronounced "pixy").&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

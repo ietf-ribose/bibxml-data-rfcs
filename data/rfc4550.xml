@@ -1,0 +1,22 @@
+<reference anchor="RFC4550" target="https://www.rfc-editor.org/info/rfc4550">
+  <front>
+    <title>Internet Email to Support Diverse Service Environments (Lemonade) Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4550"/>
+    <seriesInfo name="RFC" value="4550"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Maes" fullname="S. Maes"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2006"></date>
+    <workgroup>Enhancements to Internet email to Support Diverse Service Environments</workgroup>
+    <keyword>internet message access protocol,</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a profile (a set of required extensions, restrictions, and usage modes) of the IMAP and mail submission protocols. This profile allows clients (especially those that are constrained in memory, bandwidth, processing power, or other areas) to efficiently use IMAP and Submission to access and submit mail. This includes the ability to forward received mail without needing to download and upload the mail, to optimize submission, and to efficiently resynchronize in case of loss of connectivity with the server.&lt;/p&gt;&lt;p&gt;The Internet Email to Support Diverse Service Environments (Lemonade) profile relies upon extensions to IMAP and Mail Submission protocols; specifically, the URLAUTH and CATENATE IMAP protocol (RFC 3501) extensions and the BURL extension to the SUBMIT protocol (RFC 4409). [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="RFC6330" target="https://www.rfc-editor.org/info/rfc6330">
+  <front>
+    <title>RaptorQ Forward Error Correction Scheme for Object Delivery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6330"/>
+    <seriesInfo name="RFC" value="6330"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author initials="A." surname="Shokrollahi" fullname="A. Shokrollahi"/>
+    <author initials="M." surname="Watson" fullname="M. Watson"/>
+    <author initials="T." surname="Stockhammer" fullname="T. Stockhammer"/>
+    <author initials="L." surname="Minder" fullname="L. Minder"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2011"></date>
+    <workgroup>Reliable Multicast Transport</workgroup>
+    <keyword>FEC code</keyword>
+    <keyword>fountain code</keyword>
+    <keyword>systematic code</keyword>
+    <keyword>AL FEC code</keyword>
+    <keyword>Sub-blocking</keyword>
+    <keyword>FEC object delivery</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a Fully-Specified Forward Error Correction (FEC) scheme, corresponding to FEC Encoding ID 6, for the RaptorQ FEC code and its application to reliable delivery of data objects.&lt;/p&gt;&lt;p&gt;RaptorQ codes are a new family of codes that provide superior flexibility, support for larger source block sizes, and better coding efficiency than Raptor codes in RFC 5053. RaptorQ is also a fountain code, i.e., as many encoding symbols as needed can be generated on the fly by the encoder from the source symbols of a source block of data. The decoder is able to recover the source block from almost any set of encoding symbols of sufficient cardinality -- in most cases, a set of cardinality equal to the number of source symbols is sufficient; in rare cases, a set of cardinality slightly more than the number of source symbols is required.&lt;/p&gt;&lt;p&gt;The RaptorQ code described here is a systematic code, meaning that all the source symbols are among the encoding symbols that can be generated. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

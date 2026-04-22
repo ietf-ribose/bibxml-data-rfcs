@@ -1,0 +1,31 @@
+<reference anchor="RFC9599" target="https://www.rfc-editor.org/info/rfc9599">
+  <front>
+    <title>Guidelines for Adding Congestion Notification to Protocols that Encapsulate IP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9599"/>
+    <seriesInfo name="BCP" value="89"/>
+    <seriesInfo name="RFC" value="9599"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Briscoe" fullname="B. Briscoe"/>
+    <author initials="J." surname="Kaippallimalil" fullname="J. Kaippallimalil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>Congestion Control and Management</keyword>
+    <keyword>Congestion Notification</keyword>
+    <keyword>Information Security</keyword>
+    <keyword>Tunnelling</keyword>
+    <keyword>Encapsulation</keyword>
+    <keyword>Decapsulation</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>ECN</keyword>
+    <keyword>Layering</keyword>
+    <abstract>
+      <t>&lt;p&gt;The purpose of this document is to guide the design of congestion notification in any lower-layer or tunnelling protocol that encapsulates IP.  The aim is for explicit congestion signals to propagate consistently from lower-layer protocols into IP.  Then, the IP internetwork layer can act as a portability layer to carry congestion notification from non-IP-aware congested nodes up to the transport layer (L4).  Specifications that follow these guidelines, whether produced by the IETF or other standards bodies, should assure interworking among IP-layer and lower-layer congestion notification mechanisms.  This document is included in BCP 89 and updates the single paragraph of advice to subnetwork designers about Explicit Congestion Notification (ECN) in Section 13 of RFC 3819 by replacing it with a reference to this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

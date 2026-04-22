@@ -1,0 +1,30 @@
+<reference anchor="RFC4988" target="https://www.rfc-editor.org/info/rfc4988">
+  <front>
+    <title>Mobile IPv4 Fast Handovers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4988"/>
+    <seriesInfo name="RFC" value="4988"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Koodli" fullname="R. Koodli"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2007"></date>
+    <workgroup>Mobility for IPv4</workgroup>
+    <keyword>mip4</keyword>
+    <keyword>delay</keyword>
+    <keyword>packet loss</keyword>
+    <keyword>movement detection</keyword>
+    <keyword>ip address configuration</keyword>
+    <keyword>loation update latency</keyword>
+    <keyword>care-of address</keyword>
+    <keyword>care of address</keyword>
+    <keyword>coa</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document adapts the Mobile IPv6 Fast Handovers to improve delay and packet loss resulting from Mobile IPv4 handover operations.  Specifically, this document addresses movement detection, IP address configuration, and location update latencies during a handover.  For reducing the IP address configuration latency, the document proposes that the new Care-of Address is always made to be the new access router's IP address.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

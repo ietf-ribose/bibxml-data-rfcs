@@ -1,0 +1,27 @@
+<reference anchor="RFC8320" target="https://www.rfc-editor.org/info/rfc8320">
+  <front>
+    <title>LDP Extensions to Support Maximally Redundant Trees</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8320"/>
+    <seriesInfo name="RFC" value="8320"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Atlas" fullname="A. Atlas"/>
+    <author initials="K." surname="Tiruveedhula" fullname="K. Tiruveedhula"/>
+    <author initials="C." surname="Bowers" fullname="C. Bowers"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2018"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>fast-reroute</keyword>
+    <keyword>MRT</keyword>
+    <keyword>MRT-FRR</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies extensions to the Label Distribution Protocol (LDP) to support the creation of Label Switched Paths (LSPs) for Maximally Redundant Trees (MRTs). A prime use of MRTs is for unicast and multicast IP/LDP Fast Reroute, which we will refer to as "MRT-FRR".&lt;/p&gt;&lt;p&gt;The sole protocol extension to LDP is simply the ability to advertise an MRT Capability. This document describes that extension and the associated behavior expected for Label Switching Routers (LSRs) and Label Edge Routers (LERs) advertising the MRT Capability.&lt;/p&gt;&lt;p&gt;MRT-FRR uses LDP multi-topology extensions, so three multi-topology IDs have been allocated from the MPLS MT-ID space.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

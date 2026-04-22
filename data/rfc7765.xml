@@ -1,0 +1,26 @@
+<reference anchor="RFC7765" target="https://www.rfc-editor.org/info/rfc7765">
+  <front>
+    <title>TCP and Stream Control Transmission Protocol (SCTP) RTO Restart</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7765"/>
+    <seriesInfo name="RFC" value="7765"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Hurtig" fullname="P. Hurtig"/>
+    <author initials="A." surname="Brunstrom" fullname="A. Brunstrom"/>
+    <author initials="A." surname="Petlund" fullname="A. Petlund"/>
+    <author initials="M." surname="Welzl" fullname="M. Welzl"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>tcp</keyword>
+    <keyword>retransmission timer</keyword>
+    <keyword>rtor</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a modified sender-side algorithm for managing the TCP and Stream Control Transmission Protocol (SCTP) retransmission timers that provides faster loss recovery when there is a small amount of outstanding data for a connection.  The modification, RTO Restart (RTOR), allows the transport to restart its retransmission timer using a smaller timeout duration, so that the effective retransmission timeout (RTO) becomes more aggressive in situations where fast retransmit cannot be used.  This enables faster loss detection and recovery for connections that are short lived or application limited.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

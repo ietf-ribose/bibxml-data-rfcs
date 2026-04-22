@@ -1,0 +1,24 @@
+<reference anchor="RFC9237" target="https://www.rfc-editor.org/info/rfc9237">
+  <front>
+    <title>An Authorization Information Format (AIF) for Authentication and Authorization for Constrained Environments (ACE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9237"/>
+    <seriesInfo name="RFC" value="9237"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2022"></date>
+    <workgroup>Authentication and Authorization for Constrained Environments</workgroup>
+    <keyword>OAuth</keyword>
+    <keyword>IoT</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>Access Control</keyword>
+    <abstract>
+      <t>&lt;p&gt;Information about which entities are authorized to perform what operations on which constituents of other entities is a crucial component of producing an overall system that is secure. Conveying precise authorization information is especially critical in highly automated systems with large numbers of entities, such as the Internet of Things.&lt;/p&gt;&lt;p&gt;This specification provides a generic information model and format for representing such authorization information, as well as two variants of a specific instantiation of that format for use with Representational State Transfer (REST) resources identified by URI path.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

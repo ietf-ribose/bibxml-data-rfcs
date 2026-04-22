@@ -1,0 +1,31 @@
+<reference anchor="RFC8076" target="https://www.rfc-editor.org/info/rfc8076">
+  <front>
+    <title>A Usage for Shared Resources in RELOAD (ShaRe)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8076"/>
+    <seriesInfo name="RFC" value="8076"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Knauf" fullname="A. Knauf"/>
+    <author initials="T." surname="Schmidt" fullname="T. Schmidt" role="editor"/>
+    <author initials="G." surname="Hege" fullname="G. Hege"/>
+    <author initials="M." surname="Waehlisch" fullname="M. Waehlisch"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Peer-to-Peer Session Initiation Protocol</workgroup>
+    <keyword>P2PSIP</keyword>
+    <keyword>SIP</keyword>
+    <keyword>Conferencing</keyword>
+    <keyword>Voice over IP</keyword>
+    <keyword>Peer-to-Peer</keyword>
+    <keyword>Access Control</keyword>
+    <keyword>Group Management</keyword>
+    <keyword>Rendezvous</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a REsource LOcation And Discovery (RELOAD) Usage for managing shared write access to RELOAD Resources.  Shared Resources in RELOAD (ShaRe) form a basic primitive for enabling various coordination and notification schemes among distributed peers.  Access in ShaRe is controlled by a hierarchical trust delegation scheme maintained within an access list.  A new USER-CHAIN-ACL access policy allows authorized peers to write a Shared Resource without owning its corresponding certificate.  This specification also adds mechanisms to store Resources with a variable name that is useful whenever peer-independent rendezvous processes are required.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

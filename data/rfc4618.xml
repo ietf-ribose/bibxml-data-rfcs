@@ -1,0 +1,28 @@
+<reference anchor="RFC4618" target="https://www.rfc-editor.org/info/rfc4618">
+  <front>
+    <title>Encapsulation Methods for Transport of PPP/High-Level Data Link Control (HDLC) over MPLS Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4618"/>
+    <seriesInfo name="RFC" value="4618"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen"/>
+    <author initials="G." surname="Heron" fullname="G. Heron"/>
+    <author initials="A." surname="Malis" fullname="A. Malis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2006"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <keyword>pw</keyword>
+    <keyword>pseudowire</keyword>
+    <keyword>point to point protocol</keyword>
+    <keyword>pdu</keyword>
+    <keyword>packet data unit</keyword>
+    <abstract>
+      <t>&lt;p&gt;A pseudowire (PW) can be used to carry Point to Point Protocol (PPP) or High-Level Data Link Control (HDLC) Protocol Data Units over a Multiprotocol Label Switching (MPLS) network without terminating the PPP/HDLC protocol.  This enables service providers to offer "emulated" HDLC, or PPP link services over existing MPLS networks.  This document specifies the encapsulation of PPP/HDLC Packet Data Units (PDUs) within a pseudowire. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

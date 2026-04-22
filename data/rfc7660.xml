@@ -1,0 +1,22 @@
+<reference anchor="RFC7660" target="https://www.rfc-editor.org/info/rfc7660">
+  <front>
+    <title>Diameter Congestion and Filter Attributes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7660"/>
+    <seriesInfo name="RFC" value="7660"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Bertz" fullname="L. Bertz"/>
+    <author initials="S." surname="Manning" fullname="S. Manning"/>
+    <author initials="B." surname="Hirschman" fullname="B. Hirschman"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2015"></date>
+    <workgroup>Diameter Maintenance and Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines optional Diameter attributes that can be used to help manage networks that use Explicit Congestion Notification (ECN) or Diameter traffic filters. These new attributes allow for improved data traffic identification, support of ECN, and minimal Diameter filter administration.&lt;/p&gt;&lt;p&gt;RFC 5777 defines a Filter-Rule Attribute Value Pair (AVP) that accommodates extensions for classification, conditions, and actions. It, however, does not support traffic identification for packets using Explicit Congestion Notification as defined in RFC 3168 and does not provide specific actions when the flow(s) described by the Filter-Rule are congested.&lt;/p&gt;&lt;p&gt;Further, a Filter-Rule can describe multiple flows but not the exact number of flows. Flow count and other associated data (e.g., packets) are not captured by accounting applications, leaving administrators without useful information regarding the effectiveness or appropriateness of the filter definition.&lt;/p&gt;&lt;p&gt;The optional attributes defined in this document are forward and backwards compatible with RFC 5777.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

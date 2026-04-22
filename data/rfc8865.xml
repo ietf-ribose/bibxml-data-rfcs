@@ -1,0 +1,27 @@
+<reference anchor="RFC8865" target="https://www.rfc-editor.org/info/rfc8865">
+  <front>
+    <title>T.140 Real-Time Text Conversation over WebRTC Data Channels</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8865"/>
+    <seriesInfo name="RFC" value="8865"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author initials="G." surname="Hellström" fullname="G. Hellström"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>SDP</keyword>
+    <keyword>ITU-T</keyword>
+    <keyword>T.140</keyword>
+    <keyword>Data Channel</keyword>
+    <keyword>WebRTC</keyword>
+    <keyword>real-time text</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how a Web Real-Time Communication (WebRTC) data channel can be used as a transport mechanism for real-time text using the ITU-T Protocol for multimedia application text conversation (Recommendation ITU-T T.140) and how the Session Description Protocol (SDP) offer/answer mechanism can be used to negotiate such a data channel, referred to as a T.140 data channel.  This document updates RFC 8373 to specify its use with WebRTC data channels.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

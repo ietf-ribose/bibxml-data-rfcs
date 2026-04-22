@@ -1,0 +1,26 @@
+<reference anchor="RFC4660" target="https://www.rfc-editor.org/info/rfc4660">
+  <front>
+    <title>Functional Description of Event Notification Filtering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4660"/>
+    <seriesInfo name="RFC" value="4660"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Khartabil" fullname="H. Khartabil"/>
+    <author initials="E." surname="Leppanen" fullname="E. Leppanen"/>
+    <author initials="M." surname="Lonnfors" fullname="M. Lonnfors"/>
+    <author initials="J." surname="Costa-Requena" fullname="J. Costa-Requena"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2006"></date>
+    <workgroup>SIP for Instant Messaging and Presence Leveraging Extensions</workgroup>
+    <keyword>event state subscription</keyword>
+    <keyword>presence</keyword>
+    <keyword>filter criteria</keyword>
+    <abstract>
+      <t>&lt;p&gt;The SIP event notification framework describes the usage of the Session Initiation Protocol (SIP) for subscriptions and notifications of changes to the state of a resource. The document does not describe a mechanism whereby filtering of event notification information can be achieved.&lt;/p&gt;&lt;p&gt;This document describes the operations a subscriber performs in order to put filtering rules associated with a subscription to event notification information in place. The handling, by the subscriber, of responses to subscriptions carrying filtering rules and the handling of notifications with filtering rules applied to them are also described. Furthermore, the document conveys how the notifier behaves when receiving such filtering rules and how a notification is constructed. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC9786" target="https://www.rfc-editor.org/info/rfc9786">
+  <front>
+    <title>EVPN Port-Active Redundancy Mode</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9786"/>
+    <seriesInfo name="RFC" value="9786"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Brissette" fullname="P. Brissette"/>
+    <author initials="LA." surname="Burdet" fullname="LA. Burdet" role="editor"/>
+    <author initials="B." surname="Wen" fullname="B. Wen"/>
+    <author initials="E." surname="Leyton" fullname="E. Leyton"/>
+    <author initials="J." surname="Rabadan" fullname="J. Rabadan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2025"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>Port-Active</keyword>
+    <keyword>EVPN</keyword>
+    <keyword>Multihoming</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Multi-Chassis Link Aggregation (MC-LAG) group technology enables establishing a logical link-aggregation connection with a redundant group of independent nodes.  The objective of MC-LAG is to enhance both network availability and bandwidth utilization through various modes of traffic load balancing.  RFC 7432 defines an EVPN-based MC-LAG with Single-Active and All-Active multihoming redundancy modes.  This document builds on the existing redundancy mechanisms supported by EVPN and introduces a new active/standby redundancy mode, called 'Port-Active'.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC4572" target="https://www.rfc-editor.org/info/rfc4572">
+  <front>
+    <title>Connection-Oriented Media Transport over the Transport Layer Security (TLS) Protocol in the Session Description Protocol (SDP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4572"/>
+    <seriesInfo name="RFC" value="4572"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Lennox" fullname="J. Lennox"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2006"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>setup</keyword>
+    <keyword>connection</keyword>
+    <keyword>reestablishment</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies how to establish secure connection-oriented media transport sessions over the Transport Layer Security (TLS) protocol using the Session Description Protocol (SDP). It defines a new SDP protocol identifier, 'TCP/TLS'. It also defines the syntax and semantics for an SDP 'fingerprint' attribute that identifies the certificate that will be presented for the TLS session. This mechanism allows media transport over TLS connections to be established securely, so long as the integrity of session descriptions is assured.&lt;/p&gt;&lt;p&gt;This document extends and updates RFC 4145. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

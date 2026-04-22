@@ -1,0 +1,23 @@
+<reference anchor="RFC5660" target="https://www.rfc-editor.org/info/rfc5660">
+  <front>
+    <title>IPsec Channels: Connection Latching</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5660"/>
+    <seriesInfo name="RFC" value="5660"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Williams" fullname="N. Williams"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2009"></date>
+    <workgroup>Better-Than-Nothing Security</workgroup>
+    <keyword>IPsec</keyword>
+    <keyword>connection latching</keyword>
+    <keyword>channel</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies, abstractly, how to interface applications and transport protocols with IPsec so as to create "channels" by latching "connections" (packet flows) to certain IPsec Security Association (SA) parameters for the lifetime of the connections. Connection latching is layered on top of IPsec and does not modify the underlying IPsec architecture.&lt;/p&gt;&lt;p&gt;Connection latching can be used to protect applications against accidentally exposing live packet flows to unintended peers, whether as the result of a reconfiguration of IPsec or as the result of using weak peer identity to peer address associations. Weak association of peer ID and peer addresses is at the core of Better Than Nothing Security (BTNS); thus, connection latching can add a significant measure of protection to BTNS IPsec nodes.&lt;/p&gt;&lt;p&gt;Finally, the availability of IPsec channels will make it possible to use channel binding to IPsec channels. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

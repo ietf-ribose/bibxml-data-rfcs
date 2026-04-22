@@ -1,0 +1,27 @@
+<reference anchor="RFC9881" target="https://www.rfc-editor.org/info/rfc9881">
+  <front>
+    <title>Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9881"/>
+    <seriesInfo name="RFC" value="9881"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Massimo" fullname="J. Massimo"/>
+    <author initials="P." surname="Kampanakis" fullname="P. Kampanakis"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author initials="B. E." surname="Westerbaan" fullname="B. E. Westerbaan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>ML-DSA</keyword>
+    <keyword>Certificate</keyword>
+    <keyword>X.509</keyword>
+    <keyword>PKIX</keyword>
+    <abstract>
+      <t>&lt;p&gt;Digital signatures are used within X.509 certificates and Certificate Revocation Lists (CRLs), and to sign messages.  This document specifies the conventions for using FIPS 204, the Module-Lattice-Based Digital Signature Algorithm (ML-DSA) in Internet X.509 certificates and CRLs.  The conventions for the associated signatures, subject public keys, and private key are also described.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

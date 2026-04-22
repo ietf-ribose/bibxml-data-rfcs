@@ -1,0 +1,21 @@
+<reference anchor="RFC7902" target="https://www.rfc-editor.org/info/rfc7902">
+  <front>
+    <title>Registry and Extensions for P-Multicast Service Interface Tunnel Attribute Flags</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7902"/>
+    <seriesInfo name="RFC" value="7902"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen"/>
+    <author initials="T." surname="Morin" fullname="T. Morin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2016"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The BGP-based control procedures for Multicast Virtual Private Networks (MVPNs) make use of a BGP attribute known as the "P-Multicast Service Interface (PMSI) Tunnel" attribute.  The attribute contains a one-octet "Flags" field.  The purpose of this document is to establish an IANA registry for the assignment of the bits in this field.  Since the "Flags" field contains only eight bits, this document also defines a new BGP Extended Community, "Additional PMSI Tunnel Attribute Flags", that can be used to carry additional flags for the "P-Multicast Service Interface (PMSI) Tunnel" attribute.  This document updates RFC 6514.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

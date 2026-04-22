@@ -1,0 +1,21 @@
+<reference anchor="RFC4808" target="https://www.rfc-editor.org/info/rfc4808">
+  <front>
+    <title>Key Change Strategies for TCP-MD5</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4808"/>
+    <seriesInfo name="RFC" value="4808"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Bellovin" fullname="S. Bellovin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2007"></date>
+    <keyword>bgp</keyword>
+    <keyword>border gateway protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;The TCP-MD5 option is most commonly used to secure BGP sessions between routers.  However, changing the long-term key is difficult, since the change needs to be synchronized between different organizations.  We describe single-ended strategies that will permit (mostly) unsynchronized key changes.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

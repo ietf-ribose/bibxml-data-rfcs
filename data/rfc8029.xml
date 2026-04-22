@@ -1,0 +1,27 @@
+<reference anchor="RFC8029" target="https://www.rfc-editor.org/info/rfc8029">
+  <front>
+    <title>Detecting Multiprotocol Label Switched (MPLS) Data-Plane Failures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8029"/>
+    <seriesInfo name="RFC" value="8029"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kompella" fullname="K. Kompella"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro" role="editor"/>
+    <author initials="N." surname="Kumar" fullname="N. Kumar"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>MPLS echo request</keyword>
+    <keyword>MPLS echo reply</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a simple and efficient mechanism to detect data-plane failures in Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs). It defines a probe message called an "MPLS echo request" and a response message called an "MPLS echo reply" for returning the result of the probe. The MPLS echo request is intended to contain sufficient information to check correct operation of the data plane and to verify the data plane against the control plane, thereby localizing faults.&lt;/p&gt;&lt;p&gt;This document obsoletes RFCs 4379, 6424, 6829, and 7537, and updates RFC 1122.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

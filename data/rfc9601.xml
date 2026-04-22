@@ -1,0 +1,28 @@
+<reference anchor="RFC9601" target="https://www.rfc-editor.org/info/rfc9601">
+  <front>
+    <title>Propagating Explicit Congestion Notification across IP Tunnel Headers Separated by a Shim</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9601"/>
+    <seriesInfo name="RFC" value="9601"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Briscoe" fullname="B. Briscoe"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2024"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>Congestion Control and Management</keyword>
+    <keyword>Congestion Notification</keyword>
+    <keyword>Information Security</keyword>
+    <keyword>Tunnelling</keyword>
+    <keyword>Encapsulation &amp; Decapsulation</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>ECN</keyword>
+    <keyword>Layering</keyword>
+    <abstract>
+      <t>&lt;p&gt;RFC 6040 on "Tunnelling of Explicit Congestion Notification" made the rules for propagation of Explicit Congestion Notification (ECN) consistent for all forms of IP-in-IP tunnel.  This specification updates RFC 6040 to clarify that its scope includes tunnels where two IP headers are separated by at least one shim header that is not sufficient on its own for wide-area packet forwarding.  It surveys widely deployed IP tunnelling protocols that use such shim headers and updates the specifications of those that do not mention ECN propagation (including RFCs 2661, 3931, 2784, 4380 and 7450, which specify L2TPv2, L2TPv3, Generic Routing Encapsulation (GRE), Teredo, and Automatic Multicast Tunneling (AMT), respectively).  This specification also updates RFC 6040 with configuration requirements needed to make any legacy tunnel ingress safe.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

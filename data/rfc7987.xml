@@ -1,0 +1,24 @@
+<reference anchor="RFC7987" target="https://www.rfc-editor.org/info/rfc7987">
+  <front>
+    <title>IS-IS Minimum Remaining Lifetime</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7987"/>
+    <seriesInfo name="RFC" value="7987"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Ginsberg" fullname="L. Ginsberg"/>
+    <author initials="P." surname="Wells" fullname="P. Wells"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2016"></date>
+    <workgroup>IS-IS for IP Internets</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Corruption of the Remaining Lifetime field in a Link State Protocol Data Unit (LSP) can go undetected.  In certain scenarios, this may cause or exacerbate flooding storms.  It is also a possible denial-of-service attack vector.  This document defines a backwards-compatible solution to this problem.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

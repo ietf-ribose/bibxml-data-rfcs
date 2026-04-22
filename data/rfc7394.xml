@@ -1,0 +1,25 @@
+<reference anchor="RFC7394" target="https://www.rfc-editor.org/info/rfc7394">
+  <front>
+    <title>Definition of Time to Live TLV for LSP-Ping Mechanisms</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7394"/>
+    <seriesInfo name="RFC" value="7394"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Boutros" fullname="S. Boutros"/>
+    <author initials="S." surname="Sivabalan" fullname="S. Sivabalan"/>
+    <author initials="G." surname="Swallow" fullname="G. Swallow"/>
+    <author initials="S." surname="Saxena" fullname="S. Saxena"/>
+    <author initials="V." surname="Manral" fullname="V. Manral"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2014"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;LSP-Ping is a widely deployed Operation, Administration, and Maintenance (OAM) mechanism in MPLS networks.  However, in the present form, this mechanism is inadequate to verify connectivity of a segment of a Multi-Segment Pseudowire (MS-PW) and/or bidirectional co-routed Label Switched Path (LSP) from any node on the path of the MS-PW and/or bidirectional co-routed LSP.  This document defines a TLV to address this shortcoming.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

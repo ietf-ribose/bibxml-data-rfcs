@@ -1,0 +1,27 @@
+<reference anchor="RFC3263" target="https://www.rfc-editor.org/info/rfc3263">
+  <front>
+    <title>Session Initiation Protocol (SIP): Locating SIP Servers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3263"/>
+    <seriesInfo name="RFC" value="3263"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rosenberg" fullname="J. Rosenberg"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2002"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Session Initiation Protocol</keyword>
+    <keyword>application-layer</keyword>
+    <keyword>multimedia</keyword>
+    <keyword>multicast</keyword>
+    <keyword>unicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Session Initiation Protocol (SIP) uses DNS procedures to allow a client to resolve a SIP Uniform Resource Identifier (URI) into the IP address, port, and transport protocol of the next hop to contact.  It also uses DNS to allow a server to send a response to a backup client if the primary client has failed.  This document describes those DNS procedures in detail. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

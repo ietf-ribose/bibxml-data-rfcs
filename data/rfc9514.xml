@@ -1,0 +1,29 @@
+<reference anchor="RFC9514" target="https://www.rfc-editor.org/info/rfc9514">
+  <front>
+    <title>Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment Routing over IPv6 (SRv6)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9514"/>
+    <seriesInfo name="RFC" value="9514"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Dawra" fullname="G. Dawra"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="D." surname="Bernier" fullname="D. Bernier"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2023"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP</keyword>
+    <keyword>BGP-LS</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>SRv6</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing over IPv6 (SRv6) allows for a flexible definition of end-to-end paths within various topologies by encoding paths as sequences of topological or functional sub-paths called "segments". These segments are advertised by various protocols such as BGP, IS-IS, and OSPFv3.&lt;/p&gt;&lt;p&gt;This document defines extensions to BGP - Link State (BGP-LS) to advertise SRv6 segments along with their behaviors and other attributes via BGP. The BGP-LS address-family solution for SRv6 described in this document is similar to BGP-LS for SR for the MPLS data plane, which is defined in RFC 9085.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

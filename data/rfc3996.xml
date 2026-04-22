@@ -1,0 +1,25 @@
+<reference anchor="RFC3996" target="https://www.rfc-editor.org/info/rfc3996">
+  <front>
+    <title>Internet Printing Protocol (IPP): The 'ippget' Delivery Method for Event Notifications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3996"/>
+    <seriesInfo name="RFC" value="3996"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Herriot" fullname="R. Herriot"/>
+    <author initials="T." surname="Hastings" fullname="T. Hastings"/>
+    <author initials="H." surname="Lewis" fullname="H. Lewis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2005"></date>
+    <workgroup>Internet Printing Protocol</workgroup>
+    <keyword>pull delivery method</keyword>
+    <keyword>event notifications</keyword>
+    <keyword>event subscriptions</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an extension to the Internet Printing Protocol1.1: Model and Semantics (RFC 2911, RFC 2910).  This document specifies the 'ippget' Pull Delivery Method for use with the "Internet Printing Protocol (IPP): Event Notifications and Subscriptions" specification (RFC 3995).  This IPPGET Delivery Method is REQUIRED for all clients and Printers that support RFC 3995.  The Notification Recipient, acting as a client, fetches (pulls) Event Notifications by using the Get-Notifications operation defined in this document. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

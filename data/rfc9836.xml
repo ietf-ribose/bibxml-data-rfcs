@@ -1,0 +1,47 @@
+<reference anchor="RFC9836" target="https://www.rfc-editor.org/info/rfc9836">
+  <front>
+    <title>A YANG Data Model for Augmenting VPN Service and Network Models with Attachment Circuits</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9836"/>
+    <seriesInfo name="RFC" value="9836"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="R." surname="Roberts" fullname="R. Roberts"/>
+    <author initials="S." surname="Barguil" fullname="S. Barguil"/>
+    <author initials="O." surname="Gonzalez de Dios" fullname="O. Gonzalez de Dios"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>Slice Service</keyword>
+    <keyword>L3VPN</keyword>
+    <keyword>L2VPN</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Network Automation</keyword>
+    <keyword>Orchestration</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>Service provisioning</keyword>
+    <keyword>service segmentation</keyword>
+    <keyword>service flexibility</keyword>
+    <keyword>service simplification</keyword>
+    <keyword>Network Service</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>Network Slicing</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a YANG data model, referred to as the "AC Glue"
+model, to augment the LxVPN Service Model (LxSM) and LxVPN Network
+Model (LxNM) with references to attachment circuits (ACs).  The AC
+Glue model enables a provider to associate Layer 2/3 VPN (LxVPN)
+services with the underlying AC infrastructure, thereby facilitating
+consistent provisioning and management of new or existing ACs in
+conjunction with LxVPN services.  Specifically, by introducing an
+integrated approach to AC and LxVPN management, this model supports
+Attachment Circuit as a Service (ACaaS) and provides a standardized
+mechanism for aligning AC/VPN requests with the network
+configurations required to deliver them.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

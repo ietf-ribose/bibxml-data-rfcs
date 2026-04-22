@@ -1,0 +1,30 @@
+<reference anchor="RFC9716" target="https://www.rfc-editor.org/info/rfc9716">
+  <front>
+    <title>Mechanisms for MPLS Ping and Traceroute Procedures in Inter-Domain Segment Routing Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9716"/>
+    <seriesInfo name="RFC" value="9716"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Hegde" fullname="S. Hegde"/>
+    <author initials="K." surname="Arora" fullname="K. Arora"/>
+    <author initials="M." surname="Srivastava" fullname="M. Srivastava"/>
+    <author initials="S." surname="Ninan" fullname="S. Ninan"/>
+    <author initials="N." surname="Kumar" fullname="N. Kumar"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2025"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>OAM</keyword>
+    <keyword>EPE</keyword>
+    <keyword>BGP-LS</keyword>
+    <keyword>BGP</keyword>
+    <keyword>SPRING</keyword>
+    <keyword>SDN</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Segment Routing (SR) architecture leverages source routing and can be directly applied to the use of an MPLS data plane.  A Segment Routing over MPLS (SR-MPLS) network may consist of multiple IGP domains or multiple Autonomous Systems (ASes) under the control of the same organization.  It is useful to have the Label Switched Path (LSP) ping and traceroute procedures when an SR end-to-end path traverses multiple ASes or IGP domains.  This document outlines mechanisms to enable efficient LSP ping and traceroute procedures in inter-AS and inter-domain SR-MPLS networks.  This is achieved through a straightforward extension to the Operations, Administration, and Maintenance (OAM) protocol, relying solely on data plane forwarding for handling echo replies on transit nodes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

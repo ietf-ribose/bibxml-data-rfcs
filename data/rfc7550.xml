@@ -1,0 +1,38 @@
+<reference anchor="RFC7550" target="https://www.rfc-editor.org/info/rfc7550">
+  <front>
+    <title>Issues and Recommendations with Multiple Stateful DHCPv6 Options</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7550"/>
+    <seriesInfo name="RFC" value="7550"/>
+    <seriesInfo name="IETF"/>
+    <author initials="O." surname="Troan" fullname="O. Troan"/>
+    <author initials="B." surname="Volz" fullname="B. Volz"/>
+    <author initials="M." surname="Siodelski" fullname="M. Siodelski"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2015"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>CPE</keyword>
+    <keyword>CER</keyword>
+    <keyword>CE</keyword>
+    <keyword>Customer Edge Router</keyword>
+    <keyword>Prefix Delegation</keyword>
+    <keyword>IPv6 Address Option</keyword>
+    <keyword>Session</keyword>
+    <keyword>State Machine</keyword>
+    <keyword>Advertise</keyword>
+    <keyword>Time</keyword>
+    <keyword>Timer T1 T2</keyword>
+    <keyword>Renew</keyword>
+    <keyword>Rebind</keyword>
+    <keyword>Confirm</keyword>
+    <keyword>Decline</keyword>
+    <keyword>Provision</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) specification defined two stateful options, IA_NA and IA_TA, but did not anticipate the development of additional stateful options.  DHCPv6 Prefix Delegation added the IA_PD option, which is stateful.  Applications that use IA_NA and IA_PD together have revealed issues that need to be addressed.  This document updates RFCs 3315 and 3633 to address these issues.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

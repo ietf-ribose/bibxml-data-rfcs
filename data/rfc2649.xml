@@ -1,0 +1,25 @@
+<reference anchor="RFC2649" target="https://www.rfc-editor.org/info/rfc2649">
+  <front>
+    <title>An LDAP Control and Schema for Holding Operation Signatures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2649"/>
+    <seriesInfo name="RFC" value="2649"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Greenblatt" fullname="B. Greenblatt"/>
+    <author initials="P." surname="Richard" fullname="P. Richard"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="1999"></date>
+    <workgroup>LDAP Extension</workgroup>
+    <keyword>LDAP</keyword>
+    <keyword>lightweight directory access protocol</keyword>
+    <keyword>client</keyword>
+    <keyword>server</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an LDAP message control which allows for the retrieval of digitally signed information.  This document defines an LDAP v3 based mechanism for signing directory operations in order to create a secure journal of changes that have been made to each directory entry.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

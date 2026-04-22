@@ -1,0 +1,24 @@
+<reference anchor="RFC5848" target="https://www.rfc-editor.org/info/rfc5848">
+  <front>
+    <title>Signed Syslog Messages</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5848"/>
+    <seriesInfo name="RFC" value="5848"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Kelsey" fullname="J. Kelsey"/>
+    <author initials="J." surname="Callas" fullname="J. Callas"/>
+    <author initials="A." surname="Clemm" fullname="A. Clemm"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2010"></date>
+    <workgroup>Security Issues in Network Event Logging</workgroup>
+    <keyword>syslog</keyword>
+    <keyword>syslog-sign</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a mechanism to add origin authentication, message integrity, replay resistance, message sequencing, and detection of missing messages to the transmitted syslog messages.  This specification is intended to be used in conjunction with the work defined in RFC 5424, "The Syslog Protocol". [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

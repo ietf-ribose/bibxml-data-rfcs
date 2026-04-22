@@ -1,0 +1,24 @@
+<reference anchor="RFC4644" target="https://www.rfc-editor.org/info/rfc4644">
+  <front>
+    <title>Network News Transfer Protocol (NNTP) Extension for Streaming Feeds</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4644"/>
+    <seriesInfo name="RFC" value="4644"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Vinocur" fullname="J. Vinocur"/>
+    <author initials="K." surname="Murchison" fullname="K. Murchison"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2006"></date>
+    <workgroup>NNTP Extensions</workgroup>
+    <keyword>check</keyword>
+    <keyword>takethis</keyword>
+    <keyword>mode stream</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines an extension to the Network News Transfer Protocol (NNTP) to provide asynchronous (otherwise known as "streaming") transfer of articles. This allows servers to transfer articles to other servers with much greater efficiency.&lt;/p&gt;&lt;p&gt;This document updates and formalizes the CHECK and TAKETHIS commands specified in RFC 2980 and deprecates the MODE STREAM command. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

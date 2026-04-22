@@ -1,0 +1,24 @@
+<reference anchor="RFC9146" target="https://www.rfc-editor.org/info/rfc9146">
+  <front>
+    <title>Connection Identifier for DTLS 1.2</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9146"/>
+    <seriesInfo name="RFC" value="9146"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla" role="editor"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig" role="editor"/>
+    <author initials="T." surname="Fossati" fullname="T. Fossati"/>
+    <author initials="A." surname="Kraus" fullname="A. Kraus"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2022"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>NAT rebinding</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the Connection ID (CID) construct for the Datagram Transport Layer Security (DTLS) protocol version 1.2.&lt;/p&gt;&lt;p&gt;A CID is an identifier carried in the record layer header that gives the recipient additional information for selecting the appropriate security association. In "classical" DTLS, selecting a security association of an incoming DTLS record is accomplished with the help of the 5-tuple. If the source IP address and/or source port changes during the lifetime of an ongoing DTLS session, then the receiver will be unable to locate the correct security context.&lt;/p&gt;&lt;p&gt;The new ciphertext record format with the CID also provides content type encryption and record layer padding.&lt;/p&gt;&lt;p&gt;This document updates RFC 6347.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

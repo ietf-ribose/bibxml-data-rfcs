@@ -1,0 +1,25 @@
+<reference anchor="RFC8836" target="https://www.rfc-editor.org/info/rfc8836">
+  <front>
+    <title>Congestion Control Requirements for Interactive Real-Time Media</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8836"/>
+    <seriesInfo name="RFC" value="8836"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Jesup" fullname="R. Jesup"/>
+    <author initials="Z." surname="Sarker" fullname="Z. Sarker" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>RTP Media Congestion Avoidance Techniques</workgroup>
+    <keyword>Interactive multimedia</keyword>
+    <keyword>webrtc</keyword>
+    <keyword>video communication</keyword>
+    <keyword>RTP/RTCP</keyword>
+    <abstract>
+      <t>&lt;p&gt;Congestion control is needed for all data transported across the Internet, in order to promote fair usage and prevent congestion collapse. The requirements for interactive, point-to-point real-time multimedia, which needs low-delay, semi-reliable data delivery, are different from the requirements for bulk transfer like FTP or bursty transfers like web pages. Due to an increasing amount of RTP-based real-time media traffic on the Internet (e.g., with the introduction of the Web Real-Time Communication (WebRTC)), it is especially important to ensure that this kind of traffic is congestion controlled.&lt;/p&gt;&lt;p&gt;This document describes a set of requirements that can be used to evaluate other congestion control mechanisms in order to figure out their fitness for this purpose, and in particular to provide a set of possible requirements for a real-time media congestion avoidance technique.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

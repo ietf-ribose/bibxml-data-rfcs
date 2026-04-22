@@ -1,0 +1,29 @@
+<reference anchor="RFC7884" target="https://www.rfc-editor.org/info/rfc7884">
+  <front>
+    <title>OSPF Extensions to Advertise Seamless Bidirectional Forwarding Detection (S-BFD) Target Discriminators</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7884"/>
+    <seriesInfo name="RFC" value="7884"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="M." surname="Bhatia" fullname="M. Bhatia"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author initials="T." surname="Ranganath" fullname="T. Ranganath"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2016"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>BFD</keyword>
+    <keyword>seamless BFD</keyword>
+    <keyword>negotiation free</keyword>
+    <keyword>label verification</keyword>
+    <keyword>segment routing</keyword>
+    <keyword>IP</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new OSPF Router Information (RI) TLV that allows OSPF routers to flood the Seamless Bidirectional Forwarding Detection (S-BFD) Discriminator values associated with a target network identifier.  This mechanism is applicable to both OSPFv2 and OSPFv3.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

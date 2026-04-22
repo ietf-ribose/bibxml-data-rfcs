@@ -1,0 +1,29 @@
+<reference anchor="RFC9878" target="https://www.rfc-editor.org/info/rfc9878">
+  <front>
+    <title>Updates to Private Header (P-Header) Extension Usage in Session Initiation Protocol (SIP) Requests and Responses</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9878"/>
+    <seriesInfo name="RFC" value="9878"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Holmberg" fullname="C. Holmberg"/>
+    <author initials="N." surname="Biondic" fullname="N. Biondic"/>
+    <author initials="G." surname="Salgueiro" fullname="G. Salgueiro"/>
+    <author initials="R." surname="Jesske" fullname="R. Jesske"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2025"></date>
+    <workgroup>Session Initiation Protocol Core</workgroup>
+    <keyword>3GPP</keyword>
+    <keyword>Visited</keyword>
+    <keyword>ID</keyword>
+    <keyword>P-</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>IMS</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Third Generation Partnership Project (3GPP) has identified cases where different SIP private header extensions referred to as "P-" header fields, and defined in RFC 7315, need to be included in SIP requests and responses where they were not allowed according to RFC 7315. This document updates RFC 7315, in order to allow inclusion of the affected "P-" header fields in such requests and responses. This document obsoletes RFC 7976. The changes related to RFC 7976 involve the inclusion of the P-Visited-Network-ID header field in SIP responses.&lt;/p&gt;&lt;p&gt;This document also makes updates to RFC 7315 in order to fix misalignments that occurred when RFC 3455 was obsoleted by RFC 7315.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

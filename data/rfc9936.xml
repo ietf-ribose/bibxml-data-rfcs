@@ -1,0 +1,26 @@
+<reference anchor="RFC9936" target="https://www.rfc-editor.org/info/rfc9936">
+  <front>
+    <title>Use of ML-KEM in the Cryptographic Message Syntax (CMS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9936"/>
+    <seriesInfo name="RFC" value="9936"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Prat" fullname="J. Prat"/>
+    <author initials="M." surname="Ounsworth" fullname="M. Ounsworth"/>
+    <author initials="D." surname="Van Geest" fullname="D. Van Geest"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2026"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>Key Encapsulation Mechanism (KEM)</keyword>
+    <keyword>KEMRecipientInfo</keyword>
+    <keyword>ML-KEM</keyword>
+    <keyword>Kyber</keyword>
+    <abstract>
+      <t>&lt;p&gt;Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) is a quantum-resistant Key Encapsulation Mechanism (KEM).  Three parameter sets for the ML-KEM algorithm are specified by the US National Institute of Standards and Technology (NIST) in FIPS 203.  In order of increasing security strength (and decreasing performance), these parameter sets are ML-KEM-512, ML-KEM-768, and ML-KEM-1024.  This document specifies the conventions for using ML-KEM with the Cryptographic Message Syntax (CMS) using the KEMRecipientInfo structure defined in "Using Key Encapsulation Mechanism (KEM) Algorithms in the Cryptographic Message Syntax (CMS)" (RFC 9629).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

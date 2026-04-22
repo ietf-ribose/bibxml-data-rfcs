@@ -1,0 +1,24 @@
+<reference anchor="RFC1996" target="https://www.rfc-editor.org/info/rfc1996">
+  <front>
+    <title>A Mechanism for Prompt Notification of Zone Changes (DNS NOTIFY)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1996"/>
+    <seriesInfo name="RFC" value="1996"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Vixie" fullname="P. Vixie"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="1996"></date>
+    <workgroup>DNS IXFR, Notification, and Dynamic Update</workgroup>
+    <keyword>DNS-NOTIFY</keyword>
+    <keyword>Domain</keyword>
+    <keyword>Name</keyword>
+    <keyword>System</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo describes the NOTIFY opcode for DNS, by which a master server advises a set of slave servers that the master's data has been changed and that a query should be initiated to discover the new data. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

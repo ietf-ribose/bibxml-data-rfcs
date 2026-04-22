@@ -1,0 +1,23 @@
+<reference anchor="RFC6829" target="https://www.rfc-editor.org/info/rfc6829">
+  <front>
+    <title>Label Switched Path (LSP) Ping for Pseudowire Forwarding Equivalence Classes (FECs) Advertised over IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6829"/>
+    <seriesInfo name="RFC" value="6829"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Chen" fullname="M. Chen"/>
+    <author initials="P." surname="Pan" fullname="P. Pan"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="R." surname="Asati" fullname="R. Asati"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2013"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;The Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Ping and traceroute mechanisms are commonly used to detect and isolate data-plane failures in all MPLS LSPs, including LSPs used for each direction of an MPLS Pseudowire (PW). However, the LSP Ping and traceroute elements used for PWs are not specified for IPv6 address usage.&lt;/p&gt;&lt;p&gt;This document extends the PW LSP Ping and traceroute mechanisms so they can be used with PWs that are set up and maintained using IPv6 LDP sessions. This document updates RFC 4379. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

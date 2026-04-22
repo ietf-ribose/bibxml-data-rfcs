@@ -1,0 +1,29 @@
+<reference anchor="RFC8870" target="https://www.rfc-editor.org/info/rfc8870">
+  <front>
+    <title>Encrypted Key Transport for DTLS and Secure RTP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8870"/>
+    <seriesInfo name="RFC" value="8870"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Jennings" fullname="C. Jennings"/>
+    <author initials="J." surname="Mattsson" fullname="J. Mattsson"/>
+    <author initials="D." surname="McGrew" fullname="D. McGrew"/>
+    <author initials="D." surname="Wing" fullname="D. Wing"/>
+    <author initials="F." surname="Andreasen" fullname="F. Andreasen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Privacy Enhanced RTP Conferencing</workgroup>
+    <keyword>PERC</keyword>
+    <keyword>SRTP</keyword>
+    <keyword>RTP</keyword>
+    <keyword>conferencing</keyword>
+    <keyword>encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;Encrypted Key Transport (EKT) is an extension to DTLS (Datagram Transport Layer Security) and the Secure Real-time Transport Protocol (SRTP) that provides for the secure transport of SRTP master keys, rollover counters, and other information within SRTP.  This facility enables SRTP for decentralized conferences by distributing a common key to all of the conference endpoints.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

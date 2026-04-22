@@ -1,0 +1,29 @@
+<reference anchor="RFC8794" target="https://www.rfc-editor.org/info/rfc8794">
+  <front>
+    <title>Extensible Binary Meta Language</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8794"/>
+    <seriesInfo name="RFC" value="8794"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Lhomme" fullname="S. Lhomme"/>
+    <author initials="D." surname="Rice" fullname="D. Rice"/>
+    <author initials="M." surname="Bunkus" fullname="M. Bunkus"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2020"></date>
+    <workgroup>Codec Encoding for LossLess Archiving and Realtime transmission</workgroup>
+    <keyword>cellar</keyword>
+    <keyword>binary</keyword>
+    <keyword>storage</keyword>
+    <keyword>xml</keyword>
+    <keyword>matroska</keyword>
+    <keyword>webm</keyword>
+    <keyword>ebml</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Extensible Binary Meta Language (EBML) format as a binary container format designed for audio/video storage.  EBML is designed as a binary equivalent to XML and uses a storage-efficient approach to build nested Elements with identifiers, lengths, and values.  Similar to how an XML Schema defines the structure and semantics of an XML Document, this document defines how EBML Schemas are created to convey the semantics of an EBML Document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

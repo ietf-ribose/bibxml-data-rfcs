@@ -1,0 +1,25 @@
+<reference anchor="RFC9235" target="https://www.rfc-editor.org/info/rfc9235">
+  <front>
+    <title>TCP Authentication Option (TCP-AO) Test Vectors</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9235"/>
+    <seriesInfo name="RFC" value="9235"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Touch" fullname="J. Touch"/>
+    <author initials="J." surname="Kuusisaari" fullname="J. Kuusisaari"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2022"></date>
+    <workgroup>TCP Maintenance and Minor Extensions</workgroup>
+    <keyword>TCP</keyword>
+    <keyword>authentication</keyword>
+    <keyword>option</keyword>
+    <keyword>test vector</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides test vectors to validate implementations of the two mandatory authentication algorithms specified for the TCP Authentication Option over both IPv4 and IPv6.  This includes validation of the key derivation function (KDF) based on a set of test connection parameters as well as validation of the message authentication code (MAC).  Vectors are provided for both currently required pairs of KDF and MAC algorithms: KDF_HMAC_SHA1 and HMAC- SHA-1-96, and KDF_AES_128_CMAC and AES-128-CMAC-96.  The vectors also validate both whole TCP segments as well as segments whose options are excluded for middlebox traversal.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

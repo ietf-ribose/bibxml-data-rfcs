@@ -1,0 +1,27 @@
+<reference anchor="RFC4253" target="https://www.rfc-editor.org/info/rfc4253">
+  <front>
+    <title>The Secure Shell (SSH) Transport Layer Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4253"/>
+    <seriesInfo name="RFC" value="4253"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Ylonen" fullname="T. Ylonen"/>
+    <author initials="C." surname="Lonvick" fullname="C. Lonvick" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2006"></date>
+    <workgroup>Secure Shell</workgroup>
+    <keyword>remote login</keyword>
+    <keyword>encryption</keyword>
+    <keyword>server authentication</keyword>
+    <keyword>integrity protection</keyword>
+    <keyword>diffie-hellman key exchange</keyword>
+    <keyword>diffie hellman</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Secure Shell (SSH) is a protocol for secure remote login and other secure network services over an insecure network.&lt;/p&gt;&lt;p&gt;This document describes the SSH transport layer protocol, which typically runs on top of TCP/IP. The protocol can be used as a basis for a number of secure network services. It provides strong encryption, server authentication, and integrity protection. It may also provide compression.&lt;/p&gt;&lt;p&gt;Key exchange method, public key algorithm, symmetric encryption algorithm, message authentication algorithm, and hash algorithm are all negotiated.&lt;/p&gt;&lt;p&gt;This document also describes the Diffie-Hellman key exchange method and the minimal set of algorithms that are needed to implement the SSH transport layer protocol. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

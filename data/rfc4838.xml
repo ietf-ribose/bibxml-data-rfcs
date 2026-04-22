@@ -1,0 +1,29 @@
+<reference anchor="RFC4838" target="https://www.rfc-editor.org/info/rfc4838">
+  <front>
+    <title>Delay-Tolerant Networking Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4838"/>
+    <seriesInfo name="RFC" value="4838"/>
+    <seriesInfo name="IRTF"/>
+    <author initials="V." surname="Cerf" fullname="V. Cerf"/>
+    <author initials="S." surname="Burleigh" fullname="S. Burleigh"/>
+    <author initials="A." surname="Hooke" fullname="A. Hooke"/>
+    <author initials="L." surname="Torgerson" fullname="L. Torgerson"/>
+    <author initials="R." surname="Durst" fullname="R. Durst"/>
+    <author initials="K." surname="Scott" fullname="K. Scott"/>
+    <author initials="K." surname="Fall" fullname="K. Fall"/>
+    <author initials="H." surname="Weiss" fullname="H. Weiss"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2007"></date>
+    <keyword>disruption tolerant</keyword>
+    <keyword>irtf</keyword>
+    <keyword>interplanetary internet</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an architecture for delay-tolerant and disruption-tolerant networks, and is an evolution of the architecture originally designed for the Interplanetary Internet, a communication system envisioned to provide Internet-like services across interplanetary distances in support of deep space exploration.  This document describes an architecture that addresses a variety of problems with internetworks having operational and performance characteristics that make conventional (Internet-like) networking approaches either unworkable or impractical.  We define a message- oriented overlay that exists above the transport (or other) layers of the networks it interconnects.  The document presents a motivation for the architecture, an architectural overview, review of state management required for its operation, and a discussion of application design issues.  This document represents the consensus of the IRTF DTN research group and has been widely reviewed by that group.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

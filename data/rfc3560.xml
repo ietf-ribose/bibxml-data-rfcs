@@ -1,0 +1,23 @@
+<reference anchor="RFC3560" target="https://www.rfc-editor.org/info/rfc3560">
+  <front>
+    <title>Use of the RSAES-OAEP Key Transport Algorithm in Cryptographic Message Syntax (CMS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3560"/>
+    <seriesInfo name="RFC" value="3560"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2003"></date>
+    <workgroup>S/MIME Mail Security</workgroup>
+    <keyword>CMS</keyword>
+    <keyword>Cryptographic Message Syntax</keyword>
+    <keyword>security encryption</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the conventions for using the RSAES-OAEP key transport algorithm with the Cryptographic Message Syntax (CMS).  The CMS specifies the enveloped-data content type, which consists of an encrypted content and encrypted content-encryption keys for one or more recipients.  The RSAES-OAEP key transport algorithm can be used to encrypt content-encryption keys for intended recipients. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

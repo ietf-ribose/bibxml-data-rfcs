@@ -1,0 +1,37 @@
+<reference anchor="RFC8979" target="https://www.rfc-editor.org/info/rfc8979">
+  <front>
+    <title>Subscriber and Performance Policy Identifier Context Headers in the Network Service Header (NSH)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8979"/>
+    <seriesInfo name="RFC" value="8979"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Sarikaya" fullname="B. Sarikaya"/>
+    <author initials="D." surname="von Hugo" fullname="D. von Hugo"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2021"></date>
+    <workgroup>Service Function Chaining</workgroup>
+    <keyword>subscriber policy</keyword>
+    <keyword>policy enforcement</keyword>
+    <keyword>subscriber</keyword>
+    <keyword>policy</keyword>
+    <keyword>quota</keyword>
+    <keyword>identification</keyword>
+    <keyword>implicit identification</keyword>
+    <keyword>service chain</keyword>
+    <keyword>service function chain</keyword>
+    <keyword>sfc</keyword>
+    <keyword>SFP</keyword>
+    <keyword>service function path</keyword>
+    <keyword>classification</keyword>
+    <keyword>5G</keyword>
+    <keyword>traffic steering</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Subscriber and Performance Policy Identifier Context Headers.  These Variable-Length Context Headers can be carried in the Network Service Header (NSH) and are used to inform Service Functions (SFs) of subscriber- and performance-related information for the sake of policy enforcement and appropriate Service Function Chaining (SFC) operations.  The structure of each Context Header and their use and processing by NSH-aware nodes are described.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

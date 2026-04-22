@@ -1,0 +1,25 @@
+<reference anchor="RFC9456" target="https://www.rfc-editor.org/info/rfc9456">
+  <front>
+    <title>Updates to the TLS Transport Model for SNMP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9456"/>
+    <seriesInfo name="RFC" value="9456"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Vaughn" fullname="K. Vaughn" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>TLSTM</keyword>
+    <keyword>DTLS</keyword>
+    <keyword>security</keyword>
+    <keyword>SNMPv3</keyword>
+    <keyword>MIB</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document updates RFC 6353 ("Transport Layer Security (TLS) Transport Model for the Simple Network Management Protocol (SNMP)") to reflect changes necessary to support Transport Layer Security version 1.3 (TLS 1.3) and Datagram Transport Layer Security version 1.3 (DTLS 1.3), which are jointly known as "(D)TLS 1.3". This document is compatible with (D)TLS 1.2 and is intended to be compatible with future versions of SNMP and (D)TLS.&lt;/p&gt;&lt;p&gt;This document updates the SNMP-TLS-TM-MIB as defined in RFC 6353.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC9532" target="https://www.rfc-editor.org/info/rfc9532">
+  <front>
+    <title>HTTP Proxy-Status Parameter for Next-Hop Aliases</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9532"/>
+    <seriesInfo name="RFC" value="9532"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Pauly" fullname="T. Pauly"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2024"></date>
+    <workgroup>HTTP</workgroup>
+    <keyword>proxy status</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the next-hop-aliases HTTP Proxy-Status Parameter.  This parameter carries the list of aliases and canonical names an intermediary received during DNS resolution as part of establishing a connection to the next hop.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

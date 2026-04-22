@@ -1,0 +1,25 @@
+<reference anchor="RFC5495" target="https://www.rfc-editor.org/info/rfc5495">
+  <front>
+    <title>Description of the Resource Reservation Protocol - Traffic-Engineered (RSVP-TE) Graceful Restart Procedures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5495"/>
+    <seriesInfo name="RFC" value="5495"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Li" fullname="D. Li"/>
+    <author initials="J." surname="Gao" fullname="J. Gao"/>
+    <author initials="A." surname="Satyanarayana" fullname="A. Satyanarayana"/>
+    <author initials="S." surname="Bardalai" fullname="S. Bardalai"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2009"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>Hello message</keyword>
+    <keyword>gmpls</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Hello message for the Resource Reservation Protocol (RSVP) has been defined to establish and maintain basic signaling node adjacencies for Label Switching Routers (LSRs) participating in a Multiprotocol Label Switching (MPLS) traffic-engineered (TE) network. The Hello message has been extended for use in Generalized MPLS (GMPLS) networks for state recovery of control channel or nodal faults.&lt;/p&gt;&lt;p&gt;The GMPLS protocol definitions for RSVP also allow a restarting node to learn which label it previously allocated for use on a Label Switched Path (LSP).&lt;/p&gt;&lt;p&gt;Further RSVP protocol extensions have been defined to enable a restarting node to recover full control plane state by exchanging RSVP messages with its upstream and downstream neighbors.&lt;/p&gt;&lt;p&gt;This document provides an informational clarification of the control plane procedures for a GMPLS network when there are multiple node failures, and describes how full control plane state can be recovered in different scenarios where the order in which the nodes restart is different.&lt;/p&gt;&lt;p&gt;This document does not define any new processes or procedures. All protocol mechanisms are already defined in the referenced documents. This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

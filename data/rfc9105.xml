@@ -1,0 +1,22 @@
+<reference anchor="RFC9105" target="https://www.rfc-editor.org/info/rfc9105">
+  <front>
+    <title>A YANG Data Model for Terminal Access Controller Access-Control System Plus (TACACS+)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9105"/>
+    <seriesInfo name="RFC" value="9105"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Wu" fullname="B. Wu" role="editor"/>
+    <author initials="G." surname="Zheng" fullname="G. Zheng"/>
+    <author initials="M." surname="Wang" fullname="M. Wang" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2021"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a Terminal Access Controller Access-Control System Plus (TACACS+) client YANG module that augments the System Management data model, defined in RFC 7317, to allow devices to make use of TACACS+ servers for centralized Authentication, Authorization, and Accounting (AAA). Though being a standard module, this module does not endorse the security mechanisms of the TACACS+ protocol (RFC 8907), and TACACS+ be used within a secure deployment.&lt;/p&gt;&lt;p&gt;The YANG module in this document conforms to the Network Management Datastore Architecture (NMDA) defined in RFC 8342.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

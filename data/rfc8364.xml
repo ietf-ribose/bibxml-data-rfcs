@@ -1,0 +1,24 @@
+<reference anchor="RFC8364" target="https://www.rfc-editor.org/info/rfc8364">
+  <front>
+    <title>PIM Flooding Mechanism (PFM) and Source Discovery (SD)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8364"/>
+    <seriesInfo name="RFC" value="8364"/>
+    <seriesInfo name="IETF"/>
+    <author initials="IJ." surname="Wijnands" fullname="IJ. Wijnands"/>
+    <author initials="S." surname="Venaas" fullname="S. Venaas"/>
+    <author initials="M." surname="Brig" fullname="M. Brig"/>
+    <author initials="A." surname="Jonasson" fullname="A. Jonasson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2018"></date>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;Protocol Independent Multicast - Sparse Mode (PIM-SM) uses a Rendezvous Point (RP) and shared trees to forward multicast packets from new sources.  Once Last-Hop Routers (LHRs) receive packets from a new source, they may join the Shortest Path Tree (SPT) for the source for optimal forwarding.  This document defines a new mechanism that provides a way to support PIM-SM without the need for PIM registers, RPs, or shared trees.  Multicast source information is flooded throughout the multicast domain using a new generic PIM Flooding Mechanism (PFM).  This allows LHRs to learn about new sources without receiving initial data packets.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

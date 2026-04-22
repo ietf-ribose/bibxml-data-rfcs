@@ -1,0 +1,28 @@
+<reference anchor="RFC9368" target="https://www.rfc-editor.org/info/rfc9368">
+  <front>
+    <title>Compatible Version Negotiation for QUIC</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9368"/>
+    <seriesInfo name="RFC" value="9368"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Schinazi" fullname="D. Schinazi"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2023"></date>
+    <workgroup>QUIC</workgroup>
+    <keyword>quic</keyword>
+    <keyword>version</keyword>
+    <keyword>negotiation</keyword>
+    <keyword>compatible</keyword>
+    <keyword>incompatible</keyword>
+    <keyword>not quite tls</keyword>
+    <keyword>tls-ng</keyword>
+    <abstract>
+      <t>&lt;p&gt;QUIC does not provide a complete version negotiation mechanism but instead only provides a way for the server to indicate that the version the client chose is unacceptable.  This document describes a version negotiation mechanism that allows a client and server to select a mutually supported version.  Optionally, if the client's chosen version and the negotiated version share a compatible first flight format, the negotiation can take place without incurring an extra round trip.  This document updates RFC 8999.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

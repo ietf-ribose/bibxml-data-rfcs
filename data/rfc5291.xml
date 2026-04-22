@@ -1,0 +1,23 @@
+<reference anchor="RFC5291" target="https://www.rfc-editor.org/info/rfc5291">
+  <front>
+    <title>Outbound Route Filtering Capability for BGP-4</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5291"/>
+    <seriesInfo name="RFC" value="5291"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Chen" fullname="E. Chen"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2008"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>border gatway protocol</keyword>
+    <keyword>orf</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a BGP-based mechanism that allows a BGP speaker to send to its BGP peer a set of Outbound Route Filters (ORFs) that the peer would use to constrain/filter its outbound routing updates to the speaker. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

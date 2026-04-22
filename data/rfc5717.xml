@@ -1,0 +1,23 @@
+<reference anchor="RFC5717" target="https://www.rfc-editor.org/info/rfc5717">
+  <front>
+    <title>Partial Lock Remote Procedure Call (RPC) for NETCONF</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5717"/>
+    <seriesInfo name="RFC" value="5717"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Lengyel" fullname="B. Lengyel"/>
+    <author initials="M." surname="Bjorklund" fullname="M. Bjorklund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2009"></date>
+    <workgroup>Network Configuration</workgroup>
+    <keyword>YANG</keyword>
+    <keyword>Network Management</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Network Configuration protocol (NETCONF) defines the lock and unlock Remote Procedure Calls (RPCs), used to lock entire configuration datastores.  In some situations, a way to lock only parts of a configuration datastore is required.  This document defines a capability-based extension to the NETCONF protocol for locking portions of a configuration datastore. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

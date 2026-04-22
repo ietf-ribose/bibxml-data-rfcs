@@ -1,0 +1,28 @@
+<reference anchor="RFC6435" target="https://www.rfc-editor.org/info/rfc6435">
+  <front>
+    <title>MPLS Transport Profile Lock Instruct and Loopback Functions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6435"/>
+    <seriesInfo name="RFC" value="6435"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Boutros" fullname="S. Boutros" role="editor"/>
+    <author initials="S." surname="Sivabalan" fullname="S. Sivabalan" role="editor"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal" role="editor"/>
+    <author initials="M." surname="Vigoureux" fullname="M. Vigoureux" role="editor"/>
+    <author initials="X." surname="Dai" fullname="X. Dai" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2011"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>oam</keyword>
+    <keyword>operations</keyword>
+    <keyword>administration</keyword>
+    <keyword>and maintenance</keyword>
+    <abstract>
+      <t>&lt;p&gt;Two useful Operations, Administration, and Maintenance (OAM) functions in a transport network are "lock" and "loopback". The lock function enables an operator to lock a transport path such that it does not carry client traffic, but can continue to carry OAM messages and may carry test traffic. The loopback function allows an operator to set a specific node on the transport path into loopback mode such that it returns all received data.&lt;/p&gt;&lt;p&gt;This document specifies the lock function for MPLS networks and describes how the loopback function operates in MPLS networks.&lt;/p&gt;&lt;p&gt;This document updates Sections 7.1.1 and 7.1.2 of RFC 6371. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

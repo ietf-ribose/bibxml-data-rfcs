@@ -1,0 +1,26 @@
+<reference anchor="RFC5149" target="https://www.rfc-editor.org/info/rfc5149">
+  <front>
+    <title>Service Selection for Mobile IPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5149"/>
+    <seriesInfo name="RFC" value="5149"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Korhonen" fullname="J. Korhonen"/>
+    <author initials="U." surname="Nilsson" fullname="U. Nilsson"/>
+    <author initials="V." surname="Devarapalli" fullname="V. Devarapalli"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2008"></date>
+    <keyword>mipv6</keyword>
+    <keyword>service selection mobility option</keyword>
+    <keyword>proxy mobile ipv6</keyword>
+    <keyword>mobilty service subscription</keyword>
+    <keyword>binding registration procedure</keyword>
+    <abstract>
+      <t>&lt;p&gt;In some Mobile IPv6 deployments, identifying the mobile node or the mobility service subscriber is not enough to distinguish between multiple services possibly provisioned to the said mobile node and its mobility service subscription.  A capability to specify different services in addition to the mobile node identity can be leveraged to provide flexibility for mobility service providers on provisioning multiple services to one mobility service subscription.  This document describes a Service Selection Mobility Option for both conventional Mobile IPv6 and Proxy Mobile IPv6 that is intended to assist home agents to make a specific service selection for the mobility service subscription during the binding registration procedure.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

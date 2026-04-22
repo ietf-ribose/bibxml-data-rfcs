@@ -1,0 +1,26 @@
+<reference anchor="RFC5547" target="https://www.rfc-editor.org/info/rfc5547">
+  <front>
+    <title>A Session Description Protocol (SDP) Offer/Answer Mechanism to Enable File Transfer</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5547"/>
+    <seriesInfo name="RFC" value="5547"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Garcia-Martin" fullname="M. Garcia-Martin"/>
+    <author initials="M." surname="Isomaki" fullname="M. Isomaki"/>
+    <author initials="G." surname="Camarillo" fullname="G. Camarillo"/>
+    <author initials="S." surname="Loreto" fullname="S. Loreto"/>
+    <author initials="P." surname="Kyzivat" fullname="P. Kyzivat"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2009"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>msrp</keyword>
+    <keyword>message session relay protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides a mechanism to negotiate the transfer of one or more files between two endpoints by using the Session Description Protocol (SDP) offer/answer model specified in RFC 3264.  SDP is extended to describe the attributes of the files to be transferred.  The offerer can describe either the files it wants to send or the files it would like to receive.  The answerer can either accept or reject the offer separately for each individual file.  The transfer of one or more files is initiated after a successful negotiation.  The Message Session Relay Protocol (MSRP) is defined as the default mechanism to actually carry the files between the endpoints.  The conventions on how to use MSRP for file transfer are also provided in this document. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

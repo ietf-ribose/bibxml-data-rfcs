@@ -1,0 +1,28 @@
+<reference anchor="RFC7878" target="https://www.rfc-editor.org/info/rfc7878">
+  <front>
+    <title>Session Peering Provisioning (SPP) Protocol over SOAP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7878"/>
+    <seriesInfo name="RFC" value="7878"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Cartwright" fullname="K. Cartwright"/>
+    <author initials="V." surname="Bhatia" fullname="V. Bhatia"/>
+    <author surname="J-F. Mule" fullname="J-F. Mule"/>
+    <author initials="A." surname="Mayrhofer" fullname="A. Mayrhofer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2016"></date>
+    <workgroup>Data for Reachability of Inter/tra-NetworK SIP</workgroup>
+    <keyword>SPPP</keyword>
+    <keyword>SIP</keyword>
+    <keyword>Peering</keyword>
+    <keyword>SED</keyword>
+    <keyword>Provisioning</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Session Peering Provisioning Framework (SPPF) specifies the data model and the overall structure to provision Session Establishment Data (SED) into Session Data Registries and SIP Service Provider data stores.  To utilize this framework, one needs a substrate protocol.  Given that the Simple Object Access Protocol (SOAP) is currently widely used for messaging between elements of such provisioning systems, this document specifies the usage of SOAP (via HTTPS) as the substrate protocol for SPPF.  The benefits include leveraging prevalent expertise and a higher probability that existing provisioning systems will be able to easily migrate to using an \%SPPF- based protocol.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

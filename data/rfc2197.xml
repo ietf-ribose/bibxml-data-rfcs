@@ -1,0 +1,27 @@
+<reference anchor="RFC2197" target="https://www.rfc-editor.org/info/rfc2197">
+  <front>
+    <title>SMTP Service Extension for Command Pipelining</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2197"/>
+    <seriesInfo name="RFC" value="2197"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="N." surname="Freed" fullname="N. Freed"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="1997"></date>
+    <keyword>SMTP-Pipe</keyword>
+    <keyword>simple</keyword>
+    <keyword>mail</keyword>
+    <keyword>transfer</keyword>
+    <keyword>TCP</keyword>
+    <keyword>transmission</keyword>
+    <keyword>control</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines an extension to the SMTP service whereby a server can indicate the extent of its ability to accept multiple commands in a single TCP send operation. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="RFC5586" target="https://www.rfc-editor.org/info/rfc5586">
+  <front>
+    <title>MPLS Generic Associated Channel</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5586"/>
+    <seriesInfo name="RFC" value="5586"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bocci" fullname="M. Bocci" role="editor"/>
+    <author initials="M." surname="Vigoureux" fullname="M. Vigoureux" role="editor"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2009"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>mpls-tp</keyword>
+    <keyword>oam</keyword>
+    <keyword>g-ach</keyword>
+    <keyword>ach</keyword>
+    <keyword>associated channel header</keyword>
+    <keyword>gal</keyword>
+    <keyword>generic associated label</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document generalizes the applicability of the pseudowire (PW) Associated Channel Header (ACH), enabling the realization of a control channel associated to MPLS Label Switched Paths (LSPs) and MPLS Sections in addition to MPLS pseudowires.  In order to identify the presence of this Associated Channel Header in the label stack, this document also assigns one of the reserved MPLS label values to the Generic Associated Channel Label (GAL), to be used as a label based exception mechanism.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

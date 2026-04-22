@@ -1,0 +1,27 @@
+<reference anchor="RFC6503" target="https://www.rfc-editor.org/info/rfc6503">
+  <front>
+    <title>Centralized Conferencing Manipulation Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6503"/>
+    <seriesInfo name="RFC" value="6503"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Barnes" fullname="M. Barnes"/>
+    <author initials="C." surname="Boulton" fullname="C. Boulton"/>
+    <author initials="S." surname="Romano" fullname="S. Romano"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2012"></date>
+    <workgroup>Centralized Conferencing</workgroup>
+    <keyword>conference user</keyword>
+    <keyword>ad hoc conference</keyword>
+    <keyword>sidebar conference</keyword>
+    <keyword>scheduled conference</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Centralized Conferencing Manipulation Protocol (CCMP) allows a Centralized Conferencing (XCON) system client to create, retrieve, change, and delete objects that describe a centralized conference.  CCMP is a means to control basic and advanced conference features such as conference state and capabilities, participants, relative roles, and details.  CCMP is a stateless, XML-based, client server protocol that carries, in its request and response messages, conference information in the form of XML documents and fragments conforming to the centralized conferencing data model schema. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

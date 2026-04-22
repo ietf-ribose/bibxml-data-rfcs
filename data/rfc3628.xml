@@ -1,0 +1,24 @@
+<reference anchor="RFC3628" target="https://www.rfc-editor.org/info/rfc3628">
+  <front>
+    <title>Policy Requirements for Time-Stamping Authorities (TSAs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3628"/>
+    <seriesInfo name="RFC" value="3628"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Pinkas" fullname="D. Pinkas"/>
+    <author initials="N." surname="Pope" fullname="N. Pope"/>
+    <author initials="J." surname="Ross" fullname="J. Ross"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2003"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>tokens</keyword>
+    <keyword>public key certificates</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines requirements for a baseline time-stamp policy for Time-Stamping Authorities (TSAs) issuing time-stamp tokens, supported by public key certificates, with an accuracy of one second or better.  A TSA may define its own policy which enhances the policy defined in this document.  Such a policy shall incorporate or further constrain the requirements identified in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="RFC7053" target="https://www.rfc-editor.org/info/rfc7053">
+  <front>
+    <title>SACK-IMMEDIATELY Extension for the Stream Control Transmission Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7053"/>
+    <seriesInfo name="RFC" value="7053"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Tuexen" fullname="M. Tuexen"/>
+    <author initials="I." surname="Ruengeler" fullname="I. Ruengeler"/>
+    <author initials="R." surname="Stewart" fullname="R. Stewart"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2013"></date>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document updates RFC 4960 by defining a method for the sender of a DATA chunk to indicate that the corresponding Selective Acknowledgment (SACK) chunk should be sent back immediately and should not be delayed.  It is done by specifying a bit in the DATA chunk header, called the (I)mmediate bit, which can get set by either the Stream Control Transmission Protocol (SCTP) implementation or the application using an SCTP stack.  Since unknown flags in chunk headers are ignored by SCTP implementations, this extension does not introduce any interoperability problems.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

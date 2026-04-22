@@ -1,0 +1,29 @@
+<reference anchor="RFC7846" target="https://www.rfc-editor.org/info/rfc7846">
+  <front>
+    <title>Peer-to-Peer Streaming Tracker Protocol (PPSTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7846"/>
+    <seriesInfo name="RFC" value="7846"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Cruz" fullname="R. Cruz"/>
+    <author initials="M." surname="Nunes" fullname="M. Nunes"/>
+    <author initials="J." surname="Xia" fullname="J. Xia"/>
+    <author initials="R." surname="Huang" fullname="R. Huang" role="editor"/>
+    <author initials="J." surname="Taveira" fullname="J. Taveira"/>
+    <author initials="D." surname="Lingli" fullname="D. Lingli"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2016"></date>
+    <workgroup>Peer to Peer Streaming Protocol</workgroup>
+    <keyword>structured media</keyword>
+    <keyword>peer swarms control</keyword>
+    <keyword>live streaming</keyword>
+    <keyword>video on demand</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the base Peer-to-Peer Streaming Tracker Protocol (PPSTP) version 1, an application-layer control (signaling) protocol for the exchange of meta information between trackers and peers.  The specification outlines the architecture of the protocol and its functionality; it also describes message flows, message processing instructions, message formats, formal syntax, and semantics.  The PPSTP enables cooperating peers to form content-streaming overlay networks to support near real-time delivery of structured media content (audio, video, and associated timed text and metadata), such as adaptive multi-rate, layered (scalable), and multi-view (3D) videos in live, time-shifted, and on-demand modes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

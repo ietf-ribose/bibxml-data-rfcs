@@ -1,0 +1,27 @@
+<reference anchor="RFC5493" target="https://www.rfc-editor.org/info/rfc5493">
+  <front>
+    <title>Requirements for the Conversion between Permanent Connections and Switched Connections in a Generalized Multiprotocol Label Switching (GMPLS) Network</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5493"/>
+    <seriesInfo name="RFC" value="5493"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Caviglia" fullname="D. Caviglia"/>
+    <author initials="D." surname="Bramanti" fullname="D. Bramanti"/>
+    <author initials="D." surname="Li" fullname="D. Li"/>
+    <author initials="D." surname="McDysan" fullname="D. McDysan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2009"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>pc</keyword>
+    <keyword>spc</keyword>
+    <keyword>soft permanent connection</keyword>
+    <keyword>data plane traffic</keyword>
+    <abstract>
+      <t>&lt;p&gt;From a carrier perspective, the possibility of turning a permanent connection (PC) into a soft permanent connection (SPC) and vice versa, without actually affecting data plane traffic being carried over it, is a valuable option. In other terms, such operation can be seen as a way of transferring the ownership and control of an existing and in-use data plane connection between the management plane and the control plane, leaving its data plane state untouched.&lt;/p&gt;&lt;p&gt;This memo sets out the requirements for such procedures within a Generalized Multiprotocol Label Switching (GMPLS) network. This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

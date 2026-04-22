@@ -1,0 +1,29 @@
+<reference anchor="RFC9198" target="https://www.rfc-editor.org/info/rfc9198">
+  <front>
+    <title>Advanced Unidirectional Route Assessment (AURA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9198"/>
+    <seriesInfo name="RFC" value="9198"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Alvarez-Hamelin" fullname="J. Alvarez-Hamelin"/>
+    <author initials="A." surname="Morton" fullname="A. Morton"/>
+    <author initials="J." surname="Fabini" fullname="J. Fabini"/>
+    <author initials="C." surname="Pignataro" fullname="C. Pignataro"/>
+    <author initials="R." surname="Geib" fullname="R. Geib"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2022"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>Performance</keyword>
+    <keyword>Metrics</keyword>
+    <keyword>IPPM</keyword>
+    <keyword>path</keyword>
+    <keyword>parallel paths</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo introduces an advanced unidirectional route assessment (AURA) metric and associated measurement methodology based on the IP Performance Metrics (IPPM) framework (RFC 2330).  This memo updates RFC 2330 in the areas of path-related terminology and path description, primarily to include the possibility of parallel subpaths between a given Source and Destination pair, owing to the presence of multipath technologies.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

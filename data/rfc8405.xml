@@ -1,0 +1,25 @@
+<reference anchor="RFC8405" target="https://www.rfc-editor.org/info/rfc8405">
+  <front>
+    <title>Shortest Path First (SPF) Back-Off Delay Algorithm for Link-State IGPs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8405"/>
+    <seriesInfo name="RFC" value="8405"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author initials="P." surname="Francois" fullname="P. Francois"/>
+    <author initials="C." surname="Bowers" fullname="C. Bowers"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2018"></date>
+    <workgroup>Routing Area Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document defines a standard algorithm to temporarily postpone or "back off" link-state IGP Shortest Path First (SPF) computations. This reduces the computational load and churn on IGP nodes when multiple temporally close network events trigger multiple SPF computations.&lt;/p&gt;&lt;p&gt;Having one standard algorithm improves interoperability by reducing the probability and/or duration of transient forwarding loops during the IGP convergence when the IGP reacts to multiple temporally close IGP events.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

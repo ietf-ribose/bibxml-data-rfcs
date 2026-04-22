@@ -1,0 +1,27 @@
+<reference anchor="RFC7579" target="https://www.rfc-editor.org/info/rfc7579">
+  <front>
+    <title>General Network Element Constraint Encoding for GMPLS-Controlled Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7579"/>
+    <seriesInfo name="RFC" value="7579"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Bernstein" fullname="G. Bernstein" role="editor"/>
+    <author initials="Y." surname="Lee" fullname="Y. Lee" role="editor"/>
+    <author initials="D." surname="Li" fullname="D. Li"/>
+    <author initials="W." surname="Imajuku" fullname="W. Imajuku"/>
+    <author initials="J." surname="Han" fullname="J. Han"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2015"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>WSON</keyword>
+    <keyword>Optical Network Control</keyword>
+    <keyword>Protocol-agnostic encoding</keyword>
+    <abstract>
+      <t>&lt;p&gt;Generalized Multiprotocol Label Switching (GMPLS) can be used to control a wide variety of technologies. In some of these technologies, network elements and links may impose additional routing constraints such as asymmetric switch connectivity, non-local label assignment, and label range limitations on links.&lt;/p&gt;&lt;p&gt;This document provides efficient, protocol-agnostic encodings for general information elements representing connectivity and label constraints as well as label availability. It is intended that protocol-specific documents will reference this memo to describe how information is carried for specific uses.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

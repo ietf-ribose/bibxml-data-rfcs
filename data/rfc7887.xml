@@ -1,0 +1,24 @@
+<reference anchor="RFC7887" target="https://www.rfc-editor.org/info/rfc7887">
+  <front>
+    <title>Hierarchical Join/Prune Attributes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7887"/>
+    <seriesInfo name="RFC" value="7887"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Venaas" fullname="S. Venaas"/>
+    <author initials="J." surname="Arango" fullname="J. Arango"/>
+    <author initials="I." surname="Kouvelas" fullname="I. Kouvelas"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2016"></date>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>multicast</keyword>
+    <keyword>pim</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a hierarchical method of encoding Join/Prune attributes that provides a more efficient encoding when the same attribute values need to be specified for multiple sources in a PIM Join/Prune message.  This document updates RFC 5384 by renaming the encoding type registry specified there.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

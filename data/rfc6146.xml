@@ -1,0 +1,24 @@
+<reference anchor="RFC6146" target="https://www.rfc-editor.org/info/rfc6146">
+  <front>
+    <title>Stateful NAT64: Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6146"/>
+    <seriesInfo name="RFC" value="6146"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Bagnulo" fullname="M. Bagnulo"/>
+    <author initials="P." surname="Matthews" fullname="P. Matthews"/>
+    <author initials="I." surname="van Beijnum" fullname="I. van Beijnum"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2011"></date>
+    <workgroup>Behavior Engineering for Hindrance Avoidance</workgroup>
+    <keyword>NAT64</keyword>
+    <keyword>IPv6</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes stateful NAT64 translation, which allows IPv6-only clients to contact IPv4 servers using unicast UDP, TCP, or ICMP.  One or more public IPv4 addresses assigned to a NAT64 translator are shared among several IPv6-only clients.  When stateful NAT64 is used in conjunction with DNS64, no changes are usually required in the IPv6 client or the IPv4 server.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

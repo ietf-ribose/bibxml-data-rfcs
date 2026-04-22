@@ -1,0 +1,26 @@
+<reference anchor="RFC8127" target="https://www.rfc-editor.org/info/rfc8127">
+  <front>
+    <title>Mobile Access Gateway Configuration Parameters Controlled by the Local Mobility Anchor</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8127"/>
+    <seriesInfo name="RFC" value="8127"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Patki" fullname="D. Patki"/>
+    <author initials="S." surname="Gundavelli" fullname="S. Gundavelli"/>
+    <author initials="J." surname="Lee" fullname="J. Lee"/>
+    <author initials="Q." surname="Fu" fullname="Q. Fu"/>
+    <author initials="L." surname="Bertz" fullname="L. Bertz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2017"></date>
+    <workgroup>Distributed Mobility Management</workgroup>
+    <keyword>Binding Refresh</keyword>
+    <keyword>Heartbeat</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a new extension, LMA-Controlled-MAG-Session-Params, to Proxy Mobile IPv6.  This option can be used by the local mobility anchor (LMA) in a Proxy Mobile IPv6 domain for signaling a mobile access gateway (MAG) on enforcing specific values for various configuration parameters such as heartbeat and binding refresh parameters.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

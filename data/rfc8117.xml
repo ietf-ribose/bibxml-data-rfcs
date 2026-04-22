@@ -1,0 +1,22 @@
+<reference anchor="RFC8117" target="https://www.rfc-editor.org/info/rfc8117">
+  <front>
+    <title>Current Hostname Practice Considered Harmful</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8117"/>
+    <seriesInfo name="RFC" value="8117"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author initials="D." surname="Thaler" fullname="D. Thaler"/>
+    <author initials="R." surname="Winter" fullname="R. Winter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2017"></date>
+    <workgroup>Internet Area Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Giving a hostname to your computer and publishing it as you roam from one network to another is the Internet's equivalent of walking around with a name tag affixed to your lapel. This current practice can significantly compromise your privacy, and something should change in order to mitigate these privacy threats.&lt;/p&gt;&lt;p&gt;There are several possible remedies, such as fixing a variety of protocols or avoiding disclosing a hostname at all. This document describes some of the protocols that reveal hostnames today and sketches another possible remedy, which is to replace static hostnames by frequently changing randomized values.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

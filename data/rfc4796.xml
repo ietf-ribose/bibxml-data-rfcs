@@ -1,0 +1,23 @@
+<reference anchor="RFC4796" target="https://www.rfc-editor.org/info/rfc4796">
+  <front>
+    <title>The Session Description Protocol (SDP) Content Attribute</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4796"/>
+    <seriesInfo name="RFC" value="4796"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Hautakorpi" fullname="J. Hautakorpi"/>
+    <author initials="G." surname="Camarillo" fullname="G. Camarillo"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2007"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>media attribute</keyword>
+    <keyword>content</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new Session Description Protocol (SDP) media- level attribute, 'content'.  The 'content' attribute defines the content of the media stream to a more detailed level than the media description line.  The sender of an SDP session description can attach the 'content' attribute to one or more media streams.  The receiving application can then treat each media stream differently (e.g., show it on a big or small screen) based on its content. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="RFC7755" target="https://www.rfc-editor.org/info/rfc7755">
+  <front>
+    <title>SIIT-DC: Stateless IP/ICMP Translation for IPv6 Data Center Environments</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7755"/>
+    <seriesInfo name="RFC" value="7755"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Anderson" fullname="T. Anderson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2016"></date>
+    <workgroup>IPv6 Operations</workgroup>
+    <keyword>Data Centre</keyword>
+    <keyword>Data Center</keyword>
+    <keyword>Dual Stack</keyword>
+    <keyword>Single Stack</keyword>
+    <keyword>IDC</keyword>
+    <keyword>IPv4</keyword>
+    <keyword>IPv4 conservation</keyword>
+    <keyword>IPv4 exhaustion</keyword>
+    <keyword>IPv6-only</keyword>
+    <keyword>IPv6 only</keyword>
+    <keyword>IPv6 transition</keyword>
+    <keyword>IPv6 transition technology</keyword>
+    <keyword>XLAT</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes the use of the Stateless IP/ICMP Translation Algorithm (SIIT) in an IPv6 Internet Data Center (IDC). In this deployment model, traffic from legacy IPv4-only clients on the Internet is translated to IPv6 upon reaching the IDC operator's network infrastructure. From that point on, it may be treated the same as traffic from native IPv6 end users. The IPv6 endpoints may be numbered using arbitrary (non-IPv4-translatable) IPv6 addresses. This facilitates a single-stack IPv6-only network infrastructure, as well as efficient utilization of public IPv4 addresses.&lt;/p&gt;&lt;p&gt;The primary audience is IDC operators who are deploying IPv6, running out of available IPv4 addresses, and/or feeling that dual stack causes undesirable operational complexity.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC4055" target="https://www.rfc-editor.org/info/rfc4055">
+  <front>
+    <title>Additional Algorithms and Identifiers for RSA Cryptography for use in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4055"/>
+    <seriesInfo name="RFC" value="4055"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Schaad" fullname="J. Schaad"/>
+    <author initials="B." surname="Kaliski" fullname="B. Kaliski"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2005"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>ASN.1</keyword>
+    <keyword>RSASSA-PSS</keyword>
+    <keyword>RSA probabilistic signature scheme</keyword>
+    <keyword>signature algorithm</keyword>
+    <keyword>RSAES-OAEP</keyword>
+    <keyword>RSA encryption scheme optimal asymmetric encryption padding</keyword>
+    <keyword>public-key cryptography standards</keyword>
+    <keyword>PKCS</keyword>
+    <keyword>pki</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document supplements RFC 3279.  It describes the conventions for using the RSA Probabilistic Signature Scheme (RSASSA-PSS) signature algorithm, the RSA Encryption Scheme - Optimal Asymmetric Encryption Padding (RSAES-OAEP) key transport algorithm and additional one-way hash functions with the Public-Key Cryptography Standards (PKCS) #1 version 1.5 signature algorithm in the Internet X.509 Public Key Infrastructure (PKI).  Encoding formats, algorithm identifiers, and parameter formats are specified. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="RFC5761" target="https://www.rfc-editor.org/info/rfc5761">
+  <front>
+    <title>Multiplexing RTP Data and Control Packets on a Single Port</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5761"/>
+    <seriesInfo name="RFC" value="5761"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Perkins" fullname="C. Perkins"/>
+    <author initials="M." surname="Westerlund" fullname="M. Westerlund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2010"></date>
+    <workgroup>Audio/Video Transport</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This memo discusses issues that arise when multiplexing RTP data packets and RTP Control Protocol (RTCP) packets on a single UDP port.  It updates RFC 3550 and RFC 3551 to describe when such multiplexing is and is not appropriate, and it explains how the Session Description Protocol (SDP) can be used to signal multiplexed sessions. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

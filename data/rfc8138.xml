@@ -1,0 +1,23 @@
+<reference anchor="RFC8138" target="https://www.rfc-editor.org/info/rfc8138">
+  <front>
+    <title>IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Routing Header</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8138"/>
+    <seriesInfo name="RFC" value="8138"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Thubert" fullname="P. Thubert" role="editor"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author initials="L." surname="Toutain" fullname="L. Toutain"/>
+    <author initials="R." surname="Cragie" fullname="R. Cragie"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2017"></date>
+    <workgroup>Routing Over Low power and Lossy networks</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This specification introduces a new IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) dispatch type for use in 6LoWPAN route-over topologies, which initially covers the needs of Routing Protocol for Low-Power and Lossy Networks (RPL) data packet compression (RFC 6550).  Using this dispatch type, this specification defines a method to compress the RPL Option (RFC 6553) information and Routing Header type 3 (RFC 6554), an efficient IP-in-IP technique, and is extensible for more applications.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

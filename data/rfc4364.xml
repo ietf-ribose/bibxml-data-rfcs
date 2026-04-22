@@ -1,0 +1,35 @@
+<reference anchor="RFC4364" target="https://www.rfc-editor.org/info/rfc4364">
+  <front>
+    <title>BGP/MPLS IP Virtual Private Networks (VPNs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4364"/>
+    <seriesInfo name="RFC" value="4364"/>
+    <seriesInfo name="IETF"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <workgroup>Layer 3 Virtual Private Networks</workgroup>
+    <keyword>service provider</keyword>
+    <keyword>ip backbone</keyword>
+    <keyword>ce router</keyword>
+    <keyword>pe router</keyword>
+    <keyword>border</keyword>
+    <keyword>gateway</keyword>
+    <keyword>protocol</keyword>
+    <keyword>multiprotocol</keyword>
+    <keyword>label</keyword>
+    <keyword>switching</keyword>
+    <keyword>architecture</keyword>
+    <keyword>virtual</keyword>
+    <keyword>private</keyword>
+    <keyword>networks</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a method by which a Service Provider may use an IP backbone to provide IP Virtual Private Networks (VPNs) for its customers.  This method uses a "peer model", in which the customers' edge routers (CE routers) send their routes to the Service Provider's edge routers (PE routers); there is no "overlay" visible to the customer's routing algorithm, and CE routers at different sites do not peer with each other.  Data packets are tunneled through the backbone, so that the core routers do not need to know the VPN routes. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

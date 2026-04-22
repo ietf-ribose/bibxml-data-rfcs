@@ -1,0 +1,24 @@
+<reference anchor="RFC2991" target="https://www.rfc-editor.org/info/rfc2991">
+  <front>
+    <title>Multipath Issues in Unicast and Multicast Next-Hop Selection</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2991"/>
+    <seriesInfo name="RFC" value="2991"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="D." surname="Thaler" fullname="D. Thaler"/>
+    <author initials="C." surname="Hopps" fullname="C. Hopps"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2000"></date>
+    <keyword>routing</keyword>
+    <keyword>forwarding</keyword>
+    <keyword>packets</keyword>
+    <keyword>ECMP</keyword>
+    <abstract>
+      <t>&lt;p&gt;The effect of multipath routing on a forwarder is that the forwarder potentially has several next-hops for any given destination and must use some method to choose which next-hop should be used for a given data packet.  This memo summarizes current practices, problems, and solutions.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

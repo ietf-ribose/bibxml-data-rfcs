@@ -1,0 +1,31 @@
+<reference anchor="RFC3485" target="https://www.rfc-editor.org/info/rfc3485">
+  <front>
+    <title>The Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Static Dictionary for Signaling Compression (SigComp)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3485"/>
+    <seriesInfo name="RFC" value="3485"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Garcia-Martin" fullname="M. Garcia-Martin"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author initials="J." surname="Ott" fullname="J. Ott"/>
+    <author initials="R." surname="Price" fullname="R. Price"/>
+    <author initials="A. B." surname="Roach" fullname="A. B. Roach"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2003"></date>
+    <workgroup>Session Initiation Proposal Investigation</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Session Initiation Protocol</keyword>
+    <keyword>SDP</keyword>
+    <keyword>Session Description Protocol</keyword>
+    <keyword>SigComp</keyword>
+    <keyword>Static Dictionary for Signaling Compression</keyword>
+    <keyword>algorithm</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Session Initiation Protocol (SIP) is a text-based protocol for initiating and managing communication sessions.  The protocol can be compressed by using Signaling Compression (SigComp).  Similarly, the Session Description Protocol (SDP) is a text-based protocol intended for describing multimedia sessions for the purposes of session announcement, session invitation, and other forms of multimedia session initiation.  This memo defines the SIP/SDP-specific static dictionary that SigComp may use in order to achieve higher efficiency.  The dictionary is compression algorithm independent. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

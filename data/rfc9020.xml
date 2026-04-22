@@ -1,0 +1,25 @@
+<reference anchor="RFC9020" target="https://www.rfc-editor.org/info/rfc9020">
+  <front>
+    <title>YANG Data Model for Segment Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9020"/>
+    <seriesInfo name="RFC" value="9020"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="Y." surname="Qu" fullname="Y. Qu"/>
+    <author initials="A." surname="Lindem" fullname="A. Lindem"/>
+    <author initials="P." surname="Sarkar" fullname="P. Sarkar"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2021"></date>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>mpls</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines three YANG data models.  The first is for Segment Routing (SR) configuration and operation, which is to be augmented by different Segment Routing data planes.  The next is a YANG data model that defines a collection of generic types and groupings for SR.  The third module defines the configuration and operational states for the Segment Routing MPLS data plane.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="RFC5651" target="https://www.rfc-editor.org/info/rfc5651">
+  <front>
+    <title>Layered Coding Transport (LCT) Building Block</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5651"/>
+    <seriesInfo name="RFC" value="5651"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Luby" fullname="M. Luby"/>
+    <author initials="M." surname="Watson" fullname="M. Watson"/>
+    <author initials="L." surname="Vicisano" fullname="L. Vicisano"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2009"></date>
+    <workgroup>Reliable Multicast Transport</workgroup>
+    <keyword>FEC</keyword>
+    <keyword>reliable multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Layered Coding Transport (LCT) Building Block provides transport level support for reliable content delivery and stream delivery protocols.  LCT is specifically designed to support protocols using IP multicast, but it also provides support to protocols that use unicast.  LCT is compatible with congestion control that provides multiple rate delivery to receivers and is also compatible with coding techniques that provide reliable delivery of content.  This document obsoletes RFC 3451. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

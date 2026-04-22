@@ -1,0 +1,22 @@
+<reference anchor="RFC9390" target="https://www.rfc-editor.org/info/rfc9390">
+  <front>
+    <title>Diameter Group Signaling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9390"/>
+    <seriesInfo name="RFC" value="9390"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Jones" fullname="M. Jones"/>
+    <author initials="M." surname="Liebsch" fullname="M. Liebsch"/>
+    <author initials="L." surname="Morand" fullname="L. Morand"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2023"></date>
+    <workgroup>Diameter Maintenance and Extensions</workgroup>
+    <abstract>
+      <t>&lt;p&gt;In large network deployments, a single Diameter node can support over a million concurrent Diameter sessions.  In some use cases, Diameter nodes need to apply the same operation to a large group of Diameter sessions concurrently.  The Diameter base protocol commands operate on a single session so these use cases can result in many thousands of command exchanges enforcing the same operation on each session in the group.  In order to reduce signaling, it is desirable to enable bulk operations on all (or part of) the sessions managed by a Diameter node using a single or a few command exchanges.  This document specifies the Diameter protocol extensions to achieve this signaling optimization.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,44 @@
+<reference anchor="RFC9833" target="https://www.rfc-editor.org/info/rfc9833">
+  <front>
+    <title>A Common YANG Data Model for Attachment Circuits</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9833"/>
+    <seriesInfo name="RFC" value="9833"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="R." surname="Roberts" fullname="R. Roberts" role="editor"/>
+    <author initials="O." surname="Gonzalez de Dios" fullname="O. Gonzalez de Dios"/>
+    <author initials="S." surname="Barguil" fullname="S. Barguil"/>
+    <author initials="B." surname="Wu" fullname="B. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>Slice Service</keyword>
+    <keyword>L3VPN</keyword>
+    <keyword>L2VPN</keyword>
+    <keyword>Automation</keyword>
+    <keyword>Network Automation</keyword>
+    <keyword>Orchestration</keyword>
+    <keyword>service delivery</keyword>
+    <keyword>Service provisioning</keyword>
+    <keyword>service segmentation</keyword>
+    <keyword>service flexibility</keyword>
+    <keyword>service simplification</keyword>
+    <keyword>Network Service</keyword>
+    <keyword>3GPP</keyword>
+    <keyword>Network Slicing</keyword>
+    <abstract>
+      <t>&lt;p&gt;The document specifies a common attachment circuits (ACs) YANG data
+model, which is designed to be reusable by other models.  This design
+is meant to ensure consistent AC structures among models that
+manipulate ACs.  For example, this common model can be reused by
+service models to expose ACs as a service, service models that
+require binding a service to a set of ACs, network and device models
+to provision ACs, etc.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

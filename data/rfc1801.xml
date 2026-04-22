@@ -1,0 +1,27 @@
+<reference anchor="RFC1801" target="https://www.rfc-editor.org/info/rfc1801">
+  <front>
+    <title>MHS use of the X.500 Directory to support MHS Routing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1801"/>
+    <seriesInfo name="RFC" value="1801"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Kille" fullname="S. Kille"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="1995"></date>
+    <workgroup>MHS-DS</workgroup>
+    <keyword>Routing</keyword>
+    <keyword>Mail</keyword>
+    <keyword>EMail</keyword>
+    <keyword>Message</keyword>
+    <keyword>Handling</keyword>
+    <keyword>System</keyword>
+    <keyword>X.400</keyword>
+    <abstract>
+      <t>&lt;p&gt;The key problem in routing is to map from an O/R Address onto an MTA (next hop).  This shall be an MTA which in some sense is "nearer" to the destination UA.  This is done repeatedly until the message can be directly delivered to the recipient UA.  This memo defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

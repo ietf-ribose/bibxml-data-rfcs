@@ -1,0 +1,27 @@
+<reference anchor="RFC7521" target="https://www.rfc-editor.org/info/rfc7521">
+  <front>
+    <title>Assertion Framework for OAuth 2.0 Client Authentication and Authorization Grants</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7521"/>
+    <seriesInfo name="RFC" value="7521"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Campbell" fullname="B. Campbell"/>
+    <author initials="C." surname="Mortimore" fullname="C. Mortimore"/>
+    <author initials="M." surname="Jones" fullname="M. Jones"/>
+    <author initials="Y." surname="Goland" fullname="Y. Goland"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2015"></date>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <keyword>OAuth</keyword>
+    <keyword>SAML</keyword>
+    <keyword>JWT</keyword>
+    <keyword>Assertion</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification provides a framework for the use of assertions with OAuth 2.0 in the form of a new client authentication mechanism and a new authorization grant type. Mechanisms are specified for transporting assertions during interactions with a token endpoint; general processing rules are also specified.&lt;/p&gt;&lt;p&gt;The intent of this specification is to provide a common framework for OAuth 2.0 to interwork with other identity systems using assertions and to provide alternative client authentication mechanisms.&lt;/p&gt;&lt;p&gt;Note that this specification only defines abstract message flows and processing rules. In order to be implementable, companion specifications are necessary to provide the corresponding concrete instantiations.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

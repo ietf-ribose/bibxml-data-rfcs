@@ -1,0 +1,33 @@
+<reference anchor="RFC9175" target="https://www.rfc-editor.org/info/rfc9175">
+  <front>
+    <title>Constrained Application Protocol (CoAP): Echo, Request-Tag, and Token Processing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9175"/>
+    <seriesInfo name="RFC" value="9175"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Amsüss" fullname="C. Amsüss"/>
+    <author initials="J." surname="Preuß Mattsson" fullname="J. Preuß Mattsson"/>
+    <author initials="G." surname="Selander" fullname="G. Selander"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2022"></date>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>OSCORE</keyword>
+    <keyword>block-wise</keyword>
+    <keyword>DTLS</keyword>
+    <keyword>freshness</keyword>
+    <keyword>delay</keyword>
+    <keyword>denial-of-service</keyword>
+    <keyword>amplification</keyword>
+    <keyword>Message Body Integrity</keyword>
+    <keyword>Concurrent Block-Wise</keyword>
+    <keyword>Request-Response Binding</keyword>
+    <keyword>Token Reuse</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies enhancements to the Constrained Application Protocol (CoAP) that mitigate security issues in particular use cases.  The Echo option enables a CoAP server to verify the freshness of a request or to force a client to demonstrate reachability at its claimed network address.  The Request-Tag option allows the CoAP server to match block-wise message fragments belonging to the same request.  This document updates RFC 7252 with respect to the following: processing requirements for client Tokens, forbidding non-secure reuse of Tokens to ensure response-to-request binding when CoAP is used with a security protocol, and amplification mitigation (where the use of the Echo option is now recommended).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

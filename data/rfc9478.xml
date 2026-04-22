@@ -1,0 +1,24 @@
+<reference anchor="RFC9478" target="https://www.rfc-editor.org/info/rfc9478">
+  <front>
+    <title>Labeled IPsec Traffic Selector Support for the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9478"/>
+    <seriesInfo name="RFC" value="9478"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Wouters" fullname="P. Wouters"/>
+    <author initials="S." surname="Prasad" fullname="S. Prasad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2023"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>IKEv2</keyword>
+    <keyword>SPD</keyword>
+    <keyword>SAD</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a new Traffic Selector Type (TS Type) for the Internet Key Exchange Protocol version 2 (IKEv2) to add support for negotiating Mandatory Access Control (MAC) security labels as a Traffic Selector of the Security Policy Database (SPD).  Security Labels for IPsec are also known as "Labeled IPsec".  The new TS Type, TS_SECLABEL, consists of a variable length opaque field that specifies the security label.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

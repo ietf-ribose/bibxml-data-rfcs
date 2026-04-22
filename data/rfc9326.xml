@@ -1,0 +1,26 @@
+<reference anchor="RFC9326" target="https://www.rfc-editor.org/info/rfc9326">
+  <front>
+    <title>In Situ Operations, Administration, and Maintenance (IOAM) Direct Exporting</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9326"/>
+    <seriesInfo name="RFC" value="9326"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Song" fullname="H. Song"/>
+    <author initials="B." surname="Gafni" fullname="B. Gafni"/>
+    <author initials="F." surname="Brockners" fullname="F. Brockners"/>
+    <author initials="S." surname="Bhandari" fullname="S. Bhandari"/>
+    <author initials="T." surname="Mizrahi" fullname="T. Mizrahi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2022"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>IOAM</keyword>
+    <keyword>Telemetry</keyword>
+    <abstract>
+      <t>&lt;p&gt;In situ Operations, Administration, and Maintenance (IOAM) is used for recording and collecting operational and telemetry information.  Specifically, IOAM allows telemetry data to be pushed into data packets while they traverse the network.  This document introduces a new IOAM option type (denoted IOAM-Option-Type) called the "IOAM Direct Export (DEX) Option-Type".  This Option-Type is used as a trigger for IOAM data to be directly exported or locally aggregated without being pushed into in-flight data packets.  The exporting method and format are outside the scope of this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

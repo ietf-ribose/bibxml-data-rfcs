@@ -1,0 +1,29 @@
+<reference anchor="RFC6753" target="https://www.rfc-editor.org/info/rfc6753">
+  <front>
+    <title>A Location Dereference Protocol Using HTTP-Enabled Location Delivery (HELD)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6753"/>
+    <seriesInfo name="RFC" value="6753"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Winterbottom" fullname="J. Winterbottom"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2012"></date>
+    <workgroup>Geographic Location/Privacy</workgroup>
+    <keyword>HELD</keyword>
+    <keyword>Dereference</keyword>
+    <keyword>lbyr</keyword>
+    <keyword>HTTP</keyword>
+    <keyword>Location</keyword>
+    <keyword>GEOPRIV</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how to use the Hypertext Transfer Protocol (HTTP) over Transport Layer Security (TLS) as a dereference protocol to resolve a reference to a Presence Information Data Format Location Object (PIDF-LO).  This document assumes that a Location Recipient possesses a URI that can be used in conjunction with the HTTP-Enabled Location Delivery (HELD) protocol to request the location of the Target. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

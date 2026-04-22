@@ -1,0 +1,40 @@
+<reference anchor="RFC9788" target="https://www.rfc-editor.org/info/rfc9788">
+  <front>
+    <title>Header Protection for Cryptographically Protected Email</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9788"/>
+    <seriesInfo name="RFC" value="9788"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D. K." surname="Gillmor" fullname="D. K. Gillmor"/>
+    <author initials="B." surname="Hoeneisen" fullname="B. Hoeneisen"/>
+    <author initials="A." surname="Melnikov" fullname="A. Melnikov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>Header Protection</keyword>
+    <keyword>Header Confidentiality Policy</keyword>
+    <keyword>HCP</keyword>
+    <keyword>cryptographic email</keyword>
+    <keyword>email encryption</keyword>
+    <keyword>encryption</keyword>
+    <keyword>encrypt</keyword>
+    <keyword>signature</keyword>
+    <keyword>sign</keyword>
+    <keyword>S/MIME</keyword>
+    <keyword>PGP/MIME</keyword>
+    <keyword>Legacy Display</keyword>
+    <keyword>Legacy Display Element</keyword>
+    <keyword>MIME</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>HP-Outer</keyword>
+    <keyword>hp-legacy-display</keyword>
+    <keyword>hp</keyword>
+    <abstract>
+      <t>&lt;p&gt;S/MIME version 3.1 introduced a mechanism to provide end-to-end cryptographic protection of email message headers. However, few implementations generate messages using this mechanism, and several legacy implementations have revealed rendering or security issues when handling such a message.&lt;/p&gt;&lt;p&gt;This document updates the S/MIME specification (RFC 8551) to offer a different mechanism that provides the same cryptographic protections but with fewer downsides when handled by legacy clients. Furthermore, it offers more explicit usability, privacy, and security guidance for clients when generating or handling email messages with cryptographic protection of message headers.&lt;/p&gt;&lt;p&gt;The Header Protection scheme defined here is also applicable to messages with PGP/MIME (Pretty Good Privacy with MIME) cryptographic protections.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

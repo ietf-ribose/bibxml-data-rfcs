@@ -1,0 +1,24 @@
+<reference anchor="RFC9593" target="https://www.rfc-editor.org/info/rfc9593">
+  <front>
+    <title>Announcing Supported Authentication Methods in the Internet Key Exchange Protocol Version 2 (IKEv2)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9593"/>
+    <seriesInfo name="RFC" value="9593"/>
+    <seriesInfo name="IETF"/>
+    <author initials="V." surname="Smyslov" fullname="V. Smyslov"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2024"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>signature</keyword>
+    <keyword>digital signature</keyword>
+    <keyword>credentials</keyword>
+    <keyword>intermediate exchange</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines a mechanism that allows implementations of the Internet Key Exchange Protocol Version 2 (IKEv2) to indicate the list of supported authentication methods to their peers while establishing IKEv2 Security Associations (SAs).  This mechanism improves interoperability when IKEv2 partners are configured with multiple credentials of different types for authenticating each other.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

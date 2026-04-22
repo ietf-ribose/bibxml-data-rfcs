@@ -1,0 +1,27 @@
+<reference anchor="RFC2278" target="https://www.rfc-editor.org/info/rfc2278">
+  <front>
+    <title>IANA Charset Registration Procedures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2278"/>
+    <seriesInfo name="RFC" value="2278"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="N." surname="Freed" fullname="N. Freed"/>
+    <author initials="J." surname="Postel" fullname="J. Postel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1998"></date>
+    <keyword>character</keyword>
+    <keyword>set</keyword>
+    <keyword>mime</keyword>
+    <keyword>multipurpose</keyword>
+    <keyword>internet</keyword>
+    <keyword>mail</keyword>
+    <keyword>extensions</keyword>
+    <abstract>
+      <t>&lt;p&gt;MIME [RFC-2045, RFC-2046, RFC-2047, RFC-2184] and various other modern Internet protocols are capable of using many different charsets.  This in turn means that the ability to label different charsets is essential.  This registration procedure exists solely to associate a specific name or names with a given charset and to give an indication of whether or not a given charset can be used in MIME text objects.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

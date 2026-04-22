@@ -1,0 +1,21 @@
+<reference anchor="RFC9912" target="https://www.rfc-editor.org/info/rfc9912">
+  <front>
+    <title>Reliable and Available Wireless (RAW) Architecture</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9912"/>
+    <seriesInfo name="RFC" value="9912"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Thubert" fullname="P. Thubert" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2026"></date>
+    <workgroup>Deterministic Networking</workgroup>
+    <keyword>DetNet</keyword>
+    <abstract>
+      <t>&lt;p&gt;Reliable and Available Wireless (RAW) extends the reliability and availability of Deterministic Networking (DetNet) to networks composed of any combination of wired and wireless segments.  The RAW architecture leverages and extends RFC 8655 ("Deterministic Networking Architecture") to adapt to challenges that prominently affect the wireless medium, notably intermittent transmission loss.  This document defines a network control loop that optimizes the use of constrained bandwidth and energy while ensuring the expected DetNet services.  The loop involves a new Point of Local Repair (PLR) function in the DetNet Service sub-layer that dynamically selects the DetNet path(s) for packets to route around local connectivity degradation.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

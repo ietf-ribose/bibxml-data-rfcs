@@ -1,0 +1,26 @@
+<reference anchor="RFC5055" target="https://www.rfc-editor.org/info/rfc5055">
+  <front>
+    <title>Server-Based Certificate Validation Protocol (SCVP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5055"/>
+    <seriesInfo name="RFC" value="5055"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Freeman" fullname="T. Freeman"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author initials="A." surname="Malpani" fullname="A. Malpani"/>
+    <author initials="D." surname="Cooper" fullname="D. Cooper"/>
+    <author initials="W." surname="Polk" fullname="W. Polk"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2007"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>certification path construction</keyword>
+    <keyword>certification path validation</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Server-Based Certificate Validation Protocol (SCVP) allows a client to delegate certification path construction and certification path validation to a server.  The path construction or validation (e.g., making sure that none of the certificates in the path are revoked) is performed according to a validation policy, which contains one or more trust anchors.  It allows simplification of client implementations and use of a set of predefined validation policies. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

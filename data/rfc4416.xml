@@ -1,0 +1,39 @@
+<reference anchor="RFC4416" target="https://www.rfc-editor.org/info/rfc4416">
+  <front>
+    <title>Goals for Internet Messaging to Support Diverse Service Environments</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4416"/>
+    <seriesInfo name="RFC" value="4416"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Wong" fullname="J. Wong" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2006"></date>
+    <workgroup>Enhancements to Internet email to Support Diverse Service Environments</workgroup>
+    <keyword>IMAP</keyword>
+    <keyword>protocol extensions</keyword>
+    <keyword>messaging</keyword>
+    <keyword>wireless</keyword>
+    <keyword>handheld</keyword>
+    <keyword>telephone user interface</keyword>
+    <keyword>multi-modal</keyword>
+    <keyword>LEMONADE</keyword>
+    <keyword>extension principles</keyword>
+    <keyword>history</keyword>
+    <keyword>background</keyword>
+    <keyword>motivation</keyword>
+    <keyword>cellular</keyword>
+    <keyword>interworking</keyword>
+    <keyword>constraints</keyword>
+    <keyword>TUI</keyword>
+    <keyword>WUI</keyword>
+    <keyword>client</keyword>
+    <keyword>MMS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document is a history capturing the background, motivation and thinking during the LEMONADE definition and design process.&lt;/p&gt;&lt;p&gt;The LEMONADE Working Group -- Internet email to support diverse service environments -- is chartered to provide enhancements to Internet mail to facilitate its use by more diverse clients. In particular, by clients on hosts not only operating in environments with high latency/bandwidth-limited unreliable links but also constrained to limited resources. The enhanced mail must be backwards compatible with existing Internet mail.&lt;/p&gt;&lt;p&gt;The primary motivation for this effort is -- by making Internet mail protocols richer and more adaptable to varied media and environments -- to allow mobile handheld devices tetherless access to Internet mail using only IETF mail protocols.&lt;/p&gt;&lt;p&gt;The requirements for these devices drive a discussion of the possible protocol enhancements needed to support multimedia messaging on limited-capability hosts in diverse service environments. A list of general principles to guide the design of the enhanced messaging protocols is documented. Finally, additional issues of providing seamless service between enhanced Internet mail and the existing separate mobile messaging infrastructure are briefly listed. This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

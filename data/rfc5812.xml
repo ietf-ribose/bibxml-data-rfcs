@@ -1,0 +1,23 @@
+<reference anchor="RFC5812" target="https://www.rfc-editor.org/info/rfc5812">
+  <front>
+    <title>Forwarding and Control Element Separation (ForCES) Forwarding Element Model</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5812"/>
+    <seriesInfo name="RFC" value="5812"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Halpern" fullname="J. Halpern"/>
+    <author initials="J." surname="Hadi Salim" fullname="J. Hadi Salim"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2010"></date>
+    <workgroup>Forwarding and Control Element Separation</workgroup>
+    <keyword>forwarding element</keyword>
+    <keyword>control element</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the forwarding element (FE) model used in the Forwarding and Control Element Separation (ForCES) protocol.  The model represents the capabilities, state, and configuration of forwarding elements within the context of the ForCES protocol, so that control elements (CEs) can control the FEs accordingly.  More specifically, the model describes the logical functions that are present in an FE, what capabilities these functions support, and how these functions are or can be interconnected.  This FE model is intended to satisfy the model requirements specified in RFC 3654. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

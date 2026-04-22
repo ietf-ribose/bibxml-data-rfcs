@@ -1,0 +1,29 @@
+<reference anchor="RFC9572" target="https://www.rfc-editor.org/info/rfc9572">
+  <front>
+    <title>Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Procedures</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9572"/>
+    <seriesInfo name="RFC" value="9572"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="W." surname="Lin" fullname="W. Lin"/>
+    <author initials="J." surname="Rabadan" fullname="J. Rabadan"/>
+    <author initials="K." surname="Patel" fullname="K. Patel"/>
+    <author initials="A." surname="Sajassi" fullname="A. Sajassi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2024"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>per-region I-PMSI</keyword>
+    <keyword>selective multicast forwarding</keyword>
+    <keyword>tunnel segmentation</keyword>
+    <keyword>inter-AS segmentation</keyword>
+    <keyword>inter-region segmentation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies updated procedures for handling Broadcast, Unknown Unicast, or Multicast (BUM) traffic in Ethernet VPNs (EVPNs), including selective multicast and segmentation of provider tunnels.  This document updates RFC 7432.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

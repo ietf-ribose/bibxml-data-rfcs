@@ -1,0 +1,28 @@
+<reference anchor="RFC6960" target="https://www.rfc-editor.org/info/rfc6960">
+  <front>
+    <title>X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6960"/>
+    <seriesInfo name="RFC" value="6960"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Santesson" fullname="S. Santesson"/>
+    <author initials="M." surname="Myers" fullname="M. Myers"/>
+    <author initials="R." surname="Ankney" fullname="R. Ankney"/>
+    <author initials="A." surname="Malpani" fullname="A. Malpani"/>
+    <author initials="S." surname="Galperin" fullname="S. Galperin"/>
+    <author initials="C." surname="Adams" fullname="C. Adams"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2013"></date>
+    <workgroup>Public-Key Infrastructure (X.509)</workgroup>
+    <keyword>PKIX</keyword>
+    <keyword>digital security</keyword>
+    <keyword>ocsp</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a protocol useful in determining the current status of a digital certificate without requiring Certificate Revocation Lists (CRLs).  Additional mechanisms addressing PKIX operational requirements are specified in separate documents.  This document obsoletes RFCs 2560 and 6277.  It also updates RFC 5912.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

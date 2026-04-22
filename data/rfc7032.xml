@@ -1,0 +1,24 @@
+<reference anchor="RFC7032" target="https://www.rfc-editor.org/info/rfc7032">
+  <front>
+    <title>LDP Downstream-on-Demand in Seamless MPLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7032"/>
+    <seriesInfo name="RFC" value="7032"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Beckhaus" fullname="T. Beckhaus" role="editor"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author initials="K." surname="Tiruveedhula" fullname="K. Tiruveedhula"/>
+    <author initials="M." surname="Konstantynowicz" fullname="M. Konstantynowicz" role="editor"/>
+    <author initials="L." surname="Martini" fullname="L. Martini"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2013"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <abstract>
+      <t>&lt;p&gt;Seamless MPLS design enables a single IP/MPLS network to scale over core, metro, and access parts of a large packet network infrastructure using standardized IP/MPLS protocols. One of the key goals of Seamless MPLS is to meet requirements specific to access networks including high number of devices, device position in network topology, and compute and memory constraints that limit the amount of state access devices can hold. This can be achieved with LDP Downstream-on-Demand (DoD) label advertisement. This document describes LDP DoD use cases and lists required LDP DoD procedures in the context of Seamless MPLS design.&lt;/p&gt;&lt;p&gt;In addition, a new optional TLV type in the LDP Label Request message is defined for fast-up convergence.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

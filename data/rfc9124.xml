@@ -1,0 +1,24 @@
+<reference anchor="RFC9124" target="https://www.rfc-editor.org/info/rfc9124">
+  <front>
+    <title>A Manifest Information Model for Firmware Updates in Internet of Things (IoT) Devices</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9124"/>
+    <seriesInfo name="RFC" value="9124"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Moran" fullname="B. Moran"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2022"></date>
+    <workgroup>Software Updates for Internet of Things</workgroup>
+    <keyword>computer security</keyword>
+    <keyword>smart objects</keyword>
+    <abstract>
+      <t>&lt;p&gt;Vulnerabilities with Internet of Things (IoT) devices have raised the need for a reliable and secure firmware update mechanism that is also suitable for constrained devices. Ensuring that devices function and remain secure over their service lifetime requires such an update mechanism to fix vulnerabilities, update configuration settings, and add new functionality.&lt;/p&gt;&lt;p&gt;One component of such a firmware update is a concise and machine-processable metadata document, or manifest, that describes the firmware image(s) and offers appropriate protection. This document describes the information that must be present in the manifest.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

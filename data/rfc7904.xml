@@ -1,0 +1,34 @@
+<reference anchor="RFC7904" target="https://www.rfc-editor.org/info/rfc7904">
+  <front>
+    <title>A SIP Usage for REsource LOcation And Discovery (RELOAD)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7904"/>
+    <seriesInfo name="RFC" value="7904"/>
+    <seriesInfo name="IETF"/>
+    <author initials="C." surname="Jennings" fullname="C. Jennings"/>
+    <author initials="B." surname="Lowekamp" fullname="B. Lowekamp"/>
+    <author initials="E." surname="Rescorla" fullname="E. Rescorla"/>
+    <author initials="S." surname="Baset" fullname="S. Baset"/>
+    <author initials="H." surname="Schulzrinne" fullname="H. Schulzrinne"/>
+    <author initials="T." surname="Schmidt" fullname="T. Schmidt" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2016"></date>
+    <workgroup>Peer-to-Peer Session Initiation Protocol</workgroup>
+    <keyword>p2psip</keyword>
+    <keyword>p2p</keyword>
+    <keyword>sip</keyword>
+    <keyword>reload</keyword>
+    <keyword>peer-to-peer</keyword>
+    <keyword>session initiation</keyword>
+    <keyword>distributed session management</keyword>
+    <keyword>overlay network</keyword>
+    <keyword>SIP registrar</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a SIP Usage for REsource LOcation And Discovery (RELOAD).  The SIP Usage provides the functionality of a SIP proxy or registrar in a fully distributed system and includes a lookup service for Address of Records (AORs) stored in the overlay.  It also defines Globally Routable User Agent URIs (GRUUs) that allow the registrations to map an AOR to a specific node reachable through the overlay.  After such initial contact of a Peer, the RELOAD AppAttach method is used to establish a direct connection between nodes through which SIP messages are exchanged.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

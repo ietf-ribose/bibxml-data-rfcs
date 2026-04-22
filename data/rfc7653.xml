@@ -1,0 +1,26 @@
+<reference anchor="RFC7653" target="https://www.rfc-editor.org/info/rfc7653">
+  <front>
+    <title>DHCPv6 Active Leasequery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7653"/>
+    <seriesInfo name="RFC" value="7653"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Raghuvanshi" fullname="D. Raghuvanshi"/>
+    <author initials="K." surname="Kinnear" fullname="K. Kinnear"/>
+    <author initials="D." surname="Kukrety" fullname="D. Kukrety"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2015"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <keyword>DHCP</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>ACTIVELEASEQUERY</keyword>
+    <keyword>DHCPv6</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) has been extended with a Leasequery capability that allows a requestor to request information about DHCPv6 bindings.  That mechanism is limited to queries for DHCPv6 binding data updates prior to the time the DHCPv6 server receives the Leasequery request.  Continuous update of an external requestor with Leasequery data is sometimes desired.  This document expands on the DHCPv6 Leasequery protocol and allows for active transfer of real-time DHCPv6 binding information data via TCP.  This document also updates DHCPv6 Bulk Leasequery (RFC 5460) by adding new options.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

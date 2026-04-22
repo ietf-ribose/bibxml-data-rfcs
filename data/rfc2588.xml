@@ -1,0 +1,25 @@
+<reference anchor="RFC2588" target="https://www.rfc-editor.org/info/rfc2588">
+  <front>
+    <title>IP Multicast and Firewalls</title>
+    <seriesInfo name="DOI" value="10.17487/RFC2588"/>
+    <seriesInfo name="RFC" value="2588"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Finlayson" fullname="R. Finlayson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="1999"></date>
+    <workgroup>MBONE Deployment</workgroup>
+    <keyword>Internet</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>security</keyword>
+    <keyword>gateway</keyword>
+    <keyword>traffic</keyword>
+    <abstract>
+      <t>&lt;p&gt;In this document, we discuss the issues surrounding the traversal of IP multicast traffic across a firewall, and describe possible ways in which a firewall can implement and control this traversal.  We also explain why some firewall mechanisms - such as SOCKS - that were designed specifically for unicast traffic, are less appropriate for multicast.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

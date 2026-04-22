@@ -1,0 +1,23 @@
+<reference anchor="RFC9879" target="https://www.rfc-editor.org/info/rfc9879">
+  <front>
+    <title>Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS #12 Syntax</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9879"/>
+    <seriesInfo name="RFC" value="9879"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Kario" fullname="A. Kario"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2025"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>pbmac1</keyword>
+    <keyword>pkcs12</keyword>
+    <keyword>pbkdf2</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies additions and amendments to RFCs 7292 and 8018.  It also obsoletes the RFC 9579.  It defines a way to use the Password-Based Message Authentication Code 1 (PBMAC1), defined in RFC 8018, inside the PKCS #12 syntax.  The purpose of this specification is to permit the use of more modern Password-Based Key Derivation Functions (PBKDFs) and allow for regulatory compliance.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

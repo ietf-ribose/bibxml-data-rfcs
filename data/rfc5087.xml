@@ -1,0 +1,28 @@
+<reference anchor="RFC5087" target="https://www.rfc-editor.org/info/rfc5087">
+  <front>
+    <title>Time Division Multiplexing over IP (TDMoIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5087"/>
+    <seriesInfo name="RFC" value="5087"/>
+    <seriesInfo name="IETF"/>
+    <author surname="Y(J). Stein" fullname="Y(J). Stein"/>
+    <author initials="R." surname="Shashoua" fullname="R. Shashoua"/>
+    <author initials="R." surname="Insler" fullname="R. Insler"/>
+    <author initials="M." surname="Anavi" fullname="M. Anavi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2007"></date>
+    <workgroup>Pseudowire Emulation Edge to Edge</workgroup>
+    <keyword>TDM</keyword>
+    <keyword>pseudowire</keyword>
+    <keyword>PWE3</keyword>
+    <keyword>TDMoIP</keyword>
+    <keyword>structure-aware TDM emulation</keyword>
+    <abstract>
+      <t>&lt;p&gt;Time Division Multiplexing over IP (TDMoIP) is a structure-aware method for transporting Time Division Multiplexed (TDM) signals using pseudowires (PWs).  Being structure-aware, TDMoIP is able to ensure TDM structure integrity, and thus withstand network degradations better than structure-agnostic transport.  Structure-aware methods can distinguish individual channels, enabling packet loss concealment and bandwidth conservation.  Accessibility of TDM signaling facilitates mechanisms that exploit or manipulate signaling.  This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

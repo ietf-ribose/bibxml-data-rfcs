@@ -1,0 +1,30 @@
+<reference anchor="RFC6777" target="https://www.rfc-editor.org/info/rfc6777">
+  <front>
+    <title>Label Switched Path (LSP) Data Path Delay Metrics in Generalized MPLS and MPLS Traffic Engineering (MPLS-TE) Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6777"/>
+    <seriesInfo name="RFC" value="6777"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Sun" fullname="W. Sun" role="editor"/>
+    <author initials="G." surname="Zhang" fullname="G. Zhang" role="editor"/>
+    <author initials="J." surname="Gao" fullname="J. Gao"/>
+    <author initials="G." surname="Xie" fullname="G. Xie"/>
+    <author initials="R." surname="Papneja" fullname="R. Papneja"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2012"></date>
+    <workgroup>Common Control and Measurement Plane</workgroup>
+    <keyword>Provisioning performance</keyword>
+    <keyword>Performance measurement</keyword>
+    <keyword>UNI</keyword>
+    <keyword>Bandwidth on Demand</keyword>
+    <keyword>performance evaluation</keyword>
+    <keyword>Measurement methodologies</keyword>
+    <abstract>
+      <t>&lt;p&gt;When setting up a Label Switched Path (LSP) in Generalized MPLS (GMPLS) and MPLS Traffic Engineering (MPLS-TE) networks, the completion of the signaling process does not necessarily mean that the cross-connection along the LSP has been programmed accordingly and in a timely manner.  Meanwhile, the completion of the signaling process may be used by LSP users or applications that control their use as an indication that the data path has become usable.  The existence of the inconsistency between the signaling messages and cross-connection programming, and the possible failure of cross- connection programming, if not properly treated, will result in data loss or even application failure.  Characterization of this performance can thus help designers to improve the way in which LSPs are used and to make applications or tools that depend on and use LSPs more robust.  This document defines a series of performance metrics to evaluate the connectivity of the data path in the signaling process. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

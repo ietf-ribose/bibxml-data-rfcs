@@ -1,0 +1,27 @@
+<reference anchor="RFC9626" target="https://www.rfc-editor.org/info/rfc9626">
+  <front>
+    <title>Video Frame Marking RTP Header Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9626"/>
+    <seriesInfo name="RFC" value="9626"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Zanaty" fullname="M. Zanaty"/>
+    <author initials="E." surname="Berger" fullname="E. Berger"/>
+    <author initials="S." surname="Nandakumar" fullname="S. Nandakumar"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2025"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>Scalable video</keyword>
+    <keyword>H.264</keyword>
+    <keyword>H.265</keyword>
+    <keyword>VP9</keyword>
+    <keyword>layered video</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a Video Frame Marking RTP header extension used to convey information about video frames that is critical for error recovery and packet forwarding in RTP middleboxes or network nodes.  It is most useful when media is encrypted and essential when the middlebox or node has no access to the media decryption keys.  It is also useful for codec-agnostic processing of encrypted or unencrypted media, while it also supports extensions for codec-specific information.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

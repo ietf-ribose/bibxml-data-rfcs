@@ -1,0 +1,38 @@
+<reference anchor="RFC8512" target="https://www.rfc-editor.org/info/rfc8512">
+  <front>
+    <title>A YANG Module for Network Address Translation (NAT) and Network Prefix Translation (NPT)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8512"/>
+    <seriesInfo name="RFC" value="8512"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="S." surname="Sivakumar" fullname="S. Sivakumar"/>
+    <author initials="C." surname="Jacquenet" fullname="C. Jacquenet"/>
+    <author initials="S." surname="Vinapamula" fullname="S. Vinapamula"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2019"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>address sharing</keyword>
+    <keyword>address depletion</keyword>
+    <keyword>IPv4 service continuity</keyword>
+    <keyword>NETCONF</keyword>
+    <keyword>programmability</keyword>
+    <keyword>automation</keyword>
+    <keyword>service automation</keyword>
+    <keyword>NPTv6</keyword>
+    <keyword>SIIT</keyword>
+    <keyword>NAT64</keyword>
+    <keyword>CLAT</keyword>
+    <keyword>Destination NAT</keyword>
+    <keyword>Port Restricted NAT</keyword>
+    <keyword>Port Range</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a YANG module for the Network Address Translation (NAT) function.&lt;/p&gt;&lt;p&gt;Network Address Translation from IPv4 to IPv4 (NAT44), Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers (NAT64), customer-side translator (CLAT), Stateless IP/ICMP Translation (SIIT), Explicit Address Mappings (EAM) for SIIT, IPv6-to-IPv6 Network Prefix Translation (NPTv6), and Destination NAT are covered in this document.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

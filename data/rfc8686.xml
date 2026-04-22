@@ -1,0 +1,24 @@
+<reference anchor="RFC8686" target="https://www.rfc-editor.org/info/rfc8686">
+  <front>
+    <title>Application-Layer Traffic Optimization (ALTO) Cross-Domain Server Discovery</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8686"/>
+    <seriesInfo name="RFC" value="8686"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Kiesel" fullname="S. Kiesel"/>
+    <author initials="M." surname="Stiemerling" fullname="M. Stiemerling"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2020"></date>
+    <workgroup>Application-Layer Traffic Optimization</workgroup>
+    <keyword>Application-Layer Traffic Optimization (ALTO)</keyword>
+    <keyword>ALTO cross-domain server discovery</keyword>
+    <keyword>ALTO third-party server discovery</keyword>
+    <abstract>
+      <t>&lt;p&gt;The goal of Application-Layer Traffic Optimization (ALTO) is to provide guidance to applications that have to select one or several hosts from a set of candidates capable of providing a desired resource. ALTO is realized by a client-server protocol. Before an ALTO client can ask for guidance, it needs to discover one or more ALTO servers that can provide suitable guidance.&lt;/p&gt;&lt;p&gt;In some deployment scenarios, in particular if the information about the network topology is partitioned and distributed over several ALTO servers, it may be necessary to discover an ALTO server outside of the ALTO client's own network domain, in order to get appropriate guidance. This document details applicable scenarios, itemizes requirements, and specifies a procedure for ALTO cross-domain server discovery.&lt;/p&gt;&lt;p&gt;Technically, the procedure specified in this document takes one IP address or prefix and a U-NAPTR Service Parameter (typically, "ALTO:https") as parameters. It performs DNS lookups (for NAPTR resource records in the "in-addr.arpa." or "ip6.arpa." trees) and returns one or more URIs of information resources related to that IP address or prefix.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

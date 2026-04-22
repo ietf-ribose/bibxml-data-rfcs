@@ -1,0 +1,28 @@
+<reference anchor="RFC8659" target="https://www.rfc-editor.org/info/rfc8659">
+  <front>
+    <title>DNS Certification Authority Authorization (CAA) Resource Record</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8659"/>
+    <seriesInfo name="RFC" value="8659"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Hallam-Baker" fullname="P. Hallam-Baker"/>
+    <author initials="R." surname="Stradling" fullname="R. Stradling"/>
+    <author initials="J." surname="Hoffman-Andrews" fullname="J. Hoffman-Andrews"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2019"></date>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>certificate</keyword>
+    <keyword>ca</keyword>
+    <keyword>pki</keyword>
+    <keyword>issue</keyword>
+    <keyword>issuance</keyword>
+    <keyword>wildcard</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Certification Authority Authorization (CAA) DNS Resource Record allows a DNS domain name holder to specify one or more Certification Authorities (CAs) authorized to issue certificates for that domain name. CAA Resource Records allow a public CA to implement additional controls to reduce the risk of unintended certificate mis-issue. This document defines the syntax of the CAA record and rules for processing CAA records by CAs.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 6844.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

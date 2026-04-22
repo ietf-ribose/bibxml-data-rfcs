@@ -1,0 +1,31 @@
+<reference anchor="RFC9781" target="https://www.rfc-editor.org/info/rfc9781">
+  <front>
+    <title>A Concise Binary Object Representation (CBOR) Tag for Unprotected CBOR Web Token Claims Sets (UCCS)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9781"/>
+    <seriesInfo name="RFC" value="9781"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author initials="J." surname="O'Donoghue" fullname="J. O'Donoghue"/>
+    <author initials="N." surname="Cam-Winget" fullname="N. Cam-Winget"/>
+    <author initials="C." surname="Bormann" fullname="C. Bormann"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2025"></date>
+    <workgroup>Remote ATtestation ProcedureS</workgroup>
+    <keyword>Secure Channel</keyword>
+    <keyword>RATS</keyword>
+    <keyword>Conceptual Message Conveyance</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>Confidentiality</keyword>
+    <keyword>CDDL</keyword>
+    <keyword>EAT</keyword>
+    <keyword>UJCS</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the Unprotected CWT Claims Set (UCCS), a data format for representing a CBOR Web Token (CWT) Claims Set without protecting it by a signature, Message Authentication Code (MAC), or encryption.  UCCS enables the use of CWT claims in environments where protection is provided by other means, such as secure communication channels or trusted execution environments.  This specification defines a CBOR tag for UCCS and describes the UCCS format, its encoding, and its processing considerations.  It also discusses security implications of using unprotected claims sets.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

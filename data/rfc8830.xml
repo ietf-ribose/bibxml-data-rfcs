@@ -1,0 +1,21 @@
+<reference anchor="RFC8830" target="https://www.rfc-editor.org/info/rfc8830">
+  <front>
+    <title>WebRTC MediaStream Identification in the Session Description Protocol</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8830"/>
+    <seriesInfo name="RFC" value="8830"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Alvestrand" fullname="H. Alvestrand"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2021"></date>
+    <workgroup>Multiparty Multimedia Session Control</workgroup>
+    <keyword>MediaStreamTrack</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies a Session Description Protocol (SDP) grouping mechanism for RTP media streams that can be used to specify relations between media streams.&lt;/p&gt;&lt;p&gt;This mechanism is used to signal the association between the SDP concept of "media description" and the Web Real-Time Communication (WebRTC) concept of MediaStream/MediaStreamTrack using SDP signaling.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="RFC8595" target="https://www.rfc-editor.org/info/rfc8595">
+  <front>
+    <title>An MPLS-Based Forwarding Plane for Service Function Chaining</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8595"/>
+    <seriesInfo name="RFC" value="8595"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author initials="J." surname="Drake" fullname="J. Drake"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2019"></date>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>SFC</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>Service Function Chaining</keyword>
+    <keyword>NSH</keyword>
+    <keyword>Network Service Header</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>Multiprotocol Label Switching</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how Service Function Chaining (SFC) can be achieved in an MPLS network by means of a logical representation of the Network Service Header (NSH) in an MPLS label stack.  That is, the NSH is not used, but the fields of the NSH are mapped to fields in the MPLS label stack.  This approach does not deprecate or replace the NSH, but it acknowledges that there may be a need for an interim deployment of SFC functionality in brownfield networks.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

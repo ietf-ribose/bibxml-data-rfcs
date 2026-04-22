@@ -1,0 +1,28 @@
+<reference anchor="RFC8290" target="https://www.rfc-editor.org/info/rfc8290">
+  <front>
+    <title>The Flow Queue CoDel Packet Scheduler and Active Queue Management Algorithm</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8290"/>
+    <seriesInfo name="RFC" value="8290"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Hoeiland-Joergensen" fullname="T. Hoeiland-Joergensen"/>
+    <author initials="P." surname="McKenney" fullname="P. McKenney"/>
+    <author initials="D." surname="Taht" fullname="D. Taht"/>
+    <author initials="J." surname="Gettys" fullname="J. Gettys"/>
+    <author initials="E." surname="Dumazet" fullname="E. Dumazet"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2018"></date>
+    <workgroup>Active Queue Management and Packet Scheduling</workgroup>
+    <keyword>bufferbloat</keyword>
+    <keyword>aqm</keyword>
+    <keyword>fq_codel</keyword>
+    <keyword>fq-codel</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo presents the FQ-CoDel hybrid packet scheduler and Active Queue Management (AQM) algorithm, a powerful tool for fighting bufferbloat and reducing latency.&lt;/p&gt;&lt;p&gt;FQ-CoDel mixes packets from multiple flows and reduces the impact of head-of-line blocking from bursty traffic. It provides isolation for low-rate traffic such as DNS, web, and videoconferencing traffic. It improves utilisation across the networking fabric, especially for bidirectional traffic, by keeping queue lengths short, and it can be implemented in a memory- and CPU-efficient fashion across a wide range of hardware.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

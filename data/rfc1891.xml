@@ -1,0 +1,25 @@
+<reference anchor="RFC1891" target="https://www.rfc-editor.org/info/rfc1891">
+  <front>
+    <title>SMTP Service Extension for Delivery Status Notifications</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1891"/>
+    <seriesInfo name="RFC" value="1891"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Moore" fullname="K. Moore"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="1996"></date>
+    <workgroup>Notifications and Acknowledgements Requirements</workgroup>
+    <keyword>SMTP-DSN</keyword>
+    <keyword>simple</keyword>
+    <keyword>mail</keyword>
+    <keyword>transfer</keyword>
+    <keyword>protocol</keyword>
+    <abstract>
+      <t>&lt;p&gt;This memo defines an extension to the SMTP service, which allows an SMTP client to specify (a) that delivery status notifications (DSNs) should be generated under certain conditions, (b) whether such notifications should return the contents of the message, and (c) additional information, to be returned with a DSN, that allows the sender to identify both the recipient(s) for which the DSN was issued, and the transaction in which the original message was sent. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

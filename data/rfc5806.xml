@@ -1,0 +1,20 @@
+<reference anchor="RFC5806" target="https://www.rfc-editor.org/info/rfc5806">
+  <front>
+    <title>Diversion Indication in SIP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5806"/>
+    <seriesInfo name="RFC" value="5806"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="S." surname="Levy" fullname="S. Levy"/>
+    <author initials="M." surname="Mohali" fullname="M. Mohali" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2010"></date>
+    <abstract>
+      <t>&lt;p&gt;This RFC, which contains the text of an Internet Draft that was submitted originally to the SIP Working Group, is being published now for the historical record and to provide a reference for later Informational RFCs. The original Abstract follows.&lt;/p&gt;&lt;p&gt;This document proposes an extension to the Session Initiation Protocol (SIP). This extension provides the ability for the called SIP user agent to identify from whom the call was diverted and why the call was diverted. The extension defines a general header, Diversion, which conveys the diversion information from other SIP user agents and proxies to the called user agent.&lt;/p&gt;&lt;p&gt;This extension allows enhanced support for various features, including Unified Messaging, Third-Party Voicemail, and Automatic Call Distribution (ACD). SIP user agents and SIP proxies that receive diversion information may use this as supplemental information for feature invocation decisions. This document defines a Historic Document for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

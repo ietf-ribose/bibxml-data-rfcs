@@ -1,0 +1,25 @@
+<reference anchor="RFC4915" target="https://www.rfc-editor.org/info/rfc4915">
+  <front>
+    <title>Multi-Topology (MT) Routing in OSPF</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4915"/>
+    <seriesInfo name="RFC" value="4915"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="S." surname="Mirtorabi" fullname="S. Mirtorabi"/>
+    <author initials="A." surname="Roy" fullname="A. Roy"/>
+    <author initials="L." surname="Nguyen" fullname="L. Nguyen"/>
+    <author initials="P." surname="Pillay-Esnault" fullname="P. Pillay-Esnault"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2007"></date>
+    <workgroup>Open Shortest Path First IGP</workgroup>
+    <keyword>open shortest path first</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an extension to Open Shortest Path First (OSPF) in order to define independent IP topologies called Multi- Topologies (MTs). The Multi-Topologies extension can be used for computing different paths for unicast traffic, multicast traffic, different classes of service based on flexible criteria, or an in- band network management topology.&lt;/p&gt;&lt;p&gt;An optional extension to exclude selected links from the default topology is also described. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

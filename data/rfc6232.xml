@@ -1,0 +1,29 @@
+<reference anchor="RFC6232" target="https://www.rfc-editor.org/info/rfc6232">
+  <front>
+    <title>Purge Originator Identification TLV for IS-IS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6232"/>
+    <seriesInfo name="RFC" value="6232"/>
+    <seriesInfo name="IETF"/>
+    <author initials="F." surname="Wei" fullname="F. Wei"/>
+    <author initials="Y." surname="Qin" fullname="Y. Qin"/>
+    <author initials="Z." surname="Li" fullname="Z. Li"/>
+    <author initials="T." surname="Li" fullname="T. Li"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2011"></date>
+    <workgroup>IS-IS for IP Internets</workgroup>
+    <keyword>Purge Originator Identification</keyword>
+    <keyword>IIH:n</keyword>
+    <keyword>LSP:y</keyword>
+    <keyword>SNP:n</keyword>
+    <keyword>Purge:y</keyword>
+    <abstract>
+      <t>&lt;p&gt;At present, an IS-IS purge does not contain any information identifying the Intermediate System (IS) that generates the purge. This makes it difficult to locate the source IS.&lt;/p&gt;&lt;p&gt;To address this issue, this document defines a TLV to be added to purges to record the system ID of the IS generating it. Since normal Link State Protocol Data Unit (LSP) flooding does not change LSP contents, this TLV should propagate with the purge.&lt;/p&gt;&lt;p&gt;This document updates RFC 5301, RFC 5304, and RFC 5310. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

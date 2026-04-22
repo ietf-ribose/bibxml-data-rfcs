@@ -1,0 +1,31 @@
+<reference anchor="RFC7989" target="https://www.rfc-editor.org/info/rfc7989">
+  <front>
+    <title>End-to-End Session Identification in IP-Based Multimedia Communication Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7989"/>
+    <seriesInfo name="RFC" value="7989"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Jones" fullname="P. Jones"/>
+    <author initials="G." surname="Salgueiro" fullname="G. Salgueiro"/>
+    <author initials="C." surname="Pearce" fullname="C. Pearce"/>
+    <author initials="P." surname="Giralt" fullname="P. Giralt"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2016"></date>
+    <workgroup>INtermediary-safe SIP session ID</workgroup>
+    <keyword>SIP</keyword>
+    <keyword>Session Initiation Protocol</keyword>
+    <keyword>troubleshooting</keyword>
+    <keyword>Session-ID</keyword>
+    <keyword>session identifier</keyword>
+    <keyword>H460.27</keyword>
+    <keyword>remote parameter</keyword>
+    <keyword>UUID</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an end-to-end session identifier for use in IP-based multimedia communication systems that enables endpoints, intermediary devices, and management systems to identify a session end-to-end, associate multiple endpoints with a given multipoint conference, track communication sessions when they are redirected, and associate one or more media flows with a given communication session. While the identifier is intended to work across multiple protocols, this document describes its usage in the Session Initiation Protocol (SIP).&lt;/p&gt;&lt;p&gt;This document also describes a backwards-compatibility mechanism for an existing session identifier implementation (RFC 7329) that is sufficiently different from the procedures defined in this document.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 7329.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

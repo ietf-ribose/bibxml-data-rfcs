@@ -1,0 +1,27 @@
+<reference anchor="RFC7303" target="https://www.rfc-editor.org/info/rfc7303">
+  <front>
+    <title>XML Media Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7303"/>
+    <seriesInfo name="RFC" value="7303"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Thompson" fullname="H. Thompson"/>
+    <author initials="C." surname="Lilley" fullname="C. Lilley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2014"></date>
+    <workgroup>ART Area General Applications Working Group</workgroup>
+    <keyword>application/xml</keyword>
+    <keyword>application/xml-external-parsed-entity</keyword>
+    <keyword>application/xml-dtd</keyword>
+    <keyword>text/xml</keyword>
+    <keyword>text/xml-external-parsed-entity</keyword>
+    <keyword>+xml</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification standardizes three media types -- application/xml, application/xml-external-parsed-entity, and application/xml-dtd -- for use in exchanging network entities that are related to the Extensible Markup Language (XML) while defining text/xml and text/ xml-external-parsed-entity as aliases for the respective application/ types.  This specification also standardizes the '+xml' suffix for naming media types outside of these five types when those media types represent XML MIME entities.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

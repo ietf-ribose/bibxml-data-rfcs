@@ -1,0 +1,26 @@
+<reference anchor="RFC8800" target="https://www.rfc-editor.org/info/rfc8800">
+  <front>
+    <title>Path Computation Element Communication Protocol (PCEP) Extension for Label Switched Path (LSP) Diversity Constraint Signaling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8800"/>
+    <seriesInfo name="RFC" value="8800"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="S." surname="Sivabalan" fullname="S. Sivabalan"/>
+    <author initials="C." surname="Barth" fullname="C. Barth"/>
+    <author initials="M." surname="Negi" fullname="M. Negi"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2020"></date>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>Disjoint</keyword>
+    <keyword>disjointness</keyword>
+    <keyword>association</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document introduces a simple mechanism to associate a group of Label Switched Paths (LSPs) via an extension to the Path Computation Element Communication Protocol (PCEP) with the purpose of computing diverse (disjointed) paths for those LSPs.  The proposed extension allows a Path Computation Client (PCC) to advertise to a Path Computation Element (PCE) that a particular LSP belongs to a particular Disjoint Association Group; thus, the PCE knows that the LSPs in the same group need to be disjoint from each other.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

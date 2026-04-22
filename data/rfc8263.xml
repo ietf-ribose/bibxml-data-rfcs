@@ -1,0 +1,23 @@
+<reference anchor="RFC8263" target="https://www.rfc-editor.org/info/rfc8263">
+  <front>
+    <title>Group Domain of Interpretation (GDOI) GROUPKEY-PUSH Acknowledgement Message</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8263"/>
+    <seriesInfo name="RFC" value="8263"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Weis" fullname="B. Weis"/>
+    <author initials="U." surname="Mangla" fullname="U. Mangla"/>
+    <author initials="T." surname="Karl" fullname="T. Karl"/>
+    <author initials="N." surname="Maheshwari" fullname="N. Maheshwari"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2017"></date>
+    <keyword>multicast security</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Group Domain of Interpretation (GDOI) includes the ability of a Group Controller/Key Server (GCKS) to provide a set of current Group Member (GM) devices with additional security associations (e.g., to rekey expiring security associations).  This memo adds the ability of a GCKS to request that the GM devices return an acknowledgement of receipt of its rekey message and specifies the acknowledgement method.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

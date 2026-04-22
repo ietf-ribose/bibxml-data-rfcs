@@ -1,0 +1,28 @@
+<reference anchor="RFC9230" target="https://www.rfc-editor.org/info/rfc9230">
+  <front>
+    <title>Oblivious DNS over HTTPS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9230"/>
+    <seriesInfo name="RFC" value="9230"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="E." surname="Kinnear" fullname="E. Kinnear"/>
+    <author initials="P." surname="McManus" fullname="P. McManus"/>
+    <author initials="T." surname="Pauly" fullname="T. Pauly"/>
+    <author initials="T." surname="Verma" fullname="T. Verma"/>
+    <author initials="C.A." surname="Wood" fullname="C.A. Wood"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <keyword>Privacy</keyword>
+    <keyword>DNS Privacy</keyword>
+    <keyword>DoH</keyword>
+    <keyword>ODoH</keyword>
+    <keyword>HPKE</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a protocol that allows clients to hide their IP addresses from DNS resolvers via proxying encrypted DNS over HTTPS (DoH) messages. This improves privacy of DNS operations by not allowing any one server entity to be aware of both the client IP address and the content of DNS queries and answers.&lt;/p&gt;&lt;p&gt;This experimental protocol has been developed outside the IETF and is published here to guide implementation, ensure interoperability among implementations, and enable wide-scale experimentation.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

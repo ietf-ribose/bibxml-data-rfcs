@@ -1,0 +1,23 @@
+<reference anchor="RFC5133" target="https://www.rfc-editor.org/info/rfc5133">
+  <front>
+    <title>Terminal Endpoint Identifier (TEI) Query Request Number Change</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5133"/>
+    <seriesInfo name="RFC" value="5133"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Tuexen" fullname="M. Tuexen"/>
+    <author initials="K." surname="Morneault" fullname="K. Morneault"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2007"></date>
+    <workgroup>Signaling Transport</workgroup>
+    <keyword>isdn q.921-user adaptation layer</keyword>
+    <keyword>iua</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Integrated Services Digital Network (ISDN) Q.921-User Adaptation Layer (IUA) Protocol, described in RFC 4233, defines the message type of Terminal Endpoint Identifier (TEI) Query Request messages as 5.  However, this number is already being used by the Digital Private Network Signaling System (DPNSS)/Digital Access Signaling System 2 (DASS 2) Extensions (DUA) to the IUA Protocol described in RFC 4129.  This document updates RFC 4233 such that the message type of TEI Query Request messages is 8. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

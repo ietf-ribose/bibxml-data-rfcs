@@ -1,0 +1,26 @@
+<reference anchor="RFC5977" target="https://www.rfc-editor.org/info/rfc5977">
+  <front>
+    <title>RMD-QOSM: The NSIS Quality-of-Service Model for Resource Management in Diffserv</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5977"/>
+    <seriesInfo name="RFC" value="5977"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Bader" fullname="A. Bader"/>
+    <author initials="L." surname="Westberg" fullname="L. Westberg"/>
+    <author initials="G." surname="Karagiannis" fullname="G. Karagiannis"/>
+    <author initials="C." surname="Kappler" fullname="C. Kappler"/>
+    <author initials="T." surname="Phelan" fullname="T. Phelan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2010"></date>
+    <workgroup>Next Steps in Signaling</workgroup>
+    <keyword>next steps in signaling</keyword>
+    <keyword>resource managment in diffserv</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a Next Steps in Signaling (NSIS) Quality-of-Service (QoS) Model for networks that use the Resource Management in Diffserv (RMD) concept.  RMD is a technique for adding admission control and preemption function to Differentiated Services (Diffserv) networks.  The RMD QoS Model allows devices external to the RMD network to signal reservation requests to Edge nodes in the RMD network.  The RMD Ingress Edge nodes classify the incoming flows into traffic classes and signals resource requests for the corresponding traffic class along the data path to the Egress Edge nodes for each flow.  Egress nodes reconstitute the original requests and continue forwarding them along the data path towards the final destination.  In addition, RMD defines notification functions to indicate overload situations within the domain to the Edge nodes.  This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

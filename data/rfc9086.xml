@@ -1,0 +1,28 @@
+<reference anchor="RFC9086" target="https://www.rfc-editor.org/info/rfc9086">
+  <front>
+    <title>Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment Routing BGP Egress Peer Engineering</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9086"/>
+    <seriesInfo name="RFC" value="9086"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="K." surname="Patel" fullname="K. Patel"/>
+    <author initials="S." surname="Ray" fullname="S. Ray"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2021"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP</keyword>
+    <keyword>BGP-LS</keyword>
+    <keyword>Segment Routing</keyword>
+    <abstract>
+      <t>&lt;p&gt;A node steers a packet through a controlled set of instructions, called segments, by prepending the packet with a list of segment identifiers (SIDs). A segment can represent any instruction, topological or service based. SR segments allow steering a flow through any topological path and service chain while maintaining per-flow state only at the ingress node of the SR domain.&lt;/p&gt;&lt;p&gt;This document describes an extension to Border Gateway Protocol - Link State (BGP-LS) for advertisement of BGP Peering Segments along with their BGP peering node information so that efficient BGP Egress Peer Engineering (EPE) policies and strategies can be computed based on Segment Routing.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

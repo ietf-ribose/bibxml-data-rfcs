@@ -1,0 +1,28 @@
+<reference anchor="RFC8075" target="https://www.rfc-editor.org/info/rfc8075">
+  <front>
+    <title>Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8075"/>
+    <seriesInfo name="RFC" value="8075"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Castellani" fullname="A. Castellani"/>
+    <author initials="S." surname="Loreto" fullname="S. Loreto"/>
+    <author initials="A." surname="Rahman" fullname="A. Rahman"/>
+    <author initials="T." surname="Fossati" fullname="T. Fossati"/>
+    <author initials="E." surname="Dijk" fullname="E. Dijk"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="February" year="2017"></date>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>CoAP</keyword>
+    <keyword>HTTP-CoAP mapping</keyword>
+    <keyword>HTTP-CoAP translation</keyword>
+    <keyword>proxy implementation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides reference information for implementing a cross-protocol network proxy that performs translation from the HTTP protocol to the Constrained Application Protocol (CoAP).  This will enable an HTTP client to access resources on a CoAP server through the proxy.  This document describes how an HTTP request is mapped to a CoAP request and how a CoAP response is mapped back to an HTTP response.  This includes guidelines for status code, URI, and media type mappings, as well as additional interworking advice.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

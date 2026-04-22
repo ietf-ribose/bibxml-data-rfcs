@@ -1,0 +1,24 @@
+<reference anchor="RFC6297" target="https://www.rfc-editor.org/info/rfc6297">
+  <front>
+    <title>A Survey of Lower-than-Best-Effort Transport Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6297"/>
+    <seriesInfo name="RFC" value="6297"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Welzl" fullname="M. Welzl"/>
+    <author initials="D." surname="Ros" fullname="D. Ros"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2011"></date>
+    <workgroup>Low Extra Delay Background Transport</workgroup>
+    <keyword>Less-than-Best-Effort</keyword>
+    <keyword>Congestion Control</keyword>
+    <keyword>LEDBAT</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document provides a survey of transport protocols that are designed to have a smaller bandwidth and/or delay impact on standard TCP than standard TCP itself when they share a bottleneck with it.  Such protocols could be used for delay-insensitive "background" traffic, as they provide what is sometimes called a "less than" (or "lower than") best-effort service.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

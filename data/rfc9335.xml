@@ -1,0 +1,23 @@
+<reference anchor="RFC9335" target="https://www.rfc-editor.org/info/rfc9335">
+  <front>
+    <title>Completely Encrypting RTP Header Extensions and Contributing Sources</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9335"/>
+    <seriesInfo name="RFC" value="9335"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Uberti" fullname="J. Uberti"/>
+    <author initials="C." surname="Jennings" fullname="C. Jennings"/>
+    <author initials="S." surname="Murillo" fullname="S. Murillo"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2023"></date>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>SRTP</keyword>
+    <abstract>
+      <t>&lt;p&gt;While the Secure Real-time Transport Protocol (SRTP) provides confidentiality for the contents of a media packet, a significant amount of metadata is left unprotected, including RTP header extensions and contributing sources (CSRCs). However, this data can be moderately sensitive in many applications. While there have been previous attempts to protect this data, they have had limited deployment, due to complexity as well as technical limitations.&lt;/p&gt;&lt;p&gt;This document updates RFC 3711, the SRTP specification, and defines Cryptex as a new mechanism that completely encrypts header extensions and CSRCs and uses simpler Session Description Protocol (SDP) signaling with the goal of facilitating deployment.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

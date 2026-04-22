@@ -1,0 +1,24 @@
+<reference anchor="RFC3624" target="https://www.rfc-editor.org/info/rfc3624">
+  <front>
+    <title>The Media Gateway Control Protocol (MGCP) Bulk Audit Package</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3624"/>
+    <seriesInfo name="RFC" value="3624"/>
+    <seriesInfo name="INDEPENDENT"/>
+    <author initials="B." surname="Foster" fullname="B. Foster"/>
+    <author initials="D." surname="Auerbach" fullname="D. Auerbach"/>
+    <author initials="F." surname="Andreasen" fullname="F. Andreasen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2003"></date>
+    <keyword>call agent</keyword>
+    <keyword>endpoints</keyword>
+    <keyword>naming conventions</keyword>
+    <abstract>
+      <t>&lt;p&gt;The base Media Gateway Control Protocol (MGCP) includes audit commands that only allow a Call Agent to audit endpoint and/or connection state one endpoint at a time.  This document describes a new MGCP package for bulk auditing of a group of gateway endpoints.  It allows a Call Agent to determine the endpoint naming convention, the list of instantiated endpoints as well connection and endpoint state for the group of endpoints.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

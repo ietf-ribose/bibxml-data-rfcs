@@ -1,0 +1,28 @@
+<reference anchor="RFC8939" target="https://www.rfc-editor.org/info/rfc8939">
+  <front>
+    <title>Deterministic Networking (DetNet) Data Plane: IP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8939"/>
+    <seriesInfo name="RFC" value="8939"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Varga" fullname="B. Varga" role="editor"/>
+    <author initials="J." surname="Farkas" fullname="J. Farkas"/>
+    <author initials="L." surname="Berger" fullname="L. Berger"/>
+    <author initials="D." surname="Fedyk" fullname="D. Fedyk"/>
+    <author initials="S." surname="Bryant" fullname="S. Bryant"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2020"></date>
+    <workgroup>Deterministic Networking</workgroup>
+    <keyword>Application</keyword>
+    <keyword>Endpoint</keyword>
+    <keyword>Service Sub-layer</keyword>
+    <keyword>Forwarding Sub-layer</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document specifies the Deterministic Networking (DetNet) data plane operation for IP hosts and routers that provide DetNet service to IP-encapsulated data.  No DetNet-specific encapsulation is defined to support IP flows; instead, the existing IP-layer and higher-layer protocol header information is used to support flow identification and DetNet service delivery.  This document builds on the DetNet architecture (RFC 8655) and data plane framework (RFC 8938).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

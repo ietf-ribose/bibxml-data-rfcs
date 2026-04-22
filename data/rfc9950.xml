@@ -1,0 +1,34 @@
+<reference anchor="RFC9950" target="https://www.rfc-editor.org/info/rfc9950">
+  <front>
+    <title>A YANG Data Model for Terminal Access Controller Access-Control System Plus (TACACS+)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9950"/>
+    <seriesInfo name="RFC" value="9950"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="B." surname="Wu" fullname="B. Wu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="March" year="2026"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>TLS</keyword>
+    <keyword>device management</keyword>
+    <keyword>network operator</keyword>
+    <keyword>provider network</keyword>
+    <keyword>AAA</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>accounting</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines a Terminal Access Controller Access-Control
+System Plus (TACACS+) client YANG module that augments the System
+Management data model, defined in RFC 7317, to allow devices to make
+use of TACACS+ servers for centralized Authentication, Authorization,
+and Accounting (AAA). Specifically, the TACACS+ YANG module can be
+used to manage TACACS+ over TLS.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 9105.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

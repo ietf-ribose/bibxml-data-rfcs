@@ -1,0 +1,27 @@
+<reference anchor="RFC8660" target="https://www.rfc-editor.org/info/rfc8660">
+  <front>
+    <title>Segment Routing with the MPLS Data Plane</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8660"/>
+    <seriesInfo name="RFC" value="8660"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Bashandy" fullname="A. Bashandy" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils" role="editor"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="B." surname="Decraene" fullname="B. Decraene"/>
+    <author initials="S." surname="Litkowski" fullname="S. Litkowski"/>
+    <author initials="R." surname="Shakir" fullname="R. Shakir"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="December" year="2019"></date>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>SR</keyword>
+    <keyword>SR-MPLS</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) leverages the source-routing paradigm.  A node steers a packet through a controlled set of instructions, called segments, by prepending the packet with an SR header.  In the MPLS data plane, the SR header is instantiated through a label stack.  This document specifies the forwarding behavior to allow instantiating SR over the MPLS data plane (SR-MPLS).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

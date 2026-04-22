@@ -1,0 +1,26 @@
+<reference anchor="RFC6769" target="https://www.rfc-editor.org/info/rfc6769">
+  <front>
+    <title>Simple Virtual Aggregation (S-VA)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6769"/>
+    <seriesInfo name="RFC" value="6769"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Raszuk" fullname="R. Raszuk"/>
+    <author initials="J." surname="Heitz" fullname="J. Heitz"/>
+    <author initials="A." surname="Lo" fullname="A. Lo"/>
+    <author initials="L." surname="Zhang" fullname="L. Zhang"/>
+    <author initials="X." surname="Xu" fullname="X. Xu"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2012"></date>
+    <workgroup>Global Routing Operations</workgroup>
+    <keyword>BGP</keyword>
+    <keyword>aggregation</keyword>
+    <abstract>
+      <t>&lt;p&gt;All BGP routers in the Default-Free Zone (DFZ) are required to carry all routes in the Default-Free Routing Table (DFRT). This document describes a technique, Simple Virtual Aggregation (S-VA), that allows some BGP routers not to install all of those routes into the Forwarding Information Base (FIB).&lt;/p&gt;&lt;p&gt;Some routers in an Autonomous System (AS) announce an aggregate (the VA prefix) in addition to the routes they already announce. This enables other routers not to install the routes covered by the VA prefix into the FIB as long as those routes have the same next-hop as the VA prefix.&lt;/p&gt;&lt;p&gt;The VA prefixes that are announced within an AS are not announced to any other AS. The described functionality is of very low operational complexity, as it proposes a confined BGP speaker solution without any dependency on network-wide configuration or requirement for any form of intra-domain tunneling. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

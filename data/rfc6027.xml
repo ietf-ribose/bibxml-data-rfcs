@@ -1,0 +1,26 @@
+<reference anchor="RFC6027" target="https://www.rfc-editor.org/info/rfc6027">
+  <front>
+    <title>IPsec Cluster Problem Statement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6027"/>
+    <seriesInfo name="RFC" value="6027"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Nir" fullname="Y. Nir"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2010"></date>
+    <workgroup>IP Security Maintenance and Extensions</workgroup>
+    <keyword>IKE</keyword>
+    <keyword>IKEv2</keyword>
+    <keyword>high-availability</keyword>
+    <keyword>load-sharing</keyword>
+    <keyword>failover</keyword>
+    <keyword>hot-standby</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines the terminology, problem statement, and requirements for implementing Internet Key Exchange (IKE) and IPsec on clusters.  It also describes gaps in existing standards and their implementation that need to be filled in order to allow peers to interoperate with clusters from different vendors.  Agreed upon terminology, problem statement, and requirements will allow IETF working groups to consider development of IPsec/IKEv2 mechanisms to simplify cluster implementations.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

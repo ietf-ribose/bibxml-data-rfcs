@@ -1,0 +1,26 @@
+<reference anchor="RFC1692" target="https://www.rfc-editor.org/info/rfc1692">
+  <front>
+    <title>Transport Multiplexing Protocol (TMux)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC1692"/>
+    <seriesInfo name="RFC" value="1692"/>
+    <seriesInfo name="Legacy"/>
+    <author initials="P." surname="Cameron" fullname="P. Cameron"/>
+    <author initials="D." surname="Crocker" fullname="D. Crocker"/>
+    <author initials="D." surname="Cohen" fullname="D. Cohen"/>
+    <author initials="J." surname="Postel" fullname="J. Postel"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="1994"></date>
+    <keyword>TMUX</keyword>
+    <keyword>Internet</keyword>
+    <keyword>Protocol</keyword>
+    <keyword>IP</keyword>
+    <abstract>
+      <t>&lt;p&gt;One of the problems with the use of terminal servers is the large number of small packets they can generate.  Frequently, most of these packets are destined for only one or two hosts.  TMux is a protocol which allows multiple short transport segments, independent of application type, to be combined between a server and host pair.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

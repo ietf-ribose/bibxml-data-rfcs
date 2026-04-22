@@ -1,0 +1,26 @@
+<reference anchor="RFC9471" target="https://www.rfc-editor.org/info/rfc9471">
+  <front>
+    <title>DNS Glue Requirements in Referral Responses</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9471"/>
+    <seriesInfo name="RFC" value="9471"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Andrews" fullname="M. Andrews"/>
+    <author initials="S." surname="Huque" fullname="S. Huque"/>
+    <author initials="P." surname="Wouters" fullname="P. Wouters"/>
+    <author initials="D." surname="Wessels" fullname="D. Wessels"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2023"></date>
+    <workgroup>Domain Name System Operations</workgroup>
+    <keyword>Glue Record</keyword>
+    <keyword>In-Domain Name Server</keyword>
+    <keyword>Sibling Domain Name Server</keyword>
+    <abstract>
+      <t>&lt;p&gt;The DNS uses glue records to allow iterative clients to find the addresses of name servers that are contained within a delegated zone.  Authoritative servers are expected to return all available glue records for in-domain name servers in a referral response.  If message size constraints prevent the inclusion of all glue records for in-domain name servers, the server must set the TC (Truncated) flag to inform the client that the response is incomplete and that the client should use another transport to retrieve the full response.  This document updates RFC 1034 to clarify correct server behavior.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

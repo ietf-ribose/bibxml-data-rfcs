@@ -1,0 +1,23 @@
+<reference anchor="RFC9597" target="https://www.rfc-editor.org/info/rfc9597">
+  <front>
+    <title>CBOR Web Token (CWT) Claims in COSE Headers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9597"/>
+    <seriesInfo name="RFC" value="9597"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Looker" fullname="T. Looker"/>
+    <author initials="M.B." surname="Jones" fullname="M.B. Jones"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2024"></date>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
+    <keyword>COSE</keyword>
+    <keyword>JOSE</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes how to include CBOR Web Token (CWT) claims in the header parameters of any CBOR Object Signing and Encryption (COSE) structure.  This functionality helps to facilitate applications that wish to make use of CWT claims in encrypted COSE structures and/or COSE structures featuring detached signatures, while having some of those claims be available before decryption and/or without inspecting the detached payload.  Another use case is using CWT claims with payloads that are not CWT Claims Sets, including payloads that are not CBOR at all.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

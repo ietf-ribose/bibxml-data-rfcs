@@ -1,0 +1,31 @@
+<reference anchor="RFC8935" target="https://www.rfc-editor.org/info/rfc8935">
+  <front>
+    <title>Push-Based Security Event Token (SET) Delivery Using HTTP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC8935"/>
+    <seriesInfo name="RFC" value="8935"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Backman" fullname="A. Backman" role="editor"/>
+    <author initials="M." surname="Jones" fullname="M. Jones" role="editor"/>
+    <author initials="M." surname="Scurtescu" fullname="M. Scurtescu"/>
+    <author initials="M." surname="Ansari" fullname="M. Ansari"/>
+    <author initials="A." surname="Nadalin" fullname="A. Nadalin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2020"></date>
+    <workgroup>Security Events</workgroup>
+    <keyword>JSON Web Token</keyword>
+    <keyword>JWT</keyword>
+    <keyword>Security Event Token</keyword>
+    <keyword>SET</keyword>
+    <keyword>Delivery</keyword>
+    <keyword>JavaScript Object Notation</keyword>
+    <keyword>JSON</keyword>
+    <abstract>
+      <t>&lt;p&gt;This specification defines how a Security Event Token (SET) can be delivered to an intended recipient using HTTP POST over TLS.  The SET is transmitted in the body of an HTTP POST request to an endpoint operated by the recipient, and the recipient indicates successful or failed transmission via the HTTP response.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

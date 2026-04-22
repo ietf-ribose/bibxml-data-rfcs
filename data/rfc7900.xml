@@ -1,0 +1,25 @@
+<reference anchor="RFC7900" target="https://www.rfc-editor.org/info/rfc7900">
+  <front>
+    <title>Extranet Multicast in BGP/IP MPLS VPNs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC7900"/>
+    <seriesInfo name="RFC" value="7900"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter" role="editor"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen" role="editor"/>
+    <author initials="R." surname="Aggarwal" fullname="R. Aggarwal"/>
+    <author initials="Y." surname="Cai" fullname="Y. Cai"/>
+    <author initials="T." surname="Morin" fullname="T. Morin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2016"></date>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <keyword>Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;Previous RFCs specify the procedures necessary to allow IP multicast traffic to travel from one site to another within a BGP/MPLS IP VPN (Virtual Private Network).  However, it is sometimes desirable to allow multicast traffic whose source is in one VPN to be received by systems that are in another VPN.  This is known as a "Multicast VPN (MVPN) extranet".  This document updates RFCs 6513, 6514, and 6625 by specifying the procedures that are necessary in order to provide extranet MVPN service.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

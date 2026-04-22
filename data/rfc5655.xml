@@ -1,0 +1,28 @@
+<reference anchor="RFC5655" target="https://www.rfc-editor.org/info/rfc5655">
+  <front>
+    <title>Specification of the IP Flow Information Export (IPFIX) File Format</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5655"/>
+    <seriesInfo name="RFC" value="5655"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Trammell" fullname="B. Trammell"/>
+    <author initials="E." surname="Boschi" fullname="E. Boschi"/>
+    <author initials="L." surname="Mark" fullname="L. Mark"/>
+    <author initials="T." surname="Zseby" fullname="T. Zseby"/>
+    <author initials="A." surname="Wagner" fullname="A. Wagner"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2009"></date>
+    <workgroup>IP Flow Information Export</workgroup>
+    <keyword>flow file</keyword>
+    <keyword>flow storage</keyword>
+    <keyword>ipfix storage</keyword>
+    <keyword>netflow storage</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a file format for the storage of flow data based upon the IP Flow Information Export (IPFIX) protocol.  It proposes a set of requirements for flat-file, binary flow data file formats, then specifies the IPFIX File format to meet these requirements based upon IPFIX Messages.  This IPFIX File format is designed to facilitate interoperability and reusability among a wide variety of flow storage, processing, and analysis tools. [STANDARDS TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

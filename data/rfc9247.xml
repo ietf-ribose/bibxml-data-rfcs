@@ -1,0 +1,30 @@
+<reference anchor="RFC9247" target="https://www.rfc-editor.org/info/rfc9247">
+  <front>
+    <title>BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional Forwarding Detection (S-BFD)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9247"/>
+    <seriesInfo name="RFC" value="9247"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Li" fullname="Z. Li"/>
+    <author initials="S." surname="Zhuang" fullname="S. Zhuang"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="S." surname="Aldrin" fullname="S. Aldrin"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2022"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP-LS</keyword>
+    <keyword>BFD</keyword>
+    <keyword>IS-IS</keyword>
+    <keyword>OSPF</keyword>
+    <keyword>OSPFv3</keyword>
+    <abstract>
+      <t>&lt;p&gt;Seamless Bidirectional Forwarding Detection (S-BFD) defines a simplified mechanism to use Bidirectional Forwarding Detection (BFD) with large portions of negotiation aspects eliminated, thus providing benefits such as quick provisioning as well as improved control and flexibility to network nodes initiating the path monitoring. The link-state routing protocols (IS-IS and OSPF) have been extended to advertise the S-BFD Discriminators.&lt;/p&gt;&lt;p&gt;This document defines extensions to the BGP - Link State (BGP-LS) address family to carry the S-BFD Discriminators' information via BGP.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

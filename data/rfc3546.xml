@@ -1,0 +1,28 @@
+<reference anchor="RFC3546" target="https://www.rfc-editor.org/info/rfc3546">
+  <front>
+    <title>Transport Layer Security (TLS) Extensions</title>
+    <seriesInfo name="DOI" value="10.17487/RFC3546"/>
+    <seriesInfo name="RFC" value="3546"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Blake-Wilson" fullname="S. Blake-Wilson"/>
+    <author initials="M." surname="Nystrom" fullname="M. Nystrom"/>
+    <author initials="D." surname="Hopwood" fullname="D. Hopwood"/>
+    <author initials="J." surname="Mikkelsen" fullname="J. Mikkelsen"/>
+    <author initials="T." surname="Wright" fullname="T. Wright"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2003"></date>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>TLS</keyword>
+    <keyword>transport layer security</keyword>
+    <keyword>authentication</keyword>
+    <keyword>privacy</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes extensions that may be used to add functionality to Transport Layer Security (TLS).  It provides both generic extension mechanisms for the TLS handshake client and server hellos, and specific extensions using these generic mechanisms.  The extensions may be used by TLS clients and servers.  The extensions are backwards compatible - communication is possible between TLS 1.0 clients that support the extensions and TLS 1.0 servers that do not support the extensions, and vice versa. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

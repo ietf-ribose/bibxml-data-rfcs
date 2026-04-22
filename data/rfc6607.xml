@@ -1,0 +1,22 @@
+<reference anchor="RFC6607" target="https://www.rfc-editor.org/info/rfc6607">
+  <front>
+    <title>Virtual Subnet Selection Options for DHCPv4 and DHCPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6607"/>
+    <seriesInfo name="RFC" value="6607"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kinnear" fullname="K. Kinnear"/>
+    <author initials="R." surname="Johnson" fullname="R. Johnson"/>
+    <author initials="M." surname="Stapp" fullname="M. Stapp"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2012"></date>
+    <workgroup>Dynamic Host Configuration</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This memo defines a DHCPv4 Virtual Subnet Selection (VSS) option, a DHCPv6 VSS option, and the DHCPv4 VSS and VSS-Control sub-options carried in the DHCPv4 Relay Agent Information option. These are intended for use by DHCP clients, relay agents, and proxy clients in situations where VSS information needs to be passed to the DHCP server for proper address or prefix allocation to take place.&lt;/p&gt;&lt;p&gt;For the DHCPv4 option and Relay Agent Information sub-options, this memo documents and extends existing usage as per RFC 3942. This memo updates RFC 3046 regarding details relating to the copying of sub- options (see Section 8).&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

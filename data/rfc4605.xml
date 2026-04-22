@@ -1,0 +1,23 @@
+<reference anchor="RFC4605" target="https://www.rfc-editor.org/info/rfc4605">
+  <front>
+    <title>Internet Group Management Protocol (IGMP) / Multicast Listener Discovery (MLD)-Based Multicast Forwarding ("IGMP/MLD Proxying")</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4605"/>
+    <seriesInfo name="RFC" value="4605"/>
+    <seriesInfo name="IETF"/>
+    <author initials="B." surname="Fenner" fullname="B. Fenner"/>
+    <author initials="H." surname="He" fullname="H. He"/>
+    <author initials="B." surname="Haberman" fullname="B. Haberman"/>
+    <author initials="H." surname="Sandick" fullname="H. Sandick"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2006"></date>
+    <workgroup>Multicast &amp; Anycast Group Membership</workgroup>
+    <abstract>
+      <t>&lt;p&gt;In certain topologies, it is not necessary to run a multicast routing protocol.  It is sufficient for a device to learn and proxy group membership information and simply forward multicast packets based upon that information.  This document describes a mechanism for forwarding based solely upon Internet Group Management Protocol (IGMP) or Multicast Listener Discovery (MLD) membership information. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="RFC9857" target="https://www.rfc-editor.org/info/rfc9857">
+  <front>
+    <title>Advertisement of Segment Routing Policies Using BGP - Link State</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9857"/>
+    <seriesInfo name="RFC" value="9857"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Previdi" fullname="S. Previdi"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar" role="editor"/>
+    <author initials="J." surname="Dong" fullname="J. Dong"/>
+    <author initials="H." surname="Gredler" fullname="H. Gredler"/>
+    <author initials="J." surname="Tantsura" fullname="J. Tantsura"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2025"></date>
+    <workgroup>Inter-Domain Routing</workgroup>
+    <keyword>BGP</keyword>
+    <keyword>BGP-LS</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>SR</keyword>
+    <keyword>SR Policy</keyword>
+    <keyword>SR-MPLS</keyword>
+    <keyword>SRv6</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <keyword>BGP SR Policy</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes a mechanism used to collect Segment Routing (SR) Policy information that is locally available in a node and advertise it into BGP - Link State (BGP-LS) updates.  Such information can be used by external components for path computation, reoptimization, service placement, network visualization, etc.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

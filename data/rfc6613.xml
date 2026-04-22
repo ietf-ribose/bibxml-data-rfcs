@@ -1,0 +1,23 @@
+<reference anchor="RFC6613" target="https://www.rfc-editor.org/info/rfc6613">
+  <front>
+    <title>RADIUS over TCP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC6613"/>
+    <seriesInfo name="RFC" value="6613"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="DeKok" fullname="A. DeKok"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2012"></date>
+    <workgroup>RADIUS EXTensions</workgroup>
+    <keyword>Remote Authentication Dial-In User Server</keyword>
+    <keyword>Transmission Control Protocol</keyword>
+    <keyword>RADIUS/TCP</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Remote Authentication Dial-In User Server (RADIUS) protocol has, until now, required the User Datagram Protocol (UDP) as the underlying transport layer.  This document defines RADIUS over the Transmission Control Protocol (RADIUS/TCP), in order to address handling issues related to RADIUS over Transport Layer Security (RADIUS/TLS).  It permits TCP to be used as a transport protocol for RADIUS only when a transport layer such as TLS or IPsec provides confidentiality and security.  This document defines an Experimental Protocol for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

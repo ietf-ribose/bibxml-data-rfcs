@@ -1,0 +1,28 @@
+<reference anchor="RFC9462" target="https://www.rfc-editor.org/info/rfc9462">
+  <front>
+    <title>Discovery of Designated Resolvers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9462"/>
+    <seriesInfo name="RFC" value="9462"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Pauly" fullname="T. Pauly"/>
+    <author initials="E." surname="Kinnear" fullname="E. Kinnear"/>
+    <author initials="C. A." surname="Wood" fullname="C. A. Wood"/>
+    <author initials="P." surname="McManus" fullname="P. McManus"/>
+    <author initials="T." surname="Jensen" fullname="T. Jensen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2023"></date>
+    <workgroup>Adaptive DNS Discovery</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>DoH</keyword>
+    <keyword>DoT</keyword>
+    <keyword>DoQ</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines Discovery of Designated Resolvers (DDR), a set of mechanisms for DNS clients to use DNS records to discover a resolver's encrypted DNS configuration.  An Encrypted DNS Resolver discovered in this manner is referred to as a "Designated Resolver".  These mechanisms can be used to move from unencrypted DNS to encrypted DNS when only the IP address of a resolver is known.  These mechanisms are designed to be limited to cases where Unencrypted DNS Resolvers and their Designated Resolvers are operated by the same entity or cooperating entities.  It can also be used to discover support for encrypted DNS protocols when the name of an Encrypted DNS Resolver is known.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="RFC5368" target="https://www.rfc-editor.org/info/rfc5368">
+  <front>
+    <title>Referring to Multiple Resources in the Session Initiation Protocol (SIP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC5368"/>
+    <seriesInfo name="RFC" value="5368"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Camarillo" fullname="G. Camarillo"/>
+    <author initials="A." surname="Niemi" fullname="A. Niemi"/>
+    <author initials="M." surname="Isomaki" fullname="M. Isomaki"/>
+    <author initials="M." surname="Garcia-Martin" fullname="M. Garcia-Martin"/>
+    <author initials="H." surname="Khartabil" fullname="H. Khartabil"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2008"></date>
+    <workgroup>Session Initiation Protocol</workgroup>
+    <keyword>sip refer</keyword>
+    <keyword>refer-to</keyword>
+    <keyword>multipler-refer</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document defines extensions to the SIP REFER method so that it can be used to refer to multiple resources in a single request.  These extensions include the use of pointers to Uniform Resource Identifier (URI) lists in the Refer-To header field and the "multiple-refer" SIP option-tag. [STANDARDS-TRACK]&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

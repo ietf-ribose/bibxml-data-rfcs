@@ -1,0 +1,23 @@
+<reference anchor="RFC4797" target="https://www.rfc-editor.org/info/rfc4797">
+  <front>
+    <title>Use of Provider Edge to Provider Edge (PE-PE) Generic Routing Encapsulation (GRE) or IP in BGP/MPLS IP Virtual Private Networks</title>
+    <seriesInfo name="DOI" value="10.17487/RFC4797"/>
+    <seriesInfo name="RFC" value="4797"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Rekhter" fullname="Y. Rekhter"/>
+    <author initials="R." surname="Bonica" fullname="R. Bonica"/>
+    <author initials="E." surname="Rosen" fullname="E. Rosen"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="January" year="2007"></date>
+    <workgroup>Layer 3 Virtual Private Networks</workgroup>
+    <keyword>L3VPN GRE encapsulation</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document describes an implementation strategy for BGP/MPLS IP Virtual Private Networks (VPNs) in which the outermost MPLS label (i.e., the tunnel label) is replaced with either an IP header or an IP header with Generic Routing Encapsulation (GRE).&lt;/p&gt;&lt;p&gt;The implementation strategy described herein enables the deployment of BGP/MPLS IP VPN technology in networks whose edge devices are MPLS and VPN aware, but whose interior devices are not. This memo provides information for the Internet community.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>
