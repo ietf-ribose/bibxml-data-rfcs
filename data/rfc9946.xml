@@ -1,0 +1,23 @@
+<reference anchor="RFC9946" target="https://www.rfc-editor.org/info/rfc9946">
+  <front>
+    <title>The UDP Speed Test Protocol (UDPSTP) for One-Way IP Capacity Metric Measurement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9946"/>
+    <seriesInfo name="RFC" value="9946"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Morton" fullname="A. Morton"/>
+    <author initials="L." surname="Ciavattone" fullname="L. Ciavattone"/>
+    <author initials="R." surname="Geib" fullname="R. Geib" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2026"></date>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>load rate adjustment algorithm</keyword>
+    <abstract>
+      <t>&lt;p&gt;This document addresses the problem of protocol support for measuring One-Way IP Capacity metrics specified by RFC 9097.  The Method of Measurement discussed in that RFC requires a feedback channel from the receiver to control the sender's transmission rate in near real-time.  This document defines the UDP Speed Test Protocol (UDPSTP) for conducting measurements as described in RFC 9097 and other related measurements.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

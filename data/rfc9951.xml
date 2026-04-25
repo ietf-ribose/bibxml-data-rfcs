@@ -1,0 +1,22 @@
+<reference anchor="RFC9951" target="https://www.rfc-editor.org/info/rfc9951">
+  <front>
+    <title>Export of Delay Performance Metrics in IP Flow Information Export (IPFIX)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9951"/>
+    <seriesInfo name="RFC" value="9951"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Graf" fullname="T. Graf"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author initials="A." surname="Huang-Feng" fullname="A. Huang-Feng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2026"></date>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <abstract>
+      <t>&lt;p&gt;This document specifies new IP Flow Information Export (IPFIX) Information Elements to export the On-Path delay at each Operations, Administration, and Maintenance (OAM) transit and decapsulating nodes.  The On-Path delay is defined as the delay between the OAM header encapsulating node and each OAM header transit and OAM header decapsulating nodes.  This delay measurement is computed by an On-Path Telemetry protocol and is exported by the IPFIX process.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>
