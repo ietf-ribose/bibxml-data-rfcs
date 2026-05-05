@@ -15,7 +15,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="October" year="2009"></date>
+    <date month="October" year="2009"/>
     <workgroup>Mobility EXTensions for IPv6</workgroup>
     <abstract>
       <t>&lt;p&gt;According to the current Mobile IPv6 specification, a mobile node may have several care-of addresses but only one, called the primary care-of address, can be registered with its home agent and the correspondent nodes.  However, for matters of cost, bandwidth, delay, etc, it is useful for the mobile node to get Internet access through multiple accesses simultaneously, in which case the mobile node would be configured with multiple active IPv6 care-of addresses.  This document proposes extensions to the Mobile IPv6 protocol to register and use multiple care-of addresses.  The extensions proposed in this document can be used by mobile routers using the NEMO (Network Mobility) Basic Support protocol as well. [STANDARDS-TRACK]&lt;/p&gt;</t>

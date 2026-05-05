@@ -12,7 +12,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2007"></date>
+    <date month="August" year="2007"/>
     <workgroup>Common Control and Measurement Plane</workgroup>
     <abstract>
       <t>&lt;p&gt;In certain networking topologies, it may be advantageous to maintain associations between endpoints and key transit points to support an instance of a service. Such associations are known as Calls.&lt;/p&gt;&lt;p&gt;A Call does not provide the actual connectivity for transmitting user traffic, but only builds a relationship by which subsequent Connections may be made. In Generalized MPLS (GMPLS) such Connections are known as Label Switched Paths (LSPs).&lt;/p&gt;&lt;p&gt;This document specifies how GMPLS Resource Reservation Protocol - Traffic Engineering (RSVP-TE) signaling may be used and extended to support Calls. These mechanisms provide full and logical Call/Connection separation.&lt;/p&gt;&lt;p&gt;The mechanisms proposed in this document are applicable to any environment (including multi-area), and for any type of interface: packet, layer-2, time-division multiplexed, lambda, or fiber switching. [STANDARDS-TRACK]&lt;/p&gt;</t>

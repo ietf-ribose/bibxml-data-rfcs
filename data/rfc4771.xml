@@ -13,7 +13,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="January" year="2007"></date>
+    <date month="January" year="2007"/>
     <keyword>roc</keyword>
     <abstract>
       <t>&lt;p&gt;This document defines an integrity transform for Secure Real-time Transport Protocol (SRTP; see RFC 3711), which allows the roll-over counter (ROC) to be transmitted in SRTP packets as part of the authentication tag.  The need for sending the ROC in SRTP packets arises in situations where the receiver joins an ongoing SRTP session and needs to quickly and robustly synchronize.  The mechanism also enhances SRTP operation in cases where there is a risk of losing sender-receiver synchronization. [STANDARDS-TRACK]&lt;/p&gt;</t>

@@ -14,7 +14,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="June" year="2023"></date>
+    <date month="June" year="2023"/>
     <keyword>Network Coding</keyword>
     <abstract>
       <t>&lt;p&gt;This document describes Tetrys, which is an on-the-fly network coding protocol that can be used to transport delay-sensitive and loss-sensitive data over a lossy network. Tetrys may recover from erasures within an RTT-independent delay thanks to the transmission of coded packets. This document is a record of the experience gained by the authors while developing and testing the Tetrys protocol in real conditions.&lt;/p&gt;&lt;p&gt;This document is a product of the Coding for Efficient NetWork Communications Research Group (NWCRG). It conforms to the NWCRG taxonomy described in RFC 8406.&lt;/p&gt;</t>

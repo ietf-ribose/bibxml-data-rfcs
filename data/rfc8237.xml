@@ -13,7 +13,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="October" year="2017"></date>
+    <date month="October" year="2017"/>
     <workgroup>Pseudowire And LDP-enabled Services</workgroup>
     <abstract>
       <t>&lt;p&gt;This document describes a method for generating an aggregated pseudowire (PW) status message transmitted for a statically configured PW on a Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) to indicate the status of one or more PWs carried on the LSP.&lt;/p&gt;&lt;p&gt;The method for transmitting the PW status information is not new; however, this protocol extension allows a Service Provider (SP) to reliably monitor the individual PW status while not overwhelming the network with multiple periodic status messages. This is achieved by sending a single cumulative summary status verification message for all the PWs grouped in the same LSP.&lt;/p&gt;</t>

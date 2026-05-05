@@ -13,7 +13,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2014"></date>
+    <date month="August" year="2014"/>
     <workgroup>Multiprotocol Label Switching</workgroup>
     <abstract>
       <t>&lt;p&gt;This document introduces a new optional Cryptographic Authentication TLV that LDP can use to secure its Hello messages.  It secures the Hello messages against spoofing attacks and some well-known attacks against the IP header.  This document describes a mechanism to secure the LDP Hello messages using Hashed Message Authentication Code (HMAC) with the National Institute of Standards and Technology (NIST) Secure Hash Standard family of algorithms.&lt;/p&gt;</t>

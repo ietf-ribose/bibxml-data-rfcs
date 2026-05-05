@@ -11,7 +11,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="January" year="2010"></date>
+    <date month="January" year="2010"/>
     <abstract>
       <t>&lt;p&gt;This memo describes X.509 key identifiers and signature encoding for version 2 of the KeyNote trust-management system (RFC 2704). X.509 certificates (RFC 5280) can be directly used in the Authorizer or Licensees field (or in both fields) in a KeyNote assertion, allowing for easy integration with protocols that already use X.509 certificates for authentication.&lt;/p&gt;&lt;p&gt;In addition, the document defines additional signature types that use other hash functions (beyond the MD5 and SHA1 hash functions that are defined in RFC 2792). This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
     </abstract>

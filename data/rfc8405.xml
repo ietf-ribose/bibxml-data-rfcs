@@ -16,7 +16,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="June" year="2018"></date>
+    <date month="June" year="2018"/>
     <workgroup>Routing Area Working Group</workgroup>
     <abstract>
       <t>&lt;p&gt;This document defines a standard algorithm to temporarily postpone or "back off" link-state IGP Shortest Path First (SPF) computations. This reduces the computational load and churn on IGP nodes when multiple temporally close network events trigger multiple SPF computations.&lt;/p&gt;&lt;p&gt;Having one standard algorithm improves interoperability by reducing the probability and/or duration of transient forwarding loops during the IGP convergence when the IGP reacts to multiple temporally close IGP events.&lt;/p&gt;</t>

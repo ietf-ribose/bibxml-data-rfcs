@@ -12,7 +12,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2014"></date>
+    <date month="August" year="2014"/>
     <workgroup>Sip Traversal Required for Applications to Work</workgroup>
     <abstract>
       <t>&lt;p&gt;SIP Back-to-Back User Agents (B2BUAs) can cause unending SIP request routing loops because, as User Agent Clients, they can generate SIP requests with new Max-Forwards values.  This document discusses the difficulties associated with loop detection for B2BUAs and the requirements for them to prevent infinite loops.&lt;/p&gt;</t>

@@ -1,0 +1,26 @@
+<reference anchor="RFC9960" target="https://www.rfc-editor.org/info/rfc9960">
+  <front>
+    <title>Segment Routing Point-to-Multipoint Policy</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9960"/>
+    <seriesInfo name="RFC" value="9960"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Parekh" fullname="R. Parekh" role="editor"/>
+    <author initials="D." surname="Voyer" fullname="D. Voyer" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="H." surname="Bidgoli" fullname="H. Bidgoli"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2026"/>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>SR Multicast</keyword>
+    <keyword>SRv6 Multicast</keyword>
+    <abstract>
+      <t>&lt;p&gt;The Point-to-Multipoint (P2MP) Policy enables creation of P2MP trees for efficient multipoint packet delivery in a Segment Routing (SR) domain.  This document specifies the architecture, signaling, and procedures for SR P2MP Policies with Segment Routing over MPLS (SR-MPLS) and Segment Routing over IPv6 (SRv6).  It defines the SR P2MP Policy construct, candidate paths (CPs) of an SR P2MP Policy, and the instantiation of the P2MP tree instances (PTIs) of a CP using Replication segments.  Additionally, it describes the required extensions for a controller to support P2MP path computation and provisioning.  This document updates RFC 9524.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

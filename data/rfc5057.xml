@@ -11,7 +11,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="November" year="2007"></date>
+    <date month="November" year="2007"/>
     <workgroup>Session Initiation Proposal Investigation</workgroup>
     <abstract>
       <t>&lt;p&gt;Several methods in the Session Initiation Protocol (SIP) can create an association between endpoints known as a dialog. Some of these methods can also create a different, but related, association within an existing dialog. These multiple associations, or dialog usages, require carefully coordinated processing as they have independent life-cycles, but share common dialog state. Processing multiple dialog usages correctly is not completely understood. What is understood is difficult to implement.&lt;/p&gt;&lt;p&gt;This memo argues that multiple dialog usages should be avoided. It discusses alternatives to their use and clarifies essential behavior for elements that cannot currently avoid them.&lt;/p&gt;&lt;p&gt;This is an informative document and makes no normative statements of any kind. This memo provides information for the Internet community.&lt;/p&gt;</t>

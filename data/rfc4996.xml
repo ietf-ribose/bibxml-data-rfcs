@@ -14,7 +14,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="July" year="2007"></date>
+    <date month="July" year="2007"/>
     <workgroup>Robust Header Compression</workgroup>
     <abstract>
       <t>&lt;p&gt;This document specifies a ROHC (Robust Header Compression) profile for compression of TCP/IP packets. The profile, called ROHC-TCP, provides efficient and robust compression of TCP headers, including frequently used TCP options such as SACK (Selective Acknowledgments) and Timestamps.&lt;/p&gt;&lt;p&gt;ROHC-TCP works well when used over links with significant error rates and long round-trip times. For many bandwidth-limited links where header compression is essential, such characteristics are common. [STANDARDS-TRACK]&lt;/p&gt;</t>

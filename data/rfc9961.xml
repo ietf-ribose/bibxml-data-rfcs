@@ -1,0 +1,29 @@
+<reference anchor="RFC9961" target="https://www.rfc-editor.org/info/rfc9961">
+  <front>
+    <title>MPLS Segment Routing Point-to-Multipoint (P2MP) Policy Ping</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9961"/>
+    <seriesInfo name="RFC" value="9961"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Bidgoli" fullname="H. Bidgoli" role="editor"/>
+    <author initials="Z." surname="Ali" fullname="Z. Ali"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author initials="A." surname="Budhiraja" fullname="A. Budhiraja"/>
+    <author initials="D." surname="Voyer" fullname="D. Voyer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="April" year="2026"/>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>SR Multicast</keyword>
+    <keyword>SRv6 Multicast</keyword>
+    <keyword>SR Multicast ping</keyword>
+    <keyword>SR Multicast traceroute</keyword>
+    <keyword>SR Multicast OAM</keyword>
+    <abstract>
+      <t>&lt;p&gt;Segment Routing (SR) Point-to-Multipoint (P2MP) Policies are used to define and manage explicit P2MP paths within a network. These policies are typically calculated via a controller-based mechanism and installed via, e.g., a Path Computation Element (PCE). In other cases, these policies can be installed using the Network Configuration Protocol (NETCONF) / YANG or a Command Line Interface (CLI). They are used to steer Multicast traffic along optimized paths from a Root to a set of Leaf routers.&lt;/p&gt;&lt;p&gt;This document defines extensions to ping and traceroute mechanisms for an SR P2MP Policy with MPLS encapsulation to provide Operations, Administration, and Maintenance (OAM) capabilities. The extensions enable operators to verify connectivity, diagnose failures, and troubleshoot forwarding issues within SR P2MP Policy Multicast trees.&lt;/p&gt;&lt;p&gt;By introducing new mechanisms for detecting failures and validating path integrity, this document enhances the operational robustness of P2MP Multicast deployments. Additionally, it ensures that existing MPLS and SR-based OAM tools can be effectively applied to networks utilizing SR P2MP Policies.&lt;/p&gt;</t>
+    </abstract>
+  </front>
+</reference>

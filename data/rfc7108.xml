@@ -12,7 +12,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="January" year="2014"></date>
+    <date month="January" year="2014"/>
     <abstract>
       <t>&lt;p&gt;Anycast is a deployment technique commonly employed for authoritative-only servers in the Domain Name System (DNS). L-Root, one of the thirteen root servers, is deployed in this fashion.&lt;/p&gt;&lt;p&gt;Various techniques have been used to map deployed anycast infrastructure externally, i.e., without reference to inside knowledge about where and how such infrastructure has been deployed. Motivations for performing such measurement exercises include operational troubleshooting and infrastructure risk assessment. In the specific case of L-Root, the ability to measure and map anycast infrastructure using the techniques mentioned in this document is provided for reasons of operational transparency.&lt;/p&gt;&lt;p&gt;This document describes all facilities deployed at L-Root to facilitate mapping of its infrastructure and serves as documentation for L-Root as a measurable service.&lt;/p&gt;</t>
     </abstract>

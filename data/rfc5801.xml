@@ -12,7 +12,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="July" year="2010"></date>
+    <date month="July" year="2010"/>
     <workgroup>Simple Authentication and Security Layer</workgroup>
     <abstract>
       <t>&lt;p&gt;This document describes how to use a Generic Security Service Application Program Interface (GSS-API) mechanism in the Simple Authentication and Security Layer (SASL) framework.  This is done by defining a new SASL mechanism family, called GS2.  This mechanism family offers a number of improvements over the previous "SASL/ GSSAPI" mechanism: it is more general, uses fewer messages for the authentication phase in some cases, and supports negotiable use of channel binding.  Only GSS-API mechanisms that support channel binding and mutual authentication are supported. [STANDARDS-TRACK]&lt;/p&gt;</t>

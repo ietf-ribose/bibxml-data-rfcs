@@ -12,7 +12,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="June" year="2025"></date>
+    <date month="June" year="2025"/>
     <workgroup>Protocols for IP Multicast</workgroup>
     <abstract>
       <t>&lt;p&gt;This document specifies an update to the Receiver RLOC (Routing Locator) field of the PIM Join/Prune attribute that supports the construction of multicast distribution trees where the source and receivers are located in different Locator/ID Separation Protocol (LISP) sites and are connected using underlay IP multicast.  This attribute allows the receiver site to signal the underlay multicast group to the control plane of the root Ingress Tunnel Router (ITR).  This document updates RFC 8059.&lt;/p&gt;</t>

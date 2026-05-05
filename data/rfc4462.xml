@@ -14,7 +14,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="May" year="2006"></date>
+    <date month="May" year="2006"/>
     <workgroup>Secure Shell</workgroup>
     <abstract>
       <t>&lt;p&gt;The Secure Shell protocol (SSH) is a protocol for secure remote login and other secure network services over an insecure network.&lt;/p&gt;&lt;p&gt;The Generic Security Service Application Program Interface (GSS-API) provides security services to callers in a mechanism-independent fashion.&lt;/p&gt;&lt;p&gt;This memo describes methods for using the GSS-API for authentication and key exchange in SSH. It defines an SSH user authentication method that uses a specified GSS-API mechanism to authenticate a user, and a family of SSH key exchange methods that use GSS-API to authenticate a Diffie-Hellman key exchange.&lt;/p&gt;&lt;p&gt;This memo also defines a new host public key algorithm that can be used when no operations are needed using a host's public key, and a new user authentication method that allows an authorization name to be used in conjunction with any authentication that has already occurred as a side-effect of GSS-API-based key exchange. [STANDARDS-TRACK]&lt;/p&gt;</t>
