@@ -26,7 +26,8 @@
     <keyword>OSPF</keyword>
     <keyword>OSPFv3</keyword>
     <abstract>
-      <t>&lt;p&gt;Segment Routing (SR) allows for a flexible definition of end-to-end paths by encoding paths as sequences of topological subpaths, called "segments". These segments are advertised by routing protocols, e.g., by the link-state routing protocols (IS-IS, OSPFv2, and OSPFv3) within IGP topologies.&lt;/p&gt;&lt;p&gt;This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) address family in order to carry SR information via BGP.&lt;/p&gt;</t>
+      <t>Segment Routing (SR) allows for a flexible definition of end-to-end paths by encoding paths as sequences of topological subpaths, called "segments". These segments are advertised by routing protocols, e.g., by the link-state routing protocols (IS-IS, OSPFv2, and OSPFv3) within IGP topologies.</t>
+      <t>This document defines extensions to the Border Gateway Protocol - Link State (BGP-LS) address family in order to carry SR information via BGP.</t>
     </abstract>
   </front>
 </reference>

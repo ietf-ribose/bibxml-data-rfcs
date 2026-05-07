@@ -18,7 +18,9 @@
     <keyword>ssh</keyword>
     <keyword>ssh2</keyword>
     <abstract>
-      <t>&lt;p&gt;Secure Shell defines a user authentication mechanism that is based on public keys, but does not define any mechanism for key distribution. No common key management solution exists in current implementations. This document describes a protocol that can be used to configure public keys in an implementation-independent fashion, allowing client software to take on the burden of this configuration.&lt;/p&gt;&lt;p&gt;The Public Key Subsystem provides a server-independent mechanism for clients to add public keys, remove public keys, and list the current public keys known by the server. Rights to manage public keys are specific and limited to the authenticated user.&lt;/p&gt;&lt;p&gt;A public key may also be associated with various restrictions, including a mandatory command or subsystem. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>Secure Shell defines a user authentication mechanism that is based on public keys, but does not define any mechanism for key distribution. No common key management solution exists in current implementations. This document describes a protocol that can be used to configure public keys in an implementation-independent fashion, allowing client software to take on the burden of this configuration.</t>
+      <t>The Public Key Subsystem provides a server-independent mechanism for clients to add public keys, remove public keys, and list the current public keys known by the server. Rights to manage public keys are specific and limited to the authenticated user.</t>
+      <t>A public key may also be associated with various restrictions, including a mandatory command or subsystem. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

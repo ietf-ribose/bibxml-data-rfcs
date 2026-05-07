@@ -18,7 +18,8 @@
     <keyword>PAC</keyword>
     <keyword>Candidate</keyword>
     <abstract>
-      <t>&lt;p&gt;During the process of establishing peer-to-peer connectivity, Interactive Connectivity Establishment (ICE) agents can encounter situations where they have no candidate pairs to check, and, as a result, conclude that ICE processing has failed. However, because additional candidate pairs can be discovered during ICE processing, declaring failure at this point may be premature. This document discusses when these situations can occur.&lt;/p&gt;&lt;p&gt;This document updates RFCs 8445 and 8838 by requiring that an ICE agent wait a minimum amount of time before declaring ICE failure, even if there are no candidate pairs left to check.&lt;/p&gt;</t>
+      <t>During the process of establishing peer-to-peer connectivity, Interactive Connectivity Establishment (ICE) agents can encounter situations where they have no candidate pairs to check, and, as a result, conclude that ICE processing has failed. However, because additional candidate pairs can be discovered during ICE processing, declaring failure at this point may be premature. This document discusses when these situations can occur.</t>
+      <t>This document updates RFCs 8445 and 8838 by requiring that an ICE agent wait a minimum amount of time before declaring ICE failure, even if there are no candidate pairs left to check.</t>
     </abstract>
   </front>
 </reference>

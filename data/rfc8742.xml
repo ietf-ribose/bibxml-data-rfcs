@@ -17,7 +17,8 @@
     <keyword>data interchange format</keyword>
     <keyword>JSON</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes the Concise Binary Object Representation (CBOR) Sequence format and associated media type "application/cbor-seq". A CBOR Sequence consists of any number of encoded CBOR data items, simply concatenated in sequence.&lt;/p&gt;&lt;p&gt;Structured syntax suffixes for media types allow other media types to build on them and make it explicit that they are built on an existing media type as their foundation. This specification defines and registers "+cbor-seq" as a structured syntax suffix for CBOR Sequences.&lt;/p&gt;</t>
+      <t>This document describes the Concise Binary Object Representation (CBOR) Sequence format and associated media type "application/cbor-seq". A CBOR Sequence consists of any number of encoded CBOR data items, simply concatenated in sequence.</t>
+      <t>Structured syntax suffixes for media types allow other media types to build on them and make it explicit that they are built on an existing media type as their foundation. This specification defines and registers "+cbor-seq" as a structured syntax suffix for CBOR Sequences.</t>
     </abstract>
   </front>
 </reference>

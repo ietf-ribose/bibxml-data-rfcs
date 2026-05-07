@@ -16,7 +16,7 @@
     <keyword>sieve</keyword>
     <keyword>duplicate deliveries</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines a new test command, "duplicate", for the Sieve email filtering language.  This test adds the ability to detect duplications.  The main application for this new test is handling duplicate deliveries commonly caused by mailing list subscriptions or redirected mail addresses.  The detection is normally performed by matching the message ID to an internal list of message IDs from previously delivered messages.  For more complex applications, the "duplicate" test can also use the content of a specific header field or other parts of the message.&lt;/p&gt;</t>
+      <t>This document defines a new test command, "duplicate", for the Sieve email filtering language.  This test adds the ability to detect duplications.  The main application for this new test is handling duplicate deliveries commonly caused by mailing list subscriptions or redirected mail addresses.  The detection is normally performed by matching the message ID to an internal list of message IDs from previously delivered messages.  For more complex applications, the "duplicate" test can also use the content of a specific header field or other parts of the message.</t>
     </abstract>
   </front>
 </reference>

@@ -20,7 +20,7 @@
     <keyword>ACME</keyword>
     <keyword>STAR</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines metadata to support delegating the delivery of HTTPS content between two or more interconnected Content Delivery Networks (CDNs).  Specifically, this document defines a Content Delivery Network Interconnection (CDNI) Metadata interface object to enable delegation of X.509 certificates leveraging delegation schemes defined in RFC 9115.  Per RFC 9115, delegating entities can remain in full control of the delegation and can revoke it at any time.  This avoids the need to share private cryptographic key material between the involved entities.&lt;/p&gt;</t>
+      <t>This document defines metadata to support delegating the delivery of HTTPS content between two or more interconnected Content Delivery Networks (CDNs).  Specifically, this document defines a Content Delivery Network Interconnection (CDNI) Metadata interface object to enable delegation of X.509 certificates leveraging delegation schemes defined in RFC 9115.  Per RFC 9115, delegating entities can remain in full control of the delegation and can revoke it at any time.  This avoids the need to share private cryptographic key material between the involved entities.</t>
     </abstract>
   </front>
 </reference>

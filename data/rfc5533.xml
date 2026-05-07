@@ -16,7 +16,7 @@
     <workgroup>Site Multihoming by IPv6 Intermediation</workgroup>
     <keyword>locator pair</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines the Shim6 protocol, a layer 3 shim for providing locator agility below the transport protocols, so that multihoming can be provided for IPv6 with failover and load-sharing properties, without assuming that a multihomed site will have a provider-independent IPv6 address prefix announced in the global IPv6 routing table.  The hosts in a site that has multiple provider- allocated IPv6 address prefixes will use the Shim6 protocol specified in this document to set up state with peer hosts so that the state can later be used to failover to a different locator pair, should the original one stop working. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>This document defines the Shim6 protocol, a layer 3 shim for providing locator agility below the transport protocols, so that multihoming can be provided for IPv6 with failover and load-sharing properties, without assuming that a multihomed site will have a provider-independent IPv6 address prefix announced in the global IPv6 routing table.  The hosts in a site that has multiple provider- allocated IPv6 address prefixes will use the Shim6 protocol specified in this document to set up state with peer hosts so that the state can later be used to failover to a different locator pair, should the original one stop working. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

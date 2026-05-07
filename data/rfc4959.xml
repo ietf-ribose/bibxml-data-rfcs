@@ -16,7 +16,8 @@
     <keyword>imap authenticate</keyword>
     <keyword>internet message access protocol</keyword>
     <abstract>
-      <t>&lt;p&gt;To date, the Internet Message Access Protocol (IMAP) has used a Simple Authentication and Security Layer (SASL) profile which always required at least one complete round trip for an authentication, as it did not support an initial client response argument. This additional round trip at the beginning of the session is undesirable, especially when round-trip costs are high.&lt;/p&gt;&lt;p&gt;This document defines an extension to IMAP which allows clients and servers to avoid this round trip by allowing an initial client response argument to the IMAP AUTHENTICATE command. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>To date, the Internet Message Access Protocol (IMAP) has used a Simple Authentication and Security Layer (SASL) profile which always required at least one complete round trip for an authentication, as it did not support an initial client response argument. This additional round trip at the beginning of the session is undesirable, especially when round-trip costs are high.</t>
+      <t>This document defines an extension to IMAP which allows clients and servers to avoid this round trip by allowing an initial client response argument to the IMAP AUTHENTICATE command. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

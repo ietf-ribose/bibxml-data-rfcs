@@ -23,7 +23,7 @@
     <keyword>Location</keyword>
     <keyword>GEOPRIV</keyword>
     <abstract>
-      <t>&lt;p&gt;New fields are occasionally added to civic addresses.  A backward- compatible mechanism for adding civic address elements to the Geopriv civic address format is described.  A formal mechanism for handling unsupported extensions when translating between XML and DHCP civic address forms is defined for entities that need to perform this translation.  Initial extensions for some new elements are also defined.  The Location-to-Service Translation (LoST) protocol mechanism (defined in RFC 5222) that returns civic address element names used for validation of location information is clarified and is normatively updated to require a qualifying namespace identifier on each civic address element returned as part of the validation process. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>New fields are occasionally added to civic addresses.  A backward- compatible mechanism for adding civic address elements to the Geopriv civic address format is described.  A formal mechanism for handling unsupported extensions when translating between XML and DHCP civic address forms is defined for entities that need to perform this translation.  Initial extensions for some new elements are also defined.  The Location-to-Service Translation (LoST) protocol mechanism (defined in RFC 5222) that returns civic address element names used for validation of location information is clarified and is normatively updated to require a qualifying namespace identifier on each civic address element returned as part of the validation process. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

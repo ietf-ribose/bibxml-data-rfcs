@@ -20,7 +20,8 @@
     <keyword>Relative</keyword>
     <keyword>location</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines an extension to the Presence Information Data Format Location Object (PIDF-LO) (RFC 4119) for the expression of location information that is defined relative to a reference point. The reference point may be expressed as a geodetic or civic location, and the relative offset may be one of several shapes. An alternative binary representation is described.&lt;/p&gt;&lt;p&gt;Optionally, a reference to a secondary document (such as a map image) can be included, along with the relationship of the map coordinate system to the reference/offset coordinate system, to allow display of the map with the reference point and the relative offset.&lt;/p&gt;</t>
+      <t>This document defines an extension to the Presence Information Data Format Location Object (PIDF-LO) (RFC 4119) for the expression of location information that is defined relative to a reference point. The reference point may be expressed as a geodetic or civic location, and the relative offset may be one of several shapes. An alternative binary representation is described.</t>
+      <t>Optionally, a reference to a secondary document (such as a map image) can be included, along with the relationship of the map coordinate system to the reference/offset coordinate system, to allow display of the map with the reference point and the relative offset.</t>
     </abstract>
   </front>
 </reference>

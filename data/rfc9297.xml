@@ -23,7 +23,9 @@
     <keyword>masque</keyword>
     <keyword>http-ng</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes HTTP Datagrams, a convention for conveying multiplexed, potentially unreliable datagrams inside an HTTP connection.&lt;/p&gt;&lt;p&gt;In HTTP/3, HTTP Datagrams can be sent unreliably using the QUIC DATAGRAM extension. When the QUIC DATAGRAM frame is unavailable or undesirable, HTTP Datagrams can be sent using the Capsule Protocol, which is a more general convention for conveying data in HTTP connections.&lt;/p&gt;&lt;p&gt;HTTP Datagrams and the Capsule Protocol are intended for use by HTTP extensions, not applications.&lt;/p&gt;</t>
+      <t>This document describes HTTP Datagrams, a convention for conveying multiplexed, potentially unreliable datagrams inside an HTTP connection.</t>
+      <t>In HTTP/3, HTTP Datagrams can be sent unreliably using the QUIC DATAGRAM extension. When the QUIC DATAGRAM frame is unavailable or undesirable, HTTP Datagrams can be sent using the Capsule Protocol, which is a more general convention for conveying data in HTTP connections.</t>
+      <t>HTTP Datagrams and the Capsule Protocol are intended for use by HTTP extensions, not applications.</t>
     </abstract>
   </front>
 </reference>

@@ -19,7 +19,9 @@
     <keyword>NETCONF</keyword>
     <keyword>RESTCONF</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines two YANG modules, "ietf-system-capabilities" and "ietf-notification-capabilities".&lt;/p&gt;&lt;p&gt;The module "ietf-system-capabilities" provides a placeholder structure that can be used to discover YANG-related system capabilities for servers. The module can be used to report capability information from the server at runtime or at implementation time by making use of the YANG instance data file format.&lt;/p&gt;&lt;p&gt;The module "ietf-notification-capabilities" augments "ietf-system-capabilities" to specify capabilities related to "Subscription to YANG Notifications for Datastore Updates" (RFC 8641).&lt;/p&gt;</t>
+      <t>This document defines two YANG modules, "ietf-system-capabilities" and "ietf-notification-capabilities".</t>
+      <t>The module "ietf-system-capabilities" provides a placeholder structure that can be used to discover YANG-related system capabilities for servers. The module can be used to report capability information from the server at runtime or at implementation time by making use of the YANG instance data file format.</t>
+      <t>The module "ietf-notification-capabilities" augments "ietf-system-capabilities" to specify capabilities related to "Subscription to YANG Notifications for Datastore Updates" (RFC 8641).</t>
     </abstract>
   </front>
 </reference>

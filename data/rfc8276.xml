@@ -15,7 +15,7 @@
     <date month="December" year="2017"/>
     <workgroup>Network File System Version 4</workgroup>
     <abstract>
-      <t>&lt;p&gt;This document describes an optional feature extending the NFSv4 protocol.  This feature allows extended attributes (hereinafter also referred to as xattrs) to be interrogated and manipulated using NFSv4 clients.  Xattrs are provided by a file system to associate opaque metadata, not interpreted by the file system, with files and directories.  Such support is present in many modern local file systems.  New file attributes are provided to allow clients to query the server for xattr support, with that support consisting of new operations to get and set xattrs on file system objects.&lt;/p&gt;</t>
+      <t>This document describes an optional feature extending the NFSv4 protocol.  This feature allows extended attributes (hereinafter also referred to as xattrs) to be interrogated and manipulated using NFSv4 clients.  Xattrs are provided by a file system to associate opaque metadata, not interpreted by the file system, with files and directories.  Such support is present in many modern local file systems.  New file attributes are provided to allow clients to query the server for xattr support, with that support consisting of new operations to get and set xattrs on file system objects.</t>
     </abstract>
   </front>
 </reference>

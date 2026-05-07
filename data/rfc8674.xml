@@ -16,7 +16,9 @@
     <keyword>preference</keyword>
     <keyword>child-protection</keyword>
     <abstract>
-      <t>&lt;p&gt;This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server.&lt;/p&gt;&lt;p&gt;This specification does not define a precise semantic for "safe". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information.&lt;/p&gt;&lt;p&gt;Support for this preference by clients and servers is optional.&lt;/p&gt;</t>
+      <t>This specification defines a preference for HTTP requests that expresses a desire to avoid objectionable content, according to the definition of that term by the origin server.</t>
+      <t>This specification does not define a precise semantic for "safe". Rather, the term is interpreted by the server and within the scope of each web site that chooses to act upon this information.</t>
+      <t>Support for this preference by clients and servers is optional.</t>
     </abstract>
   </front>
 </reference>

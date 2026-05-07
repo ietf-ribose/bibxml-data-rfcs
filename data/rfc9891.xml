@@ -16,7 +16,7 @@
     <keyword>ACME</keyword>
     <keyword>DTN</keyword>
     <abstract>
-      <t>&lt;p&gt;This document specifies an extension to the Automated Certificate Management Environment (ACME) protocol that allows an ACME server to validate the Delay-Tolerant Networking (DTN) Node ID for an ACME client.  A DTN Node ID is an identifier used in the Bundle Protocol (BP) to name a "singleton endpoint": an endpoint that is registered on a single BP Node.  The DTN Node ID is encoded both as a certificate Subject Alternative Name (SAN) identity of type otherName with an Other Name form of BundleEID and as an ACME Identifier type "bundleEID".&lt;/p&gt;</t>
+      <t>This document specifies an extension to the Automated Certificate Management Environment (ACME) protocol that allows an ACME server to validate the Delay-Tolerant Networking (DTN) Node ID for an ACME client.  A DTN Node ID is an identifier used in the Bundle Protocol (BP) to name a "singleton endpoint": an endpoint that is registered on a single BP Node.  The DTN Node ID is encoded both as a certificate Subject Alternative Name (SAN) identity of type otherName with an Other Name form of BundleEID and as an ACME Identifier type "bundleEID".</t>
     </abstract>
   </front>
 </reference>

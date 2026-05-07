@@ -18,7 +18,9 @@
     <workgroup>Global Routing Operations</workgroup>
     <keyword>GROW</keyword>
     <abstract>
-      <t>&lt;p&gt;The popularity of Internet Exchange Points (IXPs) brings new challenges to interconnecting networks. While bilateral External BGP (EBGP) sessions between exchange participants were historically the most common means of exchanging reachability information over an IXP, the overhead associated with this interconnection method causes serious operational and administrative scaling problems for IXP participants.&lt;/p&gt;&lt;p&gt;Multilateral interconnection using Internet route servers can dramatically reduce the administrative and operational overhead associated with connecting to IXPs; in some cases, route servers are used by IXP participants as their preferred means of exchanging routing information.&lt;/p&gt;&lt;p&gt;This document describes operational considerations for multilateral interconnections at IXPs.&lt;/p&gt;</t>
+      <t>The popularity of Internet Exchange Points (IXPs) brings new challenges to interconnecting networks. While bilateral External BGP (EBGP) sessions between exchange participants were historically the most common means of exchanging reachability information over an IXP, the overhead associated with this interconnection method causes serious operational and administrative scaling problems for IXP participants.</t>
+      <t>Multilateral interconnection using Internet route servers can dramatically reduce the administrative and operational overhead associated with connecting to IXPs; in some cases, route servers are used by IXP participants as their preferred means of exchanging routing information.</t>
+      <t>This document describes operational considerations for multilateral interconnections at IXPs.</t>
     </abstract>
   </front>
 </reference>

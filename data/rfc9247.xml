@@ -24,7 +24,8 @@
     <keyword>OSPF</keyword>
     <keyword>OSPFv3</keyword>
     <abstract>
-      <t>&lt;p&gt;Seamless Bidirectional Forwarding Detection (S-BFD) defines a simplified mechanism to use Bidirectional Forwarding Detection (BFD) with large portions of negotiation aspects eliminated, thus providing benefits such as quick provisioning as well as improved control and flexibility to network nodes initiating the path monitoring. The link-state routing protocols (IS-IS and OSPF) have been extended to advertise the S-BFD Discriminators.&lt;/p&gt;&lt;p&gt;This document defines extensions to the BGP - Link State (BGP-LS) address family to carry the S-BFD Discriminators' information via BGP.&lt;/p&gt;</t>
+      <t>Seamless Bidirectional Forwarding Detection (S-BFD) defines a simplified mechanism to use Bidirectional Forwarding Detection (BFD) with large portions of negotiation aspects eliminated, thus providing benefits such as quick provisioning as well as improved control and flexibility to network nodes initiating the path monitoring. The link-state routing protocols (IS-IS and OSPF) have been extended to advertise the S-BFD Discriminators.</t>
+      <t>This document defines extensions to the BGP - Link State (BGP-LS) address family to carry the S-BFD Discriminators' information via BGP.</t>
     </abstract>
   </front>
 </reference>

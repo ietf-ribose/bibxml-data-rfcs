@@ -25,7 +25,8 @@
     <keyword>service-aware networking</keyword>
     <keyword>automation</keyword>
     <abstract>
-      <t>&lt;p&gt;This document specifies a mechanism for a host to indicate via the Port Control Protocol (PCP) which connections should be protected against network failures. These connections will then be subject to high-availability mechanisms enabled on the network side.&lt;/p&gt;&lt;p&gt;This approach assumes that applications and/or users have more visibility about sensitive connections than any heuristic that can be enabled on the network side to guess which connections should be check-pointed.&lt;/p&gt;</t>
+      <t>This document specifies a mechanism for a host to indicate via the Port Control Protocol (PCP) which connections should be protected against network failures. These connections will then be subject to high-availability mechanisms enabled on the network side.</t>
+      <t>This approach assumes that applications and/or users have more visibility about sensitive connections than any heuristic that can be enabled on the network side to guess which connections should be check-pointed.</t>
     </abstract>
   </front>
 </reference>

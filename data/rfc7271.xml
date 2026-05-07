@@ -27,7 +27,10 @@
     <keyword>SD support</keyword>
     <keyword>EXER support</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes alternate mechanisms to perform some of the functions of MPLS Transport Profile (MPLS-TP) linear protection defined in RFC 6378, and also defines additional mechanisms. The purpose of these alternate and additional mechanisms is to provide operator control and experience that more closely models the behavior of linear protection seen in other transport networks.&lt;/p&gt;&lt;p&gt;This document also introduces capabilities and modes for linear protection. A capability is an individual behavior, and a mode is a particular combination of capabilities. Two modes are defined in this document: Protection State Coordination (PSC) mode and Automatic Protection Switching (APS) mode.&lt;/p&gt;&lt;p&gt;This document describes the behavior of the PSC protocol including priority logic and state machine when all the capabilities associated with the APS mode are enabled.&lt;/p&gt;&lt;p&gt;This document updates RFC 6378 in that the capability advertisement method defined here is an addition to that document.&lt;/p&gt;</t>
+      <t>This document describes alternate mechanisms to perform some of the functions of MPLS Transport Profile (MPLS-TP) linear protection defined in RFC 6378, and also defines additional mechanisms. The purpose of these alternate and additional mechanisms is to provide operator control and experience that more closely models the behavior of linear protection seen in other transport networks.</t>
+      <t>This document also introduces capabilities and modes for linear protection. A capability is an individual behavior, and a mode is a particular combination of capabilities. Two modes are defined in this document: Protection State Coordination (PSC) mode and Automatic Protection Switching (APS) mode.</t>
+      <t>This document describes the behavior of the PSC protocol including priority logic and state machine when all the capabilities associated with the APS mode are enabled.</t>
+      <t>This document updates RFC 6378 in that the capability advertisement method defined here is an addition to that document.</t>
     </abstract>
   </front>
 </reference>

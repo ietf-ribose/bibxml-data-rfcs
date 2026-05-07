@@ -16,7 +16,7 @@
     <workgroup>Extensions for Scalable DNS Service Discovery</workgroup>
     <keyword>DNS Update</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes an EDNS(0) option that can be used between DNS Update Requesters and authoritative DNS servers to include a lifetime (lease duration) in a DNS Update or DNS Update Response, allowing a server to garbage collect stale Resource Records that have been added by DNS Updates if they are not renewed.&lt;/p&gt;</t>
+      <t>This document describes an EDNS(0) option that can be used between DNS Update Requesters and authoritative DNS servers to include a lifetime (lease duration) in a DNS Update or DNS Update Response, allowing a server to garbage collect stale Resource Records that have been added by DNS Updates if they are not renewed.</t>
     </abstract>
   </front>
 </reference>

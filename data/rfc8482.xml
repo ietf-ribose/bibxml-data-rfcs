@@ -22,7 +22,9 @@
     <keyword>DDOS</keyword>
     <keyword>ABUSE</keyword>
     <abstract>
-      <t>&lt;p&gt;The Domain Name System (DNS) specifies a query type (QTYPE) "ANY". The operator of an authoritative DNS server might choose not to respond to such queries for reasons of local policy, motivated by security, performance, or other reasons.&lt;/p&gt;&lt;p&gt;The DNS specification does not include specific guidance for the behavior of DNS servers or clients in this situation. This document aims to provide such guidance.&lt;/p&gt;&lt;p&gt;This document updates RFCs 1034 and 1035.&lt;/p&gt;</t>
+      <t>The Domain Name System (DNS) specifies a query type (QTYPE) "ANY". The operator of an authoritative DNS server might choose not to respond to such queries for reasons of local policy, motivated by security, performance, or other reasons.</t>
+      <t>The DNS specification does not include specific guidance for the behavior of DNS servers or clients in this situation. This document aims to provide such guidance.</t>
+      <t>This document updates RFCs 1034 and 1035.</t>
     </abstract>
   </front>
 </reference>

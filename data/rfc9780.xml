@@ -18,7 +18,9 @@
     <keyword>BFD</keyword>
     <keyword>Multipoint LSP</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes procedures for using Bidirectional Forwarding Detection (BFD) for multipoint networks to detect data plane failures in point-to-multipoint MPLS Label Switched Paths (LSPs) and Segment Routing (SR) point-to-multipoint policies with an SR over MPLS (SR-MPLS) data plane.&lt;/p&gt;&lt;p&gt;Furthermore, this document updates RFC 8562 by recommending the use of an IPv6 address from the Dummy IPv6 Prefix address block 100:0:0:1::/64 and discouraging the use of an IPv4 loopback address mapped to IPv6.&lt;/p&gt;&lt;p&gt;In addition, this document describes the applicability of LSP Ping (as an in-band solution) and the control plane (as an out-of-band solution) to bootstrap a BFD session. The document also describes the behavior of the active tail for head notification.&lt;/p&gt;</t>
+      <t>This document describes procedures for using Bidirectional Forwarding Detection (BFD) for multipoint networks to detect data plane failures in point-to-multipoint MPLS Label Switched Paths (LSPs) and Segment Routing (SR) point-to-multipoint policies with an SR over MPLS (SR-MPLS) data plane.</t>
+      <t>Furthermore, this document updates RFC 8562 by recommending the use of an IPv6 address from the Dummy IPv6 Prefix address block 100:0:0:1::/64 and discouraging the use of an IPv4 loopback address mapped to IPv6.</t>
+      <t>In addition, this document describes the applicability of LSP Ping (as an in-band solution) and the control plane (as an out-of-band solution) to bootstrap a BFD session. The document also describes the behavior of the active tail for head notification.</t>
     </abstract>
   </front>
 </reference>

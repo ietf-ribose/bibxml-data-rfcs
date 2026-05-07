@@ -17,7 +17,8 @@
     <date month="January" year="2013"/>
     <workgroup>Multiprotocol Label Switching</workgroup>
     <abstract>
-      <t>&lt;p&gt;The Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Ping and traceroute mechanisms are commonly used to detect and isolate data-plane failures in all MPLS LSPs, including LSPs used for each direction of an MPLS Pseudowire (PW). However, the LSP Ping and traceroute elements used for PWs are not specified for IPv6 address usage.&lt;/p&gt;&lt;p&gt;This document extends the PW LSP Ping and traceroute mechanisms so they can be used with PWs that are set up and maintained using IPv6 LDP sessions. This document updates RFC 4379. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>The Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Ping and traceroute mechanisms are commonly used to detect and isolate data-plane failures in all MPLS LSPs, including LSPs used for each direction of an MPLS Pseudowire (PW). However, the LSP Ping and traceroute elements used for PWs are not specified for IPv6 address usage.</t>
+      <t>This document extends the PW LSP Ping and traceroute mechanisms so they can be used with PWs that are set up and maintained using IPv6 LDP sessions. This document updates RFC 4379. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

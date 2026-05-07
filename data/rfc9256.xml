@@ -23,7 +23,8 @@
     <keyword>SRv6</keyword>
     <keyword>Traffic Engineering</keyword>
     <abstract>
-      <t>&lt;p&gt;Segment Routing (SR) allows a node to steer a packet flow along any path. Intermediate per-path states are eliminated thanks to source routing. SR Policy is an ordered list of segments (i.e., instructions) that represent a source-routed policy. Packet flows are steered into an SR Policy on a node where it is instantiated called a headend node. The packets steered into an SR Policy carry an ordered list of segments associated with that SR Policy.&lt;/p&gt;&lt;p&gt;This document updates RFC 8402 as it details the concepts of SR Policy and steering into an SR Policy.&lt;/p&gt;</t>
+      <t>Segment Routing (SR) allows a node to steer a packet flow along any path. Intermediate per-path states are eliminated thanks to source routing. SR Policy is an ordered list of segments (i.e., instructions) that represent a source-routed policy. Packet flows are steered into an SR Policy on a node where it is instantiated called a headend node. The packets steered into an SR Policy carry an ordered list of segments associated with that SR Policy.</t>
+      <t>This document updates RFC 8402 as it details the concepts of SR Policy and steering into an SR Policy.</t>
     </abstract>
   </front>
 </reference>

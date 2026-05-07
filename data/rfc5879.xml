@@ -19,7 +19,7 @@
     <keyword>deep-inspection</keyword>
     <keyword>packet inspection</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes a set of heuristics for distinguishing IPsec ESP-NULL (Encapsulating Security Payload without encryption) packets from encrypted ESP packets.  These heuristics can be used on intermediate devices, like traffic analyzers, and deep-inspection engines, to quickly decide whether or not a given packet flow is encrypted, i.e., whether or not it can be inspected.  Use of these heuristics does not require any changes made on existing IPsec hosts that are compliant with RFC 4303.  This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+      <t>This document describes a set of heuristics for distinguishing IPsec ESP-NULL (Encapsulating Security Payload without encryption) packets from encrypted ESP packets.  These heuristics can be used on intermediate devices, like traffic analyzers, and deep-inspection engines, to quickly decide whether or not a given packet flow is encrypted, i.e., whether or not it can be inspected.  Use of these heuristics does not require any changes made on existing IPsec hosts that are compliant with RFC 4303.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
     </abstract>
   </front>
 </reference>

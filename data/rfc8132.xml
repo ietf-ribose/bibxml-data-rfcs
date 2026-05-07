@@ -17,7 +17,8 @@
     <workgroup>Constrained RESTful Environments</workgroup>
     <keyword>CoAP</keyword>
     <abstract>
-      <t>&lt;p&gt;The methods defined in RFC 7252 for the Constrained Application Protocol (CoAP) only allow access to a complete resource, not to parts of a resource. In case of resources with larger or complex data, or in situations where resource continuity is required, replacing or requesting the whole resource is undesirable. Several applications using CoAP need to access parts of the resources.&lt;/p&gt;&lt;p&gt;This specification defines the new CoAP methods, FETCH, PATCH, and iPATCH, which are used to access and update parts of a resource.&lt;/p&gt;</t>
+      <t>The methods defined in RFC 7252 for the Constrained Application Protocol (CoAP) only allow access to a complete resource, not to parts of a resource. In case of resources with larger or complex data, or in situations where resource continuity is required, replacing or requesting the whole resource is undesirable. Several applications using CoAP need to access parts of the resources.</t>
+      <t>This specification defines the new CoAP methods, FETCH, PATCH, and iPATCH, which are used to access and update parts of a resource.</t>
     </abstract>
   </front>
 </reference>

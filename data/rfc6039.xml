@@ -17,7 +17,9 @@
     <date month="October" year="2010"/>
     <workgroup>Operational Security Capabilities for IP Network Infrastructure</workgroup>
     <abstract>
-      <t>&lt;p&gt;Routing protocols have been extended over time to use cryptographic mechanisms to ensure that data received from a neighboring router has not been modified in transit and actually originated from an authorized neighboring router.&lt;/p&gt;&lt;p&gt;The cryptographic mechanisms defined to date and described in this document rely on a digest produced with a hash algorithm applied to the payload encapsulated in the routing protocol packet.&lt;/p&gt;&lt;p&gt;This document outlines some of the limitations of the current mechanism, problems with manual keying of these cryptographic algorithms, and possible vectors for the exploitation of these limitations. This document is not an Internet Standards Track specification; it is published for informational purposes.&lt;/p&gt;</t>
+      <t>Routing protocols have been extended over time to use cryptographic mechanisms to ensure that data received from a neighboring router has not been modified in transit and actually originated from an authorized neighboring router.</t>
+      <t>The cryptographic mechanisms defined to date and described in this document rely on a digest produced with a hash algorithm applied to the payload encapsulated in the routing protocol packet.</t>
+      <t>This document outlines some of the limitations of the current mechanism, problems with manual keying of these cryptographic algorithms, and possible vectors for the exploitation of these limitations. This document is not an Internet Standards Track specification; it is published for informational purposes.</t>
     </abstract>
   </front>
 </reference>

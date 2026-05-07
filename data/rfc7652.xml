@@ -17,7 +17,8 @@
     <date month="September" year="2015"/>
     <workgroup>Port Control Protocol</workgroup>
     <abstract>
-      <t>&lt;p&gt;An IPv4 or IPv6 host can use the Port Control Protocol (PCP) to flexibly manage the IP address-mapping and port-mapping information on Network Address Translators (NATs) or firewalls to facilitate communication with remote hosts. However, the uncontrolled generation or deletion of IP address mappings on such network devices may cause security risks and should be avoided. In some cases, the client may need to prove that it is authorized to modify, create, or delete PCP mappings. This document describes an in-band authentication mechanism for PCP that can be used in those cases. The Extensible Authentication Protocol (EAP) is used to perform authentication between PCP devices.&lt;/p&gt;&lt;p&gt;This document updates RFC 6887.&lt;/p&gt;</t>
+      <t>An IPv4 or IPv6 host can use the Port Control Protocol (PCP) to flexibly manage the IP address-mapping and port-mapping information on Network Address Translators (NATs) or firewalls to facilitate communication with remote hosts. However, the uncontrolled generation or deletion of IP address mappings on such network devices may cause security risks and should be avoided. In some cases, the client may need to prove that it is authorized to modify, create, or delete PCP mappings. This document describes an in-band authentication mechanism for PCP that can be used in those cases. The Extensible Authentication Protocol (EAP) is used to perform authentication between PCP devices.</t>
+      <t>This document updates RFC 6887.</t>
     </abstract>
   </front>
 </reference>

@@ -19,7 +19,8 @@
     <keyword>TLS Extension</keyword>
     <keyword>TLS Optimization</keyword>
     <abstract>
-      <t>&lt;p&gt;Transport Layer Security (TLS) handshakes often include fairly static information, such as the server certificate and a list of trusted certification authorities (CAs). This information can be of considerable size, particularly if the server certificate is bundled with a complete certificate chain (i.e., the certificates of intermediate CAs up to the root CA).&lt;/p&gt;&lt;p&gt;This document defines an extension that allows a TLS client to inform a server of cached information, thereby enabling the server to omit already available information.&lt;/p&gt;</t>
+      <t>Transport Layer Security (TLS) handshakes often include fairly static information, such as the server certificate and a list of trusted certification authorities (CAs). This information can be of considerable size, particularly if the server certificate is bundled with a complete certificate chain (i.e., the certificates of intermediate CAs up to the root CA).</t>
+      <t>This document defines an extension that allows a TLS client to inform a server of cached information, thereby enabling the server to omit already available information.</t>
     </abstract>
   </front>
 </reference>

@@ -18,7 +18,7 @@
     <keyword>clock</keyword>
     <keyword>synchronization</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes the Network Time Protocol (NTP), specifies its formal structure and summarizes information useful for its implementation.  NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave.  It uses a returnable-time design in which a distributed subnet of time servers operating in a self- organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio.  The servers can also redistribute reference time via local routing algorithms and time daemons. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>This document describes the Network Time Protocol (NTP), specifies its formal structure and summarizes information useful for its implementation.  NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave.  It uses a returnable-time design in which a distributed subnet of time servers operating in a self- organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio.  The servers can also redistribute reference time via local routing algorithms and time daemons. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

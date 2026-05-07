@@ -20,7 +20,10 @@
     <keyword>Inter-AS</keyword>
     <keyword>TE</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes extensions to the Intermediate System to Intermediate System (IS-IS) protocol to support Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering (TE) for multiple Autonomous Systems (ASes). It defines IS-IS extensions for the flooding of TE information about inter-AS links, which can be used to perform inter-AS TE path computation.&lt;/p&gt;&lt;p&gt;No support for flooding information from within one AS to another AS is proposed or defined in this document.&lt;/p&gt;&lt;p&gt;This document builds on RFC 5316 by adding support for IPv6-only operation.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 5316.&lt;/p&gt;</t>
+      <t>This document describes extensions to the Intermediate System to Intermediate System (IS-IS) protocol to support Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Traffic Engineering (TE) for multiple Autonomous Systems (ASes). It defines IS-IS extensions for the flooding of TE information about inter-AS links, which can be used to perform inter-AS TE path computation.</t>
+      <t>No support for flooding information from within one AS to another AS is proposed or defined in this document.</t>
+      <t>This document builds on RFC 5316 by adding support for IPv6-only operation.</t>
+      <t>This document obsoletes RFC 5316.</t>
     </abstract>
   </front>
 </reference>

@@ -16,7 +16,8 @@
     <keyword>HTTP</keyword>
     <keyword>content-encoding</keyword>
     <abstract>
-      <t>&lt;p&gt;In HTTP, content codings allow for payload encodings such as for compression or integrity checks. In particular, the "gzip" content coding is widely used for payload data sent in response messages.&lt;/p&gt;&lt;p&gt;Content codings can be used in request messages as well; however, discoverability is not on par with response messages. This document extends the HTTP "Accept-Encoding" header field for use in responses, to indicate the content codings that are supported in requests.&lt;/p&gt;</t>
+      <t>In HTTP, content codings allow for payload encodings such as for compression or integrity checks. In particular, the "gzip" content coding is widely used for payload data sent in response messages.</t>
+      <t>Content codings can be used in request messages as well; however, discoverability is not on par with response messages. This document extends the HTTP "Accept-Encoding" header field for use in responses, to indicate the content codings that are supported in requests.</t>
     </abstract>
   </front>
 </reference>

@@ -15,7 +15,8 @@
     <workgroup>Secure Inter-Domain Routing</workgroup>
     <keyword>RPKI</keyword>
     <abstract>
-      <t>&lt;p&gt;This note describes a simple out-of-band protocol to ease setup of the Resource Public Key Infrastructure (RPKI) provisioning and publication protocols between two parties. The protocol is encoded in a small number of XML messages, which can be passed back and forth by any mutually agreeable means which provides acceptable data integrity and authentication.&lt;/p&gt;&lt;p&gt;This setup protocol is not part of the provisioning or publication protocol; rather, it is intended to simplify configuration of these protocols by setting up relationships and exchanging keying material used to authenticate those relationships.&lt;/p&gt;</t>
+      <t>This note describes a simple out-of-band protocol to ease setup of the Resource Public Key Infrastructure (RPKI) provisioning and publication protocols between two parties. The protocol is encoded in a small number of XML messages, which can be passed back and forth by any mutually agreeable means which provides acceptable data integrity and authentication.</t>
+      <t>This setup protocol is not part of the provisioning or publication protocol; rather, it is intended to simplify configuration of these protocols by setting up relationships and exchanging keying material used to authenticate those relationships.</t>
     </abstract>
   </front>
 </reference>

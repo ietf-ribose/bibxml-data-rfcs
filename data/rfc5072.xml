@@ -21,7 +21,10 @@
     <keyword>point-to-point</keyword>
     <keyword>ipv6</keyword>
     <abstract>
-      <t>&lt;p&gt;The Point-to-Point Protocol (PPP) provides a standard method of encapsulating network-layer protocol information over point-to-point links. PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.&lt;/p&gt;&lt;p&gt;This document defines the method for sending IPv6 packets over PPP links, the NCP for establishing and configuring the IPv6 over PPP, and the method for forming IPv6 link-local addresses on PPP links.&lt;/p&gt;&lt;p&gt;It also specifies the conditions for performing Duplicate Address Detection on IPv6 global unicast addresses configured for PPP links either through stateful or stateless address autoconfiguration.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 2472. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>The Point-to-Point Protocol (PPP) provides a standard method of encapsulating network-layer protocol information over point-to-point links. PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
+      <t>This document defines the method for sending IPv6 packets over PPP links, the NCP for establishing and configuring the IPv6 over PPP, and the method for forming IPv6 link-local addresses on PPP links.</t>
+      <t>It also specifies the conditions for performing Duplicate Address Detection on IPv6 global unicast addresses configured for PPP links either through stateful or stateless address autoconfiguration.</t>
+      <t>This document obsoletes RFC 2472. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

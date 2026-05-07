@@ -23,7 +23,8 @@
     <keyword>Segment Routing</keyword>
     <keyword>SRv6</keyword>
     <abstract>
-      <t>&lt;p&gt;Segment Routing over IPv6 (SRv6) allows for a flexible definition of end-to-end paths within various topologies by encoding paths as sequences of topological or functional sub-paths called "segments". These segments are advertised by various protocols such as BGP, IS-IS, and OSPFv3.&lt;/p&gt;&lt;p&gt;This document defines extensions to BGP - Link State (BGP-LS) to advertise SRv6 segments along with their behaviors and other attributes via BGP. The BGP-LS address-family solution for SRv6 described in this document is similar to BGP-LS for SR for the MPLS data plane, which is defined in RFC 9085.&lt;/p&gt;</t>
+      <t>Segment Routing over IPv6 (SRv6) allows for a flexible definition of end-to-end paths within various topologies by encoding paths as sequences of topological or functional sub-paths called "segments". These segments are advertised by various protocols such as BGP, IS-IS, and OSPFv3.</t>
+      <t>This document defines extensions to BGP - Link State (BGP-LS) to advertise SRv6 segments along with their behaviors and other attributes via BGP. The BGP-LS address-family solution for SRv6 described in this document is similar to BGP-LS for SR for the MPLS data plane, which is defined in RFC 9085.</t>
     </abstract>
   </front>
 </reference>

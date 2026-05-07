@@ -21,7 +21,10 @@
     <keyword>IGP</keyword>
     <keyword>IS-IS</keyword>
     <abstract>
-      <t>&lt;p&gt;In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network-performance criteria (e.g., latency) are becoming as critical to data-path selection as other metrics.&lt;/p&gt;&lt;p&gt;This document describes extensions to IS-IS Traffic Engineering Extensions (RFC 5305). These extensions provide a way to distribute and collect network-performance information in a scalable fashion. The information distributed using IS-IS TE Metric Extensions can then be used to make path-selection decisions based on network performance.&lt;/p&gt;&lt;p&gt;Note that this document only covers the mechanisms with which network-performance information is distributed. The mechanisms for measuring network performance or acting on that information, once distributed, are outside the scope of this document.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 7810.&lt;/p&gt;</t>
+      <t>In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network-performance criteria (e.g., latency) are becoming as critical to data-path selection as other metrics.</t>
+      <t>This document describes extensions to IS-IS Traffic Engineering Extensions (RFC 5305). These extensions provide a way to distribute and collect network-performance information in a scalable fashion. The information distributed using IS-IS TE Metric Extensions can then be used to make path-selection decisions based on network performance.</t>
+      <t>Note that this document only covers the mechanisms with which network-performance information is distributed. The mechanisms for measuring network performance or acting on that information, once distributed, are outside the scope of this document.</t>
+      <t>This document obsoletes RFC 7810.</t>
     </abstract>
   </front>
 </reference>

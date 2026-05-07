@@ -16,7 +16,9 @@
     <workgroup>Protocols for IP Multicast</workgroup>
     <keyword>Multicast</keyword>
     <abstract>
-      <t>&lt;p&gt;The PIM version 2 messages share a common message header format. The common header definition contains eight reserved bits. This document specifies how these bits may be used by individual message types and creates a registry containing the per-message-type usage. This document also extends the PIM type space by defining three new message types. For each of the new types, four of the previously reserved bits are used to form an extended type range.&lt;/p&gt;&lt;p&gt;This document updates RFCs 7761 and 3973 by defining the use of the currently Reserved field in the PIM common header. This document further updates RFCs 7761 and 3973, along with RFCs 5015, 5059, 6754, and 8364, by specifying the use of the currently reserved bits for each PIM message.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 6166.&lt;/p&gt;</t>
+      <t>The PIM version 2 messages share a common message header format. The common header definition contains eight reserved bits. This document specifies how these bits may be used by individual message types and creates a registry containing the per-message-type usage. This document also extends the PIM type space by defining three new message types. For each of the new types, four of the previously reserved bits are used to form an extended type range.</t>
+      <t>This document updates RFCs 7761 and 3973 by defining the use of the currently Reserved field in the PIM common header. This document further updates RFCs 7761 and 3973, along with RFCs 5015, 5059, 6754, and 8364, by specifying the use of the currently reserved bits for each PIM message.</t>
+      <t>This document obsoletes RFC 6166.</t>
     </abstract>
   </front>
 </reference>

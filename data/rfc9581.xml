@@ -27,7 +27,8 @@
     <keyword>PTP</keyword>
     <keyword>Precision Time Protocol</keyword>
     <abstract>
-      <t>&lt;p&gt;The Concise Binary Object Representation (CBOR, RFC 8949) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.&lt;/p&gt;&lt;p&gt;In CBOR, one point of extensibility is the definition of CBOR tags. RFC 8949 defines two tags for time: CBOR tag 0 (RFC 3339 time as a string) and tag 1 (POSIX time as int or float). Since then, additional requirements have become known. The present document defines a CBOR tag for time that allows a more elaborate representation of time, as well as related CBOR tags for duration and time period. This document is intended as the reference document for the IANA registration of the CBOR tags defined.&lt;/p&gt;</t>
+      <t>The Concise Binary Object Representation (CBOR, RFC 8949) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.</t>
+      <t>In CBOR, one point of extensibility is the definition of CBOR tags. RFC 8949 defines two tags for time: CBOR tag 0 (RFC 3339 time as a string) and tag 1 (POSIX time as int or float). Since then, additional requirements have become known. The present document defines a CBOR tag for time that allows a more elaborate representation of time, as well as related CBOR tags for duration and time period. This document is intended as the reference document for the IANA registration of the CBOR tags defined.</t>
     </abstract>
   </front>
 </reference>

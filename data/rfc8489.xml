@@ -20,7 +20,9 @@
     <workgroup>TURN Revised and Modernized</workgroup>
     <keyword>SIPs</keyword>
     <abstract>
-      <t>&lt;p&gt;Session Traversal Utilities for NAT (STUN) is a protocol that serves as a tool for other protocols in dealing with NAT traversal. It can be used by an endpoint to determine the IP address and port allocated to it by a NAT. It can also be used to check connectivity between two endpoints and as a keep-alive protocol to maintain NAT bindings. STUN works with many existing NATs and does not require any special behavior from them.&lt;/p&gt;&lt;p&gt;STUN is not a NAT traversal solution by itself. Rather, it is a tool to be used in the context of a NAT traversal solution.&lt;/p&gt;&lt;p&gt;This document obsoletes RFC 5389.&lt;/p&gt;</t>
+      <t>Session Traversal Utilities for NAT (STUN) is a protocol that serves as a tool for other protocols in dealing with NAT traversal. It can be used by an endpoint to determine the IP address and port allocated to it by a NAT. It can also be used to check connectivity between two endpoints and as a keep-alive protocol to maintain NAT bindings. STUN works with many existing NATs and does not require any special behavior from them.</t>
+      <t>STUN is not a NAT traversal solution by itself. Rather, it is a tool to be used in the context of a NAT traversal solution.</t>
+      <t>This document obsoletes RFC 5389.</t>
     </abstract>
   </front>
 </reference>

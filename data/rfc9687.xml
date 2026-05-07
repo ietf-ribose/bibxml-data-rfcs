@@ -18,7 +18,7 @@
     <keyword>BGP</keyword>
     <keyword>TCP</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines the SendHoldTimer, along with the SendHoldTimer_Expires event, for the Border Gateway Protocol (BGP) Finite State Machine (FSM).  Implementation of the SendHoldTimer helps overcome situations where a BGP connection is not terminated after the local system detects that the remote system is not processing BGP messages.  This document specifies that the local system should close the BGP connection and not solely rely on the remote system for connection closure when the SendHoldTimer expires.  This document updates RFC 4271.&lt;/p&gt;</t>
+      <t>This document defines the SendHoldTimer, along with the SendHoldTimer_Expires event, for the Border Gateway Protocol (BGP) Finite State Machine (FSM).  Implementation of the SendHoldTimer helps overcome situations where a BGP connection is not terminated after the local system detects that the remote system is not processing BGP messages.  This document specifies that the local system should close the BGP connection and not solely rely on the remote system for connection closure when the SendHoldTimer expires.  This document updates RFC 4271.</t>
     </abstract>
   </front>
 </reference>

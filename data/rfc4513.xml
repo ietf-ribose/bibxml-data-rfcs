@@ -16,7 +16,10 @@
     <keyword>LDAP</keyword>
     <keyword>TLS</keyword>
     <abstract>
-      <t>&lt;p&gt;This document describes authentication methods and security mechanisms of the Lightweight Directory Access Protocol (LDAP). This document details establishment of Transport Layer Security (TLS) using the StartTLS operation.&lt;/p&gt;&lt;p&gt;This document details the simple Bind authentication method including anonymous, unauthenticated, and name/password mechanisms and the Simple Authentication and Security Layer (SASL) Bind authentication method including the EXTERNAL mechanism.&lt;/p&gt;&lt;p&gt;This document discusses various authentication and authorization states through which a session to an LDAP server may pass and the actions that trigger these state changes.&lt;/p&gt;&lt;p&gt;This document, together with other documents in the LDAP Technical Specification (see Section 1 of the specification's road map), obsoletes RFC 2251, RFC 2829, and RFC 2830. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>This document describes authentication methods and security mechanisms of the Lightweight Directory Access Protocol (LDAP). This document details establishment of Transport Layer Security (TLS) using the StartTLS operation.</t>
+      <t>This document details the simple Bind authentication method including anonymous, unauthenticated, and name/password mechanisms and the Simple Authentication and Security Layer (SASL) Bind authentication method including the EXTERNAL mechanism.</t>
+      <t>This document discusses various authentication and authorization states through which a session to an LDAP server may pass and the actions that trigger these state changes.</t>
+      <t>This document, together with other documents in the LDAP Technical Specification (see Section 1 of the specification's road map), obsoletes RFC 2251, RFC 2829, and RFC 2830. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

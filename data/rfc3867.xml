@@ -18,7 +18,9 @@
     <keyword>modules</keyword>
     <keyword>data format exchange</keyword>
     <abstract>
-      <t>&lt;p&gt;The Internet Open Trading Protocol (IOTP) provides a data exchange format for trading purposes while integrating existing pure payment protocols seamlessly. This motivates the multiple layered system architecture which consists of at least some generic IOTP application core and multiple specific payment modules.&lt;/p&gt;&lt;p&gt;This document addresses a common interface between the IOTP application core and the payment modules, enabling the interoperability between these kinds of modules. Furthermore, such an interface provides the foundations for a plug-in-mechanism in actual implementations of IOTP application cores.&lt;/p&gt;&lt;p&gt;Such interfaces exist at the Consumers', the Merchants' and the Payment Handlers' installations connecting the IOTP application core and the payment software components/legacy systems. This memo provides information for the Internet community.&lt;/p&gt;</t>
+      <t>The Internet Open Trading Protocol (IOTP) provides a data exchange format for trading purposes while integrating existing pure payment protocols seamlessly. This motivates the multiple layered system architecture which consists of at least some generic IOTP application core and multiple specific payment modules.</t>
+      <t>This document addresses a common interface between the IOTP application core and the payment modules, enabling the interoperability between these kinds of modules. Furthermore, such an interface provides the foundations for a plug-in-mechanism in actual implementations of IOTP application cores.</t>
+      <t>Such interfaces exist at the Consumers', the Merchants' and the Payment Handlers' installations connecting the IOTP application core and the payment software components/legacy systems. This memo provides information for the Internet community.</t>
     </abstract>
   </front>
 </reference>

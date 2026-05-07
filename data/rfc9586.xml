@@ -22,7 +22,8 @@
     <keyword>IMAP4rev1</keyword>
     <keyword>IMAP4rev2</keyword>
     <abstract>
-      <t>&lt;p&gt;The UIDONLY extension to the Internet Message Access Protocol (RFCs 3501 and 9051) allows clients to enable a mode in which information about mailbox changes is returned using only Unique Identifiers (UIDs). Message numbers are not returned in responses and cannot be used in requests once this extension is enabled. This helps both clients and servers to reduce resource usage required to maintain a map between message numbers and UIDs.&lt;/p&gt;&lt;p&gt;This document defines an experimental IMAP extension.&lt;/p&gt;</t>
+      <t>The UIDONLY extension to the Internet Message Access Protocol (RFCs 3501 and 9051) allows clients to enable a mode in which information about mailbox changes is returned using only Unique Identifiers (UIDs). Message numbers are not returned in responses and cannot be used in requests once this extension is enabled. This helps both clients and servers to reduce resource usage required to maintain a map between message numbers and UIDs.</t>
+      <t>This document defines an experimental IMAP extension.</t>
     </abstract>
   </front>
 </reference>

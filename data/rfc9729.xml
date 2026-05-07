@@ -20,7 +20,7 @@
     <keyword>masque</keyword>
     <keyword>http-ng</keyword>
     <abstract>
-      <t>&lt;p&gt;Most HTTP authentication schemes are probeable in the sense that it is possible for an unauthenticated client to probe whether an origin serves resources that require authentication.  It is possible for an origin to hide the fact that it requires authentication by not generating Unauthorized status codes; however, that only works with non-cryptographic authentication schemes: cryptographic signatures require a fresh nonce to be signed.  Prior to this document, there was no existing way for the origin to share such a nonce without exposing the fact that it serves resources that require authentication.  This document defines a new non-probeable cryptographic authentication scheme.&lt;/p&gt;</t>
+      <t>Most HTTP authentication schemes are probeable in the sense that it is possible for an unauthenticated client to probe whether an origin serves resources that require authentication.  It is possible for an origin to hide the fact that it requires authentication by not generating Unauthorized status codes; however, that only works with non-cryptographic authentication schemes: cryptographic signatures require a fresh nonce to be signed.  Prior to this document, there was no existing way for the origin to share such a nonce without exposing the fact that it serves resources that require authentication.  This document defines a new non-probeable cryptographic authentication scheme.</t>
     </abstract>
   </front>
 </reference>

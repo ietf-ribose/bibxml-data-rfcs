@@ -15,7 +15,7 @@
     <date month="July" year="2024"/>
     <workgroup>Domain Name System Operations</workgroup>
     <abstract>
-      <t>&lt;p&gt;This document updates RFC 1035 by constraining the allowed value of the QDCOUNT parameter in DNS messages with OPCODE = 0 (QUERY) to a maximum of one, and it specifies the required behavior when values that are not allowed are encountered.&lt;/p&gt;</t>
+      <t>This document updates RFC 1035 by constraining the allowed value of the QDCOUNT parameter in DNS messages with OPCODE = 0 (QUERY) to a maximum of one, and it specifies the required behavior when values that are not allowed are encountered.</t>
     </abstract>
   </front>
 </reference>

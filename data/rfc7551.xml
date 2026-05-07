@@ -16,7 +16,7 @@
     <date month="May" year="2015"/>
     <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
     <abstract>
-      <t>&lt;p&gt;This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.&lt;/p&gt;</t>
+      <t>This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.</t>
     </abstract>
   </front>
 </reference>

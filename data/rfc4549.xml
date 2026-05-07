@@ -14,7 +14,9 @@
     <date month="June" year="2006"/>
     <keyword>internet message access protocol</keyword>
     <abstract>
-      <t>&lt;p&gt;This document attempts to address some of the issues involved in building a disconnected IMAP4 client. In particular, it deals with the issues of what might be called the "driver" portion of the synchronization tool: the portion of the code responsible for issuing the correct set of IMAP4 commands to synchronize the disconnected client in the way that is most likely to make the human who uses the disconnected client happy.&lt;/p&gt;&lt;p&gt;This note describes different strategies that can be used by disconnected clients and shows how to use IMAP protocol in order to minimize the time of the synchronization process.&lt;/p&gt;&lt;p&gt;This note also lists IMAP extensions that a server should implement in order to provide better synchronization facilities to disconnected clients. This memo provides information for the Internet community.&lt;/p&gt;</t>
+      <t>This document attempts to address some of the issues involved in building a disconnected IMAP4 client. In particular, it deals with the issues of what might be called the "driver" portion of the synchronization tool: the portion of the code responsible for issuing the correct set of IMAP4 commands to synchronize the disconnected client in the way that is most likely to make the human who uses the disconnected client happy.</t>
+      <t>This note describes different strategies that can be used by disconnected clients and shows how to use IMAP protocol in order to minimize the time of the synchronization process.</t>
+      <t>This note also lists IMAP extensions that a server should implement in order to provide better synchronization facilities to disconnected clients. This memo provides information for the Internet community.</t>
     </abstract>
   </front>
 </reference>

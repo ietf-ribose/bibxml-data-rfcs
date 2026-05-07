@@ -21,7 +21,8 @@
     <keyword>MoFRR</keyword>
     <keyword>Maximally redundant paths</keyword>
     <abstract>
-      <t>&lt;p&gt;The PIM Reverse Path Forwarding (RPF) Vector TLV defined in RFC 5496 can be included in a PIM Join Attribute such that the RPF neighbor is selected based on the unicast reachability of the RPF Vector instead of the source or Rendezvous Point associated with the multicast tree.&lt;/p&gt;&lt;p&gt;This document defines a new RPF Vector Attribute type such that an explicit RPF neighbor list can be encoded in the PIM Join Attribute, thus bypassing the unicast route lookup.&lt;/p&gt;</t>
+      <t>The PIM Reverse Path Forwarding (RPF) Vector TLV defined in RFC 5496 can be included in a PIM Join Attribute such that the RPF neighbor is selected based on the unicast reachability of the RPF Vector instead of the source or Rendezvous Point associated with the multicast tree.</t>
+      <t>This document defines a new RPF Vector Attribute type such that an explicit RPF neighbor list can be encoded in the PIM Join Attribute, thus bypassing the unicast route lookup.</t>
     </abstract>
   </front>
 </reference>

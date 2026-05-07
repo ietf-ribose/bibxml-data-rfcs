@@ -25,7 +25,8 @@
     <keyword>IS-IS</keyword>
     <keyword>proxy</keyword>
     <abstract>
-      <t>&lt;p&gt;Link-state routing protocols have hierarchical abstraction already built into them. However, when lower levels are used for transit, they must expose their internal topologies to each other, thereby leading to scaling issues.&lt;/p&gt;&lt;p&gt;To avoid such issues, this document discusses extensions to the IS-IS routing protocol that allow Level 1 (L1) areas to provide transit but only inject an abstraction of the Level 1 topology into Level 2 (L2). Each Level 1 area is represented as a single Level 2 node, thereby enabling a greater scale.&lt;/p&gt;</t>
+      <t>Link-state routing protocols have hierarchical abstraction already built into them. However, when lower levels are used for transit, they must expose their internal topologies to each other, thereby leading to scaling issues.</t>
+      <t>To avoid such issues, this document discusses extensions to the IS-IS routing protocol that allow Level 1 (L1) areas to provide transit but only inject an abstraction of the Level 1 topology into Level 2 (L2). Each Level 1 area is represented as a single Level 2 node, thereby enabling a greater scale.</t>
     </abstract>
   </front>
 </reference>

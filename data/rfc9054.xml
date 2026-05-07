@@ -17,7 +17,7 @@
     <keyword>SHA-2 Hash Algorithm</keyword>
     <keyword>SHAKE Algorithm</keyword>
     <abstract>
-      <t>&lt;p&gt;The CBOR Object Signing and Encryption (COSE) syntax (see RFC 9052) does not define any direct methods for using hash algorithms.  There are, however, circumstances where hash algorithms are used, such as indirect signatures, where the hash of one or more contents are signed, and identification of an X.509 certificate or other object by the use of a fingerprint.  This document defines hash algorithms that are identified by COSE algorithm identifiers.&lt;/p&gt;</t>
+      <t>The CBOR Object Signing and Encryption (COSE) syntax (see RFC 9052) does not define any direct methods for using hash algorithms.  There are, however, circumstances where hash algorithms are used, such as indirect signatures, where the hash of one or more contents are signed, and identification of an X.509 certificate or other object by the use of a fingerprint.  This document defines hash algorithms that are identified by COSE algorithm identifiers.</t>
     </abstract>
   </front>
 </reference>

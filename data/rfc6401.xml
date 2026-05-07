@@ -16,7 +16,8 @@
     <date month="October" year="2011"/>
     <workgroup>Transport and Services Working Group</workgroup>
     <abstract>
-      <t>&lt;p&gt;Some applications require the ability to provide an elevated probability of session establishment to specific sessions in times of network congestion. When supported over the Internet Protocol suite, this may be facilitated through a network-layer admission control solution that supports prioritized access to resources (e.g., bandwidth). These resources may be explicitly set aside for prioritized sessions, or may be shared with other sessions. This document specifies extensions to the Resource reSerVation Protocol (RSVP) that can be used to support such an admission priority capability at the network layer.&lt;/p&gt;&lt;p&gt;Based on current security concerns, these extensions are intended for use in a single administrative domain. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>Some applications require the ability to provide an elevated probability of session establishment to specific sessions in times of network congestion. When supported over the Internet Protocol suite, this may be facilitated through a network-layer admission control solution that supports prioritized access to resources (e.g., bandwidth). These resources may be explicitly set aside for prioritized sessions, or may be shared with other sessions. This document specifies extensions to the Resource reSerVation Protocol (RSVP) that can be used to support such an admission priority capability at the network layer.</t>
+      <t>Based on current security concerns, these extensions are intended for use in a single administrative domain. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>

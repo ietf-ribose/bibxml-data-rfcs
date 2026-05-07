@@ -21,7 +21,7 @@
     <keyword>scalable</keyword>
     <keyword>streaming</keyword>
     <abstract>
-      <t>&lt;p&gt;This document defines the RTP payload format for the streaming of a video signal encoded as a sequence of JPEG 2000 codestreams.  The format allows sub-codestream latency, such that the first RTP packet for a given image can be emitted before the entire image is available to or encoded by the sender.&lt;/p&gt;</t>
+      <t>This document defines the RTP payload format for the streaming of a video signal encoded as a sequence of JPEG 2000 codestreams.  The format allows sub-codestream latency, such that the first RTP packet for a given image can be emitted before the entire image is available to or encoded by the sender.</t>
     </abstract>
   </front>
 </reference>

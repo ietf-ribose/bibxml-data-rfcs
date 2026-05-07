@@ -23,7 +23,7 @@
     <keyword>DHCPv6-PD</keyword>
     <keyword>host isolation</keyword>
     <abstract>
-      <t>&lt;p&gt;The Neighbor Discovery (ND) protocol is a critical component of the
+      <t>The Neighbor Discovery (ND) protocol is a critical component of the
 IPv6 architecture. The protocol uses multicast in many messages. It
 also assumes a security model where all nodes on a link are trusted.
 Such a design might be inefficient in some scenarios (e.g., use of
@@ -31,13 +31,14 @@ multicast in wireless networks) or when nodes are not trustworthy
 (e.g., public access networks). These security and operational issues
 and the associated mitigation solutions are documented in more than
 twenty RFCs. There is a need to track these issues and solutions in a
-single document.&lt;/p&gt;&lt;p&gt;To that aim, this document summarizes the published ND issues and
+single document.</t>
+      <t>To that aim, this document summarizes the published ND issues and
 then describes how all these issues originate from three causes.
 Addressing the issues is made simpler by addressing the causes. This
 document also analyzes the mitigation solutions and demonstrates that
 isolating hosts into different subnets and links can help to address
 the three causes. Guidance is provided for selecting a suitable
-isolation method to prevent potential ND issues.&lt;/p&gt;</t>
+isolation method to prevent potential ND issues.</t>
     </abstract>
   </front>
 </reference>

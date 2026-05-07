@@ -18,7 +18,8 @@
     <keyword>user_error_spec</keyword>
     <keyword>error_spec</keyword>
     <abstract>
-      <t>&lt;p&gt;The Resource ReserVation Protocol (RSVP) defines an ERROR_SPEC object for communicating errors. That object has a defined format that permits the definition of 256 error codes. As RSVP has been developed and extended, the convention has been to be conservative in defining new error codes. Further, no provision for user-defined errors exists in RSVP.&lt;/p&gt;&lt;p&gt;This document defines a USER_ERROR_SPEC to be used in addition to the ERROR_SPEC to carry additional user information related to errors. [STANDARDS-TRACK]&lt;/p&gt;</t>
+      <t>The Resource ReserVation Protocol (RSVP) defines an ERROR_SPEC object for communicating errors. That object has a defined format that permits the definition of 256 error codes. As RSVP has been developed and extended, the convention has been to be conservative in defining new error codes. Further, no provision for user-defined errors exists in RSVP.</t>
+      <t>This document defines a USER_ERROR_SPEC to be used in addition to the ERROR_SPEC to carry additional user information related to errors. [STANDARDS-TRACK]</t>
     </abstract>
   </front>
 </reference>
