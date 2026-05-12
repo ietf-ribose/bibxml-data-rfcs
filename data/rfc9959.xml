@@ -1,0 +1,28 @@
+<reference anchor="RFC9959" target="https://www.rfc-editor.org/info/rfc9959">
+  <front>
+    <title>Careful Resume: Convergence of Congestion Control from Retained State</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9959"/>
+    <seriesInfo name="RFC" value="9959"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Kuhn" fullname="N. Kuhn"/>
+    <author initials="E." surname="Stephan" fullname="E. Stephan"/>
+    <author initials="G." surname="Fairhurst" fullname="G. Fairhurst"/>
+    <author initials="R." surname="Secchi" fullname="R. Secchi"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Transport and Services Working Group</workgroup>
+    <keyword>Transport</keyword>
+    <keyword>Congestion Control</keyword>
+    <keyword>QUIC</keyword>
+    <abstract>
+      <t>This document specifies a cautious method for Internet transports that enables fast startup of Congestion Control (CC) for a wide range of connections, known as "Careful Resume". It reuses a set of computed CC parameters that are based on previously observed path characteristics between the same pair of transport endpoints. These parameters are saved, allowing them to be later used to modify the CC behaviour of a subsequent connection.</t>
+      <t>This document describes the assumptions and defines the requirements for how a sender utilises these parameters to provide opportunities for a connection to more rapidly get up to speed and utilise available capacity. It discusses how the use of this method impacts the capacity at a shared network bottleneck and the safe response that is needed after any indication that the new rate is inappropriate.</t>
+    </abstract>
+  </front>
+</reference>
