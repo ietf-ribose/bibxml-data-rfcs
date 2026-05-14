@@ -1,0 +1,24 @@
+<reference anchor="RFC9944" target="https://www.rfc-editor.org/info/rfc9944">
+  <front>
+    <title>Device Schema Extensions to the System for Cross-Domain Identity Management (SCIM) Model</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9944"/>
+    <seriesInfo name="RFC" value="9944"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Shahzad" fullname="M. Shahzad"/>
+    <author initials="H." surname="Iqbal" fullname="H. Iqbal"/>
+    <author initials="E." surname="Lear" fullname="E. Lear"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>System for Cross-domain Identity Management</workgroup>
+    <keyword>provisioning</keyword>
+    <keyword>CRUD</keyword>
+    <abstract>
+      <t>The initial core schema for the System for Cross-domain Identity Management (SCIM) was designed for provisioning users.  This memo specifies schema extensions that enable provisioning of devices using various underlying bootstrapping systems such as Wi-Fi Easy Connect, FIDO device onboarding vouchers, Bluetooth Low Energy (BLE) passcodes, and MAC Authenticated Bypass (MAB).</t>
+    </abstract>
+  </front>
+</reference>
