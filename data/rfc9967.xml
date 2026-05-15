@@ -1,0 +1,30 @@
+<reference anchor="RFC9967" target="https://www.rfc-editor.org/info/rfc9967">
+  <front>
+    <title>System for Cross-Domain Identity Management (SCIM) Profile for Security Event Tokens (SETs)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9967"/>
+    <seriesInfo name="RFC" value="9967"/>
+    <seriesInfo name="IETF"/>
+    <author initials="P." surname="Hunt" fullname="P. Hunt" role="editor"/>
+    <author initials="N." surname="Cam-Winget" fullname="N. Cam-Winget"/>
+    <author initials="M." surname="Kiser" fullname="M. Kiser"/>
+    <author initials="J." surname="Schreiber" fullname="J. Schreiber"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>System for Cross-domain Identity Management</workgroup>
+    <keyword>Identity</keyword>
+    <keyword>Event</keyword>
+    <keyword>SET</keyword>
+    <keyword>Provisioning</keyword>
+    <keyword>Token</keyword>
+    <keyword>SCIM</keyword>
+    <abstract>
+      <t>This specification defines a set of System for Cross-domain Identity Management (SCIM) Security Events using the Security Event Token (SET) specification (RFC 8417) to enable the asynchronous exchange of messages between SCIM service providers and receivers.</t>
+      <t>This specification updates RFC 7643 by defining additional attributes for the "urn:ietf:params:scim:schemas:core:2.0:ServiceProviderConfig" schema, and it updates RFC 7644 with an optional new asynchronous SCIM request capability.</t>
+    </abstract>
+  </front>
+</reference>
