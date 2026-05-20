@@ -1,0 +1,27 @@
+<reference anchor="RFC9972" target="https://www.rfc-editor.org/info/rfc9972">
+  <front>
+    <title>Advanced BGP Monitoring Protocol (BMP) Statistics Types</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9972"/>
+    <seriesInfo name="RFC" value="9972"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Srivastava" fullname="M. Srivastava" role="editor"/>
+    <author initials="Y." surname="Liu" fullname="Y. Liu"/>
+    <author initials="C." surname="Lin" fullname="C. Lin" role="editor"/>
+    <author initials="J." surname="Li" fullname="J. Li"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Global Routing Operations</workgroup>
+    <keyword>IDR</keyword>
+    <keyword>GROW</keyword>
+    <keyword>BGP</keyword>
+    <keyword>BMP</keyword>
+    <abstract>
+      <t>The BGP Monitoring Protocol (BMP) described in RFC 7854 defines statistics message types to observe events that occur on a monitored router.  This document defines new statistics types to monitor BMP Adj-RIB-In and Adj-RIB-Out Routing Information Bases (RIBs).</t>
+    </abstract>
+  </front>
+</reference>

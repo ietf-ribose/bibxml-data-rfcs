@@ -1,0 +1,28 @@
+<reference anchor="RFC9983" target="https://www.rfc-editor.org/info/rfc9983">
+  <front>
+    <title>OSPFv2 Anycast Property Advertisement</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9983"/>
+    <seriesInfo name="RFC" value="9983"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Chen" fullname="R. Chen"/>
+    <author initials="D." surname="Zhao" fullname="D. Zhao"/>
+    <author initials="P." surname="Psenak" fullname="P. Psenak"/>
+    <author initials="K." surname="Talaulikar" fullname="K. Talaulikar"/>
+    <author initials="C." surname="Lin" fullname="C. Lin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Link State Routing</workgroup>
+    <keyword>Extended Prefix TLV</keyword>
+    <keyword>AC‑flag</keyword>
+    <keyword>YANG</keyword>
+    <abstract>
+      <t>An IP prefix may be configured as anycast and, as such, the same value can be advertised by multiple routers. It is useful for other routers to know that the advertisement is for an anycast prefix.</t>
+      <t>This document defines a new flag in the OSPFv2 Extended Prefix TLV Flags to advertise the anycast property. The document also specifies a companion YANG module for managing this function.</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="RFC9989" target="https://www.rfc-editor.org/info/rfc9989">
+  <front>
+    <title>Domain-Based Message Authentication, Reporting, and Conformance (DMARC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9989"/>
+    <seriesInfo name="RFC" value="9989"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Herr" fullname="T. Herr" role="editor"/>
+    <author initials="J." surname="Levine" fullname="J. Levine" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Domain-based Message Authentication, Reporting &amp; Conformance</workgroup>
+    <abstract>
+      <t>This document describes the Domain-based Message Authentication, Reporting, and Conformance (DMARC) protocol.</t>
+      <t>DMARC permits the owner of an email's Author Domain to enable validation of the domain's use to indicate the Domain Owner's or Public Suffix Operator's message handling preference regarding failed validation and to request reports about the use of the domain name. Mail-receiving organizations can use this information when evaluating handling choices for incoming mail.</t>
+      <t>This document obsoletes RFCs 7489 and 9091.</t>
+    </abstract>
+  </front>
+</reference>

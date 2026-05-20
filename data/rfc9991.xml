@@ -1,0 +1,28 @@
+<reference anchor="RFC9991" target="https://www.rfc-editor.org/info/rfc9991">
+  <front>
+    <title>Domain-Based Message Authentication, Reporting, and Conformance (DMARC) Failure Reporting</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9991"/>
+    <seriesInfo name="RFC" value="9991"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Jones" fullname="S. Jones" role="editor"/>
+    <author initials="A." surname="Vesely" fullname="A. Vesely" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Domain-based Message Authentication, Reporting &amp; Conformance</workgroup>
+    <keyword>DMARC</keyword>
+    <keyword>DKIM</keyword>
+    <keyword>SPF</keyword>
+    <keyword>feedback</keyword>
+    <keyword>Email Authentication</keyword>
+    <keyword>Failure report</keyword>
+    <abstract>
+      <t>Domain-based Message Authentication, Reporting, and Conformance (DMARC) is a mechanism by which a Domain Owner can request feedback about email messages using their domain in the From: address field. This document describes "failure reports", or "failed message reports", which provide details about individual messages that failed to authenticate according to the DMARC mechanism.</t>
+      <t>This document updates RFC 6591 and obsoletes RFC 7489.</t>
+    </abstract>
+  </front>
+</reference>
