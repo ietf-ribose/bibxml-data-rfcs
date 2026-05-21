@@ -13,9 +13,18 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="October" year="2002"/>
+    <date month="November" year="2002"/>
     <workgroup>Transport and Services Working Group</workgroup>
     <keyword>TCP</keyword>
     <keyword>transmission control protocol</keyword>
+    <abstract>
+      <t>This document specifies an optional standard for TCP to increase the
+permitted initial window from one segment to roughly 4K bytes,
+replacing RFC 2414.  This document discusses the advantages and
+disadvantages of the higher initial window.  The document includes
+discussion of experiments and simulations showing that the higher
+initial window does not lead to congestion collapse. Finally, the
+document provides guidance on implementation issues.</t>
+    </abstract>
   </front>
 </reference>

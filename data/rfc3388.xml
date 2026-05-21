@@ -27,5 +27,12 @@
     <keyword>flow identification</keyword>
     <keyword>lip synchronization</keyword>
     <keyword>ls</keyword>
+    <abstract>
+      <t>This document defines two SDP attributes: 'groupe' and 'mid'. They
+allow to group together several 'm' lines for two different
+purposes: for lip synchronization and for receiving media from a
+single flow (several media streams), encoded in different formats
+during a particular session, in different ports and host interfaces.</t>
+    </abstract>
   </front>
 </reference>

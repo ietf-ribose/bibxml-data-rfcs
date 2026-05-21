@@ -14,11 +14,21 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="September" year="2002"/>
+    <date month="October" year="2002"/>
     <workgroup>Internet Printing Protocol</workgroup>
     <keyword>IPP-E-T</keyword>
     <keyword>Internet Printing Protocol</keyword>
     <keyword>application</keyword>
     <keyword>media type</keyword>
+    <abstract>
+      <t>This document specifies 3 additional OPTIONAL operations for use with
+the Internet Printing Protocol/1.0 (IPP) [RFC2565, RFC2566], and
+IPP/1.1 [RFC2911, RFC2910].  The end user, operator, and
+administrator Set-Job-Attributes and Set-Printer-Attributes
+operations are used to modify IPP Job objects and Printer objects,
+respectively.  The third administrator Get-Printer-Supported-Values
+operation returns values that the IPP Printer will accept for setting
+its 'xxx-supported' attributes.</t>
+    </abstract>
   </front>
 </reference>

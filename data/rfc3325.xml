@@ -13,8 +13,19 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="November" year="2002"/>
+    <date month="December" year="2002"/>
     <workgroup>Session Initiation Protocol</workgroup>
     <keyword>trust domain</keyword>
+    <abstract>
+      <t>This document describes private extensions to SIP that enable a
+network of trusted SIP servers to assert the identity of
+authenticated users, and the application of existing privacy
+mechanisms to the identity problem.  The use of these extensions is
+only applicable inside an administrative domain with previously
+agreed-upon policies for generation, transport and usage of such
+information.  This document does NOT offer a general privacy or
+identity model suitable for use between different trust domains, or
+use in the Internet at large.</t>
+    </abstract>
   </front>
 </reference>

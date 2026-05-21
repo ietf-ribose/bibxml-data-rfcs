@@ -20,5 +20,16 @@
     <keyword>qos</keyword>
     <keyword>quality of service</keyword>
     <keyword>precondition</keyword>
+    <abstract>
+      <t>This document defines a generic framework for preconditions which is
+extensible through IANA registration. This document also discusses
+how network quality of service can be made a precondition to
+establishment of sessions initiated by the Session Initiation
+Protocol (SIP). These preconditions require that the participant
+reserve network resources before continuing with the session. We do
+not define new quality of service reservation mechanisms; these
+preconditions simply require a participant to use existing resource
+reservation mechanisms before beginning the session</t>
+    </abstract>
   </front>
 </reference>

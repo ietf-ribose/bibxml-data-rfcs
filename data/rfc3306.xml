@@ -12,10 +12,19 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2002"/>
+    <date month="September" year="2002"/>
     <workgroup>IP Version 6 Working Group</workgroup>
     <keyword>IPv6</keyword>
     <keyword>internet protocol</keyword>
     <keyword>multicast</keyword>
+    <abstract>
+      <t>This specification defines an extension to the multicast addressing 
+architecture of the IP Version 6 protocol.  The extension presented 
+in this document allows for unicast-prefix-based allocation of 
+multicast addresses.  By delegating multicast addresses at the same 
+time as unicast prefixes, network operators will be able to identify 
+their multicast addresses without needing to run an inter-domain 
+allocation protocol.</t>
+    </abstract>
   </front>
 </reference>

@@ -20,7 +20,6 @@
     <keyword>Visited</keyword>
     <keyword>ID</keyword>
     <keyword>P-</keyword>
-    <keyword>3GPP</keyword>
     <keyword>IMS</keyword>
     <abstract>
       <t>The Third Generation Partnership Project (3GPP) has identified cases where different SIP private header extensions referred to as "P-" header fields, and defined in RFC 7315, need to be included in SIP requests and responses where they were not allowed according to RFC 7315. This document updates RFC 7315, in order to allow inclusion of the affected "P-" header fields in such requests and responses. This document obsoletes RFC 7976. The changes related to RFC 7976 involve the inclusion of the P-Visited-Network-ID header field in SIP responses.</t>

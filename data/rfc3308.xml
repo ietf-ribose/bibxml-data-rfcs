@@ -22,5 +22,13 @@
     <keyword>phb</keyword>
     <keyword>diffserv</keyword>
     <keyword>Differentiated Services Extension</keyword>
+    <abstract>
+      <t>The Layer Two Tunneling Protocol (L2TP) provides a standard method
+for tunneling PPP packets.  The current specification provides no
+provisions for supporting Differentiated Services (diffserv) over the
+L2TP control connection or subsequent data sessions.  As a result, no
+standard mechanism currently exists within L2TP to provide L2TP
+protocol negotiations for service discrimination.</t>
+    </abstract>
   </front>
 </reference>

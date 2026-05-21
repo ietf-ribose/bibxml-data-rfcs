@@ -16,5 +16,15 @@
     <keyword>uniform resource identifier</keyword>
     <keyword>CNRP</keyword>
     <keyword>Common Name Resolution Protocol</keyword>
+    <abstract>
+      <t>This document defines a URI scheme, 'go:' to be used with the Common
+Name Resolution Protocol.  Specifically it lays out the syntactic
+components and how those components are used by URI Resolution to
+find the available transports for a CNRP service.  Care should be
+taken with several of the URI components because, while they may look
+like components found in other URI schemes, they often do not act
+like them.  The 'go' scheme has more in common with the location
+independent 'news' scheme than any other URI scheme.</t>
+    </abstract>
   </front>
 </reference>

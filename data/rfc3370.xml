@@ -11,7 +11,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2002"/>
+    <date month="September" year="2002"/>
     <workgroup>S/MIME Mail Security</workgroup>
     <keyword>CMS</keyword>
     <keyword>Cryptographic Message Syntax</keyword>
@@ -20,5 +20,11 @@
     <keyword>authenticate</keyword>
     <keyword>encrypt</keyword>
     <keyword>arbitrary message content</keyword>
+    <abstract>
+      <t>This document describes several cryptographic algorithms for use with
+the Cryptographic Message Syntax (CMS) [CMS].  The CMS is used to
+digitally sign, digest, authenticate, or encrypt arbitrary message
+contents.</t>
+    </abstract>
   </front>
 </reference>

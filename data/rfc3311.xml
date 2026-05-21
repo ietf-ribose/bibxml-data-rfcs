@@ -17,5 +17,14 @@
     <keyword>Session Initiation Protocol</keyword>
     <keyword>parameters</keyword>
     <keyword>media streams</keyword>
+    <abstract>
+      <t>This specification defines the new UPDATE method for the Session
+Initiation Protocol (SIP). UPDATE allows a client to update
+parameters of a session (such as the set of media streams and their
+codecs) but has no impact on the state of a dialog. In that sense, it
+is like a re-INVITE, but can be sent before the initial INVITE has
+completed. This makes it very useful for updating session parameters
+within early dialogs.</t>
+    </abstract>
   </front>
 </reference>

@@ -11,10 +11,20 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="November" year="2002"/>
+    <date month="December" year="2002"/>
     <workgroup>Session Initiation Protocol</workgroup>
     <keyword>SIP</keyword>
     <keyword>Session Initiation Protocol</keyword>
     <keyword>privacy service</keyword>
+    <abstract>
+      <t>This document defines new mechanisms for the Session Initiation
+Protocol (SIP) in support of privacy.  Specifically, guidelines are
+provided for the creation of messages that do not divulge personal
+identity information.  A new 'privacy service' logical role for
+intermediaries is defined to answer some privacy requirements that
+user agents cannot satisfy themselves.  Finally, means are presented
+by which a user can request particular functions from a privacy
+service.</t>
+    </abstract>
   </front>
 </reference>

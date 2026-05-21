@@ -14,7 +14,7 @@
     <author>
       <organization>RFC Series</organization>
     </author>
-    <date month="August" year="2002"/>
+    <date month="September" year="2002"/>
     <workgroup>Layer Two Tunneling Protocol Extensions</workgroup>
     <keyword>L2TP</keyword>
     <keyword>Layer Two Tunneling Protocol</keyword>
@@ -23,5 +23,16 @@
     <keyword>ATM</keyword>
     <keyword>asynchronous transfer mode</keyword>
     <keyword>adaptation layer</keyword>
+    <abstract>
+      <t>The Layer Two Tunneling Protocol (L2TP) [RFC2661] provides a standard
+method for transporting the link layer of PPP [RFC1661] between a
+dial-up server and a Network Access Server, using a network
+connection in lieu of a physical point to point connection.  This
+document describes the use of an ATM network for the underlying
+network connection. ATM User-Network Interface (UNI) Signalling
+Specification Version 4.0 [SIG40] or Version 3.1 [SIG31] with ATM
+Adaptation Layer 5 (AAL5) [ITU93] are supported as interfaces to the
+ATM network.</t>
+    </abstract>
   </front>
 </reference>

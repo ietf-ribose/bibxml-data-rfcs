@@ -15,5 +15,16 @@
     <workgroup>Session Initiation Protocol</workgroup>
     <keyword>qos</keyword>
     <keyword>quality of service</keyword>
+    <abstract>
+      <t>This document describes the need for QoS and media authorization and 
+defines a SIP extension that can be used to integrate QoS admission 
+control with call signaling and help guard against denial of service 
+attacks. The use of this extension is only applicable in 
+administrative domains, or among federations of administrative 
+domains with previously agreed-upon policies, where both the SIP 
+proxy authorizing the QoS, and the policy control of the underlying 
+network providing the QoS belong to that administrative domain or 
+federation of domains.</t>
+    </abstract>
   </front>
 </reference>

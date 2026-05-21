@@ -18,5 +18,11 @@
     <keyword>adler-32</keyword>
     <keyword>checksum</keyword>
     <keyword>error detection</keyword>
+    <abstract>
+      <t>Stream Control Transmission Protocol [RFC2960] (SCTP) currently uses an 
+Adler-32 checksum.  For small packets Adler-32 provides weak detection 
+of errors.  This document changes that checksum and updates SCTP to 
+use a 32 bit CRC checksum.</t>
+    </abstract>
   </front>
 </reference>

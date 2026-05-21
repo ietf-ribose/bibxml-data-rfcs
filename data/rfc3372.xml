@@ -17,5 +17,15 @@
     <workgroup>Session Initiation Proposal Investigation</workgroup>
     <keyword>pstn</keyword>
     <keyword>public switch telephone network</keyword>
+    <abstract>
+      <t>The popularity of gateways that interwork between the PSTN (Public
+Switched Telephone Network) and SIP networks has motivated the
+publication of a set ofcommon practices that can assure consistent
+behavior across implementations.  This document taxonomizes the uses
+of PSTN-SIP gateways, provides uses  cases, and identifies mechanisms
+necessary for interworking.  The mechanisms detail how SIP provides
+for both 'encapsulation' (carriage of PSTN signaling across a SIP
+network) and 'translation' (protocol mapping).</t>
+    </abstract>
   </front>
 </reference>

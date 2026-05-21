@@ -15,5 +15,13 @@
     <date month="September" year="2002"/>
     <keyword>internet protocol</keyword>
     <keyword>ip 97</keyword>
+    <abstract>
+      <t>This document describes EtherIP, an early tunneling protocol, to
+provide informational and historical context for the assignment of IP
+protocol 97.  EtherIP tunnels Ethernet and IEEE 802.3 media access
+control frames in IP datagrams so that non-IP traffic can traverse an
+IP internet.  The protocol is very lightweight, and it does not
+provide protection against infinite loops.</t>
+    </abstract>
   </front>
 </reference>

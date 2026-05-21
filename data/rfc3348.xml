@@ -14,5 +14,10 @@
     </author>
     <date month="July" year="2002"/>
     <keyword>children</keyword>
+    <abstract>
+      <t>The CHILDREN extension provides a mechanism for a client to 
+efficiently determine if a particular mailbox has children, without 
+issuing a LIST '' * or a LIST '' % for each mailbox name.</t>
+    </abstract>
   </front>
 </reference>
