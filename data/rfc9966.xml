@@ -1,0 +1,21 @@
+<reference anchor="RFC9966" target="https://www.rfc-editor.org/info/rfc9966">
+  <front>
+    <title>Bootstrapped TLS Authentication with Proof of Knowledge</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9966"/>
+    <seriesInfo name="RFC" value="9966"/>
+    <seriesInfo name="IETF"/>
+    <author initials="O." surname="Friel" fullname="O. Friel"/>
+    <author initials="D." surname="Harkins" fullname="D. Harkins"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>EAP Method Update</workgroup>
+    <abstract>
+      <t>This document defines a mechanism that enables a bootstrapping device to establish trust and mutually authenticate against a TLS server. Bootstrapping devices have a public/private key pair; this mechanism enables a TLS server to prove to the device that it knows the public key and enables the device to prove to the TLS server that it knows the private key. The mechanism leverages existing Device Provisioning Profile (DPP) and TLS standards and can be used in an Extensible Authentication Protocol (EAP) exchange with an EAP server.</t>
+    </abstract>
+  </front>
+</reference>
