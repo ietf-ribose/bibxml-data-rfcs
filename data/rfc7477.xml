@@ -14,7 +14,11 @@
     <date month="March" year="2015"/>
     <workgroup>Domain Name System Operations</workgroup>
     <abstract>
-      <t>This document specifies how a child zone in the DNS can publish a record to indicate to a parental agent that the parental agent may copy and process certain records from the child zone.  The existence of the record and any change in its value can be monitored by a parental agent and acted on depending on local policy.</t>
+      <t>This document specifies how a child zone in the DNS can publish a
+record to indicate to a parental agent that the parental agent may
+copy and process certain records from the child zone.  The existence
+of the record and any change in its value can be monitored by a
+parental agent and acted on depending on local policy.</t>
     </abstract>
   </front>
 </reference>
