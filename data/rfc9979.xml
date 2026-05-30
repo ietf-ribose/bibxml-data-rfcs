@@ -1,0 +1,27 @@
+<reference anchor="RFC9979" target="https://www.rfc-editor.org/info/rfc9979">
+  <front>
+    <title>Registration of Further IMAP/JMAP Keywords and Mailbox Name Attributes</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9979"/>
+    <seriesInfo name="RFC" value="9979"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Jenkins" fullname="N. Jenkins"/>
+    <author initials="D." surname="Eggert" fullname="D. Eggert"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Mail Maintenance</workgroup>
+    <keyword>IMAP</keyword>
+    <keyword>JMAP</keyword>
+    <abstract>
+      <t>This document defines a number of keywords and mailbox name
+   attributes that have been in use across different server and client
+   implementations.  It defines the intended use of these keywords and
+   mailbox name attributes.  This document registers all of these with
+   IANA to avoid name collisions.</t>
+    </abstract>
+  </front>
+</reference>

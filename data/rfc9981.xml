@@ -1,0 +1,25 @@
+<reference anchor="RFC9981" target="https://www.rfc-editor.org/info/rfc9981">
+  <front>
+    <title>Resource Public Key Infrastructure (RPKI) Manifest Number Handling</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9981"/>
+    <seriesInfo name="RFC" value="9981"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Harrison" fullname="T. Harrison"/>
+    <author initials="G." surname="Michaelson" fullname="G. Michaelson"/>
+    <author initials="J." surname="Snijders" fullname="J. Snijders"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>SIDR Operations</workgroup>
+    <keyword>RPKI</keyword>
+    <keyword>Routing Security</keyword>
+    <keyword>X.509</keyword>
+    <abstract>
+      <t>The Resource Public Key Infrastructure (RPKI) makes use of signed objects called "manifests", each of which includes a "manifest number". This document updates RFC 9286 by specifying issuer and Relying Party (RP) behaviour when a manifest number reaches the largest possible value, a situation not considered in RFC 9286.</t>
+    </abstract>
+  </front>
+</reference>
