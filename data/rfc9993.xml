@@ -1,0 +1,25 @@
+<reference anchor="RFC9993" target="https://www.rfc-editor.org/info/rfc9993">
+  <front>
+    <title>RTP Payload Format for Haptics</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9993"/>
+    <seriesInfo name="RFC" value="9993"/>
+    <seriesInfo name="IETF"/>
+    <author initials="HS" surname="Yang" fullname="HS Yang"/>
+    <author initials="X." surname="de Foy" fullname="X. de Foy"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="May" year="2026"/>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>touch</keyword>
+    <keyword>tactile</keyword>
+    <keyword>vibrotactile</keyword>
+    <keyword>kinesthetic</keyword>
+    <abstract>
+      <t>This memo specifies an RTP payload format for MPEG-I haptic data. A haptic media stream is composed of MPEG-I Haptic Stream (MIHS) units including a MIHS unit header and zero or more MIHS packets. The RTP payload header format allows for packetization of a MIHS unit in an RTP packet payload as well as fragmentation of a MIHS unit into multiple RTP packets. The original subtype registration for 'haptics/hmpg' (RFC 9695) did not include any required or optional parameters. This memo updates RFC 9695 and the 'haptics/hmpg' registration to add optional parameters. It also provides Session Description Protocol (SDP) usage information for the 'haptics' media type.</t>
+    </abstract>
+  </front>
+</reference>
