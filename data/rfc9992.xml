@@ -1,0 +1,24 @@
+<reference anchor="RFC9992" target="https://www.rfc-editor.org/info/rfc9992">
+  <front>
+    <title>Routing in Fat Trees (RIFT) Key/Value Topology Information Elements Structure and Processing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9992"/>
+    <seriesInfo name="RFC" value="9992"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Head" fullname="J. Head" role="editor"/>
+    <author initials="T." surname="Przygienda" fullname="T. Przygienda"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Routing In Fat Trees</workgroup>
+    <keyword>rift</keyword>
+    <keyword>kv</keyword>
+    <abstract>
+      <t>The Routing in Fat Trees (RIFT) protocol allows for key/value pairs to be advertised within Key-Value Topology Information Elements (KV TIEs). The data contained within these KV TIEs can be used for any imaginable purpose.</t>
+      <t>This document specifies behavior for the various Key Types (i.e., Well-Known, Organizationally Unique Identifier (OUI), and Experimental) and a method to structure corresponding values. It also defines a Well-Known Key Sub-Type used for testing tie-breaking behavior.</t>
+    </abstract>
+  </front>
+</reference>
