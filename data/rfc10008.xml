@@ -1,0 +1,25 @@
+<reference anchor="RFC10008" target="https://www.rfc-editor.org/info/rfc10008">
+  <front>
+    <title>The HTTP QUERY Method</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10008"/>
+    <seriesInfo name="RFC" value="10008"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Reschke" fullname="J. Reschke"/>
+    <author initials="J.M." surname="Snell" fullname="J.M. Snell"/>
+    <author initials="M." surname="Bishop" fullname="M. Bishop"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>HTTP</workgroup>
+    <keyword>http</keyword>
+    <keyword>query</keyword>
+    <keyword>method</keyword>
+    <abstract>
+      <t>This specification defines the QUERY method for HTTP. A QUERY requests that the request target process the enclosed content in a safe and idempotent manner and then respond with the result of that processing. This is similar to POST requests, but QUERY requests can be automatically repeated or restarted without concern for partial state changes.</t>
+    </abstract>
+  </front>
+</reference>
