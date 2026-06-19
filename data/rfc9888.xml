@@ -1,0 +1,21 @@
+<reference anchor="RFC9888" target="https://www.rfc-editor.org/info/rfc9888">
+  <front>
+    <title>Out-of-Band Secure Telephone Identity Revisited (STIR) for Service Providers</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9888"/>
+    <seriesInfo name="RFC" value="9888"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Peterson" fullname="J. Peterson"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Secure Telephone Identity Revisited</workgroup>
+    <keyword>SIP</keyword>
+    <abstract>
+      <t>The Secure Telephone Identity Revisited (STIR) framework defines means of carrying its Personal Assertion Tokens (PASSporTs) either in-band, within the headers of a Session Initiation Protocol (SIP) request, or out-of-band, through a service that stores PASSporTs for retrieval by relying parties. This specification defines a way that the out-of-band conveyance of PASSporTs can be used to support large service providers for cases in which in-band STIR conveyance is not universally available.</t>
+    </abstract>
+  </front>
+</reference>
