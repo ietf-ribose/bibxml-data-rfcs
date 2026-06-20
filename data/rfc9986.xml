@@ -1,0 +1,28 @@
+<reference anchor="RFC9986" target="https://www.rfc-editor.org/info/rfc9986">
+  <front>
+    <title>Meticulous Keyed ISAAC for Bidirectional Forwarding Detection (BFD) Optimized Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9986"/>
+    <seriesInfo name="RFC" value="9986"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="DeKok" fullname="A. DeKok"/>
+    <author initials="M." surname="Jethanandani" fullname="M. Jethanandani"/>
+    <author initials="S." surname="Agarwal" fullname="S. Agarwal"/>
+    <author initials="A." surname="Mishra" fullname="A. Mishra"/>
+    <author initials="J." surname="Haas" fullname="J. Haas"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Bidirectional Forwarding Detection</workgroup>
+    <keyword>secure BFD</keyword>
+    <keyword>replay packets</keyword>
+    <keyword>spoofing</keyword>
+    <keyword>pseudo-random number</keyword>
+    <abstract>
+      <t>This document describes a Bidirectional Forwarding Detection (BFD) Optimized Authentication Mode known as Meticulous Keyed ISAAC Authentication. This mode can be used to authenticate some BFD packets with less CPU time cost than using MD5 or SHA-1 with the trade-off of decreased security. This mechanism cannot be used to signal state changes, but it can be used to maintain a session in the Up state.</t>
+    </abstract>
+  </front>
+</reference>

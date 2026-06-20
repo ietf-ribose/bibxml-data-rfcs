@@ -1,0 +1,26 @@
+<reference anchor="RFC9985" target="https://www.rfc-editor.org/info/rfc9985">
+  <front>
+    <title>Optimizing Bidirectional Forwarding Detection (BFD) Authentication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9985"/>
+    <seriesInfo name="RFC" value="9985"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Jethanandani" fullname="M. Jethanandani"/>
+    <author initials="A." surname="Mishra" fullname="A. Mishra"/>
+    <author initials="J." surname="Haas" fullname="J. Haas"/>
+    <author initials="A." surname="Saxena" fullname="A. Saxena"/>
+    <author initials="M." surname="Bhatia" fullname="M. Bhatia"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Bidirectional Forwarding Detection</workgroup>
+    <keyword>BFD</keyword>
+    <keyword>authentication</keyword>
+    <abstract>
+      <t>This document describes an experimental optimization to Bidirectional Forwarding Detection (BFD) Authentication. This optimization enables BFD to scale better when there is a desire to use authentication where applying the same authentication mechanism to every BFD Control Packet may adversely impact performance. This optimization partitions BFD Authentication into a more computationally intensive (MCI) mechanism that is applied to BFD significant changes and a less computationally intensive (LCI) mechanism that is applied to the majority of BFD Control Packets.</t>
+    </abstract>
+  </front>
+</reference>
