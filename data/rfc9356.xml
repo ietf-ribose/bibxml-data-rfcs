@@ -13,7 +13,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="January" year="2023"/>
-    <workgroup>Link State Routing</workgroup>
+    <workgroup>lsr</workgroup>
     <keyword>OSPF</keyword>
     <abstract>
       <t>There are deployments where the Layer 3 (L3) interface on which OSPF operates is a Layer 2 (L2) interface bundle. Existing OSPF advertisements only support advertising link attributes of the L3 interface. If entities external to OSPF wish to control traffic flows on the individual physical links that comprise the L2 interface bundle, link attribute information for the bundle members is required.</t>

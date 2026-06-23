@@ -15,7 +15,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="December" year="2025"/>
-    <workgroup>Operations and Management Area Working Group</workgroup>
+    <workgroup>opsawg</workgroup>
     <keyword>TACACS+</keyword>
     <abstract>
       <t>This document specifies the use of Transport Layer Security (TLS) version 1.3 to secure the communication channel between a Terminal Access Controller Access-Control System Plus (TACACS+) client and server. TACACS+ is a protocol used for Authentication, Authorization, and Accounting (AAA) in networked environments. The original TACACS+ protocol does not mandate the use of encryption or secure transport. This specification defines a profile for using TLS 1.3 with TACACS+, including guidance on authentication, connection establishment, and operational considerations. The goal is to enhance the confidentiality, integrity, and authenticity of TACACS+ traffic, aligning the protocol with modern security best practices.</t>

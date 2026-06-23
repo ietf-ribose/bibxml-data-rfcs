@@ -13,7 +13,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="March" year="2025"/>
-    <workgroup>Network File System Version 4</workgroup>
+    <workgroup>nfsv4</workgroup>
     <keyword>NFSv4</keyword>
     <abstract>
       <t>The Network File System v4 (NFSv4) allows a client to both open a file and be granted a delegation of that file.  This delegation provides the client the right to authoritatively cache metadata on the file locally.  This document presents several extensions for both opening the file and delegating it to the client.  This document extends NFSv4.2 (see RFC 7863).</t>

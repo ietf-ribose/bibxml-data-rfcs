@@ -16,7 +16,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="January" year="2023"/>
-    <workgroup>Link State Routing</workgroup>
+    <workgroup>lsr</workgroup>
     <keyword>Path Computation Element</keyword>
     <abstract>
       <t>When a Path Computation Element (PCE) is a Label Switching Router (LSR) or a server participating in the Interior Gateway Protocol (IGP), its presence and path computation capabilities can be advertised using IGP flooding. The IGP extensions for PCE Discovery (PCED) (RFCs 5088 and 5089) define a method to advertise path computation capabilities using IGP flooding for OSPF and IS-IS, respectively. However, these specifications lack a method to advertise Path Computation Element Communication Protocol (PCEP) security (e.g., Transport Layer Security (TLS) and TCP Authentication Option (TCP-AO)) support capability.</t>
