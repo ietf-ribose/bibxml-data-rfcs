@@ -13,7 +13,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="June" year="2025"/>
-    <workgroup>dnssd</workgroup>
+    <workgroup>Extensions for Scalable DNS Service Discovery</workgroup>
     <keyword>DNS Update</keyword>
     <abstract>
       <t>This document describes an EDNS(0) option that can be used between DNS Update Requesters and authoritative DNS servers to include a lifetime (lease duration) in a DNS Update or DNS Update Response, allowing a server to garbage collect stale Resource Records that have been added by DNS Updates if they are not renewed.</t>

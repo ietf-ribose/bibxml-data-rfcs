@@ -13,7 +13,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="June" year="2024"/>
-    <workgroup>cose</workgroup>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
     <keyword>Explicit Typing</keyword>
     <abstract>
       <t>This specification adds the equivalent of the JSON Object Signing and Encryption (JOSE) "typ" (type) header parameter to CBOR Object Signing and Encryption (COSE).  This enables the benefits of explicit typing (as defined in RFC 8725, "JSON Web Token Best Current Practices") to be brought to COSE objects.  The syntax of the COSE type header parameter value is the same as the existing COSE content type header parameter.</t>

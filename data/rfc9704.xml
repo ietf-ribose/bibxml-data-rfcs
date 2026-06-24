@@ -15,7 +15,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="January" year="2025"/>
-    <workgroup>add</workgroup>
+    <workgroup>Adaptive DNS Discovery</workgroup>
     <abstract>
       <t>When split-horizon DNS is deployed by a network, certain domain names can be resolved authoritatively by a network-provided DNS resolver.  DNS clients that are not configured to use this resolver by default can use it for these specific domains only.  This specification defines a mechanism for domain owners to inform DNS clients about local resolvers that are authorized to answer authoritatively for certain subdomains.</t>
     </abstract>

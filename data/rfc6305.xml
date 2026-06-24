@@ -13,7 +13,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="July" year="2011"/>
-    <workgroup>dnsop</workgroup>
+    <workgroup>Domain Name System Operations</workgroup>
     <abstract>
       <t>Many sites connected to the Internet make use of IPv4 addresses that are not globally unique. Examples are the addresses designated in RFC 1918 for private use within individual sites.</t>
       <t>Hosts should never normally send DNS reverse-mapping queries for those addresses on the public Internet. However, such queries are frequently observed. Authoritative servers are deployed to provide authoritative answers to such queries as part of a loosely coordinated effort known as the AS112 project.</t>

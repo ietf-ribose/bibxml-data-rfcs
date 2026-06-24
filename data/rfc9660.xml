@@ -14,7 +14,7 @@
       <organization>RFC Series</organization>
     </author>
     <date month="October" year="2024"/>
-    <workgroup>dnsop</workgroup>
+    <workgroup>Domain Name System Operations</workgroup>
     <keyword>zoneversion</keyword>
     <abstract>
       <t>The DNS ZONEVERSION option is a way for DNS clients to request, and for authoritative DNS servers to provide, information regarding the version of the zone from which a response is generated. The SERIAL field from the Start of Authority (SOA) resource record (RR) is a good example of a zone's version, and it is the only one defined by this specification. Additional version types may be defined by future specifications.</t>
