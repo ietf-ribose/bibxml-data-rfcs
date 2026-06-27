@@ -1,0 +1,27 @@
+<reference anchor="RFC9994" target="https://www.rfc-editor.org/info/rfc9994">
+  <front>
+    <title>MPLS Network Action (MNA) Sub-Stack Specification Including In-Stack Network Actions and Data</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9994"/>
+    <seriesInfo name="RFC" value="9994"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Rajamanickam" fullname="J. Rajamanickam" role="editor"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi" role="editor"/>
+    <author initials="R." surname="Zigler" fullname="R. Zigler"/>
+    <author initials="H." surname="Song" fullname="H. Song"/>
+    <author initials="K." surname="Kompella" fullname="K. Kompella"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Multiprotocol Label Switching</workgroup>
+    <keyword>MNA Header</keyword>
+    <keyword>MNA Encoding</keyword>
+    <abstract>
+      <t>This document specifies the MPLS Network Action (MNA) Sub-Stack for carrying network actions and Ancillary Data (AD) in the MPLS label stack. MNA can be used to influence packet-forwarding decisions, carry additional Operations, Administration, and Maintenance (OAM) information in the MPLS packet, or perform user-defined operations.</t>
+      <t>This document updates RFC 9789 to refine the list of pieces of information that must be included in any document that defines an MNA.</t>
+    </abstract>
+  </front>
+</reference>
