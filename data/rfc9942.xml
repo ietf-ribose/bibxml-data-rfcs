@@ -1,0 +1,24 @@
+<reference anchor="RFC9942" target="https://www.rfc-editor.org/info/rfc9942">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE) Receipts</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9942"/>
+    <seriesInfo name="RFC" value="9942"/>
+    <seriesInfo name="IETF"/>
+    <author initials="O." surname="Steele" fullname="O. Steele"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author initials="A." surname="Delignat-Lavaud" fullname="A. Delignat-Lavaud"/>
+    <author initials="C." surname="Fournet" fullname="C. Fournet"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>CBOR Object Signing and Encryption</workgroup>
+    <keyword>COSE</keyword>
+    <abstract>
+      <t>CBOR Object Signing and Encryption (COSE) Receipts prove properties of a Verifiable Data Structure (VDS) to a verifier. VDSs and associated Proof Types enable security properties, such as minimal disclosure, transparency, and non-equivocation. Transparency helps maintain trust over time and has been applied to certificates, end-to-end encrypted messaging systems, and supply chain security. This specification enables concise transparency-oriented systems by building on Concise Binary Object Representation (CBOR) and COSE. The extensibility of the approach is demonstrated by providing CBOR encodings for Merkle inclusion and consistency proofs.</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="RFC9980" target="https://www.rfc-editor.org/info/rfc9980">
+  <front>
+    <title>Post-Quantum Cryptography in OpenPGP</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9980"/>
+    <seriesInfo name="RFC" value="9980"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Kousidis" fullname="S. Kousidis"/>
+    <author initials="J." surname="Roth" fullname="J. Roth"/>
+    <author initials="F." surname="Strenzke" fullname="F. Strenzke"/>
+    <author initials="A." surname="Wussler" fullname="A. Wussler"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Open Specification for Pretty Good Privacy</workgroup>
+    <keyword>pgp</keyword>
+    <keyword>pqc</keyword>
+    <keyword>encryption</keyword>
+    <keyword>digital signature</keyword>
+    <keyword>post-quantum</keyword>
+    <abstract>
+      <t>This document defines a post-quantum public key algorithm extension for the OpenPGP protocol, extending RFC 9580. Given the generally assumed threat of a cryptographically relevant quantum computer, this extension provides a basis for long-term secure OpenPGP signatures and ciphertexts. Specifically, it defines composite public key encryption based on ML-KEM (formerly CRYSTALS-Kyber), composite public key signatures based on ML-DSA (formerly CRYSTALS-Dilithium), both in combination with Elliptic Curve Cryptography (ECC), and SLH-DSA (formerly SPHINCS+) as a standalone public key signature scheme.</t>
+    </abstract>
+  </front>
+</reference>

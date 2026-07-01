@@ -1,0 +1,25 @@
+<reference anchor="RFC9943" target="https://www.rfc-editor.org/info/rfc9943">
+  <front>
+    <title>An Architecture for Trustworthy and Transparent Digital Supply Chains</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9943"/>
+    <seriesInfo name="RFC" value="9943"/>
+    <seriesInfo name="IETF"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author initials="A." surname="Delignat-Lavaud" fullname="A. Delignat-Lavaud"/>
+    <author initials="C." surname="Fournet" fullname="C. Fournet"/>
+    <author initials="Y." surname="Deshpande" fullname="Y. Deshpande"/>
+    <author initials="S." surname="Lasker" fullname="S. Lasker"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="June" year="2026"/>
+    <workgroup>Supply Chain Integrity, Transparency, and Trust</workgroup>
+    <keyword>COSE</keyword>
+    <abstract>
+      <t>Traceability in supply chains is a growing security concern. While Verifiable Data Structures (VDSs) have addressed specific issues, such as equivocation over digital certificates, they lack a universal architecture for all supply chains. This document defines such an architecture for single-issuer signed statement transparency. It ensures extensibility and interoperability between different transparency services as well as compliance with various auditing procedures and regulatory requirements.</t>
+    </abstract>
+  </front>
+</reference>
