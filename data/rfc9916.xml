@@ -1,0 +1,28 @@
+<reference anchor="RFC9916" target="https://www.rfc-editor.org/info/rfc9916">
+  <front>
+    <title>Updates to the Usage of TLS to Provide a Secure Transport for the Path Computation Element Communication Protocol (PCEP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9916"/>
+    <seriesInfo name="RFC" value="9916"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Dhody" fullname="D. Dhody"/>
+    <author initials="S." surname="Turner" fullname="S. Turner"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Path Computation Element</workgroup>
+    <keyword>PCEP</keyword>
+    <keyword>PCEPS</keyword>
+    <keyword>TLS 1.3</keyword>
+    <keyword>TLS 1.2</keyword>
+    <keyword>Early Data</keyword>
+    <keyword>0-RTT</keyword>
+    <abstract>
+      <t>Section 3.4 of RFC 8253 specifies TLS connection establishment restrictions for PCEPS; PCEPS refers to usage of TLS to provide a secure transport for the Path Computation Element Communication Protocol (PCEP). This document adds restrictions to specify what PCEPS implementations do if they support more than one version of the TLS protocol and to restrict the use of TLS 1.3's early data.</t>
+    </abstract>
+  </front>
+</reference>
