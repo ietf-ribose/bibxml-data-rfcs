@@ -1,0 +1,23 @@
+<reference anchor="RFC9954" target="https://www.rfc-editor.org/info/rfc9954">
+  <front>
+    <title>Hybrid Key Exchange in TLS 1.3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9954"/>
+    <seriesInfo name="RFC" value="9954"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Stebila" fullname="D. Stebila"/>
+    <author initials="S." surname="Fluhrer" fullname="S. Fluhrer"/>
+    <author initials="S." surname="Gueron" fullname="S. Gueron"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>Post-Quantum</keyword>
+    <abstract>
+      <t>Hybrid key exchange refers to using multiple key exchange algorithms simultaneously and combining the result with the goal of providing security even if a way is found to defeat the encryption for all but one of the component algorithms. It is motivated by the transition to post-quantum cryptography. This document provides a construction for hybrid key exchange in the Transport Layer Security (TLS) protocol version 1.3.</t>
+    </abstract>
+  </front>
+</reference>

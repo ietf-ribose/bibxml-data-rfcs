@@ -1,0 +1,25 @@
+<reference anchor="RFC9850" target="https://www.rfc-editor.org/info/rfc9850">
+  <front>
+    <title>The SSLKEYLOGFILE Format for TLS</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9850"/>
+    <seriesInfo name="RFC" value="9850"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Thomson" fullname="M. Thomson"/>
+    <author initials="Y." surname="Rosomakho" fullname="Y. Rosomakho"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>network transparency</keyword>
+    <keyword>tls</keyword>
+    <keyword>blockchain</keyword>
+    <abstract>
+      <t>This document describes a format that supports logging information about the secrets used in a TLS connection. Recording secrets to a file in SSLKEYLOGFILE format allows diagnostic and logging tools that use this file to decrypt messages exchanged by TLS endpoints. This format is intended for use in systems where TLS only protects test data.</t>
+    </abstract>
+  </front>
+</reference>
