@@ -1,0 +1,26 @@
+<reference anchor="RFC10003" target="https://www.rfc-editor.org/info/rfc10003">
+  <front>
+    <title>Certificate Management over CMS (CMC): Transport Protocols</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10003"/>
+    <seriesInfo name="RFC" value="10003"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Mandel" fullname="J. Mandel" role="editor"/>
+    <author initials="S." surname="Turner" fullname="S. Turner" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>Public Key Infrastructure</keyword>
+    <keyword>Cryptographic Message Syntax</keyword>
+    <keyword>Certificate Management</keyword>
+    <keyword>Transport Protocols</keyword>
+    <abstract>
+      <t>This document defines a number of transport mechanisms that are used to move Certificate Management over CMS (CMC) messages. The transport mechanisms described in this document are HTTP, file, mail, and TCP.</t>
+      <t>This document obsoletes RFCs 5273 and 6402.</t>
+    </abstract>
+  </front>
+</reference>

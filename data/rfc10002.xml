@@ -1,0 +1,26 @@
+<reference anchor="RFC10002" target="https://www.rfc-editor.org/info/rfc10002">
+  <front>
+    <title>Certificate Management over CMS (CMC)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10002"/>
+    <seriesInfo name="RFC" value="10002"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Mandel" fullname="J. Mandel" role="editor"/>
+    <author initials="S." surname="Turner" fullname="S. Turner" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>Public Key Infrastructure</keyword>
+    <keyword>Certificate Management</keyword>
+    <keyword>Cryptographic Message Syntax</keyword>
+    <abstract>
+      <t>This document defines the base syntax for CMC, a Certificate Management protocol using the Cryptographic Message Syntax (CMS). This protocol addresses two immediate needs within the Internet Public Key Infrastructure (PKI) community:</t>
+      <t>CMC also requires the use of the transport document (RFC 10003) and the requirements usage document (RFC 10004) along with this document for a full definition.</t>
+      <t>This document obsoletes RFCs 5272 and 6402.</t>
+    </abstract>
+  </front>
+</reference>
