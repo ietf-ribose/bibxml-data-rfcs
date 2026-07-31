@@ -1,0 +1,23 @@
+<reference anchor="RFC10019" target="https://www.rfc-editor.org/info/rfc10019">
+  <front>
+    <title>Zeroconf Multicast Address Allocation Problem Statement and Requirements</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10019"/>
+    <seriesInfo name="RFC" value="10019"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Karstens" fullname="N. Karstens"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="M." surname="McBride" fullname="M. McBride"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <abstract>
+      <t>This document surveys current problems with existing protocols for automatically assigning multicast IP addresses in zero-configuration (zeroconf) networking environments. It addresses key challenges, such as link-layer address collisions, hardware limitations, multicast snooping inefficiencies, and the need to avoid manual configuration. Based on these challenges, it derives requirements for a lightweight, decentralized solution for dynamically allocating unique multicast group addresses without central coordination.</t>
+      <t>The document presents explicit requirements covering discovery, allocation, conflict detection and resolution, and lease management. It also evaluates considerations specific to IPv6 and IPv4 multicast address ranges, and identifies approaches that are unsuited for zeroconf deployment. This foundation serves as a reference for developing future solutions for multicast address allocation that operate autonomously within local networks.</t>
+    </abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="RFC10023" target="https://www.rfc-editor.org/info/rfc10023">
+  <front>
+    <title>The "_for-sale" Underscored and Globally Scoped DNS Node Name</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10023"/>
+    <seriesInfo name="RFC" value="10023"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Davids" fullname="M. Davids"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <keyword>domain name system</keyword>
+    <keyword>domain sale</keyword>
+    <keyword>domain brokerage</keyword>
+    <keyword>domain aftermarket</keyword>
+    <keyword>TXT record</keyword>
+    <keyword>attrleaf</keyword>
+    <abstract>
+      <t>This document defines an operational convention that uses the
+   reserved underscored DNS leaf node name "_for-sale" to indicate the
+   parent domain name is available for purchase.
+
+   The convention can be deployed without disrupting existing
+   operations, and it may be applied even when the domain name is still
+   actively in use.</t>
+    </abstract>
+  </front>
+</reference>

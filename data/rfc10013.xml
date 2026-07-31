@@ -1,0 +1,28 @@
+<reference anchor="RFC10013" target="https://www.rfc-editor.org/info/rfc10013">
+  <front>
+    <title>Entity Attestation Token (EAT) Measured Component</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10013"/>
+    <seriesInfo name="RFC" value="10013"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Frost" fullname="S. Frost"/>
+    <author initials="T." surname="Fossati" fullname="T. Fossati"/>
+    <author initials="H." surname="Tschofenig" fullname="H. Tschofenig"/>
+    <author initials="H." surname="Birkholz" fullname="H. Birkholz"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Remote ATtestation ProcedureS</workgroup>
+    <keyword>EAT</keyword>
+    <keyword>measurements</keyword>
+    <keyword>claim</keyword>
+    <keyword>measured</keyword>
+    <keyword>component</keyword>
+    <abstract>
+      <t>The term "measured component" refers to an object within the attester's target environment whose state can be sampled and typically digested using a cryptographic hash function. Examples of measured components include firmware stored in flash memory, software loaded into memory at start time, data stored in a file system, or values in a CPU register. This document provides the information model for the measured component and two associated data models. This separation is intentional: The JSON and Concise Binary Object Representation (CBOR) serializations, coupled with the media types and associated Constrained Application Protocol (CoAP) Content-Formats, enable the immediate use of the semantics within the Entity Attestation Token (EAT) framework. Meanwhile, the information model can be reused in future specifications to provide additional serializations, for example, using ASN.1.</t>
+    </abstract>
+  </front>
+</reference>
