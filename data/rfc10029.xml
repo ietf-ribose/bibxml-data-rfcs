@@ -1,0 +1,22 @@
+<reference anchor="RFC10029" target="https://www.rfc-editor.org/info/rfc10029">
+  <front>
+    <title>DNS Multiple QTYPEs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10029"/>
+    <seriesInfo name="RFC" value="10029"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Bellis" fullname="R. Bellis"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Extensions for Scalable DNS Service Discovery</workgroup>
+    <keyword>DNS</keyword>
+    <keyword>resource records</keyword>
+    <abstract>
+      <t>This document specifies a method for a DNS client to request additional DNS record types to be delivered alongside the primary record type specified in the Question section of a DNS QUERY (OpCode=0).</t>
+    </abstract>
+  </front>
+</reference>

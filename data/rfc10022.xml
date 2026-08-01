@@ -1,0 +1,21 @@
+<reference anchor="RFC10022" target="https://www.rfc-editor.org/info/rfc10022">
+  <front>
+    <title>IMAP UIDBATCHES Extension</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10022"/>
+    <seriesInfo name="RFC" value="10022"/>
+    <seriesInfo name="IETF"/>
+    <author initials="D." surname="Eggert" fullname="D. Eggert" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="July" year="2026"/>
+    <workgroup>Mail Maintenance</workgroup>
+    <keyword>IMAP</keyword>
+    <abstract>
+      <t>The UIDBATCHES extension of the Internet Message Access Protocol (IMAP) allows clients to retrieve Unique Identifier (UID) ranges that partition a mailbox's messages into equally sized batches. This enables clients to perform operations such as FETCH, SEARCH, and STORE on specific message batches, providing better control over resource usage and response sizes. The extension is particularly useful with the UIDONLY mode where sequence numbers are unavailable.</t>
+    </abstract>
+  </front>
+</reference>
