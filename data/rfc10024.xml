@@ -1,0 +1,29 @@
+<reference anchor="RFC10024" target="https://www.rfc-editor.org/info/rfc10024">
+  <front>
+    <title>Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10024"/>
+    <seriesInfo name="RFC" value="10024"/>
+    <seriesInfo name="IETF"/>
+    <author initials="K." surname="Kwiatkowski" fullname="K. Kwiatkowski"/>
+    <author initials="P." surname="Kampanakis" fullname="P. Kampanakis"/>
+    <author initials="B. E." surname="Westerbaan" fullname="B. E. Westerbaan"/>
+    <author initials="D." surname="Stebila" fullname="D. Stebila"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Transport Layer Security</workgroup>
+    <keyword>ECDH</keyword>
+    <keyword>ECDHE</keyword>
+    <keyword>hybrid</keyword>
+    <keyword>ML-KEM</keyword>
+    <keyword>post-quantum</keyword>
+    <keyword>x25519</keyword>
+    <abstract>
+      <t>This document defines three hybrid key agreement mechanisms for TLS 1.3 -- X25519MLKEM768, SecP256r1MLKEM768, and SecP384r1MLKEM1024 -- that combine the post-quantum ML-KEM (Module-Lattice-Based Key Encapsulation Mechanism) with an ECDHE (Ephemeral Elliptic Curve Diffie-Hellman) exchange.</t>
+    </abstract>
+  </front>
+</reference>
