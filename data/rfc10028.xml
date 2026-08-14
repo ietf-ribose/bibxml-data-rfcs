@@ -1,0 +1,24 @@
+<reference anchor="RFC10028" target="https://www.rfc-editor.org/info/rfc10028">
+  <front>
+    <title>Updates to Dynamic IPv6 Multicast Address Group IDs</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10028"/>
+    <seriesInfo name="RFC" value="10028"/>
+    <seriesInfo name="IETF"/>
+    <author initials="N." surname="Karstens" fullname="N. Karstens"/>
+    <author initials="D." surname="Farinacci" fullname="D. Farinacci"/>
+    <author initials="M." surname="McBride" fullname="M. McBride"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Protocols for IP Multicast</workgroup>
+    <keyword>MADCAP</keyword>
+    <keyword>architecture</keyword>
+    <abstract>
+      <t>This document describes limitations of the existing range of dynamic IPv6 multicast addresses specified in "Allocation Guidelines for IPv6 Multicast Addresses" (RFC 3307). It updates RFC 3307 by replacing these allocations with a new IANA registry in the "IPv6 Multicast Address Space" registry group. The document also defines initial contents of the new registry: a reduced allocation for the Multicast Address Dynamic Client Allocation Protocol (MADCAP) (RFC 2730), a range for Source-Specific Multicast (SSM), a Private Use range, a range for Experimental Use, and Solicited-Node multicast addresses (which were not previously noted in RFC 3307).</t>
+    </abstract>
+  </front>
+</reference>

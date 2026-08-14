@@ -1,0 +1,22 @@
+<reference anchor="RFC9971" target="https://www.rfc-editor.org/info/rfc9971">
+  <front>
+    <title>Multiple Loss Ratio Search</title>
+    <seriesInfo name="DOI" value="10.17487/RFC9971"/>
+    <seriesInfo name="RFC" value="9971"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Konstantynowicz" fullname="M. Konstantynowicz"/>
+    <author initials="V." surname="Polak" fullname="V. Polak"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Benchmarking Methodology</workgroup>
+    <abstract>
+      <t>This document describes an alternative to throughput in "Benchmarking Methodology for Network Interconnect Devices" (RFC 2544) by defining a new methodology called Multiple Loss Ratio Search (MLRsearch). MLRsearch aims to minimize Search Duration, support multiple loss ratio goals, and improve result repeatability and comparability.</t>
+      <t>MLRsearch is motivated by the pressing need to address the challenges of evaluating and testing the various data plane solutions, especially in software-based networking systems based on Commercial Off-the-Shelf (COTS) CPU hardware vs. purpose-built Application-Specific Integrated Circuit (ASIC) / Network Processing Unit (NPU) / Field-Programmable Gate Array (FPGA) hardware.</t>
+    </abstract>
+  </front>
+</reference>

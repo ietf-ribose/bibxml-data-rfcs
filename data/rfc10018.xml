@@ -1,0 +1,24 @@
+<reference anchor="RFC10018" target="https://www.rfc-editor.org/info/rfc10018">
+  <front>
+    <title>Multicast and Ethernet VPN with Segment Routing Point-to-Multipoint (P2MP) and Ingress Replication</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10018"/>
+    <seriesInfo name="RFC" value="10018"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Parekh" fullname="R. Parekh" role="editor"/>
+    <author initials="D." surname="Voyer" fullname="D. Voyer" role="editor"/>
+    <author initials="C." surname="Filsfils" fullname="C. Filsfils"/>
+    <author initials="H." surname="Bidgoli" fullname="H. Bidgoli"/>
+    <author initials="Z." surname="Zhang" fullname="Z. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>BGP Enabled ServiceS</workgroup>
+    <abstract>
+      <t>A Point-to-Multipoint (P2MP) tree in a Segment Routing (SR) domain carries traffic from a Root to a set of Leaves. This document specifies extensions to BGP encodings and procedures for P2MP trees and Ingress Replication used in BGP/MPLS IP VPNs and Ethernet VPNs (EVPNs) in an SR domain. This document updates RFCs 6514 and 7988.</t>
+    </abstract>
+  </front>
+</reference>

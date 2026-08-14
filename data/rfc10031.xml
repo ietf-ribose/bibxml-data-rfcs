@@ -1,0 +1,28 @@
+<reference anchor="RFC10031" target="https://www.rfc-editor.org/info/rfc10031">
+  <front>
+    <title>Media Access Control (MAC) Addresses in X.509 Certificates</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10031"/>
+    <seriesInfo name="RFC" value="10031"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Housley" fullname="R. Housley"/>
+    <author initials="C." surname="Bonnell" fullname="C. Bonnell"/>
+    <author initials="J." surname="Mandel" fullname="J. Mandel"/>
+    <author initials="T." surname="Okubo" fullname="T. Okubo"/>
+    <author initials="M." surname="StJohns" fullname="M. StJohns"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>MACsec</keyword>
+    <keyword>802.1AE</keyword>
+    <keyword>X.509</keyword>
+    <keyword>SubjectAltName</keyword>
+    <abstract>
+      <t>This document defines a new GeneralName.otherName for inclusion in the X.509 Subject Alternative Name (SAN) and Issuer Alternative Name (IAN) extensions to carry an IEEE Media Access Control (MAC) address. The new name form makes it possible to bind a Layer 2 interface identifier to a public key certificate. Additionally, this document defines how constraints on this name form can be encoded and processed in the X.509 Name Constraints extension (NCE).</t>
+    </abstract>
+  </front>
+</reference>
