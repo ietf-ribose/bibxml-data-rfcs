@@ -1,0 +1,23 @@
+<reference anchor="RFC10030" target="https://www.rfc-editor.org/info/rfc10030">
+  <front>
+    <title>Network Time Protocol (NTP) over the Precision Time Protocol (PTP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10030"/>
+    <seriesInfo name="RFC" value="10030"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Lichvar" fullname="M. Lichvar"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Network Time Protocols</workgroup>
+    <keyword>time</keyword>
+    <keyword>clock</keyword>
+    <keyword>synchronization</keyword>
+    <abstract>
+      <t>This document specifies a transport for the client-server and symmetric modes of the Network Time Protocol (NTP) that encapsulates NTP messages in messages of the Precision Time Protocol (PTP). This transport enables hardware timestamping in network interface controllers (NICs) that can timestamp only PTP messages and delay corrections in PTP transparent clocks.</t>
+    </abstract>
+  </front>
+</reference>
