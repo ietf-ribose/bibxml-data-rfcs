@@ -1,0 +1,26 @@
+<reference anchor="RFC10034" target="https://www.rfc-editor.org/info/rfc10034">
+  <front>
+    <title>RTP Payload Format for Visual Volumetric Video-Based Coding (V3C)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10034"/>
+    <seriesInfo name="RFC" value="10034"/>
+    <seriesInfo name="IETF"/>
+    <author initials="L." surname="Ilola" fullname="L. Ilola"/>
+    <author initials="L." surname="Kondrad" fullname="L. Kondrad"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Audio/Video Transport Core Maintenance</workgroup>
+    <keyword>volumetric video</keyword>
+    <keyword>V-PCC</keyword>
+    <keyword>MIV</keyword>
+    <keyword>point cloud</keyword>
+    <keyword>immersive</keyword>
+    <abstract>
+      <t>A visual volumetric video-based coding (V3C) ISO/IEC 23090-5 bitstream is composed of V3C units that contain V3C atlas sub-bitstreams, V3C video sub-bitstreams, and a V3C parameter set. This document describes an RTP payload format for V3C atlas sub-bitstreams. The RTP payload format for V3C video sub-bitstreams is defined by relevant IETF RFCs for the applicable video codec. The V3C RTP payload format allows for the packetization of one or more V3C atlas Network Abstraction Layer (NAL) units in an RTP packet payload as well as the fragmentation of a V3C atlas NAL unit into multiple RTP packets. The document also describes the mechanisms for grouping RTP streams of V3C component sub-bitstreams, providing a complete solution for streaming V3C-encoded content.</t>
+    </abstract>
+  </front>
+</reference>

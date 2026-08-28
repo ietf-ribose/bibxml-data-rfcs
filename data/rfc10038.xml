@@ -1,0 +1,33 @@
+<reference anchor="RFC10038" target="https://www.rfc-editor.org/info/rfc10038">
+  <front>
+    <title>Distributing the Segment Routing over IPv6 (SRv6) Locator Using DHCPv6</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10038"/>
+    <seriesInfo name="RFC" value="10038"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Cheng" fullname="W. Cheng" role="editor"/>
+    <author initials="R." surname="Han" fullname="R. Han"/>
+    <author initials="C." surname="Lin" fullname="C. Lin" role="editor"/>
+    <author initials="D." surname="Voyer" fullname="D. Voyer"/>
+    <author initials="G." surname="Zhang" fullname="G. Zhang"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Source Packet Routing in Networking</workgroup>
+    <keyword>SRv6 Locator</keyword>
+    <keyword>IA_SRV6_LOCATOR</keyword>
+    <keyword>OPTION_IA_SRV6_LOCATOR</keyword>
+    <keyword>OPTION_IALOCATOR</keyword>
+    <keyword>IA Locator</keyword>
+    <keyword>IA_PD</keyword>
+    <keyword>NoSRv6LocatorAvail</keyword>
+    <keyword>BRAS</keyword>
+    <keyword>CPE</keyword>
+    <abstract>
+      <t>In an SRv6 network, each SRv6 Segment Endpoint Node must be assigned an SRv6 Locator, and segment identifiers (SIDs) are generated within the address space of this SRv6 Locator. This document describes a method for assigning SRv6 Locators to SRv6 Segment Endpoint Nodes through the Dynamic Host Configuration Protocol for IPv6 (DHCPv6).</t>
+    </abstract>
+  </front>
+</reference>
