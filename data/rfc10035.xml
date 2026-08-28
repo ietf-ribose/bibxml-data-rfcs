@@ -1,0 +1,23 @@
+<reference anchor="RFC10035" target="https://www.rfc-editor.org/info/rfc10035">
+  <front>
+    <title>YANG Library: Addition of the augmented-by List</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10035"/>
+    <seriesInfo name="RFC" value="10035"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Z." surname="Lin" fullname="Z. Lin"/>
+    <author initials="B." surname="Claise" fullname="B. Claise"/>
+    <author initials="I. D." surname="Martinez-Casanueva" fullname="I. D. Martinez-Casanueva"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="August" year="2026"/>
+    <workgroup>Network Configuration</workgroup>
+    <abstract>
+      <t>"YANG Library" (RFC 8525) specifies the "ietf-yang-library" YANG module that provides information about the YANG modules, datastores, and datastore schemas used by a network management server.</t>
+      <t>This document augments the "ietf-yang-library" module to provide the augmented-by list. It facilitates the process of obtaining all dependencies between YANG modules by querying the network management server's YANG library. This document updates RFC 8525 to also include the augmented-by list.</t>
+    </abstract>
+  </front>
+</reference>
