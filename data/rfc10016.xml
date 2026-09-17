@@ -1,0 +1,24 @@
+<reference anchor="RFC10016" target="https://www.rfc-editor.org/info/rfc10016">
+  <front>
+    <title>System-Defined Configuration</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10016"/>
+    <seriesInfo name="RFC" value="10016"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Ma" fullname="Q. Ma" role="editor"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author initials="C." surname="Feng" fullname="C. Feng"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2026"/>
+    <workgroup>Network Modeling</workgroup>
+    <keyword>system config</keyword>
+    <abstract>
+      <t>The Network Management Datastore Architecture (NMDA) in RFC 8342 defines several configuration datastores holding configuration. The contents of these configuration datastores are controlled by clients. This document introduces the concept of a system configuration datastore holding configuration controlled by the system on which a server is running. The system configuration can be referenced (e.g., leafref) by configuration explicitly created by clients.</t>
+      <t>This document updates RFC 8342.</t>
+    </abstract>
+  </front>
+</reference>
