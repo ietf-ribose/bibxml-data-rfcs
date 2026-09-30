@@ -1,0 +1,26 @@
+<reference anchor="RFC10052" target="https://www.rfc-editor.org/info/rfc10052">
+  <front>
+    <title>Performance Measurement with Asymmetrical Traffic Using the Simple Two-Way Active Measurement Protocol (STAMP)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10052"/>
+    <seriesInfo name="RFC" value="10052"/>
+    <seriesInfo name="IETF"/>
+    <author initials="G." surname="Mirsky" fullname="G. Mirsky"/>
+    <author initials="E." surname="Ruffini" fullname="E. Ruffini"/>
+    <author initials="H." surname="Nydell" fullname="H. Nydell"/>
+    <author initials="R." surname="Foote" fullname="R. Foote"/>
+    <author initials="W." surname="Hawkins" fullname="W. Hawkins"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="September" year="2026"/>
+    <workgroup>IP Performance Measurement</workgroup>
+    <keyword>IPPM</keyword>
+    <keyword>Performance Measurement</keyword>
+    <abstract>
+      <t>This document defines an optional extension to the Simple Two-way Active Measurement Protocol (STAMP) that enables a Session-Reflector to send asymmetrical packets, that is, response packets whose size or quantity differs from those sent by the Session-Sender. While standard STAMP exchanges are symmetrical, certain measurement scenarios benefit from reflected packets of different lengths or additional responses to better approximate application traffic conditions. The extension specifies the Reflected Test Packet Control TLV and associated procedures, analyzes challenges in active performance measurement (including in multicast environments), and describes STAMP behaviors to improve measurement efficiency and reduce network impact.</t>
+    </abstract>
+  </front>
+</reference>
