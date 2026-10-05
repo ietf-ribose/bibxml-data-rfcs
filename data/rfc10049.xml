@@ -1,0 +1,24 @@
+<reference anchor="RFC10049" target="https://www.rfc-editor.org/info/rfc10049">
+  <front>
+    <title>Roughtime: A Protocol for Rough Time Synchronization</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10049"/>
+    <seriesInfo name="RFC" value="10049"/>
+    <seriesInfo name="IETF"/>
+    <author initials="W." surname="Ladd" fullname="W. Ladd"/>
+    <author initials="M." surname="Dansarie" fullname="M. Dansarie"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2026"/>
+    <workgroup>Network Time Protocols</workgroup>
+    <keyword>timing</keyword>
+    <keyword>authenticity</keyword>
+    <keyword>roughtime</keyword>
+    <abstract>
+      <t>This document describes Roughtime, an experimental protocol that aims to achieve two things: secure, rough time synchronization (even for clients without any idea of what time it is) and a format for clients to report any inconsistencies they observe between timeservers. This document specifies the on-wire protocol required for these goals and discusses aspects of the ecosystem needed for it to work.</t>
+    </abstract>
+  </front>
+</reference>
