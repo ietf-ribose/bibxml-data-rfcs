@@ -1,0 +1,38 @@
+<reference anchor="RFC10065" target="https://www.rfc-editor.org/info/rfc10065">
+  <front>
+    <title>A YANG Data Model and RADIUS Extension for Policy-Based Network Access Control</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10065"/>
+    <seriesInfo name="RFC" value="10065"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Q." surname="Ma" fullname="Q. Ma" role="editor"/>
+    <author initials="Q." surname="Wu" fullname="Q. Wu"/>
+    <author initials="M." surname="Boucadair" fullname="M. Boucadair" role="editor"/>
+    <author initials="D." surname="King" fullname="D. King"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="October" year="2026"/>
+    <workgroup>Operations and Management Area Working Group</workgroup>
+    <keyword>ACL</keyword>
+    <keyword>BYOD</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Policy Enforcement Point</keyword>
+    <keyword>PEP</keyword>
+    <keyword>Policy enforcement</keyword>
+    <keyword>Policy Decision Point</keyword>
+    <keyword>PDP</keyword>
+    <keyword>Network Management</keyword>
+    <keyword>Service Provisioning</keyword>
+    <keyword>Group-Based Policy</keyword>
+    <keyword>GBP</keyword>
+    <keyword>Software-Defined Networking</keyword>
+    <keyword>SDN</keyword>
+    <abstract>
+      <t>This document defines a YANG data model for policy-based network access control, which enables enforcement of network access control policies based on group identity. This YANG data model extends Access Control Lists (ACLs) with date and time parameters to support schedule-aware policy enforcement.</t>
+      <t>Specifically in scenarios where network access is triggered by user authentication, this document defines a mechanism that eases the maintenance of the mapping between a user group identifier and a set of packet header fields to enforce policy-based network access control. Moreover, this document defines a Remote Authentication Dial-in User Service (RADIUS) attribute that is used to communicate the user group identifier as part of identification and authorization information.</t>
+    </abstract>
+  </front>
+</reference>
