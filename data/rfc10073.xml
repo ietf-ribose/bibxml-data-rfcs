@@ -1,0 +1,27 @@
+<reference anchor="RFC10073" target="https://www.rfc-editor.org/info/rfc10073">
+  <front>
+    <title>Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for Use in X.509 Public Key Infrastructure</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10073"/>
+    <seriesInfo name="RFC" value="10073"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Ounsworth" fullname="M. Ounsworth"/>
+    <author initials="J." surname="Gray" fullname="J. Gray"/>
+    <author initials="M." surname="Pala" fullname="M. Pala"/>
+    <author initials="J." surname="Klau&#xDF;ner" fullname="J. Klau&#xDF;ner"/>
+    <author initials="S." surname="Fluhrer" fullname="S. Fluhrer"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>Limited Additional Mechanisms for PKIX and SMIME</workgroup>
+    <keyword>PQ/T hybrid</keyword>
+    <keyword>post-quantum</keyword>
+    <keyword>PKI</keyword>
+    <abstract>
+      <t>This document defines a PQ/T hybrid scheme with concrete instantiations that combine the US NIST Module-Lattice-Based Digital Signature Algorithm (ML-DSA) with traditional algorithms RSASSA-PKCS1-v1_5, RSASSA-PSS, ECDSA, Ed25519, and Ed448. These combinations are tailored to meet regulatory guidelines in certain regions. Composite ML-DSA is applicable in applications that use X.509 or PKIX data structures that accept ML-DSA, but where the operator wants extra protection against breaks or catastrophic bugs in ML-DSA and where the level of security provided by Existential Unforgeability under Chosen Message Attack (EUF-CMA) is acceptable.</t>
+    </abstract>
+  </front>
+</reference>
