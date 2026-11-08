@@ -1,0 +1,33 @@
+<reference anchor="RFC10069" target="https://www.rfc-editor.org/info/rfc10069">
+  <front>
+    <title>Managing Multiple Paths for a QUIC Connection</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10069"/>
+    <seriesInfo name="RFC" value="10069"/>
+    <seriesInfo name="IETF"/>
+    <author initials="Y." surname="Liu" fullname="Y. Liu" role="editor"/>
+    <author initials="Y." surname="Ma" fullname="Y. Ma"/>
+    <author initials="Q." surname="De Coninck" fullname="Q. De Coninck" role="editor"/>
+    <author initials="O." surname="Bonaventure" fullname="O. Bonaventure"/>
+    <author initials="C." surname="Huitema" fullname="C. Huitema"/>
+    <author initials="M." surname="K&#xFC;hlewind" fullname="M. K&#xFC;hlewind" role="editor"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>QUIC</workgroup>
+    <keyword>QUIC</keyword>
+    <keyword>multipath</keyword>
+    <keyword>transport protocol</keyword>
+    <abstract>
+      <t>This document specifies a multipath extension for the QUIC protocol
+   to enable the simultaneous usage of multiple paths for a single
+   connection.  It introduces explicit path identifiers to create,
+   delete, and manage multiple paths.  This document does not specify
+   address discovery or management, nor how applications using QUIC
+   schedule traffic over multiple paths.</t>
+    </abstract>
+  </front>
+</reference>

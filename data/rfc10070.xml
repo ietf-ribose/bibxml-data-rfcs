@@ -1,0 +1,28 @@
+<reference anchor="RFC10070" target="https://www.rfc-editor.org/info/rfc10070">
+  <front>
+    <title>Updates to OAuth 2.0 JSON Web Token (JWT) Client Authentication and Assertion-Based Authorization Grants</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10070"/>
+    <seriesInfo name="RFC" value="10070"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M.B." surname="Jones" fullname="M.B. Jones"/>
+    <author initials="B." surname="Campbell" fullname="B. Campbell"/>
+    <author initials="C." surname="Mortimore" fullname="C. Mortimore"/>
+    <author initials="F." surname="Skokan" fullname="F. Skokan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>Web Authorization Protocol</workgroup>
+    <keyword>OAuth</keyword>
+    <keyword>JWT</keyword>
+    <keyword>Assertion</keyword>
+    <keyword>Token</keyword>
+    <keyword>Security Token</keyword>
+    <abstract>
+      <t>This document updates RFCs 7521, 7522, 7523, and 9126 with respect to the treatment of audience values in OAuth 2.0 Client Assertion Authentication and Assertion-based Authorization Grants to address a security vulnerability identified in the previous requirements for those audience values in multiple OAuth 2.0 specifications.</t>
+    </abstract>
+  </front>
+</reference>
