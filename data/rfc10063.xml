@@ -1,0 +1,26 @@
+<reference anchor="RFC10063" target="https://www.rfc-editor.org/info/rfc10063">
+  <front>
+    <title>Near Real Time Mirroring (NRTM) Version 4</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10063"/>
+    <seriesInfo name="RFC" value="10063"/>
+    <seriesInfo name="IETF"/>
+    <author initials="S." surname="Romijn" fullname="S. Romijn"/>
+    <author initials="J." surname="Snijders" fullname="J. Snijders"/>
+    <author initials="E." surname="Shryane" fullname="E. Shryane"/>
+    <author initials="S." surname="Konstantaras" fullname="S. Konstantaras"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>Global Routing Operations</workgroup>
+    <keyword>NRTM</keyword>
+    <keyword>RPSL</keyword>
+    <keyword>IRR</keyword>
+    <abstract>
+      <t>This document specifies Near Real Time Mirroring version 4 (NRTMv4): a one-way synchronization protocol for Internet Routing Registry (IRR) records. NRTMv4 is based on files that are distributed over HTTPS. The protocol allows instances of IRR Database servers to mirror IRR records, specified in the Routing Policy Specification Language (RPSL), between each other.</t>
+    </abstract>
+  </front>
+</reference>
