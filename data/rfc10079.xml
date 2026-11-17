@@ -1,0 +1,23 @@
+<reference anchor="RFC10079" target="https://www.rfc-editor.org/info/rfc10079">
+  <front>
+    <title>Updates to the SFrame Cipher Suites Registry</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10079"/>
+    <seriesInfo name="RFC" value="10079"/>
+    <seriesInfo name="IETF"/>
+    <author initials="R." surname="Barnes" fullname="R. Barnes"/>
+    <author initials="E." surname="Omara" fullname="E. Omara"/>
+    <author initials="A." surname="Rosenberg" fullname="A. Rosenberg"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <keyword>SFrame</keyword>
+    <keyword>cryptography</keyword>
+    <abstract>
+      <t>This document addresses two omissions in the Secure Frame (SFrame) protocol specification. First, the definition of the IANA "SFrame Cipher Suites" registry in RFC 9605 omits several important fields. This document updates the IANA registry by adding those fields and defining the contents of those fields for current entries. Second, the Authenticated Encryption with Associated Data (AEAD) construction based on AES-CTR and HMAC is defined only for the 128-bit security level. This document registers parallel constructions at the 256-bit security level.</t>
+    </abstract>
+  </front>
+</reference>
