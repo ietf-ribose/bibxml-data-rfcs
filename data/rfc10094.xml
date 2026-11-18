@@ -1,0 +1,29 @@
+<reference anchor="RFC10094" target="https://www.rfc-editor.org/info/rfc10094">
+  <front>
+    <title>Clarifying Segment Routing over IPv6 (SRv6) Segment Identifier (SID) List Processing</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10094"/>
+    <seriesInfo name="RFC" value="10094"/>
+    <seriesInfo name="IETF"/>
+    <author initials="A." surname="Farrel" fullname="A. Farrel"/>
+    <author initials="S." surname="Krishnan" fullname="S. Krishnan"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>IPv6 Maintenance</workgroup>
+    <keyword>Segment Routing</keyword>
+    <keyword>SR</keyword>
+    <keyword>Segment Identifier</keyword>
+    <keyword>SID</keyword>
+    <keyword>IPv6</keyword>
+    <keyword>Segment Routing Header</keyword>
+    <keyword>SRH</keyword>
+    <abstract>
+      <t>Segment Routing over IPv6 (SRv6) is the instantiation of Segment Routing (SR) on the IPv6 data plane. Segments are indicated by Segment Identifiers (SIDs). SRv6 utilizes the Segment Routing Header (SRH), an IPv6 extension header that includes a SID list indicating the sequence of segments and any additional processing to be performed.</t>
+      <t>This document updates RFC 8754 by clarifying the processing of SID list entries. It does not change any elements of the SRv6 architecture.</t>
+    </abstract>
+  </front>
+</reference>
