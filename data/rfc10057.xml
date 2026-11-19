@@ -1,0 +1,32 @@
+<reference anchor="RFC10057" target="https://www.rfc-editor.org/info/rfc10057">
+  <front>
+    <title>A YANG Data Model for Traffic Engineering Tunnels, Label Switched Paths, and Interfaces</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10057"/>
+    <seriesInfo name="RFC" value="10057"/>
+    <seriesInfo name="IETF"/>
+    <author initials="T." surname="Saad" fullname="T. Saad"/>
+    <author initials="R." surname="Gandhi" fullname="R. Gandhi"/>
+    <author initials="X." surname="Liu" fullname="X. Liu"/>
+    <author initials="V. P." surname="Beeram" fullname="V. P. Beeram"/>
+    <author initials="I." surname="Bryskin" fullname="I. Bryskin"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>Traffic Engineering Architecture and Signaling</workgroup>
+    <keyword>YANG</keyword>
+    <keyword>Traffic Engineering</keyword>
+    <keyword>TE Tunnel</keyword>
+    <keyword>Label Switched Path</keyword>
+    <keyword>MPLS</keyword>
+    <keyword>RSVP-TE</keyword>
+    <keyword>Segment Routing</keyword>
+    <keyword>NETCONF</keyword>
+    <abstract>
+      <t>This document defines a YANG data model for the provisioning and management of Traffic Engineering (TE) tunnels, Label Switched Paths (LSPs), and interfaces. The model covers data pertinent to TE tunnels, TE LSPs, and TE interfaces that are independent of any technology or data plane encapsulation. The model is divided into two YANG modules that address both device-specific and device-independent data, supporting configuration, operational state, Remote Procedure Calls (RPCs), and event notifications.</t>
+    </abstract>
+  </front>
+</reference>

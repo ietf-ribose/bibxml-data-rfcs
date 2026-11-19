@@ -1,0 +1,26 @@
+<reference anchor="RFC10097" target="https://www.rfc-editor.org/info/rfc10097">
+  <front>
+    <title>Tiebreaking Resource Public Key Infrastructure (RPKI) Trust Anchors</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10097"/>
+    <seriesInfo name="RFC" value="10097"/>
+    <seriesInfo name="IETF"/>
+    <author initials="J." surname="Snijders" fullname="J. Snijders"/>
+    <author initials="T." surname="Buehler" fullname="T. Buehler"/>
+    <author initials="T." surname="de Kock" fullname="T. de Kock"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>SIDR Operations</workgroup>
+    <keyword>RPKI</keyword>
+    <keyword>Routing Security</keyword>
+    <keyword>BGP</keyword>
+    <keyword>X.509</keyword>
+    <abstract>
+      <t>A Trust Anchor (TA) in the Resource Public Key Infrastructure (RPKI) is represented by a self-signed X.509 Certification Authority (CA) certificate. Over time, Relying Parties (RPs) may have acquired multiple different issuances of valid TA certificates from the same TA operator. This document specifies a tiebreaking scheme to be used by RPs to select one TA certificate for certification path validation. This document updates RFC 8630.</t>
+    </abstract>
+  </front>
+</reference>

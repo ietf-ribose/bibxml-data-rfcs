@@ -1,0 +1,30 @@
+<reference anchor="RFC10021" target="https://www.rfc-editor.org/info/rfc10021">
+  <front>
+    <title>Group Object Security for Constrained RESTful Environments (Group OSCORE)</title>
+    <seriesInfo name="DOI" value="10.17487/RFC10021"/>
+    <seriesInfo name="RFC" value="10021"/>
+    <seriesInfo name="IETF"/>
+    <author initials="M." surname="Tiloca" fullname="M. Tiloca"/>
+    <author initials="G." surname="Selander" fullname="G. Selander"/>
+    <author initials="F." surname="Palombini" fullname="F. Palombini"/>
+    <author initials="J." surname="Preu&#xDF; Mattsson" fullname="J. Preu&#xDF; Mattsson"/>
+    <author initials="R." surname="H&#xF6;glund" fullname="R. H&#xF6;glund"/>
+    <author>
+      <organization>RFC Publisher</organization>
+    </author>
+    <author>
+      <organization>RFC Series</organization>
+    </author>
+    <date month="November" year="2026"/>
+    <workgroup>Constrained RESTful Environments</workgroup>
+    <keyword>Secure group communication</keyword>
+    <keyword>End-to-end security</keyword>
+    <keyword>IoT security</keyword>
+    <keyword>CoAP</keyword>
+    <keyword>Multicast</keyword>
+    <keyword>Constrained environments</keyword>
+    <abstract>
+      <t>This document defines the security protocol Group Object Security for Constrained RESTful Environments (Group OSCORE), providing end-to-end security of messages exchanged with the Constrained Application Protocol (CoAP) between members of a group, e.g., sent over IP multicast. In particular, Group OSCORE provides protection and source authentication for group requests sent from a client to multiple servers and for the corresponding responses. Group OSCORE also defines a pairwise mode where each member of the group can efficiently derive symmetric pairwise keys to use with another member of the group for pairwise-protected communication. Group OSCORE can be used between endpoints communicating with CoAP or CoAP-mappable HTTP.</t>
+    </abstract>
+  </front>
+</reference>
